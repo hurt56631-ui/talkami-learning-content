@@ -1,0 +1,97 @@
+name: Import basic Pinyin audio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/import-pinyin-basic.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-pinyin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout learning content
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout Pinyin source
+        uses: actions/checkout@v4
+        with:
+          repository: hurt56631-ui/bbsgo
+          ref: main
+          path: _pinyin_source
+          sparse-checkout: |
+            web/public/audio/pinyin
+          sparse-checkout-cone-mode: false
+
+      - name: Copy curated basic Pinyin audio
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf audio/pinyin
+          mkdir -p audio/pinyin
+          cp -a _pinyin_source/web/public/audio/pinyin/initials audio/pinyin/
+          cp -a _pinyin_source/web/public/audio/pinyin/finals audio/pinyin/
+          cp -a _pinyin_source/web/public/audio/pinyin/syllables audio/pinyin/
+          cp -a _pinyin_source/web/public/audio/pinyin/tones audio/pinyin/
+          python3 - <<'PY'
+          from pathlib import Path
+
+          root = Path('audio/pinyin')
+          extra = root / 'tones' / 'cìn.mp3'
+          if extra.exists():
+              extra.unlink()
+
+          expected = {
+              'initials': 23,
+              'finals': 24,
+              'syllables': 16,
+              'tones': 160,
+          }
+          actual = {}
+          for folder, count in expected.items():
+              files = sorted((root / folder).glob('*.mp3'))
+              actual[folder] = len(files)
+              if len(files) != count:
+                  raise SystemExit(f'{folder}: expected {count}, got {len(files)}')
+              if any(p.stat().st_size <= 0 for p in files):
+                  raise SystemExit(f'{folder}: empty mp3 found')
+
+          total = sum(actual.values())
+          if total != 223:
+              raise SystemExit(f'expected 223 mp3 files, got {total}')
+
+          readme = root / 'README.md'
+          readme.write_text(
+              '# Talkami basic Pinyin audio\n\n'
+              'Source: `hurt56631-ui/bbsgo/web/public/audio/pinyin`.\n\n'
+              '- initials: 23\n'
+              '- finals: 24\n'
+              '- syllables: 16\n'
+              '- tones: 160\n'
+              '- total: 223 MP3 files\n\n'
+              'The stray source file `tones/cìn.mp3` is intentionally excluded because it is not part of the published Pinyin data list.\n',
+              encoding='utf-8',
+          )
+          print(actual, 'total=', total)
+          PY
+          rm -rf _pinyin_source
+
+      - name: Commit imported audio
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- audio/pinyin && [ -z "$(git status --porcelain -- audio/pinyin)" ]; then
+            echo "Pinyin audio is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/pinyin
+          git commit -m "Add basic Pinyin pronunciation audio"
+          git push origin HEAD:main
