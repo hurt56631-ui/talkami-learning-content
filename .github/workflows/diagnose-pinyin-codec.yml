@@ -1,0 +1,66 @@
+name: Diagnose Pinyin Audio
+
+on:
+  push:
+    paths:
+      - '.github/workflows/diagnose-pinyin-codec.yml'
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inspect all pinyin audio
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo '=== file count ==='
+          find audio/pinyin -type f -name '*.mp3' | wc -l
+          echo '=== ffprobe summary ==='
+          python3 - <<'PY'
+          import subprocess, pathlib, json, collections
+          files=sorted(pathlib.Path('audio/pinyin').rglob('*.mp3'))
+          bad=[]
+          codecs=collections.Counter()
+          rates=collections.Counter()
+          channels=collections.Counter()
+          formats=collections.Counter()
+          for p in files:
+              cmd=['ffprobe','-v','error','-show_entries','format=format_name:stream=codec_name,codec_type,sample_rate,channels','-of','json',str(p)]
+              r=subprocess.run(cmd, text=True, capture_output=True)
+              if r.returncode:
+                  bad.append((str(p), r.stderr.strip()))
+                  continue
+              try:
+                  data=json.loads(r.stdout)
+              except Exception as e:
+                  bad.append((str(p), f'json:{e} out={r.stdout[:120]}'))
+                  continue
+              formats[data.get('format',{}).get('format_name','?')]+=1
+              audio=[s for s in data.get('streams',[]) if s.get('codec_type')=='audio']
+              if not audio:
+                  bad.append((str(p),'no audio stream'))
+                  continue
+              s=audio[0]
+              codecs[s.get('codec_name','?')]+=1
+              rates[s.get('sample_rate','?')]+=1
+              channels[str(s.get('channels','?'))]+=1
+          print('FILES',len(files))
+          print('FORMATS',dict(formats))
+          print('CODECS',dict(codecs))
+          print('SAMPLE_RATES',dict(rates))
+          print('CHANNELS',dict(channels))
+          print('BAD_COUNT',len(bad))
+          for p,e in bad:
+              print('BAD',p,'::',e)
+          print('=== first bytes / file command for representative files ===')
+          reps=['audio/pinyin/initials/b.mp3','audio/pinyin/finals/ü.mp3','audio/pinyin/tones/ǎ.mp3','audio/pinyin/tones/ǚn.mp3']
+          for f in reps:
+              p=pathlib.Path(f)
+              if not p.exists():
+                  print('MISSING_REP',f); continue
+              print('REP',f,'size',p.stat().st_size,'head',p.read_bytes()[:16].hex())
+              rr=subprocess.run(['file','-b',f],text=True,capture_output=True)
+              print('FILE',rr.stdout.strip())
+          PY
