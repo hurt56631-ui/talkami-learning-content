@@ -1,0 +1,150 @@
+name: Publish basic Pinyin audio
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/publish-pinyin-basic.yml
+      - audio/pinyin/**
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pinyin-basic-release
+  cancel-in-progress: false
+
+jobs:
+  package-release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Build ZIP and manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf dist-pinyin-basic
+          mkdir -p dist-pinyin-basic
+          python3 - <<'PY'
+          from pathlib import Path
+          from urllib.parse import quote
+          import hashlib
+          import json
+          import os
+          import zipfile
+
+          root = Path('audio/pinyin')
+          out = Path('dist-pinyin-basic')
+          tag = 'pinyin-basic-v1'
+          zip_name = 'pinyin-basic-v1.zip'
+          manifest_name = 'pinyin-basic-manifest-v1.json'
+          expected = {
+              'initials': 23,
+              'finals': 24,
+              'syllables': 16,
+              'tones': 160,
+          }
+
+          def sha256_file(path: Path) -> str:
+              h = hashlib.sha256()
+              with path.open('rb') as fp:
+                  for block in iter(lambda: fp.read(1024 * 1024), b''):
+                      h.update(block)
+              return h.hexdigest()
+
+          items = []
+          total_source_bytes = 0
+          zip_path = out / zip_name
+          with zipfile.ZipFile(zip_path, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
+              for group, expected_count in expected.items():
+                  folder = root / group
+                  files = sorted(folder.glob('*.mp3'), key=lambda p: p.name)
+                  if len(files) != expected_count:
+                      raise SystemExit(f'{group}: expected {expected_count}, got {len(files)}')
+                  for file in files:
+                      size = file.stat().st_size
+                      if size <= 0:
+                          raise SystemExit(f'empty audio file: {file}')
+                      archive_path = f'{group}/{file.name}'
+                      archive.write(file, archive_path)
+                      source_path = f'audio/pinyin/{group}/{file.name}'
+                      total_source_bytes += size
+                      items.append({
+                          'id': f'{group}:{file.stem}',
+                          'group': group,
+                          'label': file.stem,
+                          'name': file.name,
+                          'path': archive_path,
+                          'size': size,
+                          'sha256': sha256_file(file),
+                          'stream_url': 'https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/' + quote(source_path, safe='/'),
+                      })
+
+          if len(items) != 223:
+              raise SystemExit(f'expected 223 audio files, got {len(items)}')
+
+          zip_size = zip_path.stat().st_size
+          manifest = {
+              'schema_version': 1,
+              'ready': True,
+              'kind': 'talkami-basic-pinyin-audio',
+              'content_version': os.environ.get('GITHUB_SHA', '')[:12] or '1',
+              'repository': 'hurt56631-ui/talkami-learning-content',
+              'release_tag': tag,
+              'recommended_client_storage': 'indexeddb',
+              'resume_unit': 'file',
+              'groups': expected,
+              'total_items': len(items),
+              'total_source_bytes': total_source_bytes,
+              'package': {
+                  'id': 'basic-pinyin-v1',
+                  'file': zip_name,
+                  'size': zip_size,
+                  'sha256': sha256_file(zip_path),
+                  'download_url': f'https://github.com/hurt56631-ui/talkami-learning-content/releases/download/{tag}/{zip_name}',
+              },
+              'items': items,
+          }
+          (out / manifest_name).write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print(f"Built {len(items)} files, source={total_source_bytes} bytes, zip={zip_size} bytes")
+          PY
+
+      - name: Verify package
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          import zipfile
+          from pathlib import Path
+
+          manifest = json.loads(Path('dist-pinyin-basic/pinyin-basic-manifest-v1.json').read_text(encoding='utf-8'))
+          with zipfile.ZipFile('dist-pinyin-basic/pinyin-basic-v1.zip', 'r') as archive:
+              names = set(archive.namelist())
+          missing = [item['path'] for item in manifest['items'] if item['path'] not in names]
+          if missing:
+              raise SystemExit('ZIP missing files: ' + ', '.join(missing[:10]))
+          if len(names) != 223:
+              raise SystemExit(f'ZIP expected 223 entries, got {len(names)}')
+          PY
+
+      - name: Publish stable Release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          TAG='pinyin-basic-v1'
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            gh release create "$TAG" --target "$GITHUB_SHA" --title 'Talkami basic Pinyin audio v1' --notes '223 MP3 files for 声母、韵母、整体认读和声调. For basic Pinyin only; the 1338-file syllable-reading library remains separate.'
+          fi
+          gh release upload "$TAG" \
+            dist-pinyin-basic/pinyin-basic-v1.zip \
+            dist-pinyin-basic/pinyin-basic-manifest-v1.json \
+            --clobber
