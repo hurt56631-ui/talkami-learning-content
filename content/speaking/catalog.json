@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": 2,
-  "updated_at": "2026-08-05T12:00:00Z",
+  "version": 3,
+  "updated_at": "2026-09-19T00:00:00Z",
   "type": "speaking",
   "title": "口语短句",
   "subtitle": "按场景下载到本地，支持断网继续学习。",
@@ -23,9 +23,13 @@
           "data_version": 1,
           "data_sha256": "",
           "item_count": 15,
-          "source_data": "content/speaking/packs/speak_daily_v1.json"
+          "source_data": "content/speaking/packs/speak_daily_v1.json",
+          "title_my": "နေ့စဉ် ဆက်သွယ်မှု",
+          "subtitle_my": "နှုတ်ဆက်ခြင်းနှင့် အခြေခံစကားပြော ဝါကျတို 15 ကြောင်း"
         }
-      ]
+      ],
+      "title_my": "အခြေခံ ဆက်သွယ်မှု",
+      "subtitle_my": "နှုတ်ဆက်ခြင်း၊ မိတ်ဆက်ခြင်းနှင့် အခြေခံ ဆက်သွယ်မှု"
     },
     {
       "id": "speaking_travel",
@@ -44,7 +48,9 @@
           "data_version": 2,
           "data_sha256": "",
           "item_count": 20,
-          "source_data": "content/speaking/packs/speak_directions_v2.json"
+          "source_data": "content/speaking/packs/speak_directions_v2.json",
+          "title_my": "ခရီးသွား လမ်းမေး",
+          "subtitle_my": "ယာဉ်နှင့် လမ်းညွှန် ဝါကျတို 20 ကြောင်း"
         },
         {
           "id": "speak_hotel",
@@ -57,9 +63,13 @@
           "data_version": 1,
           "data_sha256": "",
           "item_count": 12,
-          "source_data": "content/speaking/packs/speak_hotel_v1.json"
+          "source_data": "content/speaking/packs/speak_hotel_v1.json",
+          "title_my": "ဟိုတယ် တည်းခို",
+          "subtitle_my": "ကြိုတင်ဘွတ်ကင်နှင့် အခန်း ဝါကျတို 12 ကြောင်း"
         }
-      ]
+      ],
+      "title_my": "ခရီးသွား",
+      "subtitle_my": "လမ်းမေးခြင်း၊ သယ်ယူပို့ဆောင်ရေးနှင့် ဟိုတယ်"
     },
     {
       "id": "speaking_life",
@@ -78,7 +88,9 @@
           "data_version": 1,
           "data_sha256": "",
           "item_count": 12,
-          "source_data": "content/speaking/packs/speak_restaurant_v1.json"
+          "source_data": "content/speaking/packs/speak_restaurant_v1.json",
+          "title_my": "စားသောက်ဆိုင် အော်ဒါ",
+          "subtitle_my": "အော်ဒါနှင့် ငွေရှင်း ဝါကျတို 12 ကြောင်း"
         },
         {
           "id": "speak_shopping",
@@ -91,7 +103,9 @@
           "data_version": 1,
           "data_sha256": "",
           "item_count": 12,
-          "source_data": "content/speaking/packs/speak_shopping_v1.json"
+          "source_data": "content/speaking/packs/speak_shopping_v1.json",
+          "title_my": "စျေးဝယ် ငွေပေးချေ",
+          "subtitle_my": "စျေးနှုန်းနှင့် ငွေပေးချေ ဝါကျတို 12 ကြောင်း"
         },
         {
           "id": "speak_emergency",
@@ -104,9 +118,13 @@
           "data_version": 1,
           "data_sha256": "",
           "item_count": 10,
-          "source_data": "content/speaking/packs/speak_emergency_v1.json"
+          "source_data": "content/speaking/packs/speak_emergency_v1.json",
+          "title_my": "အရေးပေါ် အကူအညီ",
+          "subtitle_my": "ရဲနှင့် ဆေးဘက်အကူအညီ ဝါကျတို 10 ကြောင်း"
         }
-      ]
+      ],
+      "title_my": "နေ့စဉ် ဝန်ဆောင်မှု",
+      "subtitle_my": "စားသောက်၊ စျေးဝယ်နှင့် အရေးပေါ်အကူအညီ"
     }
   ]
 }
