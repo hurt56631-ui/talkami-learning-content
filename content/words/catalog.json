@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": 3,
-  "updated_at": "2026-08-29T00:00:00Z",
+  "version": 4,
+  "updated_at": "2026-09-19T00:00:00Z",
   "type": "words",
   "title": "单词库",
   "subtitle": "基础、旅行、餐饮和工作场景词汇；目录在线更新，数据下载后本地使用。",
@@ -21,7 +21,9 @@
       "data_sha256": "",
       "item_count": 150,
       "source_cover": "content/words/covers/hsk1.webp",
-      "source_data": "content/words/packs/hsk1.json"
+      "source_data": "content/words/packs/hsk1.json",
+      "title_my": "HSK1",
+      "subtitle_my": "HSK1 အခြေခံ စကားလုံး 150 ခု"
     },
     {
       "id": "travel_words",
@@ -38,7 +40,9 @@
       "data_sha256": "",
       "item_count": 150,
       "source_cover": "content/words/covers/hsk2.webp",
-      "source_data": "content/words/packs/hsk2.json"
+      "source_data": "content/words/packs/hsk2.json",
+      "title_my": "HSK2",
+      "subtitle_my": "HSK2 အခြေခံ စကားလုံး 150 ခု"
     },
     {
       "id": "hsk3_words",
@@ -55,7 +59,9 @@
       "data_sha256": "",
       "item_count": 300,
       "source_cover": "content/words/covers/hsk3.webp",
-      "source_data": "content/words/packs/hsk3.json"
+      "source_data": "content/words/packs/hsk3.json",
+      "title_my": "HSK3",
+      "subtitle_my": "HSK3 အခြေခံ စကားလုံး 300 ခု"
     },
     {
       "id": "work_words",
@@ -72,7 +78,9 @@
       "data_sha256": "",
       "item_count": 15,
       "source_cover": "content/words/covers/work_words_v1.webp",
-      "source_data": "content/words/packs/work_words_v1.json"
+      "source_data": "content/words/packs/work_words_v1.json",
+      "title_my": "အလုပ်နှင့် ရုံး",
+      "subtitle_my": "ရုံးနှင့် အလုပ်ခွင်တွင် အသုံးများသော စကားလုံးများ"
     }
   ]
 }
