@@ -28,3 +28,19 @@
 **注意：新增新书元数据会自动出现在授权后台，但不会自动获得一个兼容的网页目录/ZIP阅读器。** 完整上架还需要对应的前端通用书籍加载器和数据包标准。
 
 App 的其它单词/口语数据继续使用各自 `content/words`、`content/speaking` 等目录，普通 PDF 的 `content/books` 也不受影响。
+
+
+## 生活与工作中文口语大全 · 综合教材 v1
+
+- 书籍 ID：`talkami_spoken_60`（保持不变）
+- 分类：10 个学习专区、60 个主题位置（未提供完整母本的主题显示待补）
+- 已完整：32 个主题、122 个小课、2,140 条主句
+- 免费：01—05 主题，共 307 句，位于 `talkami_spoken_60/free/`
+- 付费权益：`talkami_spoken_60`、`books_all`、`learning_bundle`，其余 27 个完整主题共 1,833 句
+- 完整公开 ZIP：`talkami_spoken_60/book_latest.zip`
+- 目录：`talkami_spoken_60/web_catalog.json`
+- 书籍封面：`covers/talkami_spoken_60.svg`
+
+本书与服装厂一样选择 **GitHub 公开发行 ZIP**：站内登录、激活码、VIP 可限制 Talkami 内部付费阅读和下载接口，但不能阻止从 GitHub 直接获得完整 ZIP。上传同一书的新版本时，同步更新本目录的大小、SHA-256 和版本号。当前服务器逐项校验 ZIP 内 32 个主题及每个主题的短句数量，未来新增主题需要更新后端白名单。
+
+原始短句内容仍需补齐主句拼音、缅语谐音和句子拆解，并接受母语校对；数据校验通过不代表人工语言终审完成。
