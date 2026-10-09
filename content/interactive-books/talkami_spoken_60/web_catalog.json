@@ -1,0 +1,1516 @@
+{
+  "version": 1,
+  "id": "talkami_spoken_60",
+  "title": "在中国生活与工作 · 实用中文口语",
+  "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
+  "item_count": 2140,
+  "free_count": 307,
+  "free_theme_ids": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
+  ],
+  "data_format": "gzip+array-v1",
+  "zones": [
+    {
+      "zone_id": 0,
+      "title": "基础沟通",
+      "themes": [
+        {
+          "theme_id": "01",
+          "title": "问候寒暄",
+          "title_my": "01 နှုတ်ဆက်ခြင်းနှင့် စကားစမြည်",
+          "status": "available",
+          "free": true,
+          "phrase_count": 73,
+          "lessons": [
+            {
+              "id": "01.1",
+              "title": "01.1 日常打招呼",
+              "title_my": "01.1 နေ့စဉ်နှုတ်ဆက်ခြင်း",
+              "count": 21
+            },
+            {
+              "id": "01.2",
+              "title": "01.2 熟人寒暄",
+              "title_my": "01.2 ရင်းနှီးသူနဲ့ စကားစမြည်",
+              "count": 15
+            },
+            {
+              "id": "01.3",
+              "title": "01.3 关心近况",
+              "title_my": "01.3 အခြေအနေ ဂရုစိုက်မေးမြန်းခြင်း",
+              "count": 23
+            },
+            {
+              "id": "01.4",
+              "title": "01.4 告别祝愿",
+              "title_my": "01.4 နှုတ်ဆက်ခြင်းနှင့် ဂရုစိုက်စကား",
+              "count": 14
+            }
+          ],
+          "data_path": "free/01.json.gz.b64",
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "02",
+          "title": "感谢道歉",
+          "title_my": "02 ကျေးဇူးတင်ခြင်းနှင့် တောင်းပန်ခြင်း",
+          "status": "available",
+          "free": true,
+          "phrase_count": 55,
+          "lessons": [
+            {
+              "id": "02.1",
+              "title": "02.1 感谢与回应",
+              "title_my": "02.1 ကျေးဇူးတင်ခြင်းနှင့် ပြန်လည်တုံ့ပြန်ခြင်း",
+              "count": 20
+            },
+            {
+              "id": "02.2",
+              "title": "02.2 表达歉意",
+              "title_my": "02.2 တောင်းပန်ခြင်း",
+              "count": 18
+            },
+            {
+              "id": "02.3",
+              "title": "02.3 打扰与客气开口",
+              "title_my": "02.3 ယဉ်ကျေးစွာ စကားစခြင်း",
+              "count": 17
+            }
+          ],
+          "data_path": "free/02.json.gz.b64",
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "03",
+          "title": "听懂回应",
+          "title_my": "03 နားလည်ခြင်းနှင့် ပြန်လည်တုံ့ပြန်ခြင်း",
+          "status": "available",
+          "free": true,
+          "phrase_count": 55,
+          "lessons": [
+            {
+              "id": "03.1",
+              "title": "03.1 表示听懂",
+              "title_my": "03.1 နားလည်ကြောင်း ပြန်ပြောခြင်း",
+              "count": 18
+            },
+            {
+              "id": "03.2",
+              "title": "03.2 没听懂与请求重复",
+              "title_my": "03.2 နားမလည်ခြင်းနှင့် ထပ်ပြောခိုင်းခြင်း",
+              "count": 17
+            },
+            {
+              "id": "03.3",
+              "title": "03.3 请求放慢、解释和展示",
+              "title_my": "03.3 ဖြည်းပြောခိုင်းခြင်း၊ ရှင်းပြခိုင်းခြင်းနှင့် ပြသခိုင်းခြင်း",
+              "count": 20
+            }
+          ],
+          "data_path": "free/03.json.gz.b64",
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "04",
+          "title": "提问确认",
+          "title_my": "04 မေးမြန်းခြင်းနှင့် အတည်ပြုခြင်း",
+          "status": "available",
+          "free": true,
+          "phrase_count": 73,
+          "lessons": [
+            {
+              "id": "04.1",
+              "title": "04.1 问名称和用途",
+              "title_my": "04.1 နာမည်နှင့် အသုံးပြုပုံ မေးခြင်း",
+              "count": 15
+            },
+            {
+              "id": "04.2",
+              "title": "04.2 问地点",
+              "title_my": "04.2 နေရာ မေးခြင်း",
+              "count": 24
+            },
+            {
+              "id": "04.3",
+              "title": "04.3 问人物、负责人和归属",
+              "title_my": "04.3 လူ၊ တာဝန်ရှိသူနှင့် ပိုင်ဆိုင်မှု မေးခြင်း",
+              "count": 17
+            },
+            {
+              "id": "04.4",
+              "title": "04.4 确认事实和信息",
+              "title_my": "04.4 အချက်အလက်နှင့် အခြေအနေ အတည်ပြုခြင်း",
+              "count": 17
+            }
+          ],
+          "data_path": "free/04.json.gz.b64",
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "05",
+          "title": "请求帮助",
+          "title_my": "05 အကူအညီတောင်းခြင်း",
+          "status": "available",
+          "free": true,
+          "phrase_count": 51,
+          "lessons": [
+            {
+              "id": "05.1",
+              "title": "05.1 请求帮忙",
+              "title_my": "05.1 အကူအညီတောင်းခြင်း",
+              "count": 17
+            },
+            {
+              "id": "05.2",
+              "title": "05.2 请求示范操作",
+              "title_my": "05.2 လုပ်နည်းပြသပေးရန် တောင်းခြင်း",
+              "count": 18
+            },
+            {
+              "id": "05.3",
+              "title": "05.3 请求带路、带我过去",
+              "title_my": "05.3 လမ်းပြခေါ်သွားပေးရန် တောင်းခြင်း",
+              "count": 16
+            }
+          ],
+          "data_path": "free/05.json.gz.b64",
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "06",
+          "title": "同意拒绝",
+          "title_my": "06 သဘောတူခြင်းနှင့် ငြင်းခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 65,
+          "lessons": [
+            {
+              "id": "06.1",
+              "title": "06.1 同意答应",
+              "title_my": "06.1 သဘောတူခြင်းနှင့် လက်ခံခြင်း",
+              "count": 17
+            },
+            {
+              "id": "06.2",
+              "title": "06.2 不太同意",
+              "title_my": "06.2 နည်းနည်း သဘောမတူခြင်း",
+              "count": 16
+            },
+            {
+              "id": "06.3",
+              "title": "06.3 直接拒绝",
+              "title_my": "06.3 တိုက်ရိုက်ငြင်းခြင်း",
+              "count": 15
+            },
+            {
+              "id": "06.4",
+              "title": "06.4 委婉拒绝与替代",
+              "title_my": "06.4 ယဉ်ကျေးစွာ ငြင်းပြီး အစားထိုးနည်းပေးခြင်း",
+              "count": 17
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "07",
+          "title": "观点评价",
+          "title_my": "အမြင်နှင့် အကဲဖြတ်ခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "08",
+          "title": "原因结果",
+          "title_my": "အကြောင်းရင်းနှင့် ရလဒ်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "09",
+          "title": "计划决定",
+          "title_my": "အစီအစဉ်နှင့် ဆုံးဖြတ်ချက်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "10",
+          "title": "时间数量",
+          "title_my": "အချိန်နှင့် အရေအတွက်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        }
+      ],
+      "title_my": "အခြေခံဆက်သွယ်မှု"
+    },
+    {
+      "zone_id": 1,
+      "title": "日常交往",
+      "themes": [
+        {
+          "theme_id": "11",
+          "title": "个人信息",
+          "title_my": "ကိုယ်ရေးအချက်အလက်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "12",
+          "title": "家庭朋友",
+          "title_my": "မိသားစုနှင့် သူငယ်ချင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "13",
+          "title": "约时间见面",
+          "title_my": "13 ချိန်းဆိုပြီး တွေ့ဆုံခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 73,
+          "lessons": [
+            {
+              "id": "13.1",
+              "title": "13.1 邀请并商量时间",
+              "title_my": "13.1 ဖိတ်ခေါ်ခြင်းနှင့် အချိန်ညှိခြင်း",
+              "count": 18
+            },
+            {
+              "id": "13.2",
+              "title": "13.2 约定地点",
+              "title_my": "13.2 တွေ့မည့်နေရာ သတ်မှတ်ခြင်း",
+              "count": 17
+            },
+            {
+              "id": "13.3",
+              "title": "13.3 见面前确认",
+              "title_my": "13.3 မတွေ့ခင် အတည်ပြုခြင်း",
+              "count": 17
+            },
+            {
+              "id": "13.4",
+              "title": "13.4 到达碰面和接送",
+              "title_my": "13.4 ရောက်ရှိတွေ့ဆုံခြင်းနှင့် ကြို/ပို့ခြင်း",
+              "count": 21
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "14",
+          "title": "等人改约",
+          "title_my": "14 စောင့်ဆိုင်းခြင်းနှင့် ချိန်းဆိုမှု ပြောင်းခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 66,
+          "lessons": [
+            {
+              "id": "14.1",
+              "title": "14.1 询问到哪儿",
+              "title_my": "14.1 ဘယ်နေရာရောက်ပြီလဲ မေးခြင်း",
+              "count": 18
+            },
+            {
+              "id": "14.2",
+              "title": "14.2 迟到说明",
+              "title_my": "14.2 နောက်ကျရခြင်း ရှင်းပြခြင်း",
+              "count": 15
+            },
+            {
+              "id": "14.3",
+              "title": "14.3 修改时间",
+              "title_my": "14.3 အချိန်ပြောင်းခြင်း",
+              "count": 19
+            },
+            {
+              "id": "14.4",
+              "title": "14.4 取消改天",
+              "title_my": "14.4 ပယ်ဖျက်ပြီး နောက်ရက်ပြန်ချိန်းခြင်း",
+              "count": 14
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "15",
+          "title": "找东西",
+          "title_my": "15 ပစ္စည်းရှာဖွေခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 72,
+          "lessons": [
+            {
+              "id": "15.1",
+              "title": "15.1 询问物品位置",
+              "title_my": "15.1 ပစ္စည်းဘယ်မှာရှိလဲ မေးခြင်း",
+              "count": 17
+            },
+            {
+              "id": "15.2",
+              "title": "15.2 丢失遗忘",
+              "title_my": "15.2 ပျောက်ဆုံးခြင်းနှင့် မေ့ကျန်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "15.3",
+              "title": "15.3 询问是否看见或拿过",
+              "title_my": "15.3 တွေ့မိလား၊ ယူထားလား မေးခြင်း",
+              "count": 17
+            },
+            {
+              "id": "15.4",
+              "title": "15.4 失物招领",
+              "title_my": "15.4 ပျောက်ပစ္စည်း တိုင်ကြားခြင်းနှင့် ပြန်ယူခြင်း",
+              "count": 19
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "16",
+          "title": "借还拿放",
+          "title_my": "16 ငှားခြင်း၊ ပြန်ပေးခြင်း၊ ယူခြင်းနှင့် ထားခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 74,
+          "lessons": [
+            {
+              "id": "16.1",
+              "title": "16.1 借东西",
+              "title_my": "16.1 ပစ္စည်းခဏငှားခြင်း",
+              "count": 18
+            },
+            {
+              "id": "16.2",
+              "title": "16.2 归还物品",
+              "title_my": "16.2 ပစ္စည်းပြန်ပေးခြင်း",
+              "count": 19
+            },
+            {
+              "id": "16.3",
+              "title": "16.3 拿递物品",
+              "title_my": "16.3 ပစ္စည်းယူ၊ ကမ်း၊ သယ်ခြင်း",
+              "count": 17
+            },
+            {
+              "id": "16.4",
+              "title": "16.4 放置收纳",
+              "title_my": "16.4 ပစ္စည်းထားသိုခြင်း",
+              "count": 20
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        }
+      ],
+      "title_my": "နေ့စဉ်ဆက်ဆံရေး"
+    },
+    {
+      "zone_id": 2,
+      "title": "居家生活",
+      "themes": [
+        {
+          "theme_id": "17",
+          "title": "起居作息",
+          "title_my": "17 နေ့စဉ်နေထိုင်မှုပုံစံ",
+          "status": "available",
+          "free": false,
+          "phrase_count": 64,
+          "lessons": [
+            {
+              "id": "17.1",
+              "title": "17.1 起床睡觉",
+              "title_my": "17.1 အိပ်ရာထခြင်းနှင့် အိပ်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "17.2",
+              "title": "17.2 洗漱洗澡",
+              "title_my": "17.2 မျက်နှာသစ်၊ ရေချိုးခြင်း",
+              "count": 20
+            },
+            {
+              "id": "17.3",
+              "title": "17.3 天气与穿衣",
+              "title_my": "17.3 ရာသီဥတုနှင့် အဝတ်အစား",
+              "count": 19
+            },
+            {
+              "id": "17.4",
+              "title": "17.4 日常休息",
+              "title_my": "17.4 နေ့စဉ် အနားယူခြင်း",
+              "count": 6
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "18",
+          "title": "家务做饭",
+          "title_my": "18 အိမ်မှုကိစ္စနှင့် ဟင်းချက်ခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 93,
+          "lessons": [
+            {
+              "id": "18.1",
+              "title": "18.1 打扫房间",
+              "title_my": "18.1 အခန်းသန့်ရှင်းရေး",
+              "count": 19
+            },
+            {
+              "id": "18.2",
+              "title": "18.2 洗衣晾衣",
+              "title_my": "18.2 အဝတ်လျှော်၊ အဝတ်လှန်းခြင်း",
+              "count": 19
+            },
+            {
+              "id": "18.3",
+              "title": "18.3 做饭备菜",
+              "title_my": "18.3 ဟင်းချက်နှင့် အစားအစာပြင်ဆင်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "18.4",
+              "title": "18.4 洗碗和收拾厨房",
+              "title_my": "18.4 ပန်းကန်ဆေးနှင့် မီးဖိုခန်းရှင်းခြင်း",
+              "count": 20
+            },
+            {
+              "id": "18.5",
+              "title": "18.5 收纳整理",
+              "title_my": "18.5 အခန်းစီစဉ်သိမ်းဆည်းခြင်း",
+              "count": 16
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "19",
+          "title": "楼宇出入与公共设施",
+          "title_my": "19 အဆောက်အဦ ဝင်ထွက်ခြင်းနှင့် အများသုံးပစ္စည်းများ",
+          "status": "available",
+          "free": false,
+          "phrase_count": 77,
+          "lessons": [
+            {
+              "id": "19.1",
+              "title": "19.1 门锁钥匙",
+              "title_my": "19.1 တံခါးသော့နှင့် သော့",
+              "count": 20
+            },
+            {
+              "id": "19.2",
+              "title": "19.2 门禁进出",
+              "title_my": "19.2 ဝင်ထွက်ခွင့်နှင့် တံခါးကတ်",
+              "count": 20
+            },
+            {
+              "id": "19.3",
+              "title": "19.3 电梯楼层与楼栋",
+              "title_my": "19.3 ဓာတ်လှေကား၊ အထပ်နှင့် အဆောက်အဦ",
+              "count": 19
+            },
+            {
+              "id": "19.4",
+              "title": "19.4 公共卫生间",
+              "title_my": "19.4 အများသုံးအိမ်သာ",
+              "count": 18
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "20",
+          "title": "水电空调与家电故障",
+          "title_my": "20 ရေ၊ မီး၊ အဲကွန်းနှင့် အိမ်သုံးလျှပ်စစ်ပစ္စည်း ချို့ယွင်းမှု",
+          "status": "available",
+          "free": false,
+          "phrase_count": 62,
+          "lessons": [
+            {
+              "id": "20.1",
+              "title": "20.1 空调温度",
+              "title_my": "20.1 အဲကွန်းနှင့် အပူချိန်",
+              "count": 21
+            },
+            {
+              "id": "20.2",
+              "title": "20.2 停水停电",
+              "title_my": "20.2 ရေ/မီးပြတ်ခြင်း",
+              "count": 21
+            },
+            {
+              "id": "20.3",
+              "title": "20.3 家电故障",
+              "title_my": "20.3 အိမ်သုံးလျှပ်စစ်ပစ္စည်း ချို့ယွင်းမှု",
+              "count": 20
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "47",
+          "title": "租房搬家",
+          "title_my": "47 အိမ်ငှားခြင်းနှင့် အိမ်ပြောင်းခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 77,
+          "lessons": [
+            {
+              "id": "47.1",
+              "title": "47.1 找房看房",
+              "title_my": "47.1 အိမ်ရှာခြင်းနှင့် အိမ်ကြည့်ခြင်း",
+              "count": 21
+            },
+            {
+              "id": "47.2",
+              "title": "47.2 房租押金与费用",
+              "title_my": "47.2 အိမ်လခ၊ စပေါ်ငွေနှင့် ကုန်ကျစရိတ်",
+              "count": 20
+            },
+            {
+              "id": "47.3",
+              "title": "47.3 合同入住与住宿登记",
+              "title_my": "47.3 စာချုပ်၊ ဝင်နေခြင်းနှင့် နေထိုင်မှုမှတ်ပုံတင်",
+              "count": 18
+            },
+            {
+              "id": "47.4",
+              "title": "47.4 搬家退房",
+              "title_my": "47.4 အိမ်ပြောင်းခြင်းနှင့် အိမ်ပြန်အပ်ခြင်း",
+              "count": 18
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "48",
+          "title": "社区物业",
+          "title_my": "48 အိမ်ရာစီမံခန့်ခွဲရေးနှင့် အများသုံးနေရာ",
+          "status": "available",
+          "free": false,
+          "phrase_count": 74,
+          "lessons": [
+            {
+              "id": "48.1",
+              "title": "48.1 联系物业与公共设施报修",
+              "title_my": "48.1 အိမ်ရာစီမံခန့်ခွဲရေးနှင့် အများသုံးပစ္စည်း ပြုပြင်တိုင်ကြားခြင်း",
+              "count": 15
+            },
+            {
+              "id": "48.2",
+              "title": "48.2 报修预约与催修",
+              "title_my": "48.2 ပြုပြင်မှု ချိန်းဆိုခြင်းနှင့် လိုက်လံမေးမြန်းခြင်း",
+              "count": 22
+            },
+            {
+              "id": "48.3",
+              "title": "48.3 邻居噪音",
+              "title_my": "48.3 အိမ်နီးချင်း ဆူညံသံ",
+              "count": 18
+            },
+            {
+              "id": "48.4",
+              "title": "48.4 公共区域停车与垃圾",
+              "title_my": "48.4 အများသုံးနေရာ ကားရပ်နားခြင်းနှင့် အမှိုက်",
+              "count": 19
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        }
+      ],
+      "title_my": "အိမ်တွင်းဘဝ"
+    },
+    {
+      "zone_id": 3,
+      "title": "吃饭餐饮",
+      "themes": [
+        {
+          "theme_id": "21",
+          "title": "食物口味",
+          "title_my": "21 အစားအစာနှင့် အရသာ",
+          "status": "available",
+          "free": false,
+          "phrase_count": 90,
+          "lessons": [
+            {
+              "id": "21.1",
+              "title": "21.1 吃饭喝水基本需求",
+              "title_my": "21.1 စားသောက်ခြင်း အခြေခံလိုအပ်ချက်",
+              "count": 23
+            },
+            {
+              "id": "21.2",
+              "title": "21.2 辣甜咸与口味调整",
+              "title_my": "21.2 စပ်၊ ချို၊ ငန်နှင့် အရသာညှိခြင်း",
+              "count": 24
+            },
+            {
+              "id": "21.3",
+              "title": "21.3 忌口与过敏",
+              "title_my": "21.3 မစားသင့်တာနှင့် ဓာတ်မတည့်မှု",
+              "count": 22
+            },
+            {
+              "id": "21.4",
+              "title": "21.4 询问推荐与点菜建议",
+              "title_my": "21.4 အကြံပြုဟင်း မေးခြင်း",
+              "count": 21
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "22",
+          "title": "早餐小吃",
+          "title_my": "22 မနက်စာနှင့် မုန့်စားစရာ",
+          "status": "available",
+          "free": false,
+          "phrase_count": 63,
+          "lessons": [
+            {
+              "id": "22.1",
+              "title": "22.1 早餐店点单",
+              "title_my": "22.1 မနက်စာဆိုင်မှာ မှာခြင်း",
+              "count": 19
+            },
+            {
+              "id": "22.2",
+              "title": "22.2 小吃摊点单与加减料",
+              "title_my": "22.2 မုန့်ဆိုင်/လမ်းဘေးဆိုင် မှာခြင်း",
+              "count": 23
+            },
+            {
+              "id": "22.3",
+              "title": "22.3 打包带走与取餐",
+              "title_my": "22.3 ပါဆယ်ယူခြင်းနှင့် အစားယူခြင်း",
+              "count": 21
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "23",
+          "title": "餐厅点餐",
+          "title_my": "စားသောက်ဆိုင်တွင် အော်ဒါမှာခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "24",
+          "title": "餐厅用餐",
+          "title_my": "24 စားသောက်ဆိုင်တွင် စားနေစဉ်",
+          "status": "available",
+          "free": false,
+          "phrase_count": 58,
+          "lessons": [
+            {
+              "id": "24.1",
+              "title": "24.1 催菜与上菜进度",
+              "title_my": "24.1 ဟင်းတင်ချိန်နဲ့ မြန်မြန်လုပ်ပေးဖို့ မေးခြင်း",
+              "count": 20
+            },
+            {
+              "id": "24.2",
+              "title": "24.2 加水餐具与用餐请求",
+              "title_my": "24.2 ရေ၊ စားသောက်ကိရိယာနှင့် စားပွဲဝန်ဆောင်မှုတောင်းခြင်း",
+              "count": 18
+            },
+            {
+              "id": "24.3",
+              "title": "24.3 菜品反馈、换菜与投诉",
+              "title_my": "24.3 ဟင်းအရည်အသွေး၊ လဲပေးခြင်းနှင့် တိုင်ကြားခြင်း",
+              "count": 20
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "25",
+          "title": "餐厅结账",
+          "title_my": "25 စားသောက်ဆိုင် ငွေရှင်းခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 62,
+          "lessons": [
+            {
+              "id": "25.1",
+              "title": "25.1 买单与核对账单",
+              "title_my": "25.1 ငွေရှင်းခြင်းနှင့် ဘီလ်စစ်ခြင်း",
+              "count": 21
+            },
+            {
+              "id": "25.2",
+              "title": "25.2 AA与请客",
+              "title_my": "25.2 ခွဲပေးခြင်းနှင့် ကျွေးခြင်း",
+              "count": 22
+            },
+            {
+              "id": "25.3",
+              "title": "25.3 开发票与填写抬头",
+              "title_my": "25.3 အခွန်ပြေစာနှင့် ကုမ္ပဏီအမည် ဖြည့်ခြင်း",
+              "count": 19
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "26",
+          "title": "咖啡奶茶",
+          "title_my": "26 ကော်ဖီနှင့် နို့လက်ဖက်ရည်",
+          "status": "available",
+          "free": false,
+          "phrase_count": 64,
+          "lessons": [
+            {
+              "id": "26.1",
+              "title": "26.1 咖啡点单：品类杯型冷热",
+              "title_my": "26.1 ကော်ဖီအမျိုးအစား၊ ခွက်အရွယ်နှင့် ပူ/အေး",
+              "count": 21
+            },
+            {
+              "id": "26.2",
+              "title": "26.2 奶茶点单：甜度冰量加料",
+              "title_my": "26.2 နို့လက်ဖက်ရည် ချိုနှုန်း၊ ရေခဲနှင့် အပိုထည့်ခြင်း",
+              "count": 23
+            },
+            {
+              "id": "26.3",
+              "title": "26.3 堂食外带与取餐",
+              "title_my": "26.3 ဆိုင်မှာသောက်၊ ပါဆယ်နှင့် သောက်စရာယူခြင်း",
+              "count": 20
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "34",
+          "title": "外卖取餐",
+          "title_my": "34 အစားပို့အော်ဒါနှင့် လက်ခံယူခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 68,
+          "lessons": [
+            {
+              "id": "34.1",
+              "title": "34.1 下单备注与修改信息",
+              "title_my": "34.1 အော်ဒါမှတ်ချက်နှင့် အချက်အလက်ပြောင်းခြင်း",
+              "count": 18
+            },
+            {
+              "id": "34.2",
+              "title": "34.2 联系骑手与碰面",
+              "title_my": "34.2 ပို့သူနှင့် ဆက်သွယ်တွေ့ဆုံခြင်း",
+              "count": 18
+            },
+            {
+              "id": "34.3",
+              "title": "34.3 催单与超时",
+              "title_my": "34.3 အော်ဒါနောက်ကျခြင်းနှင့် မြန်မြန်ပို့ခိုင်းခြင်း",
+              "count": 15
+            },
+            {
+              "id": "34.4",
+              "title": "34.4 少送错送与退款",
+              "title_my": "34.4 လျော့ပို့၊ မှားပို့နှင့် ငွေပြန်အမ်းခြင်း",
+              "count": 17
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        }
+      ],
+      "title_my": "အစားအသောက်နှင့် စားသောက်ဆိုင်"
+    },
+    {
+      "zone_id": 4,
+      "title": "购物消费",
+      "themes": [
+        {
+          "theme_id": "27",
+          "title": "超市便利店",
+          "title_my": "စူပါမားကတ်နှင့် ကွန်ဗီနီယန့်စတိုး",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "28",
+          "title": "服装鞋店",
+          "title_my": "အဝတ်အထည်နှင့် ဖိနပ်ဆိုင်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "29",
+          "title": "一般商品购物",
+          "title_my": "အထွေထွေပစ္စည်းဝယ်ယူခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "30",
+          "title": "价格优惠",
+          "title_my": "ဈေးနှုန်းနှင့် လျှော့ဈေး",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "31",
+          "title": "付款扫码",
+          "title_my": "ငွေပေးချေခြင်းနှင့် QR စကင်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "32",
+          "title": "退换退款",
+          "title_my": "ပြန်အပ်ခြင်း၊ လဲလှယ်ခြင်းနှင့် ငွေပြန်အမ်းခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "33",
+          "title": "快递收发",
+          "title_my": "အမြန်ပို့စာ ပို့ခြင်းနှင့် လက်ခံခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        }
+      ],
+      "title_my": "ဈေးဝယ်ခြင်း"
+    },
+    {
+      "zone_id": 5,
+      "title": "出行旅行",
+      "themes": [
+        {
+          "theme_id": "35",
+          "title": "问路导航",
+          "title_my": "35 လမ်းမေးခြင်းနှင့် လမ်းညွှန်",
+          "status": "available",
+          "free": false,
+          "phrase_count": 75,
+          "lessons": [
+            {
+              "id": "35.1",
+              "title": "35.1 询问方向",
+              "title_my": "35.1 လမ်းညွှန်မေးခြင်း",
+              "count": 19
+            },
+            {
+              "id": "35.2",
+              "title": "35.2 远近时长",
+              "title_my": "35.2 အကွာအဝေးနှင့် ကြာချိန်",
+              "count": 20
+            },
+            {
+              "id": "35.3",
+              "title": "35.3 地标路口",
+              "title_my": "35.3 အမှတ်အသားနေရာနှင့် လမ်းဆုံ",
+              "count": 18
+            },
+            {
+              "id": "35.4",
+              "title": "35.4 走错路",
+              "title_my": "35.4 လမ်းမှားခြင်း",
+              "count": 18
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "36",
+          "title": "公交地铁",
+          "title_my": "36 ဘတ်စ်ကားနှင့် မြေအောက်ရထား",
+          "status": "available",
+          "free": false,
+          "phrase_count": 75,
+          "lessons": [
+            {
+              "id": "36.1",
+              "title": "36.1 进站购票",
+              "title_my": "36.1 ဘူတာဝင်ခြင်းနှင့် လက်မှတ်ဝယ်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "36.2",
+              "title": "36.2 刷卡扫码",
+              "title_my": "36.2 ကတ်နှင့် ကုဒ်စကန်ဖတ်ခြင်း",
+              "count": 18
+            },
+            {
+              "id": "36.3",
+              "title": "36.3 换乘下车",
+              "title_my": "36.3 လိုင်းပြောင်းခြင်းနှင့် ဆင်းခြင်း",
+              "count": 19
+            },
+            {
+              "id": "36.4",
+              "title": "36.4 坐过站末班车",
+              "title_my": "36.4 ဘူတာကျော်ခြင်းနှင့် နောက်ဆုံးရထား",
+              "count": 19
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "37",
+          "title": "打车网约车",
+          "title_my": "37 တက္ကစီနှင့် အွန်လိုင်းကားခေါ်ခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 70,
+          "lessons": [
+            {
+              "id": "37.1",
+              "title": "37.1 叫车定位",
+              "title_my": "37.1 ကားခေါ်ခြင်းနှင့် တည်နေရာ",
+              "count": 17
+            },
+            {
+              "id": "37.2",
+              "title": "37.2 上车确认",
+              "title_my": "37.2 ကားတက်ချိန် အတည်ပြုခြင်း",
+              "count": 18
+            },
+            {
+              "id": "37.3",
+              "title": "37.3 路线目的地",
+              "title_my": "37.3 လမ်းကြောင်းနှင့် ခရီးဆုံး",
+              "count": 19
+            },
+            {
+              "id": "37.4",
+              "title": "37.4 下车付款遗失",
+              "title_my": "37.4 ကားဆင်း၊ ငွေပေး၊ ပျောက်ပစ္စည်း",
+              "count": 16
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "38",
+          "title": "火车高铁",
+          "title_my": "38 မီးရထားနှင့် အမြန်ရထား",
+          "status": "available",
+          "free": false,
+          "phrase_count": 52,
+          "lessons": [
+            {
+              "id": "38.1",
+              "title": "38.1 购票候车",
+              "title_my": "38.1 လက်မှတ်ဝယ်ခြင်းနှင့် ရထားစောင့်ခြင်း",
+              "count": 15
+            },
+            {
+              "id": "38.2",
+              "title": "38.2 站台车次",
+              "title_my": "38.2 ပလက်ဖောင်းနှင့် ရထားနံပါတ်",
+              "count": 12
+            },
+            {
+              "id": "38.3",
+              "title": "38.3 车厢座位",
+              "title_my": "38.3 တွဲ၊ ထိုင်ခုံနှင့် အိတ်",
+              "count": 13
+            },
+            {
+              "id": "38.4",
+              "title": "38.4 改签退票",
+              "title_my": "38.4 လက်မှတ်ပြောင်းခြင်းနှင့် ပြန်အပ်ခြင်း",
+              "count": 12
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "39",
+          "title": "机场航班与入境通关",
+          "title_my": "39 လေဆိပ်၊ လေယာဉ်ခရီးစဉ်နှင့် ဝင်ရောက်စစ်ဆေးရေး",
+          "status": "available",
+          "free": false,
+          "phrase_count": 72,
+          "lessons": [
+            {
+              "id": "39.1",
+              "title": "39.1 值机托运",
+              "title_my": "39.1 လေယာဉ်တက်စာရင်းသွင်းခြင်းနှင့် အိတ်အပ်ခြင်း",
+              "count": 12
+            },
+            {
+              "id": "39.2",
+              "title": "39.2 安检",
+              "title_my": "39.2 လုံခြုံရေးစစ်ဆေးခြင်း",
+              "count": 15
+            },
+            {
+              "id": "39.3",
+              "title": "39.3 登机口登机",
+              "title_my": "39.3 လေယာဉ်တက်ပေါက်နှင့် လေယာဉ်တက်ခြင်း",
+              "count": 14
+            },
+            {
+              "id": "39.4",
+              "title": "39.4 延误取消转机",
+              "title_my": "39.4 နောက်ကျခြင်း၊ ဖျက်သိမ်းခြင်းနှင့် လေယာဉ်ပြောင်းစီးခြင်း",
+              "count": 14
+            },
+            {
+              "id": "39.5",
+              "title": "39.5 入境通关：边检与海关",
+              "title_my": "39.5 ဝင်ရောက်စစ်ဆေးရေးနှင့် အကောက်ခွန်",
+              "count": 17
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "40",
+          "title": "酒店旅行",
+          "title_my": "40 ဟိုတယ်နှင့် ခရီးသွားခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 56,
+          "lessons": [
+            {
+              "id": "40.1",
+              "title": "40.1 预订房间",
+              "title_my": "40.1 ဟိုတယ်အခန်းကြိုတင်မှာခြင်း",
+              "count": 16
+            },
+            {
+              "id": "40.2",
+              "title": "40.2 入住证件押金",
+              "title_my": "40.2 အခန်းဝင်စာရင်းသွင်းခြင်း၊ အထောက်အထားနှင့် အာမခံငွေ",
+              "count": 15
+            },
+            {
+              "id": "40.3",
+              "title": "40.3 房间需求问题",
+              "title_my": "40.3 အခန်းလိုအပ်ချက်နှင့် ပြဿနာ",
+              "count": 15
+            },
+            {
+              "id": "40.4",
+              "title": "40.4 退房寄存",
+              "title_my": "40.4 အခန်းအပ်ပြီးထွက်ခြင်းနှင့် အိတ်အပ်ထားခြင်း",
+              "count": 10
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        }
+      ],
+      "title_my": "သွားလာရေးနှင့် ခရီးသွား"
+    },
+    {
+      "zone_id": 6,
+      "title": "手机网络",
+      "themes": [
+        {
+          "theme_id": "41",
+          "title": "手机网络",
+          "title_my": "41 ဖုန်းနှင့် အင်တာနက်",
+          "status": "available",
+          "free": false,
+          "phrase_count": 58,
+          "lessons": [
+            {
+              "id": "41.1",
+              "title": "41.1 充电电量",
+              "title_my": "41.1 အားသွင်းခြင်းနှင့် ဘက်ထရီ",
+              "count": 16
+            },
+            {
+              "id": "41.2",
+              "title": "41.2 手机卡流量",
+              "title_my": "41.2 ဖုန်းကတ်နှင့် ဒေတာ",
+              "count": 16
+            },
+            {
+              "id": "41.3",
+              "title": "41.3 连接Wi-Fi",
+              "title_my": "41.3 ကြိုးမဲ့အင်တာနက် ချိတ်ဆက်ခြင်း",
+              "count": 14
+            },
+            {
+              "id": "41.4",
+              "title": "41.4 网络故障",
+              "title_my": "41.4 အင်တာနက်ပြဿနာ",
+              "count": 12
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "42",
+          "title": "微信电话",
+          "title_my": "42 ဝီချတ် နှင့် ဖုန်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 57,
+          "lessons": [
+            {
+              "id": "42.1",
+              "title": "42.1 添加微信",
+              "title_my": "42.1 ဝီချတ် အကောင့်ထည့်ခြင်း",
+              "count": 12
+            },
+            {
+              "id": "42.2",
+              "title": "42.2 消息语音",
+              "title_my": "42.2 မက်ဆေ့ချ်နှင့် အသံ",
+              "count": 15
+            },
+            {
+              "id": "42.3",
+              "title": "42.3 电话沟通",
+              "title_my": "42.3 ဖုန်းပြောခြင်း",
+              "count": 16
+            },
+            {
+              "id": "42.4",
+              "title": "42.4 定位照片文件",
+              "title_my": "42.4 တည်နေရာ၊ ဓာတ်ပုံနှင့် ဖိုင်",
+              "count": 14
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "43",
+          "title": "账号扫码软件",
+          "title_my": "43 အကောင့်၊ ကျူအာကုဒ်နှင့် အက်ပ်",
+          "status": "available",
+          "free": false,
+          "phrase_count": 50,
+          "lessons": [
+            {
+              "id": "43.1",
+              "title": "43.1 注册登录",
+              "title_my": "43.1 အကောင့်ဖွင့်ခြင်းနှင့် အကောင့်ဝင်ခြင်း",
+              "count": 13
+            },
+            {
+              "id": "43.2",
+              "title": "43.2 密码验证码",
+              "title_my": "43.2 စကားဝှက်နှင့် အတည်ပြုကုဒ်",
+              "count": 12
+            },
+            {
+              "id": "43.3",
+              "title": "43.3 扫码操作",
+              "title_my": "43.3 ကျူအာကုဒ်စကန်ဖတ်ခြင်း",
+              "count": 11
+            },
+            {
+              "id": "43.4",
+              "title": "43.4 下载更新权限",
+              "title_my": "43.4 အက်ပ်ဒေါင်းလုဒ်၊ အပ်ဒိတ်နှင့် အသုံးပြုခွင့်",
+              "count": 14
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        }
+      ],
+      "title_my": "ဖုန်းနှင့် အင်တာနက်"
+    },
+    {
+      "zone_id": 7,
+      "title": "看病办事",
+      "themes": [
+        {
+          "theme_id": "44",
+          "title": "医院看病",
+          "title_my": "44 ဆေးရုံပြခြင်း",
+          "status": "available",
+          "free": false,
+          "phrase_count": 66,
+          "lessons": [
+            {
+              "id": "44.1",
+              "title": "44.1 描述症状",
+              "title_my": "44.1 ရောဂါလက္ခဏာ ပြောပြခြင်း",
+              "count": 20
+            },
+            {
+              "id": "44.2",
+              "title": "44.2 挂号科室",
+              "title_my": "44.2 ဆေးရုံနံပါတ်ယူခြင်းနှင့် ဌာနမေးခြင်း",
+              "count": 14
+            },
+            {
+              "id": "44.3",
+              "title": "44.3 医生检查",
+              "title_my": "44.3 ဆေးစစ်ခြင်း",
+              "count": 14
+            },
+            {
+              "id": "44.4",
+              "title": "44.4 结果复诊",
+              "title_my": "44.4 အဖြေနှင့် ပြန်လည်ပြသခြင်း",
+              "count": 18
+            }
+          ],
+          "data_path": null,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "45",
+          "title": "药店用药",
+          "title_my": "ဆေးဆိုင်နှင့် ဆေးသောက်ခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "46",
+          "title": "紧急求助",
+          "title_my": "အရေးပေါ်အကူအညီ",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "49",
+          "title": "银行邮政",
+          "title_my": "ဘဏ်နှင့် စာတိုက်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "50",
+          "title": "证件签证办事",
+          "title_my": "စာရွက်စာတမ်း၊ ဗီဇာနှင့် ရုံးကိစ္စ",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        }
+      ],
+      "title_my": "ဆေးရုံနှင့် လုပ်ငန်းဆောင်တာ"
+    },
+    {
+      "zone_id": 8,
+      "title": "找工作上班",
+      "themes": [
+        {
+          "theme_id": "51",
+          "title": "求职面试",
+          "title_my": "အလုပ်ရှာခြင်းနှင့် အင်တာဗျူး",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "52",
+          "title": "入职报到",
+          "title_my": "အလုပ်စဝင်ခြင်းနှင့် မှတ်ပုံတင်ခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "53",
+          "title": "日常工作沟通",
+          "title_my": "နေ့စဉ်အလုပ်ဆက်သွယ်မှု",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "54",
+          "title": "任务会议",
+          "title_my": "အလုပ်တာဝန်နှင့် အစည်းအဝေး",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "55",
+          "title": "考勤排班",
+          "title_my": "အလုပ်တက်ရောက်မှုနှင့် အလှည့်ကျတာဝန်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "56",
+          "title": "工资合同离职",
+          "title_my": "လစာ၊ စာချုပ်နှင့် အလုပ်ထွက်ခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        }
+      ],
+      "title_my": "အလုပ်ရှာခြင်းနှင့် အလုပ်ခွင်"
+    },
+    {
+      "zone_id": 9,
+      "title": "岗位中文",
+      "themes": [
+        {
+          "theme_id": "57",
+          "title": "服务接待工作",
+          "title_my": "ဝန်ဆောင်မှုနှင့် ဧည့်ခံအလုပ်",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "58",
+          "title": "工厂车间",
+          "title_my": "စက်ရုံနှင့် အလုပ်ရုံ",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "59",
+          "title": "生产操作与质检",
+          "title_my": "ထုတ်လုပ်မှုလုပ်ငန်းနှင့် အရည်အသွေးစစ်ဆေးခြင်း",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        },
+        {
+          "theme_id": "60",
+          "title": "仓库物流与工厂生活",
+          "title_my": "ဂိုဒေါင်၊ လိုဂျစ်စတစ်နှင့် စက်ရုံနေထိုင်မှု",
+          "status": "missing",
+          "free": false,
+          "phrase_count": 0,
+          "lessons": [],
+          "data_path": null,
+          "needs_pronunciation_review": false
+        }
+      ],
+      "title_my": "လုပ်ငန်းခွင်အလိုက် တရုတ်စကား"
+    }
+  ],
+  "distribution": "free_themes_public_paid_themes_private",
+  "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
+  "revision": "20261009-free01-05",
+  "source_status": "32 complete themes, 6 patch-only and 22 missing"
+}
