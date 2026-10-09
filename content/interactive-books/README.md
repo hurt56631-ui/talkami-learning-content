@@ -1,19 +1,30 @@
-# 互动电子书目录（自动发现）
+# 实用中文口语 · 互动书籍目录
 
-本目录只保存**公开元数据**：封面、书名、免费句数、数量、版本和唯一商品 ID。禁止上传未加密的收费 ZIP、激活密钥、用户 UID 或支付数据。
+本仓库用于公开展示书籍/口语专题：封面、书名、目录、前30句免费数据和按版本发布的完整章节 ZIP。目录：`content/interactive-books/catalog.json`。
 
-唯一目录：`content/interactive-books/catalog.json`。
+## 服装厂中文1000句 v1.7
 
-新书上架流程：
+- 书籍 ID（永久不变）：`garment_factory_1000`
+- 完整 ZIP：`content/interactive-books/garment_factory_1000/book_latest.zip`
+- 历史存档：`content/interactive-books/garment_factory_1000/archive/garment_factory_1000_v1_7.zip`
+- 网页目录：`content/interactive-books/garment_factory_1000/web_catalog.json`
+- 免费30句：`content/interactive-books/garment_factory_1000/free_preview.json`
+- Android 目录片段：`content/interactive-books/garment_factory_1000/android_catalog_fragment.json`
 
-1. 新增一个 `items[]` 对象，设定永久不变的 `id`，比如 `restaurant_chinese_500`。
-2. 必填 `type: "book"`、`status: "active"`、`title`、`item_count`、`content_version`；可选 `title_my`、`subtitle`、`free_count`、`sort_order` 和该仓库内部 HTTPS `cover_url`。
-3. 提交到 `main`。后端每五分钟缓存新目录；超级管理员可在「用户权限」中点「刷新新书目录」强制重新读取。
-4. 管理员输入学生 UID，即可将此书授予账号、延期或撤销；书籍 VIP（`books_all`）会覆盖本书的阅读权限。
-5. 新书内容下载和渲染必须遵守与网站配套的书籍格式；**仅上架元数据并不等于收费 ZIP 已准备好**。现有《服装厂中文1000句》使用独立的 ZIP 阅读流程；后续要统一成通用互动书阅读器。
+完整 ZIP **公开可下载**，这是内容方确认的发行选择。登录、激活码、书籍 VIP **只能限制 Talkami 网站内使用权限，不能阻止直接访问 GitHub 的 ZIP**；请不要将公开 ZIP 误称为保密或受 DRM 保护的资源。
 
-禁止修改旧书的 `id`，否则旧购买记录无法关联。只改封面、译文或数量时，保持 `id` 不变，提高 `content_version`。
+### 今后更新同一本书
 
-将不卖的新书 `status` 改为 `archived`，它就不能再被新的管理员授权。但历史购买记录不会被自动删除，停售和撤销购买权限是两件不同的事。
+1. 保持商品 ID `garment_factory_1000` 和全部稳定短句 ID 不变，保留11章编号结构（现有网站/后端仍使用固定11章）。
+2. 更新 `book_latest.zip` 与归档副本，必要时更新网页目录、前30句、Android目录。
+3. 更新 `catalog.json` 的 `content_version`、`bundle_sha256`、`bundle_size`。ZIP 下载时服务器会核对大小、SHA-256 和11章/1000句结构；校验失败会拒绝新数据。
+4. 对网站的免费30句/场景目录若有修改，仍需同步部署网站静态资源，避免浏览器浏览到旧目录。
+5. 本书缅语译文与缅语谐音仍在等待缅甸籍服装厂教师终审。数据结构校验不等于语言质量认证。
 
-当前代码对「书籍动态授权」不需要每次新增后端商品常量，但 AI 老师、聊天翻译等有成本的服务，需要分别接入额度核验，不能仅因目录存在就认为它们已开通。
+### 增加新口语专题
+
+在 `catalog.json` 的 `items[]` 里追加稳定的 `id`、`type:"book"`、`status:"active"`、`title`、`item_count`、`free_count`、`content_version`、`sort_order` 和可选 `cover_url`。后台「用户权限」约五分钟自动读取新目录，也可手动强制刷新，实现按 UID 授权。
+
+**注意：新增新书元数据会自动出现在授权后台，但不会自动获得一个兼容的网页目录/ZIP阅读器。** 完整上架还需要对应的前端通用书籍加载器和数据包标准。
+
+App 的其它单词/口语数据继续使用各自 `content/words`、`content/speaking` 等目录，普通 PDF 的 `content/books` 也不受影响。

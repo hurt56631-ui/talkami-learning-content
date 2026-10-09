@@ -1,0 +1,17 @@
+name: Verify public interactive spoken book assets
+
+on:
+  pull_request:
+    paths:
+      - "content/interactive-books/**"
+      - "scripts/check_interactive_books.py"
+      - ".github/workflows/check-interactive-books.yml"
+  workflow_dispatch:
+
+jobs:
+  data-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate complete ZIP, catalog, and free preview
+        run: python3 scripts/check_interactive_books.py

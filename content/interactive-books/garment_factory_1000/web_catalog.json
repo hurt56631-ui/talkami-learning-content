@@ -1,0 +1,443 @@
+{
+  "version": 10,
+  "title": "服装厂中文1000句",
+  "subtitle": "中缅双语 · 拼音 · 缅文谐音 · 语境化短句拆解 · 场景短句",
+  "updated_at": "2026-10-09",
+  "item_count": 1000,
+  "category_count": 11,
+  "scene_count": 40,
+  "categories": [
+    {
+      "id": "garment_factory_01",
+      "module_id": "01",
+      "title": "进厂通用与安全",
+      "count": 172,
+      "data_url": "garment_01.json",
+      "sha256": "6f5ef27875e275d179592f54b9e3885d9ea6d5c94f128ba5427633d9b299a5d8",
+      "scenes": [
+        {
+          "scene_id": "01.01",
+          "title": "面试入职与试工",
+          "count": 23,
+          "start_number": 1,
+          "end_number": 23,
+          "first_phrase_id": "GF1901"
+        },
+        {
+          "scene_id": "01.02",
+          "title": "考勤打卡与早会",
+          "count": 18,
+          "start_number": 24,
+          "end_number": 41,
+          "first_phrase_id": "GF0001"
+        },
+        {
+          "scene_id": "01.03",
+          "title": "组长安排与工位分工",
+          "count": 24,
+          "start_number": 42,
+          "end_number": 65,
+          "first_phrase_id": "GF0051"
+        },
+        {
+          "scene_id": "01.04",
+          "title": "听指令与确认",
+          "count": 29,
+          "start_number": 66,
+          "end_number": 94,
+          "first_phrase_id": "GF0102"
+        },
+        {
+          "scene_id": "01.05",
+          "title": "传货数量与交接",
+          "count": 29,
+          "start_number": 95,
+          "end_number": 123,
+          "first_phrase_id": "GF1851"
+        },
+        {
+          "scene_id": "01.06",
+          "title": "求助互帮与工位整理",
+          "count": 25,
+          "start_number": 124,
+          "end_number": 148,
+          "first_phrase_id": "GF1951"
+        },
+        {
+          "scene_id": "01.07",
+          "title": "安全防护与紧急情况",
+          "count": 24,
+          "start_number": 149,
+          "end_number": 172,
+          "first_phrase_id": "GF1602"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_02",
+      "module_id": "02",
+      "title": "裁床",
+      "count": 108,
+      "data_url": "garment_02.json",
+      "sha256": "b88c173d1697e0377c9232d7470d52c7fb4e433164843a235baaef6dce54c241",
+      "scenes": [
+        {
+          "scene_id": "02.01",
+          "title": "领布领料与缺料",
+          "count": 23,
+          "start_number": 173,
+          "end_number": 195,
+          "first_phrase_id": "GF0151"
+        },
+        {
+          "scene_id": "02.02",
+          "title": "面料辅料与色差",
+          "count": 19,
+          "start_number": 196,
+          "end_number": 214,
+          "first_phrase_id": "GF0201"
+        },
+        {
+          "scene_id": "02.03",
+          "title": "裁床拉布与铺料",
+          "count": 21,
+          "start_number": 215,
+          "end_number": 235,
+          "first_phrase_id": "GF0251"
+        },
+        {
+          "scene_id": "02.04",
+          "title": "纸样唛架与裁剪",
+          "count": 24,
+          "start_number": 236,
+          "end_number": 259,
+          "first_phrase_id": "GF0301"
+        },
+        {
+          "scene_id": "02.05",
+          "title": "裁片编号与扎包",
+          "count": 21,
+          "start_number": 260,
+          "end_number": 280,
+          "first_phrase_id": "GF0351"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_03",
+      "module_id": "03",
+      "title": "车位操作与机器故障",
+      "count": 106,
+      "data_url": "garment_03.json",
+      "sha256": "f4ac74bc18638feb283f0cbb84505ed2a41e27532b0b9f2e2ccfac2c905571d7",
+      "scenes": [
+        {
+          "scene_id": "03.01",
+          "title": "开机试缝与压脚",
+          "count": 19,
+          "start_number": 281,
+          "end_number": 299,
+          "first_phrase_id": "GF0401"
+        },
+        {
+          "scene_id": "03.02",
+          "title": "穿线换针与线张力",
+          "count": 27,
+          "start_number": 300,
+          "end_number": 326,
+          "first_phrase_id": "GF0451"
+        },
+        {
+          "scene_id": "03.03",
+          "title": "断线跳针与卡线",
+          "count": 33,
+          "start_number": 327,
+          "end_number": 359,
+          "first_phrase_id": "GF1001"
+        },
+        {
+          "scene_id": "03.04",
+          "title": "报修故障与机器保养",
+          "count": 27,
+          "start_number": 360,
+          "end_number": 386,
+          "first_phrase_id": "GF1651"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_04",
+      "module_id": "04",
+      "title": "缝纫",
+      "count": 240,
+      "data_url": "garment_04.json",
+      "sha256": "9d515f285cdb31438e2fb222f69ca4fa79b371ff53dcddd6b619edfd0b19f06a",
+      "scenes": [
+        {
+          "scene_id": "04.01",
+          "title": "平车走线与基础车缝",
+          "count": 38,
+          "start_number": 387,
+          "end_number": 424,
+          "first_phrase_id": "GF0501"
+        },
+        {
+          "scene_id": "04.02",
+          "title": "上领与领口",
+          "count": 23,
+          "start_number": 425,
+          "end_number": 447,
+          "first_phrase_id": "GF0601"
+        },
+        {
+          "scene_id": "04.03",
+          "title": "肩缝上袖与袖口",
+          "count": 28,
+          "start_number": 448,
+          "end_number": 475,
+          "first_phrase_id": "GF0651"
+        },
+        {
+          "scene_id": "04.04",
+          "title": "口袋制作与袋位",
+          "count": 23,
+          "start_number": 476,
+          "end_number": 498,
+          "first_phrase_id": "GF0701"
+        },
+        {
+          "scene_id": "04.05",
+          "title": "拉链门襟锁眼钉扣",
+          "count": 30,
+          "start_number": 499,
+          "end_number": 528,
+          "first_phrase_id": "GF0751"
+        },
+        {
+          "scene_id": "04.06",
+          "title": "裤腰裤裆与腰袢",
+          "count": 25,
+          "start_number": 529,
+          "end_number": 553,
+          "first_phrase_id": "GF0801"
+        },
+        {
+          "scene_id": "04.07",
+          "title": "裙腰裙摆与松紧",
+          "count": 19,
+          "start_number": 554,
+          "end_number": 572,
+          "first_phrase_id": "GF0851"
+        },
+        {
+          "scene_id": "04.08",
+          "title": "下摆折边与包边",
+          "count": 25,
+          "start_number": 573,
+          "end_number": 597,
+          "first_phrase_id": "GF0901"
+        },
+        {
+          "scene_id": "04.09",
+          "title": "针距线迹与缝份",
+          "count": 29,
+          "start_number": 598,
+          "end_number": 626,
+          "first_phrase_id": "GF0951"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_05",
+      "module_id": "05",
+      "title": "锁边",
+      "count": 27,
+      "data_url": "garment_05.json",
+      "sha256": "464cee9826c774c4cfb8ef158658ef0028fc43de6086f44e1b8f98f7624d78ee",
+      "scenes": [
+        {
+          "scene_id": "05.01",
+          "title": "拷边锁边与绷缝",
+          "count": 27,
+          "start_number": 627,
+          "end_number": 653,
+          "first_phrase_id": "GF0551"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_06",
+      "module_id": "06",
+      "title": "查货",
+      "count": 80,
+      "data_url": "garment_06.json",
+      "sha256": "eeb92a4eba7def5223ee09a1e96f011278a20874704f0a75600e4cee5b4f0ca6",
+      "scenes": [
+        {
+          "scene_id": "06.01",
+          "title": "布面外观与瑕疵",
+          "count": 24,
+          "start_number": 654,
+          "end_number": 677,
+          "first_phrase_id": "GF1051"
+        },
+        {
+          "scene_id": "06.02",
+          "title": "尺寸测量与误差",
+          "count": 26,
+          "start_number": 678,
+          "end_number": 703,
+          "first_phrase_id": "GF1101"
+        },
+        {
+          "scene_id": "06.03",
+          "title": "中检尾检与检针",
+          "count": 30,
+          "start_number": 704,
+          "end_number": 733,
+          "first_phrase_id": "GF1801"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_07",
+      "module_id": "07",
+      "title": "返工",
+      "count": 30,
+      "data_url": "garment_07.json",
+      "sha256": "52fb90ea6c994160c70da2660c37624001e2e2b5049d409657d3ba4f2eb42dcb",
+      "scenes": [
+        {
+          "scene_id": "07.01",
+          "title": "拆线返工与复检",
+          "count": 30,
+          "start_number": 734,
+          "end_number": 763,
+          "first_phrase_id": "GF1151"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_08",
+      "module_id": "08",
+      "title": "尾部",
+      "count": 57,
+      "data_url": "garment_08.json",
+      "sha256": "9dbb5dc60cad7bfb5fef34263e9fc288e7e76d6a84390fbf75f40b67ba3a56ea",
+      "scenes": [
+        {
+          "scene_id": "08.01",
+          "title": "熨烫与定型",
+          "count": 21,
+          "start_number": 764,
+          "end_number": 784,
+          "first_phrase_id": "GF1201"
+        },
+        {
+          "scene_id": "08.02",
+          "title": "剪线头清洁去污",
+          "count": 21,
+          "start_number": 785,
+          "end_number": 805,
+          "first_phrase_id": "GF1251"
+        },
+        {
+          "scene_id": "08.03",
+          "title": "洗水印花与绣花",
+          "count": 15,
+          "start_number": 806,
+          "end_number": 820,
+          "first_phrase_id": "GF1301"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_09",
+      "module_id": "09",
+      "title": "包装",
+      "count": 48,
+      "data_url": "garment_09.json",
+      "sha256": "4c17235d8b90ecca67d28ed336c2ac5081d6915ef20edb1f5171d55a0aa5e00e",
+      "scenes": [
+        {
+          "scene_id": "09.01",
+          "title": "挂吊牌与折叠装袋",
+          "count": 25,
+          "start_number": 821,
+          "end_number": 845,
+          "first_phrase_id": "GFS30821"
+        },
+        {
+          "scene_id": "09.02",
+          "title": "贴唛装箱与出货",
+          "count": 23,
+          "start_number": 846,
+          "end_number": 868,
+          "first_phrase_id": "GF1401"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_10",
+      "module_id": "10",
+      "title": "计件工资与考勤",
+      "count": 56,
+      "data_url": "garment_10.json",
+      "sha256": "cea75fca382b1f1e611baee453c7783f1d704a8aea833bb196cf7c8e92ec4f2a",
+      "scenes": [
+        {
+          "scene_id": "10.01",
+          "title": "计件工价与工票",
+          "count": 31,
+          "start_number": 869,
+          "end_number": 899,
+          "first_phrase_id": "GF1501"
+        },
+        {
+          "scene_id": "10.02",
+          "title": "工时加班与请假",
+          "count": 25,
+          "start_number": 900,
+          "end_number": 924,
+          "first_phrase_id": "GF1551"
+        }
+      ]
+    },
+    {
+      "id": "garment_factory_11",
+      "module_id": "11",
+      "title": "跟单与生产安排",
+      "count": 76,
+      "data_url": "garment_11.json",
+      "sha256": "f76b2fe1266c357307cc4e002842e161303447f26626636fc9c4f9ba51e589fe",
+      "scenes": [
+        {
+          "scene_id": "11.01",
+          "title": "产量效率与交期",
+          "count": 27,
+          "start_number": 925,
+          "end_number": 951,
+          "first_phrase_id": "GF1451"
+        },
+        {
+          "scene_id": "11.02",
+          "title": "样衣首件与工艺单",
+          "count": 26,
+          "start_number": 952,
+          "end_number": 977,
+          "first_phrase_id": "GF1701"
+        },
+        {
+          "scene_id": "11.03",
+          "title": "换款换色与换尺码",
+          "count": 23,
+          "start_number": 978,
+          "end_number": 1000,
+          "first_phrase_id": "GF1751"
+        }
+      ]
+    }
+  ],
+  "breakdown_enabled": true,
+  "breakdown_field": "breakdown"
+}
