@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "type": "interactive_books",
-  "updated_at": "2026-10-09T00:00:00Z",
-  "description": "Public metadata only. Paid chapters and unlock keys must NOT be uploaded to this public repository.",
+  "updated_at": "2026-10-09T09:00:00Z",
+  "description": "Public metadata plus publicly downloadable teaching assets. Account-based access inside Talkami does not restrict raw GitHub downloads.",
   "items": [
     {
       "id": "garment_factory_1000",
@@ -10,12 +10,17 @@
       "status": "active",
       "title": "服装厂中文1000句",
       "title_my": "အထည်ချုပ်စက်ရုံသုံး တရုတ်စကား",
-      "subtitle": "中缅对照 · 11章 · 40个工序 · 前30句免费",
+      "subtitle": "中缅双语 · 11章 · 40个场景 · 1000句",
       "cover_url": "",
       "free_count": 30,
       "item_count": 1000,
-      "content_version": 1,
-      "sort_order": 10
+      "content_version": 7,
+      "sort_order": 10,
+      "bundle_path": "content/interactive-books/garment_factory_1000/book_latest.zip",
+      "bundle_sha256": "4bb4c82486fa2025a4cec162f27e5417defc1d9e6d35f9d4238ae7be108a0564",
+      "bundle_size": 292654,
+      "web_catalog_path": "content/interactive-books/garment_factory_1000/web_catalog.json",
+      "free_preview_path": "content/interactive-books/garment_factory_1000/free_preview.json"
     }
   ]
 }
