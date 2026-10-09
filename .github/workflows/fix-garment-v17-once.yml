@@ -1,0 +1,29 @@
+name: Fix garment v1.7 ZIP secondary pinyin once
+
+on:
+  push:
+    branches: ["feat/garment-factory-v1-7-package-20261009"]
+    paths:
+      - ".github/workflows/fix-garment-v17-once.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/garment-factory-v1-7-package-20261009
+          persist-credentials: true
+      - name: Correct two pinyin punctuation errors and sync SHA-256
+        run: python3 scripts/fix_garment_v17_once.py
+      - name: Commit checked zip and manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/interactive-books/garment_factory_1000/book_latest.zip content/interactive-books/garment_factory_1000/archive/garment_factory_1000_v1_7.zip content/interactive-books/catalog.json
+          git diff --cached --quiet || git commit -m "fix: correct two pinyin punctuation errors in v1.7 ZIP"
+          git push origin HEAD:feat/garment-factory-v1-7-package-20261009
