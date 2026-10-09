@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+<title id="title">服装厂中文1000句 封面</title>
+<desc id="desc">深绿色封面，中央用浅色线条画出缝纫机与布料，适合服装厂中文口语课程。</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#0a4445"/><stop offset="65%" stop-color="#155e60"/><stop offset="100%" stop-color="#27776b"/>
+  </linearGradient>
+  <linearGradient id="art" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#d9e6cf"/><stop offset="100%" stop-color="#f1dfbb"/>
+  </linearGradient>
+  <pattern id="grain" patternUnits="userSpaceOnUse" width="18" height="18">
+    <circle cx="1.5" cy="1.5" r="1" fill="#fff" fill-opacity=".08"/>
+  </pattern>
+</defs>
+<rect width="600" height="800" rx="12" fill="url(#bg)"/>
+<rect width="600" height="800" fill="url(#grain)"/>
+<path d="M43 0h16v800H43z" fill="#e3ca99" opacity=".68"/>
+<path d="M66 0h2v800h-2z" fill="#dbe9e7" opacity=".55"/>
+<rect x="105" y="60" width="278" height="42" rx="21" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".22"/>
+<text x="128" y="89" fill="#eaf6ef" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="2">TALKAMI   ·   中文口语</text>
+<text x="105" y="207" fill="#fff" font-family="'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-weight="900" font-size="63">服装厂</text>
+<text x="105" y="285" fill="#fff" font-family="'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-weight="900" font-size="63">中文1000句</text>
+<text x="108" y="329" fill="#e6d7ac" font-family="Arial,sans-serif" font-size="19" letter-spacing="2">PRACTICAL SPOKEN CHINESE</text>
+<!-- Minimal vector sewing machine and fabric illustration -->
+<g transform="translate(78 385)">
+  <path d="M90 244 Q195 184 327 225 L380 288 H65Z" fill="#d7e8d1" opacity=".16"/>
+  <path d="M75 245 Q165 227 259 248 Q319 258 369 236" fill="none" stroke="#d7e8d1" stroke-width="3" stroke-dasharray="8 10" opacity=".7"/>
+  <g fill="none" stroke="url(#art)" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M134 189V58Q134 32 162 32H310Q338 32 338 59V169H373V207H91V185Z" stroke-width="13"/>
+    <path d="M134 97H290V169H134" stroke-width="8"/>
+    <path d="M155 48V15H224" stroke-width="10"/>
+    <circle cx="336" cy="101" r="40" stroke-width="8"/>
+    <circle cx="336" cy="101" r="14" stroke-width="6"/>
+    <path d="M244 96V221 M225 219H262M235 225V252M246 252V228" stroke-width="6"/>
+    <path d="M103 208H386V224H103Z" stroke-width="5"/>
+    <path d="M308 39V12M297 13H324" stroke-width="6"/>
+  </g>
+  <path d="M219 255Q285 286 399 262L419 327H181Z" fill="#e8dbb8" opacity=".88"/>
+  <path d="M210 274Q296 299 406 277" fill="none" stroke="#7eaf9a" stroke-width="3" stroke-dasharray="8 9"/>
+</g>
+<path d="M106 731h388" stroke="#cbd9c2" stroke-opacity=".42"/>
+<text x="106" y="702" font-family="'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#f2f6ee">11章  ·  40个工厂场景</text>
+<text x="106" y="764" font-family="Arial,sans-serif" font-size="15" fill="#cfe6db" letter-spacing="2">LEARN  ·  LISTEN  ·  SPEAK</text>
+</svg>
