@@ -1,9 +1,9 @@
 {
-  "version": 12,
+  "version": 13,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2497,
+  "item_count": 2600,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -443,12 +443,49 @@
           "theme_id": "11",
           "title": "个人信息",
           "title_my": "ကိုယ်ရေးအချက်အလက်",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
+          "phrase_count": 103,
+          "lessons": [
+            {
+              "id": "11.1",
+              "title": "11.1 姓名年龄",
+              "title_my": "11.1 အမည်နှင့် အသက်",
+              "count": 21
+            },
+            {
+              "id": "11.2",
+              "title": "11.2 国籍家乡",
+              "title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
+              "count": 20
+            },
+            {
+              "id": "11.3",
+              "title": "11.3 住在哪里和居住情况",
+              "title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
+              "count": 23
+            },
+            {
+              "id": "11.4",
+              "title": "11.4 工作情况",
+              "title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
+              "count": 21
+            },
+            {
+              "id": "11.5",
+              "title": "11.5 联系方式",
+              "title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
+              "count": 18
+            }
+          ],
           "data_path": null,
-          "needs_pronunciation_review": false
+          "needs_pronunciation_review": true,
+          "lesson_count": 5,
+          "data_url": "packs/11.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/11.json",
+          "data_version": 9,
+          "data_sha256": "40ececb88f319bd8a90e45a76cbf104cdef33f284d13bd194cfac429663da2a0",
+          "data_size": 182599
         },
         {
           "theme_id": "12",
@@ -1839,9 +1876,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "20261010-spoken10-v9",
-  "source_status": "36 complete themes, 6 patch-only and 18 missing",
+  "revision": "20261010-spoken11-v9",
+  "source_status": "37 complete themes, 6 patch-only and 17 missing",
   "schema_version": 1,
-  "updated_at": "2026-10-10T12:30:00Z",
+  "updated_at": "2026-10-10T13:00:00Z",
   "packs_base_path": "packs/"
 }
