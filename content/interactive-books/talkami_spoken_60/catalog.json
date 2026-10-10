@@ -1,9 +1,9 @@
 {
-  "version": 13,
+  "version": 14,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2600,
+  "item_count": 2689,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -491,12 +491,49 @@
           "theme_id": "12",
           "title": "家庭朋友",
           "title_my": "မိသားစုနှင့် သူငယ်ချင်း",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
+          "phrase_count": 89,
+          "lessons": [
+            {
+              "id": "12.1",
+              "title": "12.1 家庭成员",
+              "title_my": "12.1 မိသားစုဝင်များ",
+              "count": 21
+            },
+            {
+              "id": "12.2",
+              "title": "12.2 介绍朋友同事",
+              "title_my": "12.2 သူငယ်ချင်းနှင့် လုပ်ဖော်ကိုင်ဖက် မိတ်ဆက်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "12.3",
+              "title": "12.3 关系和称呼",
+              "title_my": "12.3 ဆက်ဆံရေးနှင့် ခေါ်ဝေါ်ပုံ",
+              "count": 14
+            },
+            {
+              "id": "12.4",
+              "title": "12.4 关心家人朋友",
+              "title_my": "12.4 မိသားစုနှင့် သူငယ်ချင်းကို ဂရုစိုက်မေးမြန်းခြင်း",
+              "count": 18
+            },
+            {
+              "id": "12.5",
+              "title": "12.5 兴趣爱好和熟人聊天",
+              "title_my": "12.5 ဝါသနာနှင့် ရင်းနှီးသူ စကားပြောခြင်း",
+              "count": 17
+            }
+          ],
           "data_path": null,
-          "needs_pronunciation_review": false
+          "needs_pronunciation_review": true,
+          "lesson_count": 5,
+          "data_url": "packs/12.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/12.json",
+          "data_version": 9,
+          "data_size": 177553,
+          "data_sha256": "63b43a7b112112ca64f7305ce54349f44d17421bc975ad2169dd81669a0a7d16"
         },
         {
           "theme_id": "13",
@@ -1876,9 +1913,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "20261010-spoken11-v9",
-  "source_status": "37 complete themes, 6 patch-only and 17 missing",
+  "revision": "20261010-spoken12-v9",
+  "source_status": "38 complete themes, 6 patch-only and 16 missing",
   "schema_version": 1,
-  "updated_at": "2026-10-10T13:00:00Z",
+  "updated_at": "2026-10-10T14:33:00Z",
   "packs_base_path": "packs/"
 }
