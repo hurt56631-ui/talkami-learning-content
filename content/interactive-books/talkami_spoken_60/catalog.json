@@ -1,9 +1,9 @@
 {
-  "version": 10,
+  "version": 11,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2140,
+  "item_count": 2356,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -340,12 +340,43 @@
           "theme_id": "09",
           "title": "计划决定",
           "title_my": "အစီအစဉ်နှင့် ဆုံးဖြတ်ချက်",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
+          "phrase_count": 79,
+          "lessons": [
+            {
+              "id": "09.1",
+              "title": "09.1 表达想法",
+              "title_my": "09.1 အတွေးနှင့် အစီအစဉ်ဖော်ပြခြင်း",
+              "count": 21
+            },
+            {
+              "id": "09.2",
+              "title": "09.2 制定计划",
+              "title_my": "09.2 အစီအစဉ်ချမှတ်ခြင်း",
+              "count": 20
+            },
+            {
+              "id": "09.3",
+              "title": "09.3 商量安排",
+              "title_my": "09.3 အစီအစဉ်ညှိနှိုင်းခြင်း",
+              "count": 19
+            },
+            {
+              "id": "09.4",
+              "title": "09.4 改变原来的计划",
+              "title_my": "09.4 မူလအစီအစဉ်ပြောင်းခြင်း",
+              "count": 19
+            }
+          ],
           "data_path": null,
-          "needs_pronunciation_review": false
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/09.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/09.json",
+          "data_version": 9,
+          "data_size": 144610,
+          "data_sha256": "3b4ebc080e8f5ad58e113ead87f6ae651f0667a2dbcbb164c26d57cc5fcd20a6"
         },
         {
           "theme_id": "10",
@@ -1765,9 +1796,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "20261010-spoken08-v9",
-  "source_status": "34 complete themes, 6 patch-only and 20 missing",
+  "revision": "20261010-spoken09-v9",
+  "source_status": "35 complete themes, 6 patch-only and 19 missing",
   "schema_version": 1,
-  "updated_at": "2026-10-10T00:00:00Z",
+  "updated_at": "2026-10-10T11:30:00Z",
   "packs_base_path": "packs/"
 }
