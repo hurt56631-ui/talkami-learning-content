@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -297,13 +297,44 @@
         {
           "theme_id": "08",
           "title": "原因结果",
-          "title_my": "အကြောင်းရင်းနှင့် ရလဒ်",
-          "status": "missing",
+          "title_my": "08 အကြောင်းရင်းနှင့် ရလဒ်",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
+          "phrase_count": 70,
+          "lessons": [
+            {
+              "id": "08.1",
+              "title": "08.1 询问原因",
+              "title_my": "08.1 အကြောင်းရင်း မေးခြင်း",
+              "count": 14
+            },
+            {
+              "id": "08.2",
+              "title": "08.2 说明原因",
+              "title_my": "08.2 အကြောင်းရင်း ရှင်းပြခြင်း",
+              "count": 18
+            },
+            {
+              "id": "08.3",
+              "title": "08.3 询问情况",
+              "title_my": "08.3 လက်ရှိအခြေအနေ မေးခြင်း",
+              "count": 19
+            },
+            {
+              "id": "08.4",
+              "title": "08.4 表达结果与后果",
+              "title_my": "08.4 ရလဒ်နှင့် သက်ရောက်မှု ဖော်ပြခြင်း",
+              "count": 19
+            }
+          ],
           "data_path": null,
-          "needs_pronunciation_review": false
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/08.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/08.json",
+          "data_version": 9,
+          "data_size": 161801,
+          "data_sha256": "e4d724a70dc374a2802102967adcf0396389653b76aa4da29074ed67cad571a4"
         },
         {
           "theme_id": "09",
@@ -1734,8 +1765,8 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "20261010-spoken07-v9",
-  "source_status": "33 complete themes, 6 patch-only and 21 missing",
+  "revision": "20261010-spoken08-v9",
+  "source_status": "34 complete themes, 6 patch-only and 20 missing",
   "schema_version": 1,
   "updated_at": "2026-10-10T00:00:00Z",
   "packs_base_path": "packs/"
