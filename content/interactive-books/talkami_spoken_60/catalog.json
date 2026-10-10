@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -255,13 +255,44 @@
         {
           "theme_id": "07",
           "title": "观点评价",
-          "title_my": "အမြင်နှင့် အကဲဖြတ်ခြင်း",
-          "status": "missing",
+          "title_my": "07 အမြင်နှင့် အကဲဖြတ်ခြင်း",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
+          "phrase_count": 67,
+          "lessons": [
+            {
+              "id": "07.1",
+              "title": "07.1 表达看法",
+              "title_my": "07.1 အမြင်ဖော်ပြခြင်း",
+              "count": 13
+            },
+            {
+              "id": "07.2",
+              "title": "07.2 喜好偏好",
+              "title_my": "07.2 ကြိုက်နှစ်သက်မှုနှင့် ရွေးချယ်လိုမှု",
+              "count": 17
+            },
+            {
+              "id": "07.3",
+              "title": "07.3 好坏评价",
+              "title_my": "07.3 ကောင်းမကောင်း အကဲဖြတ်ခြင်း",
+              "count": 18
+            },
+            {
+              "id": "07.4",
+              "title": "07.4 比较选择",
+              "title_my": "07.4 နှိုင်းယှဉ်ခြင်းနှင့် ရွေးချယ်ခြင်း",
+              "count": 19
+            }
+          ],
           "data_path": null,
-          "needs_pronunciation_review": false
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/07.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/07.json",
+          "data_version": 9,
+          "data_size": 155195,
+          "data_sha256": "9db16dff670adb07f3f15f585ff7f4744fd5c6bc037b76696d2dc24924897e67"
         },
         {
           "theme_id": "08",
@@ -1703,8 +1734,8 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "20261010-spoken06-v9",
-  "source_status": "32 complete themes, 6 patch-only and 22 missing",
+  "revision": "20261010-spoken07-v9",
+  "source_status": "33 complete themes, 6 patch-only and 21 missing",
   "schema_version": 1,
   "updated_at": "2026-10-10T00:00:00Z",
   "packs_base_path": "packs/"
