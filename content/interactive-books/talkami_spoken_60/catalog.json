@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -90,10 +90,10 @@
           "data_path": "free/02.json.gz.b64",
           "needs_pronunciation_review": true,
           "data_url": "packs/02.json",
-          "source_data": "content/interactive-books/talkami_spoken_60/packs/02.json",
-          "data_version": 1,
-          "data_size": 75884,
-          "data_sha256": "cc1d00c5342ea4a3da12246443f7a675a4bcebd494189698297cf25269a12e7e",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/02.json",
+          "data_version": 9,
+          "data_size": 113965,
+          "data_sha256": "2df1fb40884cd654a4901a0752eaa0ba77d05e8bbe46bd512c73df6edb23379f",
           "lesson_count": 3
         },
         {
@@ -1703,9 +1703,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "20261010-topic-packs-v9",
+  "revision": "20261010-spoken02-v9",
   "source_status": "32 complete themes, 6 patch-only and 22 missing",
   "schema_version": 1,
-  "updated_at": "2026-10-10T08:22:36Z",
+  "updated_at": "2026-10-10T00:00:00Z",
   "packs_base_path": "packs/"
 }
