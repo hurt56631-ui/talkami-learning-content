@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 9,
-  "updated_at": "2026-10-11T05:00:00Z",
+  "version": 10,
+  "updated_at": "2026-10-11T05:10:00Z",
   "zone_id": 2,
   "zone_title": "居家生活",
   "theme_id": "20",
@@ -636,7 +636,7 @@
       "lesson_id": "20.1",
       "lesson_title": "20.1 空调温度",
       "lesson_title_my": "20.1 အဲကွန်းနှင့် အပူချိန်",
-      "pinyin": "kōng tiáo bù zhì lěng",
+      "pinyin": "kōng tiáo bú zhì lěng",
       "mistakes": [
         {
           "text": "“不制冷”表示空调可能正在运转却没有冷气，和“空调开不了”完全无法启动不同。",
@@ -2192,6 +2192,7 @@
     "individual_bilingual_scenarios": 62,
     "usage_cautions_aircon_and_outage": 40,
     "bilingual_cautions": 59,
-    "no_forced_cautions": 3
+    "no_forced_cautions": 3,
+    "pinyin_sandhi_correction": "Card s20_1_0016: 空调不制冷 is kōng tiáo bú zhì lěng; 不 before 4th tone becomes bú."
   }
 }
