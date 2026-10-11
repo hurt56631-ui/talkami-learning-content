@@ -1,9 +1,9 @@
 {
-  "version": 37,
+  "version": 38,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2689,
+  "item_count": 2749,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1051,12 +1051,37 @@
           "theme_id": "23",
           "title": "餐厅点餐",
           "title_my": "စားသောက်ဆိုင်တွင် အော်ဒါမှာခြင်း",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
+          "phrase_count": 60,
+          "lessons": [
+            {
+              "id": "23.1",
+              "title": "23.1 入店排队找座",
+              "title_my": "23.1 ဆိုင်ဝင်၊ တန်းစီ၊ နေရာရှာခြင်း",
+              "count": 23
+            },
+            {
+              "id": "23.2",
+              "title": "23.2 看菜单与问菜",
+              "title_my": "23.2 မီနူးကြည့်ပြီး ဟင်းမေးခြင်း",
+              "count": 18
+            },
+            {
+              "id": "23.3",
+              "title": "23.3 点菜、主食与追加",
+              "title_my": "23.3 ဟင်း၊ အဓိကအစာနှင့် ထပ်မှာခြင်း",
+              "count": 19
+            }
+          ],
           "data_path": null,
-          "needs_pronunciation_review": false
+          "needs_pronunciation_review": true,
+          "data_url": "packs/23.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/23.json",
+          "data_version": 2,
+          "data_size": 113608,
+          "data_sha256": "2a5558161579938d8fc5c02507607ed1f4b539a1393cf9e6e2a2d8a2c52a37bf",
+          "lesson_count": 3
         },
         {
           "theme_id": "24",
@@ -1914,8 +1939,8 @@
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
   "revision": "spoken-qa-culture-and-phonetic-20261011",
-  "source_status": "38 complete themes, 6 patch-only and 16 missing",
+  "source_status": "39 complete themes, 6 patch-only and 15 missing",
   "schema_version": 1,
-  "updated_at": "2026-10-11T14:00:00Z",
+  "updated_at": "2026-10-11T15:00:00Z",
   "packs_base_path": "packs/"
 }
