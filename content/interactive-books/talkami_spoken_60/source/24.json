@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "version": 4,
-  "updated_at": "2026-10-12T00:00:00Z",
+  "updated_at": "2026-10-12T04:12:32.548Z",
   "zone_id": 3,
   "zone_title": "吃饭餐饮",
   "theme_id": "24",
@@ -604,12 +604,12 @@
       "lesson_id": "24.1",
       "lesson_title": "24.1 催菜与上菜进度",
       "lesson_title_my": "24.1 ဟင်းတင်ချိန်နဲ့ မြန်မြန်လုပ်ပေးဖို့ မေးခြင်း",
-      "pinyin": "bù hǎo yì sī mǎ shàng bāng nín cuī",
+      "pinyin": "bù hǎo yì si mǎ shàng bāng nín cuī",
       "phonetic_my": "ပု ဟောင် ယီ စီး မာ ရှန်း ပန်း နင် ဆွေ့",
       "mistakes": [
         {
-          "text": "“帮您催”是去催促厨房，不是已经确认菜何时送到；顾客可再问估计时间。",
-          "text_my": "“帮您催” က မီးဖိုခန်းကို အမြန်လုပ်ဖို့ ပြောပေးမှာပါ၊ ဘယ်အချိန်ရမလဲ အတည်ပြုပြီးသား မဟုတ်ဘူး။"
+          "text": "“帮您催”是去催促厨房，不是已经确认菜何时送到；顾客可再问估计时间。 “不好意思”中的“思”通常读轻声 si。",
+          "text_my": "“帮您催” က မီးဖိုခန်းကို အမြန်လုပ်ဖို့ ပြောပေးမှာပါ၊ ဘယ်အချိန်ရမလဲ အတည်ပြုပြီးသား မဟုတ်ဘူး။ “不好意思” မှာ “思” ကို အသံပေါ့ si လို့ ဖတ်တယ်။"
         }
       ]
     },
@@ -1559,12 +1559,12 @@
       "lesson_id": "24.3",
       "lesson_title": "24.3 菜品反馈、换菜与投诉",
       "lesson_title_my": "24.3 ဟင်းအရည်အသွေး၊ လဲပေးခြင်းနှင့် တိုင်ကြားခြင်း",
-      "pinyin": "wèi dào bú cuò",
+      "pinyin": "wèi dao bú cuò",
       "phonetic_my": "ဝေး တောင် ပု ဆွေါ",
       "mistakes": [
         {
-          "text": "“不错”是肯定评价，意思是“挺好”；不能逐字当成“没有错误”。",
-          "text_my": "ဒီ “不错” က အရသာကောင်းတယ်၊ တော်တော်ကောင်းတယ်ဆိုတာပါ။ စာလုံးအတိုင်း “အမှားမရှိဘူး” လို့ မပြန်ရဘူး။"
+          "text": "“不错”是肯定评价，意思是“挺好”；不能逐字当成“没有错误”。 食物味觉义的“味道”中“道”通常读轻声 dao。",
+          "text_my": "ဒီ “不错” က အရသာကောင်းတယ်၊ တော်တော်ကောင်းတယ်ဆိုတာပါ။ စာလုံးအတိုင်း “အမှားမရှိဘူး” လို့ မပြန်ရဘူး။ အရသာပြောတဲ့ “味道” မှာ “道” ကို အသံပေါ့ dao လို့ ဖတ်တယ်။"
         }
       ]
     },
@@ -1948,7 +1948,10 @@
     "bilingual_cautions_24_1": 20,
     "bilingual_usage_24_3": 20,
     "bilingual_cautions_24_3": 20,
-    "food_safety": "For undercooked meat, potential spoilage and foreign objects, avoid teaching a mere reheating/reassurance response."
+    "food_safety": "For undercooked meat, potential spoilage and foreign objects, avoid teaching a mere reheating/reassurance response.",
+    "individual_bilingual_contexts": 58,
+    "bilingual_cautions": 58,
+    "phonetic_review": "58 existing Burmese approximate phonetics retained; corrected pinyin 不好意思 final si and taste sense 味道 final dao to neutral tone. Native-speaker/TTS review still required."
   },
   "quality_standard": "Talkami V2, contextual learner-centered spoken Chinese-Burmese cards; independent native and audio QA pending"
 }
