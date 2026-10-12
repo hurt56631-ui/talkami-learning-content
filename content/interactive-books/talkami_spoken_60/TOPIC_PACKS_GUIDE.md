@@ -11,3 +11,8 @@
 独立的`content/ai_course/分类场景_fenlei_changjing/`保留：它是其他AI教学功能用的`scenes`源素材，不是网页短句阅读器读取的数据；直接删除可能破坏另一功能。
 
 主题34–44（11主题）仍然是尚未逐卡教学精修的已上架旧质量内容；因没有完整新版可替代，不直接删除整课。拼音及缅文近似谐音需要人工审定，这六个主题的新版亦尚未经过独立缅语教师与真人录音终审。
+
+
+## 2026-10-12 update after themes 40–44
+
+Current catalog is V50: 39 themes are available and 21 are missing. Themes 34–44 are no longer all unrefined: 34–39 and 40–44 have now received per-card bilingual usage and mistake reviews. Themes 40 (56 cards, V3), 41 (58, V5), 42 (57, V4), 43 (50, V4), 44 (66, V4) now have editable source JSONs and updated website packs, 287 published cards in total. Old guide statements about 38 themes and 34–44 remaining unrefined are historical only. Native speaker pronunciation and real-device audio testing are still pending.
