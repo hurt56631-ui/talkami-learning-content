@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "version": 131,
-  "updated_at": "2026-10-13T00:00:00Z",
+  "version": 132,
+  "updated_at": "2026-10-13T09:10:00+06:30",
   "courses": [
     {
       "id": "s01_greetings_practice",
@@ -25,8 +25,8 @@
               "id": "s01_l1_daily",
               "title": "01.1 日常打招呼",
               "title_my": "01.1 နေ့စဉ် နှုတ်ဆက်ခြင်း",
-              "subtitle": "本课 21 句 · 14 道选择题",
-              "subtitle_my": "ဝါကျ 21 ကြောင်းမှ ရွေးချယ်မေးခွန်း 14 ပုဒ်",
+              "subtitle": "本课 21 句 · 14 道混合练习题",
+              "subtitle_my": "ဝါကျ 21 ကြောင်းမှ ရောစပ်လေ့ကျင့်ခန်း 14 ပုဒ်",
               "type": "practice",
               "position": "center",
               "icon": "1",
@@ -35,15 +35,15 @@
               "source_phrase_count": 21,
               "required_lessons": [],
               "package_id": "zh_speaking_greetings_73",
-              "package_version": 1,
-              "lesson_file": "lessons/s01_l1_daily.json"
+              "package_version": 2,
+              "lesson_file": "lessons/s01_l1_daily_v2.json"
             },
             {
               "id": "s01_l2_smalltalk",
               "title": "01.2 熟人寒暄",
               "title_my": "01.2 ရင်းနှီးသူနှင့် အခြေအနေမေးခြင်း",
-              "subtitle": "本课 15 句 · 10 道选择题",
-              "subtitle_my": "ဝါကျ 15 ကြောင်းမှ ရွေးချယ်မေးခွန်း 10 ပုဒ်",
+              "subtitle": "本课 15 句 · 10 道混合练习题",
+              "subtitle_my": "ဝါကျ 15 ကြောင်းမှ ရောစပ်လေ့ကျင့်ခန်း 10 ပုဒ်",
               "type": "practice",
               "position": "right",
               "icon": "2",
@@ -54,15 +54,15 @@
                 "s01_l1_daily"
               ],
               "package_id": "zh_speaking_greetings_73",
-              "package_version": 1,
-              "lesson_file": "lessons/s01_l2_smalltalk.json"
+              "package_version": 2,
+              "lesson_file": "lessons/s01_l2_smalltalk_v2.json"
             },
             {
               "id": "s01_l3_care",
               "title": "01.3 关心近况",
               "title_my": "01.3 အခြေအနေကို ဂရုစိုက်မေးခြင်း",
-              "subtitle": "本课 23 句 · 14 道选择题",
-              "subtitle_my": "ဝါကျ 23 ကြောင်းမှ ရွေးချယ်မေးခွန်း 14 ပုဒ်",
+              "subtitle": "本课 23 句 · 14 道混合练习题",
+              "subtitle_my": "ဝါကျ 23 ကြောင်းမှ ရောစပ်လေ့ကျင့်ခန်း 14 ပုဒ်",
               "type": "practice",
               "position": "left",
               "icon": "3",
@@ -73,15 +73,15 @@
                 "s01_l2_smalltalk"
               ],
               "package_id": "zh_speaking_greetings_73",
-              "package_version": 1,
-              "lesson_file": "lessons/s01_l3_care.json"
+              "package_version": 2,
+              "lesson_file": "lessons/s01_l3_care_v2.json"
             },
             {
               "id": "s01_l4_goodbye",
               "title": "01.4 告别祝愿",
               "title_my": "01.4 နှုတ်ဆက်ခြင်းနှင့် ဆုတောင်းခြင်း",
-              "subtitle": "本课 14 句 · 10 道选择题",
-              "subtitle_my": "ဝါကျ 14 ကြောင်းမှ ရွေးချယ်မေးခွန်း 10 ပုဒ်",
+              "subtitle": "本课 14 句 · 10 道混合练习题",
+              "subtitle_my": "ဝါကျ 14 ကြောင်းမှ ရောစပ်လေ့ကျင့်ခန်း 10 ပုဒ်",
               "type": "checkpoint",
               "position": "center",
               "icon": "4",
@@ -92,8 +92,8 @@
                 "s01_l3_care"
               ],
               "package_id": "zh_speaking_greetings_73",
-              "package_version": 1,
-              "lesson_file": "lessons/s01_l4_goodbye.json"
+              "package_version": 2,
+              "lesson_file": "lessons/s01_l4_goodbye_v2.json"
             }
           ],
           "accent": "#35A981",
