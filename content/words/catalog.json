@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": 4,
-  "updated_at": "2026-09-19T00:00:00Z",
+  "version": 5,
+  "updated_at": "2026-10-13T00:00:00Z",
   "type": "words",
   "title": "单词库",
-  "subtitle": "基础、旅行、餐饮和工作场景词汇；目录在线更新，数据下载后本地使用。",
+  "subtitle": "HSK1、HSK2、HSK3 基础中文单词，共 600 词；提供拼音、缅语释义与近似发音。",
   "items": [
     {
       "id": "hsk1_demo",
@@ -35,8 +35,8 @@
       "level": "hsk2",
       "cover_url": "travel-words-cover-v1.webp",
       "cover_version": 2,
-      "data_url": "travel-words-v1.json",
-      "data_version": 3,
+      "data_url": "hsk2-words-v4.json",
+      "data_version": 4,
       "data_sha256": "",
       "item_count": 150,
       "source_cover": "content/words/covers/hsk2.webp",
@@ -54,33 +54,14 @@
       "level": "hsk3",
       "cover_url": "food-words-cover-v1.webp",
       "cover_version": 2,
-      "data_url": "food-words-v1.json",
-      "data_version": 3,
+      "data_url": "hsk3-words-v4.json",
+      "data_version": 4,
       "data_sha256": "",
       "item_count": 300,
       "source_cover": "content/words/covers/hsk3.webp",
       "source_data": "content/words/packs/hsk3.json",
       "title_my": "HSK3",
       "subtitle_my": "HSK3 အခြေခံ စကားလုံး 300 ခု"
-    },
-    {
-      "id": "work_words",
-      "title": "工作办公",
-      "subtitle": "办公室和职场高频词汇",
-      "preview": "公司 / 会议 / 邮件",
-      "badge": "15词",
-      "target": "word",
-      "level": "work_words",
-      "cover_url": "work-words-cover-v1.webp",
-      "cover_version": 1,
-      "data_url": "work-words-v1.json",
-      "data_version": 1,
-      "data_sha256": "",
-      "item_count": 15,
-      "source_cover": "content/words/covers/work_words_v1.webp",
-      "source_data": "content/words/packs/work_words_v1.json",
-      "title_my": "အလုပ်နှင့် ရုံး",
-      "subtitle_my": "ရုံးနှင့် အလုပ်ခွင်တွင် အသုံးများသော စကားလုံးများ"
     }
   ]
 }
