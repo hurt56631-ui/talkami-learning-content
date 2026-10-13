@@ -1270,7 +1270,10 @@ def build_learning_path(packages: dict[str, dict[str, Any]]) -> None:
             warn(f"Package {package_id} contains unreferenced lesson JSON; remove when convenient: "
                  + ", ".join(orphaned))
         if not meta["referenced_lessons"]:
-            fail(f"Package {package_id} is not referenced by the learning catalog")
+            # Keep retired lesson packs downloadable for older installed apps.
+            # An unreferenced pack cannot appear in the current catalog, so
+            # treating it as a release error blocks unrelated word updates.
+            warn(f"Archived package {package_id} has no active catalog lessons; retaining release ZIP")
 
     output = DIST / "learning-path-catalog.json"
     write_json(output, catalog)
