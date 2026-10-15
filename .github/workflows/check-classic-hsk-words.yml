@@ -1,0 +1,64 @@
+name: Validate classic HSK word packs
+
+on:
+  pull_request:
+    paths:
+      - 'content/words/packs/hsk*.json'
+      - 'content/words/catalog.json'
+      - 'scripts/build_release.py'
+      - '.github/workflows/check-classic-hsk-words.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'content/words/packs/hsk*.json'
+      - 'content/words/catalog.json'
+      - 'scripts/build_release.py'
+      - '.github/workflows/check-classic-hsk-words.yml'
+
+jobs:
+  validate-words:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check release script syntax and full bilingual vocabulary
+        shell: bash
+        run: |
+          python3 -m py_compile scripts/build_release.py
+          python3 - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          root = Path("content/words")
+          catalog = json.loads((root / "catalog.json").read_text(encoding="utf-8"))
+          levels = {item["level"]: item for item in catalog["items"]}
+          expected = {"hsk1": (150, 1), "hsk2": (150, 151), "hsk3": (300, 301)}
+          unique_ids = set()
+          for level, (count, start) in expected.items():
+              item = levels[level]
+              assert item["item_count"] == count, (level, item["item_count"])
+              rows = json.loads((root / "packs" / f"{level}.json").read_text(encoding="utf-8"))
+              assert len(rows) == count, (level, len(rows))
+              for offset, word in enumerate(rows):
+                  ident = word["id"]
+                  assert ident == start + offset, (level, ident, offset)
+                  assert ident not in unique_ids, (level, ident)
+                  unique_ids.add(ident)
+                  for key in ("hanzi", "pinyin", "burmese", "phonetic_my"):
+                      assert str(word.get(key, "")).strip(), (ident, key)
+                  assert len(word["examples"]) >= 2, (ident, "examples")
+                  for example in word["examples"]:
+                      assert example.get("hanzi") and example.get("burmese"), (ident, "example translation")
+                  if level == "hsk1":
+                      continue
+                  assert word.get("part_of_speech", "").strip(), (ident, "part_of_speech")
+                  zh, my = word.get("collocations"), word.get("collocations_my")
+                  assert isinstance(zh, list) and len(zh) == 2, (ident, "collocations")
+                  assert isinstance(my, list) and len(my) == len(zh), (ident, "collocations_my")
+                  assert len(set(zh)) == len(zh), (ident, "duplicate collocation")
+                  for phrase, translation in zip(zh, my):
+                      assert re.search(r"[一-龥]", phrase), (ident, phrase)
+                      assert re.search(r"[က-အ]", translation), (ident, translation)
+          print(f"Validated {len(unique_ids)} unique, contiguous classic HSK IDs and 900 bilingual collocation pairs")
+          PY

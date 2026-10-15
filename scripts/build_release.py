@@ -372,6 +372,25 @@ def _validate_word_records(words: list[Any], source_data: Path, level: str) -> N
                 require_text(example.get("burmese"), f"example Myanmar for {word_id}", 2400)
                 optional_text(example.get("pinyin"), f"example pinyin for {word_id}", 1200)
                 optional_text(example.get("pinyin_override"), f"example pinyin override for {word_id}", 1200)
+            if level in ("hsk2", "hsk3"):
+                # Classic HSK2/3 are now bilingual teaching packs, not only
+                # gloss/example lists. Prevent incomplete re-publications.
+                require_text(word.get("part_of_speech"), f"part of speech for {word_id}", 32)
+                zh = require_list(word.get("collocations"), f"collocations for {word_id}", 2, 2)
+                my = require_list(word.get("collocations_my"), f"Myanmar collocations for {word_id}", 2, 2)
+                if len(zh) != len(my):
+                    fail(f"Mismatched bilingual collocations for {word_id}")
+                seen_collocations: set[str] = set()
+                for pair_index, (hanzi_phrase, myanmar_phrase) in enumerate(zip(zh, my), start=1):
+                    hanzi_phrase = require_text(hanzi_phrase, f"collocation #{pair_index} for {word_id}", 120)
+                    myanmar_phrase = require_text(myanmar_phrase, f"Myanmar collocation #{pair_index} for {word_id}", 240)
+                    if not re.search(r"[\\u3400-\\u9fff]", hanzi_phrase):
+                        fail(f"Non-Chinese collocation for {word_id}")
+                    if not re.search(r"[\\u1000-\\u109f\\uAA60-\\uAA7F]", myanmar_phrase):
+                        fail(f"Non-Myanmar translation of collocation for {word_id}")
+                    if hanzi_phrase in seen_collocations:
+                        fail(f"Duplicate collocation for {word_id}")
+                    seen_collocations.add(hanzi_phrase)
             continue
 
         # Existing rich format remains supported. Pinyin is optional because the
