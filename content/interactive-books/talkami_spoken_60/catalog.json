@@ -1,9 +1,9 @@
 {
-  "version": 52,
+  "version": 53,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2895,
+  "item_count": 2972,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1320,12 +1320,40 @@
           "theme_id": "29",
           "title": "一般商品购物",
           "title_my": "အထွေထွေပစ္စည်းဝယ်ယူခြင်း",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 77,
+          "lessons": [
+            {
+              "id": "29.1",
+              "title": "29.1 询问有无与型号",
+              "title_my": "29.1 ပစ္စည်းရှိ/မရှိနှင့် မော်ဒယ်",
+              "count": 19
+            },
+            {
+              "id": "29.2",
+              "title": "29.2 比较质量与功能",
+              "title_my": "29.2 အရည်အသွေးနှင့် လုပ်ဆောင်ချက်နှိုင်းယှဉ်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "29.3",
+              "title": "29.3 试用与功能操作",
+              "title_my": "29.3 စမ်းသုံးခြင်းနှင့် လုပ်ဆောင်ချက်",
+              "count": 19
+            },
+            {
+              "id": "29.4",
+              "title": "29.4 门店营业与排队",
+              "title_my": "29.4 ဆိုင်ဖွင့်ချိန်နှင့် တန်းစီခြင်း",
+              "count": 20
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/29.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/29.json",
+          "lesson_count": 4,
+          "data_version": 2
         },
         {
           "theme_id": "30",
@@ -1992,9 +2020,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme28-v2-reply-first-20261030",
-  "source_status": "41 published themes, 19 missing; phonetic review pending",
+  "revision": "spoken-theme29-v2-reply-first-20261031",
+  "source_status": "42 published themes, 18 missing; phonetic review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:00:00Z",
+  "updated_at": "2026-10-31T00:00:00Z",
   "packs_base_path": "packs/"
 }
