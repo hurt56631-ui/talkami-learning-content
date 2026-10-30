@@ -1,9 +1,9 @@
 {
-  "version": 51,
+  "version": 52,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2831,
+  "item_count": 2895,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1285,12 +1285,36 @@
           "theme_id": "28",
           "title": "服装鞋店",
           "title_my": "အဝတ်အထည်နှင့် ဖိနပ်ဆိုင်",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 64,
+          "lessons": [
+            {
+              "id": "28.1",
+              "title": "28.1 颜色款式",
+              "title_my": "28.1 အရောင်နှင့် ပုံစံ",
+              "count": 20
+            },
+            {
+              "id": "28.2",
+              "title": "28.2 尺码试穿与合身反馈",
+              "title_my": "28.2 ဆိုဒ်၊ စမ်းဝတ်ခြင်းနှင့် ကိုက်ညီမှု",
+              "count": 23
+            },
+            {
+              "id": "28.3",
+              "title": "28.3 换码与查库存",
+              "title_my": "28.3 ဆိုဒ်လဲခြင်းနှင့် လက်ကျန်စစ်ခြင်း",
+              "count": 21
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/28.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/28.json",
+          "lesson_count": 3,
+          "data_version": 2,
+          "data_size": 82671,
+          "data_sha256": "b135eddaeb669e70b5255973d8aed1274aa3136f8c607ecb3b8fb32d5f279614"
         },
         {
           "theme_id": "29",
@@ -1968,8 +1992,8 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme27-v2-reply-first-20261030",
-  "source_status": "40 published themes, 20 missing; phonetic review pending",
+  "revision": "spoken-theme28-v2-reply-first-20261030",
+  "source_status": "41 published themes, 19 missing; phonetic review pending",
   "schema_version": 1,
   "updated_at": "2026-10-30T00:00:00Z",
   "packs_base_path": "packs/"
