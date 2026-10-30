@@ -1,0 +1,2184 @@
+{
+  "schema_version": 2,
+  "version": 2,
+  "updated_at": "2026-10-30T00:00:00Z",
+  "zone_id": 4,
+  "zone_title": "购物消费",
+  "theme_id": "27",
+  "theme_title": "27 超市便利店",
+  "theme_title_my": "27 စူပါမားကတ်နှင့် ကွန်ဗီနီစတိုး",
+  "lesson_count": 4,
+  "source_phrase_count": 83,
+  "phrase_count": 82,
+  "lessons": [
+    {
+      "lesson_id": "27.1",
+      "pack_id": "course27_1_find_goods",
+      "title": "27.1 寻找商品",
+      "title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "phrase_count": 21,
+      "phrase_ids": [
+        "s27_1_0001",
+        "s27_1_0002",
+        "s27_1_0003",
+        "s27_1_0004",
+        "s27_1_0005",
+        "s27_1_0006",
+        "s27_1_0007",
+        "s27_1_0008",
+        "s27_1_0009",
+        "s27_1_0010",
+        "s27_1_0011",
+        "s27_1_0012",
+        "s27_1_0013",
+        "s27_1_0014",
+        "s27_1_0015",
+        "s27_1_0016",
+        "s27_1_0017",
+        "s27_1_0018",
+        "s27_1_0019",
+        "s27_1_0020",
+        "s27_1_0021"
+      ],
+      "source_links": []
+    },
+    {
+      "lesson_id": "27.2",
+      "pack_id": "course27_2_fresh_weight",
+      "title": "27.2 生鲜称重",
+      "title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "phrase_count": 20,
+      "phrase_ids": [
+        "s27_2_0001",
+        "s27_2_0002",
+        "s27_2_0003",
+        "s27_2_0004",
+        "s27_2_0005",
+        "s27_2_0006",
+        "s27_2_0007",
+        "s27_2_0008",
+        "s27_2_0009",
+        "s27_2_0010",
+        "s27_2_0011",
+        "s27_2_0012",
+        "s27_2_0013",
+        "s27_2_0014",
+        "s27_2_0015",
+        "s27_2_0016",
+        "s27_2_0017",
+        "s27_2_0018",
+        "s27_2_0019",
+        "s27_2_0020"
+      ],
+      "source_links": []
+    },
+    {
+      "lesson_id": "27.3",
+      "pack_id": "course27_3_dates",
+      "title": "27.3 日期保质期",
+      "title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "phrase_count": 21,
+      "phrase_ids": [
+        "s27_3_0001",
+        "s27_3_0002",
+        "s27_3_0003",
+        "s27_3_0004",
+        "s27_3_0005",
+        "s27_3_0006",
+        "s27_3_0007",
+        "s27_3_0008",
+        "s27_3_0009",
+        "s27_3_0010",
+        "s27_3_0011",
+        "s27_3_0012",
+        "s27_3_0013",
+        "s27_3_0014",
+        "s27_3_0015",
+        "s27_3_0016",
+        "s27_3_0017",
+        "s27_3_0018",
+        "s27_3_0019",
+        "s27_3_0020",
+        "s27_3_0021"
+      ],
+      "source_links": []
+    },
+    {
+      "lesson_id": "27.4",
+      "pack_id": "course27_4_self_checkout",
+      "title": "27.4 自助结账",
+      "title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "phrase_count": 20,
+      "phrase_ids": [
+        "s27_4_0001",
+        "s27_4_0002",
+        "s27_4_0003",
+        "s27_4_0004",
+        "s27_4_0005",
+        "s27_4_0006",
+        "s27_4_0007",
+        "s27_4_0008",
+        "s27_4_0009",
+        "s27_4_0010",
+        "s27_4_0011",
+        "s27_4_0012",
+        "s27_4_0013",
+        "s27_4_0014",
+        "s27_4_0015",
+        "s27_4_0016",
+        "s27_4_0017",
+        "s27_4_0018",
+        "s27_4_0019",
+        "s27_4_0020"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "27.4",
+          "source_role": "must",
+          "text": "我不小心扫了两次。",
+          "status": "alternative",
+          "canonical_id": "s27_4_0004",
+          "canonical_text": "我刚才多扫了一次。",
+          "primary_lesson": "27.4",
+          "note": "同一交际目的的自然变体，吸收到同一核心卡。"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "s27_1_0001",
+      "level": "must",
+      "text": "请问牛奶在哪儿？",
+      "meaning_my": "မေးပါရစေ၊ နို့ ဘယ်မှာရှိလဲ။",
+      "alternatives": [
+        {
+          "text": "牛奶在哪儿？",
+          "meaning_my": "နို့ ဘယ်မှာလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "在第三排。",
+          "meaning_my": "တတိယအတန်းမှာ။"
+        },
+        {
+          "text": "我带您过去。",
+          "meaning_my": "လိုက်ပို့ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng wèn niú nǎi zài nǎr",
+      "phonetic_my": "ချင်း ဝန် နျိုး နိုင် ဇိုင် နာ"
+    },
+    {
+      "id": "s27_1_0002",
+      "level": "must",
+      "text": "有矿泉水吗？",
+      "meaning_my": "သတ္တုရေရှိလား။",
+      "alternatives": [
+        {
+          "text": "有瓶装水吗？",
+          "meaning_my": "ရေဘူးရှိလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "有，在那边。",
+          "meaning_my": "ရှိတယ်၊ ဟိုဘက်မှာ။"
+        },
+        {
+          "text": "暂时没货。",
+          "meaning_my": "လောလောဆယ် ပစ္စည်းမရှိဘူး။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu kuàng quán shuǐ ma",
+      "phonetic_my": "ယိုး ခွာင် ချွမ် ရှွေ့ မာ"
+    },
+    {
+      "id": "s27_1_0003",
+      "level": "must",
+      "text": "纸巾在哪一排？",
+      "meaning_my": "တစ်ရှူး ဘယ်အတန်းမှာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在第三排。",
+          "meaning_my": "တတိယအတန်းမှာ။"
+        },
+        {
+          "text": "我带您过去。",
+          "meaning_my": "လိုက်ပို့ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zhǐ jīn zài nǎ yì pái",
+      "phonetic_my": "ကျီး ကျင် ဇိုင် နာ ယီ ဖိုင်"
+    },
+    {
+      "id": "s27_1_0004",
+      "level": "must",
+      "text": "我找不到这个牌子。",
+      "meaning_my": "ဒီတံဆိပ်ကို ရှာမတွေ့ဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我帮您找。",
+          "meaning_my": "ရှာပေးမယ်။"
+        },
+        {
+          "text": "我带您过去。",
+          "meaning_my": "လိုက်ပို့ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zhǎo bu dào zhè ge pái zi",
+      "phonetic_my": "ဝေါ ကျောင် ပု တောင် ကျ က ဖိုင် ဇီး"
+    },
+    {
+      "id": "s27_1_0005",
+      "level": "must",
+      "text": "麻烦指一下。",
+      "meaning_my": "တစ်ချက်ညွှန်ပြပေးပါ။",
+      "alternatives": [
+        {
+          "text": "麻烦指给我看一下。",
+          "meaning_my": "တစ်ချက်ညွှန်ပြပေးပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "在那边。",
+          "meaning_my": "ဟိုဘက်မှာ။"
+        },
+        {
+          "text": "我给您指一下。",
+          "meaning_my": "တစ်ချက်ညွှန်ပြပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "má fan zhǐ yí xià",
+      "phonetic_my": "မာ ဖန် ကျီး ယီ ရှျာ"
+    },
+    {
+      "id": "s27_1_0006",
+      "level": "must",
+      "text": "这个牌子还有吗？",
+      "meaning_my": "ဒီတံဆိပ် ရှိသေးလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "有，在那边。",
+          "meaning_my": "ရှိတယ်၊ ဟိုဘက်မှာ။"
+        },
+        {
+          "text": "暂时没货。",
+          "meaning_my": "လောလောဆယ် ပစ္စည်းမရှိဘူး။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge pái zi hái yǒu ma",
+      "phonetic_my": "ကျ က ဖိုင် ဇီး ဟိုင်း ယိုး မာ"
+    },
+    {
+      "id": "s27_1_0007",
+      "level": "must",
+      "text": "还有别的牌子吗？",
+      "meaning_my": "တခြားတံဆိပ်ရှိသေးလား။",
+      "alternatives": [
+        {
+          "text": "有没有其他牌子的？",
+          "meaning_my": "တခြားတံဆိပ်တွေ ရှိလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "有，在那边。",
+          "meaning_my": "ရှိတယ်၊ ဟိုဘက်မှာ။"
+        },
+        {
+          "text": "暂时没货。",
+          "meaning_my": "လောလောဆယ် ပစ္စည်းမရှိဘူး။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "hái yǒu bié de pái zi ma",
+      "phonetic_my": "ဟိုင်း ယိုး ပျဲ တ ဖိုင် ဇီး မာ"
+    },
+    {
+      "id": "s27_1_0008",
+      "level": "must",
+      "text": "牛奶在哪一排？",
+      "meaning_my": "နို့ ဘယ်အတန်းမှာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在第三排。",
+          "meaning_my": "တတိယအတန်းမှာ။"
+        },
+        {
+          "text": "我带您过去。",
+          "meaning_my": "လိုက်ပို့ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "niú nǎi zài nǎ yì pái",
+      "phonetic_my": "နျိုး နိုင် ဇိုင် နာ ယီ ဖိုင်"
+    },
+    {
+      "id": "s27_1_0009",
+      "level": "must",
+      "text": "有纸巾吗？",
+      "meaning_my": "တစ်ရှူးရှိလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "有，在那边。",
+          "meaning_my": "ရှိတယ်၊ ဟိုဘက်မှာ။"
+        },
+        {
+          "text": "暂时没货。",
+          "meaning_my": "လောလောဆယ် ပစ္စည်းမရှိဘူး။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu zhǐ jīn ma",
+      "phonetic_my": "ယိုး ကျီး ကျင် မာ"
+    },
+    {
+      "id": "s27_1_0010",
+      "level": "must",
+      "text": "这个商品在哪儿？",
+      "meaning_my": "ဒီပစ္စည်း ဘယ်မှာရှိလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在第三排。",
+          "meaning_my": "တတိယအတန်းမှာ။"
+        },
+        {
+          "text": "我带您过去。",
+          "meaning_my": "လိုက်ပို့ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge shāng pǐn zài nǎr",
+      "phonetic_my": "ကျ က ရှန်း ဖင် ဇိုင် နာ"
+    },
+    {
+      "id": "s27_1_0011",
+      "level": "must",
+      "text": "这个有小包装吗？",
+      "meaning_my": "ဒီဟာ အထုပ်သေးရှိလား။",
+      "alternatives": [
+        {
+          "text": "有小袋装的吗？",
+          "meaning_my": "အထုပ်သေးနဲ့ ရှိလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "有，就在旁边。",
+          "meaning_my": "ရှိတယ်၊ ဘေးနားမှာပဲ။"
+        },
+        {
+          "text": "没有，只有大包装。",
+          "meaning_my": "မရှိဘူး၊ အထုပ်ကြီးပဲရှိတယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge yǒu xiǎo bāo zhuāng ma",
+      "phonetic_my": "ကျ က ယိုး ရှောင် ပေါင် ကျွမ်း မာ"
+    },
+    {
+      "id": "s27_1_0012",
+      "level": "must",
+      "text": "促销区在哪儿？",
+      "meaning_my": "ပရိုမိုးရှင်းဧရိယာ ဘယ်မှာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在入口旁边。",
+          "meaning_my": "ဝင်ပေါက်ဘေးမှာ။"
+        },
+        {
+          "text": "前面左转就是。",
+          "meaning_my": "ရှေ့ကိုသွားပြီး ဘယ်ဘက်ကွေ့ရင် ရောက်ပြီ။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "cù xiāo qū zài nǎr",
+      "phonetic_my": "စု ရှောင် ချွီ ဇိုင် နာ"
+    },
+    {
+      "id": "s27_1_0013",
+      "level": "listen",
+      "text": "在第三排。",
+      "meaning_my": "တတိယအတန်းမှာ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我去第三排找。",
+          "meaning_my": "ကောင်းပြီ၊ တတိယအတန်းမှာ သွားရှာလိုက်မယ်။"
+        },
+        {
+          "text": "第三排在那边吗？",
+          "meaning_my": "တတိယအတန်းက ဟိုဘက်မှာလား။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zài dì sān pái",
+      "phonetic_my": "ဇိုင် တီ စန် ဖိုင်"
+    },
+    {
+      "id": "s27_1_0014",
+      "level": "listen",
+      "text": "往前走，右手边。",
+      "meaning_my": "ရှေ့ကိုသွားပါ၊ ညာဘက်မှာပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我往前找找。",
+          "meaning_my": "ကောင်းပြီ၊ ရှေ့ကိုသွားပြီး ရှာကြည့်မယ်။"
+        },
+        {
+          "text": "在右边是吧？",
+          "meaning_my": "ညာဘက်မှာနော်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "wǎng qián zǒu yòu shǒu biān",
+      "phonetic_my": "ဝမ်း ချန် ဇိုး ယိုး ရှိုး ပျန်"
+    },
+    {
+      "id": "s27_1_0015",
+      "level": "listen",
+      "text": "就在收银台旁边。",
+      "meaning_my": "ငွေရှင်းကောင်တာဘေးမှာပဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "谢谢，我去收银台那边找。",
+          "meaning_my": "ကျေးဇူးပါ၊ ငွေရှင်းကောင်တာဘက် သွားရှာမယ်။"
+        },
+        {
+          "text": "哦，我看到了。",
+          "meaning_my": "အော်၊ တွေ့ပြီ။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "jiù zài shōu yín tái páng biān",
+      "phonetic_my": "ကျိုး ဇိုင် ရှိုး ယင် ထိုင် ဖန်း ပျန်"
+    },
+    {
+      "id": "s27_1_0016",
+      "level": "listen",
+      "text": "这个卖完了。",
+      "meaning_my": "ဒီဟာ ရောင်းကုန်ပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "还有别的牌子吗？",
+          "meaning_my": "တခြားတံဆိပ်ရှိသေးလား။"
+        },
+        {
+          "text": "那我看看别的。",
+          "meaning_my": "ဒါဆို တခြားဟာကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge mài wán le",
+      "phonetic_my": "ကျ က မိုင် ဝမ် လ"
+    },
+    {
+      "id": "s27_1_0017",
+      "level": "listen",
+      "text": "在冷藏区。",
+      "meaning_my": "အအေးခန်းဧရိယာမှာ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我去冷藏区看看。",
+          "meaning_my": "ကောင်းပြီ၊ အအေးခန်းဘက် သွားကြည့်မယ်။"
+        },
+        {
+          "text": "冷藏区在哪边？",
+          "meaning_my": "အအေးခန်းဧရိယာက ဘယ်ဘက်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zài lěng cáng qū",
+      "phonetic_my": "ဇိုင် လင် ဆန် ချွီ"
+    },
+    {
+      "id": "s27_1_0018",
+      "level": "listen",
+      "text": "这个牌子暂时没货。",
+      "meaning_my": "ဒီတံဆိပ် လောလောဆယ် ပစ္စည်းမရှိဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "还有别的牌子吗？",
+          "meaning_my": "တခြားတံဆိပ်ရှိသေးလား။"
+        },
+        {
+          "text": "那我看看别的。",
+          "meaning_my": "ဒါဆို တခြားဟာကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge pái zi zàn shí méi huò",
+      "phonetic_my": "ကျ က ဖိုင် ဇီး ဇန် ရှီး မေး ဟွေါ"
+    },
+    {
+      "id": "s27_1_0019",
+      "level": "listen",
+      "text": "楼上也有。",
+      "meaning_my": "အပေါ်ထပ်မှာလည်းရှိတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我上楼看看。",
+          "meaning_my": "ကောင်းပြီ၊ အပေါ်ထပ် တက်ကြည့်မယ်။"
+        },
+        {
+          "text": "从哪边上楼？",
+          "meaning_my": "ဘယ်ဘက်က အပေါ်ထပ်တက်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "lóu shàng yě yǒu",
+      "phonetic_my": "လော် ရှန်း ယဲ့ ယိုး"
+    },
+    {
+      "id": "s27_1_0020",
+      "level": "listen",
+      "text": "我带您过去。",
+      "meaning_my": "လိုက်ပို့ပေးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，麻烦您了。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒုက္ခပေးမိပါပြီ။"
+        },
+        {
+          "text": "谢谢，我跟您走。",
+          "meaning_my": "ကျေးဇူးပါ၊ လိုက်ခဲ့မယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ dài nín guò qù",
+      "phonetic_my": "ဝေါ တိုင် နင် ကွော ချွီ"
+    },
+    {
+      "id": "s27_1_0021",
+      "level": "listen",
+      "text": "今天刚补货。",
+      "meaning_my": "ဒီနေ့ပဲ ပစ္စည်းအသစ်ဖြည့်ထားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那现在还有货吗？",
+          "meaning_my": "ဒါဆို အခု ပစ္စည်းရှိသေးလား။"
+        },
+        {
+          "text": "太好了，我去看看。",
+          "meaning_my": "ကောင်းလိုက်တာ၊ သွားကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "27.1",
+      "lesson_title": "27.1 寻找商品",
+      "lesson_title_my": "27.1 ပစ္စည်းရှာခြင်း",
+      "mistakes": [],
+      "pinyin": "jīn tiān gāng bǔ huò",
+      "phonetic_my": "ကျင် ထျန် ကန်း ပု ဟွေါ"
+    },
+    {
+      "id": "s27_2_0001",
+      "level": "must",
+      "text": "我要一斤。",
+      "meaning_my": "တစ်ကျင်ယူမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我给您称一斤。",
+          "meaning_my": "ဟုတ်ကဲ့၊ တစ်ကျင် ချိန်ပေးမယ်။"
+        },
+        {
+          "text": "行，您先挑好。",
+          "meaning_my": "ရပါတယ်၊ အရင်ရွေးထားပါ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [
+        {
+          "text": "中国超市的一斤通常是500克；不要直接按缅甸传统重量单位理解。",
+          "text_my": "တရုတ်စူပါမားကတ်မှာ တစ်ကျင်က များသောအားဖြင့် ၅၀၀ ဂရမ်ပါ။ မြန်မာ့အလေးချိန်ယူနစ်နဲ့ မရောပါနဲ့။"
+        }
+      ],
+      "pinyin": "wǒ yào yì jīn",
+      "phonetic_my": "ဝေါ ယောင် ယီ ကျင်"
+    },
+    {
+      "id": "s27_2_0002",
+      "level": "must",
+      "text": "帮我称一下。",
+      "meaning_my": "တစ်ချက်ချိန်ပေးပါ။",
+      "alternatives": [
+        {
+          "text": "麻烦称一下。",
+          "meaning_my": "တစ်ချက်ချိန်ပေးပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好的。",
+          "meaning_my": "ကောင်းပါပြီ။"
+        },
+        {
+          "text": "我帮您称。",
+          "meaning_my": "ချိန်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "bāng wǒ chēng yí xià",
+      "phonetic_my": "ပန်း ဝေါ ချင် ယီ ရှျာ"
+    },
+    {
+      "id": "s27_2_0003",
+      "level": "must",
+      "text": "可以自己挑吗？",
+      "meaning_my": "ကိုယ်တိုင်ရွေးလို့ရလား။",
+      "alternatives": [
+        {
+          "text": "可以自己选吗？",
+          "meaning_my": "ကိုယ်တိုင်ရွေးလို့ရလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "可以，您自己挑吧。",
+          "meaning_my": "ရပါတယ်၊ ကိုယ်တိုင်ရွေးပါ။"
+        },
+        {
+          "text": "可以，挑好以后拿来称。",
+          "meaning_my": "ရတယ်၊ ရွေးပြီးရင် ချိန်ဖို့ ယူလာပါ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "kě yǐ zì jǐ tiāo ma",
+      "phonetic_my": "ခ ယီ ဇီး ကျီ ထျောင်း မာ"
+    },
+    {
+      "id": "s27_2_0004",
+      "level": "must",
+      "text": "标签贴哪里？",
+      "meaning_my": "တံဆိပ် ဘယ်မှာကပ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "贴袋子上。",
+          "meaning_my": "တံဆိပ်ကို အိတ်ပေါ်ကပ်ပါ။"
+        },
+        {
+          "text": "贴在这里。",
+          "meaning_my": "ဒီမှာကပ်ပါ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "biāo qiān tiē nǎ lǐ",
+      "phonetic_my": "ပြောင် ချန် ထျဲ နာ လီ"
+    },
+    {
+      "id": "s27_2_0005",
+      "level": "must",
+      "text": "这些要分开称吗？",
+      "meaning_my": "ဒါတွေကို ခွဲပြီးချိန်ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要分别称。",
+          "meaning_my": "ဒီဟာတွေ ခွဲပြီးချိန်ရမယ်။"
+        },
+        {
+          "text": "不用，一起称就行。",
+          "meaning_my": "မလိုဘူး၊ အတူချိန်လို့ရတယ်။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè xiē yào fēn kāi chēng ma",
+      "phonetic_my": "ကျ ရှျဲ ယောင် ဖန် ခိုင် ချင် မာ"
+    },
+    {
+      "id": "s27_2_0006",
+      "level": "must",
+      "text": "这个今天多少钱一斤？",
+      "meaning_my": "ဒီဟာ ဒီနေ့ တစ်ကျင်ဘယ်လောက်လဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "九块八一斤。",
+          "meaning_my": "ဒီဟာ ဒီနေ့ တစ်ကျင် ၉.၈ ယွမ်။"
+        },
+        {
+          "text": "今天十块一斤。",
+          "meaning_my": "ဒီနေ့ တစ်ကျင် ၁၀ ယွမ်။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [
+        {
+          "text": "“九块八一斤”是每斤9.8元，不是总价。",
+          "text_my": "“九块八一斤” က တစ်ကျင်ကို ၉.၈ ယွမ်ဆိုတာပါ၊ စုစုပေါင်းဈေး မဟုတ်ပါဘူး။"
+        }
+      ],
+      "pinyin": "zhè ge jīn tiān duō shǎo qián yì jīn",
+      "phonetic_my": "ကျ က ကျင် ထျန် တွော ရှောင် ချန် ယီ ကျင်"
+    },
+    {
+      "id": "s27_2_0007",
+      "level": "must",
+      "text": "称完以后去哪里结账？",
+      "meaning_my": "ချိန်ပြီးရင် ဘယ်မှာငွေရှင်းရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "称完直接去收银台。",
+          "meaning_my": "ချိန်ပြီး ငွေရှင်းကောင်တာကို တိုက်ရိုက်သွားပါ။"
+        },
+        {
+          "text": "先贴标签再结账。",
+          "meaning_my": "အရင်တံဆိပ်ကပ်ပြီးမှ ငွေရှင်းပါ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "chēng wán yǐ hòu qù nǎ lǐ jié zhàng",
+      "phonetic_my": "ချင် ဝမ် ယီ ဟိုး ချွီ နာ လီ ကျဲ ကျန်း"
+    },
+    {
+      "id": "s27_2_0008",
+      "level": "must",
+      "text": "帮我挑几个熟一点的。",
+      "meaning_my": "ရင့်ပြီးသား နည်းနည်းလောက် ရွေးပေးပါ။",
+      "alternatives": [
+        {
+          "text": "帮我选几个熟一点的。",
+          "meaning_my": "ရင့်တဲ့ဟာ နည်းနည်း ရွေးပေးပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好的，我帮您挑熟一点的。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ရင့်တာလေးတွေ ရွေးပေးမယ်။"
+        },
+        {
+          "text": "您是今天吃还是明天吃？",
+          "meaning_my": "ဒီနေ့စားမှာလား၊ မနက်ဖြန်စားမှာလား။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "bāng wǒ tiāo jǐ ge shú yì diǎn de",
+      "phonetic_my": "ပန်း ဝေါ ထျောင်း ကျီ က ရှူ ယီ တျန် တ"
+    },
+    {
+      "id": "s27_2_0009",
+      "level": "must",
+      "text": "我自己拿多少都可以吗？",
+      "meaning_my": "ကိုယ်တိုင် ဘယ်လောက်ယူယူ ရလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "可以，按重量结账。",
+          "meaning_my": "ရပါတယ်၊ အလေးချိန်အတိုင်း ငွေရှင်းရမယ်။"
+        },
+        {
+          "text": "可以，想要多少就拿多少。",
+          "meaning_my": "ရတယ်၊ လိုသလောက် ယူလို့ရတယ်။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zì jǐ ná duō shǎo dōu kě yǐ ma",
+      "phonetic_my": "ဝေါ ဇီး ကျီ နာ တွော ရှောင် တိုး ခ ယီ မာ"
+    },
+    {
+      "id": "s27_2_0010",
+      "level": "must",
+      "text": "袋子在哪儿拿？",
+      "meaning_my": "အိတ် ဘယ်မှာယူရမလဲ။",
+      "alternatives": [
+        {
+          "text": "袋子在哪里拿？",
+          "meaning_my": "အိတ်ကို ဘယ်မှာယူရမလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "袋子在这里。",
+          "meaning_my": "အိတ် ဒီမှာရှိတယ်။"
+        },
+        {
+          "text": "自己拿袋子。",
+          "meaning_my": "အိတ်ကို ကိုယ်တိုင်ယူပါ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "dài zi zài nǎr ná",
+      "phonetic_my": "တိုင် ဇီး ဇိုင် နာ နာ"
+    },
+    {
+      "id": "s27_2_0011",
+      "level": "must",
+      "text": "这个按斤还是按个卖？",
+      "meaning_my": "ဒီဟာ ကျင်နဲ့ရောင်းတာလား၊ တစ်ခုချင်းရောင်းတာလား။",
+      "alternatives": [
+        {
+          "text": "这个是按个卖还是按斤？",
+          "meaning_my": "ဒီဟာ တစ်ခုချင်းရောင်းတာလား၊ ကျင်နဲ့ရောင်းတာလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "按斤卖。",
+          "meaning_my": "ဒီဟာ ကျင်နဲ့ရောင်းတယ်။"
+        },
+        {
+          "text": "这个按个卖。",
+          "meaning_my": "ဒီဟာ တစ်ခုချင်းရောင်းတယ်။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge àn jīn hái shì àn ge mài",
+      "phonetic_my": "ကျ က အန် ကျင် ဟိုင်း ရှီး အန် က မိုင်"
+    },
+    {
+      "id": "s27_2_0012",
+      "level": "listen",
+      "text": "自己拿袋子。",
+      "meaning_my": "အိတ်ကို ကိုယ်တိုင်ယူပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我拿一个。",
+          "meaning_my": "ကောင်းပြီ၊ တစ်လုံးယူမယ်။"
+        },
+        {
+          "text": "袋子在哪儿？",
+          "meaning_my": "အိတ်က ဘယ်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zì jǐ ná dài zi",
+      "phonetic_my": "ဇီး ကျီ နာ တိုင် ဇီး"
+    },
+    {
+      "id": "s27_2_0013",
+      "level": "listen",
+      "text": "先称重。",
+      "meaning_my": "အရင်ချိန်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，称重台在哪儿？",
+          "meaning_my": "ကောင်းပြီ၊ ချိန်တဲ့ကောင်တာ ဘယ်မှာလဲ။"
+        },
+        {
+          "text": "好的，我先去称。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အရင်သွားချိန်မယ်။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān chēng zhòng",
+      "phonetic_my": "ရှျန် ချင် ကျုန်း"
+    },
+    {
+      "id": "s27_2_0014",
+      "level": "listen",
+      "text": "这个按斤卖。",
+      "meaning_my": "ဒီဟာ ကျင်နဲ့ရောင်းတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，那我要一斤。",
+          "meaning_my": "ကောင်းပြီ၊ ဒါဆို တစ်ကျင်ယူမယ်။"
+        },
+        {
+          "text": "一斤多少钱？",
+          "meaning_my": "တစ်ကျင် ဘယ်လောက်လဲ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge àn jīn mài",
+      "phonetic_my": "ကျ က အန် ကျင် မိုင်"
+    },
+    {
+      "id": "s27_2_0015",
+      "level": "listen",
+      "text": "标签贴袋子上。",
+      "meaning_my": "တံဆိပ်ကို အိတ်ပေါ်ကပ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我贴上了。",
+          "meaning_my": "ကောင်းပြီ၊ ကပ်ပြီးပြီ။"
+        },
+        {
+          "text": "贴在袋子外面就行吗？",
+          "meaning_my": "အိတ်အပြင်ဘက်မှာ ကပ်ရုံပဲလား။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "biāo qiān tiē dài zi shàng",
+      "phonetic_my": "ပြောင် ချန် ထျဲ တိုင် ဇီး ရှန်း"
+    },
+    {
+      "id": "s27_2_0016",
+      "level": "listen",
+      "text": "这个要分别称。",
+      "meaning_my": "ဒီဟာတွေ ခွဲပြီးချိန်ရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我分开放。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ခွဲပြီးထားမယ်။"
+        },
+        {
+          "text": "每一种都要单独称吗？",
+          "meaning_my": "တစ်မျိုးချင်းစီ သီးသန့်ချိန်ရမှာလား။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge yào fēn bié chēng",
+      "phonetic_my": "ကျ က ယောင် ဖန် ပျဲ ချင်"
+    },
+    {
+      "id": "s27_2_0017",
+      "level": "listen",
+      "text": "称完再结账。",
+      "meaning_my": "ချိန်ပြီးမှ ငွေရှင်းပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我先去称重。",
+          "meaning_my": "ကောင်းပြီ၊ အရင်သွားချိန်မယ်။"
+        },
+        {
+          "text": "称重台在那边吗？",
+          "meaning_my": "ချိန်တဲ့ကောင်တာက ဟိုဘက်မှာလား။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "chēng wán zài jié zhàng",
+      "phonetic_my": "ချင် ဝမ် ဇိုင် ကျဲ ကျန်း"
+    },
+    {
+      "id": "s27_2_0018",
+      "level": "listen",
+      "text": "这边可以自己挑。",
+      "meaning_my": "ဒီဘက်မှာ ကိုယ်တိုင်ရွေးလို့ရတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我自己挑几个。",
+          "meaning_my": "ကောင်းပြီ၊ ကိုယ်တိုင် နည်းနည်းရွေးမယ်။"
+        },
+        {
+          "text": "挑好了在哪儿称？",
+          "meaning_my": "ရွေးပြီးရင် ဘယ်မှာချိန်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè biān kě yǐ zì jǐ tiāo",
+      "phonetic_my": "ကျ ပျန် ခ ယီ ဇီး ကျီ ထျောင်း"
+    },
+    {
+      "id": "s27_2_0019",
+      "level": "listen",
+      "text": "这个今天九块八一斤。",
+      "meaning_my": "ဒီဟာ ဒီနေ့ တစ်ကျင် ၉.၈ ယွမ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，给我一斤。",
+          "meaning_my": "ကောင်းပြီ၊ တစ်ကျင်ပေးပါ။"
+        },
+        {
+          "text": "那我先买半斤。",
+          "meaning_my": "ဒါဆို အရင် ကျင်ဝက် ဝယ်မယ်။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge jīn tiān jiǔ kuài bā yì jīn",
+      "phonetic_my": "ကျ က ကျင် ထျန် ကျိုး ခွိုင် ပါ ယီ ကျင်"
+    },
+    {
+      "id": "s27_2_0020",
+      "level": "listen",
+      "text": "请去称重台。",
+      "meaning_my": "ချိန်စက်ကောင်တာကို သွားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我现在过去。",
+          "meaning_my": "ကောင်းပြီ၊ အခုသွားမယ်။"
+        },
+        {
+          "text": "称重台在哪边？",
+          "meaning_my": "ချိန်တဲ့ကောင်တာ ဘယ်ဘက်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "27.2",
+      "lesson_title": "27.2 生鲜称重",
+      "lesson_title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng qù chēng zhòng tái",
+      "phonetic_my": "ချင်း ချွီ ချင် ကျုန်း ထိုင်"
+    },
+    {
+      "id": "s27_3_0001",
+      "level": "must",
+      "text": "生产日期在哪儿？",
+      "meaning_my": "ထုတ်လုပ်ရက် ဘယ်မှာရေးထားလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在包装背面。",
+          "meaning_my": "အထုပ်နောက်ဘက်မှာ။"
+        },
+        {
+          "text": "印在瓶底。",
+          "meaning_my": "ပုလင်းအောက်ခြေမှာ ရိုက်ထားတယ်။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "shēng chǎn rì qī zài nǎr",
+      "phonetic_my": "ရှန်း ချန် ရီ ချီ ဇိုင် နာ"
+    },
+    {
+      "id": "s27_3_0002",
+      "level": "must",
+      "text": "保质期多久？",
+      "meaning_my": "သက်တမ်းဘယ်လောက်ကြာလဲ။",
+      "alternatives": [
+        {
+          "text": "保质期多长？",
+          "meaning_my": "သက်တမ်းဘယ်လောက်ကြာလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "保质期六个月。",
+          "meaning_my": "သက်တမ်းခြောက်လ။"
+        },
+        {
+          "text": "请看包装背面。",
+          "meaning_my": "အထုပ်နောက်ဘက်ကို ကြည့်ပါ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [
+        {
+          "text": "保质期不是开封后的保存天数；开封后要另看保存要求。",
+          "text_my": "သက်တမ်းက အထုပ်ဖွင့်ပြီးနောက် ထားလို့ရမယ့်ရက်နဲ့ မတူပါဘူး။ ဖွင့်ပြီးနောက် သိမ်းဆည်းနည်းကို သီးသန့်ကြည့်ပါ။"
+        }
+      ],
+      "pinyin": "bǎo zhì qī duō jiǔ",
+      "phonetic_my": "ပေါင် ကျီး ချီ တွော ကျိုး"
+    },
+    {
+      "id": "s27_3_0003",
+      "level": "must",
+      "text": "什么时候过期？",
+      "meaning_my": "ဘယ်တော့ သက်တမ်းကုန်မလဲ။",
+      "alternatives": [
+        {
+          "text": "哪天过期？",
+          "meaning_my": "ဘယ်နေ့ သက်တမ်းကုန်မှာလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "还有一个月到期。",
+          "meaning_my": "နောက်တစ်လမှ သက်တမ်းကုန်မယ်။"
+        },
+        {
+          "text": "明天到期。",
+          "meaning_my": "မနက်ဖြန် သက်တမ်းကုန်မယ်။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "shén me shí hou guò qī",
+      "phonetic_my": "ရှန် မ ရှီး ဟိုး ကွော ချီ"
+    },
+    {
+      "id": "s27_3_0004",
+      "level": "must",
+      "text": "这个新鲜吗？",
+      "meaning_my": "ဒီဟာ လတ်ဆတ်လား။",
+      "alternatives": [
+        {
+          "text": "这个新不新鲜？",
+          "meaning_my": "ဒီဟာ လတ်ဆတ်လား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "新鲜，今天刚到货。",
+          "meaning_my": "လတ်ဆတ်တယ်၊ ဒီနေ့ပဲရောက်တာ။"
+        },
+        {
+          "text": "这个是昨天到的。",
+          "meaning_my": "ဒီဟာ မနေ့ကရောက်တာ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "zhè ge xīn xiān ma",
+      "phonetic_my": "ကျ က ရှင် ရှျန် မာ"
+    },
+    {
+      "id": "s27_3_0005",
+      "level": "must",
+      "text": "今天到期吗？",
+      "meaning_my": "ဒီနေ့ သက်တမ်းကုန်လား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "是的，今天到期。",
+          "meaning_my": "ဟုတ်တယ်၊ ဒီနေ့ သက်တမ်းကုန်တယ်။"
+        },
+        {
+          "text": "不是，明天才到期。",
+          "meaning_my": "မဟုတ်ဘူး၊ မနက်ဖြန်မှ သက်တမ်းကုန်မယ်။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "jīn tiān dào qī ma",
+      "phonetic_my": "ကျင် ထျန် တောင် ချီ မာ"
+    },
+    {
+      "id": "s27_3_0006",
+      "level": "must",
+      "text": "这个需要冷藏吗？",
+      "meaning_my": "ဒီဟာ အအေးခန်းထားဖို့လိုလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "需要冷藏。",
+          "meaning_my": "ဒီဟာ အအေးခန်းထားဖို့လိုတယ်။"
+        },
+        {
+          "text": "不用冷藏。",
+          "meaning_my": "အအေးခန်းထားစရာမလိုဘူး။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [
+        {
+          "text": "“冷藏”通常是放冰箱冷藏室，不是“冷冻”结冰。",
+          "text_my": "“冷藏” က ရေခဲသေတ္တာထဲ အအေးထားတာဖြစ်ပြီး “冷冻” လို အေးခဲအောင်ထားတာ မဟုတ်ပါဘူး။"
+        }
+      ],
+      "pinyin": "zhè ge xū yào lěng cáng ma",
+      "phonetic_my": "ကျ က ရှွီ ယောင် လင် ဆန် မာ"
+    },
+    {
+      "id": "s27_3_0007",
+      "level": "must",
+      "text": "临期有优惠吗？",
+      "meaning_my": "သက်တမ်းကုန်ခါနီးဆို လျှော့စျေးရှိလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "有，临期商品打折。",
+          "meaning_my": "သက်တမ်းကုန်ခါနီးပစ္စည်း လျှော့စျေးပေးတယ်။"
+        },
+        {
+          "text": "没有，这个不参加活动。",
+          "meaning_my": "မရှိဘူး၊ ဒီဟာ ပရိုမိုးရှင်းမပါဘူး။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [
+        {
+          "text": "“临期”是接近到期，不等于已经过期。",
+          "text_my": "“临期” ဆိုတာ သက်တမ်းကုန်ခါနီးတာပါ၊ သက်တမ်းကုန်ပြီးသား မဟုတ်ပါဘူး။"
+        }
+      ],
+      "pinyin": "lín qī yǒu yōu huì ma",
+      "phonetic_my": "လင် ချီ ယိုး ယိုး ဟွေ့ မာ"
+    },
+    {
+      "id": "s27_3_0008",
+      "level": "must",
+      "text": "这个是哪天生产的？",
+      "meaning_my": "ဒီဟာ ဘယ်နေ့ထုတ်တာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "请看包装背面。",
+          "meaning_my": "အထုပ်နောက်ဘက်ကို ကြည့်ပါ။"
+        },
+        {
+          "text": "这是昨天生产的。",
+          "meaning_my": "ဒါ မနေ့ကထုတ်တာပါ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "zhè ge shì nǎ tiān shēng chǎn de",
+      "phonetic_my": "ကျ က ရှီး နာ ထျန် ရှန်း ချန် တ"
+    },
+    {
+      "id": "s27_3_0009",
+      "level": "must",
+      "text": "这个要放冰箱吗？",
+      "meaning_my": "ဒီဟာ ရေခဲသေတ္တာထဲထားရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "需要冷藏。",
+          "meaning_my": "ဒီဟာ အအေးခန်းထားဖို့လိုတယ်။"
+        },
+        {
+          "text": "不用冷藏。",
+          "meaning_my": "အအေးခန်းထားစရာမလိုဘူး။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "zhè ge yào fàng bīng xiāng ma",
+      "phonetic_my": "ကျ က ယောင် ဖန်း ပင်း ရှျန်း မာ"
+    },
+    {
+      "id": "s27_3_0010",
+      "level": "must",
+      "text": "开封后怎么保存？",
+      "meaning_my": "ဖွင့်ပြီးရင် ဘယ်လိုသိမ်းရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "开封后三天内吃完。",
+          "meaning_my": "ဖွင့်ပြီး သုံးရက်အတွင်း စားပြီးရမယ်။"
+        },
+        {
+          "text": "开封后尽快吃完。",
+          "meaning_my": "ဖွင့်ပြီး အမြန်ဆုံးစားပြီးပါ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "kāi fēng hòu zěn me bǎo cún",
+      "phonetic_my": "ခိုင် ဖုန်း ဟိုး ဇန် မ ပေါင် ဆွင်"
+    },
+    {
+      "id": "s27_3_0011",
+      "level": "must",
+      "text": "这个快过期了吗？",
+      "meaning_my": "ဒီဟာ သက်တမ်းကုန်ခါနီးပြီလား။",
+      "alternatives": [
+        {
+          "text": "是不是快到期了？",
+          "meaning_my": "သက်တမ်းကုန်ခါနီးပြီလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "还有一个月到期。",
+          "meaning_my": "နောက်တစ်လမှ သက်တမ်းကုန်မယ်။"
+        },
+        {
+          "text": "明天到期。",
+          "meaning_my": "မနက်ဖြန် သက်တမ်းကုန်မယ်။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "zhè ge kuài guò qī le ma",
+      "phonetic_my": "ကျ က ခွိုင် ကွော ချီ လ မာ"
+    },
+    {
+      "id": "s27_3_0012",
+      "level": "must",
+      "text": "开封后能放几天？",
+      "meaning_my": "ဖွင့်ပြီးရင် ဘယ်နှရက်ထားလို့ရလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "开封后三天内吃完。",
+          "meaning_my": "ဖွင့်ပြီး သုံးရက်အတွင်း စားပြီးရမယ်။"
+        },
+        {
+          "text": "开封后尽快吃完。",
+          "meaning_my": "ဖွင့်ပြီး အမြန်ဆုံးစားပြီးပါ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "kāi fēng hòu néng fàng jǐ tiān",
+      "phonetic_my": "ခိုင် ဖုန်း ဟိုး နန်း ဖန်း ကျီ ထျန်"
+    },
+    {
+      "id": "s27_3_0013",
+      "level": "listen",
+      "text": "保质期六个月。",
+      "meaning_my": "သက်တမ်းခြောက်လ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，那生产日期是哪天？",
+          "meaning_my": "ကောင်းပြီ၊ ဒါဆို ဘယ်နေ့ထုတ်တာလဲ။"
+        },
+        {
+          "text": "好，我看一下包装。",
+          "meaning_my": "ကောင်းပြီ၊ အထုပ်ကို ကြည့်လိုက်မယ်။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "bǎo zhì qī liù ge yuè",
+      "phonetic_my": "ပေါင် ကျီး ချီ လျိုး က ယွဲ"
+    },
+    {
+      "id": "s27_3_0014",
+      "level": "listen",
+      "text": "明天到期。",
+      "meaning_my": "မနက်ဖြန် သက်တမ်းကုန်မယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那我换一个日期新一点的。",
+          "meaning_my": "ဒါဆို ရက်စွဲပိုသစ်တဲ့ဟာတစ်ခု လဲယူမယ်။"
+        },
+        {
+          "text": "临期有优惠吗？",
+          "meaning_my": "သက်တမ်းကုန်ခါနီး လျှော့ဈေးရှိလား။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "míng tiān dào qī",
+      "phonetic_my": "မင်း ထျန် တောင် ချီ"
+    },
+    {
+      "id": "s27_3_0015",
+      "level": "listen",
+      "text": "今天刚到货。",
+      "meaning_my": "ဒီနေ့ပဲ ပစ္စည်းရောက်လာတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，那我买这个。",
+          "meaning_my": "ကောင်းပြီ၊ ဒါဆို ဒီဟာဝယ်မယ်။"
+        },
+        {
+          "text": "生产日期是哪天？",
+          "meaning_my": "ထုတ်လုပ်ရက်က ဘယ်နေ့လဲ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "jīn tiān gāng dào huò",
+      "phonetic_my": "ကျင် ထျန် ကန်း တောင် ဟွေါ"
+    },
+    {
+      "id": "s27_3_0016",
+      "level": "listen",
+      "text": "临期商品打折。",
+      "meaning_my": "သက်တမ်းကုန်ခါနီးပစ္စည်း လျှော့စျေးပေးတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "打几折？",
+          "meaning_my": "ဘယ်နှရာခိုင်နှုန်းလောက် လျှော့ပေးတာလဲ။"
+        },
+        {
+          "text": "那我看看日期。",
+          "meaning_my": "ဒါဆို ရက်စွဲကို ကြည့်လိုက်မယ်။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "lín qī shāng pǐn dǎ zhé",
+      "phonetic_my": "လင် ချီ ရှန်း ဖင် တာ ကျ"
+    },
+    {
+      "id": "s27_3_0017",
+      "level": "listen",
+      "text": "开封后三天内吃完。",
+      "meaning_my": "ဖွင့်ပြီး သုံးရက်အတွင်း စားပြီးရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我会按包装要求保存。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အထုပ်ပေါ်က ညွှန်ကြားချက်အတိုင်း သိမ်းမယ်။"
+        },
+        {
+          "text": "明白了，谢谢提醒。",
+          "meaning_my": "နားလည်ပါပြီ၊ သတိပေးတာ ကျေးဇူးပါ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "kāi fēng hòu sān tiān nèi chī wán",
+      "phonetic_my": "ခိုင် ဖုန်း ဟိုး စန် ထျန် နေး ချီး ဝမ်"
+    },
+    {
+      "id": "s27_3_0018",
+      "level": "listen",
+      "text": "这个需要冷藏。",
+      "meaning_my": "ဒီဟာ အအေးခန်းထားဖို့လိုတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，回家就放冰箱。",
+          "meaning_my": "ကောင်းပြီ၊ အိမ်ရောက်တာနဲ့ ရေခဲသေတ္တာထဲ ထားမယ်။"
+        },
+        {
+          "text": "需要冷冻吗？",
+          "meaning_my": "အေးခဲအောင် ထားရမှာလား။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "zhè ge xū yào lěng cáng",
+      "phonetic_my": "ကျ က ရှွီ ယောင် လင် ဆန်"
+    },
+    {
+      "id": "s27_3_0019",
+      "level": "listen",
+      "text": "还有一个月到期。",
+      "meaning_my": "နောက်တစ်လမှ သက်တမ်းကုန်မယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，那我看看别的日期。",
+          "meaning_my": "ကောင်းပြီ၊ ဒါဆို တခြားရက်စွဲတွေ ကြည့်မယ်။"
+        },
+        {
+          "text": "有没有日期更新的？",
+          "meaning_my": "သက်တမ်းပိုရှည်တဲ့ဟာ ရှိလား။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "hái yǒu yí ge yuè dào qī",
+      "phonetic_my": "ဟိုင်း ယိုး ယီ က ယွဲ တောင် ချီ"
+    },
+    {
+      "id": "s27_3_0020",
+      "level": "listen",
+      "text": "请看包装背面。",
+      "meaning_my": "အထုပ်နောက်ဘက်ကို ကြည့်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "找到了，谢谢。",
+          "meaning_my": "တွေ့ပြီ၊ ကျေးဇူးပါ။"
+        },
+        {
+          "text": "日期印在哪个位置？",
+          "meaning_my": "ရက်စွဲကို ဘယ်နေရာမှာ ရိုက်ထားလဲ။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "qǐng kàn bāo zhuāng bèi miàn",
+      "phonetic_my": "ချင်း ခန် ပေါင် ကျွမ်း ပေ မျန်"
+    },
+    {
+      "id": "s27_3_0021",
+      "level": "listen",
+      "text": "开封后尽快吃完。",
+      "meaning_my": "ဖွင့်ပြီး အမြန်ဆုံးစားပြီးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我会尽快吃完。",
+          "meaning_my": "ကောင်းပြီ၊ တတ်နိုင်သမျှ မြန်မြန်စားပြီးမယ်။"
+        },
+        {
+          "text": "开封后还要冷藏吗？",
+          "meaning_my": "ဖွင့်ပြီးရင် အအေးခန်းထဲ ထားဖို့ လိုသေးလား။"
+        }
+      ],
+      "lesson_id": "27.3",
+      "lesson_title": "27.3 日期保质期",
+      "lesson_title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+      "mistakes": [],
+      "pinyin": "kāi fēng hòu jǐn kuài chī wán",
+      "phonetic_my": "ခိုင် ဖုန်း ဟိုး ကျင် ခွိုင် ချီး ဝမ်"
+    },
+    {
+      "id": "s27_4_0001",
+      "level": "must",
+      "text": "自助结账在哪儿？",
+      "meaning_my": "ကိုယ်တိုင်ငွေရှင်းစက် ဘယ်မှာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在前面右边。",
+          "meaning_my": "ရှေ့ညာဘက်မှာ။"
+        },
+        {
+          "text": "我给您指一下。",
+          "meaning_my": "တစ်ချက်ညွှန်ပြပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zì zhù jié zhàng zài nǎr",
+      "phonetic_my": "ဇီး ကျူ ကျဲ ကျန်း ဇိုင် နာ"
+    },
+    {
+      "id": "s27_4_0002",
+      "level": "must",
+      "text": "这个怎么扫？",
+      "meaning_my": "ဒီဟာ ဘယ်လိုစကန်ဖတ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "把条码对准这里扫。",
+          "meaning_my": "ဘားကုဒ်ကို ဒီနေရာနဲ့ချိန်ပြီး စကန်ဖတ်ပါ။"
+        },
+        {
+          "text": "先扫商品。",
+          "meaning_my": "အရင်ပစ္စည်းကို စကန်ဖတ်ပါ။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [
+        {
+          "text": "扫商品条形码和付款时扫支付二维码，不是同一个步骤。",
+          "text_my": "ပစ္စည်းရဲ့ ဘားကုဒ်စကန်ဖတ်တာနဲ့ ငွေပေးချေတဲ့ QR ကုဒ်စကန်ဖတ်တာ မတူပါဘူး။"
+        }
+      ],
+      "pinyin": "zhè ge zěn me sǎo",
+      "phonetic_my": "ကျ က ဇန် မ စောင်"
+    },
+    {
+      "id": "s27_4_0003",
+      "level": "must",
+      "text": "这个条码扫不出来。",
+      "meaning_my": "ဒီဘားကုဒ် စကန်ဖတ်မရဘူး။",
+      "alternatives": [
+        {
+          "text": "这个条码扫不了。",
+          "meaning_my": "ဒီဘားကုဒ် စကန်ဖတ်မရဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "换个角度再扫一下。",
+          "meaning_my": "တခြားထောင့်ကနေ ထပ်စကန်ဖတ်ကြည့်ပါ။"
+        },
+        {
+          "text": "我帮您手动输入条码。",
+          "meaning_my": "ဘားကုဒ်နံပါတ်ကို လက်နဲ့ရိုက်ထည့်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge tiáo mǎ sǎo bu chū lái",
+      "phonetic_my": "ကျ က ထျောင် မာ စောင် ပု ချူ လိုင်"
+    },
+    {
+      "id": "s27_4_0004",
+      "level": "must",
+      "text": "我刚才多扫了一次。",
+      "meaning_my": "အခုနက တစ်ခါပိုစကန်ဖတ်မိတယ်။",
+      "alternatives": [
+        {
+          "text": "我不小心扫了两次。",
+          "meaning_my": "မတော်တဆ နှစ်ခါစကန်ဖတ်မိတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我帮您删掉多扫的那件。",
+          "meaning_my": "ပိုစကန်ဖတ်ထားတဲ့ ပစ္စည်းကို ဖျက်ပေးမယ်။"
+        },
+        {
+          "text": "请稍等，我来处理。",
+          "meaning_my": "ခဏစောင့်ပါ၊ ဖြေရှင်းပေးမယ်။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [
+        {
+          "text": "多扫了一次要删除重复商品再付款，避免多付钱。",
+          "text_my": "တစ်ခါပိုစကန်ဖတ်မိရင် ငွေမပေးခင် ပိုနေတဲ့ပစ္စည်းကို ဖျက်ဖို့လိုတယ်။"
+        }
+      ],
+      "pinyin": "wǒ gāng cái duō sǎo le yí cì",
+      "phonetic_my": "ဝေါ ကန်း စိုင် တွော စောင် လ ယီ ဆီး"
+    },
+    {
+      "id": "s27_4_0005",
+      "level": "must",
+      "text": "这个商品怎么删掉？",
+      "meaning_my": "ဒီပစ္စည်းကို ဘယ်လိုဖျက်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "点这里删除。",
+          "meaning_my": "ဒီနေရာနှိပ်ပြီးဖျက်ပါ။"
+        },
+        {
+          "text": "这个要叫工作人员处理。",
+          "meaning_my": "ဒီဟာ ဝန်ထမ်းကို ခေါ်ပြီးဖြေရှင်းရမယ်။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge shāng pǐn zěn me shān diào",
+      "phonetic_my": "ကျ က ရှန်း ဖင် ဇန် မ ရှန် တျောင်"
+    },
+    {
+      "id": "s27_4_0006",
+      "level": "must",
+      "text": "商品要放哪里？",
+      "meaning_my": "ပစ္စည်းကို ဘယ်မှာထားရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "放到称重台。",
+          "meaning_my": "ပစ္စည်းကို ချိန်စက်ပေါ်ထားပါ။"
+        },
+        {
+          "text": "把商品放这里。",
+          "meaning_my": "ပစ္စည်းကို ဒီမှာထားပါ။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "shāng pǐn yào fàng nǎ lǐ",
+      "phonetic_my": "ရှန်း ဖင် ယောင် ဖန်း နာ လီ"
+    },
+    {
+      "id": "s27_4_0007",
+      "level": "must",
+      "text": "袋子怎么加购？",
+      "meaning_my": "အိတ်ကို ဘယ်လိုထပ်ဝယ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在屏幕上选购物袋。",
+          "meaning_my": "စခရင်ပေါ်မှာ ဈေးဝယ်အိတ်ကို ရွေးပါ။"
+        },
+        {
+          "text": "选好袋子数量就可以。",
+          "meaning_my": "အိတ်အရေအတွက် ရွေးပြီးရင် ရပါပြီ။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "dài zi zěn me jiā gòu",
+      "phonetic_my": "တိုင် ဇီး ဇန် မ ကျား ကိုး"
+    },
+    {
+      "id": "s27_4_0008",
+      "level": "must",
+      "text": "会员码在哪里扫？",
+      "meaning_my": "အသင်းဝင်ကုဒ် ဘယ်မှာစကန်ဖတ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在这里扫。",
+          "meaning_my": "ဒီမှာစကန်ဖတ်ပါ။"
+        },
+        {
+          "text": "先扫会员码。",
+          "meaning_my": "အရင်အသင်းဝင်ကုဒ်စကန်ဖတ်ပါ။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [
+        {
+          "text": "会员码用于识别会员；付款码才用于付款。",
+          "text_my": "အသင်းဝင်ကုဒ်က အသင်းဝင်ဖြစ်ကြောင်း အတည်ပြုတာဖြစ်ပြီး ငွေပေးကုဒ်က ငွေပေးဖို့သုံးတာပါ။"
+        }
+      ],
+      "pinyin": "huì yuán mǎ zài nǎ lǐ sǎo",
+      "phonetic_my": "ဟွေ့ ယွမ် မာ ဇိုင် နာ လီ စောင်"
+    },
+    {
+      "id": "s27_4_0009",
+      "level": "must",
+      "text": "要袋子。",
+      "meaning_my": "အိတ်လိုတယ်။",
+      "alternatives": [
+        {
+          "text": "给我一个袋子。",
+          "meaning_my": "အိတ်တစ်လုံး ပေးပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好的，要几个？",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဘယ်နှလုံးလိုချင်လဲ။"
+        },
+        {
+          "text": "好的，袋子需要另外收费。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အိတ်ဖိုး သီးသန့်ပေးရမယ်။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "yào dài zi",
+      "phonetic_my": "ယောင် တိုင် ဇီး"
+    },
+    {
+      "id": "s27_4_0010",
+      "level": "must",
+      "text": "没有会员。",
+      "meaning_my": "အသင်းဝင်မဟုတ်ဘူး။",
+      "alternatives": [
+        {
+          "text": "我不是会员。",
+          "meaning_my": "ကျွန်တော် အသင်းဝင် မဟုတ်ဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "没关系，可以直接结账。",
+          "meaning_my": "ကိစ္စမရှိဘူး၊ တိုက်ရိုက် ငွေရှင်းလို့ရတယ်။"
+        },
+        {
+          "text": "不办会员也能付款。",
+          "meaning_my": "အသင်းဝင် မလုပ်လည်း ငွေပေးလို့ရတယ်။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "méi yǒu huì yuán",
+      "phonetic_my": "မေး ယိုး ဟွေ့ ယွမ်"
+    },
+    {
+      "id": "s27_4_0011",
+      "level": "must",
+      "text": "不要小票。",
+      "meaning_my": "ဘောင်ချာမလိုဘူး။",
+      "alternatives": [
+        {
+          "text": "小票不用了。",
+          "meaning_my": "ဘောင်ချာ မလိုတော့ဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好的，那就不打印了。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒါဆို မပုံနှိပ်တော့ဘူး။"
+        },
+        {
+          "text": "好的，请拿好商品。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ပစ္စည်းတွေ ယူသွားပါ။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "bú yào xiǎo piào",
+      "phonetic_my": "ပု ယောင် ရှောင် ဖျောင်"
+    },
+    {
+      "id": "s27_4_0012",
+      "level": "listen",
+      "text": "先扫商品。",
+      "meaning_my": "အရင်ပစ္စည်းကို စကန်ဖတ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我先扫条码。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အရင် ဘားကုဒ်စကန်ဖတ်မယ်။"
+        },
+        {
+          "text": "扫不出来怎么办？",
+          "meaning_my": "စကန်ဖတ်မရရင် ဘယ်လိုလုပ်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān sǎo shāng pǐn",
+      "phonetic_my": "ရှျန် စောင် ရှန်း ဖင်"
+    },
+    {
+      "id": "s27_4_0013",
+      "level": "listen",
+      "text": "请选择支付方式。",
+      "meaning_my": "ငွေပေးချေနည်း ရွေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我选扫码支付。",
+          "meaning_my": "ကောင်းပြီ၊ QR နဲ့ ငွေပေးချေမယ်။"
+        },
+        {
+          "text": "这里可以用现金吗？",
+          "meaning_my": "ဒီမှာ ငွေသားနဲ့ ပေးလို့ရလား။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng xuǎn zé zhī fù fāng shì",
+      "phonetic_my": "ချင်း ရှျွန် ဇ ကျီး ဖူ ဖန်း ရှီး"
+    },
+    {
+      "id": "s27_4_0014",
+      "level": "listen",
+      "text": "袋子要收费。",
+      "meaning_my": "အိတ်အတွက် ပိုက်ဆံပေးရတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "多少钱一个？",
+          "meaning_my": "တစ်လုံး ဘယ်လောက်လဲ။"
+        },
+        {
+          "text": "那我不要袋子了。",
+          "meaning_my": "ဒါဆို အိတ်မယူတော့ဘူး။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "dài zi yào shōu fèi",
+      "phonetic_my": "တိုင် ဇီး ယောင် ရှိုး ဖေး"
+    },
+    {
+      "id": "s27_4_0015",
+      "level": "listen",
+      "text": "把商品放这里。",
+      "meaning_my": "ပစ္စည်းကို ဒီမှာထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我放好了。",
+          "meaning_my": "ကောင်းပြီ၊ ထားပြီးပြီ။"
+        },
+        {
+          "text": "是放这里吗？",
+          "meaning_my": "ဒီမှာထားရတာလား။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "bǎ shāng pǐn fàng zhè li",
+      "phonetic_my": "ပါ ရှန်း ဖင် ဖန်း ကျ လီ"
+    },
+    {
+      "id": "s27_4_0016",
+      "level": "listen",
+      "text": "请重新扫描。",
+      "meaning_my": "ထပ်စကန်ဖတ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我再扫一次。",
+          "meaning_my": "ဟုတ်ကဲ့၊ နောက်တစ်ခါ ထပ်စကန်ဖတ်မယ်။"
+        },
+        {
+          "text": "还是扫不出来，能帮我看看吗？",
+          "meaning_my": "စကန်ဖတ်မရသေးဘူး၊ ကူကြည့်ပေးလို့ရမလား။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng chóng xīn sǎo miáo",
+      "phonetic_my": "ချင်း ချုန်း ရှင် စောင် မျောင်း"
+    },
+    {
+      "id": "s27_4_0017",
+      "level": "listen",
+      "text": "请将商品放到称重台。",
+      "meaning_my": "ပစ္စည်းကို ချိန်စက်ပေါ်ထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我放上去了。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အပေါ်မှာ တင်ပြီးပြီ။"
+        },
+        {
+          "text": "是这个台子吗？",
+          "meaning_my": "ဒီကောင်တာပဲလား။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng jiāng shāng pǐn fàng dào chēng zhòng tái",
+      "phonetic_my": "ချင်း ကျန်း ရှန်း ဖင် ဖန်း တောင် ချင် ကျုန်း ထိုင်"
+    },
+    {
+      "id": "s27_4_0018",
+      "level": "listen",
+      "text": "付款成功。",
+      "meaning_my": "ငွေပေးချေမှုအောင်မြင်ပါပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，可以拿走了吗？",
+          "meaning_my": "ကောင်းပြီ၊ ယူသွားလို့ရပြီလား။"
+        },
+        {
+          "text": "好的，谢谢。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ကျေးဇူးပါ။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [
+        {
+          "text": "看到“付款成功”再取货；不必重复支付。",
+          "text_my": "“付款成功” လို့ပြပြီးမှ ပစ္စည်းယူပါ။ ထပ်မပေးရပါဘူး။"
+        }
+      ],
+      "pinyin": "fù kuǎn chéng gōng",
+      "phonetic_my": "ဖူ ခွန် ချန်း ကုန်း"
+    },
+    {
+      "id": "s27_4_0019",
+      "level": "listen",
+      "text": "请叫一下工作人员。",
+      "meaning_my": "ဝန်ထမ်းကို ခေါ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，工作人员在哪边？",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဝန်ထမ်းက ဘယ်ဘက်မှာရှိလဲ။"
+        },
+        {
+          "text": "能帮我叫一下吗？",
+          "meaning_my": "ကူပြီး ခေါ်ပေးလို့ရမလား။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng jiào yí xià gōng zuò rén yuán",
+      "phonetic_my": "ချင်း ကျောင် ယီ ရှျာ ကုန်း ဇွော ရန် ယွမ်"
+    },
+    {
+      "id": "s27_4_0020",
+      "level": "listen",
+      "text": "这个商品需要人工确认。",
+      "meaning_my": "ဒီပစ္စည်းကို ဝန်ထမ်းက အတည်ပြုဖို့လိုတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，麻烦帮我确认一下。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အတည်ပြုပေးပါဦး။"
+        },
+        {
+          "text": "要等工作人员过来吗？",
+          "meaning_my": "ဝန်ထမ်း လာတဲ့အထိ စောင့်ရမှာလား။"
+        }
+      ],
+      "lesson_id": "27.4",
+      "lesson_title": "27.4 自助结账",
+      "lesson_title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge shāng pǐn xū yào rén gōng què rèn",
+      "phonetic_my": "ကျ က ရှန်း ဖင် ရှွီ ယောင် ရန် ကုန်း ချွဲ ရန်"
+    }
+  ],
+  "quality_notes": {
+    "reply_first": true,
+    "when_to_use_removed": true,
+    "alternatives_optional": true,
+    "mistakes_only_if_needed": true,
+    "phonetic_my": "approximate_reading_needs_native_speaker_review",
+    "source_phrase_count": 83
+  }
+}

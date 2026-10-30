@@ -1,9 +1,9 @@
 {
-  "version": 50,
+  "version": 51,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2749,
+  "item_count": 2831,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1244,12 +1244,42 @@
           "theme_id": "27",
           "title": "超市便利店",
           "title_my": "စူပါမားကတ်နှင့် ကွန်ဗီနီယန့်စတိုး",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 82,
+          "lessons": [
+            {
+              "id": "27.1",
+              "title": "27.1 寻找商品",
+              "title_my": "27.1 ပစ္စည်းရှာခြင်း",
+              "count": 21
+            },
+            {
+              "id": "27.2",
+              "title": "27.2 生鲜称重",
+              "title_my": "27.2 လတ်ဆတ်ပစ္စည်း ချိန်ခြင်း",
+              "count": 20
+            },
+            {
+              "id": "27.3",
+              "title": "27.3 日期保质期",
+              "title_my": "27.3 ထုတ်လုပ်ရက်နှင့် သက်တမ်း",
+              "count": 21
+            },
+            {
+              "id": "27.4",
+              "title": "27.4 自助结账",
+              "title_my": "27.4 ကိုယ်တိုင်ငွေရှင်းခြင်း",
+              "count": 20
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/27.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/27.json",
+          "lesson_count": 4,
+          "data_version": 2,
+          "data_size": 91281,
+          "data_sha256": "61b59463379401fa4caff8296ada4525a947c056fb184241f1b887c4743e56b1"
         },
         {
           "theme_id": "28",
@@ -1938,9 +1968,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme44-v4-context-medical-20261012",
-  "source_status": "39 complete themes, 6 patch-only and 15 missing",
+  "revision": "spoken-theme27-v2-reply-first-20261030",
+  "source_status": "40 published themes, 20 missing; phonetic review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-12T14:09:56.793Z",
+  "updated_at": "2026-10-30T00:00:00Z",
   "packs_base_path": "packs/"
 }
