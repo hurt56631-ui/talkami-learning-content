@@ -1,9 +1,9 @@
 {
-  "version": 63,
+  "version": 64,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3698,
+  "item_count": 3776,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2214,12 +2214,46 @@
           "theme_id": "54",
           "title": "任务会议",
           "title_my": "အလုပ်တာဝန်နှင့် အစည်းအဝေး",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 78,
+          "lessons": [
+            {
+              "id": "54.1",
+              "title": "54.1 接收任务",
+              "title_my": "54.1 တာဝန်လက်ခံခြင်း",
+              "count": 14
+            },
+            {
+              "id": "54.2",
+              "title": "54.2 进度截止",
+              "title_my": "54.2 တိုးတက်မှုနှင့် deadline",
+              "count": 15
+            },
+            {
+              "id": "54.3",
+              "title": "54.3 会议发言",
+              "title_my": "54.3 အစည်းအဝေးပြောဆိုခြင်း",
+              "count": 16
+            },
+            {
+              "id": "54.4",
+              "title": "54.4 文件信息传达",
+              "title_my": "54.4 file နှင့် အချက်အလက်ပို့ဆောင်ခြင်း",
+              "count": 16
+            },
+            {
+              "id": "54.5",
+              "title": "54.5 出差安排与报销准备",
+              "title_my": "54.5 အလုပ်ခရီးနှင့် ကုန်ကျစရိတ်ပြန်တောင်းရန် ပြင်ဆင်ခြင်း",
+              "count": 17
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 5,
+          "data_url": "packs/54.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/54.json",
+          "data_version": 2
         },
         {
           "theme_id": "55",
@@ -2300,9 +2334,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme53-v2-natural-workplace-dialogue-20261031",
-  "source_status": "52 published themes, 8 missing; phonetic review pending",
+  "revision": "spoken-theme54-v2-natural-tasks-meetings-travel-20261031",
+  "source_status": "53 published themes, 7 missing; native pronunciation review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:05:00Z",
+  "updated_at": "2026-10-31T06:45:00Z",
   "packs_base_path": "packs/"
 }
