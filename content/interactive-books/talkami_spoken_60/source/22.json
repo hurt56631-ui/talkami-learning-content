@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "version": 5,
-  "updated_at": "2026-10-31T16:40:09.161Z",
+  "updated_at": "2026-10-31T16:41:06.097Z",
   "zone_id": 3,
   "zone_title": "吃饭餐饮",
   "theme_id": "22",
@@ -874,7 +874,7 @@
         },
         {
           "text": "没问题，我帮你少放点。",
-          "meaning_my": "ရပါတယ်၊ အစပ် နည်းနည်းလျှော့လုပ်ပေးမယ်။"
+          "meaning_my": "ရပါတယ်၊ ပုံမှန်ထက် နည်းနည်း လျှော့ပေးမယ်။"
         }
       ],
       "lesson_id": "22.2",
@@ -937,7 +937,7 @@
       "lesson_title": "22.2 小吃摊点单与加减料",
       "lesson_title_my": "22.2 မုန့်ဆိုင်/လမ်းဘေးဆိုင် မှာခြင်း",
       "pinyin": "jiā liào yào qián ma",
-      "phonetic_my": "ကျား လျောင် ယော ချန် မာ",
+      "phonetic_my": "ကျား လျော ယော ချန် မာ",
       "mistakes": [
         {
           "text": "“加料”是额外添食材，和“加菜”再点另一道菜不同。",
@@ -968,8 +968,8 @@
       "phonetic_my": "ယိုး ပု လာ တ မာ",
       "mistakes": [
         {
-          "text": "“不辣”是口味不辣，不等于对辣椒过敏者已确认安全；不吃辣椒或辣酱时应说明，严重过敏还须确认厨具接触。",
-          "text_my": "“不辣” က အရသာ မစပ်တာပါ။ ငရုတ်သီးနဲ့ ဓာတ်မတည့်သူအတွက် အန္တရာယ်ကင်းကြောင်း အတည်ပြုပြီးတာ မဟုတ်ဘူး။ ပါဝင်ပစ္စည်းနဲ့ အိုးအတူသုံးမှုကိုပါ စစ်ဆေးမေးပါ။"
+          "text": "“不辣”不等于完全不含辣椒或其他刺激性配料；对辣椒过敏时必须明确说明过敏，并核实酱料与共用器具。",
+          "text_my": "“不辣” က အရသာမစပ်တာပါ။ ငရုတ်သီးလုံးဝမပါဘူးလို့ မဆိုနိုင်ဘူး။ ဓာတ်မတည့်ရင် ငရုတ်သီး၊ ဆော့စ်နဲ့ အတူသုံးတဲ့ပစ္စည်းတွေကိုပါ သေချာမေးပါ။"
         }
       ]
     },
@@ -1103,12 +1103,12 @@
       "alternatives": [],
       "replies": [
         {
-          "text": "可以，我给你不放葱。",
-          "meaning_my": "ရပါတယ်၊ ကြက်သွန်မြိတ် မထည့်ဘဲ လုပ်ပေးမယ်။"
+          "text": "可以，不放葱。",
+          "meaning_my": "ရပါတယ်၊ ကြက်သွန်မြိတ် မထည့်ပေးပါဘူး။"
         },
         {
           "text": "这个已经拌好了，葱去不掉。",
-          "meaning_my": "ဒီဟာက ကြိုရောထားပြီးသားမို့ ကြက်သွန်မြိတ် ဖယ်လို့မရတော့ဘူး။"
+          "meaning_my": "ဒီဟာ ရောပြီးသားမို့ ကြက်သွန်မြိတ် ဖယ်လို့မရတော့ဘူး။"
         }
       ],
       "lesson_id": "22.2",
@@ -2011,12 +2011,12 @@
       "id": "s22_3_0021",
       "level": "listen",
       "text": "取餐请看取餐号。",
-      "meaning_my": "အစားအစာလာယူတဲ့အခါ ကိုယ့်အော်ဒါနံပါတ်ကို ကြည့်ပေးပါ။",
+      "meaning_my": "အစားအစာလာယူတဲ့အခါ ကိုယ့်ရဲ့အော်ဒါနံပါတ်ကို ကြည့်ပါ။",
       "alternatives": [],
       "replies": [
         {
           "text": "好，我看取餐号。",
-          "meaning_my": "ဟုတ်ကဲ့၊ အော်ဒါနံပါတ်ကို ကြည့်ထားမယ်။"
+          "meaning_my": "ဟုတ်ကဲ့၊ အစားယူနံပါတ်ကို ကြည့်ထားမယ်။"
         },
         {
           "text": "叫到我的号我就去拿。",
@@ -2050,10 +2050,11 @@
     "phonetic_check": "Burmese phonetic aids revised as approximations; standard Mandarin tone audio remains authoritative",
     "food_terminology": "Changed baozi to ပေါက်စီ and youtiao to အီကြာကွေး in selected Burmese card translations, drawing on attested Burmese terminology",
     "native_burmese_review": "pending",
-    "count_note": "69 historical source phrases = 63 stable main cards plus 6 source links: 5 alternatives, 1 theme10 exact reuse",
-    "stable_ids": "all 63 cards and their stable IDs retained",
-    "speaker_gender": "fixed masculine pronouns removed in main, alternatives and replies"
+    "count_note": "69 historical source phrases = 63 published cards + 5 intra-theme alternatives + 1 canonical reuse in theme10.3",
+    "stable_ids": "63 original card IDs and order retained",
+    "speaker_gender": "avoid fixed masculine Burmese in main, alternates and replies",
+    "phonetic_review": "approximation only, audio review pending"
   },
-  "quality_standard": "V5｜主题22《早餐小吃》：正式主卡63张（19+23+21），历史来源69条。6条来源关联保留在source/22.json（5条同主题自然变体、1条复用主题10的s10_3_0001），不是缺卡。保留全部稳定ID s22_1_0001 等，不做跨主题重编号。修正早餐数量与品类、馅料及忌口、加料收费、堂食/外带、分开包装与取餐号表达；缅语主译与回复避免固定男性自称。phonetic_my仅是近似辅助注音，以标准拼音和真人音频为准。独立缅甸母语及发音审核待完成。",
+  "quality_standard": "V5｜主题22《早餐小吃》正式主卡63张（19+23+21），历史来源69条；source/22.json中另有6条关联来源（5条同主题变体、1条复用主题10.3已存在的“要几个？”）。原stable ID s22_1_0001等全部保留，不迁移ID。缅语主句、替代表达和回复避免固定男性自称；强调早餐量词、菜包馅料与过敏确认、外带与堂食、加料是否收费、少辣与不辣不同。phonetic_my是近似辅助音，不代替普通话标准拼音和真人音频；独立缅甸母语编辑及音频终审待完成。",
   "card_count": 63
 }
