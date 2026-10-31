@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 12,
-  "updated_at": "2026-10-31T14:10:56.193Z",
+  "version": 13,
+  "updated_at": "2026-10-31T14:39:13.618Z",
   "zone_id": 1,
   "zone_title": "日常交往",
   "theme_id": "14",
@@ -2398,7 +2398,8 @@
     "context_count": 66,
     "primary_card_count": 66,
     "source_link_count": 13,
-    "source_count_explanation": "79 historical source entries = 66 published cards + 13 source associations saved in source/14.json lessons[].source_links"
+    "source_count_explanation": "79 historical source entries = 66 published cards + 13 source associations saved in source/14.json lessons[].source_links",
+    "verified_historical_variation": "'没关系，你慢慢来。' is recorded in source_links as a context variant; the teaching card instead has '没关系，慢慢来。' and is deliberately not duplicated in alternatives."
   },
-  "quality_standard": "V12: 66 stable published cards in 4 lessons plus 13 historical source reference/variation links = 79 source entries. Original IDs, levels and catalog access permissions preserved. Historical source relationships live in source/14.json lessons[].source_links; free/access controls live in catalog.json. Myanmar-language conversational replies and tone refined, speaker-neutral phrases, gài (fourth tone) and gǎi (third tone) approximations corrected; no when_to_use fields. Independent native Burmese teacher and audio QA pending."
+  "quality_standard": "V13: 66 stable published cards in 4 lessons plus 13 historical source reference/variation links = 79 source entries. Original IDs, levels and catalog access permissions preserved. Historical source relationships live in source/14.json lessons[].source_links; free/access controls live in catalog.json. Myanmar-language conversational replies and tone refined, speaker-neutral phrases, gài (fourth tone) and gǎi (third tone) approximations corrected; no when_to_use fields. Independent native Burmese teacher and audio QA pending. | Cross-theme QA: normalized optional mistakes fields; historical source links/stable IDs maintained; auxiliary pronunciation requires real audio review."
 }
