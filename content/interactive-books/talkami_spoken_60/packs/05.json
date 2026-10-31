@@ -1,10 +1,10 @@
 {
   "theme_id": "05",
-  "version": 11,
-  "updated_at": "2026-10-31T13:17:49.590Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:41:09.900Z",
   "theme_title": "05 请求帮助",
   "theme_title_my": "05 အကူအညီတောင်းခြင်း",
-  "quality_standard": "V11: 51 stable help-request cards, 3 original lessons; correct grammatical follow-me phrases, natural neutral Burmese, distinct reception counters, practical demonstration and assistance replies, learner-centered mistake notes; removed usage fields; Burmese-native language and actual audio QA pending.",
+  "quality_standard": "V12: 51 stable help-request cards, 3 original lessons; correct grammatical follow-me phrases, natural neutral Burmese, distinct reception counters, practical demonstration and assistance replies, learner-centered mistake notes; removed usage fields; Burmese-native language and actual audio QA pending. | Cross-theme card schema QA: synchronized source card field order and added explicit phrase_count, preserved original IDs and permissions.",
   "lessons": [
     {
       "id": "05.1",
@@ -1685,5 +1685,6 @@
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 51
 }
