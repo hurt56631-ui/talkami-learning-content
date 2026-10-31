@@ -1,10 +1,10 @@
 {
   "theme_id": "10",
-  "version": 11,
-  "updated_at": "2026-10-31T20:00:00Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:38:36.271Z",
   "theme_title": "10 时间数量",
   "theme_title_my": "10 အချိန်နှင့် အရေအတွက်",
-  "quality_standard": "V11: 141 unique published cards, 142 historical source phrases (one linked existing card s09_02_0020, not a missing or duplicate card). Original stable s10_1 style IDs preserved; six lessons edited for accurate time-of-day, 斤/公斤, amounts, work shifts, gender-neutral Burmese, and gài approximate pronunciation. Burmese pronunciation hints are only aids; independent native Burmese teacher and real-audio QA pending.",
+  "quality_standard": "V12: 141 unique published cards, 142 historical source phrases (one linked existing card s09_02_0020, not a missing or duplicate card). Original stable s10_1 style IDs preserved; six lessons edited for accurate time-of-day, 斤/公斤, amounts, work shifts, gender-neutral Burmese, and gài approximate pronunciation. Burmese pronunciation hints are only aids; independent native Burmese teacher and real-audio QA pending. | Cross-theme QA: optional mistakes normalized; source accounting and gender-neutral Burmese reviewed; Mandarin phonetics are approximate; native/audio final QA pending.",
   "source_phrase_count": 142,
   "lessons": [
     {
@@ -53,11 +53,11 @@
           "id": "s10_1_0002",
           "level": "must",
           "text": "几点下班？",
-          "meaning_my": "ဘယ်နှနာရီ အလုပ်ဆင်းလဲ။",
+          "meaning_my": "ဘယ်နှနာရီ အလုပ်ပြီးလဲ။",
           "alternatives": [
             {
               "text": "什么时候下班？",
-              "meaning_my": "ဘယ်နှနာရီ အလုပ်ဆင်းလဲ။"
+              "meaning_my": "ဘယ်အချိန် အလုပ်ပြီးလဲ။"
             }
           ],
           "replies": [
@@ -530,7 +530,7 @@
           "replies": [
             {
               "text": "好，下班后联系。",
-              "meaning_my": "ကောင်းပြီ၊ အလုပ်ဆင်းပြီးမှ ဆက်သွယ်မယ်။"
+              "meaning_my": "ကောင်းပြီ၊ အလုပ်ပြီးမှ ဆက်သွယ်မယ်။"
             },
             {
               "text": "今天要加班吗？",
@@ -852,7 +852,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "nǎ tiān yǒu kòng",
-          "phonetic_my": "နာ ထျန် ယိုး ခုန်း"
+          "phonetic_my": "နာ ထျန် ယိုး ခုန်း",
+          "mistakes": []
         },
         {
           "id": "s10_2_0005",
@@ -907,7 +908,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "jīn tiān bā hào",
-          "phonetic_my": "ကျင် ထျန် ပါ ဟောင်"
+          "phonetic_my": "ကျင် ထျန် ပါ ဟောင်",
+          "mistakes": []
         },
         {
           "id": "s10_2_0007",
@@ -929,7 +931,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "xīng qī wǔ",
-          "phonetic_my": "ရှင်း ချီ ဝူ"
+          "phonetic_my": "ရှင်း ချီ ဝူ",
+          "mistakes": []
         },
         {
           "id": "s10_2_0008",
@@ -984,7 +987,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "míng tiān jǐ hào",
-          "phonetic_my": "မင်း ထျန် ကျီ ဟောင်"
+          "phonetic_my": "မင်း ထျန် ကျီ ဟောင်",
+          "mistakes": []
         },
         {
           "id": "s10_2_0010",
@@ -1011,7 +1015,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "jīn tiān jǐ yuè jǐ hào",
-          "phonetic_my": "ကျင် ထျန် ကျီ ယွဲ ကျီ ဟောင်"
+          "phonetic_my": "ကျင် ထျန် ကျီ ယွဲ ကျီ ဟောင်",
+          "mistakes": []
         },
         {
           "id": "s10_2_0011",
@@ -1071,7 +1076,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "xià zhōu jǐ kāi huì",
-          "phonetic_my": "ရှျာ ကျိုး ကျီ ခိုင် ဟွေ့"
+          "phonetic_my": "ရှျာ ကျိုး ကျီ ခိုင် ဟွေ့",
+          "mistakes": []
         },
         {
           "id": "s10_2_0013",
@@ -1093,7 +1099,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "wǒ zhōu sān xiū xi",
-          "phonetic_my": "ဝေါ ကျိုး စန် ရှိုး ရှီး"
+          "phonetic_my": "ဝေါ ကျိုး စန် ရှိုး ရှီး",
+          "mistakes": []
         },
         {
           "id": "s10_2_0014",
@@ -1115,7 +1122,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "jīn tiān shì jiǔ yuè qī hào",
-          "phonetic_my": "ကျင် ထျန် ရှီး ကျိုး ယွဲ ချီ ဟောင်"
+          "phonetic_my": "ကျင် ထျန် ရှီး ကျိုး ယွဲ ချီ ဟောင်",
+          "mistakes": []
         },
         {
           "id": "s10_2_0015",
@@ -1137,7 +1145,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "jīn tiān èr shí bā hào",
-          "phonetic_my": "ကျင် ထျန် အာ ရှီး ပါ ဟောင်"
+          "phonetic_my": "ကျင် ထျန် အာ ရှီး ပါ ဟောင်",
+          "mistakes": []
         },
         {
           "id": "s10_2_0016",
@@ -1159,7 +1168,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "míng tiān xīng qī èr",
-          "phonetic_my": "မင်း ထျန် ရှင်း ချီ အာ"
+          "phonetic_my": "မင်း ထျန် ရှင်း ချီ အာ",
+          "mistakes": []
         },
         {
           "id": "s10_2_0017",
@@ -1181,7 +1191,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "xià zhōu yī shàng bān",
-          "phonetic_my": "ရှျာ ကျိုး ယီ ရှန်း ပန်"
+          "phonetic_my": "ရှျာ ကျိုး ယီ ရှန်း ပန်",
+          "mistakes": []
         },
         {
           "id": "s10_2_0018",
@@ -1203,7 +1214,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "zhōu wǔ xiū xi",
-          "phonetic_my": "ကျိုး ဝူ ရှိုး ရှီး"
+          "phonetic_my": "ကျိုး ဝူ ရှိုး ရှီး",
+          "mistakes": []
         },
         {
           "id": "s10_2_0019",
@@ -1309,7 +1321,8 @@
           "lesson_title": "10.2 日期和星期",
           "lesson_title_my": "10.2 ရက်စွဲနှင့် အပတ်ရက်",
           "pinyin": "xià ge yuè wǔ hào huí lái",
-          "phonetic_my": "ရှျာ က ယွဲ ဝူ ဟောင် ဟွေ့ လိုင်"
+          "phonetic_my": "ရှျာ က ယွဲ ဝူ ဟောင် ဟွေ့ လိုင်",
+          "mistakes": []
         },
         {
           "id": "s10_2_0023",
@@ -1522,7 +1535,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "gěi wǒ yì píng",
-          "phonetic_my": "ကေး ဝေါ ယီ ဖင်း"
+          "phonetic_my": "ကေး ဝေါ ယီ ဖင်း",
+          "mistakes": []
         },
         {
           "id": "s10_3_0007",
@@ -1582,7 +1596,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "zhè xiē gòu ma",
-          "phonetic_my": "ကျ ရှျဲ ကိုး မာ"
+          "phonetic_my": "ကျ ရှျဲ ကိုး မာ",
+          "mistakes": []
         },
         {
           "id": "s10_3_0009",
@@ -1637,7 +1652,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "yí gòng wǔ xiāng",
-          "phonetic_my": "ယီ ကုန်း ဝူ ရှျန်း"
+          "phonetic_my": "ယီ ကုန်း ဝူ ရှျန်း",
+          "mistakes": []
         },
         {
           "id": "s10_3_0011",
@@ -1717,7 +1733,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "zhè biān yǒu shí ge",
-          "phonetic_my": "ကျ ပျန် ယိုး ရှီး က"
+          "phonetic_my": "ကျ ပျန် ယိုး ရှီး က",
+          "mistakes": []
         },
         {
           "id": "s10_3_0014",
@@ -1863,7 +1880,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "yí gòng bā jiàn",
-          "phonetic_my": "ယီ ကုန်း ပါ ကျန်"
+          "phonetic_my": "ယီ ကုန်း ပါ ကျန်",
+          "mistakes": []
         },
         {
           "id": "s10_3_0019",
@@ -1885,7 +1903,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "hái yào wǔ ge",
-          "phonetic_my": "ဟိုင်း ယောင် ဝူ က"
+          "phonetic_my": "ဟိုင်း ယောင် ဝူ က",
+          "mistakes": []
         },
         {
           "id": "s10_3_0020",
@@ -1935,7 +1954,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "yì xiāng shí èr ge",
-          "phonetic_my": "ယီ ရှျန်း ရှီး အာ က"
+          "phonetic_my": "ယီ ရှျန်း ရှီး အာ က",
+          "mistakes": []
         },
         {
           "id": "s10_3_0022",
@@ -1957,7 +1977,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "měi ge rén liǎng ge",
-          "phonetic_my": "မေး က ရန် လျန်း က"
+          "phonetic_my": "မေး က ရန် လျန်း က",
+          "mistakes": []
         },
         {
           "id": "s10_3_0023",
@@ -1979,7 +2000,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "ná sì píng jiù gòu le",
-          "phonetic_my": "နာ စီး ဖင်း ကျိုး ကိုး လ"
+          "phonetic_my": "နာ စီး ဖင်း ကျိုး ကိုး လ",
+          "mistakes": []
         },
         {
           "id": "s10_3_0024",
@@ -2003,7 +2025,8 @@
           "unit_note": "中国大陆日常：1斤=500克；半斤=250克；2斤=1公斤。",
           "unit_note_my": "တရုတ်ပြည်တွင်း နေ့စဉ်အသုံးမှာ ၁ 斤 = ၅၀၀ ဂရမ်၊ 半斤 = ၂၅၀ ဂရမ်၊ ၂ 斤 = ၁ ကီလိုဂရမ်။",
           "pinyin": "yí gòng sān gōng jīn",
-          "phonetic_my": "ယီ ကုန်း စန် ကုန်း ကျင်"
+          "phonetic_my": "ယီ ကုန်း စန် ကုန်း ကျင်",
+          "mistakes": []
         },
         {
           "id": "s10_3_0025",
@@ -2025,7 +2048,8 @@
           "lesson_title": "10.3 数量和量词",
           "lesson_title_my": "10.3 အရေအတွက်နှင့် ပမာဏ",
           "pinyin": "zhè xiē gòu le",
-          "phonetic_my": "ကျ ရှျဲ ကိုး လ"
+          "phonetic_my": "ကျ ရှျဲ ကိုး လ",
+          "mistakes": []
         },
         {
           "id": "s10_3_0026",
@@ -2220,7 +2244,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "wǔ shí kuài",
-          "phonetic_my": "ဝူ ရှီး ခွိုင်"
+          "phonetic_my": "ဝူ ရှီး ခွိုင်",
+          "mistakes": []
         },
         {
           "id": "s10_4_0006",
@@ -2308,7 +2333,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "jīn é duì ma",
-          "phonetic_my": "ကျင် အဲ တွေး မာ"
+          "phonetic_my": "ကျင် အဲ တွေး မာ",
+          "mistakes": []
         },
         {
           "id": "s10_4_0009",
@@ -2368,7 +2394,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "měi ge duō shao qián",
-          "phonetic_my": "မေး က တွော ရှောင် ချန်"
+          "phonetic_my": "မေး က တွော ရှောင် ချန်",
+          "mistakes": []
         },
         {
           "id": "s10_4_0011",
@@ -2395,7 +2422,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "liǎng jiàn yí gòng duō shao qián",
-          "phonetic_my": "လျန်း ကျန် ယီ ကုန်း တွော ရှောင် ချန်"
+          "phonetic_my": "လျန်း ကျန် ယီ ကုန်း တွော ရှောင် ချန်",
+          "mistakes": []
         },
         {
           "id": "s10_4_0012",
@@ -2445,7 +2473,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "yí gòng liù shí bā",
-          "phonetic_my": "ယီ ကုန်း လျိုး ရှီး ပါ"
+          "phonetic_my": "ယီ ကုန်း လျိုး ရှီး ပါ",
+          "mistakes": []
         },
         {
           "id": "s10_4_0014",
@@ -2467,7 +2496,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "sān shí jiǔ yí ge",
-          "phonetic_my": "စန် ရှီး ကျိုး ယီ က"
+          "phonetic_my": "စန် ရှီး ကျိုး ယီ က",
+          "mistakes": []
         },
         {
           "id": "s10_4_0015",
@@ -2519,7 +2549,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "yí gòng bā shí liù",
-          "phonetic_my": "ယီ ကုန်း ပါ ရှီး လျိုး"
+          "phonetic_my": "ယီ ကုန်း ပါ ရှီး လျိုး",
+          "mistakes": []
         },
         {
           "id": "s10_4_0017",
@@ -2569,7 +2600,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "hái yào jiā shí kuài",
-          "phonetic_my": "ဟိုင်း ယောင် ကျား ရှီး ခွိုင်"
+          "phonetic_my": "ဟိုင်း ယောင် ကျား ရှီး ခွိုင်",
+          "mistakes": []
         },
         {
           "id": "s10_4_0019",
@@ -2647,7 +2679,8 @@
           "lesson_title": "10.4 价格和金额",
           "lesson_title_my": "10.4 ဈေးနှုန်းနှင့် ငွေပမာဏ",
           "pinyin": "jīn é méi cuò",
-          "phonetic_my": "ကျင် အဲ မေး ဆွေါ"
+          "phonetic_my": "ကျင် အဲ မေး ဆွေါ",
+          "mistakes": []
         },
         {
           "id": "s10_4_0022",
@@ -2769,7 +2802,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "měi tiān yí cì",
-          "phonetic_my": "မေး ထျန် ယီ ဆီး"
+          "phonetic_my": "မေး ထျန် ယီ ဆီး",
+          "mistakes": []
         },
         {
           "id": "s10_5_0004",
@@ -2967,7 +3001,7 @@
           "alternatives": [
             {
               "text": "一周上几天班？",
-              "meaning_my": "တစ်ပတ် ဘယ်နှရက် အလုပ်ဆင်းလဲ။"
+              "meaning_my": "တစ်ပတ် ဘယ်နှရက် အလုပ်ဝင်ရလဲ။"
             }
           ],
           "replies": [
@@ -3045,7 +3079,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "yí ge yuè qù jǐ cì",
-          "phonetic_my": "ယီ က ယွဲ ချွီ ကျီ ဆီး"
+          "phonetic_my": "ယီ က ယွဲ ချွီ ကျီ ဆီး",
+          "mistakes": []
         },
         {
           "id": "s10_5_0013",
@@ -3067,7 +3102,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "měi tiān gōng zuò bā xiǎo shí",
-          "phonetic_my": "မေး ထျန် ကုန်း ဇွော ပါ ရှောင် ရှီး"
+          "phonetic_my": "မေး ထျန် ကုန်း ဇွော ပါ ရှောင် ရှီး",
+          "mistakes": []
         },
         {
           "id": "s10_5_0014",
@@ -3089,7 +3125,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "yì zhōu xiū xi yì tiān",
-          "phonetic_my": "ယီ ကျိုး ရှိုး ရှီး ယီ ထျန်"
+          "phonetic_my": "ယီ ကျိုး ရှိုး ရှီး ယီ ထျန်",
+          "mistakes": []
         },
         {
           "id": "s10_5_0015",
@@ -3111,7 +3148,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "shí fēn zhōng zuǒ yòu",
-          "phonetic_my": "ရှီး ဖန် ကျုန်း ဇွော ယိုး"
+          "phonetic_my": "ရှီး ဖန် ကျုန်း ဇွော ယိုး",
+          "mistakes": []
         },
         {
           "id": "s10_5_0016",
@@ -3133,7 +3171,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "yí ge xiǎo shí",
-          "phonetic_my": "ယီ က ရှောင် ရှီး"
+          "phonetic_my": "ယီ က ရှောင် ရှီး",
+          "mistakes": []
         },
         {
           "id": "s10_5_0017",
@@ -3295,7 +3334,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "yí ge yuè liǎng cì",
-          "phonetic_my": "ယီ က ယွဲ လျန်း ဆီး"
+          "phonetic_my": "ယီ က ယွဲ လျန်း ဆီး",
+          "mistakes": []
         },
         {
           "id": "s10_5_0023",
@@ -3317,7 +3357,8 @@
           "lesson_title": "10.5 时长和频率",
           "lesson_title_my": "10.5 ကြာချိန်နှင့် အကြိမ်ရေ",
           "pinyin": "yì bān yì zhōu liǎng cì",
-          "phonetic_my": "ယီ ပန် ယီ ကျိုး လျန်း ဆီး"
+          "phonetic_my": "ယီ ပန် ယီ ကျိုး လျန်း ဆီး",
+          "mistakes": []
         }
       ]
     },
@@ -3698,7 +3739,8 @@
           "lesson_title": "10.6 先后和期限",
           "lesson_title_my": "10.6 အစဉ်နှင့် နောက်ဆုံးသတ်မှတ်ချိန်",
           "pinyin": "zuì wǎn shén me shí hou gěi wǒ",
-          "phonetic_my": "ဇွေ့ ဝမ် ရှန် မ ရှီး ဟိုး ကေး ဝေါ"
+          "phonetic_my": "ဇွေ့ ဝမ် ရှန် မ ရှီး ဟိုး ကေး ဝေါ",
+          "mistakes": []
         },
         {
           "id": "s10_6_0013",
@@ -3758,7 +3800,8 @@
           "lesson_title": "10.6 先后和期限",
           "lesson_title_my": "10.6 အစဉ်နှင့် နောက်ဆုံးသတ်မှတ်ချိန်",
           "pinyin": "jīn tiān xià bān qián",
-          "phonetic_my": "ကျင် ထျန် ရှျာ ပန် ချန်"
+          "phonetic_my": "ကျင် ထျန် ရှျာ ပန် ချန်",
+          "mistakes": []
         },
         {
           "id": "s10_6_0015",
@@ -3785,7 +3828,8 @@
           "lesson_title": "10.6 先后和期限",
           "lesson_title_my": "10.6 အစဉ်နှင့် နောက်ဆုံးသတ်မှတ်ချိန်",
           "pinyin": "zuì wǎn míng tiān wán chéng",
-          "phonetic_my": "ဇွေ့ ဝမ် မင်း ထျန် ဝမ် ချန်း"
+          "phonetic_my": "ဇွေ့ ဝမ် မင်း ထျန် ဝမ် ချန်း",
+          "mistakes": []
         },
         {
           "id": "s10_6_0016",
@@ -3845,7 +3889,8 @@
           "lesson_title": "10.6 先后和期限",
           "lesson_title_my": "10.6 အစဉ်နှင့် နောက်ဆုံးသတ်မှတ်ချိန်",
           "pinyin": "zuò wán gào su wǒ",
-          "phonetic_my": "ဇွော ဝမ် ကောင် စူ ဝေါ"
+          "phonetic_my": "ဇွော ဝမ် ကောင် စူ ဝေါ",
+          "mistakes": []
         },
         {
           "id": "s10_6_0018",
@@ -3938,7 +3983,8 @@
           "lesson_title": "10.6 先后和期限",
           "lesson_title_my": "10.6 အစဉ်နှင့် နောက်ဆုံးသတ်မှတ်ချိန်",
           "pinyin": "jīn tiān bì xū jiāo",
-          "phonetic_my": "ကျင် ထျန် ပီ ရှွီ ကျောင်"
+          "phonetic_my": "ကျင် ထျန် ပီ ရှွီ ကျောင်",
+          "mistakes": []
         },
         {
           "id": "s10_6_0021",
