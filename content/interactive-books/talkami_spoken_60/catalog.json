@@ -1,9 +1,9 @@
 {
-  "version": 59,
+  "version": 60,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3393,
+  "item_count": 3503,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2045,12 +2045,52 @@
           "theme_id": "50",
           "title": "证件签证办事",
           "title_my": "စာရွက်စာတမ်း၊ ဗီဇာနှင့် ရုံးကိစ္စ",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 110,
+          "lessons": [
+            {
+              "id": "50.1",
+              "title": "50.1 办理地点材料",
+              "title_my": "50.1 လုပ်ဆောင်ရာနေရာနှင့် စာရွက်စာတမ်း",
+              "count": 19
+            },
+            {
+              "id": "50.2",
+              "title": "50.2 填表取号与预约",
+              "title_my": "50.2 ဖောင်ဖြည့်၊ နံပါတ်ယူ၊ ကြိုတင်ချိန်းခြင်း",
+              "count": 20
+            },
+            {
+              "id": "50.3",
+              "title": "50.3 签证与居留许可",
+              "title_my": "50.3 ဗီဇာနှင့် နေထိုင်ခွင့်",
+              "count": 18
+            },
+            {
+              "id": "50.4",
+              "title": "50.4 外国人来华工作许可",
+              "title_my": "50.4 နိုင်ငံခြားသားအလုပ်လုပ်ခွင့်",
+              "count": 18
+            },
+            {
+              "id": "50.5",
+              "title": "50.5 证件丢失与补办",
+              "title_my": "50.5 အထောက်အထားပျောက်ဆုံးခြင်းနှင့် ပြန်လျှောက်ခြင်း",
+              "count": 17
+            },
+            {
+              "id": "50.6",
+              "title": "50.6 查询进度与领取证件",
+              "title_my": "50.6 အခြေအနေစစ်ခြင်းနှင့် အထောက်အထားယူခြင်း",
+              "count": 18
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 6,
+          "data_url": "packs/50.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/50.json",
+          "data_version": 2
         }
       ],
       "title_my": "ဆေးရုံနှင့် လုပ်ငန်းဆောင်တာ"
@@ -2182,9 +2222,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "theme49-banking-post-natural-reply-first-v2",
-  "source_status": "48 published themes, 12 missing; native speaker review pending",
+  "revision": "spoken-theme50-v2-documents-visa-paperwork-20261031",
+  "source_status": "49 published themes, 11 missing; phonetic review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:00:00Z",
+  "updated_at": "2026-10-31T04:00:00Z",
   "packs_base_path": "packs/"
 }
