@@ -1,9 +1,9 @@
 {
-  "version": 57,
+  "version": 58,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3266,
+  "item_count": 3322,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1973,12 +1973,34 @@
           "theme_id": "46",
           "title": "紧急求助",
           "title_my": "အရေးပေါ်အကူအညီ",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 56,
+          "lessons": [
+            {
+              "id": "46.1",
+              "title": "46.1 报警求助",
+              "title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+              "count": 19
+            },
+            {
+              "id": "46.2",
+              "title": "46.2 医疗急救",
+              "title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+              "count": 18
+            },
+            {
+              "id": "46.3",
+              "title": "46.3 火灾疏散",
+              "title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+              "count": 19
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 3,
+          "data_version": 2,
+          "data_url": "packs/46.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/46.json"
         },
         {
           "theme_id": "49",
@@ -2132,8 +2154,8 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme33-natural-delivery-v2-20261031",
-  "source_status": "46 published themes, 14 missing; phonetic review pending",
+  "revision": "theme46-emergency-reply-first-v2",
+  "source_status": "47 published themes, 13 missing; native-speaker review pending",
   "schema_version": 1,
   "updated_at": "2026-10-31T00:00:00Z",
   "packs_base_path": "packs/"

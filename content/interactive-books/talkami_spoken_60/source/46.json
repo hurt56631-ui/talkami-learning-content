@@ -1,0 +1,1483 @@
+{
+  "schema_version": 2,
+  "version": 2,
+  "updated_at": "2026-10-31T00:00:00Z",
+  "zone_id": 7,
+  "zone_title": "看病办事",
+  "theme_id": "46",
+  "theme_title": "46 紧急求助",
+  "theme_title_my": "46 အရေးပေါ်အကူအညီ",
+  "lesson_count": 3,
+  "source_phrase_count": 58,
+  "phrase_count": 56,
+  "lessons": [
+    {
+      "lesson_id": "46.1",
+      "pack_id": "course46_1_police",
+      "title": "46.1 报警求助",
+      "title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "phrase_count": 19,
+      "phrase_ids": [
+        "s46_1_0001",
+        "s46_1_0002",
+        "s46_1_0003",
+        "s46_1_0004",
+        "s46_1_0005",
+        "s46_1_0006",
+        "s46_1_0007",
+        "s46_1_0008",
+        "s46_1_0009",
+        "s46_1_0010",
+        "s46_1_0011",
+        "s46_1_0012",
+        "s46_1_0013",
+        "s46_1_0014",
+        "s46_1_0015",
+        "s46_1_0016",
+        "s46_1_0017",
+        "s46_1_0018",
+        "s46_1_0019"
+      ],
+      "source_links": []
+    },
+    {
+      "lesson_id": "46.2",
+      "pack_id": "course46_2_ambulance",
+      "title": "46.2 医疗急救",
+      "title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "phrase_count": 18,
+      "phrase_ids": [
+        "s46_2_0001",
+        "s46_2_0002",
+        "s46_2_0003",
+        "s46_2_0004",
+        "s46_2_0005",
+        "s46_2_0006",
+        "s46_2_0007",
+        "s46_2_0008",
+        "s46_2_0009",
+        "s46_2_0010",
+        "s46_2_0011",
+        "s46_2_0012",
+        "s46_2_0013",
+        "s46_2_0014",
+        "s46_2_0015",
+        "s46_2_0016",
+        "s46_2_0017",
+        "s46_2_0018"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "46.2",
+          "source_role": "listen",
+          "text": "请说具体地址。",
+          "status": "shared_core",
+          "canonical_id": "s46_1_0013",
+          "canonical_text": "请说具体地址。",
+          "primary_lesson": "46.1"
+        }
+      ]
+    },
+    {
+      "lesson_id": "46.3",
+      "pack_id": "course46_3_fire",
+      "title": "46.3 火灾疏散",
+      "title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "phrase_count": 19,
+      "phrase_ids": [
+        "s46_3_0001",
+        "s46_3_0002",
+        "s46_3_0003",
+        "s46_3_0004",
+        "s46_3_0005",
+        "s46_3_0006",
+        "s46_3_0007",
+        "s46_3_0008",
+        "s46_3_0009",
+        "s46_3_0010",
+        "s46_3_0011",
+        "s46_3_0012",
+        "s46_3_0013",
+        "s46_3_0014",
+        "s46_3_0015",
+        "s46_3_0016",
+        "s46_3_0017",
+        "s46_3_0018",
+        "s46_3_0019"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "46.3",
+          "source_role": "must",
+          "text": "门打不开。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s19_1_0004",
+          "canonical_text": "门打不开。",
+          "canonical_course": "19.1",
+          "note": "前课已有完全相同核心。"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "s46_1_0001",
+      "level": "must",
+      "text": "帮我报警！",
+      "meaning_my": "ရဲကို ဖုန်းခေါ်ပေးပါ။",
+      "alternatives": [
+        {
+          "text": "快帮我报警！",
+          "meaning_my": "ရဲကို အမြန် ဖုန်းခေါ်ပေးပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我马上打110。",
+          "meaning_my": "၁၁၀ ကို ချက်ချင်း ဖုန်းခေါ်မယ်။"
+        },
+        {
+          "text": "你先到安全的地方。",
+          "meaning_my": "အရင် လုံခြုံတဲ့နေရာကို သွားပါ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [
+        {
+          "text": "在中国报警拨110；在别的国家要使用当地报警号码。",
+          "text_my": "တရုတ်နိုင်ငံမှာ ရဲကို ၁၁၀ ခေါ်ပါ။ တခြားနိုင်ငံမှာ ဒေသဆိုင်ရာ အရေးပေါ်နံပါတ်ကို သုံးပါ။"
+        }
+      ],
+      "pinyin": "bāng wǒ bào jǐng",
+      "phonetic_my": "ပန်း ဝေါ ပေါင် ကျင်"
+    },
+    {
+      "id": "s46_1_0002",
+      "level": "must",
+      "text": "有人偷东西！",
+      "meaning_my": "တစ်ယောက်ယောက် ပစ္စည်းခိုးနေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在哪里？我来报警。",
+          "meaning_my": "ဘယ်မှာလဲ၊ ရဲကို ဖုန်းခေါ်ပေးမယ်။"
+        },
+        {
+          "text": "先别靠近那个人。",
+          "meaning_my": "အဲဒီလူနားကို အရင် မသွားပါနဲ့။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu rén tōu dōng xi",
+      "phonetic_my": "ယိုး ရန် ထိုး တုန်း ရှီး"
+    },
+    {
+      "id": "s46_1_0003",
+      "level": "must",
+      "text": "我的包被抢了。",
+      "meaning_my": "ကျွန်တော့်အိတ် အလုခံရတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "你受伤了吗？",
+          "meaning_my": "ဒဏ်ရာရသွားလား။"
+        },
+        {
+          "text": "我帮你报警。",
+          "meaning_my": "ရဲကို ဖုန်းခေါ်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ de bāo bèi qiǎng le",
+      "phonetic_my": "ဝေါ တ ပေါင် ပေ ချျန် လ"
+    },
+    {
+      "id": "s46_1_0004",
+      "level": "must",
+      "text": "这里有人打架！",
+      "meaning_my": "ဒီမှာ လူတွေ ရန်ဖြစ်နေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "你先离远一点。",
+          "meaning_my": "အရင် နည်းနည်းဝေးဝေးနေပါ။"
+        },
+        {
+          "text": "我打110报警。",
+          "meaning_my": "၁၁၀ ကို ဖုန်းခေါ်ပြီး ရဲတိုင်မယ်။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè lǐ yǒu rén dǎ jià",
+      "phonetic_my": "ကျ လီ ယိုး ရန် တာ ကျား"
+    },
+    {
+      "id": "s46_1_0005",
+      "level": "must",
+      "text": "有人在追我！",
+      "meaning_my": "တစ်ယောက်ယောက် ကျွန်တော့်နောက် လိုက်နေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "快去有人又安全的地方。",
+          "meaning_my": "လူရှိပြီး လုံခြုံတဲ့နေရာကို အမြန်သွားပါ။"
+        },
+        {
+          "text": "我帮你报警，你在哪儿？",
+          "meaning_my": "ရဲကို ဖုန်းခေါ်ပေးမယ်၊ အခု ဘယ်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu rén zài zhuī wǒ",
+      "phonetic_my": "ယိုး ရန် ဇိုင် ကျွေ ဝေါ"
+    },
+    {
+      "id": "s46_1_0006",
+      "level": "must",
+      "text": "这里很危险！",
+      "meaning_my": "ဒီနေရာ အန္တရာယ်ရှိတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先离开这里。",
+          "meaning_my": "ဒီနေရာကနေ အရင်ထွက်ပါ။"
+        },
+        {
+          "text": "附近有安全的地方吗？",
+          "meaning_my": "အနီးမှာ လုံခြုံတဲ့နေရာ ရှိလား။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè lǐ hěn wēi xiǎn",
+      "phonetic_my": "ကျ လီ ဟန် ဝေး ရှန်"
+    },
+    {
+      "id": "s46_1_0007",
+      "level": "must",
+      "text": "我在商场门口。",
+      "meaning_my": "ကျွန်တော် ကုန်တိုက်တံခါးဝမှာ ရှိတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "哪个门？东门还是西门？",
+          "meaning_my": "ဘယ်တံခါးလဲ၊ အရှေ့ဘက်လား အနောက်ဘက်လား။"
+        },
+        {
+          "text": "旁边有什么明显标志？",
+          "meaning_my": "ဘေးမှာ ထင်ရှားတဲ့ ဆိုင်းဘုတ်ဘာရှိလဲ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zài shāng chǎng mén kǒu",
+      "phonetic_my": "ဝေါ ဇိုင် ရှန်း ချန်း မန် ခိုး"
+    },
+    {
+      "id": "s46_1_0008",
+      "level": "must",
+      "text": "我现在安全了。",
+      "meaning_my": "အခု လုံခြုံတဲ့နေရာ ရောက်ပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那先别回现场。",
+          "meaning_my": "ဒါဆို အခင်းဖြစ်တဲ့နေရာကို ပြန်မသွားသေးပါနဲ့။"
+        },
+        {
+          "text": "你联系上警察了吗？",
+          "meaning_my": "ရဲနဲ့ ဆက်သွယ်မိပြီလား။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xiàn zài ān quán le",
+      "phonetic_my": "ဝေါ ရှျန် ဇိုင် အန် ချွမ် လ"
+    },
+    {
+      "id": "s46_1_0009",
+      "level": "must",
+      "text": "那个人还在附近。",
+      "meaning_my": "အဲဒီလူ ဒီအနားမှာပဲ ရှိသေးတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "别靠近他。",
+          "meaning_my": "သူ့အနားကို မသွားပါနဲ့။"
+        },
+        {
+          "text": "先找安全的地方待着。",
+          "meaning_my": "အရင် လုံခြုံတဲ့နေရာမှာ နေပါ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "nà ge rén hái zài fù jìn",
+      "phonetic_my": "နာ က ရန် ဟိုင်း ဇိုင် ဖူ ကျင်"
+    },
+    {
+      "id": "s46_1_0010",
+      "level": "must",
+      "text": "我的手机被偷了。",
+      "meaning_my": "ကျွန်တော့်ဖုန်း အခိုးခံရတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "用我的电话报警吧。",
+          "meaning_my": "ကျွန်တော့်ဖုန်းနဲ့ ရဲကို ဖုန်းခေါ်ပါ။"
+        },
+        {
+          "text": "最后在哪儿看到手机的？",
+          "meaning_my": "ဖုန်းကို နောက်ဆုံး ဘယ်မှာ တွေ့ခဲ့လဲ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ de shǒu jī bèi tōu le",
+      "phonetic_my": "ဝေါ တ ရှိုး ကျီ ပေ ထိုး လ"
+    },
+    {
+      "id": "s46_1_0011",
+      "level": "must",
+      "text": "警察什么时候到？",
+      "meaning_my": "ရဲ ဘယ်တော့ ရောက်မှာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我再问一下接警员。",
+          "meaning_my": "ဖုန်းလက်ခံတဲ့ ရဲဝန်ထမ်းကို ထပ်မေးပေးမယ်။"
+        },
+        {
+          "text": "还没确定，先待在安全地方。",
+          "meaning_my": "အချိန် မသေချာသေးဘူး၊ လုံခြုံတဲ့နေရာမှာ အရင်နေပါ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "jǐng chá shén me shí hou dào",
+      "phonetic_my": "ကျင် ချာ ရှန် မ ရှီး ဟိုး တောင်"
+    },
+    {
+      "id": "s46_1_0012",
+      "level": "must",
+      "text": "我需要翻译。",
+      "meaning_my": "ဘာသာပြန် အကူအညီ လိုတယ်။",
+      "alternatives": [
+        {
+          "text": "能帮我翻译吗？",
+          "meaning_my": "ဘာသာပြန်ကူပေးလို့ ရလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我帮你联系翻译。",
+          "meaning_my": "ဘာသာပြန်ပေးမယ့်သူနဲ့ ဆက်သွယ်ပေးမယ်။"
+        },
+        {
+          "text": "你先慢慢说地点。",
+          "meaning_my": "အရင် နေရာကို ဖြည်းဖြည်း ပြောပါ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xū yào fān yì",
+      "phonetic_my": "ဝေါ ရှွီ ယောင် ဖန် ယီ"
+    },
+    {
+      "id": "s46_1_0013",
+      "level": "listen",
+      "text": "请说具体地址。",
+      "meaning_my": "လိပ်စာအတိအကျ ပြောပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我在商场东门。",
+          "meaning_my": "ကျွန်တော် ကုန်တိုက်အရှေ့တံခါးမှာပါ။"
+        },
+        {
+          "text": "我看一下路牌。",
+          "meaning_my": "လမ်းဆိုင်းဘုတ်ကို တစ်ချက် ကြည့်ပါရစေ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng shuō jù tǐ dì zhǐ",
+      "phonetic_my": "ချင်း ရှွော ကျွီ ထီ တီ ကျီး"
+    },
+    {
+      "id": "s46_1_0014",
+      "level": "listen",
+      "text": "有人受伤吗？",
+      "meaning_my": "ဒဏ်ရာရတဲ့သူ ရှိလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "有，一个人流血了。",
+          "meaning_my": "ရှိတယ်၊ တစ်ယောက် သွေးထွက်နေတယ်။"
+        },
+        {
+          "text": "没有，没人受伤。",
+          "meaning_my": "မရှိဘူး၊ ဘယ်သူမှ ဒဏ်ရာမရဘူး။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu rén shòu shāng ma",
+      "phonetic_my": "ယိုး ရန် ရှိုး ရှန်း မာ"
+    },
+    {
+      "id": "s46_1_0015",
+      "level": "listen",
+      "text": "警察正在赶来。",
+      "meaning_my": "ရဲတွေ လာနေပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我在安全地方等。",
+          "meaning_my": "လုံခြုံတဲ့နေရာမှာ စောင့်နေမယ်။"
+        },
+        {
+          "text": "大概还要多久？",
+          "meaning_my": "နောက်ထပ် ဘယ်လောက်ကြာဦးမလဲ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "jǐng chá zhèng zài gǎn lái",
+      "phonetic_my": "ကျင် ချာ ကျန်း ဇိုင် ကန် လိုင်"
+    },
+    {
+      "id": "s46_1_0016",
+      "level": "listen",
+      "text": "请保持电话畅通。",
+      "meaning_my": "ဖုန်းကို ဆက်သွယ်လို့ရအောင် ထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我不挂电话。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဖုန်းမချပါဘူး။"
+        },
+        {
+          "text": "手机快没电了。",
+          "meaning_my": "ဖုန်း ဘက်ထရီကုန်ခါနီးပြီ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng bǎo chí diàn huà chàng tōng",
+      "phonetic_my": "ချင်း ပေါင် ချီ တျန် ဟွာ ချန်း ထုန်း"
+    },
+    {
+      "id": "s46_1_0017",
+      "level": "listen",
+      "text": "现场危险，先离开。",
+      "meaning_my": "အခင်းဖြစ်တဲ့နေရာ အန္တရာယ်ရှိလို့ အရင်ထွက်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我现在就离开。",
+          "meaning_my": "အခုချက်ချင်း ထွက်မယ်။"
+        },
+        {
+          "text": "往哪边走更安全？",
+          "meaning_my": "ဘယ်ဘက်ကိုသွားရင် ပိုလုံခြုံမလဲ။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "xiàn chǎng wēi xiǎn xiān lí kāi",
+      "phonetic_my": "ရှျန် ချန်း ဝေး ရှန် ရှျန် လီ ခိုင်"
+    },
+    {
+      "id": "s46_1_0018",
+      "level": "listen",
+      "text": "不要追对方。",
+      "meaning_my": "ဟိုလူ့နောက် မလိုက်ပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我不追了。",
+          "meaning_my": "ဟုတ်ကဲ့၊ နောက်မလိုက်တော့ဘူး။"
+        },
+        {
+          "text": "我在这里等警察。",
+          "meaning_my": "ရဲကို ဒီမှာ စောင့်မယ်။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "bù yào zhuī duì fāng",
+      "phonetic_my": "ပု ယောင် ကျွေ တွေး ဖန်း"
+    },
+    {
+      "id": "s46_1_0019",
+      "level": "listen",
+      "text": "在安全地方等警察。",
+      "meaning_my": "လုံခြုံတဲ့နေရာမှာ ရဲကို စောင့်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我在商场门口。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ကုန်တိုက်တံခါးဝမှာ ရှိတယ်။"
+        },
+        {
+          "text": "需要留下电话吗？",
+          "meaning_my": "ဖုန်းနံပါတ် ထားခဲ့ဖို့ လိုလား။"
+        }
+      ],
+      "lesson_id": "46.1",
+      "lesson_title": "46.1 报警求助",
+      "lesson_title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zài ān quán dì fāng děng jǐng chá",
+      "phonetic_my": "ဇိုင် အန် ချွမ် တီ ဖန်း တန်း ကျင် ချာ"
+    },
+    {
+      "id": "s46_2_0001",
+      "level": "must",
+      "text": "快叫救护车！",
+      "meaning_my": "လူနာတင်ကား အမြန်ခေါ်ပေးပါ။",
+      "alternatives": [
+        {
+          "text": "快打120！",
+          "meaning_my": "၁၂၀ ကို အမြန် ဖုန်းခေါ်ပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我马上打120。",
+          "meaning_my": "၁၂၀ ကို ချက်ချင်း ဖုန်းခေါ်မယ်။"
+        },
+        {
+          "text": "地址在哪儿？我来报。",
+          "meaning_my": "လိပ်စာ ဘယ်မှာလဲ၊ ကျွန်တော် ပြောပေးမယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [
+        {
+          "text": "在中国急救拨120；必须把具体地点告诉接线员。",
+          "text_my": "တရုတ်နိုင်ငံမှာ လူနာတင်ကားခေါ်ဖို့ ၁၂၀ ကို ခေါ်ပြီး နေရာအတိအကျ ပြောရပါမယ်။"
+        }
+      ],
+      "pinyin": "kuài jiào jiù hù chē",
+      "phonetic_my": "ခွိုင် ကျောင် ကျိုး ဟူ ချဲ့"
+    },
+    {
+      "id": "s46_2_0002",
+      "level": "must",
+      "text": "有人昏倒了！",
+      "meaning_my": "လူတစ်ယောက် သတိလစ်လဲကျသွားပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我马上打120。",
+          "meaning_my": "၁၂၀ ကို ချက်ချင်း ဖုန်းခေါ်မယ်။"
+        },
+        {
+          "text": "他有正常呼吸吗？",
+          "meaning_my": "သူ ပုံမှန် အသက်ရှူနေသေးလား။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "yǒu rén hūn dào le",
+      "phonetic_my": "ယိုး ရန် ဟွင် တောင် လ"
+    },
+    {
+      "id": "s46_2_0003",
+      "level": "must",
+      "text": "他没有反应。",
+      "meaning_my": "သူ ဘာမှ မတုံ့ပြန်ဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "马上拨120。",
+          "meaning_my": "၁၂၀ ကို ချက်ချင်း ဖုန်းခေါ်ပါ။"
+        },
+        {
+          "text": "他有正常呼吸吗？",
+          "meaning_my": "သူ ပုံမှန် အသက်ရှူနေသေးလား။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [
+        {
+          "text": "人无反应或没有正常呼吸时，马上呼叫急救并按接线员指导行动。",
+          "text_my": "လူက မတုံ့ပြန်တာ သို့မဟုတ် ပုံမှန် အသက်မရှူတာဆို အရေးပေါ်အကူအညီ ချက်ချင်းခေါ်ပြီး ဖုန်းလက်ခံသူရဲ့ လမ်းညွှန်ချက်အတိုင်း လုပ်ပါ။"
+        }
+      ],
+      "pinyin": "tā méi yǒu fǎn yīng",
+      "phonetic_my": "ထာ မေး ယိုး ဖန် ယင်း"
+    },
+    {
+      "id": "s46_2_0004",
+      "level": "must",
+      "text": "他受伤了。",
+      "meaning_my": "သူ ဒဏ်ရာရထားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "伤在哪儿？",
+          "meaning_my": "ဘယ်နေရာမှာ ဒဏ်ရာရတာလဲ။"
+        },
+        {
+          "text": "我来打120。",
+          "meaning_my": "ကျွန်တော် ၁၂၀ ကို ဖုန်းခေါ်မယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "tā shòu shāng le",
+      "phonetic_my": "ထာ ရှိုး ရှန်း လ"
+    },
+    {
+      "id": "s46_2_0005",
+      "level": "must",
+      "text": "他一直在流血。",
+      "meaning_my": "သူ သွေးမရပ်ဘဲ ထွက်နေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "用干净的布压住伤口。",
+          "meaning_my": "သန့်ရှင်းတဲ့ အဝတ်နဲ့ ဒဏ်ရာကို ဖိထားပါ။"
+        },
+        {
+          "text": "我马上打120。",
+          "meaning_my": "၁၂၀ ကို ချက်ချင်း ဖုန်းခေါ်မယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [
+        {
+          "text": "严重出血应立即寻求急救；安全时可用干净敷料持续直接压迫伤口。",
+          "text_my": "သွေးအများကြီးထွက်ရင် အရေးပေါ်အကူအညီ ခေါ်ပါ။ လုံခြုံရင် သန့်ရှင်းတဲ့ အဝတ်နဲ့ ဒဏ်ရာကို ဆက်တိုက်ဖိထားပါ။"
+        }
+      ],
+      "pinyin": "tā yí zhí zài liú xuè",
+      "phonetic_my": "ထာ ယီ ကျီး ဇိုင် လျိုး ရှျွဲ"
+    },
+    {
+      "id": "s46_2_0006",
+      "level": "must",
+      "text": "他呼吸困难。",
+      "meaning_my": "သူ အသက်ရှူခက်နေတယ်။",
+      "alternatives": [
+        {
+          "text": "他喘不过气。",
+          "meaning_my": "သူ အသက်ရှူမဝဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "快打120！",
+          "meaning_my": "၁၂၀ ကို အမြန် ဖုန်းခေါ်ပါ။"
+        },
+        {
+          "text": "让他保持舒服的姿势。",
+          "meaning_my": "သူ သက်သာတဲ့ ကိုယ်အနေအထားနဲ့ နေနိုင်အောင် လုပ်ပေးပါ။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "tā hū xī kùn nán",
+      "phonetic_my": "ထာ ဟူ ရှီး ခွန့် နန်"
+    },
+    {
+      "id": "s46_2_0007",
+      "level": "must",
+      "text": "在一楼门口。",
+      "meaning_my": "ပထမထပ် တံခါးဝမှာပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "是哪栋楼？",
+          "meaning_my": "ဘယ်အဆောက်အအုံလဲ။"
+        },
+        {
+          "text": "门口有什么标志？",
+          "meaning_my": "တံခါးဝမှာ ဘာဆိုင်းဘုတ် ရှိလဲ။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "zài yí lóu mén kǒu",
+      "phonetic_my": "ဇိုင် ယီ လိုး မန် ခိုး"
+    },
+    {
+      "id": "s46_2_0008",
+      "level": "must",
+      "text": "还有一个人受伤。",
+      "meaning_my": "နောက်တစ်ယောက်လည်း ဒဏ်ရာရထားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "他能说话吗？",
+          "meaning_my": "သူ စကားပြောနိုင်သေးလား။"
+        },
+        {
+          "text": "他伤在哪里？",
+          "meaning_my": "သူ ဘယ်နေရာ ဒဏ်ရာရတာလဲ။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "hái yǒu yí ge rén shòu shāng",
+      "phonetic_my": "ဟိုင်း ယိုး ယီ က ရန် ရှိုး ရှန်း"
+    },
+    {
+      "id": "s46_2_0009",
+      "level": "must",
+      "text": "120打通了吗？",
+      "meaning_my": "၁၂၀ ကို ဖုန်းဆက်လို့ရပြီလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "打通了，正在报地址。",
+          "meaning_my": "ဆက်သွယ်ရပြီ၊ လိပ်စာ ပြောနေတယ်။"
+        },
+        {
+          "text": "还没，我继续打。",
+          "meaning_my": "မရသေးဘူး၊ ဆက်ခေါ်နေမယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "dǎ tōng le ma",
+      "phonetic_my": "တာ ထုန်း လ မာ"
+    },
+    {
+      "id": "s46_2_0010",
+      "level": "must",
+      "text": "他突然倒下了。",
+      "meaning_my": "သူ ရုတ်တရက် လဲကျသွားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "他还有呼吸吗？",
+          "meaning_my": "သူ အသက်ရှူနေသေးလား။"
+        },
+        {
+          "text": "我马上叫救护车。",
+          "meaning_my": "လူနာတင်ကား ချက်ချင်း ခေါ်မယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "tā tū rán dào xià le",
+      "phonetic_my": "ထာ ထူး ရန် တောင် ရှျာ လ"
+    },
+    {
+      "id": "s46_2_0011",
+      "level": "must",
+      "text": "他还能说话。",
+      "meaning_my": "သူ စကားပြောနိုင်သေးတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "他哪里不舒服？",
+          "meaning_my": "သူ ဘယ်နေရာ မအီမသာဖြစ်နေလဲ။"
+        },
+        {
+          "text": "跟接线员说清楚。",
+          "meaning_my": "ဖုန်းလက်ခံသူကို သေချာပြောပြပါ။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "tā hái néng shuō huà",
+      "phonetic_my": "ထာ ဟိုင်း နန်း ရှွော ဟွာ"
+    },
+    {
+      "id": "s46_2_0012",
+      "level": "must",
+      "text": "救护车到了吗？",
+      "meaning_my": "လူနာတင်ကား ရောက်ပြီလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "还没到，我在门口等。",
+          "meaning_my": "မရောက်သေးဘူး၊ တံခါးဝမှာ စောင့်နေတယ်။"
+        },
+        {
+          "text": "到了，医护人员来了。",
+          "meaning_my": "ရောက်ပြီ၊ ဆေးဘက်ဝန်ထမ်းတွေ လာနေပြီ။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "jiù hù chē dào le ma",
+      "phonetic_my": "ကျိုး ဟူ ချဲ့ တောင် လ မာ"
+    },
+    {
+      "id": "s46_2_0013",
+      "level": "listen",
+      "text": "请保持通话。",
+      "meaning_my": "ဖုန်းမချဘဲ ဆက်ပြောနေပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我不挂电话。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဖုန်းမချပါဘူး။"
+        },
+        {
+          "text": "我开免提跟您说。",
+          "meaning_my": "စပီကာဖွင့်ပြီး ပြောပါမယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "qǐng bǎo chí tōng huà",
+      "phonetic_my": "ချင်း ပေါင် ချီ ထုန်း ဟွာ"
+    },
+    {
+      "id": "s46_2_0014",
+      "level": "listen",
+      "text": "先确认周围安全。",
+      "meaning_my": "ပတ်ဝန်းကျင် လုံခြုံမလုံခြုံ အရင်စစ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "这边有车，先让开。",
+          "meaning_my": "ဒီဘက်မှာ ကားတွေရှိတယ်၊ အရင်ဖယ်ရှားရအောင်။"
+        },
+        {
+          "text": "这里安全，可以靠近。",
+          "meaning_my": "ဒီနေရာ လုံခြုံတယ်၊ အနားလာလို့ရတယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "xiān què rèn zhōu wéi ān quán",
+      "phonetic_my": "ရှျန် ချွဲ ရန် ကျိုး ဝေး အန် ချွမ်"
+    },
+    {
+      "id": "s46_2_0015",
+      "level": "listen",
+      "text": "救护车已经出发。",
+      "meaning_my": "လူနာတင်ကား ထွက်လာပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我在门口接应。",
+          "meaning_my": "ဟုတ်ကဲ့၊ တံခါးဝမှာ သွားကြိုမယ်။"
+        },
+        {
+          "text": "我把楼号再说一遍。",
+          "meaning_my": "အဆောက်အအုံနံပါတ်ကို ထပ်ပြောပါမယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "jiù hù chē yǐ jīng chū fā",
+      "phonetic_my": "ကျိုး ဟူ ချဲ့ ယီ ကျင်း ချူ ဖာ"
+    },
+    {
+      "id": "s46_2_0016",
+      "level": "listen",
+      "text": "伤者有反应吗？",
+      "meaning_my": "ဒဏ်ရာရသူ တုံ့ပြန်မှု ရှိလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "没有，叫他也不醒。",
+          "meaning_my": "မရှိဘူး၊ ခေါ်လည်း မနိုးဘူး။"
+        },
+        {
+          "text": "有，他还能回答。",
+          "meaning_my": "ရှိတယ်၊ သူ ပြန်ဖြေနိုင်သေးတယ်။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "shāng zhě yǒu fǎn yīng ma",
+      "phonetic_my": "ရှန်း ကျယ် ယိုး ဖန် ယင်း မာ"
+    },
+    {
+      "id": "s46_2_0017",
+      "level": "listen",
+      "text": "他能正常呼吸吗？",
+      "meaning_my": "သူ ပုံမှန် အသက်ရှူနိုင်လား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "能，呼吸还正常。",
+          "meaning_my": "ရတယ်၊ အသက်ရှူတာ ပုံမှန်ပါပဲ။"
+        },
+        {
+          "text": "没有正常呼吸。",
+          "meaning_my": "ပုံမှန် အသက်မရှူနိုင်ဘူး။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "tā néng zhèng cháng hū xī ma",
+      "phonetic_my": "ထာ နန်း ကျန်း ချန်း ဟူ ရှီး မာ"
+    },
+    {
+      "id": "s46_2_0018",
+      "level": "listen",
+      "text": "别给昏迷的人喂水。",
+      "meaning_my": "သတိလစ်နေသူကို ရေမတိုက်ပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我不喂他。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ရေမတိုက်ပါဘူး။"
+        },
+        {
+          "text": "我已经叫救护车了。",
+          "meaning_my": "လူနာတင်ကား ခေါ်ပြီးပါပြီ။"
+        }
+      ],
+      "lesson_id": "46.2",
+      "lesson_title": "46.2 医疗急救",
+      "lesson_title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
+      "mistakes": [],
+      "pinyin": "bié gěi hūn mí de rén wèi shuǐ",
+      "phonetic_my": "ပျဲ ကေး ဟွင် မီ တ ရန် ဝေး ရှွေ့"
+    },
+    {
+      "id": "s46_3_0001",
+      "level": "must",
+      "text": "着火了！",
+      "meaning_my": "မီးလောင်နေပြီ။",
+      "alternatives": [
+        {
+          "text": "起火了！",
+          "meaning_my": "မီးစလောင်နေပြီ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "快打119！",
+          "meaning_my": "၁၁၉ ကို အမြန်ဖုန်းခေါ်ပါ။"
+        },
+        {
+          "text": "快往安全出口走！",
+          "meaning_my": "အရေးပေါ်ထွက်ပေါက်ဘက် အမြန်သွားပါ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [
+        {
+          "text": "在中国火警拨119。先保证自身安全，不要返回火场取物。",
+          "text_my": "တရုတ်နိုင်ငံမှာ မီးသတ်ကို ၁၁၉ ခေါ်ပါ။ ကိုယ့်လုံခြုံရေးကို အရင်ဦးစားပေးပြီး ပစ္စည်းပြန်ယူဖို့ မပြန်ပါနဲ့။"
+        }
+      ],
+      "pinyin": "zhe huǒ le",
+      "phonetic_my": "ကျ ဟွေါ လ"
+    },
+    {
+      "id": "s46_3_0002",
+      "level": "must",
+      "text": "快出去！",
+      "meaning_my": "အမြန်ထွက်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，往哪边走？",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဘယ်ဘက်ကို သွားရမလဲ။"
+        },
+        {
+          "text": "走楼梯，别坐电梯！",
+          "meaning_my": "လှေကားက သွားပါ၊ ဓာတ်လှေကား မစီးပါနဲ့။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "kuài chū qù",
+      "phonetic_my": "ခွိုင် ချူ ချွီ"
+    },
+    {
+      "id": "s46_3_0003",
+      "level": "must",
+      "text": "快打119！",
+      "meaning_my": "၁၁၉ ကို အမြန်ခေါ်ပါ။",
+      "alternatives": [
+        {
+          "text": "快报警，着火了！",
+          "meaning_my": "ရဲကို အမြန်ဖုန်းခေါ်ပါ၊ မီးလောင်နေပြီ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我来打，你先撤离。",
+          "meaning_my": "ကျွန်တော် ဖုန်းခေါ်မယ်၊ ခင်ဗျား အရင်ထွက်ပါ။"
+        },
+        {
+          "text": "地址是多少？",
+          "meaning_my": "လိပ်စာ ဘယ်လောက်လဲ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "kuài dǎ",
+      "phonetic_my": "ခွိုင် တာ"
+    },
+    {
+      "id": "s46_3_0004",
+      "level": "must",
+      "text": "不要坐电梯！",
+      "meaning_my": "ဓာတ်လှေကား မစီးပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我走楼梯。",
+          "meaning_my": "ဟုတ်ကဲ့၊ လှေကားက သွားမယ်။"
+        },
+        {
+          "text": "安全楼梯在哪儿？",
+          "meaning_my": "အရေးပေါ်လှေကား ဘယ်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "bù yào zuò diàn tī",
+      "phonetic_my": "ပု ယောင် ဇွော တျန် ထီး"
+    },
+    {
+      "id": "s46_3_0005",
+      "level": "must",
+      "text": "安全出口在哪儿？",
+      "meaning_my": "အရေးပေါ်ထွက်ပေါက် ဘယ်မှာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "看绿色出口标志。",
+          "meaning_my": "အစိမ်းရောင်ထွက်ပေါက်ဆိုင်းဘုတ်ကို ကြည့်ပါ။"
+        },
+        {
+          "text": "这边有安全楼梯。",
+          "meaning_my": "ဒီဘက်မှာ အရေးပေါ်လှေကား ရှိတယ်။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "ān quán chū kǒu zài nǎ er",
+      "phonetic_my": "အန် ချွမ် ချူ ခိုး ဇိုင် နာ အာ"
+    },
+    {
+      "id": "s46_3_0006",
+      "level": "must",
+      "text": "这里烟很大！",
+      "meaning_my": "ဒီမှာ မီးခိုးအရမ်းများတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "别往浓烟里走。",
+          "meaning_my": "မီးခိုးထူတဲ့ဘက် မသွားပါနဲ့။"
+        },
+        {
+          "text": "走不了就关门报警。",
+          "meaning_my": "မထွက်နိုင်ရင် တံခါးပိတ်ပြီး အရေးပေါ်အကူအညီ ခေါ်ပါ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [
+        {
+          "text": "浓烟可能阻断出口；路线不安全时不要强行通过，应关门隔烟并求救。",
+          "text_my": "မီးခိုးထူရင် ထွက်ပေါက်ပိတ်နိုင်ပါတယ်။ လမ်းမလုံခြုံရင် အတင်းမဖြတ်ပါနဲ့၊ တံခါးပိတ်ပြီး အကူအညီခေါ်ပါ။"
+        }
+      ],
+      "pinyin": "zhè lǐ yān hěn dà",
+      "phonetic_my": "ကျ လီ ယန် ဟန် တာ"
+    },
+    {
+      "id": "s46_3_0007",
+      "level": "must",
+      "text": "里面还有人！",
+      "meaning_my": "အထဲမှာ လူရှိသေးတယ်။",
+      "alternatives": [
+        {
+          "text": "还有人没出来！",
+          "meaning_my": "လူတစ်ယောက် မထွက်လာသေးဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "快告诉消防员位置。",
+          "meaning_my": "မီးသတ်သမားကို နေရာ အမြန်ပြောပါ။"
+        },
+        {
+          "text": "别冒险冲回去。",
+          "meaning_my": "အန္တရာယ်ခံပြီး ပြန်မဝင်ပါနဲ့။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "lǐ miàn hái yǒu rén",
+      "phonetic_my": "လီ မျန် ဟိုင်း ယိုး ရန်"
+    },
+    {
+      "id": "s46_3_0008",
+      "level": "must",
+      "text": "这个出口能走吗？",
+      "meaning_my": "ဒီထွက်ပေါက်က သွားလို့ရလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先看有没有烟和火。",
+          "meaning_my": "မီးခိုးနဲ့ မီးရှိမရှိ အရင်ကြည့်ပါ။"
+        },
+        {
+          "text": "这边危险，换条路。",
+          "meaning_my": "ဒီဘက် အန္တရာယ်ရှိတယ်၊ တခြားလမ်း သွားပါ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge chū kǒu néng zǒu ma",
+      "phonetic_my": "ကျ က ချူ ခိုး နန်း ဇိုး မာ"
+    },
+    {
+      "id": "s46_3_0009",
+      "level": "must",
+      "text": "楼梯在哪儿？",
+      "meaning_my": "လှေကား ဘယ်မှာလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在走廊尽头。",
+          "meaning_my": "စင်္ကြံအဆုံးမှာပါ။"
+        },
+        {
+          "text": "跟着出口标志走。",
+          "meaning_my": "ထွက်ပေါက်ဆိုင်းဘုတ်နောက် လိုက်သွားပါ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "lóu tī zài nǎ er",
+      "phonetic_my": "လိုး ထီး ဇိုင် နာ အာ"
+    },
+    {
+      "id": "s46_3_0010",
+      "level": "must",
+      "text": "别往回走！",
+      "meaning_my": "နောက်ပြန်မသွားပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我继续往外走。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အပြင်ဘက်ကို ဆက်သွားမယ်။"
+        },
+        {
+          "text": "我不回去拿东西了。",
+          "meaning_my": "ပစ္စည်းပြန်ယူဖို့ မသွားတော့ဘူး။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "bié wǎng huí zǒu",
+      "phonetic_my": "ပျဲ ဝမ်း ဟွေ့ ဇိုး"
+    },
+    {
+      "id": "s46_3_0011",
+      "level": "must",
+      "text": "大家快撤离！",
+      "meaning_my": "အားလုံး အမြန်ထွက်ခွာကြပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，走安全楼梯！",
+          "meaning_my": "ဟုတ်ကဲ့၊ အရေးပေါ်လှေကားက သွားမယ်။"
+        },
+        {
+          "text": "有人还没出来！",
+          "meaning_my": "လူတစ်ယောက် မထွက်လာသေးဘူး။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "dà jiā kuài chè lí",
+      "phonetic_my": "တာ ကျား ခွိုင် ချဲ လီ"
+    },
+    {
+      "id": "s46_3_0012",
+      "level": "listen",
+      "text": "马上撤离！",
+      "meaning_my": "ချက်ချင်း ထွက်ခွာပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我现在就走。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အခုချက်ချင်း သွားမယ်။"
+        },
+        {
+          "text": "出口在哪里？",
+          "meaning_my": "ထွက်ပေါက် ဘယ်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "mǎ shàng chè lí",
+      "phonetic_my": "မာ ရှန်း ချဲ လီ"
+    },
+    {
+      "id": "s46_3_0013",
+      "level": "listen",
+      "text": "走安全通道。",
+      "meaning_my": "အရေးပေါ်လမ်းကြောင်းက သွားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我跟着指示走。",
+          "meaning_my": "ဟုတ်ကဲ့၊ လမ်းညွှန်ဆိုင်းဘုတ်အတိုင်း သွားမယ်။"
+        },
+        {
+          "text": "前面有烟，能走吗？",
+          "meaning_my": "ရှေ့မှာ မီးခိုးရှိတယ်၊ သွားလို့ရလား။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "zǒu ān quán tōng dào",
+      "phonetic_my": "ဇိုး အန် ချွမ် ထုန်း တောင်"
+    },
+    {
+      "id": "s46_3_0014",
+      "level": "listen",
+      "text": "不要回去拿东西。",
+      "meaning_my": "ပစ္စည်းပြန်ယူဖို့ မပြန်ပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "知道了，我先出去。",
+          "meaning_my": "သိပါပြီ၊ အရင် ထွက်မယ်။"
+        },
+        {
+          "text": "好，我不回去了。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ပြန်မသွားတော့ဘူး။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "bù yào huí qù ná dōng xi",
+      "phonetic_my": "ပု ယောင် ဟွေ့ ချွီ နာ တုန်း ရှီး"
+    },
+    {
+      "id": "s46_3_0015",
+      "level": "listen",
+      "text": "现在不能坐电梯。",
+      "meaning_my": "အခု ဓာတ်လှေကား မစီးရဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那我走楼梯。",
+          "meaning_my": "ဒါဆို လှေကားက သွားမယ်။"
+        },
+        {
+          "text": "楼梯口在哪儿？",
+          "meaning_my": "လှေကားဝ ဘယ်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "xiàn zài bù néng zuò diàn tī",
+      "phonetic_my": "ရှျန် ဇိုင် ပု နန်း ဇွော တျန် ထီး"
+    },
+    {
+      "id": "s46_3_0016",
+      "level": "listen",
+      "text": "到外面安全处集合。",
+      "meaning_my": "အပြင်ဘက် လုံခြုံတဲ့နေရာမှာ စုကြပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我们到广场等。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ကွင်းပြင်မှာ စောင့်မယ်။"
+        },
+        {
+          "text": "有人没出来，我告诉消防员。",
+          "meaning_my": "လူတစ်ယောက် မထွက်လာသေးဘူး၊ မီးသတ်သမားကို ပြောမယ်။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "dào wài miàn ān quán chǔ jí hé",
+      "phonetic_my": "တောင် ဝိုင် မျန် အန် ချွမ် ချူ ကျီ ဟယ်"
+    },
+    {
+      "id": "s46_3_0017",
+      "level": "listen",
+      "text": "消防员正在赶来。",
+      "meaning_my": "မီးသတ်သမားတွေ လာနေပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我在安全地方等。",
+          "meaning_my": "လုံခြုံတဲ့နေရာမှာ စောင့်မယ်။"
+        },
+        {
+          "text": "里面还有人，请转告他们。",
+          "meaning_my": "အထဲမှာ လူရှိသေးတယ်၊ သူတို့ကို ပြောပေးပါ။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "xiāo fáng yuán zhèng zài gǎn lái",
+      "phonetic_my": "ရှောင် ဖန်း ယွမ် ကျန်း ဇိုင် ကန် လိုင်"
+    },
+    {
+      "id": "s46_3_0018",
+      "level": "listen",
+      "text": "烟大就别往前走。",
+      "meaning_my": "မီးခိုးထူရင် ရှေ့မဆက်သွားပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那我找别的安全出口。",
+          "meaning_my": "ဒါဆို တခြားလုံခြုံတဲ့ ထွက်ပေါက် ရှာမယ်။"
+        },
+        {
+          "text": "出不去了，我打119。",
+          "meaning_my": "အပြင်ထွက်မရတော့ဘူး၊ ၁၁၉ ကို ဖုန်းခေါ်မယ်။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "yān dà jiù bié wǎng qián zǒu",
+      "phonetic_my": "ယန် တာ ကျိုး ပျဲ ဝမ်း ချန် ဇိုး"
+    },
+    {
+      "id": "s46_3_0019",
+      "level": "listen",
+      "text": "别再进入火场。",
+      "meaning_my": "မီးလောင်နေရာထဲ ပြန်မဝင်ပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我留在外面。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အပြင်မှာပဲ နေမယ်။"
+        },
+        {
+          "text": "里面还有人，我通知消防员。",
+          "meaning_my": "အထဲမှာ လူရှိသေးတယ်၊ မီးသတ်သမားကို အသိပေးမယ်။"
+        }
+      ],
+      "lesson_id": "46.3",
+      "lesson_title": "46.3 火灾疏散",
+      "lesson_title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
+      "mistakes": [],
+      "pinyin": "bié zài jìn rù huǒ chǎng",
+      "phonetic_my": "ပျဲ ဇိုင် ကျင် ရူ ဟွေါ ချန်း"
+    }
+  ],
+  "quality_notes": {
+    "reply_first": true,
+    "when_to_use_removed": true,
+    "main_max_hanzi": 10,
+    "native_speaker_review_pending": true
+  }
+}
