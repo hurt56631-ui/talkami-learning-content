@@ -1,10 +1,10 @@
 {
   "theme_id": "45",
-  "version": 3,
-  "updated_at": "2026-10-31T12:00:00Z",
+  "version": 4,
+  "updated_at": "2026-10-31T12:30:00Z",
   "theme_title": "45 药店用药",
   "theme_title_my": "45 ဆေးဆိုင်နှင့် ဆေးသောက်ခြင်း",
-  "quality_standard": "short-natural-reply-first-v3-medical-checked",
+  "quality_standard": "short-natural-reply-first-v4-pragmatic-burmese",
   "source_phrase_count": 75,
   "lessons": [
     {
@@ -25,8 +25,8 @@
           ],
           "replies": [
             {
-              "text": "哪里不舒服？",
-              "meaning_my": "ဘယ်နေရာ မကောင်းတာလဲ။"
+              "text": "有什么症状？",
+              "meaning_my": "ဘာလက္ခဏာတွေ ရှိလဲ။"
             },
             {
               "text": "有没有发烧？",
@@ -44,7 +44,12 @@
           "level": "must",
           "text": "有退烧药吗？",
           "meaning_my": "အဖျားကျဆေး ရှိလား။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "有能退烧的药吗？",
+              "meaning_my": "အဖျားကျစေတဲ့ ဆေး ရှိလား။"
+            }
+          ],
           "replies": [
             {
               "text": "给大人还是小孩？",
@@ -64,9 +69,14 @@
         {
           "id": "s45_1_0003",
           "level": "must",
-          "text": "这个药适合我吗？",
-          "meaning_my": "ဒီဆေးက ကိုယ့်အတွက် သင့်တော်လား။",
-          "alternatives": [],
+          "text": "这药我能吃吗？",
+          "meaning_my": "ဒီဆေးကို သောက်လို့ရလား။",
+          "alternatives": [
+            {
+              "text": "这药我可以吃吗？",
+              "meaning_my": "ဒီဆေးကို သောက်လို့ရလား။"
+            }
+          ],
           "replies": [
             {
               "text": "现在有什么症状？",
@@ -80,8 +90,8 @@
           "lesson_id": "45.1",
           "lesson_title": "45.1 药店买药",
           "lesson_title_my": "45.1 ဆေးဆိုင်တွင် ဆေးဝယ်ခြင်း",
-          "pinyin": "zhè ge yào shì hé wǒ ma",
-          "phonetic_my": "ကျ က ယောင် ရှီး ဟယ် ဝေါ မာ"
+          "pinyin": "zhè yào wǒ néng chī ma",
+          "phonetic_my": "ကျ ယောင် ဝေါ နန်း ချီး မာ"
         },
         {
           "id": "s45_1_0004",
@@ -107,7 +117,7 @@
           "lesson_id": "45.1",
           "lesson_title": "45.1 药店买药",
           "lesson_title_my": "45.1 ဆေးဆိုင်တွင် ဆေးဝယ်ခြင်း",
-          "pinyin": "yǒu méi yǒu bù fàn kùn de yào",
+          "pinyin": "yǒu méi yǒu bú fàn kùn de yào",
           "phonetic_my": "ယိုး မေး ယိုး ပု ဖန် ခွန့် တ ယောင်"
         },
         {
@@ -115,7 +125,12 @@
           "level": "must",
           "text": "需要处方吗？",
           "meaning_my": "ဆရာဝန်ဆေးစာ လိုလား။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "买这药要处方吗？",
+              "meaning_my": "ဒီဆေးဝယ်ဖို့ ဆရာဝန်ဆေးစာ လိုလား။"
+            }
+          ],
           "replies": [
             {
               "text": "这个要医生处方。",
@@ -143,7 +158,12 @@
           "level": "must",
           "text": "咳嗽吃什么药？",
           "meaning_my": "ချောင်းဆိုးရင် ဘာဆေးသောက်ရမလဲ။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "咳嗽该吃什么药？",
+              "meaning_my": "ချောင်းဆိုးရင် ဘာဆေးသောက်သင့်လဲ။"
+            }
+          ],
           "replies": [
             {
               "text": "干咳还是有痰？",
@@ -308,7 +328,12 @@
           "level": "listen",
           "text": "先量一下体温。",
           "meaning_my": "အရင် ကိုယ်အပူချိန်တိုင်းပါ။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "先测下体温。",
+              "meaning_my": "အရင် ကိုယ်အပူချိန် တိုင်းကြည့်ပါ။"
+            }
+          ],
           "replies": [
             {
               "text": "体温计在哪儿？",
@@ -350,7 +375,7 @@
         {
           "id": "s45_1_0015",
           "level": "listen",
-          "text": "这个吃了可能会困。",
+          "text": "这药可能让人犯困。",
           "meaning_my": "ဒီဆေးသောက်ရင် အိပ်ငိုက်နိုင်တယ်။",
           "alternatives": [],
           "replies": [
@@ -366,14 +391,14 @@
           "lesson_id": "45.1",
           "lesson_title": "45.1 药店买药",
           "lesson_title_my": "45.1 ဆေးဆိုင်တွင် ဆေးဝယ်ခြင်း",
-          "pinyin": "zhè ge chī le kě néng huì kùn",
-          "phonetic_my": "ကျ က ချီး လ ခ နန်း ဟွေ့ ခွန့်"
+          "pinyin": "zhè yào kě néng ràng rén fàn kùn",
+          "phonetic_my": "ကျ ယောင် ခ နန်း ရန်း ရန် ဖန် ခွန့်"
         },
         {
           "id": "s45_1_0016",
           "level": "listen",
-          "text": "症状重别自己买药。",
-          "meaning_my": "လက္ခဏာပြင်းရင် ကိုယ့်ဘာသာ ဆေးဝယ်မသောက်ပါနဲ့။",
+          "text": "严重的话别自己买药。",
+          "meaning_my": "လက္ခဏာပြင်းထန်ရင် ကိုယ့်ဘာသာ ဆေးမဝယ်ပါနဲ့။",
           "alternatives": [],
           "replies": [
             {
@@ -388,8 +413,8 @@
           "lesson_id": "45.1",
           "lesson_title": "45.1 药店买药",
           "lesson_title_my": "45.1 ဆေးဆိုင်တွင် ဆေးဝယ်ခြင်း",
-          "pinyin": "zhèng zhuàng zhòng bié zì jǐ mǎi yào",
-          "phonetic_my": "ကျန်း ကျွမ်း ကျုန်း ပျဲ ဇီး ကျီ မိုင် ယောင်"
+          "pinyin": "yán zhòng de huà bié zì jǐ mǎi yào",
+          "phonetic_my": "ယန် ကျုန်း တ ဟွာ ပျဲ ဇီး ကျီ မိုင် ယောင်"
         },
         {
           "id": "s45_1_0017",
@@ -475,7 +500,12 @@
           "level": "must",
           "text": "一次吃几片？",
           "meaning_my": "တစ်ခါ ဆေးပြား ဘယ်နှပြား သောက်ရမလဲ။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "每次吃几片？",
+              "meaning_my": "တစ်ကြိမ် ဆေးပြား ဘယ်နှပြား သောက်ရမလဲ။"
+            }
+          ],
           "replies": [
             {
               "text": "先看药片规格。",
@@ -541,7 +571,12 @@
           "level": "must",
           "text": "这个药要吃几天？",
           "meaning_my": "ဒီဆေး ဘယ်နှရက်သောက်ရမလဲ။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "这个要吃多久？",
+              "meaning_my": "ဒီဆေး ဘယ်လောက်ကြာကြာ သောက်ရမလဲ။"
+            }
+          ],
           "replies": [
             {
               "text": "按医生嘱咐的天数。",
@@ -640,7 +675,12 @@
           "level": "must",
           "text": "两次要隔多久？",
           "meaning_my": "နှစ်ကြိမ်ကြား အချိန် ဘယ်လောက်ခြားရမလဲ။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "隔几个小时吃一次？",
+              "meaning_my": "နာရီဘယ်လောက်ခြားပြီး တစ်ကြိမ်သောက်ရမလဲ။"
+            }
+          ],
           "replies": [
             {
               "text": "我帮你看看用药说明。",
@@ -682,8 +722,8 @@
         {
           "id": "s45_2_0011",
           "level": "must",
-          "text": "忘吃一次要补吗？",
-          "meaning_my": "တစ်ကြိမ် သောက်ဖို့ မေ့သွားရင် ပြန်သောက်ရမလား။",
+          "text": "现在补吃行吗？",
+          "meaning_my": "အခု ပြန်သောက်လို့ရလား။",
           "alternatives": [],
           "replies": [
             {
@@ -698,8 +738,8 @@
           "lesson_id": "45.2",
           "lesson_title": "45.2 用法用量",
           "lesson_title_my": "45.2 ဆေးသောက်နည်းနှင့် ပမာဏ",
-          "pinyin": "wàng chī yí cì yào bǔ ma",
-          "phonetic_my": "ဝမ့် ချီး ယီ ဆီး ယောင် ပု မာ"
+          "pinyin": "xiàn zài bǔ chī xíng ma",
+          "phonetic_my": "ရှျန် ဇိုင် ပု ချီး ရှင်း မာ"
         },
         {
           "id": "s45_2_0012",
@@ -838,7 +878,7 @@
         {
           "id": "s45_2_0017",
           "level": "listen",
-          "text": "这个药片不能掰开。",
+          "text": "这药不能掰开吃。",
           "meaning_my": "ဒီဆေးပြားကို ချိုးပြီး မသောက်ရဘူး။",
           "alternatives": [],
           "replies": [
@@ -854,8 +894,8 @@
           "lesson_id": "45.2",
           "lesson_title": "45.2 用法用量",
           "lesson_title_my": "45.2 ဆေးသောက်နည်းနှင့် ပမာဏ",
-          "pinyin": "zhè ge yào piàn bù néng bāi kāi",
-          "phonetic_my": "ကျ က ယောင် ဖျန် ပု နန်း ဘိုင် ခိုင်"
+          "pinyin": "zhè yào bù néng bāi kāi chī",
+          "phonetic_my": "ကျ ယောင် ပု နန်း ဘိုင် ခိုင် ချီး"
         },
         {
           "id": "s45_2_0018",
@@ -933,7 +973,7 @@
         {
           "id": "s45_3_0001",
           "level": "must",
-          "text": "吃这个能喝酒吗？",
+          "text": "吃这药能喝酒吗？",
           "meaning_my": "ဒီဆေးသောက်နေတုန်း အရက်သောက်လို့ရလား။",
           "alternatives": [],
           "replies": [
@@ -949,15 +989,20 @@
           "lesson_id": "45.3",
           "lesson_title": "45.3 注意与禁忌",
           "lesson_title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-          "pinyin": "chī zhè ge néng hē jiǔ ma",
-          "phonetic_my": "ချီး ကျ က နန်း ဟယ် ကျိုး မာ"
+          "pinyin": "chī zhè yào néng hē jiǔ ma",
+          "phonetic_my": "ချီး ကျ ယောင် နန်း ဟယ် ကျိုး မာ"
         },
         {
           "id": "s45_3_0002",
           "level": "must",
           "text": "这两个药能一起吃吗？",
           "meaning_my": "ဒီဆေးနှစ်မျိုး အတူသောက်လို့ရလား။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "这俩药能一起吃吗？",
+              "meaning_my": "ဒီဆေးနှစ်မျိုးကို အတူတူ သောက်လို့ရလား။"
+            }
+          ],
           "replies": [
             {
               "text": "给我看看药名。",
@@ -1001,7 +1046,12 @@
           "level": "must",
           "text": "吃药后能开车吗？",
           "meaning_my": "ဆေးသောက်ပြီး ကားမောင်းလို့ရလား။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "吃这药能开车吗？",
+              "meaning_my": "ဒီဆေးသောက်ပြီး ကားမောင်းလို့ရလား။"
+            }
+          ],
           "replies": [
             {
               "text": "犯困就别开车。",
@@ -1087,7 +1137,7 @@
         {
           "id": "s45_3_0008",
           "level": "must",
-          "text": "这个有副作用吗？",
+          "text": "这药有副作用吗？",
           "meaning_my": "ဒီဆေးမှာ ဘေးထွက်ဆိုးကျိုး ရှိလား။",
           "alternatives": [],
           "replies": [
@@ -1103,15 +1153,20 @@
           "lesson_id": "45.3",
           "lesson_title": "45.3 注意与禁忌",
           "lesson_title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-          "pinyin": "zhè ge yǒu fù zuò yòng ma",
-          "phonetic_my": "ကျ က ယိုး ဖူ ဇွော ယုန်း မာ"
+          "pinyin": "zhè yào yǒu fù zuò yòng ma",
+          "phonetic_my": "ကျ ယောင် ယိုး ဖူ ဇွော ယုန်း မာ"
         },
         {
           "id": "s45_3_0009",
           "level": "must",
           "text": "孕妇可以用吗？",
           "meaning_my": "ကိုယ်ဝန်ဆောင်သူ သုံးလို့ရလား။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "怀孕能用这药吗？",
+              "meaning_my": "ကိုယ်ဝန်ဆောင်နေချိန် ဒီဆေးကို သုံးလို့ရလား။"
+            }
+          ],
           "replies": [
             {
               "text": "孕期用药先问医生。",
@@ -1137,7 +1192,7 @@
         {
           "id": "s45_3_0010",
           "level": "must",
-          "text": "吃药期间能喝咖啡吗？",
+          "text": "吃药能喝咖啡吗？",
           "meaning_my": "ဆေးသောက်နေတုန်း ကော်ဖီသောက်လို့ရလား။",
           "alternatives": [],
           "replies": [
@@ -1153,14 +1208,14 @@
           "lesson_id": "45.3",
           "lesson_title": "45.3 注意与禁忌",
           "lesson_title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-          "pinyin": "chī yào qī jiān néng hē kā fēi ma",
-          "phonetic_my": "ချီး ယောင် ချီ ကျန် နန်း ဟယ် ခါ ဖေး မာ"
+          "pinyin": "chī yào néng hē kā fēi ma",
+          "phonetic_my": "ချီး ယောင် နန်း ဟယ် ခါ ဖေး မာ"
         },
         {
           "id": "s45_3_0011",
           "level": "listen",
-          "text": "吃这个药期间不要喝酒。",
-          "meaning_my": "ဒီဆေးသောက်နေချိန် အရက်မသောက်ပါနဲ့။",
+          "text": "吃这药别喝酒。",
+          "meaning_my": "ဒီဆေးသောက်နေတုန်း အရက်မသောက်ပါနဲ့။",
           "alternatives": [],
           "replies": [
             {
@@ -1175,30 +1230,36 @@
           "lesson_id": "45.3",
           "lesson_title": "45.3 注意与禁忌",
           "lesson_title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-          "pinyin": "chī zhè ge yào qī jiān bú yào hē jiǔ",
-          "phonetic_my": "ချီး ကျ က ယောင် ချီ ကျန် ပု ယောင် ဟယ် ကျိုး"
+          "pinyin": "chī zhè yào bié hē jiǔ",
+          "phonetic_my": "ချီး ကျ ယောင် ပျဲ ဟယ် ကျိုး"
         },
         {
           "id": "s45_3_0012",
           "level": "listen",
-          "text": "这个药吃完可能会困。",
-          "meaning_my": "ဒီဆေးသောက်ပြီး အိပ်ငိုက်နိုင်တယ်။",
+          "text": "上班前能吃这药吗？",
+          "meaning_my": "အလုပ်မဝင်ခင် ဒီဆေးသောက်လို့ရလား။",
           "alternatives": [],
           "replies": [
             {
-              "text": "那我不开车了。",
-              "meaning_my": "ဒါဆို ကားမမောင်းတော့ဘူး။"
+              "text": "要看药和工作内容。",
+              "meaning_my": "ဆေးအမျိုးအစားနဲ့ လုပ်ရမယ့်အလုပ်ပေါ် မူတည်တယ်။"
             },
             {
-              "text": "会持续多久？",
-              "meaning_my": "ဘယ်လောက်ကြာတတ်လဲ။"
+              "text": "操作机器就先问药师。",
+              "meaning_my": "စက်ကိုင်ရမယ်ဆို ဆေးဝါးပညာရှင်ကို အရင်မေးပါ။"
             }
           ],
           "lesson_id": "45.3",
           "lesson_title": "45.3 注意与禁忌",
           "lesson_title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-          "pinyin": "zhè ge yào chī wán kě néng huì kùn",
-          "phonetic_my": "ကျ က ယောင် ချီး ဝမ် ခ နန်း ဟွေ့ ခွန့်"
+          "pinyin": "shàng bān qián néng chī zhè yào ma",
+          "phonetic_my": "ရှန်း ပန် ချန် နန်း ချီး ကျ ယောင် မာ",
+          "mistakes": [
+            {
+              "text": "有些药会引起嗜睡或反应迟钝；工作需要开车或操作机器时，应先咨询药师。",
+              "text_my": "တချို့ဆေးတွေက အိပ်ငိုက်စေပြီး တုံ့ပြန်မှုနှေးစေနိုင်တယ်။ ကားမောင်းရမယ်၊ စက်ကိုင်ရမယ်ဆို ဆေးဝါးပညာရှင်ကို အရင်မေးပါ။"
+            }
+          ]
         },
         {
           "id": "s45_3_0013",
@@ -1247,8 +1308,8 @@
         {
           "id": "s45_3_0015",
           "level": "listen",
-          "text": "吃这个药后先别开车。",
-          "meaning_my": "ဒီဆေးသောက်ပြီး ခဏတော့ ကားမမောင်းပါနဲ့။",
+          "text": "吃这药后先别开车。",
+          "meaning_my": "ဒီဆေးသောက်ပြီးရင် ကားမမောင်းပါနဲ့ဦး။",
           "alternatives": [],
           "replies": [
             {
@@ -1263,14 +1324,20 @@
           "lesson_id": "45.3",
           "lesson_title": "45.3 注意与禁忌",
           "lesson_title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-          "pinyin": "chī zhè ge yào hòu xiān bié kāi chē",
-          "phonetic_my": "ချီး ကျ က ယောင် ဟိုး ရှျန် ပျဲ ခိုင် ချ"
+          "pinyin": "chī zhè yào hòu xiān bié kāi chē",
+          "phonetic_my": "ချီး ကျ ယောင် ဟိုး ရှျန် ပျဲ ခိုင် ချ",
+          "mistakes": [
+            {
+              "text": "能否恢复驾驶取决于具体药物和个人反应，不能假设只等一小会儿就安全。",
+              "text_my": "ကားပြန်မောင်းလို့ရမရ ဆေးအမျိုးအစားနဲ့ ကိုယ်ခန္ဓာတုံ့ပြန်မှုအပေါ် မူတည်တယ်။ ခဏစောင့်ရုံနဲ့ စိတ်ချရပြီလို့ မယူဆပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "s45_3_0016",
           "level": "listen",
           "text": "成分一样的药别重复吃。",
-          "meaning_my": "ဆေးဓာတ်တူတဲ့ ဆေးတွေကို ထပ်မသောက်ပါနဲ့။",
+          "meaning_my": "ဆေးဓာတ်တူတဲ့ ဆေးနှစ်မျိုးကို တစ်ပြိုင်နက် မသောက်ပါနဲ့။",
           "alternatives": [],
           "replies": [
             {
@@ -1297,8 +1364,8 @@
         {
           "id": "s45_3_0017",
           "level": "listen",
-          "text": "不舒服得厉害就去医院。",
-          "meaning_my": "အရမ်းနေမကောင်းဖြစ်ရင် ဆေးရုံသွားပြပါ။",
+          "text": "难受得厉害就去医院。",
+          "meaning_my": "အရမ်း နေမကောင်းဖြစ်ရင် ဆေးရုံသွားပြပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -1313,8 +1380,8 @@
           "lesson_id": "45.3",
           "lesson_title": "45.3 注意与禁忌",
           "lesson_title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-          "pinyin": "bù shū fu de lì hai jiù qù yī yuàn",
-          "phonetic_my": "ပု ရှူ ဖူ တ လီ ဟိုင်း ကျိုး ချွီ ယီ ယွမ်"
+          "pinyin": "nán shòu de lì hai jiù qù yī yuàn",
+          "phonetic_my": "နန် ရှိုး တ လီ ဟိုင်း ကျိုး ချွီ ယီ ယွမ်"
         }
       ]
     },
@@ -1331,8 +1398,8 @@
           "alternatives": [],
           "replies": [
             {
-              "text": "吃药多久了？",
-              "meaning_my": "ဆေးသောက်တာ ဘယ်လောက်ကြာပြီလဲ။"
+              "text": "什么时候吃的药？",
+              "meaning_my": "ဆေးကို ဘယ်အချိန်က သောက်ခဲ့တာလဲ။"
             },
             {
               "text": "先别开车，联系医生。",
@@ -1399,7 +1466,12 @@
           "level": "must",
           "text": "要停药吗？",
           "meaning_my": "ဆေးရပ်ရမလား။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "要不要停药？",
+              "meaning_my": "ဆေးရပ်ဖို့ လိုလား။"
+            }
+          ],
           "replies": [
             {
               "text": "先联系开药的医生。",
@@ -1449,11 +1521,16 @@
           "level": "must",
           "text": "这样要去医院吗？",
           "meaning_my": "ဒီလိုဖြစ်နေရင် ဆေးရုံသွားဖို့ လိုလား။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "要不要去医院？",
+              "meaning_my": "ဆေးရုံသွားဖို့ လိုလား။"
+            }
+          ],
           "replies": [
             {
-              "text": "症状加重就快去。",
-              "meaning_my": "လက္ခဏာ ပိုဆိုးလာရင် အမြန်သွားပါ။"
+              "text": "最好尽快看医生。",
+              "meaning_my": "ဆရာဝန်ကို အမြန်ဆုံး သွားပြတာ ပိုကောင်းမယ်။"
             },
             {
               "text": "呼吸困难要急救。",
@@ -1635,8 +1712,8 @@
         {
           "id": "s45_4_0014",
           "level": "listen",
-          "text": "还得判断是不是药物反应。",
-          "meaning_my": "ဆေးကြောင့် ဖြစ်တာ ဟုတ်မဟုတ် ထပ်စစ်ဖို့လိုတယ်။",
+          "text": "得先查是不是药物反应。",
+          "meaning_my": "ဆေးကြောင့် ဖြစ်တာ ဟုတ်မဟုတ် အရင်စစ်ဆေးရမယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -1651,15 +1728,20 @@
           "lesson_id": "45.4",
           "lesson_title": "45.4 不良反应与停药",
           "lesson_title_my": "45.4 ဆေးဘေးထွက်ဆိုးကျိုးနှင့် ဆေးရပ်ခြင်း",
-          "pinyin": "hái děi pàn duàn shì bú shì yào wù fǎn yìng",
-          "phonetic_my": "ဟိုင်း တေး ဖန် တွန် ရှီး ပု ရှီး ယောင် ဝူ ဖန် ယင်း"
+          "pinyin": "děi xiān chá shì bú shì yào wù fǎn yìng",
+          "phonetic_my": "တေး ရှျန် ချာ ရှီး ပု ရှီး ယောင် ဝူ ဖန် ယင်း"
         },
         {
           "id": "s45_4_0015",
           "level": "listen",
           "text": "不要自己加量。",
           "meaning_my": "ဆေးပမာဏကို ကိုယ့်သဘောနဲ့ မတိုးပါနဲ့။",
-          "alternatives": [],
+          "alternatives": [
+            {
+              "text": "别自己加药量。",
+              "meaning_my": "ဆေးပမာဏကို ကိုယ့်သဘောနဲ့ မတိုးပါနဲ့။"
+            }
+          ],
           "replies": [
             {
               "text": "没效果怎么办？",
@@ -1708,7 +1790,7 @@
           "id": "s45_4_0017",
           "level": "listen",
           "text": "把药名和剂量告诉医生。",
-          "meaning_my": "ဆေးနာမည်နဲ့ ဆေးပမာဏကို ဆရာဝန်ကို ပြောပါ။",
+          "meaning_my": "ဆေးနာမည်နဲ့ သောက်ခဲ့တဲ့ ဆေးပမာဏကို ဆရာဝန်ကို ပြောပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -1750,5 +1832,10 @@
         }
       ]
     }
-  ]
+  ],
+  "quality_notes": {
+    "canonical": "packs/45.json is authoritative; source/45.json is an archived V3 and not synchronized",
+    "native_review": "AI language QA, not independently reviewed by a native Burmese teacher or pharmacist",
+    "medical_safety": "Dosage, intervals and courses are teaching examples, not general medication directions; severe allergic symptoms warrant emergency assistance."
+  }
 }
