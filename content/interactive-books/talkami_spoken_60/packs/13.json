@@ -1,10 +1,10 @@
 {
   "theme_id": "13",
-  "version": 11,
-  "updated_at": "2026-10-31T14:00:42.398Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:39:06.268Z",
   "theme_title": "13 约时间见面",
   "theme_title_my": "13 ချိန်းဆိုပြီး တွေ့ဆုံခြင်း",
-  "quality_standard": "V11: 73 primary learning cards + 7 preserved source reuse/alternative references (80 historical source entries). Precise natural Mandarin-Burmese appointment dialogs, speaker-neutral Burmese, corrected gǎi and B-exit notation, clearer workplace/time vocabulary, two replies per card, contrastive Burmese learner notes; when_to_use fields removed. Source cross-theme associations remain in source/13.json lessons[].source_links, not in the teaching pack. Native-speaker and audio final review pending.",
+  "quality_standard": "V12: 73 primary learning cards + 7 preserved source reuse/alternative references (80 historical source entries). Precise natural Mandarin-Burmese appointment dialogs, speaker-neutral Burmese, corrected gǎi and B-exit notation, clearer workplace/time vocabulary, two replies per card, contrastive Burmese learner notes; when_to_use fields removed. Source cross-theme associations remain in source/13.json lessons[].source_links, not in the teaching pack. Native-speaker and audio final review pending. | Cross-theme QA: normalized optional mistakes fields; historical source links/stable IDs maintained; auxiliary pronunciation requires real audio review.",
   "source_phrase_count": 80,
   "lessons": [
     {
@@ -862,7 +862,8 @@
           "lesson_title": "13.2 约定地点",
           "lesson_title_my": "13.2 တွေ့မည့်နေရာ သတ်မှတ်ခြင်း",
           "pinyin": "nǎ ge mén bǐ jiào hǎo zhǎo",
-          "phonetic_my": "နာ က မန် ပီ ကျောင် ဟောင် ကျောင်"
+          "phonetic_my": "နာ က မန် ပီ ကျောင် ဟောင် ကျောင်",
+          "mistakes": []
         },
         {
           "id": "s13_2_0009",
@@ -878,7 +879,7 @@
           "replies": [
             {
               "text": "好，我下来找你。",
-              "meaning_my": "ကောင်းပြီ၊ အောက်ဆင်းပြီး မင်းကို လာတွေ့မယ်။"
+              "meaning_my": "ကောင်းပြီ၊ အောက်ဆင်းပြီး လာတွေ့မယ်။"
             },
             {
               "text": "行，我可能晚十分钟。",
@@ -1132,7 +1133,7 @@
           "replies": [
             {
               "text": "好，我过去找你。",
-              "meaning_my": "ကောင်းပြီ၊ မင်းရှိတဲ့ဘက် လာရှာမယ်။"
+              "meaning_my": "ကောင်းပြီ၊ ဒီဘက် လာရှာမယ်။"
             },
             {
               "text": "你能发个定位吗？",
@@ -1484,7 +1485,8 @@
           "lesson_title": "13.3 见面前确认",
           "lesson_title_my": "13.3 မတွေ့ခင် အတည်ပြုခြင်း",
           "pinyin": "méi biàn",
-          "phonetic_my": "မေး ပျန်"
+          "phonetic_my": "မေး ပျန်",
+          "mistakes": []
         },
         {
           "id": "s13_3_0011",
@@ -1781,7 +1783,8 @@
           "lesson_title": "13.4 到达碰面和接送",
           "lesson_title_my": "13.4 ရောက်ရှိတွေ့ဆုံခြင်းနှင့် ကြို/ပို့ခြင်း",
           "pinyin": "nǐ zài nǎr",
-          "phonetic_my": "နီ ဇိုင် နာရ်"
+          "phonetic_my": "နီ ဇိုင် နာရ်",
+          "mistakes": []
         },
         {
           "id": "s13_4_0003",
@@ -1843,11 +1846,11 @@
           "id": "s13_4_0005",
           "level": "must",
           "text": "你出来一下。",
-          "meaning_my": "မင်း ခဏထွက်လာပါ။",
+          "meaning_my": "ခဏလောက် ထွက်လာပေးပါဦး။",
           "alternatives": [
             {
               "text": "你出来一下吧。",
-              "meaning_my": "မင်း ခဏထွက်လာပါ။"
+              "meaning_my": "ခဏလောက် ထွက်လာပေးပါဦး။"
             }
           ],
           "replies": [
@@ -2130,7 +2133,7 @@
           "replies": [
             {
               "text": "好，我进去找你。",
-              "meaning_my": "ကောင်းပြီ၊ အထဲဝင်ပြီး မင်းကိုရှာမယ်။"
+              "meaning_my": "ကောင်းပြီ၊ အထဲဝင်ပြီး ရှာမယ်။"
             },
             {
               "text": "你在几楼？",
@@ -2262,11 +2265,11 @@
           "replies": [
             {
               "text": "我也看到你了。",
-              "meaning_my": "လည်း မင်းကိုမြင်ပြီ။"
+              "meaning_my": "ဒီဘက်ကလည်း မြင်ပြီ။"
             },
             {
               "text": "我在你右边。",
-              "meaning_my": "မင်းရဲ့ ညာဘက်မှာရှိတယ်။"
+              "meaning_my": "ညာဘက်မှာ ရှိတယ်။"
             }
           ],
           "lesson_id": "13.4",
@@ -2323,7 +2326,7 @@
           "replies": [
             {
               "text": "好，我过去找你。",
-              "meaning_my": "ကောင်းပြီ၊ မင်းဆီ လာတွေ့မယ်။"
+              "meaning_my": "ကောင်းပြီ၊ ဒီဘက်ကို လာတွေ့မယ်။"
             },
             {
               "text": "你在路的哪边？",
@@ -2367,9 +2370,11 @@
           "lesson_title": "13.4 到达碰面和接送",
           "lesson_title_my": "13.4 ရောက်ရှိတွေ့ဆုံခြင်းနှင့် ကြို/ပို့ခြင်း",
           "pinyin": "wǒ mǎ shàng chū lái",
-          "phonetic_my": "ဝေါ မာ ရှန်း ချူ လိုင်"
+          "phonetic_my": "ဝေါ မာ ရှန်း ချူ လိုင်",
+          "mistakes": []
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 73
 }
