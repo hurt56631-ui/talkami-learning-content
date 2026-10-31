@@ -1,9 +1,9 @@
 {
-  "version": 67,
+  "version": 68,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4026,
+  "item_count": 4097,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2413,12 +2413,40 @@
           "theme_id": "58",
           "title": "工厂车间",
           "title_my": "စက်ရုံနှင့် အလုပ်ရုံ",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 71,
+          "lessons": [
+            {
+              "id": "58.1",
+              "title": "58.1 进入车间与岗位",
+              "title_my": "58.1 အလုပ်ရုံဝင်ခြင်းနှင့် အလုပ်နေရာ",
+              "count": 18
+            },
+            {
+              "id": "58.2",
+              "title": "58.2 工作指令步骤",
+              "title_my": "58.2 အလုပ်ညွှန်ကြားချက်အဆင့်များ",
+              "count": 17
+            },
+            {
+              "id": "58.3",
+              "title": "58.3 机器基本操作",
+              "title_my": "58.3 စက်အခြေခံလုပ်ဆောင်မှု",
+              "count": 18
+            },
+            {
+              "id": "58.4",
+              "title": "58.4 生产数量进度",
+              "title_my": "58.4 ထုတ်လုပ်မှုအရေအတွက်နှင့် တိုးတက်မှု",
+              "count": 18
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/58.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/58.json",
+          "data_version": 2
         },
         {
           "theme_id": "59",
@@ -2448,9 +2476,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme57-v2-service-industry-nine-lessons-20261031",
-  "source_status": "56 published themes, 4 missing; Burmese and pronunciation review pending",
+  "revision": "spoken-theme58-v2-factory-floor-safety-20261031",
+  "source_status": "57 published themes, 3 missing; Burmese and pronunciation review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T07:45:00Z",
+  "updated_at": "2026-10-31T08:15:00Z",
   "packs_base_path": "packs/"
 }
