@@ -1,9 +1,9 @@
 {
-  "version": 60,
+  "version": 61,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3503,
+  "item_count": 3575,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2103,12 +2103,40 @@
           "theme_id": "51",
           "title": "求职面试",
           "title_my": "အလုပ်ရှာခြင်းနှင့် အင်တာဗျူး",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 72,
+          "lessons": [
+            {
+              "id": "51.1",
+              "title": "51.1 找工作职位",
+              "title_my": "51.1 အလုပ်ရှာခြင်းနှင့် ရာထူး",
+              "count": 19
+            },
+            {
+              "id": "51.2",
+              "title": "51.2 简历自我介绍",
+              "title_my": "51.2 resume နှင့် ကိုယ်တိုင်မိတ်ဆက်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "51.3",
+              "title": "51.3 面试问答",
+              "title_my": "51.3 interview မေးဖြေ",
+              "count": 17
+            },
+            {
+              "id": "51.4",
+              "title": "51.4 薪资工时福利",
+              "title_my": "51.4 လစာ၊ အလုပ်ချိန်နှင့် အကျိုးခံစားခွင့်",
+              "count": 17
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/51.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/51.json",
+          "data_version": 2
         },
         {
           "theme_id": "52",
@@ -2222,9 +2250,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme50-v2-documents-visa-paperwork-20261031",
-  "source_status": "49 published themes, 11 missing; phonetic review pending",
+  "revision": "spoken-theme51-v2-short-natural-job-interview-20261031",
+  "source_status": "50 published themes, 10 missing; pronunciation review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T04:00:00Z",
+  "updated_at": "2026-10-31T05:15:00Z",
   "packs_base_path": "packs/"
 }
