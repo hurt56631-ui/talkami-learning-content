@@ -1,9 +1,9 @@
 {
-  "version": 66,
+  "version": 67,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3908,
+  "item_count": 4026,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2342,14 +2342,72 @@
       "themes": [
         {
           "theme_id": "57",
-          "title": "服务接待工作",
-          "title_my": "ဝန်ဆောင်မှုနှင့် ဧည့်ခံအလုပ်",
-          "status": "missing",
+          "title": "服务行业工作",
+          "title_my": "57 ဝန်ဆောင်မှုလုပ်ငန်း",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 118,
+          "lessons": [
+            {
+              "id": "57.1",
+              "title": "57.1 餐厅迎客带位与点单",
+              "title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+              "count": 14
+            },
+            {
+              "id": "57.2",
+              "title": "57.2 餐中服务与问题处理",
+              "title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+              "count": 10
+            },
+            {
+              "id": "57.3",
+              "title": "57.3 超市收银",
+              "title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+              "count": 13
+            },
+            {
+              "id": "57.4",
+              "title": "57.4 超市理货补货",
+              "title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+              "count": 18
+            },
+            {
+              "id": "57.5",
+              "title": "57.5 服装店接待与推荐",
+              "title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+              "count": 13
+            },
+            {
+              "id": "57.6",
+              "title": "57.6 服装店试穿换码与成交",
+              "title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+              "count": 12
+            },
+            {
+              "id": "57.7",
+              "title": "57.7 酒店前台入住退房",
+              "title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+              "count": 9
+            },
+            {
+              "id": "57.8",
+              "title": "57.8 酒店客诉与客房服务",
+              "title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+              "count": 9
+            },
+            {
+              "id": "57.9",
+              "title": "57.9 理发店接待与剪发确认",
+              "title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+              "count": 20
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 9,
+          "data_url": "packs/57.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/57.json",
+          "data_version": 2
         },
         {
           "theme_id": "58",
@@ -2390,9 +2448,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme56-v2-wages-contract-resignation-20261031",
-  "source_status": "55 published themes, 5 missing; native review pending",
+  "revision": "spoken-theme57-v2-service-industry-nine-lessons-20261031",
+  "source_status": "56 published themes, 4 missing; Burmese and pronunciation review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:30:00Z",
+  "updated_at": "2026-10-31T07:45:00Z",
   "packs_base_path": "packs/"
 }

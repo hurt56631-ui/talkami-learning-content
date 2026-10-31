@@ -1,0 +1,3589 @@
+{
+  "schema_version": 2,
+  "version": 2,
+  "updated_at": "2026-10-31T07:45:00Z",
+  "zone_id": 9,
+  "zone_title": "行业实战",
+  "theme_id": "57",
+  "theme_title": "57 服务行业工作",
+  "theme_title_my": "57 ဝန်ဆောင်မှုလုပ်ငန်း",
+  "lesson_count": 9,
+  "source_phrase_count": 163,
+  "phrase_count": 118,
+  "lessons": [
+    {
+      "lesson_id": "57.1",
+      "pack_id": "course57_1_restaurant_greeting",
+      "title": "57.1 餐厅迎客带位与点单",
+      "title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "phrase_count": 14,
+      "phrase_ids": [
+        "s57_1_0001",
+        "s57_1_0002",
+        "s57_1_0003",
+        "s57_1_0004",
+        "s57_1_0005",
+        "s57_1_0006",
+        "s57_1_0007",
+        "s57_1_0008",
+        "s57_1_0009",
+        "s57_1_0010",
+        "s57_1_0011",
+        "s57_1_0012",
+        "s57_1_0013",
+        "s57_1_0014"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "57.1",
+          "source_role": "must",
+          "text": "请问有预约吗？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s23_1_0015",
+          "canonical_text": "有预约吗？",
+          "canonical_course": "23.1",
+          "note": "同一迎客询问预约功能；复用已有核心。"
+        },
+        {
+          "lesson_id": "57.1",
+          "source_role": "must",
+          "text": "这边请。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s23_1_0016",
+          "canonical_text": "这边请。",
+          "canonical_course": "23.1",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.1",
+          "source_role": "listen",
+          "text": "想坐靠窗的。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s23_1_0004",
+          "canonical_text": "想坐靠窗的。",
+          "canonical_course": "23.1",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.1",
+          "source_role": "listen",
+          "text": "不要香菜。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s22_2_0004",
+          "canonical_text": "不要香菜。",
+          "canonical_course": "22.2",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.1",
+          "source_role": "listen",
+          "text": "就这些。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s22_1_0006",
+          "canonical_text": "就这些。",
+          "canonical_course": "22.1",
+          "note": "01–56已有完全相同核心。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "57.2",
+      "pack_id": "course57_2_restaurant_service",
+      "title": "57.2 餐中服务与问题处理",
+      "title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "phrase_count": 10,
+      "phrase_ids": [
+        "s57_2_0001",
+        "s57_2_0002",
+        "s57_2_0003",
+        "s57_2_0004",
+        "s57_2_0005",
+        "s57_2_0006",
+        "s57_2_0007",
+        "s57_2_0008",
+        "s57_2_0009",
+        "s57_2_0010"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "57.2",
+          "source_role": "must",
+          "text": "我马上给您换。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s24_3_0020",
+          "canonical_text": "我马上给您换。",
+          "canonical_course": "24.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.2",
+          "source_role": "must",
+          "text": "非常抱歉。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s24_3_0019",
+          "canonical_text": "非常抱歉。",
+          "canonical_course": "24.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.2",
+          "source_role": "must",
+          "text": "需要加热一下吗？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s24_3_0013",
+          "canonical_text": "需要加热吗？",
+          "canonical_course": "24.3",
+          "note": "同一询问是否加热功能。"
+        },
+        {
+          "lesson_id": "57.2",
+          "source_role": "must",
+          "text": "我帮您重新做一份。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s24_3_0017",
+          "canonical_text": "我帮您重新做一份。",
+          "canonical_course": "24.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.2",
+          "source_role": "listen",
+          "text": "麻烦加点水。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s24_2_0001",
+          "canonical_text": "麻烦加点水。",
+          "canonical_course": "24.2",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.2",
+          "source_role": "listen",
+          "text": "再拿一双筷子。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s24_2_0009",
+          "canonical_text": "再拿一双筷子。",
+          "canonical_course": "24.2",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.2",
+          "source_role": "listen",
+          "text": "这个菜还没上。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s24_1_0001",
+          "canonical_text": "这个菜还没上。",
+          "canonical_course": "24.1",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.2",
+          "source_role": "listen",
+          "text": "请叫一下经理。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s24_3_0007",
+          "canonical_text": "请叫一下经理。",
+          "canonical_course": "24.3",
+          "note": "01–56已有完全相同核心。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "57.3",
+      "pack_id": "course57_3_cashier",
+      "title": "57.3 超市收银",
+      "title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "phrase_count": 13,
+      "phrase_ids": [
+        "s57_3_0001",
+        "s57_3_0002",
+        "s57_3_0003",
+        "s57_3_0004",
+        "s57_3_0005",
+        "s57_3_0006",
+        "s57_3_0007",
+        "s57_3_0008",
+        "s57_3_0009",
+        "s57_3_0010",
+        "s57_3_0011",
+        "s57_3_0012",
+        "s57_3_0013"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "57.3",
+          "source_role": "must",
+          "text": "请扫这里。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s31_1_0012",
+          "canonical_text": "扫这里。",
+          "canonical_course": "31.1",
+          "note": "同一收银扫码指引。"
+        },
+        {
+          "lesson_id": "57.3",
+          "source_role": "must",
+          "text": "这个商品条码扫不出来。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s27_4_0003",
+          "canonical_text": "这个条码扫不出来。",
+          "canonical_course": "27.4",
+          "note": "同一条码无法扫描问题。"
+        },
+        {
+          "lesson_id": "57.3",
+          "source_role": "listen",
+          "text": "这个多少钱？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s10_4_0001",
+          "canonical_text": "这个多少钱？",
+          "canonical_course": "10.4",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.3",
+          "source_role": "listen",
+          "text": "有优惠吗？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s30_2_0002",
+          "canonical_text": "现在有优惠吗？",
+          "canonical_course": "30.2",
+          "note": "同一询问优惠功能。"
+        },
+        {
+          "lesson_id": "57.3",
+          "source_role": "listen",
+          "text": "可以微信吗？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s31_1_0001",
+          "canonical_text": "微信可以吗？",
+          "canonical_course": "31.1",
+          "note": "同一询问微信支付功能。"
+        },
+        {
+          "lesson_id": "57.3",
+          "source_role": "listen",
+          "text": "我已经付了。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s31_1_0006",
+          "canonical_text": "我已经付了。",
+          "canonical_course": "31.1",
+          "note": "01–56已有完全相同核心。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "57.4",
+      "pack_id": "course57_4_shelf_stock",
+      "title": "57.4 超市理货补货",
+      "title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "phrase_count": 18,
+      "phrase_ids": [
+        "s57_4_0001",
+        "s57_4_0002",
+        "s57_4_0003",
+        "s57_4_0004",
+        "s57_4_0005",
+        "s57_4_0006",
+        "s57_4_0007",
+        "s57_4_0008",
+        "s57_4_0009",
+        "s57_4_0010",
+        "s57_4_0011",
+        "s57_4_0012",
+        "s57_4_0013",
+        "s57_4_0014",
+        "s57_4_0015",
+        "s57_4_0016",
+        "s57_4_0017",
+        "s57_4_0018"
+      ],
+      "source_links": []
+    },
+    {
+      "lesson_id": "57.5",
+      "pack_id": "course57_5_clothing_service",
+      "title": "57.5 服装店接待与推荐",
+      "title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "phrase_count": 13,
+      "phrase_ids": [
+        "s57_5_0001",
+        "s57_5_0002",
+        "s57_5_0003",
+        "s57_5_0004",
+        "s57_5_0005",
+        "s57_5_0006",
+        "s57_5_0007",
+        "s57_5_0008",
+        "s57_5_0009",
+        "s57_5_0010",
+        "s57_5_0011",
+        "s57_5_0012",
+        "s57_5_0013"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "57.5",
+          "source_role": "must",
+          "text": "我帮您找一下。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s28_3_0013",
+          "canonical_text": "我帮您找。",
+          "canonical_course": "28.3",
+          "note": "同一店员查找商品/尺码功能。"
+        },
+        {
+          "lesson_id": "57.5",
+          "source_role": "listen",
+          "text": "我先看看。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s09_01_0006",
+          "canonical_text": "我先看看。",
+          "canonical_course": "09.1",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.5",
+          "source_role": "listen",
+          "text": "有黑色的吗？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s28_1_0001",
+          "canonical_text": "有黑色的吗？",
+          "canonical_course": "28.1",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.5",
+          "source_role": "listen",
+          "text": "我穿M码。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s28_2_0001",
+          "canonical_text": "我穿M码。",
+          "canonical_course": "28.2",
+          "note": "01–56已有完全相同核心。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "57.6",
+      "pack_id": "course57_6_fitting_sale",
+      "title": "57.6 服装店试穿换码与成交",
+      "title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "phrase_count": 12,
+      "phrase_ids": [
+        "s57_6_0001",
+        "s57_6_0002",
+        "s57_6_0003",
+        "s57_6_0004",
+        "s57_6_0005",
+        "s57_6_0006",
+        "s57_6_0007",
+        "s57_6_0008",
+        "s57_6_0009",
+        "s57_6_0010",
+        "s57_6_0011",
+        "s57_6_0012"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "57.6",
+          "source_role": "must",
+          "text": "这个码暂时没货。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s28_3_0014",
+          "canonical_text": "这个码没货。",
+          "canonical_course": "28.3",
+          "note": "同一尺码缺货功能。"
+        },
+        {
+          "lesson_id": "57.6",
+          "source_role": "listen",
+          "text": "有大一码的吗？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s28_2_0004",
+          "canonical_text": "有大一码的吗？",
+          "canonical_course": "28.2",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.6",
+          "source_role": "listen",
+          "text": "还有L码吗？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s28_3_0002",
+          "canonical_text": "还有L码吗？",
+          "canonical_course": "28.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.6",
+          "source_role": "listen",
+          "text": "可以查一下库存吗？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s28_3_0003",
+          "canonical_text": "可以查一下库存吗？",
+          "canonical_course": "28.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.6",
+          "source_role": "listen",
+          "text": "可以帮我留一下吗？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s28_3_0009",
+          "canonical_text": "可以帮我留一件吗？",
+          "canonical_course": "28.3",
+          "note": "同一请求留货功能。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "57.7",
+      "pack_id": "course57_7_hotel_frontdesk",
+      "title": "57.7 酒店前台入住退房",
+      "title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "phrase_count": 9,
+      "phrase_ids": [
+        "s57_7_0001",
+        "s57_7_0002",
+        "s57_7_0003",
+        "s57_7_0004",
+        "s57_7_0005",
+        "s57_7_0006",
+        "s57_7_0007",
+        "s57_7_0008",
+        "s57_7_0009"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "57.7",
+          "source_role": "must",
+          "text": "请出示证件。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s19_2_0018",
+          "canonical_text": "请出示证件。",
+          "canonical_course": "19.2",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "must",
+          "text": "您的房间在八楼。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s40_2_0013",
+          "canonical_text": "房间在八楼。",
+          "canonical_course": "40.2",
+          "note": "同一前台告知楼层功能。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "listen",
+          "text": "我要办理入住。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s40_2_0001",
+          "canonical_text": "我来办理入住。",
+          "canonical_course": "40.2",
+          "note": "同一办理入住功能。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "listen",
+          "text": "这是我的护照。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_2_0002",
+          "canonical_text": "这是我的护照。",
+          "canonical_course": "40.2",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "listen",
+          "text": "早餐几点？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s40_2_0005",
+          "canonical_text": "早餐几点开始？",
+          "canonical_course": "40.2",
+          "note": "同一询问早餐时间。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "listen",
+          "text": "房间在几楼？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_2_0011",
+          "canonical_text": "房间在几楼？",
+          "canonical_course": "40.2",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "listen",
+          "text": "几点退房？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s40_2_0006",
+          "canonical_text": "最晚几点退房？",
+          "canonical_course": "40.2",
+          "note": "同一询问退房时间。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "listen",
+          "text": "我要退房。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_4_0001",
+          "canonical_text": "我要退房。",
+          "canonical_course": "40.4",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.7",
+          "source_role": "listen",
+          "text": "押金怎么退？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_4_0003",
+          "canonical_text": "押金怎么退？",
+          "canonical_course": "40.4",
+          "note": "01–56已有完全相同核心。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "57.8",
+      "pack_id": "course57_8_hotel_complaint",
+      "title": "57.8 酒店客诉与客房服务",
+      "title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "phrase_count": 9,
+      "phrase_ids": [
+        "s57_8_0001",
+        "s57_8_0002",
+        "s57_8_0003",
+        "s57_8_0004",
+        "s57_8_0005",
+        "s57_8_0006",
+        "s57_8_0007",
+        "s57_8_0008",
+        "s57_8_0009"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "57.8",
+          "source_role": "must",
+          "text": "请稍等，我帮您查一下。",
+          "status": "alternative",
+          "canonical_id": "s57_2_0003",
+          "canonical_text": "请稍等，我帮您看一下。",
+          "primary_lesson": "57.2",
+          "note": "同一服务功能的自然变体，吸收到同一核心卡。"
+        },
+        {
+          "lesson_id": "57.8",
+          "source_role": "must",
+          "text": "维修人员十分钟后到。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_3_0014",
+          "canonical_text": "维修人员十分钟后到。",
+          "canonical_course": "40.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.8",
+          "source_role": "listen",
+          "text": "房间没有热水。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_3_0001",
+          "canonical_text": "房间没有热水。",
+          "canonical_course": "40.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.8",
+          "source_role": "listen",
+          "text": "Wi-Fi连不上。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_3_0007",
+          "canonical_text": "Wi-Fi连不上。",
+          "canonical_course": "40.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.8",
+          "source_role": "listen",
+          "text": "能多拿两条毛巾吗？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s40_3_0002",
+          "canonical_text": "能送两条毛巾吗？",
+          "canonical_course": "40.3",
+          "note": "同一请求额外毛巾功能。"
+        },
+        {
+          "lesson_id": "57.8",
+          "source_role": "listen",
+          "text": "房间太吵。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_3_0004",
+          "canonical_text": "房间太吵。",
+          "canonical_course": "40.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.8",
+          "source_role": "listen",
+          "text": "可以换房吗？",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_3_0005",
+          "canonical_text": "可以换房吗？",
+          "canonical_course": "40.3",
+          "note": "01–56已有完全相同核心。"
+        },
+        {
+          "lesson_id": "57.8",
+          "source_role": "listen",
+          "text": "洗手间漏水。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s40_3_0008",
+          "canonical_text": "洗手间漏水。",
+          "canonical_course": "40.3",
+          "note": "01–56已有完全相同核心。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "57.9",
+      "pack_id": "course57_9_haircut",
+      "title": "57.9 理发店接待与剪发确认",
+      "title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "phrase_count": 20,
+      "phrase_ids": [
+        "s57_9_0001",
+        "s57_9_0002",
+        "s57_9_0003",
+        "s57_9_0004",
+        "s57_9_0005",
+        "s57_9_0006",
+        "s57_9_0007",
+        "s57_9_0008",
+        "s57_9_0009",
+        "s57_9_0010",
+        "s57_9_0011",
+        "s57_9_0012",
+        "s57_9_0013",
+        "s57_9_0014",
+        "s57_9_0015",
+        "s57_9_0016",
+        "s57_9_0017",
+        "s57_9_0018",
+        "s57_9_0019",
+        "s57_9_0020"
+      ],
+      "source_links": []
+    }
+  ],
+  "phrases": [
+    {
+      "id": "s57_1_0001",
+      "level": "must",
+      "text": "您好，几位用餐？",
+      "meaning_my": "မင်္ဂလာပါ၊ ဘယ်နှယောက် စားမှာလဲ။",
+      "alternatives": [
+        {
+          "text": "您好，几个人？",
+          "meaning_my": "မင်္ဂလာပါ၊ ဘယ်နှယောက်လဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "两位，谢谢。",
+          "meaning_my": "နှစ်ယောက်ပါ၊ ကျေးဇူးပါ။"
+        },
+        {
+          "text": "我们四个人。",
+          "meaning_my": "ကျွန်တော်တို့ လေးယောက်ပါ။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "nín hǎo jǐ wèi yòng cān",
+      "phonetic_my": "နင် ဟောင် ကျီ ဝေး ယုန်း ဆန်"
+    },
+    {
+      "id": "s57_1_0002",
+      "level": "must",
+      "text": "您坐里面还是外面？",
+      "meaning_my": "အထဲမှာ ထိုင်မလား၊ အပြင်မှာ ထိုင်မလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "坐里面吧。",
+          "meaning_my": "အထဲမှာပဲ ထိုင်မယ်။"
+        },
+        {
+          "text": "外面有空位吗？",
+          "meaning_my": "အပြင်မှာ နေရာလွတ် ရှိလား။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "nín zuò lǐ miàn hái shì wài miàn",
+      "phonetic_my": "နင် ဇွော့ လီ မျန် ဟိုင်း ရှီး ဝိုင် မျန်"
+    },
+    {
+      "id": "s57_1_0003",
+      "level": "must",
+      "text": "您先看看菜单。",
+      "meaning_my": "မီနူးကို အရင်ကြည့်ပါဦး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，点菜再叫您。",
+          "meaning_my": "ဟုတ်ကဲ့၊ မှာမယ်ဆို ခေါ်လိုက်မယ်။"
+        },
+        {
+          "text": "有什么推荐的吗？",
+          "meaning_my": "ဘာဟင်းကောင်းလဲ အကြံပေးပါဦး။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "nín xiān kàn kàn cài dān",
+      "phonetic_my": "နင် ရှျန် ခန် ခန် ချိုက် တန်"
+    },
+    {
+      "id": "s57_1_0004",
+      "level": "must",
+      "text": "现在可以点菜吗？",
+      "meaning_my": "အခု ဟင်းမှာလို့ရပြီလား။",
+      "alternatives": [
+        {
+          "text": "可以点菜了吗？",
+          "meaning_my": "ဟင်းမှာလို့ရပြီလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "可以，先来份炒饭。",
+          "meaning_my": "ရပြီ၊ ထမင်းကြော်တစ်ပွဲ အရင်ပေးပါ။"
+        },
+        {
+          "text": "再等一下，我们还没选好。",
+          "meaning_my": "ခဏစောင့်ပေးပါဦး၊ မရွေးရသေးဘူး။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "xiàn zài kě yǐ diǎn cài ma",
+      "phonetic_my": "ရှျန် ဇိုင် ခ ယီ တျန် ချိုက် မာ"
+    },
+    {
+      "id": "s57_1_0005",
+      "level": "must",
+      "text": "这道菜有点辣。",
+      "meaning_my": "ဒီဟင်းက နည်းနည်းစပ်တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "能做不辣的吗？",
+          "meaning_my": "အစပ်မပါအောင် လုပ်ပေးလို့ရလား။"
+        },
+        {
+          "text": "没关系，我能吃辣。",
+          "meaning_my": "ရပါတယ်၊ အစပ် စားနိုင်ပါတယ်။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè dào cài yǒu diǎn là",
+      "phonetic_my": "ကျ တောက် ချိုက် ယိုး တျန် လာ့"
+    },
+    {
+      "id": "s57_1_0006",
+      "level": "must",
+      "text": "我先帮您下单。",
+      "meaning_my": "အော်ဒါ အရင်တင်ပေးမယ်နော်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "等等，我还想加个菜。",
+          "meaning_my": "ခဏနေပါဦး၊ ဟင်းတစ်ပွဲ ထပ်မှာချင်သေးတယ်။"
+        },
+        {
+          "text": "好，大概要等多久？",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဘယ်လောက်လောက် စောင့်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xiān bāng nín xià dān",
+      "phonetic_my": "ဝေါ ရှျန် ပန်း နင် ရှျာ တန်"
+    },
+    {
+      "id": "s57_1_0007",
+      "level": "must",
+      "text": "今天推荐这道招牌菜。",
+      "meaning_my": "ဒီနေ့ ဒီဆိုင်ရဲ့ နာမည်ကြီးဟင်းကို အကြံပြုချင်ပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那来一份尝尝。",
+          "meaning_my": "ဒါဆို တစ်ပွဲ စမ်းစားကြည့်မယ်။"
+        },
+        {
+          "text": "这道菜辣不辣？",
+          "meaning_my": "ဒီဟင်း စပ်လား။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "jīn tiān tuī jiàn zhè dào zhāo pái cài",
+      "phonetic_my": "ကျင် ထျန် ထွေး ကျန့် ကျ တောက် ကျောင်း ဖိုင် ချိုက်"
+    },
+    {
+      "id": "s57_1_0008",
+      "level": "must",
+      "text": "这道菜能做微辣。",
+      "meaning_my": "ဒီဟင်းကို အစပ်နည်းနည်းပဲ ထည့်လုပ်ပေးလို့ရတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那就做微辣吧。",
+          "meaning_my": "ဒါဆို နည်းနည်းပဲ စပ်အောင် လုပ်ပေးပါ။"
+        },
+        {
+          "text": "能完全不放辣吗？",
+          "meaning_my": "ငရုတ်သီး လုံးဝမထည့်ဘဲ လုပ်ပေးလို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè dào cài néng zuò wēi là",
+      "phonetic_my": "ကျ တောက် ချိုက် နန်း ဇွော့ ဝေး လာ့"
+    },
+    {
+      "id": "s57_1_0009",
+      "level": "must",
+      "text": "这道菜卖完了。",
+      "meaning_my": "ဒီဟင်း ကုန်သွားပါပြီ။",
+      "alternatives": [
+        {
+          "text": "今天这道菜没了。",
+          "meaning_my": "ဒီနေ့ ဒီဟင်း ကုန်သွားပြီ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "那换成炒饭吧。",
+          "meaning_my": "ဒါဆို ထမင်းကြော်နဲ့ ပြောင်းပေးပါ။"
+        },
+        {
+          "text": "还有类似的菜吗？",
+          "meaning_my": "အဲဒီလိုမျိုး တခြားဟင်း ရှိသေးလား။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè dào cài mài wán le",
+      "phonetic_my": "ကျ တောက် ချိုက် မိုင် ဝမ် လ"
+    },
+    {
+      "id": "s57_1_0010",
+      "level": "listen",
+      "text": "我们两个人。",
+      "meaning_my": "ကျွန်တော်တို့ နှစ်ယောက်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "这边还有双人桌。",
+          "meaning_my": "ဒီဘက်မှာ နှစ်ယောက်ထိုင်စားပွဲ ရှိသေးတယ်။"
+        },
+        {
+          "text": "要坐里面还是外面？",
+          "meaning_my": "အထဲမှာ ထိုင်မလား၊ အပြင်မှာ ထိုင်မလား။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ men liǎng ge rén",
+      "phonetic_my": "ဝေါ မန် လျန်း က ရန်"
+    },
+    {
+      "id": "s57_1_0011",
+      "level": "listen",
+      "text": "我们没预约。",
+      "meaning_my": "ကျွန်တော်တို့ ကြိုမမှာထားဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "没关系，还有空位。",
+          "meaning_my": "ရပါတယ်၊ နေရာလွတ် ရှိသေးတယ်။"
+        },
+        {
+          "text": "需要等十分钟。",
+          "meaning_my": "ဆယ်မိနစ်လောက် စောင့်ရပါမယ်။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ men méi yù yuē",
+      "phonetic_my": "ဝေါ မန် မေး ယွီ ယွဲ"
+    },
+    {
+      "id": "s57_1_0012",
+      "level": "listen",
+      "text": "我们先看看菜单。",
+      "meaning_my": "မီနူးကို အရင်ကြည့်ပါဦးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，您慢慢看。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဖြည်းဖြည်း ကြည့်ပါ။"
+        },
+        {
+          "text": "选好了叫我一声。",
+          "meaning_my": "ရွေးပြီးရင် ခေါ်လိုက်ပါနော်။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ men xiān kàn kàn cài dān",
+      "phonetic_my": "ဝေါ မန် ရှျန် ခန် ခန် ချိုက် တန်"
+    },
+    {
+      "id": "s57_1_0013",
+      "level": "listen",
+      "text": "这道菜辣吗？",
+      "meaning_my": "ဒီဟင်း စပ်လား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "有点辣。",
+          "meaning_my": "နည်းနည်း စပ်ပါတယ်။"
+        },
+        {
+          "text": "可以做不辣的。",
+          "meaning_my": "အစပ်မပါအောင် လုပ်ပေးလို့ရပါတယ်။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè dào cài là ma",
+      "phonetic_my": "ကျ တောက် ချိုက် လာ့ မာ"
+    },
+    {
+      "id": "s57_1_0014",
+      "level": "listen",
+      "text": "再来两碗米饭。",
+      "meaning_my": "ထမင်းနှစ်ပွဲ ထပ်ပေးပါဦး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，马上加两碗。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ထမင်းနှစ်ပွဲ ချက်ချင်း ထပ်ပေးမယ်။"
+        },
+        {
+          "text": "需要现在一起上吗？",
+          "meaning_my": "အခုပဲ တစ်ခါတည်း ယူလာပေးရမလား။"
+        }
+      ],
+      "lesson_id": "57.1",
+      "lesson_title": "57.1 餐厅迎客带位与点单",
+      "lesson_title_my": "57.1 စားသောက်ဆိုင် ကြိုဆို၊ နေရာချပေးနှင့် အော်ဒါယူခြင်း",
+      "mistakes": [],
+      "pinyin": "zài lái liǎng wǎn mǐ fàn",
+      "phonetic_my": "ဇိုင် လိုင် လျန်း ဝမ် မီ ဖန်"
+    },
+    {
+      "id": "s57_2_0001",
+      "level": "must",
+      "text": "您的菜来了。",
+      "meaning_my": "မှာထားတဲ့ဟင်း ရောက်ပါပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "谢谢，放这儿吧。",
+          "meaning_my": "ကျေးဇူးပါ၊ ဒီမှာပဲ ချပေးပါ။"
+        },
+        {
+          "text": "这是我们点的鱼吗？",
+          "meaning_my": "ဒါ ကျွန်တော်တို့ မှာထားတဲ့ ငါးဟင်းလား။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "nín de cài lái le",
+      "phonetic_my": "နင် တ ချိုက် လိုင် လ"
+    },
+    {
+      "id": "s57_2_0002",
+      "level": "must",
+      "text": "我帮您加点水。",
+      "meaning_my": "ရေနည်းနည်း ထပ်ဖြည့်ပေးမယ်နော်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "谢谢，麻烦加满。",
+          "meaning_my": "ကျေးဇူးပါ၊ အပြည့် ဖြည့်ပေးပါဦး။"
+        },
+        {
+          "text": "不用，我还有水。",
+          "meaning_my": "မလိုသေးပါဘူး၊ ရေရှိသေးတယ်။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ bāng nín jiā diǎn shuǐ",
+      "phonetic_my": "ဝေါ ပန်း နင် ကျား တျန် ရှွေ့"
+    },
+    {
+      "id": "s57_2_0003",
+      "level": "must",
+      "text": "稍等，我帮您看看。",
+      "meaning_my": "ခဏစောင့်ပေးပါ၊ ကြည့်ပေးမယ်။",
+      "alternatives": [
+        {
+          "text": "您稍等，我查一下。",
+          "meaning_my": "ခဏစောင့်ပါ၊ စစ်ပေးမယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，麻烦您了。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ကူကြည့်ပေးပါဦး။"
+        },
+        {
+          "text": "大概还要多久？",
+          "meaning_my": "နောက်ထပ် ဘယ်လောက်ကြာဦးမလဲ။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "shāo děng wǒ bāng nín kàn kàn",
+      "phonetic_my": "ရှောက် တန်း ဝေါ ပန်း နင် ခန် ခန်"
+    },
+    {
+      "id": "s57_2_0004",
+      "level": "must",
+      "text": "我去帮您催一下。",
+      "meaning_my": "မီးဖိုချောင်ကို သွားပြီး မြန်မြန်လုပ်ပေးဖို့ ပြောပေးမယ်။",
+      "alternatives": [
+        {
+          "text": "我帮您催催。",
+          "meaning_my": "မြန်မြန်လုပ်ပေးဖို့ ပြောပေးမယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "麻烦问问还要多久。",
+          "meaning_my": "နောက်ထပ် ဘယ်လောက်ကြာမလဲ မေးပေးပါဦး။"
+        },
+        {
+          "text": "谢谢，我们等很久了。",
+          "meaning_my": "ကျေးဇူးပါ၊ ကျွန်တော်တို့ စောင့်နေတာ ကြာပြီ။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ qù bāng nín cuī yí xià",
+      "phonetic_my": "ဝေါ ချွီ ပန်း နင် ဆွေး ယီ ရှျာ"
+    },
+    {
+      "id": "s57_2_0005",
+      "level": "must",
+      "text": "抱歉，这道菜上错了。",
+      "meaning_my": "တောင်းပန်ပါတယ်၊ ဒီဟင်း မှားတင်မိသွားတယ်။",
+      "alternatives": [
+        {
+          "text": "不好意思，上错菜了。",
+          "meaning_my": "တောင်းပန်ပါတယ်၊ ဟင်းမှားတင်မိတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我们点的是炒饭。",
+          "meaning_my": "ကျွန်တော်တို့ မှာထားတာ ထမင်းကြော်ပါ။"
+        },
+        {
+          "text": "那麻烦换一下。",
+          "meaning_my": "ဒါဆို မှန်တာနဲ့ လဲပေးပါဦး။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "bào qiàn zhè dào cài shàng cuò le",
+      "phonetic_my": "ပေါက် ချျန့် ကျ တောက် ချိုက် ရှန်း ဆွေါ လ"
+    },
+    {
+      "id": "s57_2_0006",
+      "level": "must",
+      "text": "我去叫主管过来。",
+      "meaning_my": "တာဝန်ခံကို သွားခေါ်ပေးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我跟他说明。",
+          "meaning_my": "ဟုတ်ကဲ့၊ သူ့ကို ရှင်းပြမယ်။"
+        },
+        {
+          "text": "不用，您帮我处理就行。",
+          "meaning_my": "မလိုပါဘူး၊ ဒီကိစ္စကိုပဲ ကူဖြေရှင်းပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ qù jiào zhǔ guǎn guò lái",
+      "phonetic_my": "ဝေါ ချွီ ကျောင် ကျူ ကွမ် ကွော လိုင်"
+    },
+    {
+      "id": "s57_2_0007",
+      "level": "must",
+      "text": "这道菜还要五分钟。",
+      "meaning_my": "ဒီဟင်း နောက်ငါးမိနစ်လောက် ကြာပါဦးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我们再等一会儿。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ခဏ ထပ်စောင့်ပါမယ်။"
+        },
+        {
+          "text": "能先上别的菜吗？",
+          "meaning_my": "တခြားဟင်းတွေ အရင်ချလို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè dào cài hái yào wǔ fēn zhōng",
+      "phonetic_my": "ကျ တောက် ချိုက် ဟိုင်း ယောင် ဝူ ဖန် ကျုန်း"
+    },
+    {
+      "id": "s57_2_0008",
+      "level": "listen",
+      "text": "能帮我催一下吗？",
+      "meaning_my": "အော်ဒါကို မြန်မြန်လုပ်ပေးဖို့ သွားပြောပေးလို့ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "可以，我去问厨房。",
+          "meaning_my": "ရပါတယ်၊ မီးဖိုချောင်ကို သွားမေးပေးမယ်။"
+        },
+        {
+          "text": "我查下还要多久。",
+          "meaning_my": "နောက်ထပ် ဘယ်လောက်ကြာမလဲ စစ်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "néng bāng wǒ cuī yí xià ma",
+      "phonetic_my": "နန်း ပန်း ဝေါ ဆွေး ယီ ရှျာ မာ"
+    },
+    {
+      "id": "s57_2_0009",
+      "level": "listen",
+      "text": "这菜不是我们点的。",
+      "meaning_my": "ဒီဟင်းက ကျွန်တော်တို့ မှာထားတာ မဟုတ်ဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "抱歉，我核对下单子。",
+          "meaning_my": "တောင်းပန်ပါတယ်၊ အော်ဒါစာရင်း ပြန်စစ်ပေးမယ်။"
+        },
+        {
+          "text": "我马上给您换对。",
+          "meaning_my": "ချက်ချင်း မှန်တဲ့ဟင်းနဲ့ လဲပေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè cài bú shì wǒ men diǎn de",
+      "phonetic_my": "ကျ ချိုက် ပု ရှီး ဝေါ မန် တျန် တ"
+    },
+    {
+      "id": "s57_2_0010",
+      "level": "listen",
+      "text": "肉好像没熟。",
+      "meaning_my": "အသားက မကျက်သေးသလိုပဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "抱歉，先别吃，我给您换。",
+          "meaning_my": "တောင်းပန်ပါတယ်၊ အရင် မစားပါနဲ့ဦး၊ လဲပေးမယ်။"
+        },
+        {
+          "text": "我让厨房重新做一份。",
+          "meaning_my": "မီးဖိုချောင်ကို အသစ်တစ်ပွဲ ပြန်လုပ်ခိုင်းမယ်။"
+        }
+      ],
+      "lesson_id": "57.2",
+      "lesson_title": "57.2 餐中服务与问题处理",
+      "lesson_title_my": "57.2 စားပွဲဝန်ဆောင်မှုနှင့် ပြဿနာဖြေရှင်းခြင်း",
+      "mistakes": [
+        {
+          "text": "肉类未熟不要继续食用，应及时通知店员重新处理。",
+          "text_my": "အသားမကျက်ရင် ဆက်မစားပါနဲ့။ ဆိုင်ဝန်ထမ်းကို ပြောပြီး ပြန်လုပ်ခိုင်းပါ။"
+        }
+      ],
+      "pinyin": "ròu hǎo xiàng méi shú",
+      "phonetic_my": "ရိုး ဟောင် ရှျန်း မေး ရှူ"
+    },
+    {
+      "id": "s57_3_0001",
+      "level": "must",
+      "text": "商品放这边就行。",
+      "meaning_my": "ပစ္စည်းတွေ ဒီဘက်မှာ ထားပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，放这里吗？",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒီမှာထားရမှာလား။"
+        },
+        {
+          "text": "这两件一起结账。",
+          "meaning_my": "ဒီနှစ်ခုကို တစ်ခါတည်း ငွေရှင်းပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "shāng pǐn fàng zhè biān jiù xíng",
+      "phonetic_my": "ရှန်း ဖင် ဖန်း ကျ ပျန် ကျိုး ရှင်း"
+    },
+    {
+      "id": "s57_3_0002",
+      "level": "must",
+      "text": "您有会员吗？",
+      "meaning_my": "ဆိုင်ရဲ့ အသင်းဝင် ဖြစ်ထားလား။",
+      "alternatives": [
+        {
+          "text": "有会员卡吗？",
+          "meaning_my": "အသင်းဝင်ကတ် ရှိလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "有，用手机号可以吗？",
+          "meaning_my": "ရှိတယ်၊ ဖုန်းနံပါတ်နဲ့ ရလား။"
+        },
+        {
+          "text": "没有，直接结账吧。",
+          "meaning_my": "မရှိဘူး၊ ဒီအတိုင်း ငွေရှင်းပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "nín yǒu huì yuán ma",
+      "phonetic_my": "နင် ယိုး ဟွေ့ ယွမ် မာ"
+    },
+    {
+      "id": "s57_3_0003",
+      "level": "must",
+      "text": "需要袋子吗？",
+      "meaning_my": "အိတ် လိုပါသလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要一个，谢谢。",
+          "meaning_my": "တစ်လုံး ပေးပါ၊ ကျေးဇူးပါ။"
+        },
+        {
+          "text": "不用，我自己带了。",
+          "meaning_my": "မလိုပါဘူး၊ ကိုယ့်အိတ် ပါလာတယ်။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "xū yào dài zi ma",
+      "phonetic_my": "ရှွီ ယောင် တိုင် ဇီး မာ"
+    },
+    {
+      "id": "s57_3_0004",
+      "level": "must",
+      "text": "一共五十八元。",
+      "meaning_my": "စုစုပေါင်း ယွမ်ငါးဆယ့်ရှစ် ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我用微信付。",
+          "meaning_my": "WeChat နဲ့ ပေးမယ်။"
+        },
+        {
+          "text": "给您一百，找我零钱。",
+          "meaning_my": "ယွမ်တစ်ရာ ပေးမယ်၊ အမ်းငွေ ပြန်ပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "yí gòng wǔ shí bā yuán",
+      "phonetic_my": "ယီ ကုန်း ဝူ ရှီး ပါ ယွမ်"
+    },
+    {
+      "id": "s57_3_0005",
+      "level": "must",
+      "text": "需要小票吗？",
+      "meaning_my": "ငွေရှင်းပြေစာ လိုပါသလား။",
+      "alternatives": [
+        {
+          "text": "要小票吗？",
+          "meaning_my": "ငွေရှင်းပြေစာ ယူမလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "要，我得报销。",
+          "meaning_my": "လိုပါတယ်၊ စရိတ်ပြန်တောင်းရမှာမို့ပါ။"
+        },
+        {
+          "text": "不用，谢谢。",
+          "meaning_my": "မလိုပါဘူး၊ ကျေးဇူးပါ။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "xū yào xiǎo piào ma",
+      "phonetic_my": "ရှွီ ယောင် ရှောင် ဖျောင် မာ"
+    },
+    {
+      "id": "s57_3_0006",
+      "level": "must",
+      "text": "这边还没收到付款。",
+      "meaning_my": "ဒီဘက်မှာ ငွေဝင်တာ မပေါ်သေးဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我这边显示已付款。",
+          "meaning_my": "ကျွန်တော့်ဖုန်းမှာ ပေးပြီးပြီလို့ ပြနေတယ်။"
+        },
+        {
+          "text": "那先核对下记录吧。",
+          "meaning_my": "ဒါဆို ငွေပေးချေမှုမှတ်တမ်း အရင်စစ်ကြည့်ရအောင်။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [
+        {
+          "text": "对方显示已支付但收银系统未到账时，应先核对双方记录，避免重复付款。",
+          "text_my": "ဖုန်းမှာ ငွေပေးပြီးပြီလို့ ပြပေမယ့် ဆိုင်စနစ်မှာ မပေါ်ရင် မှတ်တမ်းနှစ်ဖက်စလုံး စစ်ပြီးမှ ထပ်ပေးပါ။"
+        }
+      ],
+      "pinyin": "zhè biān hái méi shōu dào fù kuǎn",
+      "phonetic_my": "ကျ ပျန် ဟိုင်း မေး ရှိုး တောက် ဖူ ခွန်"
+    },
+    {
+      "id": "s57_3_0007",
+      "level": "must",
+      "text": "我再帮您扫一次。",
+      "meaning_my": "နောက်တစ်ခါ စကန်ဖတ်ပေးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，刚才没扫上。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ခုနက စကန်မဖတ်မိဘူး။"
+        },
+        {
+          "text": "这件刚才扫过了吗？",
+          "meaning_my": "ဒီပစ္စည်း ခုနက စကန်ဖတ်ပြီးပြီလား။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zài bāng nín sǎo yí cì",
+      "phonetic_my": "ဝေါ ဇိုင် ပန်း နင် စောင် ယီ ဆီး"
+    },
+    {
+      "id": "s57_3_0008",
+      "level": "must",
+      "text": "袋子要另外收费。",
+      "meaning_my": "အိတ်ဖိုး သီးသန့် ပေးရပါတယ်။",
+      "alternatives": [
+        {
+          "text": "袋子要收费。",
+          "meaning_my": "အိတ်ဖိုး ပေးရတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "一个袋子多少钱？",
+          "meaning_my": "အိတ်တစ်လုံး ဘယ်လောက်လဲ။"
+        },
+        {
+          "text": "那我不要袋子了。",
+          "meaning_my": "ဒါဆို အိတ်မယူတော့ဘူး။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "dài zi yào lìng wài shōu fèi",
+      "phonetic_my": "တိုင် ဇီး ယောင် လင်း ဝိုင် ရှိုး ဖေး"
+    },
+    {
+      "id": "s57_3_0009",
+      "level": "must",
+      "text": "付款成功，谢谢。",
+      "meaning_my": "ငွေပေးချေမှု အောင်မြင်ပါပြီ၊ ကျေးဇူးတင်ပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "麻烦给我张小票。",
+          "meaning_my": "ငွေရှင်းပြေစာတစ်စောင် ပေးပါဦး။"
+        },
+        {
+          "text": "帮我装袋吧。",
+          "meaning_my": "အိတ်ထဲ ထည့်ပေးပါဦး။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "fù kuǎn chéng gōng xiè xiè",
+      "phonetic_my": "ဖူ ခွန် ချန်း ကုန်း ရှဲ့ ရှဲ့"
+    },
+    {
+      "id": "s57_3_0010",
+      "level": "listen",
+      "text": "袋子收费吗？",
+      "meaning_my": "အိတ်ဖိုး ပေးရလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，一个三毛。",
+          "meaning_my": "ပေးရတယ်၊ တစ်လုံး သုံးမော်ပါ။"
+        },
+        {
+          "text": "不用，我们免费提供。",
+          "meaning_my": "မလိုပါဘူး၊ ဒီဆိုင်မှာ အခမဲ့ ပေးတယ်။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "dài zi shōu fèi ma",
+      "phonetic_my": "တိုင် ဇီး ရှိုး ဖေး မာ"
+    },
+    {
+      "id": "s57_3_0011",
+      "level": "listen",
+      "text": "不用小票。",
+      "meaning_my": "ငွေရှင်းပြေစာ မလိုပါဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，那我不打印了。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒါဆို မပုံနှိပ်ပေးတော့ဘူး။"
+        },
+        {
+          "text": "电子小票需要吗？",
+          "meaning_my": "အီလက်ထရွန်နစ်ပြေစာ လိုသေးလား။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "bú yòng xiǎo piào",
+      "phonetic_my": "ပု ယုန်း ရှောင် ဖျောင်"
+    },
+    {
+      "id": "s57_3_0012",
+      "level": "listen",
+      "text": "这件扫了两次。",
+      "meaning_my": "ဒီပစ္စည်းကို နှစ်ခါ စကန်ဖတ်ထားတယ်။",
+      "alternatives": [
+        {
+          "text": "这件重复扫码了。",
+          "meaning_my": "ဒီပစ္စည်းကို နှစ်ခါ စကန်ဖတ်ထားတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "抱歉，我取消一件。",
+          "meaning_my": "တောင်းပန်ပါတယ်၊ တစ်ခုကို ပြန်ဖျက်ပေးမယ်။"
+        },
+        {
+          "text": "我核对后改金额。",
+          "meaning_my": "ပြန်စစ်ပြီး ငွေပမာဏ ပြင်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè jiàn sǎo le liǎng cì",
+      "phonetic_my": "ကျ ကျန့် စောင် လ လျန်း ဆီး"
+    },
+    {
+      "id": "s57_3_0013",
+      "level": "listen",
+      "text": "我想退这个。",
+      "meaning_my": "ဒီပစ္စည်းကို ပြန်အပ်ချင်ပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "能先看下小票吗？",
+          "meaning_my": "ငွေရှင်းပြေစာကို အရင်ကြည့်လို့ရမလား။"
+        },
+        {
+          "text": "我先查下退货规定。",
+          "meaning_my": "ပစ္စည်းပြန်အပ်တဲ့ စည်းကမ်းကို အရင်စစ်ကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "57.3",
+      "lesson_title": "57.3 超市收银",
+      "lesson_title_my": "57.3 စူပါမားကတ် ငွေရှင်းခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xiǎng tuì zhè ge",
+      "phonetic_my": "ဝေါ ရှျန်း ထွေ့ ကျ က"
+    },
+    {
+      "id": "s57_4_0001",
+      "level": "must",
+      "text": "这里要补货。",
+      "meaning_my": "ဒီနေရာမှာ ပစ္စည်း ထပ်ဖြည့်ရမယ်။",
+      "alternatives": [
+        {
+          "text": "这边该补货了。",
+          "meaning_my": "ဒီဘက် ပစ္စည်း ထပ်ဖြည့်ဖို့လိုပြီ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我去仓库拿货。",
+          "meaning_my": "ဂိုဒေါင်ကို ပစ္စည်း သွားယူမယ်။"
+        },
+        {
+          "text": "先补饮料吗？",
+          "meaning_my": "အဖျော်ယမကာတွေ အရင်ဖြည့်ရမလား။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè lǐ yào bǔ huò",
+      "phonetic_my": "ကျ လီ ယောင် ပု ဟွေါ"
+    },
+    {
+      "id": "s57_4_0002",
+      "level": "must",
+      "text": "这个放三号货架。",
+      "meaning_my": "ဒီဟာကို နံပါတ်သုံး ကုန်စင်မှာ ထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "是收银台旁边那个吗？",
+          "meaning_my": "ငွေရှင်းကောင်တာ ဘေးကစင်လား။"
+        },
+        {
+          "text": "好，我放好再贴价签。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ထားပြီးရင် ဈေးတံဆိပ် ကပ်မယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge fàng sān hào huò jià",
+      "phonetic_my": "ကျ က ဖန်း စန် ဟောင် ဟွေါ ကျား"
+    },
+    {
+      "id": "s57_4_0003",
+      "level": "must",
+      "text": "先看看保质期。",
+      "meaning_my": "သက်တမ်းကုန်ရက်ကို အရင်စစ်ပါ။",
+      "alternatives": [
+        {
+          "text": "先检查保质期。",
+          "meaning_my": "သက်တမ်းကုန်ရက်ကို အရင်စစ်ပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，我逐个检查。",
+          "meaning_my": "ဟုတ်ကဲ့၊ တစ်ခုချင်းစီ စစ်မယ်။"
+        },
+        {
+          "text": "快过期的先挑出来吗？",
+          "meaning_my": "သက်တမ်းကုန်ခါနီးတာတွေ အရင်ရွေးထုတ်ရမလား။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān kàn kàn bǎo zhì qī",
+      "phonetic_my": "ရှျန် ခန် ခန် ပေါင် ကျီး ချီ"
+    },
+    {
+      "id": "s57_4_0004",
+      "level": "must",
+      "text": "临期商品怎么放？",
+      "meaning_my": "သက်တမ်းကုန်ခါနီးပစ္စည်းတွေ ဘယ်လိုထားရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先单独放好。",
+          "meaning_my": "အရင် သီးသန့် ခွဲထားပါ။"
+        },
+        {
+          "text": "按店里的规定处理。",
+          "meaning_my": "ဆိုင်စည်းကမ်းအတိုင်း ကိုင်တွယ်ပါ။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [
+        {
+          "text": "临期与过期不同；过期商品不能与可售商品混放。",
+          "text_my": "သက်တမ်းကုန်ခါနီးနဲ့ သက်တမ်းကုန်ပြီးတာ မတူပါဘူး။ သက်တမ်းကုန်ပြီးတာကို ရောင်းမယ့်ပစ္စည်းတွေနဲ့ မရောပါနဲ့။"
+        }
+      ],
+      "pinyin": "lín qī shāng pǐn zěn me fàng",
+      "phonetic_my": "လင် ချီ ရှန်း ဖင် ဇန် မ ဖန်း"
+    },
+    {
+      "id": "s57_4_0005",
+      "level": "must",
+      "text": "这个价签不对。",
+      "meaning_my": "ဒီဈေးတံဆိပ် မှားနေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我先核对系统价格。",
+          "meaning_my": "စနစ်ထဲက ဈေးကို အရင်တိုက်စစ်မယ်။"
+        },
+        {
+          "text": "确认后马上换。",
+          "meaning_my": "အတည်ပြုပြီးတာနဲ့ ချက်ချင်း လဲမယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge jià qiān bú duì",
+      "phonetic_my": "ကျ က ကျား ချန် ပု တွေး"
+    },
+    {
+      "id": "s57_4_0006",
+      "level": "must",
+      "text": "这件放错位置了。",
+      "meaning_my": "ဒီပစ္စည်း နေရာမှားထားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "应该放哪一排？",
+          "meaning_my": "ဘယ်တန်းမှာ ထားရမလဲ။"
+        },
+        {
+          "text": "我现在挪回去。",
+          "meaning_my": "အခု နေရာမှန် ပြန်ရွှေ့ထားမယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè jiàn fàng cuò wèi zhì le",
+      "phonetic_my": "ကျ ကျန့် ဖန်း ဆွေါ ဝေး ကျီး လ"
+    },
+    {
+      "id": "s57_4_0007",
+      "level": "must",
+      "text": "库存还剩多少？",
+      "meaning_my": "လက်ကျန်ပစ္စည်း ဘယ်လောက်ရှိသေးလဲ။",
+      "alternatives": [
+        {
+          "text": "还有多少库存？",
+          "meaning_my": "လက်ကျန်ပစ္စည်း ဘယ်လောက်ရှိသေးလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "仓库还有两箱。",
+          "meaning_my": "ဂိုဒေါင်မှာ နှစ်သေတ္တာ ကျန်သေးတယ်။"
+        },
+        {
+          "text": "系统显示没库存了。",
+          "meaning_my": "စနစ်ထဲမှာ လက်ကျန်မရှိတော့ဘူးလို့ ပြနေတယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "kù cún hái shèng duō shǎo",
+      "phonetic_my": "ခူး ဆွင် ဟိုင်း ရှင့် တွော ရှောင်"
+    },
+    {
+      "id": "s57_4_0008",
+      "level": "must",
+      "text": "下班前要盘点吗？",
+      "meaning_my": "အလုပ်မဆင်းခင် ပစ္စည်းစာရင်း စစ်ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，先点饮料区。",
+          "meaning_my": "စစ်ရမယ်၊ အဖျော်ယမကာပိုင်းကို အရင်စစ်ပါ။"
+        },
+        {
+          "text": "不用，明早再盘。",
+          "meaning_my": "မလိုဘူး၊ မနက်ဖြန်မနက်မှ စစ်မယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "xià bān qián yào pán diǎn ma",
+      "phonetic_my": "ရှျာ ပန် ချန် ယောင် ဖန် တျန် မာ"
+    },
+    {
+      "id": "s57_4_0009",
+      "level": "must",
+      "text": "这排货快卖完了。",
+      "meaning_my": "ဒီတန်းက ပစ္စည်းတွေ ကုန်တော့မယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我去拿货来补。",
+          "meaning_my": "ပစ္စည်းသွားယူပြီး ပြန်ဖြည့်မယ်။"
+        },
+        {
+          "text": "先补卖得快的。",
+          "meaning_my": "အရောင်းသွက်တာတွေ အရင်ဖြည့်ပါ။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè pái huò kuài mài wán le",
+      "phonetic_my": "ကျ ဖိုင် ဟွေါ ခွိုင် မိုင် ဝမ် လ"
+    },
+    {
+      "id": "s57_4_0010",
+      "level": "must",
+      "text": "新货先放后面。",
+      "meaning_my": "ပစ္စည်းအသစ်တွေ အရင် နောက်ဘက်မှာ ထားပါ။",
+      "alternatives": [
+        {
+          "text": "新货往后放。",
+          "meaning_my": "ပစ္စည်းအသစ်တွေ နောက်ဘက်မှာထားပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "旧货放前面，对吗？",
+          "meaning_my": "အဟောင်းတွေကို ရှေ့မှာထားရမယ်နော်။"
+        },
+        {
+          "text": "好，我先核对日期。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ရက်စွဲကို အရင်တိုက်စစ်မယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "xīn huò xiān fàng hòu miàn",
+      "phonetic_my": "ရှင် ဟွေါ ရှျန် ဖန်း ဟိုး မျန်"
+    },
+    {
+      "id": "s57_4_0011",
+      "level": "must",
+      "text": "价签要换新的。",
+      "meaning_my": "ဈေးတံဆိပ်အသစ် လဲရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "新价格确认了吗？",
+          "meaning_my": "ဈေးအသစ် အတည်ပြုပြီးပြီလား။"
+        },
+        {
+          "text": "我换好后拍照。",
+          "meaning_my": "လဲပြီးရင် ဓာတ်ပုံရိုက်မယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "jià qiān yào huàn xīn de",
+      "phonetic_my": "ကျား ချန် ယောင် ဟွမ် ရှင် တ"
+    },
+    {
+      "id": "s57_4_0012",
+      "level": "listen",
+      "text": "先补饮料区。",
+      "meaning_my": "အဖျော်ယမကာပိုင်းကို အရင် ပစ္စည်းဖြည့်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "缺的是矿泉水吗？",
+          "meaning_my": "ရေသန့်တွေ လိုနေတာလား။"
+        },
+        {
+          "text": "好，我去搬两箱。",
+          "meaning_my": "ဟုတ်ကဲ့၊ နှစ်သေတ္တာ သွားသယ်မယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān bǔ yǐn liào qū",
+      "phonetic_my": "ရှျန် ပု ယင် လျောင် ချွီ"
+    },
+    {
+      "id": "s57_4_0013",
+      "level": "listen",
+      "text": "放到上面那层。",
+      "meaning_my": "အပေါ်စင်အဆင့်မှာ တင်ထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "是第二层吗？",
+          "meaning_my": "ဒုတိယအဆင့်မှာလား။"
+        },
+        {
+          "text": "我拿梯子来放。",
+          "meaning_my": "လှေကား ယူလာပြီး တင်မယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "fàng dào shàng miàn nà céng",
+      "phonetic_my": "ဖန်း တောက် ရှန်း မျန် နာ ဆင်"
+    },
+    {
+      "id": "s57_4_0014",
+      "level": "listen",
+      "text": "日期新的放后面。",
+      "meaning_my": "သက်တမ်းကုန်ရက် နောက်ကျတာတွေ နောက်ဘက်မှာထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "快到期的放前面吗？",
+          "meaning_my": "သက်တမ်းကုန်ခါနီးတာတွေ ရှေ့မှာထားရမလား။"
+        },
+        {
+          "text": "好，我按日期排。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ရက်စွဲအလိုက် စီမယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [
+        {
+          "text": "先到期的货优先出库，按日期而不是单看进货新旧排货。",
+          "text_my": "သက်တမ်းကုန်မယ့်ရက်စောတာကို အရင်ထုတ်ရောင်းပါ။ ပစ္စည်းဝင်ရက်တစ်ခုတည်းနဲ့ မစီပါနဲ့။"
+        }
+      ],
+      "pinyin": "rì qī xīn de fàng hòu miàn",
+      "phonetic_my": "ရီ ချီ ရှင် တ ဖန်း ဟိုး မျန်"
+    },
+    {
+      "id": "s57_4_0015",
+      "level": "listen",
+      "text": "价签还没换。",
+      "meaning_my": "ဈေးတံဆိပ် မလဲရသေးဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我先去拿新价签。",
+          "meaning_my": "ဈေးတံဆိပ်အသစ် သွားယူဦးမယ်။"
+        },
+        {
+          "text": "那先核对一下价格。",
+          "meaning_my": "ဒါဆို ဈေးနှုန်းကို အရင်တိုက်စစ်ကြည့်ရအောင်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "jià qiān hái méi huàn",
+      "phonetic_my": "ကျား ချန် ဟိုင်း မေး ဟွမ်"
+    },
+    {
+      "id": "s57_4_0016",
+      "level": "listen",
+      "text": "仓库还有两箱。",
+      "meaning_my": "ဂိုဒေါင်မှာ နှစ်သေတ္တာ ကျန်သေးတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先搬一箱出来吧。",
+          "meaning_my": "အရင် တစ်သေတ္တာ သယ်ထုတ်လိုက်ပါ။"
+        },
+        {
+          "text": "是哪种饮料？",
+          "meaning_my": "ဘယ်အဖျော်ယမကာမျိုးလဲ။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "cāng kù hái yǒu liǎng xiāng",
+      "phonetic_my": "ဆန်း ခူး ဟိုင်း ယိုး လျန်း ရှျန်း"
+    },
+    {
+      "id": "s57_4_0017",
+      "level": "listen",
+      "text": "补完货拍张照。",
+      "meaning_my": "ပစ္စည်းဖြည့်ပြီး ဓာတ်ပုံတစ်ပုံ ရိုက်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "拍整个货架吗？",
+          "meaning_my": "စင်တစ်ခုလုံးကို ရိုက်ရမှာလား။"
+        },
+        {
+          "text": "拍完发工作群。",
+          "meaning_my": "ရိုက်ပြီးရင် အလုပ်အဖွဲ့ထဲ ပို့မယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "bǔ wán huò pāi zhāng zhào",
+      "phonetic_my": "ပု ဝမ် ဟွေါ ဖိုင် ကျန်း ကျောင်"
+    },
+    {
+      "id": "s57_4_0018",
+      "level": "listen",
+      "text": "临期商品单独处理。",
+      "meaning_my": "သက်တမ်းကုန်ခါနီးပစ္စည်းတွေ သီးသန့် ကိုင်တွယ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要先下架吗？",
+          "meaning_my": "စင်ပေါ်က အရင် ဖယ်ရမလား။"
+        },
+        {
+          "text": "我先问主管怎么做。",
+          "meaning_my": "ဘယ်လိုလုပ်ရမလဲ တာဝန်ခံကို အရင်မေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.4",
+      "lesson_title": "57.4 超市理货补货",
+      "lesson_title_my": "57.4 စင်တင်ခြင်းနှင့် ပစ္စည်းဖြည့်ခြင်း",
+      "mistakes": [],
+      "pinyin": "lín qī shāng pǐn dān dú chù lǐ",
+      "phonetic_my": "လင် ချီ ရှန်း ဖင် တန် တူ ချူး လီ"
+    },
+    {
+      "id": "s57_5_0001",
+      "level": "must",
+      "text": "您好，需要帮忙吗？",
+      "meaning_my": "မင်္ဂလာပါ၊ ဘာကူညီပေးရမလဲ။",
+      "alternatives": [
+        {
+          "text": "您好，想买什么？",
+          "meaning_my": "မင်္ဂလာပါ၊ ဘာဝယ်ချင်ပါသလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我先自己看看。",
+          "meaning_my": "ကိုယ့်ဘာသာ အရင်ကြည့်ပါဦးမယ်။"
+        },
+        {
+          "text": "想找一件衬衫。",
+          "meaning_my": "ရှပ်အင်္ကျီတစ်ထည် ရှာချင်လို့ပါ။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín hǎo xū yào bāng máng ma",
+      "phonetic_my": "နင် ဟောင် ရှွီ ယောင် ပန်း မန်း မာ"
+    },
+    {
+      "id": "s57_5_0002",
+      "level": "must",
+      "text": "您想看什么款式？",
+      "meaning_my": "ဘယ်လိုပုံစံမျိုး ကြည့်ချင်ပါသလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "想要简单一点的。",
+          "meaning_my": "ရိုးရိုးရှင်းရှင်းပုံစံလေး လိုချင်တယ်။"
+        },
+        {
+          "text": "有宽松款吗？",
+          "meaning_my": "ပွပွလေးပုံစံ ရှိလား။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín xiǎng kàn shén me kuǎn shì",
+      "phonetic_my": "နင် ရှျန်း ခန် ရှန် မ ခွန် ရှီး"
+    },
+    {
+      "id": "s57_5_0003",
+      "level": "must",
+      "text": "您平时穿多大码？",
+      "meaning_my": "ပုံမှန် ဘယ်ဆိုဒ် ဝတ်ပါသလဲ။",
+      "alternatives": [
+        {
+          "text": "您穿什么码？",
+          "meaning_my": "ဘယ်ဆိုဒ် ဝတ်ပါသလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我一般穿M码。",
+          "meaning_my": "ပုံမှန် M ဆိုဒ် ဝတ်တယ်။"
+        },
+        {
+          "text": "不确定，能试穿吗？",
+          "meaning_my": "မသေချာဘူး၊ စမ်းဝတ်ကြည့်လို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín píng shí chuān duō dà mǎ",
+      "phonetic_my": "နင် ဖင်း ရှီး ချွမ် တွော တာ မာ"
+    },
+    {
+      "id": "s57_5_0004",
+      "level": "must",
+      "text": "您喜欢什么颜色？",
+      "meaning_my": "ဘယ်အရောင် ကြိုက်ပါသလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我想要黑色的。",
+          "meaning_my": "အနက်ရောင် လိုချင်တယ်။"
+        },
+        {
+          "text": "有浅蓝色吗？",
+          "meaning_my": "အပြာနုရောင် ရှိလား။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín xǐ huan shén me yán sè",
+      "phonetic_my": "နင် ရှီ ဟွမ် ရှန် မ ယန် ဆ"
+    },
+    {
+      "id": "s57_5_0005",
+      "level": "must",
+      "text": "您喜欢宽松的吗？",
+      "meaning_my": "ပွပွလေး ဝတ်ရတာ ကြိုက်လား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "对，宽松点舒服。",
+          "meaning_my": "ဟုတ်တယ်၊ ပွပွလေးဆို ပိုသက်သောင့်သက်သာရှိတယ်။"
+        },
+        {
+          "text": "不用，合身就行。",
+          "meaning_my": "မလိုဘူး၊ ကိုယ်နဲ့တော်ရင် ရပြီ။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín xǐ huan kuān sōng de ma",
+      "phonetic_my": "နင် ရှီ ဟွမ် ခွမ် စုန်း တ မာ"
+    },
+    {
+      "id": "s57_5_0006",
+      "level": "must",
+      "text": "这款今天有优惠。",
+      "meaning_my": "ဒီပုံစံ ဒီနေ့ လျှော့ဈေးရှိတယ်။",
+      "alternatives": [
+        {
+          "text": "这件今天打折。",
+          "meaning_my": "ဒီတစ်ထည် ဒီနေ့ လျှော့ဈေးရှိတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "现在多少钱？",
+          "meaning_my": "အခု ဘယ်လောက်လဲ။"
+        },
+        {
+          "text": "是打八折吗？",
+          "meaning_my": "နှစ်ဆယ်ရာခိုင်နှုန်း လျှော့တာလား။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè kuǎn jīn tiān yǒu yōu huì",
+      "phonetic_my": "ကျ ခွန် ကျင် ထျန် ယိုး ယိုး ဟွေ့"
+    },
+    {
+      "id": "s57_5_0007",
+      "level": "must",
+      "text": "您可以先试试这款。",
+      "meaning_my": "ဒီပုံစံကို အရင် စမ်းဝတ်ကြည့်လို့ရပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "试衣间在哪儿？",
+          "meaning_my": "အဝတ်စမ်းဝတ်ခန်း ဘယ်မှာလဲ။"
+        },
+        {
+          "text": "能给我拿M码吗？",
+          "meaning_my": "M ဆိုဒ် ယူပေးလို့ရမလား။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín kě yǐ xiān shì shì zhè kuǎn",
+      "phonetic_my": "နင် ခ ယီ ရှျန် ရှီး ရှီး ကျ ခွန်"
+    },
+    {
+      "id": "s57_5_0008",
+      "level": "must",
+      "text": "这款有黑色和蓝色。",
+      "meaning_my": "ဒီပုံစံမှာ အနက်ရောင်နဲ့ အပြာရောင် ရှိတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那我看看黑色的。",
+          "meaning_my": "ဒါဆို အနက်ရောင် ကြည့်မယ်။"
+        },
+        {
+          "text": "蓝色有M码吗？",
+          "meaning_my": "အပြာရောင် M ဆိုဒ် ရှိလား။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè kuǎn yǒu hēi sè hé lán sè",
+      "phonetic_my": "ကျ ခွန် ယိုး ဟေး ဆ ဟယ် လန် ဆ"
+    },
+    {
+      "id": "s57_5_0009",
+      "level": "must",
+      "text": "这款尺码偏小。",
+      "meaning_my": "ဒီပုံစံက ဆိုဒ် နည်းနည်းသေးတယ်။",
+      "alternatives": [
+        {
+          "text": "这款偏小。",
+          "meaning_my": "ဒီပုံစံက ဆိုဒ် နည်းနည်းသေးတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "那拿大一码吧。",
+          "meaning_my": "ဒါဆို တစ်ဆိုဒ်ကြီးတာ ယူပေးပါ။"
+        },
+        {
+          "text": "我先试试这件。",
+          "meaning_my": "ဒီတစ်ထည်ကို အရင် စမ်းဝတ်ကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè kuǎn chǐ mǎ piān xiǎo",
+      "phonetic_my": "ကျ ခွန် ချီ မာ ဖျန် ရှောင်"
+    },
+    {
+      "id": "s57_5_0010",
+      "level": "listen",
+      "text": "想要简单一点的。",
+      "meaning_my": "ရိုးရိုးရှင်းရှင်းပုံစံလေး လိုချင်တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "这款没有太多花纹。",
+          "meaning_my": "ဒီပုံစံမှာ ပန်းပုံတွေ သိပ်မပါဘူး။"
+        },
+        {
+          "text": "我给您拿件素色的。",
+          "meaning_my": "အရောင်တစ်မျိုးတည်းပါတာ ယူပေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "xiǎng yào jiǎn dān yì diǎn de",
+      "phonetic_my": "ရှျန်း ယောင် ကျန် တန် ယီ တျန် တ"
+    },
+    {
+      "id": "s57_5_0011",
+      "level": "listen",
+      "text": "有大一点的吗？",
+      "meaning_my": "နည်းနည်း ပိုကြီးတာ ရှိလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "有，我给您拿大一码。",
+          "meaning_my": "ရှိတယ်၊ တစ်ဆိုဒ်ကြီးတာ ယူပေးမယ်။"
+        },
+        {
+          "text": "我去查下库存。",
+          "meaning_my": "လက်ကျန်ရှိမရှိ သွားစစ်ကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu dà yì diǎn de ma",
+      "phonetic_my": "ယိုး တာ ယီ တျန် တ မာ"
+    },
+    {
+      "id": "s57_5_0012",
+      "level": "listen",
+      "text": "这件多少钱？",
+      "meaning_my": "ဒီအင်္ကျီ ဘယ်လောက်လဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "这件一百二。",
+          "meaning_my": "ဒီတစ်ထည် ယွမ်တစ်ရာနှစ်ဆယ်ပါ။"
+        },
+        {
+          "text": "这件现在打折。",
+          "meaning_my": "ဒီတစ်ထည် အခု လျှော့ဈေးရှိတယ်။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè jiàn duō shǎo qián",
+      "phonetic_my": "ကျ ကျန့် တွော ရှောင် ချန်"
+    },
+    {
+      "id": "s57_5_0013",
+      "level": "listen",
+      "text": "我想试一下。",
+      "meaning_my": "စမ်းဝတ်ကြည့်ချင်ပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "可以，试衣间在右边。",
+          "meaning_my": "ရပါတယ်၊ စမ်းဝတ်ခန်းက ညာဘက်မှာပါ။"
+        },
+        {
+          "text": "您穿多大码？",
+          "meaning_my": "ဘယ်ဆိုဒ် ဝတ်ပါသလဲ။"
+        }
+      ],
+      "lesson_id": "57.5",
+      "lesson_title": "57.5 服装店接待与推荐",
+      "lesson_title_my": "57.5 အဝတ်ဆိုင် ကြိုဆိုနှင့် အကြံပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xiǎng shì yí xià",
+      "phonetic_my": "ဝေါ ရှျန်း ရှီး ယီ ရှျာ"
+    },
+    {
+      "id": "s57_6_0001",
+      "level": "must",
+      "text": "试衣间在这边。",
+      "meaning_my": "အဝတ်စမ်းဝတ်ခန်း ဒီဘက်မှာပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "一次能试几件？",
+          "meaning_my": "တစ်ခါကို ဘယ်နှထည် စမ်းဝတ်လို့ရလဲ။"
+        },
+        {
+          "text": "好，我去试一下。",
+          "meaning_my": "ဟုတ်ကဲ့၊ သွားစမ်းဝတ်ကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "shì yī jiān zài zhè biān",
+      "phonetic_my": "ရှီး ယီ ကျန် ဇိုင် ကျ ပျန်"
+    },
+    {
+      "id": "s57_6_0002",
+      "level": "must",
+      "text": "这个尺码合适吗？",
+      "meaning_my": "ဒီဆိုဒ် တော်ပါသလား။",
+      "alternatives": [
+        {
+          "text": "这个码合适吗？",
+          "meaning_my": "ဒီဆိုဒ် တော်လား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "有点紧，想换大一码。",
+          "meaning_my": "နည်းနည်းကြပ်တယ်၊ တစ်ဆိုဒ်ကြီးတာ လဲချင်တယ်။"
+        },
+        {
+          "text": "正合适，就要这件。",
+          "meaning_my": "အတော်ပဲ၊ ဒီတစ်ထည် ယူမယ်။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge chǐ mǎ hé shì ma",
+      "phonetic_my": "ကျ က ချီ မာ ဟယ် ရှီး မာ"
+    },
+    {
+      "id": "s57_6_0003",
+      "level": "must",
+      "text": "我给您拿大一码。",
+      "meaning_my": "တစ်ဆိုဒ်ကြီးတာ ယူပေးပါမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "谢谢，我再试试。",
+          "meaning_my": "ကျေးဇူးပါ၊ ထပ်စမ်းဝတ်ကြည့်မယ်။"
+        },
+        {
+          "text": "能顺便拿黑色的吗？",
+          "meaning_my": "အနက်ရောင်လည်း တစ်ခါတည်း ယူပေးလို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ gěi nín ná dà yì mǎ",
+      "phonetic_my": "ဝေါ ကေး နင် နာ တာ ယီ မာ"
+    },
+    {
+      "id": "s57_6_0004",
+      "level": "must",
+      "text": "我帮您查下库存。",
+      "meaning_my": "လက်ကျန်ပစ္စည်း ရှိမရှိ စစ်ပေးမယ်။",
+      "alternatives": [
+        {
+          "text": "我查下还有没有货。",
+          "meaning_my": "လက်ကျန်ရှိမရှိ စစ်ကြည့်မယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "麻烦看看还有M码吗？",
+          "meaning_my": "M ဆိုဒ် ရှိသေးလား စစ်ပေးပါဦး။"
+        },
+        {
+          "text": "好，我在这儿等。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒီမှာ စောင့်နေမယ်။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ bāng nín chá xià kù cún",
+      "phonetic_my": "ဝေါ ပန်း နင် ချာ ရှျာ ခူး ဆွင်"
+    },
+    {
+      "id": "s57_6_0005",
+      "level": "must",
+      "text": "我问下能不能调货。",
+      "meaning_my": "တခြားဆိုင်က ပစ္စည်း ယူပေးလို့ရမရ မေးကြည့်မယ်။",
+      "alternatives": [
+        {
+          "text": "我问问能不能调货。",
+          "meaning_my": "တခြားဆိုင်က ပစ္စည်း ယူပေးလို့ရမရ မေးကြည့်မယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "大概要等几天？",
+          "meaning_my": "ဘယ်နှရက်လောက် စောင့်ရမလဲ။"
+        },
+        {
+          "text": "可以寄到家吗？",
+          "meaning_my": "အိမ်အထိ ပို့ပေးလို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ wèn xià néng bù néng tiáo huò",
+      "phonetic_my": "ဝေါ ဝန် ရှျာ နန်း ပု နန်း ထျောင် ဟွေါ"
+    },
+    {
+      "id": "s57_6_0006",
+      "level": "must",
+      "text": "需要帮您留一件吗？",
+      "meaning_my": "တစ်ထည် ခဏ ဖယ်ထားပေးရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "麻烦留到下午。",
+          "meaning_my": "နေ့လယ်ပိုင်းအထိ ဖယ်ထားပေးပါဦး။"
+        },
+        {
+          "text": "不用，我现在买。",
+          "meaning_my": "မလိုပါဘူး၊ အခု ဝယ်မယ်။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "xū yào bāng nín liú yí jiàn ma",
+      "phonetic_my": "ရှွီ ယောင် ပန်း နင် လျိုး ယီ ကျန့် မာ"
+    },
+    {
+      "id": "s57_6_0007",
+      "level": "must",
+      "text": "要帮您包起来吗？",
+      "meaning_my": "ထုပ်ပိုးပေးရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，帮我装袋吧。",
+          "meaning_my": "လိုပါတယ်၊ အိတ်ထဲ ထည့်ပေးပါ။"
+        },
+        {
+          "text": "不用，我直接拿走。",
+          "meaning_my": "မလိုပါဘူး၊ ဒီအတိုင်း ယူသွားမယ်။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "yào bāng nín bāo qǐ lái ma",
+      "phonetic_my": "ယောင် ပန်း နင် ပေါင် ချီ လိုင် မာ"
+    },
+    {
+      "id": "s57_6_0008",
+      "level": "must",
+      "text": "仓库只剩最后一件。",
+      "meaning_my": "ဂိုဒေါင်မှာ နောက်ဆုံး တစ်ထည်ပဲ ကျန်တော့တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我能先看看吗？",
+          "meaning_my": "အရင် တစ်ချက် ကြည့်လို့ရမလား။"
+        },
+        {
+          "text": "那帮我留着吧。",
+          "meaning_my": "ဒါဆို ကျွန်တော့်အတွက် ဖယ်ထားပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "cāng kù zhǐ shèng zuì hòu yí jiàn",
+      "phonetic_my": "ဆန်း ခူး ကျီး ရှင့် ဇွေ့ ဟိုး ယီ ကျန့်"
+    },
+    {
+      "id": "s57_6_0009",
+      "level": "must",
+      "text": "收银台在前面。",
+      "meaning_my": "ငွေရှင်းကောင်တာ ရှေ့ဘက်မှာပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我去付款。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ငွေသွားရှင်းမယ်။"
+        },
+        {
+          "text": "能在这边扫码吗？",
+          "meaning_my": "ဒီဘက်မှာ QR စကန်ပြီး ငွေရှင်းလို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "shōu yín tái zài qián miàn",
+      "phonetic_my": "ရှိုး ယင် ထိုင် ဇိုင် ချန် မျန်"
+    },
+    {
+      "id": "s57_6_0010",
+      "level": "listen",
+      "text": "这个有点紧。",
+      "meaning_my": "ဒီဟာ နည်းနည်းကြပ်တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "给您拿大一码吧。",
+          "meaning_my": "တစ်ဆိုဒ်ကြီးတာ ယူပေးမယ်နော်။"
+        },
+        {
+          "text": "需要换宽松款吗？",
+          "meaning_my": "ပိုပွတဲ့ပုံစံ လဲပေးရမလား။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge yǒu diǎn jǐn",
+      "phonetic_my": "ကျ က ယိုး တျန် ကျင်"
+    },
+    {
+      "id": "s57_6_0011",
+      "level": "listen",
+      "text": "我想再试一件。",
+      "meaning_my": "နောက်တစ်ထည် ထပ်စမ်းဝတ်ချင်တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "可以，您慢慢试。",
+          "meaning_my": "ရပါတယ်၊ ဖြည်းဖြည်း စမ်းဝတ်ကြည့်ပါ။"
+        },
+        {
+          "text": "要不要拿大一码？",
+          "meaning_my": "တစ်ဆိုဒ်ကြီးတာ ယူပေးရမလား။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xiǎng zài shì yí jiàn",
+      "phonetic_my": "ဝေါ ရှျန်း ဇိုင် ရှီး ယီ ကျန့်"
+    },
+    {
+      "id": "s57_6_0012",
+      "level": "listen",
+      "text": "我要这件。",
+      "meaning_my": "ဒီတစ်ထည် ယူမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我帮您装起来。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ထုပ်ပိုးပေးမယ်။"
+        },
+        {
+          "text": "您到前面结账就行。",
+          "meaning_my": "ရှေ့ကောင်တာမှာ ငွေရှင်းပေးရုံပါပဲ။"
+        }
+      ],
+      "lesson_id": "57.6",
+      "lesson_title": "57.6 服装店试穿换码与成交",
+      "lesson_title_my": "57.6 အဝတ်စမ်းဝတ်၊ size လဲနှင့် အရောင်းပိတ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ yào zhè jiàn",
+      "phonetic_my": "ဝေါ ယောင် ကျ ကျန့်"
+    },
+    {
+      "id": "s57_7_0001",
+      "level": "must",
+      "text": "您好，有预订吗？",
+      "meaning_my": "မင်္ဂလာပါ၊ အခန်း ကြိုတင်မှာထားပါသလား။",
+      "alternatives": [
+        {
+          "text": "请问有预订吗？",
+          "meaning_my": "အခန်း ကြိုတင်မှာထားပါသလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "有，用我的名字订的。",
+          "meaning_my": "မှာထားပါတယ်၊ ကျွန်တော့်နာမည်နဲ့ပါ။"
+        },
+        {
+          "text": "没有，还有空房吗？",
+          "meaning_my": "မမှာထားဘူး၊ အခန်းလွတ် ရှိသေးလား။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "nín hǎo yǒu yù dìng ma",
+      "phonetic_my": "နင် ဟောင် ယိုး ယွီ တင်း မာ"
+    },
+    {
+      "id": "s57_7_0002",
+      "level": "must",
+      "text": "我核对一下预订。",
+      "meaning_my": "အခန်းကြိုတင်မှာထားတဲ့စာရင်း စစ်ကြည့်ပါမယ်။",
+      "alternatives": [
+        {
+          "text": "我先查一下订单。",
+          "meaning_my": "ဘိုကင်စာရင်း အရင်စစ်ကြည့်မယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我订了两晚。",
+          "meaning_my": "နှစ်ည ကြိုမှာထားပါတယ်။"
+        },
+        {
+          "text": "需要给您订单号吗？",
+          "meaning_my": "ဘိုကင်နံပါတ် ပေးရမလား။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "wǒ hé duì yí xià yù dìng",
+      "phonetic_my": "ဝေါ ဟယ် တွေး ယီ ရှျာ ယွီ တင်း"
+    },
+    {
+      "id": "s57_7_0003",
+      "level": "must",
+      "text": "这是您的房卡。",
+      "meaning_my": "ဒါ အခန်းဖွင့်ကတ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "谢谢，房间几楼？",
+          "meaning_my": "ကျေးဇူးပါ၊ အခန်း ဘယ်ထပ်မှာလဲ။"
+        },
+        {
+          "text": "一共给几张房卡？",
+          "meaning_my": "အခန်းကတ် ဘယ်နှကတ် ပေးမှာလဲ။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "zhè shì nín de fáng kǎ",
+      "phonetic_my": "ကျ ရှီး နင် တ ဖန်း ခါ"
+    },
+    {
+      "id": "s57_7_0004",
+      "level": "must",
+      "text": "早餐在二楼。",
+      "meaning_my": "မနက်စာက ဒုတိယထပ်မှာပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "几点开始供应？",
+          "meaning_my": "ဘယ်နှနာရီ စပေးတာလဲ။"
+        },
+        {
+          "text": "房费包含早餐吗？",
+          "meaning_my": "အခန်းခထဲ မနက်စာ ပါလား။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "zǎo cān zài èr lóu",
+      "phonetic_my": "ဇောက် ဆန် ဇိုင် အာ လော်"
+    },
+    {
+      "id": "s57_7_0005",
+      "level": "must",
+      "text": "中午十二点前退房。",
+      "meaning_my": "နေ့လယ် ဆယ့်နှစ်နာရီမတိုင်ခင် အခန်းအပ်ရပါမယ်။",
+      "alternatives": [
+        {
+          "text": "十二点前要退房。",
+          "meaning_my": "ဆယ့်နှစ်နာရီမတိုင်ခင် အခန်းအပ်ရမယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "能延迟一小时吗？",
+          "meaning_my": "တစ်နာရီလောက် နောက်ကျပြီး အခန်းအပ်လို့ရလား။"
+        },
+        {
+          "text": "要把房卡交前台吗？",
+          "meaning_my": "အခန်းကတ်ကို ရှေ့ကောင်တာမှာ ပြန်အပ်ရမလား။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "zhōng wǔ shí èr diǎn qián tuì fáng",
+      "phonetic_my": "ကျုန်း ဝူ ရှီး အာ တျန် ချန် ထွေ့ ဖန်း"
+    },
+    {
+      "id": "s57_7_0006",
+      "level": "must",
+      "text": "我帮您办理退房。",
+      "meaning_my": "အခန်းအပ်တဲ့ကိစ္စ လုပ်ပေးပါမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "押金什么时候退？",
+          "meaning_my": "စပေါ်ငွေ ဘယ်တော့ ပြန်ရမလဲ။"
+        },
+        {
+          "text": "需要等查房吗？",
+          "meaning_my": "အခန်းစစ်ပြီးတဲ့အထိ စောင့်ရမလား။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "wǒ bāng nín bàn lǐ tuì fáng",
+      "phonetic_my": "ဝေါ ပန်း နင် ပန် လီ ထွေ့ ဖန်း"
+    },
+    {
+      "id": "s57_7_0007",
+      "level": "must",
+      "text": "行李可以寄存在这儿。",
+      "meaning_my": "ခရီးဆောင်အိတ်တွေ ဒီမှာ ခဏအပ်ထားလို့ရပါတယ်။",
+      "alternatives": [
+        {
+          "text": "行李可以先放这儿。",
+          "meaning_my": "ခရီးဆောင်အိတ်တွေ ဒီမှာ ခဏထားလို့ရတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "能寄存到下午吗？",
+          "meaning_my": "နေ့လယ်ပိုင်းအထိ အပ်ထားလို့ရလား။"
+        },
+        {
+          "text": "需要拿寄存牌吗？",
+          "meaning_my": "အိတ်အပ်တဲ့ လက်မှတ် ယူရမလား။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "xíng lǐ kě yǐ jì cún zài zhè er",
+      "phonetic_my": "ရှင်း လီ ခ ယီ ကျီ ဆွင် ဇိုင် ကျ အာ"
+    },
+    {
+      "id": "s57_7_0008",
+      "level": "must",
+      "text": "两位都需要登记。",
+      "meaning_my": "တည်းမယ့် နှစ်ယောက်လုံး စာရင်းသွင်းရပါမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我们都有护照。",
+          "meaning_my": "ဟုတ်ကဲ့၊ နှစ်ယောက်လုံး ပတ်စ်ပို့ ရှိတယ်။"
+        },
+        {
+          "text": "要一起到前台吗？",
+          "meaning_my": "နှစ်ယောက်လုံး ရှေ့ကောင်တာကို လာရမလား။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [
+        {
+          "text": "酒店登记客人证件和个人信息时，只收集依法和业务必要的信息并妥善保管。",
+          "text_my": "ဟိုတယ်မှာ ဧည့်သည်အချက်အလက်ကို လိုအပ်သလောက်ပဲ ယူပြီး လုံခြုံစွာ ထိန်းသိမ်းပါ။"
+        }
+      ],
+      "pinyin": "liǎng wèi dōu xū yào dēng jì",
+      "phonetic_my": "လျန်း ဝေး တိုး ရှွီ ယောင် တန်း ကျီ"
+    },
+    {
+      "id": "s57_7_0009",
+      "level": "listen",
+      "text": "我有预订。",
+      "meaning_my": "အခန်း ကြိုတင်မှာထားပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "请问预订姓名？",
+          "meaning_my": "ဘယ်နာမည်နဲ့ မှာထားတာလဲ။"
+        },
+        {
+          "text": "麻烦出示预订信息。",
+          "meaning_my": "ကြိုတင်မှာထားတဲ့ အချက်အလက် ပြပေးပါဦး။"
+        }
+      ],
+      "lesson_id": "57.7",
+      "lesson_title": "57.7 酒店前台入住退房",
+      "lesson_title_my": "57.7 ဟိုတယ်ရှေ့ကောင်တာ check-in/check-out",
+      "mistakes": [],
+      "pinyin": "wǒ yǒu yù dìng",
+      "phonetic_my": "ဝေါ ယိုး ယွီ တင်း"
+    },
+    {
+      "id": "s57_8_0001",
+      "level": "must",
+      "text": "给您添麻烦了，抱歉。",
+      "meaning_my": "အဆင်မပြေဖြစ်သွားလို့ တောင်းပန်ပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "请尽快帮我处理。",
+          "meaning_my": "မြန်မြန်လေး ကူဖြေရှင်းပေးပါ။"
+        },
+        {
+          "text": "能换个房间吗？",
+          "meaning_my": "တခြားအခန်း လဲပေးလို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "gěi nín tiān má fan le bào qiàn",
+      "phonetic_my": "ကေး နင် ထျန် မာ ဖန် လ ပေါက် ချျန့်"
+    },
+    {
+      "id": "s57_8_0002",
+      "level": "must",
+      "text": "我马上安排维修。",
+      "meaning_my": "ပြင်ပေးမယ့်သူကို ချက်ချင်း စီစဉ်ပေးမယ်။",
+      "alternatives": [
+        {
+          "text": "我马上叫人来修。",
+          "meaning_my": "ပြင်ပေးဖို့ လူ ချက်ချင်း ခေါ်ပေးမယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "大概多久能来？",
+          "meaning_my": "ဘယ်လောက်ကြာရင် လာနိုင်မလဲ။"
+        },
+        {
+          "text": "我先在房间等。",
+          "meaning_my": "အခန်းထဲမှာ အရင် စောင့်နေမယ်။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "wǒ mǎ shàng ān pái wéi xiū",
+      "phonetic_my": "ဝေါ မာ ရှန်း အန် ဖိုင် ဝေး ရှိုး"
+    },
+    {
+      "id": "s57_8_0003",
+      "level": "must",
+      "text": "给您送两条毛巾。",
+      "meaning_my": "မျက်နှာသုတ်ပဝါ နှစ်ထည် ပို့ပေးပါမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "谢谢，送到房间就好。",
+          "meaning_my": "ကျေးဇူးပါ၊ အခန်းကိုပဲ ပို့ပေးပါ။"
+        },
+        {
+          "text": "大概几分钟到？",
+          "meaning_my": "နောက် ဘယ်နှမိနစ်လောက်ဆို ရောက်မလဲ။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "gěi nín sòng liǎng tiáo máo jīn",
+      "phonetic_my": "ကေး နင် ဆုန်း လျန်း ထျောင် မောက် ကျင်"
+    },
+    {
+      "id": "s57_8_0004",
+      "level": "must",
+      "text": "我帮您重启网络。",
+      "meaning_my": "အင်တာနက်စနစ်ကို ပြန်စပေးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我再试着连接。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ပြန်ချိတ်ကြည့်မယ်။"
+        },
+        {
+          "text": "如果还不行怎么办？",
+          "meaning_my": "မရသေးရင် ဘယ်လိုလုပ်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "wǒ bāng nín chóng qǐ wǎng luò",
+      "phonetic_my": "ဝေါ ပန်း နင် ချုန်း ချီ ဝမ်း လွေါ"
+    },
+    {
+      "id": "s57_8_0005",
+      "level": "must",
+      "text": "我查下还有没有空房。",
+      "meaning_my": "အခန်းလွတ် ရှိသေးလား စစ်ကြည့်မယ်။",
+      "alternatives": [
+        {
+          "text": "我帮您看看空房。",
+          "meaning_my": "အခန်းလွတ်ရှိမရှိ ကြည့်ပေးမယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "最好换间安静点的。",
+          "meaning_my": "တိတ်ဆိတ်တဲ့အခန်း လဲပေးရင် ကောင်းမယ်။"
+        },
+        {
+          "text": "换房需要加钱吗？",
+          "meaning_my": "အခန်းလဲရင် ငွေထပ်ပေးရမလား။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "wǒ chá xià hái yǒu méi yǒu kōng fáng",
+      "phonetic_my": "ဝေါ ချာ ရှျာ ဟိုင်း ယိုး မေး ယိုး ခုန်း ဖန်း"
+    },
+    {
+      "id": "s57_8_0006",
+      "level": "must",
+      "text": "处理好了再联系您。",
+      "meaning_my": "ဖြေရှင်းပြီးရင် ပြန်ဆက်သွယ်ပါမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "麻烦给我打电话。",
+          "meaning_my": "ကျွန်တော့်ကို ဖုန်းဆက်ပေးပါဦး။"
+        },
+        {
+          "text": "好，请尽快通知我。",
+          "meaning_my": "ဟုတ်ကဲ့၊ မြန်မြန် အသိပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "chù lǐ hǎo le zài lián xì nín",
+      "phonetic_my": "ချူး လီ ဟောင် လ ဇိုင် လျန် ရှီး နင်"
+    },
+    {
+      "id": "s57_8_0007",
+      "level": "must",
+      "text": "客房人员马上过去。",
+      "meaning_my": "အခန်းဝန်ဆောင်မှုဝန်ထမ်း မကြာခင် လာပါမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我在房间等着。",
+          "meaning_my": "အခန်းထဲမှာ စောင့်နေမယ်။"
+        },
+        {
+          "text": "请先敲门，谢谢。",
+          "meaning_my": "တံခါး အရင်ခေါက်ပေးပါ၊ ကျေးဇူးပါ။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "kè fáng rén yuán mǎ shàng guò qù",
+      "phonetic_my": "ခ ဖန်း ရန် ယွမ် မာ ရှန်း ကွော ချွီ"
+    },
+    {
+      "id": "s57_8_0008",
+      "level": "listen",
+      "text": "空调坏了。",
+      "meaning_my": "အဲယားကွန်း ပျက်နေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "抱歉，我安排人检查。",
+          "meaning_my": "တောင်းပန်ပါတယ်၊ လာစစ်ပေးဖို့ စီစဉ်မယ်။"
+        },
+        {
+          "text": "先帮您换房可以吗？",
+          "meaning_my": "အရင် အခန်းလဲပေးလို့ရမလား။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "kōng tiáo huài le",
+      "phonetic_my": "ခုန်း ထျောင် ဟွိုက် လ"
+    },
+    {
+      "id": "s57_8_0009",
+      "level": "listen",
+      "text": "我想找经理。",
+      "meaning_my": "မန်နေဂျာနဲ့ တွေ့ချင်ပါတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，我帮您联系。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဆက်သွယ်ပေးမယ်။"
+        },
+        {
+          "text": "经理暂时不在，我请他回电。",
+          "meaning_my": "မန်နေဂျာ အခု မရှိသေးဘူး၊ ပြန်ဖုန်းဆက်ခိုင်းပေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.8",
+      "lesson_title": "57.8 酒店客诉与客房服务",
+      "lesson_title_my": "57.8 ဟိုတယ်တိုင်ကြားမှုနှင့် အခန်းဝန်ဆောင်မှု",
+      "mistakes": [],
+      "pinyin": "wǒ xiǎng zhǎo jīng lǐ",
+      "phonetic_my": "ဝေါ ရှျန်း ကျောင် ကျင်း လီ"
+    },
+    {
+      "id": "s57_9_0001",
+      "level": "must",
+      "text": "您好，想怎么剪？",
+      "meaning_my": "မင်္ဂလာပါ၊ ဆံပင် ဘယ်လိုညှပ်ချင်ပါသလဲ။",
+      "alternatives": [
+        {
+          "text": "想剪什么发型？",
+          "meaning_my": "ဘယ်လို ဆံပင်ပုံစံ ညှပ်ချင်လဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "两边剪短一点。",
+          "meaning_my": "ဘေးနှစ်ဖက် နည်းနည်းတိုအောင် ညှပ်ပေးပါ။"
+        },
+        {
+          "text": "就修一修，不要太短。",
+          "meaning_my": "နည်းနည်းပဲ သပ်ပေးပါ၊ အရမ်းမတိုပါနဲ့။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín hǎo xiǎng zěn me jiǎn",
+      "phonetic_my": "နင် ဟောင် ရှျန်း ဇန် မ ကျန်"
+    },
+    {
+      "id": "s57_9_0002",
+      "level": "must",
+      "text": "两边剪多短？",
+      "meaning_my": "ဘေးနှစ်ဖက် ဘယ်လောက်တိုအောင် ညှပ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "剪短一点就好。",
+          "meaning_my": "နည်းနည်းတိုရုံပဲ ညှပ်ပေးပါ။"
+        },
+        {
+          "text": "按这张照片剪。",
+          "meaning_my": "ဒီဓာတ်ပုံထဲကအတိုင်း ညှပ်ပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "liǎng biān jiǎn duō duǎn",
+      "phonetic_my": "လျန်း ပျန် ကျန် တွော တွမ်"
+    },
+    {
+      "id": "s57_9_0003",
+      "level": "must",
+      "text": "上面留多长？",
+      "meaning_my": "အပေါ်ဆံပင် ဘယ်လောက်ရှည်အောင် ချန်ထားရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "上面别剪太短。",
+          "meaning_my": "အပေါ်ကို အရမ်းမတိုအောင် ညှပ်ပါ။"
+        },
+        {
+          "text": "留三厘米左右。",
+          "meaning_my": "သုံးစင်တီမီတာလောက် ချန်ထားပါ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "shàng miàn liú duō cháng",
+      "phonetic_my": "ရှန်း မျန် လျိုး တွော ချန်း"
+    },
+    {
+      "id": "s57_9_0004",
+      "level": "must",
+      "text": "刘海要剪吗？",
+      "meaning_my": "ရှေ့ဆံပင် ညှပ်ပေးရမလား။",
+      "alternatives": [
+        {
+          "text": "前面的头发要剪吗？",
+          "meaning_my": "ရှေ့ဆံပင် ညှပ်ပေးရမလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "稍微修一下就行。",
+          "meaning_my": "နည်းနည်းပဲ သပ်ပေးပါ။"
+        },
+        {
+          "text": "不用，刘海留着。",
+          "meaning_my": "မလိုဘူး၊ ရှေ့ဆံပင်ကို ချန်ထားပါ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "liú hǎi yào jiǎn ma",
+      "phonetic_my": "လျိုး ဟိုင် ယောင် ကျန် မာ"
+    },
+    {
+      "id": "s57_9_0005",
+      "level": "must",
+      "text": "这个长度可以吗？",
+      "meaning_my": "ဒီအရှည်ဆို အဆင်ပြေလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "可以，就这样。",
+          "meaning_my": "ရတယ်၊ ဒီအတိုင်းပဲ။"
+        },
+        {
+          "text": "再短一点点。",
+          "meaning_my": "နည်းနည်းလေး ထပ်တိုပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge cháng dù kě yǐ ma",
+      "phonetic_my": "ကျ က ချန်း တူ ခ ယီ မာ"
+    },
+    {
+      "id": "s57_9_0006",
+      "level": "must",
+      "text": "需要洗头吗？",
+      "meaning_my": "ခေါင်းလျှော်ပေးရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，剪完再洗吧。",
+          "meaning_my": "လျှော်မယ်၊ ညှပ်ပြီးမှ လျှော်ပေးပါ။"
+        },
+        {
+          "text": "不用，直接剪就行。",
+          "meaning_my": "မလိုပါဘူး၊ တန်းညှပ်ပေးပါ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "xū yào xǐ tóu ma",
+      "phonetic_my": "ရှွီ ယောင် ရှီ ထိုး မာ"
+    },
+    {
+      "id": "s57_9_0007",
+      "level": "must",
+      "text": "要打薄一点吗？",
+      "meaning_my": "ဆံပင် နည်းနည်း ပါးအောင် လုပ်ပေးရမလား။",
+      "alternatives": [
+        {
+          "text": "头发要打薄吗？",
+          "meaning_my": "ဆံပင် ပါးအောင် လုပ်ပေးရမလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "稍微打薄一点。",
+          "meaning_my": "နည်းနည်းပဲ ပါးအောင် လုပ်ပေးပါ။"
+        },
+        {
+          "text": "不用打薄。",
+          "meaning_my": "ပါးအောင် မလုပ်ပါနဲ့။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [
+        {
+          "text": "打薄是减少头发厚重感，不等于把长度剪短。",
+          "text_my": "ဆံပင်ပါးအောင်လုပ်တာက ထူထပ်မှုလျှော့တာပါ၊ အရှည်တိုအောင် ညှပ်တာနဲ့ မတူပါဘူး။"
+        }
+      ],
+      "pinyin": "yào dǎ báo yì diǎn ma",
+      "phonetic_my": "ယောင် တာ ပေါင် ယီ တျန် မာ"
+    },
+    {
+      "id": "s57_9_0008",
+      "level": "must",
+      "text": "剪好了，您看看。",
+      "meaning_my": "ညှပ်ပြီးပါပြီ၊ တစ်ချက် ကြည့်ပါဦး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "很好，就这样吧。",
+          "meaning_my": "ကောင်းတယ်၊ ဒီအတိုင်းပဲ။"
+        },
+        {
+          "text": "后面能再修一下吗？",
+          "meaning_my": "နောက်ဘက်ကို နည်းနည်း ထပ်သပ်ပေးလို့ရလား။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "jiǎn hǎo le nín kàn kàn",
+      "phonetic_my": "ကျန် ဟောင် လ နင် ခန် ခန်"
+    },
+    {
+      "id": "s57_9_0009",
+      "level": "must",
+      "text": "您只修一下吗？",
+      "meaning_my": "နည်းနည်းပဲ သပ်ညှပ်မှာလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "对，别剪太多。",
+          "meaning_my": "ဟုတ်တယ်၊ အများကြီး မညှပ်ပါနဲ့။"
+        },
+        {
+          "text": "不是，我想剪短一点。",
+          "meaning_my": "မဟုတ်ဘူး၊ နည်းနည်းတိုအောင် ညှပ်ချင်တယ်။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "nín zhǐ xiū yí xià ma",
+      "phonetic_my": "နင် ကျီး ရှိုး ယီ ရှျာ မာ"
+    },
+    {
+      "id": "s57_9_0010",
+      "level": "must",
+      "text": "耳朵旁边要露出来吗？",
+      "meaning_my": "နားဘေးဆံပင်ကို ရှင်းပေးရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，耳朵露出来。",
+          "meaning_my": "ဟုတ်တယ်၊ နားပေါ်အောင် ညှပ်ပေးပါ။"
+        },
+        {
+          "text": "不用，稍微盖一点。",
+          "meaning_my": "မလိုဘူး၊ နည်းနည်း ဖုံးနေပါစေ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "ěr duǒ páng biān yào lòu chū lái ma",
+      "phonetic_my": "အာ တွော် ဖန်း ပျန် ယောင် လိုး ချူ လိုင် မာ"
+    },
+    {
+      "id": "s57_9_0011",
+      "level": "must",
+      "text": "前面还有两位。",
+      "meaning_my": "ရှေ့မှာ လူနှစ်ယောက် စောင့်နေသေးတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "大概要等多久？",
+          "meaning_my": "နောက် ဘယ်လောက်ကြာ စောင့်ရမလဲ။"
+        },
+        {
+          "text": "那我等一下吧。",
+          "meaning_my": "ဒါဆို ခဏ စောင့်ပါမယ်။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "qián miàn hái yǒu liǎng wèi",
+      "phonetic_my": "ချန် မျန် ဟိုင်း ယိုး လျန်း ဝေး"
+    },
+    {
+      "id": "s57_9_0012",
+      "level": "must",
+      "text": "大概要等二十分钟。",
+      "meaning_my": "မိနစ်နှစ်ဆယ်လောက် စောင့်ရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我坐这儿等。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒီမှာ ထိုင်စောင့်မယ်။"
+        },
+        {
+          "text": "那我晚点再来。",
+          "meaning_my": "ဒါဆို နောက်မှ ပြန်လာမယ်။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "dà gài yào děng èr shí fēn zhōng",
+      "phonetic_my": "တာ ကိုင် ယောင် တန်း အာ ရှီး ဖန် ကျုန်း"
+    },
+    {
+      "id": "s57_9_0013",
+      "level": "listen",
+      "text": "我想剪头发。",
+      "meaning_my": "ဆံပင်ညှပ်ချင်ပါတယ်။",
+      "alternatives": [
+        {
+          "text": "我来剪头发。",
+          "meaning_my": "ဆံပင်လာညှပ်တာပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好的，想怎么剪？",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဘယ်လိုညှပ်ချင်လဲ။"
+        },
+        {
+          "text": "前面还有一位，稍等。",
+          "meaning_my": "ရှေ့မှာ တစ်ယောက် ကျန်သေးလို့ ခဏစောင့်ပါ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xiǎng jiǎn tóu fā",
+      "phonetic_my": "ဝေါ ရှျန်း ကျန် ထိုး ဖာ"
+    },
+    {
+      "id": "s57_9_0014",
+      "level": "listen",
+      "text": "两边短一点。",
+      "meaning_my": "ဘေးနှစ်ဖက် နည်းနည်းတိုပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，上面要留长吗？",
+          "meaning_my": "ဟုတ်ကဲ့၊ အပေါ်ကို ရှည်ရှည် ချန်ထားရမလား။"
+        },
+        {
+          "text": "要露出耳朵吗？",
+          "meaning_my": "နားပေါ်အောင် ညှပ်ပေးရမလား။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "liǎng biān duǎn yì diǎn",
+      "phonetic_my": "လျန်း ပျန် တွမ် ယီ တျန်"
+    },
+    {
+      "id": "s57_9_0015",
+      "level": "listen",
+      "text": "上面留长一点。",
+      "meaning_my": "အပေါ်ဆံပင် နည်းနည်းရှည်ရှည် ချန်ထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好的，顶部少剪点。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အပေါ်ကို နည်းနည်းပဲ ညှပ်မယ်။"
+        },
+        {
+          "text": "大概留几厘米？",
+          "meaning_my": "ဘယ်နှစင်တီမီတာလောက် ချန်ထားရမလဲ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "shàng miàn liú cháng yì diǎn",
+      "phonetic_my": "ရှန်း မျန် လျိုး ချန်း ယီ တျန်"
+    },
+    {
+      "id": "s57_9_0016",
+      "level": "listen",
+      "text": "别剪太短。",
+      "meaning_my": "အရမ်းတိုအောင် မညှပ်ပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我先少剪一点。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အရင် နည်းနည်းပဲ ညှပ်မယ်။"
+        },
+        {
+          "text": "我剪一点给您看看。",
+          "meaning_my": "နည်းနည်းညှပ်ပြီး ပြပေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "bié jiǎn tài duǎn",
+      "phonetic_my": "ပျဲ ကျန် ထိုင် တွမ်"
+    },
+    {
+      "id": "s57_9_0017",
+      "level": "listen",
+      "text": "刘海剪一点。",
+      "meaning_my": "ရှေ့ဆံပင် နည်းနည်း ညှပ်ပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "剪到眉毛上面吗？",
+          "meaning_my": "မျက်ခုံးပေါ်အထိ ညှပ်ပေးရမလား။"
+        },
+        {
+          "text": "好，稍微修整一下。",
+          "meaning_my": "ဟုတ်ကဲ့၊ နည်းနည်းပဲ သပ်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "liú hǎi jiǎn yì diǎn",
+      "phonetic_my": "လျိုး ဟိုင် ကျန် ယီ တျန်"
+    },
+    {
+      "id": "s57_9_0018",
+      "level": "listen",
+      "text": "我只想修一下。",
+      "meaning_my": "နည်းနည်းပဲ သပ်ညှပ်ချင်တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，不会剪太短。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အရမ်းတိုအောင် မညှပ်ပါဘူး။"
+        },
+        {
+          "text": "两边也稍微修吗？",
+          "meaning_my": "ဘေးနှစ်ဖက်လည်း နည်းနည်း သပ်ပေးရမလား။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zhǐ xiǎng xiū yí xià",
+      "phonetic_my": "ဝေါ ကျီး ရှျန်း ရှိုး ယီ ရှျာ"
+    },
+    {
+      "id": "s57_9_0019",
+      "level": "listen",
+      "text": "别打得太薄。",
+      "meaning_my": "အရမ်းပါးအောင် မလုပ်ပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，只稍微修一下。",
+          "meaning_my": "ဟုတ်ကဲ့၊ နည်းနည်းပဲ သပ်ပေးမယ်။"
+        },
+        {
+          "text": "那我不打薄了。",
+          "meaning_my": "ဒါဆို ပါးအောင် မလုပ်တော့ဘူး။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "bié dǎ děi tài báo",
+      "phonetic_my": "ပျဲ တာ တေ ထိုင် ပေါင်"
+    },
+    {
+      "id": "s57_9_0020",
+      "level": "listen",
+      "text": "剪发大概多少钱？",
+      "meaning_my": "ဆံပင်ညှပ်ခ ဘယ်လောက်လောက် ကျမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "普通剪发三十元。",
+          "meaning_my": "ပုံမှန်ညှပ်ခ ယွမ်သုံးဆယ်ပါ။"
+        },
+        {
+          "text": "洗剪一起是五十元。",
+          "meaning_my": "ခေါင်းလျှော်ပြီးညှပ်ရင် ယွမ်ငါးဆယ်ပါ။"
+        }
+      ],
+      "lesson_id": "57.9",
+      "lesson_title": "57.9 理发店接待与剪发确认",
+      "lesson_title_my": "57.9 ဆံပင်ညှပ်ဆိုင် ကြိုဆိုနှင့် အတည်ပြုခြင်း",
+      "mistakes": [],
+      "pinyin": "jiǎn fā dà gài duō shǎo qián",
+      "phonetic_my": "ကျန် ဖာ တာ ကိုင် တွော ရှောင် ချန်"
+    }
+  ],
+  "quality_notes": {
+    "reply_first": true,
+    "short_natural": true,
+    "when_to_use_removed": true,
+    "source_links_preserved": true,
+    "burmese_native_review_required": true,
+    "phonetic_my_approximate": true
+  }
+}
