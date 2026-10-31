@@ -1,9 +1,9 @@
 {
-  "version": 61,
+  "version": 62,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3575,
+  "item_count": 3630,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2142,12 +2142,34 @@
           "theme_id": "52",
           "title": "入职报到",
           "title_my": "အလုပ်စဝင်ခြင်းနှင့် မှတ်ပုံတင်ခြင်း",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 55,
+          "lessons": [
+            {
+              "id": "52.1",
+              "title": "52.1 第一天报到",
+              "title_my": "52.1 ပထမနေ့ အလုပ်ဝင်စာရင်းသွင်းခြင်း",
+              "count": 18
+            },
+            {
+              "id": "52.2",
+              "title": "52.2 找主管、工位和第一项任务",
+              "title_my": "52.2 supervisor၊ အလုပ်နေရာနှင့် ပထမတာဝန်",
+              "count": 19
+            },
+            {
+              "id": "52.3",
+              "title": "52.3 工牌制服与上岗规则",
+              "title_my": "52.3 ဝန်ထမ်းကတ်၊ uniform နှင့် အလုပ်ခွင်စည်းမျဉ်း",
+              "count": 18
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 3,
+          "data_url": "packs/52.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/52.json",
+          "data_version": 2
         },
         {
           "theme_id": "53",
@@ -2250,9 +2272,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme51-v2-short-natural-job-interview-20261031",
-  "source_status": "50 published themes, 10 missing; pronunciation review pending",
+  "revision": "spoken-theme52-v2-natural-onboarding-20261031",
+  "source_status": "51 published themes, 9 missing; pronunciation review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T05:15:00Z",
+  "updated_at": "2026-10-31T05:40:00Z",
   "packs_base_path": "packs/"
 }
