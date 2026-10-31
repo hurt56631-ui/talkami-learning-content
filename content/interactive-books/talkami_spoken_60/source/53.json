@@ -1,0 +1,1879 @@
+{
+  "schema_version": 2,
+  "version": 2,
+  "updated_at": "2026-10-31T06:05:00Z",
+  "zone_id": 8,
+  "zone_title": "职场工作",
+  "theme_id": "53",
+  "theme_title": "53 日常工作沟通",
+  "theme_title_my": "53 နေ့စဉ်အလုပ်ဆက်သွယ်မှု",
+  "lesson_count": 4,
+  "source_phrase_count": 75,
+  "phrase_count": 68,
+  "lessons": [
+    {
+      "lesson_id": "53.1",
+      "pack_id": "course53_1_instructions",
+      "title": "53.1 接受工作指令",
+      "title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "phrase_count": 17,
+      "phrase_ids": [
+        "s53_1_0001",
+        "s53_1_0002",
+        "s53_1_0003",
+        "s53_1_0004",
+        "s53_1_0005",
+        "s53_1_0006",
+        "s53_1_0007",
+        "s53_1_0008",
+        "s53_1_0009",
+        "s53_1_0010",
+        "s53_1_0011",
+        "s53_1_0012",
+        "s53_1_0013",
+        "s53_1_0014",
+        "s53_1_0015",
+        "s53_1_0016",
+        "s53_1_0017"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "53.1",
+          "source_role": "must",
+          "text": "今天做什么？",
+          "status": "alternative",
+          "canonical_id": "s52_2_0007",
+          "canonical_text": "今天先做什么？",
+          "primary_lesson": "52.2",
+          "note": "同一交际目的的自然变体，吸收到同一核心卡。"
+        },
+        {
+          "lesson_id": "53.1",
+          "source_role": "must",
+          "text": "要先做哪个？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s09_02_0014",
+          "canonical_text": "先做哪个？",
+          "canonical_course": "09.2",
+          "note": "同一询问优先步骤功能。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "53.2",
+      "pack_id": "course53_2_clarify",
+      "title": "53.2 不会时确认",
+      "title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "phrase_count": 17,
+      "phrase_ids": [
+        "s53_2_0001",
+        "s53_2_0002",
+        "s53_2_0003",
+        "s53_2_0004",
+        "s53_2_0005",
+        "s53_2_0006",
+        "s53_2_0007",
+        "s53_2_0008",
+        "s53_2_0009",
+        "s53_2_0010",
+        "s53_2_0011",
+        "s53_2_0012",
+        "s53_2_0013",
+        "s53_2_0014",
+        "s53_2_0015",
+        "s53_2_0016",
+        "s53_2_0017"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "53.2",
+          "source_role": "must",
+          "text": "这个我不会。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s05_01_0006",
+          "canonical_text": "这个我不会弄。",
+          "canonical_course": "05.1",
+          "note": "同一表达不会操作。"
+        },
+        {
+          "lesson_id": "53.2",
+          "source_role": "listen",
+          "text": "先别急着做。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s09_02_0019",
+          "canonical_text": "先别急着做。",
+          "canonical_course": "09.2",
+          "note": "前课已有完全相同核心。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "53.3",
+      "pack_id": "course53_3_teamwork",
+      "title": "53.3 同事协作",
+      "title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "phrase_count": 16,
+      "phrase_ids": [
+        "s53_3_0001",
+        "s53_3_0002",
+        "s53_3_0003",
+        "s53_3_0004",
+        "s53_3_0005",
+        "s53_3_0006",
+        "s53_3_0007",
+        "s53_3_0008",
+        "s53_3_0009",
+        "s53_3_0010",
+        "s53_3_0011",
+        "s53_3_0012",
+        "s53_3_0013",
+        "s53_3_0014",
+        "s53_3_0015",
+        "s53_3_0016"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "53.3",
+          "source_role": "listen",
+          "text": "你帮我拿一下。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s16_3_0001",
+          "canonical_text": "帮我拿一下。",
+          "canonical_course": "16.3",
+          "note": "同一请求拿东西功能。"
+        },
+        {
+          "lesson_id": "53.3",
+          "source_role": "listen",
+          "text": "这部分我们一起做。",
+          "status": "alternative",
+          "canonical_id": "s53_3_0002",
+          "canonical_text": "这个我们一起做。",
+          "primary_lesson": "53.3",
+          "note": "同一交际目的的自然变体，吸收到同一核心卡。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "53.4",
+      "pack_id": "course53_4_report",
+      "title": "53.4 汇报完成问题",
+      "title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "phrase_count": 18,
+      "phrase_ids": [
+        "s53_4_0001",
+        "s53_4_0002",
+        "s53_4_0003",
+        "s53_4_0004",
+        "s53_4_0005",
+        "s53_4_0006",
+        "s53_4_0007",
+        "s53_4_0008",
+        "s53_4_0009",
+        "s53_4_0010",
+        "s53_4_0011",
+        "s53_4_0012",
+        "s53_4_0013",
+        "s53_4_0014",
+        "s53_4_0015",
+        "s53_4_0016",
+        "s53_4_0017",
+        "s53_4_0018"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "53.4",
+          "source_role": "must",
+          "text": "材料还没到。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s08_02_0007",
+          "canonical_text": "材料还没到。",
+          "canonical_course": "08.2",
+          "note": "前课已有完全相同核心。"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "s53_1_0001",
+      "level": "must",
+      "text": "先做这个吗？",
+      "meaning_my": "ဒီဟာကို အရင်လုပ်ရမှာလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "对，先做这个。",
+          "meaning_my": "ဟုတ်တယ်၊ ဒီဟာကို အရင်လုပ်ပါ။"
+        },
+        {
+          "text": "不是，先做那批。",
+          "meaning_my": "မဟုတ်ဘူး၊ ဟိုအသုတ်ကို အရင်လုပ်ပါ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān zuò zhè ge ma",
+      "phonetic_my": "ရှျန် ဇွော ကျ က မာ"
+    },
+    {
+      "id": "s53_1_0002",
+      "level": "must",
+      "text": "好，我马上做。",
+      "meaning_my": "ဟုတ်ကဲ့၊ ချက်ချင်းလုပ်ပါမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，做完告诉我。",
+          "meaning_my": "ကောင်းပြီ၊ လုပ်ပြီးရင် ပြောပါ။"
+        },
+        {
+          "text": "先别急，我再讲一下。",
+          "meaning_my": "အလောတကြီး မလုပ်နဲ့ဦး၊ ထပ်ရှင်းပြမယ်။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "hǎo wǒ mǎ shàng zuò",
+      "phonetic_my": "ဟောင် ဝေါ မာ ရှန်း ဇွော"
+    },
+    {
+      "id": "s53_1_0003",
+      "level": "must",
+      "text": "这个放哪儿？",
+      "meaning_my": "ဒီဟာကို ဘယ်မှာထားရမလဲ။",
+      "alternatives": [
+        {
+          "text": "这个放哪里？",
+          "meaning_my": "ဒီဟာ ဘယ်မှာထားရမလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "放左边架子上。",
+          "meaning_my": "ဘယ်ဘက်စင်ပေါ်မှာ ထားပါ။"
+        },
+        {
+          "text": "放进三号箱。",
+          "meaning_my": "နံပါတ်သုံး သေတ္တာထဲ ထည့်ပါ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge fàng nǎr",
+      "phonetic_my": "ကျ က ဖန်း နာ"
+    },
+    {
+      "id": "s53_1_0004",
+      "level": "must",
+      "text": "做完交给谁？",
+      "meaning_my": "လုပ်ပြီးရင် ဘယ်သူ့ကို ပေးရမလဲ။",
+      "alternatives": [
+        {
+          "text": "做完给谁？",
+          "meaning_my": "လုပ်ပြီးရင် ဘယ်သူ့ကို ပေးရမလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "交给王组长。",
+          "meaning_my": "ဝမ်အဖွဲ့ခေါင်းဆောင်ကို ပေးပါ။"
+        },
+        {
+          "text": "直接交给我。",
+          "meaning_my": "ကျွန်တော့်ကိုပဲ တိုက်ရိုက်ပေးပါ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zuò wán jiāo gěi shéi",
+      "phonetic_my": "ဇွော ဝမ် ကျောင် ကေး ရှေး"
+    },
+    {
+      "id": "s53_1_0005",
+      "level": "must",
+      "text": "有先后顺序吗？",
+      "meaning_my": "အရင်နောက် လုပ်ရမယ့်အစီအစဉ် ရှိလား။",
+      "alternatives": [
+        {
+          "text": "先做哪个？",
+          "meaning_my": "ဘယ်ဟာကို အရင်လုပ်ရမလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "有，先做急的。",
+          "meaning_my": "ရှိတယ်၊ အရေးပေါ်တာကို အရင်လုပ်ပါ။"
+        },
+        {
+          "text": "按单子顺序来。",
+          "meaning_my": "စာရင်းထဲက အစဉ်လိုက်လုပ်ပါ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu xiān hòu shùn xù ma",
+      "phonetic_my": "ယိုး ရှျန် ဟိုး ရွင် ရွီ မာ"
+    },
+    {
+      "id": "s53_1_0006",
+      "level": "must",
+      "text": "今天要做完吗？",
+      "meaning_my": "ဒီနေ့ အပြီးလုပ်ရမှာလား။",
+      "alternatives": [
+        {
+          "text": "今天必须做完吗？",
+          "meaning_my": "ဒီနေ့ မဖြစ်မနေ အပြီးလုပ်ရမှာလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "对，今天做完。",
+          "meaning_my": "ဟုတ်တယ်၊ ဒီနေ့ အပြီးလုပ်ပါ။"
+        },
+        {
+          "text": "不用，明早交就行。",
+          "meaning_my": "မလိုဘူး၊ မနက်ဖြန်မနက် ပေးရင်ရပြီ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "jīn tiān yào zuò wán ma",
+      "phonetic_my": "ကျင် ထျန် ယောင် ဇွော ဝမ် မာ"
+    },
+    {
+      "id": "s53_1_0007",
+      "level": "must",
+      "text": "这个交给我。",
+      "meaning_my": "ဒီဟာကို ကျွန်တော့်ဆီ ပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我现在给您。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အခုပေးပါမယ်။"
+        },
+        {
+          "text": "等我整理好再给您。",
+          "meaning_my": "စီပြီးမှ ပေးပါမယ်။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge jiāo gěi wǒ",
+      "phonetic_my": "ကျ က ကျောင် ကေး ဝေါ"
+    },
+    {
+      "id": "s53_1_0008",
+      "level": "must",
+      "text": "还有别的要求吗？",
+      "meaning_my": "တခြား လိုအပ်ချက် ရှိသေးလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "没有，就按刚才说的。",
+          "meaning_my": "မရှိတော့ဘူး၊ ခုနက ပြောတဲ့အတိုင်းလုပ်ပါ။"
+        },
+        {
+          "text": "有，做完再检查一遍。",
+          "meaning_my": "ရှိတယ်၊ ပြီးရင် နောက်တစ်ခါ ပြန်စစ်ပါ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "hái yǒu bié de yào qiú ma",
+      "phonetic_my": "ဟိုင်း ယိုး ပျဲ တ ယောင် ချိုး မာ"
+    },
+    {
+      "id": "s53_1_0009",
+      "level": "must",
+      "text": "这批先做多少？",
+      "meaning_my": "ဒီအသုတ်ကို အရင် ဘယ်နှခုလုပ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先做十个试试。",
+          "meaning_my": "အရင် ဆယ်ခု စမ်းလုပ်ကြည့်ပါ။"
+        },
+        {
+          "text": "先做一百个。",
+          "meaning_my": "အရင် တစ်ရာလုပ်ပါ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè pī xiān zuò duō shǎo",
+      "phonetic_my": "ကျ ဖီး ရှျန် ဇွော တွော ရှောင်"
+    },
+    {
+      "id": "s53_1_0010",
+      "level": "listen",
+      "text": "先把这些拿过去。",
+      "meaning_my": "ဒါတွေကို ဟိုဘက် အရင်ယူသွားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "拿到哪个车间？",
+          "meaning_my": "ဘယ်အလုပ်ရုံကို ယူသွားရမလဲ။"
+        },
+        {
+          "text": "好，我现在送过去。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အခု သွားပို့လိုက်မယ်။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān bǎ zhè xiē ná guò qù",
+      "phonetic_my": "ရှျန် ပါ ကျ ရှယ် နာ ကွော ချွီ"
+    },
+    {
+      "id": "s53_1_0011",
+      "level": "listen",
+      "text": "做完这个再做那个。",
+      "meaning_my": "ဒီဟာပြီးမှ ဟိုဟာ ဆက်လုပ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我按顺序做。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အစဉ်လိုက် လုပ်ပါမယ်။"
+        },
+        {
+          "text": "那这个我先做。",
+          "meaning_my": "ဒါဆို ဒီဟာကို အရင်လုပ်မယ်။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zuò wán zhè ge zài zuò nà ge",
+      "phonetic_my": "ဇွော ဝမ် ကျ က ဇိုင် ဇွော နာ က"
+    },
+    {
+      "id": "s53_1_0012",
+      "level": "listen",
+      "text": "下午检查一遍。",
+      "meaning_my": "နေ့လယ်ပိုင်း တစ်ခါ ပြန်စစ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，下午我去查。",
+          "meaning_my": "ဟုတ်ကဲ့၊ နေ့လယ်ပိုင်း စစ်ကြည့်မယ်။"
+        },
+        {
+          "text": "几点开始检查？",
+          "meaning_my": "ဘယ်နှနာရီမှာ စစစ်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "xià wǔ jiǎn chá yí biàn",
+      "phonetic_my": "ရှျာ ဝူ ကျန် ချာ ယီ ပြန်"
+    },
+    {
+      "id": "s53_1_0013",
+      "level": "listen",
+      "text": "别放这里。",
+      "meaning_my": "ဒီမှာ မထားပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那放哪儿？",
+          "meaning_my": "ဒါဆို ဘယ်မှာထားရမလဲ။"
+        },
+        {
+          "text": "好，我拿走。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ယူသွားလိုက်မယ်။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "bié fàng zhè lǐ",
+      "phonetic_my": "ပျဲ ဖန်း ကျ လီ"
+    },
+    {
+      "id": "s53_1_0014",
+      "level": "listen",
+      "text": "这个先别动。",
+      "meaning_my": "ဒီဟာကို အခု မထိသေးပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我先不碰。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အခု မထိသေးပါဘူး။"
+        },
+        {
+          "text": "等您确认再做吗？",
+          "meaning_my": "အတည်ပြုပြီးမှ လုပ်ရမှာလား။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [
+        {
+          "text": "对未确认安全性的设备或物品，不要自行启动或移动。",
+          "text_my": "လုံခြုံမှု မသေချာတဲ့ စက်နဲ့ ပစ္စည်းကို ကိုယ့်ဘာသာ မဖွင့်မရွှေ့ပါနဲ့။"
+        }
+      ],
+      "pinyin": "zhè ge xiān bié dòng",
+      "phonetic_my": "ကျ က ရှျန် ပျဲ တုန်း"
+    },
+    {
+      "id": "s53_1_0015",
+      "level": "listen",
+      "text": "先做急的。",
+      "meaning_my": "အရေးပေါ်တဲ့အလုပ်ကို အရင်လုပ်ပါ။",
+      "alternatives": [
+        {
+          "text": "先做最急的。",
+          "meaning_my": "အရေးအပေါ်ဆုံးအလုပ်ကို အရင်လုပ်ပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，我先做这单。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒီအော်ဒါကို အရင်လုပ်မယ်။"
+        },
+        {
+          "text": "哪一单最急？",
+          "meaning_my": "ဘယ်အော်ဒါက အရေးအပေါ်ဆုံးလဲ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān zuò jí de",
+      "phonetic_my": "ရှျန် ဇွော ကျီ တ"
+    },
+    {
+      "id": "s53_1_0016",
+      "level": "listen",
+      "text": "做完给我看一下。",
+      "meaning_my": "လုပ်ပြီးရင် ကျွန်တော့်ကို တစ်ချက်ပြပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，做完拿给您。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ပြီးရင် ယူလာပြမယ်။"
+        },
+        {
+          "text": "您几点方便看？",
+          "meaning_my": "ဘယ်နှနာရီမှာ ကြည့်ဖို့ အဆင်ပြေလဲ။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zuò wán gěi wǒ kàn yí xià",
+      "phonetic_my": "ဇွော ဝမ် ကေး ဝေါ ခန် ယီ ရှျာ"
+    },
+    {
+      "id": "s53_1_0017",
+      "level": "listen",
+      "text": "有问题马上告诉我。",
+      "meaning_my": "ပြဿနာရှိရင် ချက်ချင်းပြောပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我会及时说。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ချက်ချင်း ပြောပါမယ်။"
+        },
+        {
+          "text": "有不懂的我就问。",
+          "meaning_my": "နားမလည်တာရှိရင် မေးပါမယ်။"
+        }
+      ],
+      "lesson_id": "53.1",
+      "lesson_title": "53.1 接受工作指令",
+      "lesson_title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "yǒu wèn tí mǎ shàng gào sù wǒ",
+      "phonetic_my": "ယိုး ဝန် ထီ မာ ရှန်း ကောင် စု ဝေါ"
+    },
+    {
+      "id": "s53_2_0001",
+      "level": "must",
+      "text": "这一步怎么做？",
+      "meaning_my": "ဒီအဆင့်ကို ဘယ်လိုလုပ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我做给你看。",
+          "meaning_my": "လုပ်ပြမယ်၊ ကြည့်ပါ။"
+        },
+        {
+          "text": "先看操作说明。",
+          "meaning_my": "အသုံးပြုနည်းလမ်းညွှန်ကို အရင်ကြည့်ပါ။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè yí bù zěn me zuò",
+      "phonetic_my": "ကျ ယီ ပု ဇန် မ ဇွော"
+    },
+    {
+      "id": "s53_2_0002",
+      "level": "must",
+      "text": "刚才那步再说一遍。",
+      "meaning_my": "အခုနက အဆင့်ကို ထပ်ပြောပေးပါဦး။",
+      "alternatives": [
+        {
+          "text": "刚才那步再讲一遍。",
+          "meaning_my": "အခုနက အဆင့်ကို ထပ်ရှင်းပြပေးပါဦး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，我慢点再说。",
+          "meaning_my": "ရတယ်၊ ဖြည်းဖြည်း ထပ်ပြောမယ်။"
+        },
+        {
+          "text": "我再演示一次。",
+          "meaning_my": "နောက်တစ်ခါ ထပ်လုပ်ပြမယ်။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "gāng cái nà bù zài shuō yí biàn",
+      "phonetic_my": "ကန်း ချိုင်း နာ ပု ဇိုင် ရှွော ယီ ပြန်"
+    },
+    {
+      "id": "s53_2_0003",
+      "level": "must",
+      "text": "能示范一下吗？",
+      "meaning_my": "တစ်ချက် လုပ်ပြပေးလို့ရမလား။",
+      "alternatives": [
+        {
+          "text": "能做给我看吗？",
+          "meaning_my": "ကျွန်တော့်ကို လုပ်ပြပေးလို့ရမလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "可以，你看着。",
+          "meaning_my": "ရတယ်၊ ကြည့်ထားနော်။"
+        },
+        {
+          "text": "等一下，我做给你看。",
+          "meaning_my": "ခဏနေပါဦး၊ လုပ်ပြပေးမယ်။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "néng shì fàn yí xià ma",
+      "phonetic_my": "နန်း ရှီး ဖန် ယီ ရှျာ မာ"
+    },
+    {
+      "id": "s53_2_0004",
+      "level": "must",
+      "text": "我这样做对吗？",
+      "meaning_my": "ဒီလိုလုပ်တာ မှန်လား။",
+      "alternatives": [
+        {
+          "text": "这样做可以吗？",
+          "meaning_my": "ဒီလိုလုပ်လို့ ရလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "对，就是这样。",
+          "meaning_my": "ဟုတ်တယ်၊ ဒီလိုပဲ။"
+        },
+        {
+          "text": "不对，先停一下。",
+          "meaning_my": "မမှန်ဘူး၊ ခဏရပ်ဦး။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zhè yàng zuò duì ma",
+      "phonetic_my": "ဝေါ ကျ ယန်း ဇွော တွေး မာ"
+    },
+    {
+      "id": "s53_2_0005",
+      "level": "must",
+      "text": "这一步做完呢？",
+      "meaning_my": "ဒီအဆင့်ပြီးရင် ဘာဆက်လုပ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "接着把数量记下来。",
+          "meaning_my": "ပြီးရင် အရေအတွက်ကို မှတ်ထားပါ။"
+        },
+        {
+          "text": "下一步先检查。",
+          "meaning_my": "နောက်အဆင့်မှာ အရင် စစ်ဆေးပါ။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè yí bù zuò wán ne",
+      "phonetic_my": "ကျ ယီ ပု ဇွော ဝမ် န"
+    },
+    {
+      "id": "s53_2_0006",
+      "level": "must",
+      "text": "这一步我不会。",
+      "meaning_my": "ဒီအဆင့်ကို မလုပ်တတ်ဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我先教你。",
+          "meaning_my": "အရင် သင်ပေးမယ်။"
+        },
+        {
+          "text": "别急，先看我做。",
+          "meaning_my": "မလောနဲ့၊ အရင် ကျွန်တော်လုပ်တာ ကြည့်ပါ။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè yí bù wǒ bú huì",
+      "phonetic_my": "ကျ ယီ ပု ဝေါ ပု ဟွေ့"
+    },
+    {
+      "id": "s53_2_0007",
+      "level": "must",
+      "text": "这一步没听懂。",
+      "meaning_my": "ဒီအဆင့်ကို နားမလည်လိုက်ဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "哪儿没听懂？",
+          "meaning_my": "ဘယ်နေရာ နားမလည်တာလဲ။"
+        },
+        {
+          "text": "我再说慢点。",
+          "meaning_my": "ဖြည်းဖြည်း ထပ်ပြောမယ်။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè yí bù méi tīng dǒng",
+      "phonetic_my": "ကျ ယီ ပု မေး ထင်း တုံ"
+    },
+    {
+      "id": "s53_2_0008",
+      "level": "must",
+      "text": "先做哪一步？",
+      "meaning_my": "ဘယ်အဆင့်ကို အရင်လုပ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先检查材料。",
+          "meaning_my": "ပစ္စည်းတွေကို အရင်စစ်ပါ။"
+        },
+        {
+          "text": "先看第一步的说明。",
+          "meaning_my": "ပထမအဆင့် လမ်းညွှန်ကို အရင်ကြည့်ပါ။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān zuò nǎ yí bù",
+      "phonetic_my": "ရှျန် ဇွော နာ ယီ ပု"
+    },
+    {
+      "id": "s53_2_0009",
+      "level": "must",
+      "text": "下一步怎么做？",
+      "meaning_my": "နောက်အဆင့် ဘယ်လိုလုပ်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先核对数量。",
+          "meaning_my": "အရေအတွက်ကို အရင်စစ်ပါ။"
+        },
+        {
+          "text": "我来教你下一步。",
+          "meaning_my": "နောက်အဆင့်ကို သင်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "xià yí bù zěn me zuò",
+      "phonetic_my": "ရှျာ ယီ ပု ဇန် မ ဇွော"
+    },
+    {
+      "id": "s53_2_0010",
+      "level": "must",
+      "text": "能说慢一点吗？",
+      "meaning_my": "နည်းနည်း ဖြည်းဖြည်း ပြောပေးလို့ရမလား။",
+      "alternatives": [
+        {
+          "text": "麻烦说慢点。",
+          "meaning_my": "နည်းနည်း ဖြည်းဖြည်း ပြောပေးပါဦး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，我说慢点。",
+          "meaning_my": "ရတယ်၊ ဖြည်းဖြည်းပြောမယ်။"
+        },
+        {
+          "text": "我边做边讲。",
+          "meaning_my": "လုပ်ပြရင်း ရှင်းပြမယ်။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "néng shuō màn yì diǎn ma",
+      "phonetic_my": "နန်း ရှွော မန် ယီ တျန် မာ"
+    },
+    {
+      "id": "s53_2_0011",
+      "level": "listen",
+      "text": "你看我做一遍。",
+      "meaning_my": "ကျွန်တော် တစ်ခေါက်လုပ်ပြတာ ကြည့်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我仔细看。",
+          "meaning_my": "ဟုတ်ကဲ့၊ သေချာကြည့်ပါမယ်။"
+        },
+        {
+          "text": "我能记下来吗？",
+          "meaning_my": "မှတ်ထားလို့ရမလား။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "nǐ kàn wǒ zuò yí biàn",
+      "phonetic_my": "နီ ခန် ဝေါ ဇွော ယီ ပြန်"
+    },
+    {
+      "id": "s53_2_0012",
+      "level": "listen",
+      "text": "照这个做。",
+      "meaning_my": "ဒီအတိုင်း လုပ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我照着做。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒီအတိုင်းလုပ်ပါမယ်။"
+        },
+        {
+          "text": "这一步也一样吗？",
+          "meaning_my": "ဒီအဆင့်လည်း အတူတူပဲလား။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "zhào zhè ge zuò",
+      "phonetic_my": "ကျောင် ကျ က ဇွော"
+    },
+    {
+      "id": "s53_2_0013",
+      "level": "listen",
+      "text": "不是这样。",
+      "meaning_my": "ဒီလို မဟုတ်ဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那该怎么做？",
+          "meaning_my": "ဒါဆို ဘယ်လိုလုပ်ရမလဲ။"
+        },
+        {
+          "text": "您再教我一次。",
+          "meaning_my": "နောက်တစ်ခေါက် ထပ်သင်ပေးပါဦး။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "bú shì zhè yàng",
+      "phonetic_my": "ပု ရှီး ကျ ယန်း"
+    },
+    {
+      "id": "s53_2_0014",
+      "level": "listen",
+      "text": "先做第一步。",
+      "meaning_my": "ပထမအဆင့်ကို အရင်လုပ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我先做这步。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဒီအဆင့်ကို အရင်လုပ်မယ်။"
+        },
+        {
+          "text": "第一步是检查吗？",
+          "meaning_my": "ပထမအဆင့်က စစ်ဆေးတာလား။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān zuò dì yí bù",
+      "phonetic_my": "ရှျန် ဇွော တီ ယီ ပု"
+    },
+    {
+      "id": "s53_2_0015",
+      "level": "listen",
+      "text": "这一步要反过来。",
+      "meaning_my": "ဒီအဆင့်ကို ပြောင်းပြန် လုပ်ရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "是要换个方向吗？",
+          "meaning_my": "ဦးတည်ရာ ပြောင်းရမှာလား။"
+        },
+        {
+          "text": "您再指给我看。",
+          "meaning_my": "ဘယ်လိုလုပ်ရမလဲ ထပ်ပြပေးပါဦး။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè yí bù yào fǎn guò lái",
+      "phonetic_my": "ကျ ယီ ပု ယောင် ဖန် ကွော လိုင်"
+    },
+    {
+      "id": "s53_2_0016",
+      "level": "listen",
+      "text": "我再说慢一点。",
+      "meaning_my": "ဖြည်းဖြည်း ထပ်ပြောပေးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，您慢慢说。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ဖြည်းဖြည်းပြောပါ။"
+        },
+        {
+          "text": "好，我认真听。",
+          "meaning_my": "ဟုတ်ကဲ့၊ သေချာနားထောင်ပါမယ်။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zài shuō màn yì diǎn",
+      "phonetic_my": "ဝေါ ဇိုင် ရှွော မန် ယီ တျန်"
+    },
+    {
+      "id": "s53_2_0017",
+      "level": "listen",
+      "text": "不确定就先停下。",
+      "meaning_my": "မသေချာရင် အရင်ရပ်ထားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我先不动。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အရင် မလုပ်သေးဘူး။"
+        },
+        {
+          "text": "不明白我会先问。",
+          "meaning_my": "နားမလည်ရင် အရင်မေးပါမယ်။"
+        }
+      ],
+      "lesson_id": "53.2",
+      "lesson_title": "53.2 不会时确认",
+      "lesson_title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
+      "mistakes": [
+        {
+          "text": "操作不清楚时先停止并向负责人确认，尤其是机器和危险作业。",
+          "text_my": "လုပ်နည်း မရှင်းရင် အရင်ရပ်ပြီး တာဝန်ရှိသူကို မေးပါ၊ အထူးသဖြင့် စက်နဲ့ အန္တရာယ်ရှိတဲ့အလုပ်တွေမှာပါ။"
+        }
+      ],
+      "pinyin": "bú què dìng jiù xiān tíng xià",
+      "phonetic_my": "ပု ချွဲ တင်း ကျိုး ရှျန် ထင်း ရှျာ"
+    },
+    {
+      "id": "s53_3_0001",
+      "level": "must",
+      "text": "这部分能帮我吗？",
+      "meaning_my": "ဒီအပိုင်းကို ကူလုပ်ပေးလို့ရလား။",
+      "alternatives": [
+        {
+          "text": "能搭把手吗？",
+          "meaning_my": "တစ်ချက် ဝိုင်းကူပေးလို့ရမလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "可以，我现在来。",
+          "meaning_my": "ရတယ်၊ အခုပဲ လာကူမယ်။"
+        },
+        {
+          "text": "等我忙完就来。",
+          "meaning_my": "ဒီဘက်က အလုပ်ပြီးရင် လာကူမယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè bù fēn néng bāng wǒ ma",
+      "phonetic_my": "ကျ ပု ဖန် နန်း ပန်း ဝေါ မာ"
+    },
+    {
+      "id": "s53_3_0002",
+      "level": "must",
+      "text": "这个我们一起做。",
+      "meaning_my": "ဒီဟာကို အတူလုပ်ရအောင်။",
+      "alternatives": [
+        {
+          "text": "咱们一起做吧。",
+          "meaning_my": "အတူလုပ်ရအောင်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，我负责前半段。",
+          "meaning_my": "ကောင်းပြီ၊ အရှေ့ပိုင်းကို ကျွန်တော် တာဝန်ယူမယ်။"
+        },
+        {
+          "text": "行，咱们分工吧。",
+          "meaning_my": "ရတယ်၊ အလုပ်ခွဲလုပ်ရအောင်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge wǒ men yì qǐ zuò",
+      "phonetic_my": "ကျ က ဝေါ မန် ယီ ချီ ဇွော"
+    },
+    {
+      "id": "s53_3_0003",
+      "level": "must",
+      "text": "这部分你做还是我做？",
+      "meaning_my": "ဒီအပိုင်းကို မင်းလုပ်မှာလား၊ ကျွန်တော်လုပ်ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我来做这部分。",
+          "meaning_my": "ဒီအပိုင်းကို ကျွန်တော် လုပ်မယ်။"
+        },
+        {
+          "text": "你先做，我来检查。",
+          "meaning_my": "မင်း အရင်လုပ်ပါ၊ ကျွန်တော် စစ်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè bù fēn nǐ zuò hái shì wǒ zuò",
+      "phonetic_my": "ကျ ပု ဖန် နီ ဇွော ဟိုင်း ရှီး ဝေါ ဇွော"
+    },
+    {
+      "id": "s53_3_0004",
+      "level": "must",
+      "text": "这个我来搬。",
+      "meaning_my": "ဒီဟာကို ကျွန်တော် သယ်မယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，小心点。",
+          "meaning_my": "ကောင်းပြီ၊ သတိထားနော်။"
+        },
+        {
+          "text": "太重了，我来搭把手。",
+          "meaning_my": "အရမ်းလေးတယ်၊ ကျွန်တော် ကူသယ်ပေးမယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge wǒ lái bān",
+      "phonetic_my": "ကျ က ဝေါ လိုင် ပန်"
+    },
+    {
+      "id": "s53_3_0005",
+      "level": "must",
+      "text": "这部分能跟你换吗？",
+      "meaning_my": "ဒီအပိုင်းကို မင်းနဲ့ လဲလုပ်လို့ရမလား။",
+      "alternatives": [
+        {
+          "text": "咱俩换一下行吗？",
+          "meaning_my": "နှစ်ယောက် အလုပ်လဲလုပ်လို့ရမလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "可以，我来做这部分。",
+          "meaning_my": "ရတယ်၊ ဒီအပိုင်းကို ကျွန်တော် လုပ်မယ်။"
+        },
+        {
+          "text": "暂时不行，我也忙。",
+          "meaning_my": "လောလောဆယ် မရသေးဘူး၊ ကျွန်တော်လည်း အလုပ်များနေတယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè bù fēn néng gēn nǐ huàn ma",
+      "phonetic_my": "ကျ ပု ဖန် နန်း ကန်း နီ ဟွမ် မာ"
+    },
+    {
+      "id": "s53_3_0006",
+      "level": "must",
+      "text": "等我两分钟。",
+      "meaning_my": "နှစ်မိနစ်လောက် စောင့်ပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "行，我在这儿等。",
+          "meaning_my": "ရတယ်၊ ဒီမှာ စောင့်နေမယ်။"
+        },
+        {
+          "text": "好，忙完叫我。",
+          "meaning_my": "ကောင်းပြီ၊ ပြီးရင် ခေါ်ပါ။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "děng wǒ liǎng fēn zhōng",
+      "phonetic_my": "တန်း ဝေါ လျန်း ဖန် ကျုံး"
+    },
+    {
+      "id": "s53_3_0007",
+      "level": "must",
+      "text": "这部分我负责。",
+      "meaning_my": "ဒီအပိုင်းကို ကျွန်တော် တာဝန်ယူမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我负责另一边。",
+          "meaning_my": "ကောင်းပြီ၊ ဟိုဘက်အပိုင်းကို ကျွန်တော် တာဝန်ယူမယ်။"
+        },
+        {
+          "text": "不懂的地方问我。",
+          "meaning_my": "နားမလည်တာရှိရင် မေးပါ။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè bù fēn wǒ fù zé",
+      "phonetic_my": "ကျ ပု ဖန် ဝေါ ဖူ ဇ"
+    },
+    {
+      "id": "s53_3_0008",
+      "level": "must",
+      "text": "材料不够，我去拿。",
+      "meaning_my": "ပစ္စည်းမလုံလောက်ဘူး၊ သွားယူလိုက်မယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，去仓库领吧。",
+          "meaning_my": "ကောင်းပြီ၊ ဂိုဒေါင်မှာ သွားထုတ်ယူပါ။"
+        },
+        {
+          "text": "先跟组长说一声。",
+          "meaning_my": "အရင် အဖွဲ့ခေါင်းဆောင်ကို ပြောလိုက်ပါ။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "cái liào bú gòu wǒ qù ná",
+      "phonetic_my": "ချိုင်း လျောင် ပု ကို့ ဝေါ ချွီ နာ"
+    },
+    {
+      "id": "s53_3_0009",
+      "level": "must",
+      "text": "你忙不过来我帮你。",
+      "meaning_my": "မနိုင်ရင် ကျွန်တော် ကူလုပ်ပေးမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "谢谢，帮我装这几箱。",
+          "meaning_my": "ကျေးဇူးပဲ၊ ဒီသေတ္တာတွေ ထုပ်ပေးပါဦး။"
+        },
+        {
+          "text": "先不用，我快好了。",
+          "meaning_my": "အခုတော့ မလိုသေးဘူး၊ ပြီးတော့မယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "nǐ máng bú guò lái wǒ bāng nǐ",
+      "phonetic_my": "နီ မန်း ပု ကွော လိုင် ဝေါ ပန်း နီ"
+    },
+    {
+      "id": "s53_3_0010",
+      "level": "must",
+      "text": "这个我来接手。",
+      "meaning_my": "ဒီဟာကို ကျွန်တော် ဆက်လက်တာဝန်ယူမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我跟你交接。",
+          "meaning_my": "ကောင်းပြီ၊ လုပ်ထားတာတွေ လွှဲပေးမယ်။"
+        },
+        {
+          "text": "等一下，我说下进度。",
+          "meaning_my": "ခဏနေပါ၊ လုပ်ထားတဲ့အခြေအနေ ပြောပြမယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge wǒ lái jiē shǒu",
+      "phonetic_my": "ကျ က ဝေါ လိုင် ကျယ် ရှိုး"
+    },
+    {
+      "id": "s53_3_0011",
+      "level": "listen",
+      "text": "我忙不过来。",
+      "meaning_my": "အလုပ်တွေ မနိုင်တော့ဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我来帮你做一点。",
+          "meaning_my": "ကျွန်တော် နည်းနည်း ဝိုင်းလုပ်ပေးမယ်။"
+        },
+        {
+          "text": "那先做最急的。",
+          "meaning_my": "ဒါဆို အရေးအပေါ်ဆုံးအလုပ်ကို အရင်လုပ်ပါ။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ máng bú guò lái",
+      "phonetic_my": "ဝေါ မန်း ပု ကွော လိုင်"
+    },
+    {
+      "id": "s53_3_0012",
+      "level": "listen",
+      "text": "这个你负责。",
+      "meaning_my": "ဒီဟာကို မင်း တာဝန်ယူပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我来做。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ကျွန်တော် လုပ်မယ်။"
+        },
+        {
+          "text": "要做到哪一步？",
+          "meaning_my": "ဘယ်အဆင့်ထိ လုပ်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge nǐ fù zé",
+      "phonetic_my": "ကျ က နီ ဖူ ဇ"
+    },
+    {
+      "id": "s53_3_0013",
+      "level": "listen",
+      "text": "等会儿我来帮你。",
+      "meaning_my": "ခဏနေရင် ကျွန်တော် လာကူမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我等你。",
+          "meaning_my": "ကောင်းပြီ၊ စောင့်နေမယ်။"
+        },
+        {
+          "text": "谢谢，我先做着。",
+          "meaning_my": "ကျေးဇူးပဲ၊ အရင် ကိုယ့်ဘာသာ လုပ်ထားမယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "děng huì er wǒ lái bāng nǐ",
+      "phonetic_my": "တန်း ဟွေ့ အာ ဝေါ လိုင် ပန်း နီ"
+    },
+    {
+      "id": "s53_3_0014",
+      "level": "listen",
+      "text": "你先接一下这个。",
+      "meaning_my": "ဒီဟာကို မင်း ခဏ လွှဲယူလုပ်ပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "行，交给我吧。",
+          "meaning_my": "ရတယ်၊ ကျွန်တော့်ကို ပေးလိုက်ပါ။"
+        },
+        {
+          "text": "这是什么情况？",
+          "meaning_my": "ဒါက ဘယ်လိုအခြေအနေရှိလဲ။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "nǐ xiān jiē yí xià zhè ge",
+      "phonetic_my": "နီ ရှျန် ကျယ် ယီ ရှျာ ကျ က"
+    },
+    {
+      "id": "s53_3_0015",
+      "level": "listen",
+      "text": "做完跟我说一声。",
+      "meaning_my": "လုပ်ပြီးရင် ကျွန်တော့်ကို ပြောပါဦး။",
+      "alternatives": [
+        {
+          "text": "做完告诉我。",
+          "meaning_my": "လုပ်ပြီးရင် ပြောပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，做完就告诉你。",
+          "meaning_my": "ဟုတ်ကဲ့၊ လုပ်ပြီးတာနဲ့ ပြောမယ်။"
+        },
+        {
+          "text": "发消息给你行吗？",
+          "meaning_my": "မက်ဆေ့ချ်ပို့ပြီး ပြောလို့ရလား။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "zuò wán gēn wǒ shuō yì shēng",
+      "phonetic_my": "ဇွော ဝမ် ကန်း ဝေါ ရှွော ယီ ရှန်း"
+    },
+    {
+      "id": "s53_3_0016",
+      "level": "listen",
+      "text": "忙不过来就叫我。",
+      "meaning_my": "မနိုင်ရင် ကျွန်တော့်ကို ခေါ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，需要我会叫你。",
+          "meaning_my": "ကောင်းပြီ၊ လိုရင် ခေါ်မယ်။"
+        },
+        {
+          "text": "谢谢，有事再找你。",
+          "meaning_my": "ကျေးဇူးပဲ၊ လိုရင် လာပြောမယ်။"
+        }
+      ],
+      "lesson_id": "53.3",
+      "lesson_title": "53.3 同事协作",
+      "lesson_title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
+      "mistakes": [],
+      "pinyin": "máng bú guò lái jiù jiào wǒ",
+      "phonetic_my": "မန်း ပု ကွော လိုင် ကျိုး ကျောင် ဝေါ"
+    },
+    {
+      "id": "s53_4_0001",
+      "level": "must",
+      "text": "我做完了。",
+      "meaning_my": "လုပ်ပြီးပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我来检查。",
+          "meaning_my": "ကောင်းပြီ၊ စစ်ကြည့်မယ်။"
+        },
+        {
+          "text": "行，交给组长吧。",
+          "meaning_my": "ရပြီ၊ အဖွဲ့ခေါင်းဆောင်ကို ပေးလိုက်ပါ။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ zuò wán le",
+      "phonetic_my": "ဝေါ ဇွော ဝမ် လ"
+    },
+    {
+      "id": "s53_4_0002",
+      "level": "must",
+      "text": "还差十个。",
+      "meaning_my": "ဆယ်ခု လိုသေးတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "抓紧，下午要交。",
+          "meaning_my": "နည်းနည်းမြန်မြန်လုပ်ပါ၊ နေ့လယ်ပိုင်း ပေးရမယ်။"
+        },
+        {
+          "text": "需要我帮忙吗？",
+          "meaning_my": "ကူပေးဖို့ လိုလား။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "hái chà shí ge",
+      "phonetic_my": "ဟိုင်း ချာ ရှီး က"
+    },
+    {
+      "id": "s53_4_0003",
+      "level": "must",
+      "text": "这里有问题。",
+      "meaning_my": "ဒီနေရာမှာ ပြဿနာရှိတယ်။",
+      "alternatives": [
+        {
+          "text": "这里不对劲。",
+          "meaning_my": "ဒီနေရာ မမှန်သလိုပဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "哪里不对？",
+          "meaning_my": "ဘယ်နေရာ မမှန်တာလဲ။"
+        },
+        {
+          "text": "先别动，我来看看。",
+          "meaning_my": "အရင် မထိနဲ့ဦး၊ ကျွန်တော် လာကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè lǐ yǒu wèn tí",
+      "phonetic_my": "ကျ လီ ယိုး ဝန် ထီ"
+    },
+    {
+      "id": "s53_4_0004",
+      "level": "must",
+      "text": "这个得麻烦你帮忙。",
+      "meaning_my": "ဒီကိစ္စလေး ကူညီပေးပါဦး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，什么问题？",
+          "meaning_my": "ရတယ်၊ ဘာပြဿနာလဲ။"
+        },
+        {
+          "text": "我先看看能不能解决。",
+          "meaning_my": "ဖြေရှင်းလို့ရမရ အရင်ကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge děi má fan nǐ bāng máng",
+      "phonetic_my": "ကျ က တေ မာ ဖန် နီ ပန်း မန်း"
+    },
+    {
+      "id": "s53_4_0005",
+      "level": "must",
+      "text": "我已经交上去了。",
+      "meaning_my": "တင်ပေးပြီးသားပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "收到，我查一下。",
+          "meaning_my": "လက်ခံရပြီ၊ တစ်ချက် စစ်ကြည့်မယ်။"
+        },
+        {
+          "text": "好，等审核结果吧。",
+          "meaning_my": "ကောင်းပြီ၊ စစ်ဆေးပြီးတဲ့ရလဒ်ကို စောင့်ရအောင်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ yǐ jīng jiāo shàng qù le",
+      "phonetic_my": "ဝေါ ယီ ကျင်း ကျောင် ရှန်း ချွီ လ"
+    },
+    {
+      "id": "s53_4_0006",
+      "level": "must",
+      "text": "还要再检查吗？",
+      "meaning_my": "ထပ်စစ်ဖို့ လိုသေးလား။",
+      "alternatives": [
+        {
+          "text": "还要核对吗？",
+          "meaning_my": "ထပ်စစ်ဖို့ လိုသေးလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "要，再核对一遍。",
+          "meaning_my": "လိုတယ်၊ နောက်တစ်ခါ ပြန်စစ်ပါ။"
+        },
+        {
+          "text": "不用，已经查过了。",
+          "meaning_my": "မလိုတော့ဘူး၊ စစ်ပြီးသားပါ။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "hái yào zài jiǎn chá ma",
+      "phonetic_my": "ဟိုင်း ယောင် ဇိုင် ကျန် ချာ မာ"
+    },
+    {
+      "id": "s53_4_0007",
+      "level": "must",
+      "text": "只差最后一步了。",
+      "meaning_my": "နောက်ဆုံးအဆင့်တစ်ခုပဲ ကျန်တော့တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，做完就交。",
+          "meaning_my": "ကောင်းပြီ၊ ပြီးရင် တင်လိုက်ပါ။"
+        },
+        {
+          "text": "最后一步是什么？",
+          "meaning_my": "နောက်ဆုံးအဆင့်က ဘာလဲ။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zhǐ chà zuì hòu yí bù le",
+      "phonetic_my": "ကျီး ချာ ဇွေ့ ဟိုး ယီ ပု လ"
+    },
+    {
+      "id": "s53_4_0008",
+      "level": "must",
+      "text": "已经发给主管了。",
+      "meaning_my": "ကြီးကြပ်ရေးမှူးဆီ ပို့ပြီးပြီ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，等他回复吧。",
+          "meaning_my": "ကောင်းပြီ၊ သူ ပြန်ဖြေတာ စောင့်ရအောင်။"
+        },
+        {
+          "text": "发的是最新版吗？",
+          "meaning_my": "နောက်ဆုံးပြင်ထားတဲ့ဖိုင်ကို ပို့တာလား။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "yǐ jīng fā gěi zhǔ guǎn le",
+      "phonetic_my": "ယီ ကျင်း ဖာ ကေး ကျူ ကွမ် လ"
+    },
+    {
+      "id": "s53_4_0009",
+      "level": "must",
+      "text": "还有一项没确认。",
+      "meaning_my": "နောက်တစ်ခု အတည်မပြုရသေးဘူး။",
+      "alternatives": [
+        {
+          "text": "还有一项没核对。",
+          "meaning_my": "နောက်တစ်ခု မစစ်ရသေးဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "是哪一项？",
+          "meaning_my": "ဘယ်အချက်လဲ။"
+        },
+        {
+          "text": "先确认好再提交。",
+          "meaning_my": "အရင် သေချာအတည်ပြုပြီးမှ တင်ပါ။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "hái yǒu yí xiàng méi què rèn",
+      "phonetic_my": "ဟိုင်း ယိုး ယီ ရှျန်း မေး ချွဲ ရန်"
+    },
+    {
+      "id": "s53_4_0010",
+      "level": "must",
+      "text": "数据和单子对不上。",
+      "meaning_my": "ဒေတာနဲ့ စာရင်း မကိုက်ဘူး။",
+      "alternatives": [
+        {
+          "text": "数据对不上。",
+          "meaning_my": "ဒေတာ မကိုက်ဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "差在哪里？",
+          "meaning_my": "ဘယ်နေရာမှာ ကွာနေတာလဲ။"
+        },
+        {
+          "text": "先别提交，重新核对。",
+          "meaning_my": "အရင် မတင်သေးနဲ့၊ ပြန်စစ်ပါ။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [
+        {
+          "text": "数量或记录不一致时先核对，避免直接提交错误信息。",
+          "text_my": "အရေအတွက် ဒါမှမဟုတ် စာရင်း မကိုက်ရင် အရင်စစ်ပြီးမှ တင်ပါ။"
+        }
+      ],
+      "pinyin": "shǔ jù hé dān zi duì bú shàng",
+      "phonetic_my": "ရှူ ကျွီ ဟယ် တန် ဇီး တွေး ပု ရှန်း"
+    },
+    {
+      "id": "s53_4_0011",
+      "level": "listen",
+      "text": "做完了吗？",
+      "meaning_my": "လုပ်ပြီးပြီလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "做完了，可以检查。",
+          "meaning_my": "ပြီးပြီ၊ စစ်ကြည့်လို့ရပြီ။"
+        },
+        {
+          "text": "还差十个，快了。",
+          "meaning_my": "ဆယ်ခုလိုသေးတယ်၊ ပြီးတော့မယ်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zuò wán le ma",
+      "phonetic_my": "ဇွော ဝမ် လ မာ"
+    },
+    {
+      "id": "s53_4_0012",
+      "level": "listen",
+      "text": "还差多少？",
+      "meaning_my": "ဘယ်လောက် လိုသေးလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "还差十个。",
+          "meaning_my": "ဆယ်ခု လိုသေးတယ်။"
+        },
+        {
+          "text": "还差两箱。",
+          "meaning_my": "နှစ်သေတ္တာ လိုသေးတယ်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "hái chà duō shǎo",
+      "phonetic_my": "ဟိုင်း ချာ တွော ရှောင်"
+    },
+    {
+      "id": "s53_4_0013",
+      "level": "listen",
+      "text": "哪里有问题？",
+      "meaning_my": "ဘယ်နေရာမှာ ပြဿနာရှိလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "数量对不上。",
+          "meaning_my": "အရေအတွက် မကိုက်ဘူး။"
+        },
+        {
+          "text": "这台机器停了。",
+          "meaning_my": "ဒီစက် ရပ်သွားပြီ။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "nǎ lǐ yǒu wèn tí",
+      "phonetic_my": "နာ လီ ယိုး ဝန် ထီ"
+    },
+    {
+      "id": "s53_4_0014",
+      "level": "listen",
+      "text": "做好了叫我。",
+      "meaning_my": "လုပ်ပြီးရင် ကျွန်တော့်ကို ခေါ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，做好就叫您。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ပြီးတာနဲ့ ခေါ်ပါမယ်။"
+        },
+        {
+          "text": "大概十分钟能好。",
+          "meaning_my": "နောက် ဆယ်မိနစ်လောက်ဆို ပြီးမယ်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zuò hǎo le jiào wǒ",
+      "phonetic_my": "ဇွော ဟောင် လ ကျောင် ဝေါ"
+    },
+    {
+      "id": "s53_4_0015",
+      "level": "listen",
+      "text": "这个还要改。",
+      "meaning_my": "ဒီဟာကို ထပ်ပြင်ရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "哪里需要改？",
+          "meaning_my": "ဘယ်နေရာ ပြင်ဖို့လိုလဲ။"
+        },
+        {
+          "text": "好，我马上改。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ချက်ချင်းပြင်မယ်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè ge hái yào gǎi",
+      "phonetic_my": "ကျ က ဟိုင်း ယောင် ကိုင်"
+    },
+    {
+      "id": "s53_4_0016",
+      "level": "listen",
+      "text": "先别提交。",
+      "meaning_my": "အရင် မတင်သေးပါနဲ့။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，等您确认。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အတည်ပြုတာ စောင့်ပါမယ်။"
+        },
+        {
+          "text": "是哪里有问题吗？",
+          "meaning_my": "ဘယ်နေရာမှာ ပြဿနာရှိလို့လဲ။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān bié tí jiāo",
+      "phonetic_my": "ရှျန် ပျဲ ထီ ကျောင်"
+    },
+    {
+      "id": "s53_4_0017",
+      "level": "listen",
+      "text": "做完发给我。",
+      "meaning_my": "ပြီးရင် ကျွန်တော့်ဆီ ပို့ပါ။",
+      "alternatives": [
+        {
+          "text": "完成后发我。",
+          "meaning_my": "ပြီးရင် ကျွန်တော့်ဆီ ပို့ပါ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "好，做好就发。",
+          "meaning_my": "ဟုတ်ကဲ့၊ ပြီးတာနဲ့ ပို့မယ်။"
+        },
+        {
+          "text": "发到工作群里吗？",
+          "meaning_my": "အလုပ်အဖွဲ့ထဲကို ပို့ရမှာလား။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [],
+      "pinyin": "zuò wán fā gěi wǒ",
+      "phonetic_my": "ဇွော ဝမ် ဖာ ကေး ဝေါ"
+    },
+    {
+      "id": "s53_4_0018",
+      "level": "listen",
+      "text": "有风险就先停。",
+      "meaning_my": "အန္တရာယ်ရှိနိုင်ရင် အရင်ရပ်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "好，我先停下。",
+          "meaning_my": "ဟုတ်ကဲ့၊ အရင် ရပ်ထားမယ်။"
+        },
+        {
+          "text": "我去找主管确认。",
+          "meaning_my": "ကြီးကြပ်ရေးမှူးဆီ သွားပြီး သေချာမေးမယ်။"
+        }
+      ],
+      "lesson_id": "53.4",
+      "lesson_title": "53.4 汇报完成问题",
+      "lesson_title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
+      "mistakes": [
+        {
+          "text": "发现安全风险时停止相关操作并及时通知主管。",
+          "text_my": "အန္တရာယ်တွေ့ရင် အလုပ်ကို အရင်ရပ်ပြီး ကြီးကြပ်ရေးမှူးကို ချက်ချင်းပြောပါ။"
+        }
+      ],
+      "pinyin": "yǒu fēng xiǎn jiù xiān tíng",
+      "phonetic_my": "ယိုး ဖုန်း ရှန် ကျိုး ရှျန် ထင်း"
+    }
+  ],
+  "quality_notes": {
+    "reply_first": true,
+    "short_natural": true,
+    "when_to_use_removed": true,
+    "needs_pronunciation_review": true
+  }
+}
