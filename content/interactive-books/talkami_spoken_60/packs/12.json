@@ -1,10 +1,10 @@
 {
   "theme_id": "12",
-  "version": 11,
-  "updated_at": "2026-10-31T14:06:23.957Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:38:59.462Z",
   "theme_title": "12 家庭朋友",
   "theme_title_my": "12 မိသားစုနှင့် သူငယ်ချင်း",
-  "quality_standard": "V11: 89 primary learning cards + 8 historical source references = 97 historical source entries. Stable IDs, levels and all source links preserved in source/12.json lessons[].source_links. Colloquial Chinese and Burmese replies, gender-neutral conversational translations, sensitive family/privacy and respectful address notes. Removed usage fields; Burmese native-teacher and audio final review pending.",
+  "quality_standard": "V12: 89 primary learning cards + 8 historical source references = 97 historical source entries. Stable IDs, levels and all source links preserved in source/12.json lessons[].source_links. Colloquial Chinese and Burmese replies, gender-neutral conversational translations, sensitive family/privacy and respectful address notes. Removed usage fields; Burmese native-teacher and audio final review pending. | Cross-theme QA: normalized optional mistakes fields; historical source links/stable IDs maintained; auxiliary pronunciation requires real audio review.",
   "source_phrase_count": 97,
   "lessons": [
     {
@@ -2959,5 +2959,6 @@
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 89
 }
