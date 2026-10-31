@@ -1,9 +1,9 @@
 {
-  "version": 58,
+  "version": 59,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3322,
+  "item_count": 3393,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2006,12 +2006,40 @@
           "theme_id": "49",
           "title": "银行邮政",
           "title_my": "ဘဏ်နှင့် စာတိုက်",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 71,
+          "lessons": [
+            {
+              "id": "49.1",
+              "title": "49.1 银行卡与取现",
+              "title_my": "49.1 ဘဏ်ကတ်နှင့် ငွေထုတ်ခြင်း",
+              "count": 19
+            },
+            {
+              "id": "49.2",
+              "title": "49.2 转账汇款",
+              "title_my": "49.2 ငွေလွှဲခြင်း",
+              "count": 16
+            },
+            {
+              "id": "49.3",
+              "title": "49.3 银行卡异常",
+              "title_my": "49.3 ဘဏ်ကတ်ပြဿနာ",
+              "count": 18
+            },
+            {
+              "id": "49.4",
+              "title": "49.4 邮政国际寄件",
+              "title_my": "49.4 နိုင်ငံတကာစာပို့ခြင်း",
+              "count": 18
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/49.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/49.json",
+          "data_version": 2
         },
         {
           "theme_id": "50",
@@ -2154,8 +2182,8 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "theme46-emergency-reply-first-v2",
-  "source_status": "47 published themes, 13 missing; native-speaker review pending",
+  "revision": "theme49-banking-post-natural-reply-first-v2",
+  "source_status": "48 published themes, 12 missing; native speaker review pending",
   "schema_version": 1,
   "updated_at": "2026-10-31T00:00:00Z",
   "packs_base_path": "packs/"
