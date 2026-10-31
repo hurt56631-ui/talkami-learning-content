@@ -1,10 +1,10 @@
 {
   "theme_id": "11",
-  "version": 10,
-  "updated_at": "2026-10-11T12:45:00Z",
+  "version": 11,
+  "updated_at": "2026-10-31T21:00:00Z",
   "theme_title": "11 个人信息",
   "theme_title_my": "11 ကိုယ်ရေးအချက်အလက်",
-  "quality_standard": "Talkami 中缅口语卡片编校 V2：103张原主卡逐张核查中文与缅语、交际场景及回应，附声调拼音；稳定编号、课次、权限及来源关联保留；缅语教师终审与音频实测待完成。",
+  "quality_standard": "V11: 103 unique published cards from 108 historical source phrases (4 alternatives and 1 cross-theme reuse). Canonical s11_1 stable IDs preserved. Myanmar-focused editing of names/surnames, consent and privacy, addresses, service staff roles, gender-neutral self-introduction and natural replies; all 103 cards retain two replies. Native Myanmar-language specialist review, locale-dependent names and real-audio QA pending.",
   "source_phrase_count": 108,
   "lessons": [
     {
@@ -21,8 +21,6 @@
           "level": "must",
           "text": "你叫什么名字？",
           "meaning_my": "နာမည် ဘယ်လိုခေါ်လဲ။",
-          "when_to_use": "第一次认识朋友或同事，想知道对方叫什么时问；对陌生长辈可改用更礼貌的问法。",
-          "when_to_use_my": "သူငယ်ချင်းအသစ် ဒါမှမဟုတ် လုပ်ဖော်ကိုင်ဖက်အသစ်နဲ့ သိကျွမ်းချိန် နာမည်မေးဖို့ သုံးတယ်။ လူကြီးကိုတော့ ပိုယဉ်ကျေးစွာ မေးသင့်တယ်။",
           "alternatives": [
             {
               "text": "你叫什么？",
@@ -42,13 +40,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "nǐ jiào shén me míng zi",
           "mistakes": [
             {
               "text": "“你叫什么名字？”是询问姓名，不必在缅语里固定用“မင်း”，对不熟的人应柔和询问；“你姓什么”只问姓氏。",
               "text_my": "“你叫什么名字？” က နာမည်မေးတာပါ။ မရင်းနှီးသူကို “မင်း” လို့ တိုက်ရိုက်မခေါ်ဘဲ “နာမည် ဘယ်လိုခေါ်လဲ” လို့ မေးတာ ပိုသင့်တော်တယ်။ “姓什么” ကတော့ မျိုးရိုးနာမည်ကိုပဲ မေးတာပါ။"
             }
           ],
+          "pinyin": "nǐ jiào shén me míng zi",
           "phonetic_my": "နီ ကျောင် ရှန် မ မင်း ဇီး"
         },
         {
@@ -56,8 +54,6 @@
           "level": "must",
           "text": "我叫敏敏。",
           "meaning_my": "နာမည်က မင်းမင်းပါ။",
-          "when_to_use": "认识新同事、同学时，用“我叫……”介绍自己；把敏敏换成自己的名字。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်အသစ်၊ အတန်းဖော်အသစ်ကို ကိုယ့်နာမည် မိတ်ဆက်တဲ့အခါ သုံးတယ်။ “敏敏” နေရာမှာ ကိုယ့်နာမည် အစားထိုးပြောပါ။",
           "alternatives": [
             {
               "text": "我的名字叫敏敏。",
@@ -77,22 +73,20 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "wǒ jiào mǐn mǐn",
-          "phonetic_my": "ဝေါ ကျောင် မင် မင်",
           "mistakes": [
             {
               "text": "“我叫敏敏” introduces your own name; “叫我敏敏” tells the other person what to call you. Name examples are fictional and must not replace your document spelling.",
               "text_my": "“我叫敏敏” က ကိုယ့်နာမည်ကို မိတ်ဆက်တာပါ။ “叫我敏敏” က အဲဒီနာမည်နဲ့ ခေါ်ဖို့ ပြောတာပါ။ ဖောင်မှာတော့ ကိုယ့်တရားဝင်နာမည်ကိုပဲ ရေးပါ။"
             }
-          ]
+          ],
+          "pinyin": "wǒ jiào mǐn mǐn",
+          "phonetic_my": "ဝေါ ကျောင် မင် မင်"
         },
         {
           "id": "s11_1_0003",
           "level": "must",
           "text": "你姓什么？",
           "meaning_my": "မျိုးရိုးနာမည် ဘာလဲ။",
-          "when_to_use": "填表或认识中国同事时，只想知道对方的姓而不是全名，就可以这样问。",
-          "when_to_use_my": "ဖောင်ဖြည့်တာ၊ တရုတ်လုပ်ဖော်ကိုင်ဖက်နဲ့ သိကျွမ်းတဲ့အခါ နာမည်အပြည့်မဟုတ်ဘဲ မျိုးရိုးနာမည်ကို မေးဖို့ သုံးတယ်။",
           "alternatives": [
             {
               "text": "您贵姓？",
@@ -112,13 +106,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "nǐ xìng shén me",
           "mistakes": [
             {
               "text": "In Chinese a 姓 is usually a family surname. Many Burmese names do not have a matching inherited surname; do not assume the first syllable is the surname. “您贵姓？” is polite, not an inquiry about wealth.",
               "text_my": "တရုတ်လို “姓” က မျိုးရိုးနာမည်ပါ။ မြန်မာနာမည်အများစုမှာ ဒီလို မျိုးရိုးခွဲထားတာ မရှိတတ်လို့ ပထမစာလုံးကို မျိုးရိုးနာမည်လို့ မယူဆပါနဲ့။ “您贵姓？” က ယဉ်ကျေးစွာ မေးတာပါ။"
             }
           ],
+          "pinyin": "nǐ xìng shén me",
           "phonetic_my": "နီ ရှင်း ရှန် မ"
         },
         {
@@ -126,8 +120,6 @@
           "level": "must",
           "text": "我没有姓。",
           "meaning_my": "မျိုးရိုးနာမည် မရှိပါဘူး။",
-          "when_to_use": "别人问你姓什么，但你的姓名没有单独的中国式姓氏时，用来说明自己的姓名结构。",
-          "when_to_use_my": "တစ်ဖက်လူက မျိုးရိုးနာမည် မေးပေမယ့် ကိုယ့်နာမည်မှာ တရုတ်နာမည်လို သီးခြားမျိုးရိုးနာမည် မရှိတဲ့အခါ ရှင်းပြဖို့ သုံးတယ်။",
           "alternatives": [
             {
               "text": "我没有姓氏。",
@@ -147,13 +139,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "wǒ méi yǒu xìng",
           "mistakes": [
             {
               "text": "“没有姓” does not mean no personal name; Burmese legal names may have no separate family surname. Complete official forms according to documents and staff instructions, not an invented surname.",
               "text_my": "“没有姓” က နာမည်မရှိတာ မဟုတ်ဘူး။ မြန်မာနာမည်အချို့မှာ မျိုးရိုးနာမည် သီးသန့် မရှိဘူး။ ဖောင်ဖြည့်ရင် စာရွက်စာတမ်းနဲ့ ဝန်ထမ်းညွှန်ကြားချက်အတိုင်း ဖြည့်ပါ။"
             }
           ],
+          "pinyin": "wǒ méi yǒu xìng",
           "phonetic_my": "ဝေါ မေး ယိုး ရှင်း"
         },
         {
@@ -161,8 +153,6 @@
           "level": "must",
           "text": "你多大？",
           "meaning_my": "အသက် ဘယ်လောက်ရှိပြီလဲ။",
-          "when_to_use": "熟人聊天或工作人员登记年龄时，可以询问年龄；不熟的人可能不愿回答。",
-          "when_to_use_my": "ရင်းနှီးသူနဲ့ စကားပြောချိန် ဒါမှမဟုတ် အချက်အလက်စာရင်းသွင်းချိန် အသက်မေးဖို့ သုံးတယ်။ မရင်းနှီးသူက မဖြေချင်တာလည်း ရှိနိုင်တယ်။",
           "alternatives": [
             {
               "text": "你今年多大？",
@@ -182,13 +172,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "nǐ duō dà",
           "mistakes": [
             {
               "text": "“你多大？” is direct and can sound intrusive with strangers or older people. Age is personal; in registration contexts explain why you need it.",
               "text_my": "“你多大？” က အသက်ကို တိုက်ရိုက်မေးတာပါ။ မရင်းနှီးသူကို နှုတ်ဆက်စကားအဖြစ် မမေးသင့်ဘူး။ လိုအပ်မှ ယဉ်ကျေးစွာ မေးပါ။"
             }
           ],
+          "pinyin": "nǐ duō dà",
           "phonetic_my": "နီ တွော တာ"
         },
         {
@@ -196,8 +186,6 @@
           "level": "must",
           "text": "我今年二十五岁。",
           "meaning_my": "ဒီနှစ် အသက် ၂၅ နှစ်ရှိပြီ။",
-          "when_to_use": "别人问“你多大”或登记年龄时，用完整的“我今年……岁”回答。",
-          "when_to_use_my": "အသက်ဘယ်လောက်လဲ မေးလာရင် “我今年……岁” ဆိုပြီး ကိုယ့်အသက်ကို ဖြေတယ်။",
           "alternatives": [
             {
               "text": "我二十五岁。",
@@ -217,22 +205,20 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "wǒ jīn nián èr shí wǔ suì",
-          "phonetic_my": "ဝေါ ကျင် နျန် အာ ရှီး ဝူ ဆွေး",
           "mistakes": [
             {
               "text": "In “二十五岁” the number is age in completed years, not birth year; the speaker's gender need not be forced in Burmese.",
               "text_my": "“二十五岁” က အသက် ၂၅ နှစ်ကို ပြောတာပါ။ မွေးနှစ် မဟုတ်ဘူး။ မြန်မာလို “ဒီနှစ် အသက် ၂၅ နှစ်ရှိပြီ” လို့ ကျား၊ မ မခွဲဘဲ ပြောနိုင်တယ်။"
             }
-          ]
+          ],
+          "pinyin": "wǒ jīn nián èr shí wǔ suì",
+          "phonetic_my": "ဝေါ ကျင် နျန် အာ ရှီး ဝူ ဆွေး"
         },
         {
           "id": "s11_1_0007",
           "level": "must",
           "text": "你的名字怎么写？",
           "meaning_my": "နာမည်ကို ဘယ်လိုရေးရလဲ။",
-          "when_to_use": "记名字、填写表格或加微信前，想核对汉字写法时问。",
-          "when_to_use_my": "နာမည်မှတ်ချိန်၊ ဖောင်ဖြည့်ချိန် တရုတ်စာလုံးနဲ့ ဘယ်လိုရေးလဲ သေချာမေးဖို့ သုံးတယ်။",
           "alternatives": [
             {
               "text": "你的姓名怎么写？",
@@ -252,13 +238,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "nǐ de míng zi zěn me xiě",
           "mistakes": [
             {
               "text": "“怎么写” requests spelling or written characters; it is not “怎么念”. For Burmese names check the romanized spelling on the relevant identification document.",
               "text_my": "“怎么写” က နာမည်ကို ဘယ်လိုရေးရလဲ မေးတာပါ။ အသံထွက်မေးတာ မဟုတ်ဘူး။ မြန်မာနာမည်ဆို သက်ဆိုင်ရာ စာရွက်စာတမ်းပေါ်က စာလုံးပေါင်းကို စစ်ပါ။"
             }
           ],
+          "pinyin": "nǐ de míng zi zěn me xiě",
           "phonetic_my": "နီ တ မင်း ဇီး ဇန် မ ရှျဲ"
         },
         {
@@ -266,8 +252,6 @@
           "level": "must",
           "text": "可以叫我敏敏。",
           "meaning_my": "မင်းမင်းလို့ ခေါ်လို့ရတယ်။",
-          "when_to_use": "已经认识对方，想告诉他平时怎样叫自己时说“可以叫我……”。",
-          "when_to_use_my": "အချင်းချင်း သိကျွမ်းပြီး ကိုယ့်ကို ပုံမှန် ဘယ်လိုခေါ်လို့ရသလဲ ပြောတဲ့အခါ သုံးတယ်။",
           "alternatives": [
             {
               "text": "叫我敏敏就行。",
@@ -287,22 +271,20 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "kě yǐ jiào wǒ mǐn mǐn",
-          "phonetic_my": "ခ ယီ ကျောင် ဝေါ မင် မင်",
           "mistakes": [
             {
               "text": "“可以叫我” gives permission to use a familiar name, not a legal-name declaration; in official registration use the identification document name.",
               "text_my": "“可以叫我敏敏” က မင်းမင်းလို့ ခေါ်နိုင်တယ်လို့ ပြောတာပါ။ တရားဝင်စာရွက်စာတမ်းပေါ်က နာမည်ကို အစားမထိုးပါနဲ့။"
             }
-          ]
+          ],
+          "pinyin": "kě yǐ jiào wǒ mǐn mǐn",
+          "phonetic_my": "ခ ယီ ကျောင် ဝေါ မင် မင်"
         },
         {
           "id": "s11_1_0009",
           "level": "must",
           "text": "我的证件上没有姓。",
           "meaning_my": "အထောက်အထားမှာ မျိုးရိုးနာမည် သီးသန့် မပါဘူး။",
-          "when_to_use": "登记姓名时，证件上的姓名确实没有单独的姓氏信息，就向工作人员解释。",
-          "when_to_use_my": "စာရင်းသွင်းချိန် မှတ်ပုံတင် ဒါမှမဟုတ် ခရီးသွားလက်မှတ်မှာ မျိုးရိုးနာမည် သီးသန့်မရှိရင် ဝန်ထမ်းကို ရှင်းပြဖို့ သုံးတယ်။",
           "alternatives": [
             {
               "text": "我的证件没有姓氏。",
@@ -322,13 +304,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "wǒ de zhèng jiàn shàng méi yǒu xìng",
           "mistakes": [
             {
               "text": "A missing separate surname on ID is not permission to invent one or ignore mandatory fields. Ask the clerk how to split name fields for a Burmese name.",
               "text_my": "အထောက်အထားမှာ မျိုးရိုးနာမည် သီးသန့် မပါရင် ဖောင်မှာ ကိုယ့်သဘောနဲ့ မျိုးရိုးနာမည် မဖန်တီးပါနဲ့။ ဘယ်ကွက်ကို ဘယ်လိုဖြည့်ရမလဲ ဝန်ထမ်းကို မေးပါ။"
             }
           ],
+          "pinyin": "wǒ de zhèng jiàn shàng méi yǒu xìng",
           "phonetic_my": "ဝေါ တ ကျန်း ကျန် ရှန်း မေး ယိုး ရှင်း"
         },
         {
@@ -336,8 +318,6 @@
           "level": "must",
           "text": "名字是这几个字吗？",
           "meaning_my": "နာမည်ကို ဒီစာလုံးတွေနဲ့ ရေးထားတာ ဟုတ်လား။",
-          "when_to_use": "别人把你的中文名字写在纸上，你想确认这些字对不对时问。",
-          "when_to_use_my": "တစ်ဖက်လူက ကိုယ့်တရုတ်နာမည်ကို ရေးပြတဲ့အခါ စာလုံးတွေ မှန်မမှန် ပြန်အတည်ပြုဖို့ မေးတယ်။",
           "alternatives": [
             {
               "text": "名字这样写对吗？",
@@ -357,13 +337,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "míng zi shì zhè jǐ ge zì ma",
           "mistakes": [
             {
               "text": "“这几个字”指眼前写出的汉字；正式登记时要逐字核对，读音相近不代表写对了。",
               "text_my": "“这几个字” က ရေးထားတဲ့ တရုတ်စာလုံးတွေပါ။ အသံဆင်တူရုံနဲ့ စာလုံးမှန်မယ်လို့ မယူဆပါနဲ့။"
             }
           ],
+          "pinyin": "míng zi shì zhè jǐ ge zì ma",
           "phonetic_my": "မင်း ဇီး ရှီး ကျ ကျီ က ဇီး မာ"
         },
         {
@@ -371,8 +351,6 @@
           "level": "must",
           "text": "我的中文名字叫小敏。",
           "meaning_my": "တရုတ်နာမည်က ရှောင်မင်ပါ။",
-          "when_to_use": "在学校或公司使用中文名字时，向新朋友介绍这个中文名。",
-          "when_to_use_my": "ကျောင်း ဒါမှမဟုတ် အလုပ်မှာ တရုတ်နာမည်သုံးတဲ့အခါ သူငယ်ချင်းအသစ်ကို အဲဒီနာမည်နဲ့ မိတ်ဆက်တယ်။",
           "alternatives": [
             {
               "text": "我的中文名叫小敏。",
@@ -392,13 +370,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "wǒ de zhōng wén míng zi jiào xiǎo mǐn",
           "mistakes": [
             {
               "text": "中文名是日常使用的名字，不一定等于护照、银行卡上的法定姓名；正式表格不能随便替换。",
               "text_my": "တရုတ်နာမည်က နေ့စဉ်သုံးနာမည် ဖြစ်နိုင်တယ်။ ပတ်စပို့နဲ့ ဘဏ်က တရားဝင်နာမည်ကို အစားမထိုးသင့်ဘူး။"
             }
           ],
+          "pinyin": "wǒ de zhōng wén míng zi jiào xiǎo mǐn",
           "phonetic_my": "ဝေါ တ ကျုန်း ဝန် မင်း ဇီး ကျောင် ရှောင် မင်"
         },
         {
@@ -406,8 +384,6 @@
           "level": "listen",
           "text": "我叫小李。",
           "meaning_my": "နာမည်က ရှောင်လီပါ။",
-          "when_to_use": "中国同事说“我叫小李”时，是在告诉你他的名字，接着可以打招呼。",
-          "when_to_use_my": "တရုတ်လုပ်ဖော်ကိုင်ဖက်က “我叫小李” လို့ မိတ်ဆက်လာရင် နာမည်ကို သိပြီး နှုတ်ဆက်နိုင်တယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -422,13 +398,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "wǒ jiào xiǎo lǐ",
           "mistakes": [
             {
               "text": "“小李” is usually a familiar way to address someone surnamed 李; it need not be the person's official full name. Do not copy it into a registration form without confirmation.",
               "text_my": "“小李” က လီမျိုးရိုးရှိသူကို ရင်းနှီးစွာ ခေါ်တဲ့နာမည် ဖြစ်တတ်တယ်။ မှတ်ပုံတင်နာမည်အပြည့်လို့ မယူဆပါနဲ့။"
             }
           ],
+          "pinyin": "wǒ jiào xiǎo lǐ",
           "phonetic_my": "ဝေါ ကျောင် ရှောင် လီ"
         },
         {
@@ -436,8 +412,6 @@
           "level": "listen",
           "text": "我姓王。",
           "meaning_my": "ဝမ်မျိုးရိုးပါ။",
-          "when_to_use": "有人说“我姓王”，是在告诉你姓王；正式称呼时还要看对方希望怎样被称呼。",
-          "when_to_use_my": "“我姓王” ဆိုရင် မျိုးရိုးနာမည် ဝမ်လို့ ပြောတာပါ။ ယဉ်ကျေးစွာ ခေါ်ဖို့ ဘယ်လိုခေါ်ရမလဲ ဆက်မေးနိုင်တယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -452,13 +426,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "wǒ xìng wáng",
           "mistakes": [
             {
               "text": "Knowing someone is surnamed 王 does not establish gender or age. “王先生” is for a man; Burmese “ဦးဝမ်” is not universally suitable. Ask what title they prefer.",
               "text_my": "“我姓王” လို့ ကြားရတာနဲ့ အမျိုးသားလား၊ အသက်ဘယ်လောက်လဲဆိုတာ မသိနိုင်ဘူး။ “王先生” ကို အမျိုးသားအတွက် သုံးတာပါ။ မြန်မာလို “ဦး”၊ “ကို” စတာတွေကို လူအလိုက် သင့်တော်မှ သုံးပါ။"
             }
           ],
+          "pinyin": "wǒ xìng wáng",
           "phonetic_my": "ဝေါ ရှင်း ဝမ်း"
         },
         {
@@ -466,8 +440,6 @@
           "level": "listen",
           "text": "叫我小李就行。",
           "meaning_my": "ရှောင်လီလို့ပဲ ခေါ်ပါ။",
-          "when_to_use": "别人说“叫我小李就行”，是在表示不需要太正式，可以直接叫小李。",
-          "when_to_use_my": "“叫我小李就行” လို့ ပြောရင် ရင်းနှီးစွာ ရှောင်လီလို့ ခေါ်လို့ရတယ်ဆိုတဲ့သဘောပါ။",
           "alternatives": [
             {
               "text": "叫我小李就可以。",
@@ -487,22 +459,20 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "jiào wǒ xiǎo lǐ jiù xíng",
-          "phonetic_my": "ကျောင် ဝေါ ရှောင် လီ ကျိုး ရှင်း",
           "mistakes": [
             {
               "text": "“叫我小李就行” means that familiar form of address is enough, not that every official document should contain “小李”.",
               "text_my": "“叫我小李就行” က ရှောင်လီလို့ပဲ ခေါ်ရင်ရပြီဆိုတာပါ။ တရားဝင်ဖောင်မှာလည်း အဲဒီလို ရေးရမယ်လို့ မဆိုလိုဘူး။"
             }
-          ]
+          ],
+          "pinyin": "jiào wǒ xiǎo lǐ jiù xíng",
+          "phonetic_my": "ကျောင် ဝေါ ရှောင် လီ ကျိုး ရှင်း"
         },
         {
           "id": "s11_1_0015",
           "level": "listen",
           "text": "你没有姓，对吗？",
           "meaning_my": "မျိုးရိုးနာမည် မရှိဘူးဆိုတာ ဟုတ်လား။",
-          "when_to_use": "工作人员在填表前，已经听对方说没有姓，想再次确认时才这样问。",
-          "when_to_use_my": "ဖောင်ဖြည့်တဲ့ဝန်ထမ်းက မျိုးရိုးနာမည်မရှိဘူးလို့ ကြားထားပြီးသားဖြစ်လို့ ထပ်အတည်ပြုချိန် မေးတယ်။",
           "alternatives": [
             {
               "text": "你没有姓，是吗？",
@@ -522,13 +492,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "nǐ méi yǒu xìng duì ma",
           "mistakes": [
             {
               "text": "The negative confirmation “你没有姓，对吗？” assumes the other person lacks a surname. It may be inappropriate unless they have already said so; ask a neutral question instead.",
               "text_my": "“你没有姓，对吗？” က မျိုးရိုးနာမည်မရှိဘူးလို့ ကြိုယူဆပြီး မေးတာပါ။ တစ်ဖက်လူ မပြောရသေးရင် “你姓什么？” လို့ပဲ မေးတာ ပိုသင့်တော်တယ်။"
             }
           ],
+          "pinyin": "nǐ méi yǒu xìng duì ma",
           "phonetic_my": "နီ မေး ယိုး ရှင်း တွေး မာ"
         },
         {
@@ -536,8 +506,6 @@
           "level": "listen",
           "text": "名字写这里。",
           "meaning_my": "နာမည်ကို ဒီမှာရေးပါ။",
-          "when_to_use": "办理登记时，工作人员指着姓名栏说“名字写这里”，请你在指定位置填写。",
-          "when_to_use_my": "စာရင်းဖြည့်ချိန် ဝန်ထမ်းက နာမည်ရေးရမယ့်ကွက်ကို ညွှန်ပြပြီး ဒီမှာရေးပါလို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "姓名写这里。",
@@ -557,22 +525,20 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "míng zi xiě zhè li",
-          "phonetic_my": "မင်း ဇီး ရှျဲ ကျ လီ",
           "mistakes": [
             {
               "text": "On forms “姓名” generally means the actual registered name. Do not substitute a casual Chinese nickname for a passport name without explicit permission.",
               "text_my": "ဖောင်မှာ “姓名” က တရားဝင်နာမည်ကို ဆိုလိုတတ်တယ်။ ပတ်စပို့နာမည်အစား တရုတ်လို ခေါ်နာမည်ကို ကိုယ့်သဘောနဲ့ မရေးပါနဲ့။"
             }
-          ]
+          ],
+          "pinyin": "míng zi xiě zhè li",
+          "phonetic_my": "မင်း ဇီး ရှျဲ ကျ လီ"
         },
         {
           "id": "s11_1_0017",
           "level": "listen",
           "text": "请说一下姓名。",
           "meaning_my": "နာမည်လေး ပြောပြပေးပါ။",
-          "when_to_use": "前台、医院或公司登记时，工作人员请你口头报出姓名。",
-          "when_to_use_my": "ဧည့်ကြိုကောင်တာ၊ ဆေးရုံ၊ ကုမ္ပဏီမှာ စာရင်းသွင်းချိန် ဝန်ထမ်းက ကိုယ့်နာမည် ပြောခိုင်းတဲ့အခါ ကြားရတယ်။",
           "alternatives": [
             {
               "text": "麻烦说一下姓名。",
@@ -592,22 +558,20 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "qǐng shuō yí xià xìng míng",
-          "phonetic_my": "ချင်း ရှွော ယီ ရှျာ ရှင်း မင်း",
           "mistakes": [
             {
               "text": "“请说一下姓名” is a polite request to state the person's name, often at a counter. It does not request their age or documents unless explicitly asked.",
               "text_my": "“请说一下姓名” က နာမည် ပြောပြပေးဖို့ ယဉ်ကျေးစွာ မေးတာပါ။ အသက်၊ စာရွက်စာတမ်းတွေပါ တစ်ခါတည်း တောင်းတာ မဟုတ်ဘူး။"
             }
-          ]
+          ],
+          "pinyin": "qǐng shuō yí xià xìng míng",
+          "phonetic_my": "ချင်း ရှွော ယီ ရှျာ ရှင်း မင်း"
         },
         {
           "id": "s11_1_0018",
           "level": "listen",
           "text": "今年三十二。",
           "meaning_my": "ဒီနှစ် အသက် ၃၂ နှစ်ရှိပြီ။",
-          "when_to_use": "别人回答“今年三十二”，是在省略“我……岁”后，说明今年的年龄。",
-          "when_to_use_my": "“今年三十二” လို့ ပြောရင် “အသက် ၃၂ နှစ်” လို့ တိုတို ဖြေထားတာပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -622,13 +586,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "jīn nián sān shí èr",
           "mistakes": [
             {
               "text": "“今年三十二”是口语省略“岁”；正式填写年龄时不要把“今年”当出生年份。",
               "text_my": "“今年三十二” က “岁” ကို ချန်ပြီး ပြောတာပါ။ ဖောင်ဖြည့်ရင် မွေးနှစ်နဲ့ မရောပါနဲ့။"
             }
           ],
+          "pinyin": "jīn nián sān shí èr",
           "phonetic_my": "ကျင် နျန် စန် ရှီး အာ"
         },
         {
@@ -636,8 +600,6 @@
           "level": "listen",
           "text": "怎么称呼您？",
           "meaning_my": "ဘယ်လိုခေါ်ပေးရမလဲ။",
-          "when_to_use": "对客户、长辈或不熟的成年人，想礼貌地知道该怎么称呼对方时说。",
-          "when_to_use_my": "ဖောက်သည်၊ လူကြီး ဒါမှမဟုတ် မရင်းနှီးတဲ့သူကို ဘယ်လိုခေါ်ရမလဲ ယဉ်ကျေးစွာ မေးဖို့ သုံးတယ်။",
           "alternatives": [
             {
               "text": "请问怎么称呼您？",
@@ -657,13 +619,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "zěn me chēng hu nín",
           "mistakes": [
             {
               "text": "“您” expresses respect in Mandarin. Burmese need not force male-only “ခင်ဗျာ” or the generic “ခင်ဗျား”; address older people or clients with a suitable respectful form.",
               "text_my": "“您” က “你” ထက် ပိုလေးစားတဲ့ အသုံးပါ။ မြန်မာလို “ခင်ဗျာ” ကို လူတိုင်းအတွက် အတင်းမသုံးဘဲ ဆက်ဆံရေးနဲ့ ပြောသူအလိုက် ယဉ်ကျေးစွာ ပြောပါ။"
             }
           ],
+          "pinyin": "zěn me chēng hu nín",
           "phonetic_my": "ဇန် မ ချန်း ဟူ နင်"
         },
         {
@@ -671,8 +633,6 @@
           "level": "listen",
           "text": "请核对一下姓名。",
           "meaning_my": "နာမည်ကို တစ်ချက်စစ်ဆေးပါ။",
-          "when_to_use": "工作人员请你对照证件或屏幕，确认登记的姓名是否正确。",
-          "when_to_use_my": "ဝန်ထမ်းက စာရွက်စာတမ်း ဒါမှမဟုတ် မျက်နှာပြင်ပေါ်က နာမည်ကို တိုက်စစ်ခိုင်းတဲ့အခါ သုံးတယ်။",
           "alternatives": [
             {
               "text": "请确认一下姓名。",
@@ -692,22 +652,20 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "qǐng hé duì yí xià xìng míng",
-          "phonetic_my": "ချင်း ဟယ် တွေး ယီ ရှျာ ရှင်း မင်း",
           "mistakes": [
             {
               "text": "“核对” means compare the name against the source document character by character; similar pronunciation does not guarantee the written name is correct.",
               "text_my": "“核对” က နာမည်ကို စာရွက်စာတမ်းနဲ့ စာလုံးတစ်လုံးချင်း တိုက်စစ်တာပါ။ အသံတူရုံနဲ့ စာလုံးပေါင်းမှန်မယ်လို့ မဆိုလိုဘူး။"
             }
-          ]
+          ],
+          "pinyin": "qǐng hé duì yí xià xìng míng",
+          "phonetic_my": "ချင်း ဟယ် တွေး ယီ ရှျာ ရှင်း မင်း"
         },
         {
           "id": "s11_1_0021",
           "level": "listen",
           "text": "年龄写周岁。",
           "meaning_my": "အသက်ကို ပြည့်ပြီးသားအသက်အတိုင်း ရေးပါ။",
-          "when_to_use": "填工作、保险或证件表格时，工作人员要求按照实际满周岁计算年龄。",
-          "when_to_use_my": "အလုပ်လျှောက်လွှာ၊ အာမခံ၊ စာရွက်စာတမ်း ဖောင်ဖြည့်ချိန် ပြည့်ပြီးသား အသက်နှစ်နဲ့ ရေးခိုင်းတဲ့အခါ ကြားရတယ်။",
           "alternatives": [
             {
               "text": "年龄按周岁写。",
@@ -727,13 +685,13 @@
           "lesson_id": "11.1",
           "lesson_title": "11.1 姓名年龄",
           "lesson_title_my": "11.1 အမည်နှင့် အသက်",
-          "pinyin": "nián líng xiě zhōu suì",
           "mistakes": [
             {
               "text": "“周岁” counts completed birthdays, not “虚岁”. On official forms use the age required by that form; do not automatically add one year.",
               "text_my": "“周岁” က မွေးနေ့ပြည့်ပြီးသား အသက်ကို ဆိုလိုတယ်။ “虚岁” လို တစ်နှစ် အလိုအလျောက် မပေါင်းပါနဲ့။ ဖောင်ညွှန်ကြားချက်အတိုင်း ဖြည့်ပါ။"
             }
           ],
+          "pinyin": "nián líng xiě zhōu suì",
           "phonetic_my": "နျန် လင်း ရှျဲ ကျိုး ဆွေး"
         }
       ]
@@ -752,8 +710,6 @@
           "level": "must",
           "text": "你是哪国人？",
           "meaning_my": "ဘယ်နိုင်ငံသားလဲ။",
-          "when_to_use": "认识外国同事或聊天问候时，想知道对方来自哪个国家，就问“你是哪国人”。",
-          "when_to_use_my": "နိုင်ငံခြားလုပ်ဖော်ကိုင်ဖက်နဲ့ မိတ်ဆက်ချိန် ဘယ်နိုင်ငံကလဲ မေးချင်ရင် သုံးတယ်။",
           "alternatives": [
             {
               "text": "你是哪国的？",
@@ -763,23 +719,23 @@
           "replies": [
             {
               "text": "我是缅甸人。",
-              "meaning_my": "ကျွန်တော် မြန်မာနိုင်ငံသားပါ။"
+              "meaning_my": "မြန်မာနိုင်ငံသားပါ။"
             },
             {
               "text": "我是中国人。",
-              "meaning_my": "ကျွန်တော် တရုတ်နိုင်ငံသားပါ။"
+              "meaning_my": "တရုတ်နိုင်ငံသားပါ။"
             }
           ],
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "nǐ shì nǎ guó rén",
           "mistakes": [
             {
               "text": "“哪国人”主要问来自哪个国家；口语“哪里人”不一定是在问护照国籍。",
               "text_my": "“哪国人” က ဘယ်နိုင်ငံကလဲ မေးတာပါ။ “哪里人” က မြို့၊ ဒေသကိုလည်း မေးနိုင်တယ်။"
             }
           ],
+          "pinyin": "nǐ shì nǎ guó rén",
           "phonetic_my": "နီ ရှီး နာ ကွော ရန်"
         },
         {
@@ -787,8 +743,6 @@
           "level": "must",
           "text": "我是缅甸人。",
           "meaning_my": "မြန်မာနိုင်ငံသားပါ။",
-          "when_to_use": "在工作或交朋友时，别人问你来自哪个国家，可说“我是缅甸人”。",
-          "when_to_use_my": "အလုပ်မှာဖြစ်ဖြစ် သူငယ်ချင်းဖွဲ့ချိန်ဖြစ်ဖြစ် ဘယ်နိုင်ငံသားလဲ မေးလာရင် “我是缅甸人” လို့ ဖြေတယ်။",
           "alternatives": [
             {
               "text": "我来自缅甸。",
@@ -808,13 +762,13 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ shì miǎn diàn rén",
           "mistakes": [
             {
               "text": "“我是缅甸人”是身份介绍；填国籍栏应按实际证件填写，不能照抄教材示例。",
               "text_my": "“我是缅甸人” က နေ့စဉ်မိတ်ဆက်တဲ့စကားပါ။ ဖောင်မှာ ကိုယ့်စာရွက်စာတမ်းအတိုင်း ဖြည့်ပါ။"
             }
           ],
+          "pinyin": "wǒ shì miǎn diàn rén",
           "phonetic_my": "ဝေါ ရှီး မျန် တျန် ရန်"
         },
         {
@@ -822,8 +776,6 @@
           "level": "must",
           "text": "你是哪里人？",
           "meaning_my": "ဘယ်ဒေသကလဲ။",
-          "when_to_use": "闲聊时想知道对方来自哪座城市或哪个地区，而不一定是国籍时问。",
-          "when_to_use_my": "စကားပြောရင်း ဘယ်မြို့၊ ဘယ်ဒေသကလဲ မေးချင်ရင် သုံးတယ်။ နိုင်ငံသားကိုပဲ မေးတာ မဟုတ်ဘူး။",
           "alternatives": [
             {
               "text": "你是哪里的？",
@@ -833,23 +785,23 @@
           "replies": [
             {
               "text": "我是仰光人。",
-              "meaning_my": "ကျွန်တော် ရန်ကုန်ကပါ။"
+              "meaning_my": "ရန်ကုန်ကပါ။"
             },
             {
               "text": "我是本地人。",
-              "meaning_my": "ကျွန်တော် ဒီဒေသခံပါ။"
+              "meaning_my": "ဒီဒေသခံပါ။"
             }
           ],
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "nǐ shì nǎ li rén",
           "mistakes": [
             {
               "text": "“哪里人”可指国家、城市或家乡，具体看上下文；“住哪里”问目前住处。",
               "text_my": "“哪里人” က နိုင်ငံ၊ မြို့၊ မွေးရပ်မြေကို ဆိုနိုင်တယ်။ “住哪里” က အခုနေတဲ့နေရာပါ။"
             }
           ],
+          "pinyin": "nǐ shì nǎ li rén",
           "phonetic_my": "နီ ရှီး နာ လီ ရန်"
         },
         {
@@ -857,8 +809,6 @@
           "level": "must",
           "text": "我来自仰光。",
           "meaning_my": "ရန်ကုန်က လာတာပါ။",
-          "when_to_use": "介绍自己来自仰光时用；对方可能接着问家乡的情况。",
-          "when_to_use_my": "ရန်ကုန်က လာတာလို့ ကိုယ့်ကိုယ်ကို မိတ်ဆက်ချိန် သုံးတယ်။",
           "alternatives": [
             {
               "text": "我是从仰光来的。",
@@ -868,7 +818,7 @@
           "replies": [
             {
               "text": "我也去过仰光。",
-              "meaning_my": "ကျွန်တော်လည်း ရန်ကုန်သွားဖူးတယ်။"
+              "meaning_my": "လည်း ရန်ကုန်သွားဖူးတယ်။"
             },
             {
               "text": "你家还在仰光吗？",
@@ -878,26 +828,24 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ lái zì yǎng guāng",
           "mistakes": [
             {
               "text": "“来自仰光”强调来源；“刚从仰光过来”更强调刚刚从那里出发。",
               "text_my": "“来自仰光” က မူလဒေသကို အလေးပေးတယ်။ “刚从仰光过来” က မကြာခင်က လာတာပါ။"
             }
           ],
+          "pinyin": "wǒ lái zì yǎng guāng",
           "phonetic_my": "ဝေါ လိုင် ဇီး ယန်း ကွမ်း"
         },
         {
           "id": "s11_2_0005",
           "level": "must",
           "text": "我老家在曼德勒。",
-          "meaning_my": "ကျွန်တော့် မွေးရပ်မြေက မန္တလေးမှာပါ။",
-          "when_to_use": "聊家乡时，说明自己的老家在曼德勒，不代表现在住在那里。",
-          "when_to_use_my": "မွေးရပ်မြေအကြောင်း ပြောရင်း မန္တလေးကပါလို့ ပြောတယ်။ အခု အဲဒီမှာနေတာကို မဆိုလိုဘူး။",
+          "meaning_my": "ကိုယ့် မွေးရပ်မြေက မန္တလေးမှာပါ။",
           "alternatives": [
             {
               "text": "我的老家在曼德勒。",
-              "meaning_my": "ကျွန်တော့် မွေးရပ်မြေက မန္တလေးမှာပါ။"
+              "meaning_my": "ကိုယ့် မွေးရပ်မြေက မန္တလေးမှာပါ။"
             }
           ],
           "replies": [
@@ -913,13 +861,13 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ lǎo jiā zài màn dé lè",
           "mistakes": [
             {
               "text": "“老家”通常指家乡或家族原来的地方，不等于现在居住的地址。",
               "text_my": "“老家” က မွေးရပ်မြေ ဒါမှမဟုတ် မူလဇာတိပါ။ လက်ရှိနေရပ်လိပ်စာနဲ့ မတူနိုင်ဘူး။"
             }
           ],
+          "pinyin": "wǒ lǎo jiā zài màn dé lè",
           "phonetic_my": "ဝေါ လောင် ကျား ဇိုင် မန် တ လ"
         },
         {
@@ -927,8 +875,6 @@
           "level": "must",
           "text": "你老家在哪儿？",
           "meaning_my": "မွေးရပ်မြေ ဘယ်မှာလဲ။",
-          "when_to_use": "已经聊到家乡，想问对方老家在哪儿时用，常见于朋友或同事闲聊。",
-          "when_to_use_my": "သူငယ်ချင်း ဒါမှမဟုတ် လုပ်ဖော်ကိုင်ဖက်နဲ့ မွေးရပ်မြေအကြောင်း ပြောရင်း ဘယ်မှာလဲ မေးတယ်။",
           "alternatives": [
             {
               "text": "你老家在哪里？",
@@ -942,7 +888,7 @@
           "replies": [
             {
               "text": "我老家在曼德勒。",
-              "meaning_my": "ကျွန်တော့် မွေးရပ်မြေက မန္တလေးမှာပါ။"
+              "meaning_my": "ကိုယ့် မွေးရပ်မြေက မန္တလေးမှာပါ။"
             },
             {
               "text": "老家在四川。",
@@ -959,9 +905,7 @@
           "id": "s11_2_0007",
           "level": "must",
           "text": "我从仰光来。",
-          "meaning_my": "ကျွန်တော် ရန်ကုန်ကလာတာပါ။",
-          "when_to_use": "说自己从仰光来中国或来某地时用，侧重来的出发地点。",
-          "when_to_use_my": "တစ်နေရာကို ရောက်လာတဲ့အခါ ရန်ကုန်ကနေ လာတာလို့ မူလထွက်လာတဲ့နေရာကို ပြောတယ်။",
+          "meaning_my": "ရန်ကုန်ကလာတာပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -976,13 +920,13 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ cóng yǎng guāng lái",
           "mistakes": [
             {
               "text": "“我从仰光来”可以指这次从仰光出发来的，不一定表示出生在仰光。",
               "text_my": "“我从仰光来” က ဒီတစ်ခေါက် ရန်ကုန်ကနေ ထွက်လာတာလည်း ဖြစ်နိုင်တယ်။ ရန်ကုန်မှာ မွေးတယ်လို့ မဆိုလိုဘူး။"
             }
           ],
+          "pinyin": "wǒ cóng yǎng guāng lái",
           "phonetic_my": "ဝေါ ဆုန်း ယန်း ကွမ်း လိုင်"
         },
         {
@@ -990,8 +934,6 @@
           "level": "must",
           "text": "你是本地人吗？",
           "meaning_my": "ဒီဒေသခံလား။",
-          "when_to_use": "新到一个城市，想知道身边的人是不是本地人、是否熟悉周围时问。",
-          "when_to_use_my": "မြို့အသစ်ရောက်ပြီး ဘေးကသူ ဒီဒေသခံလား၊ ဒီနေရာကို သိလား မေးချင်တဲ့အခါ သုံးတယ်။",
           "alternatives": [
             {
               "text": "你是这里人吗？",
@@ -1001,7 +943,7 @@
           "replies": [
             {
               "text": "是，我是本地人。",
-              "meaning_my": "ဟုတ်တယ်၊ ကျွန်တော် ဒီဒေသခံပါ။"
+              "meaning_my": "ဟုတ်တယ်၊ ဒီဒေသခံပါ။"
             },
             {
               "text": "不是，我从云南来。",
@@ -1011,26 +953,24 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "nǐ shì běn dì rén ma",
           "mistakes": [
             {
               "text": "“本地人”以所在城市为参照；换个城市，同一个人未必还是本地人。",
               "text_my": "“本地人” က အခုရှိတဲ့ဒေသအပေါ် မူတည်တယ်။ မြို့ပြောင်းရင် ဒီဒေသခံမဟုတ်တော့နိုင်ဘူး။"
             }
           ],
+          "pinyin": "nǐ shì běn dì rén ma",
           "phonetic_my": "နီ ရှီး ပန် တီ ရန် မာ"
         },
         {
           "id": "s11_2_0009",
           "level": "must",
           "text": "我老家离这里很远。",
-          "meaning_my": "ကျွန်တော့် မွေးရပ်မြေက ဒီနေရာနဲ့ အရမ်းဝေးတယ်။",
-          "when_to_use": "聊到回乡路程时，说明家乡离目前所在地点很远。",
-          "when_to_use_my": "မွေးရပ်မြေပြန်ရတဲ့ ခရီးအကြောင်း ပြောရင်း အခုနေရာနဲ့ အဝေးကြီးလို့ ပြောတယ်။",
+          "meaning_my": "ကိုယ့် မွေးရပ်မြေက ဒီနေရာနဲ့ အရမ်းဝေးတယ်။",
           "alternatives": [
             {
               "text": "我老家离这儿很远。",
-              "meaning_my": "ကျွန်တော့် မွေးရပ်မြေက ဒီနေရာနဲ့ အရမ်းဝေးတယ်။"
+              "meaning_my": "ကိုယ့် မွေးရပ်မြေက ဒီနေရာနဲ့ အရမ်းဝေးတယ်။"
             }
           ],
           "replies": [
@@ -1053,13 +993,11 @@
           "id": "s11_2_0010",
           "level": "must",
           "text": "我来中国两年了。",
-          "meaning_my": "ကျွန်တော် တရုတ်နိုင်ငံကို ရောက်တာ ၂ နှစ်ရှိပြီ။",
-          "when_to_use": "别人问来中国多久了时，用“我来中国两年了”说明已经待了两年。",
-          "when_to_use_my": "တရုတ်နိုင်ငံကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ မေးလာရင် နှစ်နှစ်ရှိပြီလို့ ဖြေတယ်။",
+          "meaning_my": "တရုတ်နိုင်ငံကို ရောက်တာ ၂ နှစ်ရှိပြီ။",
           "alternatives": [
             {
               "text": "我到中国两年了。",
-              "meaning_my": "ကျွန်တော် တရုတ်နိုင်ငံကို ရောက်တာ ၂ နှစ်ရှိပြီ။"
+              "meaning_my": "တရုတ်နိုင်ငံကို ရောက်တာ ၂ နှစ်ရှိပြီ။"
             }
           ],
           "replies": [
@@ -1075,13 +1013,13 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ lái zhōng guó liǎng nián le",
           "mistakes": [
             {
               "text": "“来中国两年了”说的是来中国至今的时间，不能据此断定两年间从未离境。",
               "text_my": "“来中国两年了” က တရုတ်ကို ရောက်ခဲ့တာ နှစ်နှစ်ရှိပြီဆိုတဲ့သဘောပါ။ နှစ်နှစ်လုံး ဆက်နေခဲ့တယ်လို့ မသေချာဘူး။"
             }
           ],
+          "pinyin": "wǒ lái zhōng guó liǎng nián le",
           "phonetic_my": "ဝေါ လိုင် ကျုန်း ကွော လျန်း နျန် လ"
         },
         {
@@ -1089,8 +1027,6 @@
           "level": "must",
           "text": "你老家是哪里的？",
           "meaning_my": "မွေးရပ်မြေက ဘယ်ဒေသလဲ။",
-          "when_to_use": "同事谈到老家，想知道具体是哪个地区时可以追问。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က မွေးရပ်မြေအကြောင်း ပြောလာတဲ့အခါ ဘယ်ဒေသလဲ ဆက်မေးတယ်။",
           "alternatives": [
             {
               "text": "你老家是哪里？",
@@ -1100,7 +1036,7 @@
           "replies": [
             {
               "text": "我老家在曼德勒。",
-              "meaning_my": "ကျွန်တော့် မွေးရပ်မြေက မန္တလေးမှာပါ။"
+              "meaning_my": "ကိုယ့် မွေးရပ်မြေက မန္တလေးမှာပါ။"
             },
             {
               "text": "老家在四川。",
@@ -1110,13 +1046,13 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "nǐ lǎo jiā shì nǎ li de",
           "mistakes": [
             {
               "text": "“你老家是哪里的”与“你老家在哪儿”闲聊时意思相近，不必学成两种不同的问题。",
               "text_my": "“你老家是哪里的” နဲ့ “你老家在哪儿” က အဓိပ္ပာယ်ဆင်တူတယ်။ မတူတဲ့မေးခွန်းနှစ်ခုလို့ မယူဆပါနဲ့။"
             }
           ],
+          "pinyin": "nǐ lǎo jiā shì nǎ li de",
           "phonetic_my": "နီ လောင် ကျား ရှီး နာ လီ တ"
         },
         {
@@ -1124,8 +1060,6 @@
           "level": "must",
           "text": "你来中国多久了？",
           "meaning_my": "တရုတ်နိုင်ငံကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ။",
-          "when_to_use": "对在中国生活的外国朋友，想知道他们来了多久时用。",
-          "when_to_use_my": "တရုတ်မှာနေတဲ့ နိုင်ငံခြားသားမိတ်ဆွေကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ မေးတယ်။",
           "alternatives": [
             {
               "text": "你到中国多久了？",
@@ -1145,26 +1079,24 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "nǐ lái zhōng guó duō jiǔ le",
           "mistakes": [
             {
               "text": "“来中国多久了”问时长；“什么时候来的”问具体到达日期。",
               "text_my": "“来中国多久了” က ဘယ်လောက်ကြာပြီလဲ၊ “什么时候来的” က ဘယ်နေ့ရောက်လာလဲ မေးတာပါ။"
             }
           ],
+          "pinyin": "nǐ lái zhōng guó duō jiǔ le",
           "phonetic_my": "နီ လိုင် ကျုန်း ကွော တွော ကျိုး လ"
         },
         {
           "id": "s11_2_0013",
           "level": "listen",
           "text": "我是本地人。",
-          "meaning_my": "ကျွန်တော် ဒီဒေသခံပါ။",
-          "when_to_use": "被问是否外地人时，可以说“我是本地人”，表示来自这里。",
-          "when_to_use_my": "တခြားဒေသက လာတာလား မေးလာရင် ကိုယ် ဒီဒေသခံပါလို့ ဖြေတယ်။",
+          "meaning_my": "ဒီဒေသခံပါ။",
           "alternatives": [
             {
               "text": "我是这里人。",
-              "meaning_my": "ကျွန်တော် ဒီဒေသကပါ။"
+              "meaning_my": "ဒီဒေသကပါ။"
             }
           ],
           "replies": [
@@ -1188,8 +1120,6 @@
           "level": "listen",
           "text": "老家在四川。",
           "meaning_my": "မွေးရပ်မြေက စီချွမ်မှာပါ။",
-          "when_to_use": "别人说“老家在四川”，是在告诉你他的家乡是四川，可以接着聊家乡。",
-          "when_to_use_my": "“老家在四川” လို့ ပြောရင် မွေးရပ်မြေက စီချွမ်ပါဆိုတဲ့သဘော ဖြစ်တယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -1211,9 +1141,7 @@
           "id": "s11_2_0015",
           "level": "listen",
           "text": "我从云南来。",
-          "meaning_my": "ကျွန်တော် ယူနန်ကလာတာပါ။",
-          "when_to_use": "听到“我从云南来”，表示对方从云南来这里，不一定生在云南。",
-          "when_to_use_my": "“我从云南来” ဆိုရင် ယူနန်ကနေ လာတာပါ။ ယူနန်မှာ မွေးတယ်လို့ မသေချာဘူး။",
+          "meaning_my": "ယူနန်ကလာတာပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -1228,22 +1156,20 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ cóng yún nán lái",
           "mistakes": [
             {
               "text": "云南是中国的省，不是另一个国家；“从云南来”描述出发地。",
               "text_my": "ယူနန်က တရုတ်နိုင်ငံထဲက ပြည်နယ်ပါ၊ သီးခြားနိုင်ငံ မဟုတ်ဘူး။ “从云南来” က ထွက်လာတဲ့နေရာပါ။"
             }
           ],
+          "pinyin": "wǒ cóng yún nán lái",
           "phonetic_my": "ဝေါ ဆုန်း ယွင် နန် လိုင်"
         },
         {
           "id": "s11_2_0016",
           "level": "listen",
           "text": "我是中国人。",
-          "meaning_my": "ကျွန်တော် တရုတ်နိုင်ငံသားပါ။",
-          "when_to_use": "别人说“我是中国人”，是在说明自己是中国人，适合接着聊家乡。",
-          "when_to_use_my": "“我是中国人” လို့ ပြောရင် ကိုယ်က တရုတ်လူမျိုး ဒါမှမဟုတ် တရုတ်နိုင်ငံသားဖြစ်တယ်ဆိုတာ ပြောတာပါ။",
+          "meaning_my": "တရုတ်နိုင်ငံသားပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -1265,9 +1191,7 @@
           "id": "s11_2_0017",
           "level": "listen",
           "text": "我家在北方。",
-          "meaning_my": "ကျွန်တော့်အိမ်က မြောက်ပိုင်းမှာပါ။",
-          "when_to_use": "中国朋友说“我家在北方”时，了解对方家在中国北方的某个地方。",
-          "when_to_use_my": "တရုတ်သူငယ်ချင်းက အိမ် မြောက်ပိုင်းမှာရှိတယ်လို့ ပြောတဲ့အခါ ကြားရတယ်။",
+          "meaning_my": "ကိုယ့်အိမ်က မြောက်ပိုင်းမှာပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -1290,8 +1214,6 @@
           "level": "listen",
           "text": "我来自成都。",
           "meaning_my": "ချန်ဒူးက လာတာပါ။",
-          "when_to_use": "听同事说“我来自成都”时，知道他来自成都，可以追问现在住哪儿。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က ချန်ဒူးက လာတာလို့ ပြောရင် ဘယ်မှာနေလဲ ဆက်မေးနိုင်တယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -1306,22 +1228,20 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ lái zì chéng dū",
-          "phonetic_my": "ဝေါ လိုင် ဇီး ချန်း တူ",
           "mistakes": [
             {
               "text": "“成都” is a Chinese city name, not a job or district; Myanmar transliteration may vary. Check the standard name with native reviewers before recording audio.",
               "text_my": "“成都” က တရုတ်မြို့နာမည်ပါ။ မြန်မာလို “ချန်ဒူး” လို့ အနီးစပ်ဆုံး ရေးနိုင်ပေမယ့် အသံဖိုင်မထုတ်ခင် တရားဝင်အသုံးနဲ့ ပြန်စစ်သင့်တယ်။"
             }
-          ]
+          ],
+          "pinyin": "wǒ lái zì chéng dū",
+          "phonetic_my": "ဝေါ လိုင် ဇီး ချန်း တူ"
         },
         {
           "id": "s11_2_0019",
           "level": "listen",
           "text": "我是东北人。",
-          "meaning_my": "ကျွန်တော် တရုတ်အရှေ့မြောက်ပိုင်းကပါ။",
-          "when_to_use": "中国朋友自称“东北人”时，表示来自中国东北地区，不只是任何方向的东北。",
-          "when_to_use_my": "တရုတ်သူငယ်ချင်းက “东北人” လို့ ပြောရင် တရုတ်ပြည် အရှေ့မြောက်ပိုင်းကပါဆိုတဲ့သဘောပါ။",
+          "meaning_my": "တရုတ်အရှေ့မြောက်ပိုင်းကပါ။",
           "alternatives": [],
           "replies": [
             {
@@ -1336,13 +1256,13 @@
           "lesson_id": "11.2",
           "lesson_title": "11.2 国籍家乡",
           "lesson_title_my": "11.2 နိုင်ငံသားနှင့် မွေးရပ်မြေ",
-          "pinyin": "wǒ shì dōng běi rén",
           "mistakes": [
             {
               "text": "“东北人”在中国通常特指中国东北地区的人，不是任意地点东北方向的人。",
               "text_my": "“东北人” က တရုတ်ပြည် အရှေ့မြောက်ဒေသကလူကို ပြောတာများတယ်။ နေရာတိုင်းရဲ့ အရှေ့မြောက်ဘက်ကို မဆိုလိုဘူး။"
             }
           ],
+          "pinyin": "wǒ shì dōng běi rén",
           "phonetic_my": "ဝေါ ရှီး တုန်း ပေ ရန်"
         },
         {
@@ -1350,8 +1270,6 @@
           "level": "listen",
           "text": "你从哪个城市来？",
           "meaning_my": "ဘယ်မြို့ကလာတာလဲ။",
-          "when_to_use": "需要具体到城市，而不是只问国家或省份时，问“你从哪个城市来”。",
-          "when_to_use_my": "နိုင်ငံ၊ ပြည်နယ်အစား ဘယ်မြို့က လာတာလဲ တိတိကျကျ မေးချင်ရင် သုံးတယ်။",
           "alternatives": [
             {
               "text": "你从哪座城市来？",
@@ -1361,11 +1279,11 @@
           "replies": [
             {
               "text": "我从仰光来。",
-              "meaning_my": "ကျွန်တော် ရန်ကုန်ကလာတာပါ။"
+              "meaning_my": "ရန်ကုန်ကလာတာပါ။"
             },
             {
               "text": "我从成都来。",
-              "meaning_my": "ကျွန်တော် ချန်တူးကလာတာပါ။"
+              "meaning_my": "ချန်တူးကလာတာပါ။"
             }
           ],
           "lesson_id": "11.2",
@@ -1390,8 +1308,6 @@
           "level": "must",
           "text": "你住哪儿？",
           "meaning_my": "ဘယ်မှာနေလဲ။",
-          "when_to_use": "和认识的朋友或同事闲聊，想大致知道他住在什么地方时问。",
-          "when_to_use_my": "သူငယ်ချင်း၊ လုပ်ဖော်ကိုင်ဖက်နဲ့ စကားပြောရင်း ဘယ်ဘက်မှာနေလဲ မေးချင်ရင် သုံးတယ်။",
           "alternatives": [
             {
               "text": "你住在哪里？",
@@ -1401,36 +1317,34 @@
           "replies": [
             {
               "text": "我住公司附近。",
-              "meaning_my": "ကျွန်တော် ကုမ္ပဏီနားမှာနေတယ်။"
+              "meaning_my": "ကုမ္ပဏီနားမှာနေတယ်။"
             },
             {
               "text": "我住员工宿舍。",
-              "meaning_my": "ကျွန်တော် ဝန်ထမ်းအဆောင်မှာနေတယ်။"
+              "meaning_my": "ဝန်ထမ်းအဆောင်မှာနေတယ်။"
             }
           ],
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "nǐ zhù nǎr",
           "mistakes": [
             {
               "text": "住址属于隐私，普通聊天说大概区域即可，不必向陌生人透露门牌号码。",
               "text_my": "အိမ်လိပ်စာက ကိုယ်ရေးကိုယ်တာပါ။ မရင်းနှီးသူကို အိမ်နံပါတ်အတိအကျ မပြောလည်းရတယ်။"
             }
           ],
+          "pinyin": "nǐ zhù nǎr",
           "phonetic_my": "နီ ကျူ နာ"
         },
         {
           "id": "s11_3_0002",
           "level": "must",
           "text": "我住在广州。",
-          "meaning_my": "ကျွန်တော် ကွမ်ကျိုးမှာနေတယ်။",
-          "when_to_use": "介绍目前住在广州，不是在说明出生地。",
-          "when_to_use_my": "အခု ကွမ်ကျိုးမှာ နေတယ်လို့ ပြောတယ်။ မွေးရပ်မြေကို ပြောတာ မဟုတ်ဘူး။",
+          "meaning_my": "ကွမ်ကျိုးမှာနေတယ်။",
           "alternatives": [
             {
               "text": "我现在住在广州。",
-              "meaning_my": "ကျွန်တော် အခု ကွမ်ကျိုးမှာနေတယ်။"
+              "meaning_my": "အခု ကွမ်ကျိုးမှာနေတယ်။"
             }
           ],
           "replies": [
@@ -1446,26 +1360,24 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ zhù zài guǎng zhōu",
           "mistakes": [
             {
               "text": "“住在广州”说明现居地，“来自广州”才表示来源；两者不可混用。",
               "text_my": "“住在广州” က အခုနေတာပါ။ “来自广州” က ကွမ်ကျိုးက လာတာပါ။"
             }
           ],
+          "pinyin": "wǒ zhù zài guǎng zhōu",
           "phonetic_my": "ဝေါ ကျူ ဇိုင် ကွမ်း ကျိုး"
         },
         {
           "id": "s11_3_0003",
           "level": "must",
           "text": "我住公司附近。",
-          "meaning_my": "ကျွန်တော် ကုမ္ပဏီနားမှာနေတယ်။",
-          "when_to_use": "同事问你住得离公司远不远时，可说自己住在公司附近。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က အိမ်နဲ့ကုမ္ပဏီ ဝေးလား မေးရင် ကုမ္ပဏီနားမှာနေလို့ ဖြေတယ်။",
+          "meaning_my": "ကုမ္ပဏီနားမှာနေတယ်။",
           "alternatives": [
             {
               "text": "我住在公司附近。",
-              "meaning_my": "ကျွန်တော် ကုမ္ပဏီနားမှာနေတယ်။"
+              "meaning_my": "ကုမ္ပဏီနားမှာနေတယ်။"
             }
           ],
           "replies": [
@@ -1481,26 +1393,24 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ zhù gōng sī fù jìn",
           "mistakes": [
             {
               "text": "“附近”表示不远；“旁边”一般比附近更近。",
               "text_my": "“附近” က အနီးအနားပါ။ “旁边” က ပိုနီးတယ်။"
             }
           ],
+          "pinyin": "wǒ zhù gōng sī fù jìn",
           "phonetic_my": "ဝေါ ကျူ ကုန်း စီး ဖူ ကျင်"
         },
         {
           "id": "s11_3_0004",
           "level": "must",
           "text": "我住员工宿舍。",
-          "meaning_my": "ကျွန်တော် ဝန်ထမ်းအဆောင်မှာနေတယ်။",
-          "when_to_use": "刚入职或聊天谈住宿安排时，告诉对方住在员工宿舍。",
-          "when_to_use_my": "အလုပ်အသစ်ဝင်ချိန် နေထိုင်မှုအကြောင်း မေးလာရင် ဝန်ထမ်းအဆောင်မှာနေလို့ ပြောတယ်။",
+          "meaning_my": "ဝန်ထမ်းအဆောင်မှာနေတယ်။",
           "alternatives": [
             {
               "text": "我住在员工宿舍。",
-              "meaning_my": "ကျွန်တော် ဝန်ထမ်းအဆောင်မှာနေတယ်။"
+              "meaning_my": "ဝန်ထမ်းအဆောင်မှာနေတယ်။"
             }
           ],
           "replies": [
@@ -1516,26 +1426,24 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ zhù yuán gōng sù shè",
           "mistakes": [
             {
               "text": "员工宿舍不一定免费，租金和水电费需另行确认。",
               "text_my": "ဝန်ထမ်းအဆောင်က အခမဲ့ဖြစ်မယ်လို့ မသေချာဘူး။ အဆောင်ခ၊ မီးဖိုး၊ ရေဖိုးကို ထပ်မေးပါ။"
             }
           ],
+          "pinyin": "wǒ zhù yuán gōng sù shè",
           "phonetic_my": "ဝေါ ကျူ ယွမ် ကုန်း စူ ရှဲ"
         },
         {
           "id": "s11_3_0005",
           "level": "must",
           "text": "我和朋友合租。",
-          "meaning_my": "ကျွန်တော် သူငယ်ချင်းနဲ့ အတူအိမ်ငှားနေတယ်။",
-          "when_to_use": "谈房租或室友时，说明自己与朋友一起租一处住所。",
-          "when_to_use_my": "အိမ်ငှားခ၊ အခန်းဖော်အကြောင်း ပြောချိန် သူငယ်ချင်းနဲ့ အတူငှားနေတာလို့ ပြောတယ်။",
+          "meaning_my": "သူငယ်ချင်းနဲ့ အတူအိမ်ငှားနေတယ်။",
           "alternatives": [
             {
               "text": "我跟朋友合租。",
-              "meaning_my": "ကျွန်တော် သူငယ်ချင်းနဲ့ အတူအိမ်ငှားနေတယ်။"
+              "meaning_my": "သူငယ်ချင်းနဲ့ အတူအိမ်ငှားနေတယ်။"
             }
           ],
           "replies": [
@@ -1545,67 +1453,63 @@
             },
             {
               "text": "房租贵吗？",
-              "meaning_my": "အိမ်ငှားခ စျေးကြီးလား။"
+              "meaning_my": "အိမ်ငှားခ ဈေးကြီးလား။"
             }
           ],
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ hé péng you hé zū",
           "mistakes": [
             {
               "text": "“合租”是共同租房，不等于临时借住朋友家。",
               "text_my": "“合租” က အတူအိမ်ငှားနေတာပါ။ သူငယ်ချင်းအိမ်မှာ ခဏလိုက်နေတာနဲ့ မတူဘူး။"
             }
           ],
+          "pinyin": "wǒ hé péng you hé zū",
           "phonetic_my": "ဝေါ ဟယ် ဖင် ယိုး ဟယ် ဇူ"
         },
         {
           "id": "s11_3_0006",
           "level": "must",
           "text": "你住得远吗？",
-          "meaning_my": "မင်းနေတဲ့နေရာ ဝေးလား။",
-          "when_to_use": "约同事见面或一起上下班时，问他住的地方离这里或公司远不远。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်နဲ့ ချိန်းချိန် နေတဲ့နေရာက ဒီဘက်နဲ့ဝေးလား မေးတယ်။",
+          "meaning_my": "နေတဲ့နေရာ ဝေးလား။",
           "alternatives": [
             {
               "text": "你住得远不远？",
-              "meaning_my": "မင်းနေတဲ့နေရာ ဝေးလား။"
+              "meaning_my": "နေတဲ့နေရာ ဝေးလား။"
             }
           ],
           "replies": [
             {
               "text": "我住得不远。",
-              "meaning_my": "ကျွန်တော်နေတဲ့နေရာ မဝေးဘူး။"
+              "meaning_my": "နေတဲ့နေရာ မဝေးဘူး။"
             },
             {
               "text": "我住得比较远。",
-              "meaning_my": "ကျွန်တော်နေတဲ့နေရာ တော်တော်ဝေးတယ်။"
+              "meaning_my": "နေတဲ့နေရာ တော်တော်ဝေးတယ်။"
             }
           ],
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "nǐ zhù de yuǎn ma",
           "mistakes": [
             {
               "text": "“住得远”距离哪个地方不一定明确；可追问“离公司远吗”。",
               "text_my": "“住得远” က ဘယ်နေရာကနေ ဝေးလဲ မရှင်းနိုင်ဘူး။ “离公司远吗” လို့ မေးနိုင်တယ်။"
             }
           ],
+          "pinyin": "nǐ zhù de yuǎn ma",
           "phonetic_my": "နီ ကျူ တ ယွမ် မာ"
         },
         {
           "id": "s11_3_0007",
           "level": "must",
           "text": "我刚搬过来。",
-          "meaning_my": "ကျွန်တော် အခုမှ ဒီဘက်ပြောင်းလာတာ။",
-          "when_to_use": "搬到新城市或新宿舍不久，告诉邻居、同事自己刚搬来。",
-          "when_to_use_my": "မြို့အသစ်၊ အဆောင်အသစ်ကို မကြာသေးခင်က ပြောင်းလာလို့ အိမ်နီးချင်းကို ပြောတယ်။",
+          "meaning_my": "အခုမှ ဒီဘက်ပြောင်းလာတာ။",
           "alternatives": [
             {
               "text": "我刚搬到这边。",
-              "meaning_my": "ကျွန်တော် အခုမှ ဒီဘက်ပြောင်းလာတာ။"
+              "meaning_my": "အခုမှ ဒီဘက်ပြောင်းလာတာ။"
             }
           ],
           "replies": [
@@ -1621,26 +1525,24 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ gāng bān guò lái",
           "mistakes": [
             {
               "text": "“搬过来”是迁居，不是今天过来拜访；“刚”表示不久前。",
               "text_my": "“搬过来” က အိမ်ပြောင်းလာတာပါ။ အလည်လာတာ မဟုတ်ဘူး။ “刚” က မကြာသေးခင်ကပါ။"
             }
           ],
+          "pinyin": "wǒ gāng bān guò lái",
           "phonetic_my": "ဝေါ ကန်း ပန် ကွော လိုင်"
         },
         {
           "id": "s11_3_0008",
           "level": "must",
           "text": "我住这里半年了。",
-          "meaning_my": "ကျွန်တော် ဒီမှာနေတာ ခြောက်လရှိပြီ။",
-          "when_to_use": "被问在这里住多久时，回答自己已经住了半年。",
-          "when_to_use_my": "ဒီမှာ နေတာ ဘယ်လောက်ကြာပြီလဲ မေးလာရင် ခြောက်လရှိပြီလို့ ဖြေတယ်။",
+          "meaning_my": "ဒီမှာနေတာ ခြောက်လရှိပြီ။",
           "alternatives": [
             {
               "text": "我在这儿住了半年了。",
-              "meaning_my": "ကျွန်တော် ဒီမှာနေတာ ခြောက်လရှိပြီ။"
+              "meaning_my": "ဒီမှာနေတာ ခြောက်လရှိပြီ။"
             }
           ],
           "replies": [
@@ -1656,13 +1558,13 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ zhù zhè li bàn nián le",
           "mistakes": [
             {
               "text": "“住这里半年了”表示从过去到现在仍住这里，不是半年前已经搬走。",
               "text_my": "“住这里半年了” က ခြောက်လရှိပြီ၊ အခုလည်း ဒီမှာ နေနေတုန်းပါ။"
             }
           ],
+          "pinyin": "wǒ zhù zhè li bàn nián le",
           "phonetic_my": "ဝေါ ကျူ ကျ လီ ပန် နျန် လ"
         },
         {
@@ -1670,8 +1572,6 @@
           "level": "must",
           "text": "你住哪个区？",
           "meaning_my": "ဘယ်ခရိုင်မှာ နေလဲ။",
-          "when_to_use": "对住在大城市的熟人，想知道他住哪个行政区时问。",
-          "when_to_use_my": "မြို့ကြီးမှာနေတဲ့ ရင်းနှီးသူကို ဘယ်မြို့နယ်၊ ဘယ်区မှာနေလဲ မေးတယ်။",
           "alternatives": [
             {
               "text": "你住在哪个区？",
@@ -1691,26 +1591,24 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "nǐ zhù nǎ ge qū",
           "mistakes": [
             {
               "text": "The Chinese “区” here means an urban administrative district, not a building or floor. Burmese “ခရိုင်” is an approximation of the administrative concept, not an exact equivalence for every country's hierarchy.",
               "text_my": "ဒီမှာ “区” က မြို့အတွင်းက အုပ်ချုပ်ရေးနယ်မြေကို ဆိုလိုတယ်။ တိုက်နံပါတ်၊ အထပ်နံပါတ် မဟုတ်ဘူး။ “ခရိုင်” က အနီးစပ်ဆုံး ပြန်ထားတာပါ။"
             }
           ],
+          "pinyin": "nǐ zhù nǎ ge qū",
           "phonetic_my": "နီ ကျူ နာ က ချွီ"
         },
         {
           "id": "s11_3_0010",
           "level": "must",
           "text": "我住地铁站附近。",
-          "meaning_my": "ကျွန်တော် မြေအောက်ရထားဘူတာနားမှာနေတယ်။",
-          "when_to_use": "给同事说明家在地铁站附近，方便约见面或说明交通时用。",
-          "when_to_use_my": "ချိန်းဆိုဖို့ ဒါမှမဟုတ် သွားလာရေးအကြောင်း ပြောရင်း မြေအောက်ရထားဘူတာနားမှာနေလို့ ပြောတယ်။",
+          "meaning_my": "မြေအောက်ရထားဘူတာနားမှာနေတယ်။",
           "alternatives": [
             {
               "text": "我住在地铁站附近。",
-              "meaning_my": "ကျွန်တော် မြေအောက်ရထားဘူတာနားမှာနေတယ်။"
+              "meaning_my": "မြေအောက်ရထားဘူတာနားမှာနေတယ်။"
             }
           ],
           "replies": [
@@ -1733,19 +1631,17 @@
           "id": "s11_3_0011",
           "level": "must",
           "text": "我一个人住。",
-          "meaning_my": "ကျွန်တော် တစ်ယောက်တည်းနေတယ်။",
-          "when_to_use": "聊租房或生活情况时，说明自己没有室友，一个人住。",
-          "when_to_use_my": "အိမ်ငှားနေမှုအကြောင်း ပြောရင်း အခန်းဖော်မရှိဘဲ တစ်ယောက်တည်းနေလို့ ပြောတယ်။",
+          "meaning_my": "တစ်ယောက်တည်းနေတယ်။",
           "alternatives": [
             {
               "text": "我自己一个人住。",
-              "meaning_my": "ကျွန်တော် တစ်ယောက်တည်းနေတယ်။"
+              "meaning_my": "တစ်ယောက်တည်းနေတယ်။"
             }
           ],
           "replies": [
             {
               "text": "房租贵吗？",
-              "meaning_my": "အိမ်ငှားခ စျေးကြီးလား။"
+              "meaning_my": "အိမ်ငှားခ ဈေးကြီးလား။"
             },
             {
               "text": "住得习惯吗？",
@@ -1755,26 +1651,24 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ yí ge rén zhù",
           "mistakes": [
             {
               "text": "“一个人住”指没有同住者，不代表单身；对陌生人可以不详说。",
               "text_my": "“一个人住” က တစ်ယောက်တည်းနေတာပါ။ ချစ်သူမရှိဘူးလို့ မဆိုလိုဘူး။"
             }
           ],
+          "pinyin": "wǒ yí ge rén zhù",
           "phonetic_my": "ဝေါ ယီ က ရန် ကျူ"
         },
         {
           "id": "s11_3_0012",
           "level": "must",
           "text": "我跟同事一起住。",
-          "meaning_my": "ကျွန်တော် လုပ်ဖော်ကိုင်ဖက်နဲ့ အတူနေတယ်။",
-          "when_to_use": "公司安排宿舍或同事聊室友时，说明自己跟同事同住。",
-          "when_to_use_my": "ကုမ္ပဏီအဆောင်အကြောင်း ပြောရင်း လုပ်ဖော်ကိုင်ဖက်နဲ့ အတူနေလို့ ပြောတယ်။",
+          "meaning_my": "လုပ်ဖော်ကိုင်ဖက်နဲ့ အတူနေတယ်။",
           "alternatives": [
             {
               "text": "我和同事一起住。",
-              "meaning_my": "ကျွန်တော် လုပ်ဖော်ကိုင်ဖက်နဲ့ အတူနေတယ်။"
+              "meaning_my": "လုပ်ဖော်ကိုင်ဖက်နဲ့ အတူနေတယ်။"
             }
           ],
           "replies": [
@@ -1798,8 +1692,6 @@
           "level": "must",
           "text": "你上班远吗？",
           "meaning_my": "အလုပ်သွားရတာ ဝေးလား။",
-          "when_to_use": "聊通勤时，想知道对方上班路程远不远，可问“你上班远吗”。",
-          "when_to_use_my": "အလုပ်သွားလာမှုအကြောင်း ပြောရင်း အလုပ်သွားရတာ ဝေးလား မေးတယ်။",
           "alternatives": [
             {
               "text": "家离公司远吗？",
@@ -1819,13 +1711,13 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "nǐ shàng bān yuǎn ma",
           "mistakes": [
             {
               "text": "“上班远吗”问通勤距离，不是在问下班时间。",
               "text_my": "“上班远吗” က အလုပ်သွားရတာ ဝေးလား မေးတာပါ။ အလုပ်ချိန်ကို မေးတာ မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "nǐ shàng bān yuǎn ma",
           "phonetic_my": "နီ ရှန်း ပန် ယွမ် မာ"
         },
         {
@@ -1833,8 +1725,6 @@
           "level": "must",
           "text": "地址我发给你。",
           "meaning_my": "လိပ်စာကို ပို့ပေးမယ်။",
-          "when_to_use": "约朋友来家附近或快递送货前，告诉对方会把地址发过去。",
-          "when_to_use_my": "သူငယ်ချင်းကို ချိန်းတာ၊ ပစ္စည်းပို့မယ်ဆိုတာမျိုးမှာ လိပ်စာကို စာနဲ့ပို့မယ်လို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "我把地址发给你。",
@@ -1844,7 +1734,7 @@
           "replies": [
             {
               "text": "好，发给我吧。",
-              "meaning_my": "ကောင်းပြီ၊ ကျွန်တော့်ဆီပို့ပါ။"
+              "meaning_my": "ကောင်းပြီ၊ ဒီဘက်ကိုပို့ပါ။"
             },
             {
               "text": "好，我等你消息。",
@@ -1854,26 +1744,24 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "dì zhǐ wǒ fā gěi nǐ",
           "mistakes": [
             {
               "text": "地址只应发给需要的人；“发给你”通常是手机发文字或位置，不一定是邮寄。",
               "text_my": "လိပ်စာကို လိုအပ်သူထံသာ ပို့ပါ။ “发给你” က ဖုန်းနဲ့ စာပို့တာ၊ တည်နေရာပို့တာ ဖြစ်နိုင်တယ်။"
             }
           ],
+          "pinyin": "dì zhǐ wǒ fā gěi nǐ",
           "phonetic_my": "တီ ကျီး ဝေါ ဖာ ကေး နီ"
         },
         {
           "id": "s11_3_0015",
           "level": "listen",
           "text": "我住得不远。",
-          "meaning_my": "ကျွန်တော်နေတဲ့နေရာ မဝေးဘူး။",
-          "when_to_use": "听到同事说“我住得不远”，表示通勤或距离不算远。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က “我住得不远” ဆိုရင် နေတဲ့နေရာက သိပ်မဝေးဘူးလို့ ဆိုလိုတယ်။",
+          "meaning_my": "နေတဲ့နေရာ မဝေးဘူး။",
           "alternatives": [
             {
               "text": "我住得不算远。",
-              "meaning_my": "ကျွန်တော်နေတဲ့နေရာ သိပ်မဝေးဘူး။"
+              "meaning_my": "နေတဲ့နေရာ သိပ်မဝေးဘူး။"
             }
           ],
           "replies": [
@@ -1897,8 +1785,6 @@
           "level": "listen",
           "text": "就在公司旁边。",
           "meaning_my": "ကုမ္ပဏီဘေးနားလေးမှာပဲ။",
-          "when_to_use": "对方问家在哪边，你答“就在公司旁边”，表示紧挨着公司。",
-          "when_to_use_my": "အိမ်ဘယ်ဘက်လဲ မေးလာရင် ကုမ္ပဏီဘေးနားလေးမှာပဲလို့ ဖြေတယ်။",
           "alternatives": [
             {
               "text": "就在公司边上。",
@@ -1925,13 +1811,11 @@
           "id": "s11_3_0017",
           "level": "listen",
           "text": "我住得比较远。",
-          "meaning_my": "ကျွန်တော်နေတဲ့နေရာ တော်တော်ဝေးတယ်။",
-          "when_to_use": "聊上下班交通时，对方说他住得比较远，表示路程不短。",
-          "when_to_use_my": "အလုပ်သွားလာမှုအကြောင်း ပြောရင်း အိမ်က နည်းနည်းဝေးတယ်လို့ ပြောတယ်။",
+          "meaning_my": "နေတဲ့နေရာ တော်တော်ဝေးတယ်။",
           "alternatives": [
             {
               "text": "我住得有点远。",
-              "meaning_my": "ကျွန်တော်နေတဲ့နေရာ နည်းနည်းဝေးတယ်။"
+              "meaning_my": "နေတဲ့နေရာ နည်းနည်းဝေးတယ်။"
             }
           ],
           "replies": [
@@ -1947,13 +1831,13 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ zhù de bǐ jiào yuǎn",
           "mistakes": [
             {
               "text": "“比较远”通常是相当远，不能理解成只有一点点远。",
               "text_my": "“比较远” က တော်တော်ဝေးတာပါ။ နည်းနည်းလေးပဲ ဝေးတာလို့ မယူဆပါနဲ့။"
             }
           ],
+          "pinyin": "wǒ zhù de bǐ jiào yuǎn",
           "phonetic_my": "ဝေါ ကျူ တ ပီ ကျောင် ယွမ်"
         },
         {
@@ -1961,8 +1845,6 @@
           "level": "listen",
           "text": "每天坐公交上班。",
           "meaning_my": "နေ့တိုင်း ဘတ်စ်ကားစီးပြီး အလုပ်သွားတယ်။",
-          "when_to_use": "同事问你每天怎么上班，可以回答每天坐公交。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က နေ့တိုင်း အလုပ်ဘယ်လိုသွားလဲ မေးရင် ဘတ်စ်ကားစီးသွားတယ်လို့ ဖြေတယ်။",
           "alternatives": [
             {
               "text": "我每天坐公交去上班。",
@@ -1990,8 +1872,6 @@
           "level": "listen",
           "text": "宿舍四个人一间。",
           "meaning_my": "အဆောင်တစ်ခန်းမှာ လူလေးယောက်နေတယ်။",
-          "when_to_use": "新员工谈宿舍时，听到“四个人一间”，表示一间房住四个人。",
-          "when_to_use_my": "အဆောင်အကြောင်း ပြောတဲ့အခါ တစ်ခန်းကို လူလေးယောက်နေလို့ ကြားရတယ်။",
           "alternatives": [
             {
               "text": "宿舍一间住四个人。",
@@ -2011,22 +1891,20 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "sù shè sì ge rén yì jiān",
           "mistakes": [
             {
               "text": "“四个人一间”指每间宿舍住四个人，不是整栋宿舍四个人。",
               "text_my": "“四个人一间” က အခန်းတစ်ခန်းကို လူလေးယောက်ပါ။ အဆောင်တစ်ခုလုံး မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "sù shè sì ge rén yì jiān",
           "phonetic_my": "စူ ရှဲ စီး က ရန် ယီ ကျန်"
         },
         {
           "id": "s11_3_0020",
           "level": "listen",
           "text": "我刚搬来一个星期。",
-          "meaning_my": "ကျွန်တော် ပြောင်းလာတာ တစ်ပတ်ပဲရှိသေးတယ်။",
-          "when_to_use": "刚换宿舍或搬家只有一周，向同事说明住得还不久。",
-          "when_to_use_my": "အဆောင်ပြောင်းတာ၊ အိမ်ပြောင်းတာ တစ်ပတ်ပဲရှိသေးကြောင်း လုပ်ဖော်ကိုင်ဖက်ကို ပြောတယ်။",
+          "meaning_my": "ပြောင်းလာတာ တစ်ပတ်ပဲရှိသေးတယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -2049,8 +1927,6 @@
           "level": "listen",
           "text": "地址晚点发你。",
           "meaning_my": "လိပ်စာကို နောက်မှပို့ပေးမယ်။",
-          "when_to_use": "当下不能发送住址时，告诉对方过一会儿再发。",
-          "when_to_use_my": "အခု လိပ်စာမပို့နိုင်သေးရင် ခဏနောက်မှ ပို့မယ်လို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "地址一会儿发你。",
@@ -2078,8 +1954,6 @@
           "level": "listen",
           "text": "这里交通很方便。",
           "meaning_my": "ဒီနေရာ သွားလာရေး အရမ်းအဆင်ပြေတယ်။",
-          "when_to_use": "介绍住处周边有公交、地铁，出门方便时说。",
-          "when_to_use_my": "နေတဲ့နေရာနားမှာ ဘတ်စ်ကား၊ ရထား ရှိလို့ သွားလာရလွယ်တယ်လို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "这边交通很方便。",
@@ -2107,8 +1981,6 @@
           "level": "listen",
           "text": "我住在三号楼。",
           "meaning_my": "တိုက်နံပါတ် ၃ မှာ နေတယ်။",
-          "when_to_use": "送货或约在小区见面时，说明自己住三号楼，方便对方找楼栋。",
-          "when_to_use_my": "ပစ္စည်းလာပို့ချိန် ဒါမှမဟုတ် အိမ်ရာဝင်းမှာ တွေ့ဖို့ ချိန်းချိန် သုံး号တိုက်မှာနေလို့ ပြောတယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -2123,13 +1995,13 @@
           "lesson_id": "11.3",
           "lesson_title": "11.3 住在哪里和居住情况",
           "lesson_title_my": "11.3 နေထိုင်ရာနှင့် နေထိုင်မှုအခြေအနေ",
-          "pinyin": "wǒ zhù zài sān hào lóu",
           "mistakes": [
             {
               "text": "“三号楼” indicates building number 3, while “三楼” means the third floor. A room number is different again; confirm all three if visiting.",
               "text_my": "“三号楼” က တိုက်နံပါတ် ၃ ပါ။ “三楼” က တတိယထပ်ပါ။ အခန်းနံပါတ်ကလည်း သီးခြားဖြစ်လို့ လိပ်စာကို သေချာစစ်ပါ။"
             }
           ],
+          "pinyin": "wǒ zhù zài sān hào lóu",
           "phonetic_my": "ဝေါ ကျူ ဇိုင် စန် ဟောင် လိုး"
         }
       ]
@@ -2148,8 +2020,6 @@
           "level": "must",
           "text": "你做什么工作？",
           "meaning_my": "ဘာအလုပ်လုပ်လဲ။",
-          "when_to_use": "认识新朋友时，想知道对方做什么职业，可随意聊天询问。",
-          "when_to_use_my": "သူငယ်ချင်းအသစ်နဲ့ မိတ်ဆက်ချိန် ဘာအလုပ်လုပ်လဲ မေးချင်ရင် သုံးတယ်။",
           "alternatives": [
             {
               "text": "你是做什么工作的？",
@@ -2169,26 +2039,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "nǐ zuò shén me gōng zuò",
           "mistakes": [
             {
               "text": "“做什么工作”问职业或岗位，“在哪儿工作”问工作地点。",
               "text_my": "“做什么工作” က ဘာအလုပ်လဲ၊ “在哪儿工作” က ဘယ်မှာလုပ်လဲ မေးတာပါ။"
             }
           ],
+          "pinyin": "nǐ zuò shén me gōng zuò",
           "phonetic_my": "နီ ဇွော ရှန် မ ကုန်း ဇွော"
         },
         {
           "id": "s11_4_0002",
           "level": "must",
           "text": "我在工厂上班。",
-          "meaning_my": "ကျွန်တော် စက်ရုံမှာ အလုပ်လုပ်တယ်။",
-          "when_to_use": "别人问工作时，说明自己是在工厂上班，尚未说明具体岗位。",
-          "when_to_use_my": "ဘာအလုပ်လုပ်လဲ မေးလာရင် စက်ရုံမှာ အလုပ်လုပ်တယ်လို့ ဖြေတယ်။",
+          "meaning_my": "စက်ရုံမှာ အလုပ်လုပ်တယ်။",
           "alternatives": [
             {
               "text": "我在工厂工作。",
-              "meaning_my": "ကျွန်တော် စက်ရုံမှာ အလုပ်လုပ်တယ်။"
+              "meaning_my": "စက်ရုံမှာ အလုပ်လုပ်တယ်။"
             }
           ],
           "replies": [
@@ -2204,13 +2072,13 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ zài gōng chǎng shàng bān",
           "mistakes": [
             {
               "text": "“在工厂上班”不等于只做某个固定岗位；工厂有包装、质检和仓库等不同工作。",
               "text_my": "စက်ရုံမှာ အလုပ်လုပ်တယ်ဆိုတိုင်း ရာထူးတစ်မျိုးတည်း မဟုတ်ဘူး။ ထုပ်ပိုး၊ စစ်ဆေး၊ ဂိုဒေါင်အလုပ်တွေ မတူဘူး။"
             }
           ],
+          "pinyin": "wǒ zài gōng chǎng shàng bān",
           "phonetic_my": "ဝေါ ဇိုင် ကုန်း ချန်း ရှန်း ပန်"
         },
         {
@@ -2218,8 +2086,6 @@
           "level": "must",
           "text": "我是服务员。",
           "meaning_my": "ဝန်ဆောင်မှုဝန်ထမ်းပါ။",
-          "when_to_use": "介绍自己从事服务行业的服务员岗位时用，具体可能在餐厅或其他场所。",
-          "when_to_use_my": "ဆိုင် ဒါမှမဟုတ် ဝန်ဆောင်မှုလုပ်ငန်းမှာ ဝန်ဆောင်မှုဝန်ထမ်းအဖြစ် လုပ်နေကြောင်း ပြောတယ်။",
           "alternatives": [
             {
               "text": "我是做服务员的。",
@@ -2239,26 +2105,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ shì fú wù yuán",
           "mistakes": [
             {
               "text": "“服务员” depends on the workplace. In a restaurant it may mean “စားပွဲထိုး”; in hotels or other services “ဝန်ဆောင်မှုဝန်ထမ်း” is more general. Do not assume the speaker serves restaurant tables.",
               "text_my": "“服务员” က အလုပ်နေရာအလိုက် အဓိပ္ပာယ်ကွာတယ်။ စားသောက်ဆိုင်မှာ “စားပွဲထိုး” လို့ သုံးနိုင်ပေမယ့် ဟိုတယ်နဲ့ တခြားနေရာမှာ “ဝန်ဆောင်မှုဝန်ထမ်း” လို့ ပြောတာ ပိုသင့်တော်တယ်။"
             }
           ],
+          "pinyin": "wǒ shì fú wù yuán",
           "phonetic_my": "ဝေါ ရှီး ဖူ ဝူ ယွမ်"
         },
         {
           "id": "s11_4_0004",
           "level": "must",
           "text": "我在酒店工作。",
-          "meaning_my": "ကျွန်တော် ဟိုတယ်မှာ အလုပ်လုပ်တယ်။",
-          "when_to_use": "别人问在哪个行业工作时，说明自己在酒店上班。",
-          "when_to_use_my": "ဘယ်လုပ်ငန်းမှာ လုပ်လဲ မေးလာရင် ဟိုတယ်မှာ အလုပ်လုပ်တယ်လို့ ပြောတယ်။",
+          "meaning_my": "ဟိုတယ်မှာ အလုပ်လုပ်တယ်။",
           "alternatives": [
             {
               "text": "我在酒店上班。",
-              "meaning_my": "ကျွန်တော် ဟိုတယ်မှာ အလုပ်လုပ်တယ်။"
+              "meaning_my": "ဟိုတယ်မှာ အလုပ်လုပ်တယ်။"
             }
           ],
           "replies": [
@@ -2282,8 +2146,6 @@
           "level": "must",
           "text": "你在哪儿工作？",
           "meaning_my": "ဘယ်မှာအလုပ်လုပ်လဲ။",
-          "when_to_use": "聊天时问同事的工作地点，而不是问他的具体岗位。",
-          "when_to_use_my": "သူငယ်ချင်းရဲ့ အလုပ်လုပ်ရာနေရာကို မေးတာပါ။ ဘာတာဝန်ယူလဲ မေးတာ မဟုတ်ဘူး။",
           "alternatives": [
             {
               "text": "你在哪里工作？",
@@ -2293,36 +2155,34 @@
           "replies": [
             {
               "text": "我在工厂上班。",
-              "meaning_my": "ကျွန်တော် စက်ရုံမှာ အလုပ်လုပ်တယ်။"
+              "meaning_my": "စက်ရုံမှာ အလုပ်လုပ်တယ်။"
             },
             {
               "text": "我在酒店工作。",
-              "meaning_my": "ကျွန်တော် ဟိုတယ်မှာ အလုပ်လုပ်တယ်။"
+              "meaning_my": "ဟိုတယ်မှာ အလုပ်လုပ်တယ်။"
             }
           ],
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "nǐ zài nǎr gōng zuò",
           "mistakes": [
             {
               "text": "“在哪儿工作”只问地点，不等于问“做什么工作”。",
               "text_my": "“在哪儿工作” က နေရာမေးတာပါ။ “做什么工作” က အလုပ်အမျိုးအစား မေးတာပါ။"
             }
           ],
+          "pinyin": "nǐ zài nǎr gōng zuò",
           "phonetic_my": "နီ ဇိုင် နာ ကုန်း ဇွော"
         },
         {
           "id": "s11_4_0006",
           "level": "must",
           "text": "我主要做收银。",
-          "meaning_my": "ကျွန်တော် အဓိက ငွေရှင်းတာလုပ်တယ်။",
-          "when_to_use": "介绍自己在商店或餐厅主要负责收款、结账的工作。",
-          "when_to_use_my": "ဆိုင်၊ စားသောက်ဆိုင်မှာ ငွေရှင်းတာ အဓိကတာဝန်ယူထားကြောင်း ပြောတယ်။",
+          "meaning_my": "အဓိက ငွေရှင်းတာလုပ်တယ်။",
           "alternatives": [
             {
               "text": "我主要负责收银。",
-              "meaning_my": "ကျွန်တော် အဓိက ငွေရှင်းပိုင်း တာဝန်ယူတယ်။"
+              "meaning_my": "အဓိက ငွေရှင်းပိုင်း တာဝန်ယူတယ်။"
             }
           ],
           "replies": [
@@ -2338,13 +2198,13 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ zhǔ yào zuò shōu yín",
           "mistakes": [
             {
               "text": "“收银”是收款结账，不是发工资；“主要”说明还有可能做别的工作。",
               "text_my": "“收银” က ငွေရှင်းတာပါ။ လစာထုတ်တာ မဟုတ်ဘူး။ “主要” ဆိုတော့ တခြားအလုပ်လည်း လုပ်နိုင်တယ်။"
             }
           ],
+          "pinyin": "wǒ zhǔ yào zuò shōu yín",
           "phonetic_my": "ဝေါ ကျူ ယောင် ဇွော ရှိုး ယင်"
         },
         {
@@ -2352,8 +2212,6 @@
           "level": "must",
           "text": "你在哪家公司上班？",
           "meaning_my": "ဘယ်ကုမ္ပဏီမှာ အလုပ်လုပ်လဲ။",
-          "when_to_use": "想知道对方在哪家企业任职时问；普通闲聊也可不追问公司全名。",
-          "when_to_use_my": "ဘယ်ကုမ္ပဏီမှာ အလုပ်လုပ်လဲ သိချင်တဲ့အခါ မေးတယ်။ မပြောချင်ရင် အတင်းမမေးသင့်ဘူး။",
           "alternatives": [
             {
               "text": "你在哪家公司工作？",
@@ -2363,11 +2221,11 @@
           "replies": [
             {
               "text": "我在华新公司。",
-              "meaning_my": "ကျွန်တော် ဟွာရှင်းကုမ္ပဏီမှာ လုပ်တယ်။"
+              "meaning_my": "ဟွာရှင်းကုမ္ပဏီမှာ လုပ်တယ်။"
             },
             {
               "text": "我在一家工厂上班。",
-              "meaning_my": "ကျွန်တော် စက်ရုံတစ်ခုမှာ အလုပ်လုပ်တယ်။"
+              "meaning_my": "စက်ရုံတစ်ခုမှာ အလုပ်လုပ်တယ်။"
             }
           ],
           "lesson_id": "11.4",
@@ -2380,13 +2238,11 @@
           "id": "s11_4_0008",
           "level": "must",
           "text": "我在餐厅做服务员。",
-          "meaning_my": "ကျွန်တော် စားသောက်ဆိုင်မှာ စားပွဲထိုးလုပ်တယ်။",
-          "when_to_use": "别人问工作细节，说明自己在餐厅做服务员、服务客人。",
-          "when_to_use_my": "အလုပ်အကြောင်း မေးလာရင် စားသောက်ဆိုင်မှာ စားပွဲထိုးလုပ်တယ်လို့ ဖြေတယ်။",
+          "meaning_my": "စားသောက်ဆိုင်မှာ စားပွဲထိုးလုပ်တယ်။",
           "alternatives": [
             {
               "text": "我在餐厅当服务员。",
-              "meaning_my": "ကျွန်တော် စားသောက်ဆိုင်မှာ စားပွဲထိုးလုပ်တယ်။"
+              "meaning_my": "စားသောက်ဆိုင်မှာ စားပွဲထိုးလုပ်တယ်။"
             }
           ],
           "replies": [
@@ -2409,13 +2265,11 @@
           "id": "s11_4_0009",
           "level": "must",
           "text": "我主要负责打包。",
-          "meaning_my": "ကျွန်တော် အဓိက ထုပ်ပိုးတာ တာဝန်ယူတယ်။",
-          "when_to_use": "介绍仓库、餐厅或工厂的分拣打包工作时用。",
-          "when_to_use_my": "ဂိုဒေါင်၊ စားသောက်ဆိုင်၊ စက်ရုံမှာ ပစ္စည်းထုပ်ပိုးတာ အဓိကတာဝန်ယူတယ်လို့ ပြောတယ်။",
+          "meaning_my": "အဓိက ထုပ်ပိုးတာ တာဝန်ယူတယ်။",
           "alternatives": [
             {
               "text": "我主要做打包。",
-              "meaning_my": "ကျွန်တော် အဓိက ထုပ်ပိုးတာလုပ်တယ်။"
+              "meaning_my": "အဓိက ထုပ်ပိုးတာလုပ်တယ်။"
             }
           ],
           "replies": [
@@ -2431,26 +2285,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ zhǔ yào fù zé dǎ bāo",
           "mistakes": [
             {
               "text": "“打包”可指打包食品或包装货物，并非每次都是收拾行李。",
               "text_my": "“打包” က အစားအစာထုပ်တာ၊ ကုန်ပစ္စည်းထုပ်တာ ဖြစ်နိုင်တယ်။ ခရီးဆောင်အိတ်ထုပ်တာတစ်မျိုးတည်း မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "wǒ zhǔ yào fù zé dǎ bāo",
           "phonetic_my": "ဝေါ ကျူ ယောင် ဖူ ဇဲ တာ ပေါင်"
         },
         {
           "id": "s11_4_0010",
           "level": "must",
           "text": "我在工厂做质检。",
-          "meaning_my": "ကျွန်တော် စက်ရုံမှာ အရည်အသွေးစစ်ဆေးရေးလုပ်တယ်။",
-          "when_to_use": "介绍自己在工厂负责检查产品质量时用。",
-          "when_to_use_my": "စက်ရုံမှာ ကုန်ပစ္စည်းအရည်အသွေး စစ်ဆေးတာလုပ်ကြောင်း ပြောတယ်။",
+          "meaning_my": "စက်ရုံမှာ အရည်အသွေးစစ်ဆေးရေးလုပ်တယ်။",
           "alternatives": [
             {
               "text": "我在工厂负责质检。",
-              "meaning_my": "ကျွန်တော် စက်ရုံမှာ အရည်အသွေးစစ်ဆေးရေး တာဝန်ယူတယ်။"
+              "meaning_my": "စက်ရုံမှာ အရည်အသွေးစစ်ဆေးရေး တာဝန်ယူတယ်။"
             }
           ],
           "replies": [
@@ -2466,26 +2318,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ zài gōng chǎng zuò zhì jiǎn",
           "mistakes": [
             {
               "text": "“质检”是检查产品质量，不等于负责实际生产。",
               "text_my": "“质检” က အရည်အသွေးစစ်ဆေးတာပါ။ ကုန်ထုတ်လုပ်တာနဲ့ မတူဘူး။"
             }
           ],
+          "pinyin": "wǒ zài gōng chǎng zuò zhì jiǎn",
           "phonetic_my": "ဝေါ ဇိုင် ကုန်း ချန်း ဇွော ကျီး ကျန်"
         },
         {
           "id": "s11_4_0011",
           "level": "must",
           "text": "我主要负责仓库。",
-          "meaning_my": "ကျွန်တော် အဓိက ဂိုဒေါင်ပိုင်း တာဝန်ယူတယ်။",
-          "when_to_use": "工作交流时说明自己主要负责仓库里的事务。",
-          "when_to_use_my": "အလုပ်အကြောင်းပြောရင်း ဂိုဒေါင်ပိုင်း အဓိကတာဝန်ယူထားကြောင်း ပြောတယ်။",
+          "meaning_my": "အဓိက ဂိုဒေါင်ပိုင်း တာဝန်ယူတယ်။",
           "alternatives": [
             {
               "text": "我主要管仓库。",
-              "meaning_my": "ကျွန်တော် အဓိက ဂိုဒေါင်ပိုင်းကို ကိုင်တယ်။"
+              "meaning_my": "အဓိက ဂိုဒေါင်ပိုင်းကို ကိုင်တယ်။"
             }
           ],
           "replies": [
@@ -2501,26 +2351,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ zhǔ yào fù zé cāng kù",
           "mistakes": [
             {
               "text": "“负责仓库”是工作职责，并不说明自己能决定整个公司的所有库存。",
               "text_my": "“负责仓库” က ဂိုဒေါင်အလုပ်ကို တာဝန်ယူတာပါ။ ကုမ္ပဏီပစ္စည်းအားလုံး ဆုံးဖြတ်ခွင့်ရှိတယ်လို့ မဆိုလိုဘူး။"
             }
           ],
+          "pinyin": "wǒ zhǔ yào fù zé cāng kù",
           "phonetic_my": "ဝေါ ကျူ ယောင် ဖူ ဇဲ ဆန်း ခူ"
         },
         {
           "id": "s11_4_0012",
           "level": "must",
           "text": "我刚换了工作。",
-          "meaning_my": "ကျွန်တော် အလုပ်အသစ်ပြောင်းထားတာ မကြာသေးဘူး။",
-          "when_to_use": "同事问最近怎么样，告诉对方你刚换到一份新工作。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က အခြေအနေမေးလာရင် မကြာသေးခင်က အလုပ်အသစ်ပြောင်းထားကြောင်း ပြောတယ်။",
+          "meaning_my": "အလုပ်အသစ်ပြောင်းထားတာ မကြာသေးဘူး။",
           "alternatives": [
             {
               "text": "我刚换工作。",
-              "meaning_my": "ကျွန်တော် အလုပ်ပြောင်းထားတာ မကြာသေးဘူး။"
+              "meaning_my": "အလုပ်ပြောင်းထားတာ မကြာသေးဘူး။"
             }
           ],
           "replies": [
@@ -2536,26 +2384,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ gāng huàn le gōng zuò",
           "mistakes": [
             {
               "text": "“刚换了工作”是已经换工作；“打算换工作”只是计划。",
               "text_my": "“刚换了工作” က အလုပ်ပြောင်းပြီးသားပါ။ “打算换工作” က စီစဉ်နေတုန်းပါ။"
             }
           ],
+          "pinyin": "wǒ gāng huàn le gōng zuò",
           "phonetic_my": "ဝေါ ကန်း ဟွမ် လ ကုန်း ဇွော"
         },
         {
           "id": "s11_4_0013",
           "level": "listen",
           "text": "我做餐饮。",
-          "meaning_my": "ကျွန်တော် စားသောက်လုပ်ငန်းလုပ်တယ်။",
-          "when_to_use": "听别人说“我做餐饮”，表示在餐饮行业工作，具体岗位还要问。",
-          "when_to_use_my": "“我做餐饮” ဆိုရင် စားသောက်ရေးလုပ်ငန်းမှာ လုပ်တာပါ။ ရာထူးကို ဆက်မေးမှသိမယ်။",
+          "meaning_my": "စားသောက်လုပ်ငန်းလုပ်တယ်။",
           "alternatives": [
             {
               "text": "我是做餐饮的。",
-              "meaning_my": "ကျွန်တော် စားသောက်လုပ်ငန်းလုပ်တာပါ။"
+              "meaning_my": "စားသောက်လုပ်ငန်းလုပ်တာပါ။"
             }
           ],
           "replies": [
@@ -2571,26 +2417,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ zuò cān yǐn",
           "mistakes": [
             {
               "text": "“做餐饮”说的是行业，不代表本人是餐厅老板，也没说具体岗位。",
               "text_my": "“做餐饮” က စားသောက်လုပ်ငန်းကို ဆိုလိုတယ်။ ဆိုင်ရှင်လို့ မဆိုလိုသလို ရာထူးကိုလည်း မသိသေးဘူး။"
             }
           ],
+          "pinyin": "wǒ zuò cān yǐn",
           "phonetic_my": "ဝေါ ဇွော ဆန် ယင်"
         },
         {
           "id": "s11_4_0014",
           "level": "listen",
           "text": "我在公司上班。",
-          "meaning_my": "ကျွန်တော် ကုမ္ပဏီမှာ အလုပ်လုပ်တယ်။",
-          "when_to_use": "听到“我在公司上班”，只知道对方在企业工作，不知道具体职位。",
-          "when_to_use_my": "“我在公司上班” ဆိုရင် ကုမ္ပဏီမှာ အလုပ်လုပ်တာပါ။ ဘာရာထူးဆိုတာ မသိသေးဘူး။",
+          "meaning_my": "ကုမ္ပဏီမှာ အလုပ်လုပ်တယ်။",
           "alternatives": [
             {
               "text": "我在公司工作。",
-              "meaning_my": "ကျွန်တော် ကုမ္ပဏီမှာ အလုပ်လုပ်တယ်။"
+              "meaning_my": "ကုမ္ပဏီမှာ အလုပ်လုပ်တယ်။"
             }
           ],
           "replies": [
@@ -2613,13 +2457,11 @@
           "id": "s11_4_0015",
           "level": "listen",
           "text": "我在工厂做包装。",
-          "meaning_my": "ကျွန်တော် စက်ရုံမှာ ထုပ်ပိုးရေးလုပ်တယ်။",
-          "when_to_use": "同事介绍自己在工厂做产品包装工作时会这样说。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က စက်ရုံမှာ ပစ္စည်းထုပ်ပိုးရေး လုပ်ကြောင်း ပြောတဲ့အခါ ကြားရတယ်။",
+          "meaning_my": "စက်ရုံမှာ ထုပ်ပိုးရေးလုပ်တယ်။",
           "alternatives": [
             {
               "text": "我在工厂负责包装。",
-              "meaning_my": "ကျွန်တော် စက်ရုံမှာ ထုပ်ပိုးရေး တာဝန်ယူတယ်။"
+              "meaning_my": "စက်ရုံမှာ ထုပ်ပိုးရေး တာဝန်ယူတယ်။"
             }
           ],
           "replies": [
@@ -2642,13 +2484,11 @@
           "id": "s11_4_0016",
           "level": "listen",
           "text": "我在酒店做前台。",
-          "meaning_my": "ကျွန်တော် ဟိုတယ် ဧည့်ကြိုကောင်တာမှာ အလုပ်လုပ်တယ်။",
-          "when_to_use": "听到“我在酒店做前台”，表示在酒店接待前台处理客人事务。",
-          "when_to_use_my": "ဟိုတယ် ဧည့်ကြိုကောင်တာမှာ ဧည့်သည်လက်ခံတဲ့အလုပ် လုပ်တယ်လို့ ပြောတာပါ။",
+          "meaning_my": "ဟိုတယ် ဧည့်ကြိုကောင်တာမှာ အလုပ်လုပ်တယ်။",
           "alternatives": [
             {
               "text": "我在酒店前台工作。",
-              "meaning_my": "ကျွန်တော် ဟိုတယ် ဧည့်ကြိုကောင်တာမှာ အလုပ်လုပ်တယ်။"
+              "meaning_my": "ဟိုတယ် ဧည့်ကြိုကောင်တာမှာ အလုပ်လုပ်တယ်။"
             }
           ],
           "replies": [
@@ -2671,13 +2511,11 @@
           "id": "s11_4_0017",
           "level": "listen",
           "text": "我是收银员。",
-          "meaning_my": "ကျွန်တော် ငွေရှင်းဝန်ထမ်းပါ။",
-          "when_to_use": "别人说自己是收银员，说明职业是帮客人结账收款。",
-          "when_to_use_my": "တစ်ဖက်လူက ငွေရှင်းဝန်ထမ်းပါလို့ မိတ်ဆက်တဲ့အခါ ကြားရတယ်။",
+          "meaning_my": "ငွေရှင်းဝန်ထမ်းပါ။",
           "alternatives": [
             {
               "text": "我是做收银的。",
-              "meaning_my": "ကျွန်တော် ငွေရှင်းဝန်ထမ်းပါ။"
+              "meaning_my": "ငွေရှင်းဝန်ထမ်းပါ။"
             }
           ],
           "replies": [
@@ -2700,13 +2538,11 @@
           "id": "s11_4_0018",
           "level": "listen",
           "text": "我负责仓库。",
-          "meaning_my": "ကျွန်တော် ဂိုဒေါင်ပိုင်း တာဝန်ယူတယ်။",
-          "when_to_use": "听到“我负责仓库”，是说他管理仓库事务，不等于在仓库里做每项工作。",
-          "when_to_use_my": "“我负责仓库” ဆိုရင် ဂိုဒေါင်ပိုင်းကို တာဝန်ယူတယ်ဆိုတာပါ။",
+          "meaning_my": "ဂိုဒေါင်ပိုင်း တာဝန်ယူတယ်။",
           "alternatives": [
             {
               "text": "我管仓库。",
-              "meaning_my": "ကျွန်တော် ဂိုဒေါင်ပိုင်းကို ကိုင်တယ်။"
+              "meaning_my": "ဂိုဒေါင်ပိုင်းကို ကိုင်တယ်။"
             }
           ],
           "replies": [
@@ -2722,26 +2558,24 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ fù zé cāng kù",
           "mistakes": [
             {
               "text": "“负责仓库”不代表一定是仓库主管，也可能是普通库管。",
               "text_my": "“负责仓库” က ဂိုဒေါင်တာဝန်ယူတာပါ။ အုပ်ချုပ်သူလား ဝန်ထမ်းလား မသိသေးဘူး။"
             }
           ],
+          "pinyin": "wǒ fù zé cāng kù",
           "phonetic_my": "ဝေါ ဖူ ဇဲ ဆန်း ခူ"
         },
         {
           "id": "s11_4_0019",
           "level": "listen",
           "text": "我刚入职。",
-          "meaning_my": "ကျွန်တော် အလုပ်ဝင်တာ မကြာသေးဘူး။",
-          "when_to_use": "新同事告诉你“我刚入职”，说明才加入公司没多久。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်အသစ်က အလုပ်ဝင်တာ မကြာသေးဘူးလို့ ပြောတဲ့အခါ ကြားရတယ်။",
+          "meaning_my": "အလုပ်ဝင်တာ မကြာသေးဘူး။",
           "alternatives": [
             {
               "text": "我刚来上班。",
-              "meaning_my": "ကျွန်တော် အလုပ်ဝင်တာ မကြာသေးဘူး။"
+              "meaning_my": "အလုပ်ဝင်တာ မကြာသေးဘူး။"
             }
           ],
           "replies": [
@@ -2757,13 +2591,13 @@
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "wǒ gāng rù zhí",
           "mistakes": [
             {
               "text": "“刚入职”是已经开始新工作，不是还在求职面试。",
               "text_my": "“刚入职” က အလုပ်အသစ် ဝင်ပြီးသားပါ။ အင်တာဗျူးဝင်နေတုန်း မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "wǒ gāng rù zhí",
           "phonetic_my": "ဝေါ ကန်း ရူ ကျီး"
         },
         {
@@ -2771,8 +2605,6 @@
           "level": "listen",
           "text": "你做哪方面的工作？",
           "meaning_my": "ဘယ်အလုပ်ပိုင်းလုပ်လဲ။",
-          "when_to_use": "希望了解对方从事什么行业、哪类工作时问。",
-          "when_to_use_my": "တစ်ဖက်လူ ဘယ်လုပ်ငန်းအမျိုးအစား၊ ဘယ်အလုပ်ပိုင်းမှာ လုပ်လဲ မေးချင်ရင် သုံးတယ်။",
           "alternatives": [
             {
               "text": "你主要做什么工作？",
@@ -2782,23 +2614,23 @@
           "replies": [
             {
               "text": "我做餐饮。",
-              "meaning_my": "ကျွန်တော် စားသောက်ရေးလုပ်ငန်းမှာ လုပ်တယ်။"
+              "meaning_my": "စားသောက်ရေးလုပ်ငန်းမှာ လုပ်တယ်။"
             },
             {
               "text": "我管仓库这块。",
-              "meaning_my": "ကျွန်တော် ဂိုဒေါင်ပိုင်း တာဝန်ယူတယ်။"
+              "meaning_my": "ဂိုဒေါင်ပိုင်း တာဝန်ယူတယ်။"
             }
           ],
           "lesson_id": "11.4",
           "lesson_title": "11.4 工作情况",
           "lesson_title_my": "11.4 အလုပ်အကိုင်အခြေအနေ",
-          "pinyin": "nǐ zuò nǎ fāng miàn de gōng zuò",
           "mistakes": [
             {
               "text": "“哪方面的工作”问行业或职责，不只是公司名称。",
               "text_my": "“哪方面的工作” က လုပ်ငန်းအမျိုးအစား၊ တာဝန်အကြောင်း မေးတာပါ။ ကုမ္ပဏီနာမည်မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "nǐ zuò nǎ fāng miàn de gōng zuò",
           "phonetic_my": "နီ ဇွော နာ ဖန်း မျန် တ ကုန်း ဇွော"
         },
         {
@@ -2806,8 +2638,6 @@
           "level": "listen",
           "text": "你在这里工作多久了？",
           "meaning_my": "ဒီမှာအလုပ်လုပ်တာ ဘယ်လောက်ကြာပြီလဲ။",
-          "when_to_use": "和新同事聊天，询问他已经在这里工作了多长时间。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်အသစ်နဲ့ စကားပြောရင်း ဒီမှာ အလုပ်လုပ်တာ ဘယ်လောက်ကြာပြီလဲ မေးတယ်။",
           "alternatives": [
             {
               "text": "你在这儿工作多久了？",
@@ -2846,8 +2676,6 @@
           "level": "must",
           "text": "你的电话是多少？",
           "meaning_my": "ဖုန်းနံပါတ် ဘာလဲ။",
-          "when_to_use": "交朋友或工作需要联系对方时，征得同意后询问电话号码。",
-          "when_to_use_my": "သူငယ်ချင်းဖွဲ့တာ၊ အလုပ်ကိစ္စဆက်သွယ်ဖို့လိုတဲ့အခါ သဘောတူရင် ဖုန်းနံပါတ်မေးတယ်။",
           "alternatives": [
             {
               "text": "你的电话号码是多少？",
@@ -2871,13 +2699,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "nǐ de diàn huà shì duō shao",
           "mistakes": [
             {
               "text": "这里的“电话”是电话号码，不是手机品牌；私人号码不必交给陌生人。",
               "text_my": "ဒီမှာ “电话” က ဖုန်းနံပါတ်ပါ။ ဖုန်းအမှတ်တံဆိပ် မဟုတ်ဘူး။ မသိသူကို နံပါတ်ပေးစရာမလိုဘူး။"
             }
           ],
+          "pinyin": "nǐ de diàn huà shì duō shao",
           "phonetic_my": "နီ တ တျန် ဟွာ ရှီး တွော ရှောင်"
         },
         {
@@ -2885,8 +2713,6 @@
           "level": "must",
           "text": "这是我的号码。",
           "meaning_my": "ဒါ ဖုန်းနံပါတ်ပါ။",
-          "when_to_use": "当面或发信息时，告诉对方这串数字是自己的联系电话。",
-          "when_to_use_my": "မျက်နှာချင်းဆိုင် ဒါမှမဟုတ် စာပို့ရင်း ဒါ ကိုယ့်ဖုန်းနံပါတ်ပါလို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "这是我的电话号码。",
@@ -2906,13 +2732,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "zhè shì wǒ de hào mǎ",
           "mistakes": [
             {
               "text": "“号码”可能是手机、座机或别的编号，必须结合上下文理解。",
               "text_my": "“号码” က ဖုန်းနံပါတ်၊ အခြားနံပါတ် ဖြစ်နိုင်တယ်။ အခြေအနေနဲ့ တွဲနားလည်ပါ။"
             }
           ],
+          "pinyin": "zhè shì wǒ de hào mǎ",
           "phonetic_my": "ကျ ရှီး ဝေါ တ ဟောင် မာ"
         },
         {
@@ -2920,8 +2746,6 @@
           "level": "must",
           "text": "留个电话吧。",
           "meaning_my": "ဖုန်းနံပါတ်တစ်ခု ချန်ထားပေးပါ။",
-          "when_to_use": "快递、预约或工作登记时，礼貌地请对方留下可联系的号码。",
-          "when_to_use_my": "ပစ္စည်းပို့တာ၊ ချိန်းဆိုတာ၊ အလုပ်စာရင်းသွင်းတာမျိုးမှာ ဆက်သွယ်ဖို့ နံပါတ်ချန်ပေးခိုင်းတယ်။",
           "alternatives": [
             {
               "text": "留个电话号码吧。",
@@ -2941,13 +2765,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "liú ge diàn huà ba",
           "mistakes": [
             {
               "text": "“留个电话”是请留下联系电话，而不是把手机放在这里。",
               "text_my": "“留个电话” က ဖုန်းနံပါတ် ချန်ထားခိုင်းတာပါ။ ဖုန်းစက်ကို ထားခိုင်းတာ မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "liú ge diàn huà ba",
           "phonetic_my": "လျိုး က တျန် ဟွာ ပါ"
         },
         {
@@ -2955,8 +2779,6 @@
           "level": "must",
           "text": "你的微信号多少？",
           "meaning_my": "WeChat ID ဘာလဲ။",
-          "when_to_use": "朋友愿意加微信时，想知道他的微信账号名称或号码可这样问。",
-          "when_to_use_my": "သူငယ်ချင်းနဲ့ WeChat ချိတ်ချင်လို့ အကောင့်အမည် ဒါမှမဟုတ် ID ကို မေးတယ်။",
           "alternatives": [
             {
               "text": "你的微信号是多少？",
@@ -2976,13 +2798,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "nǐ de wēi xìn hào duō shao",
           "mistakes": [
             {
               "text": "“微信号”是微信ID，未必是数字，不一定等于手机号或微信昵称。",
               "text_my": "“微信号” က WeChat ID ပါ။ ဂဏန်းပဲဖြစ်ရမယ်လို့ မဟုတ်ဘဲ ဖုန်းနံပါတ်၊ နာမည်နဲ့ မတူနိုင်ဘူး။"
             }
           ],
+          "pinyin": "nǐ de wēi xìn hào duō shao",
           "phonetic_my": "နီ တ ဝေး ရှင် ဟောင် တွော ရှောင်"
         },
         {
@@ -2990,8 +2812,6 @@
           "level": "must",
           "text": "给我发消息。",
           "meaning_my": "စာပို့ပေးပါ။",
-          "when_to_use": "约好要发资料或地址时，请对方通过微信等方式发一条消息。",
-          "when_to_use_my": "စာရွက်၊ လိပ်စာ ပို့ဖို့ ညှိပြီး တစ်ဖက်လူကို စာပို့ပေးဖို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "发消息给我。",
@@ -3011,13 +2831,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "gěi wǒ fā xiāo xi",
           "mistakes": [
             {
               "text": "“发消息”通常发文字或语音信息，和直接打电话不同。",
               "text_my": "“发消息” က စာ၊ အသံမက်ဆေ့ချ်ပို့တာပါ။ ဖုန်းတိုက်ရိုက်ခေါ်တာနဲ့ မတူဘူး။"
             }
           ],
+          "pinyin": "gěi wǒ fā xiāo xi",
           "phonetic_my": "ကေး ဝေါ ဖာ ရှောင် ရှီး"
         },
         {
@@ -3025,8 +2845,6 @@
           "level": "must",
           "text": "怎么联系你？",
           "meaning_my": "ဘယ်လိုဆက်သွယ်ရမလဲ။",
-          "when_to_use": "新认识的人想保持联系时，问用打电话还是微信比较方便。",
-          "when_to_use_my": "သိကျွမ်းသူအသစ်နဲ့ ဆက်သွယ်နေချင်ရင် ဖုန်းလား WeChat လား ဘယ်နည်းနဲ့ ဆက်သွယ်ရမလဲ မေးတယ်။",
           "alternatives": [
             {
               "text": "怎么能联系到你？",
@@ -3036,7 +2854,7 @@
           "replies": [
             {
               "text": "给我打电话就行。",
-              "meaning_my": "ကျွန်တော့်ကို ဖုန်းခေါ်ရင်ရပြီ။"
+              "meaning_my": "ဖုန်းခေါ်ရင်ရပြီ။"
             },
             {
               "text": "微信联系吧。",
@@ -3046,13 +2864,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "zěn me lián xì nǐ",
           "mistakes": [
             {
               "text": "“怎么联系你”问联系方式，允许只说微信，不必一定提供手机号。",
               "text_my": "“怎么联系你” က ဆက်သွယ်နည်း မေးတာပါ။ ဖုန်းနံပါတ်မပေးချင်ရင် WeChat နဲ့ပဲ ဆက်သွယ်နိုင်တယ်။"
             }
           ],
+          "pinyin": "zěn me lián xì nǐ",
           "phonetic_my": "ဇန် မ လျန် ရှီး နီ"
         },
         {
@@ -3060,8 +2878,6 @@
           "level": "must",
           "text": "把手机号发给我。",
           "meaning_my": "မိုဘိုင်းဖုန်းနံပါတ် ပို့ပေးပါ။",
-          "when_to_use": "约好交换联系方式后，请对方把手机号发成文字方便保存。",
-          "when_to_use_my": "ဖုန်းနံပါတ်ဖလှယ်ဖို့ သဘောတူပြီးရင် မှတ်ရလွယ်အောင် နံပါတ်ကို စာနဲ့ ပို့ခိုင်းတယ်။",
           "alternatives": [
             {
               "text": "把手机号码发给我。",
@@ -3085,13 +2901,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "bǎ shǒu jī hào fā gěi wǒ",
           "mistakes": [
             {
               "text": "“发给我”让对方把号码发成文字，和在电话里口头报数不同；先征得同意。",
               "text_my": "“发给我” က နံပါတ်ကို စာနဲ့ပို့ခိုင်းတာပါ။ ဖုန်းထဲက နှုတ်နဲ့ပြောတာနဲ့ မတူဘူး။ အရင်ခွင့်တောင်းပါ။"
             }
           ],
+          "pinyin": "bǎ shǒu jī hào fā gěi wǒ",
           "phonetic_my": "ပါ ရှိုး ကျီ ဟောင် ဖာ ကေး ဝေါ"
         },
         {
@@ -3099,8 +2915,6 @@
           "level": "must",
           "text": "我记一下你的号码。",
           "meaning_my": "ဖုန်းနံပါတ်ကို တစ်ချက် မှတ်ထားမယ်။",
-          "when_to_use": "听对方报出电话号码时，你想先记下来，可以说这句。",
-          "when_to_use_my": "တစ်ဖက်လူ ဖုန်းနံပါတ်ပြောနေချိန် အရင်မှတ်ထားမယ်လို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "我把你的号码记一下。",
@@ -3120,30 +2934,28 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "wǒ jì yí xià nǐ de hào mǎ",
           "mistakes": [
             {
               "text": "“记一下”只是暂时记录，不表示已经牢记；“记住了”才是记得了。",
               "text_my": "“记一下” က ခဏမှတ်ထားတာပါ။ “记住了” က မှတ်မိပြီဆိုတာပါ။"
             }
           ],
+          "pinyin": "wǒ jì yí xià nǐ de hào mǎ",
           "phonetic_my": "ဝေါ ကျီ ယီ ရှျာ နီ တ ဟောင် မာ"
         },
         {
           "id": "s11_5_0009",
           "level": "must",
           "text": "这是我的微信号。",
-          "meaning_my": "ဒါ ကျွန်တော့် WeChat ID ပါ။",
-          "when_to_use": "愿意给朋友加微信时，指给对方看自己的微信ID。",
-          "when_to_use_my": "သူငယ်ချင်းနဲ့ WeChat ချိတ်ဖို့ ကိုယ့်အကောင့် ID ကို ပြတဲ့အခါ သုံးတယ်။",
+          "meaning_my": "ဒါ ကိုယ့် WeChat ID ပါ။",
           "alternatives": [
             {
               "text": "我的微信号是这个。",
-              "meaning_my": "ကျွန်တော့် WeChat ID က ဒီဟာပါ။"
+              "meaning_my": "ကိုယ့် WeChat ID က ဒီဟာပါ။"
             },
             {
               "text": "这是我微信号。",
-              "meaning_my": "ဒါ ကျွန်တော့် WeChat ID ပါ။"
+              "meaning_my": "ဒါ ကိုယ့် WeChat ID ပါ။"
             }
           ],
           "replies": [
@@ -3153,19 +2965,19 @@
             },
             {
               "text": "我搜一下。",
-              "meaning_my": "ကျွန်တော် ရှာကြည့်မယ်။"
+              "meaning_my": "ရှာကြည့်မယ်။"
             }
           ],
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "zhè shì wǒ de wēi xìn hào",
           "mistakes": [
             {
               "text": "微信号不等于群聊号码；加好友前应确认账号确属对方。",
               "text_my": "WeChat ID က အဖွဲ့နံပါတ် မဟုတ်ဘူး။ မိတ်ဆွေထည့်မီ အကောင့်ပိုင်ရှင်မှန်လား စစ်ပါ။"
             }
           ],
+          "pinyin": "zhè shì wǒ de wēi xìn hào",
           "phonetic_my": "ကျ ရှီး ဝေါ တ ဝေး ရှင် ဟောင်"
         },
         {
@@ -3173,8 +2985,6 @@
           "level": "must",
           "text": "你有微信吗？",
           "meaning_my": "WeChat သုံးလား။",
-          "when_to_use": "想和同事通过微信联系，但不确定他有没有微信时问。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်နဲ့ WeChat ကနေ ဆက်သွယ်ချင်ပေမယ့် သူ့မှာ အကောင့်ရှိမရှိ မသိရင် မေးတယ်။",
           "alternatives": [
             {
               "text": "你用微信吗？",
@@ -3194,13 +3004,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "nǐ yǒu wēi xìn ma",
           "mistakes": [
             {
               "text": "“有微信吗”问有无账号，不是问有没有网络；有账号也不一定想加好友。",
               "text_my": "“有微信吗” က WeChat အကောင့်ရှိလား မေးတာပါ။ အင်တာနက်ရှိလား မဟုတ်ဘူး။ ရှိတိုင်း မိတ်ဆွေထည့်ချင်တာ မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "nǐ yǒu wēi xìn ma",
           "phonetic_my": "နီ ယိုး ဝေး ရှင် မာ"
         },
         {
@@ -3208,8 +3018,6 @@
           "level": "must",
           "text": "有事直接给我打电话。",
           "meaning_my": "ကိစ္စရှိရင် တိုက်ရိုက် ဖုန်းခေါ်ပါ။",
-          "when_to_use": "已经交换电话后，告诉对方有急事可以直接给自己打电话。",
-          "when_to_use_my": "ဖုန်းနံပါတ်ဖလှယ်ပြီး ကိစ္စအရေးကြီးရင် တိုက်ရိုက် ဖုန်းခေါ်လို့ရကြောင်း ပြောတယ်။",
           "alternatives": [
             {
               "text": "有事就直接给我打电话。",
@@ -3229,13 +3037,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "yǒu shì zhí jiē gěi wǒ dǎ diàn huà",
           "mistakes": [
             {
               "text": "“有事”是有需要时联系，不代表每天都要打电话；紧急时也应联系适当的救援部门。",
               "text_my": "“有事” က လိုအပ်ရင် ဆက်သွယ်ပါဆိုတာပါ။ နေ့တိုင်း ဖုန်းခေါ်ဖို့ မဟုတ်ဘူး။ အရေးပေါ်ဆို သက်ဆိုင်ရာ အကူအညီကိုလည်း ဆက်သွယ်ပါ။"
             }
           ],
+          "pinyin": "yǒu shì zhí jiē gěi wǒ dǎ diàn huà",
           "phonetic_my": "ယိုး ရှီး ကျီး ကျဲ ကေး ဝေါ တာ တျန် ဟွာ"
         },
         {
@@ -3243,8 +3051,6 @@
           "level": "must",
           "text": "这个号码对吗？",
           "meaning_my": "ဒီနံပါတ်မှန်လား။",
-          "when_to_use": "对照手机里输入的号码时，向对方核对有没有输错。",
-          "when_to_use_my": "ဖုန်းထဲ နံပါတ်ရိုက်ပြီး မှန်မမှန် တစ်ဖက်လူကို ထပ်အတည်ပြုတယ်။",
           "alternatives": [
             {
               "text": "这个号码没错吧？",
@@ -3264,26 +3070,24 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "zhè ge hào mǎ duì ma",
           "mistakes": [
             {
               "text": "电话号码错一位就可能联系错人，重要时可以重新发文字确认。",
               "text_my": "ဖုန်းနံပါတ် ဂဏန်းတစ်လုံးမှားရင် လူမှားဆက်သွယ်နိုင်တယ်။ စာနဲ့ ပြန်ပို့ပြီး စစ်တာ ပိုစိတ်ချရတယ်။"
             }
           ],
+          "pinyin": "zhè ge hào mǎ duì ma",
           "phonetic_my": "ကျ က ဟောင် မာ တွေး မာ"
         },
         {
           "id": "s11_5_0013",
           "level": "listen",
           "text": "我记一下。",
-          "meaning_my": "ကျွန်တော် မှတ်လိုက်မယ်။",
-          "when_to_use": "别人报电话号码时，你说“我记一下”，是让对方给一点记录时间。",
-          "when_to_use_my": "တစ်ဖက်လူ နံပါတ်ပြောနေချိန် ခဏမှတ်ဦးမယ်ဆိုပြီး အချိန်ယူတယ်။",
+          "meaning_my": "မှတ်လိုက်မယ်။",
           "alternatives": [
             {
               "text": "我记一下啊。",
-              "meaning_my": "ကျွန်တော် မှတ်လိုက်မယ်နော်။"
+              "meaning_my": "မှတ်လိုက်မယ်နော်။"
             }
           ],
           "replies": [
@@ -3293,7 +3097,7 @@
             },
             {
               "text": "我再说慢一点。",
-              "meaning_my": "ကျွန်တော် နည်းနည်းနှေးပြီး ထပ်ပြောမယ်။"
+              "meaning_my": "နည်းနည်းနှေးပြီး ထပ်ပြောမယ်။"
             }
           ],
           "lesson_id": "11.5",
@@ -3307,8 +3111,6 @@
           "level": "listen",
           "text": "有事微信联系。",
           "meaning_my": "ကိစ္စရှိရင် WeChat နဲ့ဆက်သွယ်ပါ။",
-          "when_to_use": "同事说“有事微信联系”，是在约定以后用微信沟通工作事情。",
-          "when_to_use_my": "လုပ်ဖော်ကိုင်ဖက်က ကိစ္စရှိရင် WeChat ကနေ ဆက်သွယ်ပါလို့ ပြောတာပါ။",
           "alternatives": [
             {
               "text": "有事在微信上联系。",
@@ -3336,8 +3138,6 @@
           "level": "listen",
           "text": "号码我再说一遍。",
           "meaning_my": "နံပါတ်ကို နောက်တစ်ခါ ထပ်ပြောမယ်။",
-          "when_to_use": "怕对方记错号码，主动说“号码我再说一遍”，准备重新报数。",
-          "when_to_use_my": "တစ်ဖက်လူ နံပါတ်မှတ်မှားမှာစိုးလို့ နံပါတ်ကို တစ်ခါ ထပ်ပြောပေးမယ်လို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "我再说一遍号码。",
@@ -3357,26 +3157,24 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "hào mǎ wǒ zài shuō yí biàn",
           "mistakes": [
             {
               "text": "“号码我再说一遍”是自己主动重报；“号码再说一遍”是请别人重报。",
               "text_my": "“号码我再说一遍” က ကိုယ်တိုင် ထပ်ဖတ်ပြမယ်ဆိုတာပါ။ “号码再说一遍” က တစ်ဖက်လူကို ထပ်ပြောခိုင်းတာပါ။"
             }
           ],
+          "pinyin": "hào mǎ wǒ zài shuō yí biàn",
           "phonetic_my": "ဟောင် မာ ဝေါ ဇိုင် ရှွော ယီ ပျန်"
         },
         {
           "id": "s11_5_0016",
           "level": "listen",
           "text": "我发消息给你。",
-          "meaning_my": "ကျွန်တော် စာပို့မယ်။",
-          "when_to_use": "约好发消息后，告诉对方自己会通过微信等方式联系。",
-          "when_to_use_my": "စာပို့ဖို့ ညှိထားပြီး ကိုယ် စာပို့ပေးမယ်လို့ ပြောတယ်။",
+          "meaning_my": "စာပို့မယ်။",
           "alternatives": [
             {
               "text": "我给你发消息。",
-              "meaning_my": "ကျွန်တော် စာပို့မယ်။"
+              "meaning_my": "စာပို့မယ်။"
             }
           ],
           "replies": [
@@ -3392,13 +3190,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "wǒ fā xiāo xi gěi nǐ",
           "mistakes": [
             {
               "text": "“我发消息给你”是准备发，并不一定表示对方已经收到。",
               "text_my": "“我发消息给你” က စာပို့မယ်ဆိုတာပါ။ တစ်ဖက်လူ လက်ခံရပြီးပြီလို့ မဆိုလိုဘူး။"
             }
           ],
+          "pinyin": "wǒ fā xiāo xi gěi nǐ",
           "phonetic_my": "ဝေါ ဖာ ရှောင် ရှီး ကေး နီ"
         },
         {
@@ -3406,8 +3204,6 @@
           "level": "listen",
           "text": "换号码了告诉我。",
           "meaning_my": "နံပါတ်ပြောင်းရင် ပြောပေးပါ။",
-          "when_to_use": "公司或同事需要更新联系记录时，提醒对方换号要通知自己。",
-          "when_to_use_my": "ကုမ္ပဏီ၊ လုပ်ဖော်ကိုင်ဖက်နဲ့ ဆက်သွယ်ဖို့ နံပါတ်ပြောင်းရင် အသိပေးဖို့ ပြောတယ်။",
           "alternatives": [
             {
               "text": "换了号码告诉我。",
@@ -3427,13 +3223,13 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "huàn hào mǎ le gào su wǒ",
           "mistakes": [
             {
               "text": "“换号码了告诉我”是以后换号时通知，并非要求现在就换号码。",
               "text_my": "“换号码了告诉我” က နောက်မှ နံပါတ်ပြောင်းရင် ပြောပါဆိုတာပါ။ အခုချက်ချင်း ပြောင်းခိုင်းတာ မဟုတ်ဘူး။"
             }
           ],
+          "pinyin": "huàn hào mǎ le gào su wǒ",
           "phonetic_my": "ဟွမ် ဟောင် မာ လ ကောင် စူ ဝေါ"
         },
         {
@@ -3441,8 +3237,6 @@
           "level": "listen",
           "text": "这是我的新号码。",
           "meaning_my": "ဒါ ဖုန်းနံပါတ်အသစ်ပါ။",
-          "when_to_use": "换新手机号码后，主动告诉需要联系你的人保存新号码。",
-          "when_to_use_my": "ဖုန်းနံပါတ်အသစ်ပြောင်းပြီး ဆက်သွယ်ရမယ့်သူကို နံပါတ်အသစ်ပါလို့ အသိပေးတယ်။",
           "alternatives": [
             {
               "text": "这是我新换的号码。",
@@ -3462,16 +3256,17 @@
           "lesson_id": "11.5",
           "lesson_title": "11.5 联系方式",
           "lesson_title_my": "11.5 ဆက်သွယ်ရန်အချက်အလက်",
-          "pinyin": "zhè shì wǒ de xīn hào mǎ",
           "mistakes": [
             {
               "text": "有“新号码”不表示旧号一定停用，旧号能否继续联系需要另问。",
               "text_my": "“新号码” ရှိတာနဲ့ နံပါတ်ဟောင်း မသုံးတော့ဘူးလို့ မဆိုလိုဘူး။ ထပ်မေးပါ။"
             }
           ],
+          "pinyin": "zhè shì wǒ de xīn hào mǎ",
           "phonetic_my": "ကျ ရှီး ဝေါ တ ရှင် ဟောင် မာ"
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 103
 }
