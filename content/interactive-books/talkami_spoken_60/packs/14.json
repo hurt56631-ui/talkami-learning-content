@@ -1,10 +1,10 @@
 {
   "theme_id": "14",
-  "version": 11,
-  "updated_at": "2026-10-11T13:25:00Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:10:56.193Z",
   "theme_title": "14 等人改约",
   "theme_title_my": "14 စောင့်ဆိုင်းခြင်းနှင့် ချိန်းဆိုမှု ပြောင်းခြင်း",
-  "quality_standard": "Talkami 中缅双语口语 V2：逐句场景、中缅精准回应、主句带调拼音与必要的误解提示；保留66张、4课、全部来源关系和原始权限；缅语母语教师与实际音频测试待完成。",
+  "quality_standard": "V12: 66 stable published cards in 4 lessons plus 13 historical source reference/variation links = 79 source entries. Original IDs, levels and catalog access permissions preserved. Historical source relationships live in source/14.json lessons[].source_links; free/access controls live in catalog.json. Myanmar-language conversational replies and tone refined, speaker-neutral phrases, gài (fourth tone) and gǎi (third tone) approximations corrected; no when_to_use fields. Independent native Burmese teacher and audio QA pending.",
   "source_phrase_count": 79,
   "lessons": [
     {
@@ -2189,5 +2189,6 @@
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 66
 }
