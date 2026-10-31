@@ -1,10 +1,10 @@
 {
   "theme_id": "08",
-  "version": 11,
-  "updated_at": "2026-10-31T13:38:38.764Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:38:12.220Z",
   "theme_title": "08 原因结果",
   "theme_title_my": "08 အကြောင်းရင်းနှင့် ရလဒ်",
-  "quality_standard": "V11: 70 stable cards over 4 lessons; reviewed natural gender-neutral Burmese cause, progress and outcome distinctions, corrected ဈေး spelling and approximate gai/gai4 pronunciation cues, contextual replies and learner-focused mistake notes; removed usage fields. Native Burmese and real-audio QA pending.",
+  "quality_standard": "V12: 70 stable cards over 4 lessons; reviewed natural gender-neutral Burmese cause, progress and outcome distinctions, corrected ဈေး spelling and approximate gai/gai4 pronunciation cues, contextual replies and learner-focused mistake notes; removed usage fields. Native Burmese and real-audio QA pending. | Cross-theme QA: normalized optional mistakes and checked Burmese dialogue; phonetic_my is approximate, native/audio review pending.",
   "lessons": [
     {
       "id": "08.1",
@@ -1472,7 +1472,7 @@
           "replies": [
             {
               "text": "下午能好。",
-              "meaning_my": "နေ့လယ်နောက်ပိုင်း ပြီးနိုင်တယ်။"
+              "meaning_my": "မွန်းလွဲပိုင်းမှာ ပြီးနိုင်တယ်။"
             },
             {
               "text": "可能要到明天。",
@@ -2360,5 +2360,6 @@
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 70
 }
