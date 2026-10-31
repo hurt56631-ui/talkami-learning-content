@@ -1,10 +1,10 @@
 {
   "theme_id": "03",
-  "version": 11,
-  "updated_at": "2026-10-31T12:57:22.739Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:37:52.982Z",
   "theme_title": "03 听懂回应",
   "theme_title_my": "03 နားလည်ခြင်းနှင့် ပြန်လည်တုံ့ပြန်ခြင်း",
-  "quality_standard": "V11 Burmese-learner focused editing: 55 stable cards, distinct listening/hearing/understanding/remembering intents, natural gender-neutral colloquial Burmese, consistent Myanmar punctuation, meaningful two-turn replies and concise Burmese-facing misconception notes; removed when_to_use fields. Independent native Burmese teacher and audio QA still pending.",
+  "quality_standard": "V12 Burmese-learner focused editing: 55 stable cards, distinct listening/hearing/understanding/remembering intents, natural gender-neutral colloquial Burmese, consistent Myanmar punctuation, meaningful two-turn replies and concise Burmese-facing misconception notes; removed when_to_use fields. Independent native Burmese teacher and audio QA still pending. | Cross-theme QA: normalized optional mistakes and checked Burmese dialogue; phonetic_my is approximate, native/audio review pending.",
   "lessons": [
     {
       "id": "03.1",
@@ -1305,7 +1305,8 @@
           "lesson_title": "03.3 请求放慢、解释和展示",
           "lesson_title_my": "03.3 ဖြည်းပြောခိုင်းခြင်း၊ ရှင်းပြခိုင်းခြင်းနှင့် ပြသခိုင်းခြင်း",
           "pinyin": "néng jǔ ge lì zi ma",
-          "phonetic_my": "နန်း ကျွီ က လီ ဇီး မာ"
+          "phonetic_my": "နန်း ကျွီ က လီ ဇီး မာ",
+          "mistakes": []
         },
         {
           "id": "s03_03_0005",
@@ -1596,7 +1597,8 @@
           "lesson_title": "03.3 请求放慢、解释和展示",
           "lesson_title_my": "03.3 ဖြည်းပြောခိုင်းခြင်း၊ ရှင်းပြခိုင်းခြင်းနှင့် ပြသခိုင်းခြင်း",
           "pinyin": "hǎo, wǒ màn diǎn shuō",
-          "phonetic_my": "ဟောင် ဝေါ မန် တျန် ရှွော"
+          "phonetic_my": "ဟောင် ဝေါ မန် တျန် ရှွော",
+          "mistakes": []
         },
         {
           "id": "s03_03_0014",
@@ -1689,7 +1691,8 @@
           "lesson_title": "03.3 请求放慢、解释和展示",
           "lesson_title_my": "03.3 ဖြည်းပြောခိုင်းခြင်း၊ ရှင်းပြခိုင်းခြင်းနှင့် ပြသခိုင်းခြင်း",
           "pinyin": "wǒ gěi nǐ jǔ ge lì zi",
-          "phonetic_my": "ဝေါ ကေး နီ ကျွီ က လီ ဇီး"
+          "phonetic_my": "ဝေါ ကေး နီ ကျွီ က လီ ဇီး",
+          "mistakes": []
         },
         {
           "id": "s03_03_0017",
@@ -1716,7 +1719,8 @@
           "lesson_title": "03.3 请求放慢、解释和展示",
           "lesson_title_my": "03.3 ဖြည်းပြောခိုင်းခြင်း၊ ရှင်းပြခိုင်းခြင်းနှင့် ပြသခိုင်းခြင်း",
           "pinyin": "wǒ xiě gěi nǐ",
-          "phonetic_my": "ဝေါ ရှျဲ ကေး နီ"
+          "phonetic_my": "ဝေါ ရှျဲ ကေး နီ",
+          "mistakes": []
         },
         {
           "id": "s03_03_0018",
@@ -1743,7 +1747,8 @@
           "lesson_title": "03.3 请求放慢、解释和展示",
           "lesson_title_my": "03.3 ဖြည်းပြောခိုင်းခြင်း၊ ရှင်းပြခိုင်းခြင်းနှင့် ပြသခိုင်းခြင်း",
           "pinyin": "wǒ fā wén zì gěi nǐ",
-          "phonetic_my": "ဝေါ ဖာ ဝန် ဇီး ကေး နီ"
+          "phonetic_my": "ဝေါ ဖာ ဝန် ဇီး ကေး နီ",
+          "mistakes": []
         },
         {
           "id": "s03_03_0019",
@@ -1770,7 +1775,8 @@
           "lesson_title": "03.3 请求放慢、解释和展示",
           "lesson_title_my": "03.3 ဖြည်းပြောခိုင်းခြင်း၊ ရှင်းပြခိုင်းခြင်းနှင့် ပြသခိုင်းခြင်း",
           "pinyin": "nǐ kàn zhè lǐ",
-          "phonetic_my": "နီ ခန် ကျ လီ"
+          "phonetic_my": "နီ ခန် ကျ လီ",
+          "mistakes": []
         },
         {
           "id": "s03_03_0020",
@@ -1807,5 +1813,6 @@
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 55
 }
