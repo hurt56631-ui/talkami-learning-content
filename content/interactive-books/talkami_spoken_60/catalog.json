@@ -1,9 +1,9 @@
 {
-  "version": 64,
+  "version": 65,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3776,
+  "item_count": 3844,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2258,13 +2258,41 @@
         {
           "theme_id": "55",
           "title": "考勤排班",
-          "title_my": "အလုပ်တက်ရောက်မှုနှင့် အလှည့်ကျတာဝန်",
-          "status": "missing",
+          "title_my": "55 အလုပ်တက်ဆင်းချိန်နှင့် ဆိုင်းဇယား",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 68,
+          "lessons": [
+            {
+              "id": "55.1",
+              "title": "55.1 上下班打卡",
+              "title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+              "count": 19
+            },
+            {
+              "id": "55.2",
+              "title": "55.2 白班夜班排班",
+              "title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+              "count": 17
+            },
+            {
+              "id": "55.3",
+              "title": "55.3 换班加班",
+              "title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+              "count": 17
+            },
+            {
+              "id": "55.4",
+              "title": "55.4 请假迟到",
+              "title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+              "count": 15
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/55.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/55.json",
+          "data_version": 2
         },
         {
           "theme_id": "56",
@@ -2334,9 +2362,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme54-v2-natural-tasks-meetings-travel-20261031",
-  "source_status": "53 published themes, 7 missing; native pronunciation review pending",
+  "revision": "spoken-theme55-v2-natural-attendance-shifts-20261031",
+  "source_status": "54 published themes, 6 missing; native review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:45:00Z",
+  "updated_at": "2026-10-31T06:25:00Z",
   "packs_base_path": "packs/"
 }

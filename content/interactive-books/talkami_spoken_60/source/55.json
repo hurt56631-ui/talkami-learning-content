@@ -1,0 +1,1877 @@
+{
+  "schema_version": 2,
+  "version": 2,
+  "updated_at": "2026-10-31T06:25:00Z",
+  "zone_id": 8,
+  "zone_title": "职场工作",
+  "theme_id": "55",
+  "theme_title": "55 考勤排班",
+  "theme_title_my": "55 အလုပ်တက်ဆင်းချိန်နှင့် ဆိုင်းဇယား",
+  "lesson_count": 4,
+  "source_phrase_count": 72,
+  "phrase_count": 68,
+  "lessons": [
+    {
+      "lesson_id": "55.1",
+      "pack_id": "course55_1_attendance",
+      "title": "55.1 上下班打卡",
+      "title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "phrase_count": 19,
+      "phrase_ids": [
+        "s55_1_0001",
+        "s55_1_0002",
+        "s55_1_0003",
+        "s55_1_0004",
+        "s55_1_0005",
+        "s55_1_0006",
+        "s55_1_0007",
+        "s55_1_0008",
+        "s55_1_0009",
+        "s55_1_0010",
+        "s55_1_0011",
+        "s55_1_0012",
+        "s55_1_0013",
+        "s55_1_0014",
+        "s55_1_0015",
+        "s55_1_0016",
+        "s55_1_0017",
+        "s55_1_0018",
+        "s55_1_0019"
+      ],
+      "source_links": []
+    },
+    {
+      "lesson_id": "55.2",
+      "pack_id": "course55_2_shifts",
+      "title": "55.2 白班夜班排班",
+      "title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "phrase_count": 17,
+      "phrase_ids": [
+        "s55_2_0001",
+        "s55_2_0002",
+        "s55_2_0003",
+        "s55_2_0004",
+        "s55_2_0005",
+        "s55_2_0006",
+        "s55_2_0007",
+        "s55_2_0008",
+        "s55_2_0009",
+        "s55_2_0010",
+        "s55_2_0011",
+        "s55_2_0012",
+        "s55_2_0013",
+        "s55_2_0014",
+        "s55_2_0015",
+        "s55_2_0016",
+        "s55_2_0017"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "55.2",
+          "source_role": "must",
+          "text": "我周几休息？",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s10_2_0003",
+          "canonical_text": "周几休息？",
+          "canonical_course": "10.2",
+          "note": "同一询问休息日功能。"
+        },
+        {
+          "lesson_id": "55.2",
+          "source_role": "listen",
+          "text": "周三休息。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s10_2_0013",
+          "canonical_text": "我周三休息。",
+          "canonical_course": "10.2",
+          "note": "同一说明休息日功能。"
+        }
+      ]
+    },
+    {
+      "lesson_id": "55.3",
+      "pack_id": "course55_3_shift_overtime",
+      "title": "55.3 换班加班",
+      "title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "phrase_count": 17,
+      "phrase_ids": [
+        "s55_3_0001",
+        "s55_3_0002",
+        "s55_3_0003",
+        "s55_3_0004",
+        "s55_3_0005",
+        "s55_3_0006",
+        "s55_3_0007",
+        "s55_3_0008",
+        "s55_3_0009",
+        "s55_3_0010",
+        "s55_3_0011",
+        "s55_3_0012",
+        "s55_3_0013",
+        "s55_3_0014",
+        "s55_3_0015",
+        "s55_3_0016",
+        "s55_3_0017"
+      ],
+      "source_links": []
+    },
+    {
+      "lesson_id": "55.4",
+      "pack_id": "course55_4_leave_late",
+      "title": "55.4 请假迟到",
+      "title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "phrase_count": 15,
+      "phrase_ids": [
+        "s55_4_0001",
+        "s55_4_0002",
+        "s55_4_0003",
+        "s55_4_0004",
+        "s55_4_0005",
+        "s55_4_0006",
+        "s55_4_0007",
+        "s55_4_0008",
+        "s55_4_0009",
+        "s55_4_0010",
+        "s55_4_0011",
+        "s55_4_0012",
+        "s55_4_0013",
+        "s55_4_0014",
+        "s55_4_0015"
+      ],
+      "source_links": [
+        {
+          "lesson_id": "55.4",
+          "source_role": "must",
+          "text": "我会晚到十分钟。",
+          "status": "reuse_existing_semantic",
+          "canonical_id": "s14_2_0003",
+          "canonical_text": "我会晚十分钟。",
+          "canonical_course": "14.2",
+          "note": "同一迟到时间表达。"
+        },
+        {
+          "lesson_id": "55.4",
+          "source_role": "listen",
+          "text": "今天人手不够。",
+          "status": "reuse_existing_exact",
+          "canonical_id": "s08_02_0017",
+          "canonical_text": "今天人手不够。",
+          "canonical_course": "08.2",
+          "note": "前课已有完全相同核心。"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "s55_1_0001",
+      "level": "must",
+      "text": "我们几点上班？",
+      "meaning_my": "ကျွန်တော်တို့ ဘယ်နှနာရီ အလုပ်စရလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "早班八点开始。",
+          "meaning_my": "မနက်ဆိုင်း ရှစ်နာရီ စတယ်။"
+        },
+        {
+          "text": "今天九点上班。",
+          "meaning_my": "ဒီနေ့ ကိုးနာရီ အလုပ်စရမယ်။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "wǒ men jǐ diǎn shàng bān",
+      "phonetic_my": "ဝေါ မန် ကျီ တျန် ရှန်း ပန်"
+    },
+    {
+      "id": "s55_1_0002",
+      "level": "must",
+      "text": "在哪里打卡？",
+      "meaning_my": "အလုပ်တက်ဆင်းချိန် ဘယ်မှာ မှတ်ရမလဲ။",
+      "alternatives": [
+        {
+          "text": "在哪儿打卡？",
+          "meaning_my": "ဘယ်မှာ အလုပ်ချိန် မှတ်ရမလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "门口有打卡机。",
+          "meaning_my": "တံခါးပေါက်နားမှာ အချိန်မှတ်စက် ရှိတယ်။"
+        },
+        {
+          "text": "在手机上打就行。",
+          "meaning_my": "ဖုန်းနဲ့ မှတ်လိုက်ရုံပဲ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "zài nǎ lǐ dǎ kǎ",
+      "phonetic_my": "ဇိုင် နာ လီ တာ ခါ"
+    },
+    {
+      "id": "s55_1_0003",
+      "level": "must",
+      "text": "我忘打卡了。",
+      "meaning_my": "အလုပ်ချိန်မှတ်ဖို့ မေ့သွားတယ်။",
+      "alternatives": [
+        {
+          "text": "我漏打卡了。",
+          "meaning_my": "အလုပ်ချိန်မှတ်ဖို့ လွတ်သွားတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "赶紧申请补卡。",
+          "meaning_my": "အချိန်မှတ်တမ်း ပြန်ဖြည့်ဖို့ မြန်မြန်လျှောက်ပါ။"
+        },
+        {
+          "text": "先告诉主管实际时间。",
+          "meaning_my": "တကယ် အလုပ်တက်တဲ့အချိန်ကို ကြီးကြပ်ရေးမှူးဆီ အရင်ပြောပါ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [
+        {
+          "text": "补打卡是补录实际出勤时间，不是补领工牌。",
+          "text_my": "အချိန်မှတ်တမ်း ပြန်ဖြည့်တာက တကယ်အလုပ်တက်တဲ့အချိန်ကို ပြန်မှတ်တာပါ၊ ဝန်ထမ်းကတ်အသစ် ထုတ်တာ မဟုတ်ပါဘူး။"
+        }
+      ],
+      "pinyin": "wǒ wàng dǎ kǎ le",
+      "phonetic_my": "ဝေါ ဝမ့် တာ ခါ လ"
+    },
+    {
+      "id": "s55_1_0004",
+      "level": "must",
+      "text": "我今天迟到了。",
+      "meaning_my": "ဒီနေ့ အလုပ်နောက်ကျသွားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "迟到了多久？",
+          "meaning_my": "ဘယ်လောက် နောက်ကျသွားတာလဲ။"
+        },
+        {
+          "text": "先跟主管说一声。",
+          "meaning_my": "ကြီးကြပ်ရေးမှူးကို အရင် အသိပေးပါ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "wǒ jīn tiān chí dào le",
+      "phonetic_my": "ဝေါ ကျင် ထျန် ချီ တောင် လ"
+    },
+    {
+      "id": "s55_1_0005",
+      "level": "must",
+      "text": "下班要打卡吗？",
+      "meaning_my": "အလုပ်ဆင်းချိန်လည်း မှတ်ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，走之前打卡。",
+          "meaning_my": "လိုတယ်၊ မပြန်ခင် အချိန်မှတ်ပါ။"
+        },
+        {
+          "text": "不用，这里只打上班卡。",
+          "meaning_my": "မလိုဘူး၊ ဒီမှာ အလုပ်တက်ချိန်ပဲ မှတ်ရတယ်။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "xià bān yào dǎ kǎ ma",
+      "phonetic_my": "ရှျာ ပန် ယောင် တာ ခါ မာ"
+    },
+    {
+      "id": "s55_1_0006",
+      "level": "must",
+      "text": "怎么补卡？",
+      "meaning_my": "လွတ်သွားတဲ့ အချိန်မှတ်တမ်းကို ဘယ်လို ပြန်ဖြည့်ရမလဲ။",
+      "alternatives": [
+        {
+          "text": "忘打卡怎么补？",
+          "meaning_my": "အချိန်မှတ်ဖို့ မေ့သွားရင် ဘယ်လိုပြန်ဖြည့်ရမလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "在系统里申请补卡。",
+          "meaning_my": "စနစ်ထဲမှာ အချိန်မှတ်တမ်း ပြန်ဖြည့်ဖို့ လျှောက်ပါ။"
+        },
+        {
+          "text": "去人事部登记时间。",
+          "meaning_my": "HR ဌာနမှာ အလုပ်ချိန် ပြန်မှတ်ပေးဖို့ စာရင်းသွင်းပါ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "zěn me bǔ kǎ",
+      "phonetic_my": "ဇန် မ ပု ခါ"
+    },
+    {
+      "id": "s55_1_0007",
+      "level": "must",
+      "text": "手机也能打卡吗？",
+      "meaning_my": "ဖုန်းနဲ့လည်း အလုပ်ချိန် မှတ်လို့ရလား။",
+      "alternatives": [
+        {
+          "text": "能用手机打卡吗？",
+          "meaning_my": "ဖုန်းနဲ့ အလုပ်ချိန် မှတ်လို့ရလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "可以，用公司软件。",
+          "meaning_my": "ရတယ်၊ ကုမ္ပဏီရဲ့ အက်ပ်နဲ့ မှတ်ပါ။"
+        },
+        {
+          "text": "不行，只能用打卡机。",
+          "meaning_my": "မရဘူး၊ အချိန်မှတ်စက်နဲ့ပဲ မှတ်လို့ရတယ်။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "shǒu jī yě néng dǎ kǎ ma",
+      "phonetic_my": "ရှိုး ကျီ ယဲ့ နန်း တာ ခါ မာ"
+    },
+    {
+      "id": "s55_1_0008",
+      "level": "must",
+      "text": "系统里没打卡记录。",
+      "meaning_my": "စနစ်ထဲမှာ အချိန်မှတ်တမ်း မပေါ်ဘူး။",
+      "alternatives": [
+        {
+          "text": "没查到打卡记录。",
+          "meaning_my": "အလုပ်ချိန်မှတ်တမ်း ရှာမတွေ့ဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "刷新后再看看。",
+          "meaning_my": "ပြန်ဖွင့်ကြည့်ပါဦး။"
+        },
+        {
+          "text": "把截图发给人事。",
+          "meaning_my": "စခရင်ရှော့ကို HR ဆီ ပို့ပါ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "xì tǒng lǐ méi dǎ kǎ jì lù",
+      "phonetic_my": "ရှီး ထုံ လီ မေး တာ ခါ ကျီ လု့"
+    },
+    {
+      "id": "s55_1_0009",
+      "level": "must",
+      "text": "打卡显示超范围。",
+      "meaning_my": "အလုပ်ချိန်မှတ်ရင် သတ်မှတ်နေရာပြင်ပလို့ ပြနေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先检查手机定位。",
+          "meaning_my": "ဖုန်းရဲ့ တည်နေရာဆက်တင်ကို အရင်စစ်ပါ။"
+        },
+        {
+          "text": "还不行就联系人事。",
+          "meaning_my": "မရသေးရင် HR ကို ဆက်သွယ်ပါ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "dǎ kǎ xiǎn shì chāo fàn wéi",
+      "phonetic_my": "တာ ခါ ရှန် ရှီး ချောင် ဖန် ဝေး"
+    },
+    {
+      "id": "s55_1_0010",
+      "level": "must",
+      "text": "打卡成功了吗？",
+      "meaning_my": "အလုပ်ချိန် မှတ်လို့ရသွားပြီလား။",
+      "alternatives": [
+        {
+          "text": "打上卡了吗？",
+          "meaning_my": "အလုပ်ချိန် မှတ်ပြီးပြီလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "成功了，有记录了。",
+          "meaning_my": "ရသွားပြီ၊ မှတ်တမ်းလည်း ပေါ်ပြီ။"
+        },
+        {
+          "text": "还没，系统报错。",
+          "meaning_my": "မရသေးဘူး၊ စနစ်က အမှားပြနေတယ်။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "dǎ kǎ chéng gōng le ma",
+      "phonetic_my": "တာ ခါ ချန်း ကုန်း လ မာ"
+    },
+    {
+      "id": "s55_1_0011",
+      "level": "must",
+      "text": "补卡要找谁？",
+      "meaning_my": "အချိန်မှတ်တမ်း ပြန်ဖြည့်ဖို့ ဘယ်သူ့ကို ရှာရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "先找部门主管。",
+          "meaning_my": "အရင် ဌာနကြီးကြပ်ရေးမှူးကို သွားတွေ့ပါ။"
+        },
+        {
+          "text": "去找人事核实。",
+          "meaning_my": "HR ဆီ သွားပြီး စစ်ဆေးခိုင်းပါ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "bǔ kǎ yào zhǎo shéi",
+      "phonetic_my": "ပု ခါ ယောင် ကျောင် ရှေး"
+    },
+    {
+      "id": "s55_1_0012",
+      "level": "listen",
+      "text": "八点前要打卡。",
+      "meaning_my": "ရှစ်နာရီမတိုင်ခင် အလုပ်တက်ချိန် မှတ်ရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我七点半就来。",
+          "meaning_my": "ခုနစ်နာရီခွဲမှာ လာမယ်။"
+        },
+        {
+          "text": "八点整算迟到吗？",
+          "meaning_my": "ရှစ်နာရီတိတိဆို နောက်ကျတယ်လို့ သတ်မှတ်လား။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "bā diǎn qián yào dǎ kǎ",
+      "phonetic_my": "ပါ တျန် ချန် ယောင် တာ ခါ"
+    },
+    {
+      "id": "s55_1_0013",
+      "level": "listen",
+      "text": "下班也要打卡。",
+      "meaning_my": "အလုပ်ဆင်းချိန်လည်း မှတ်ရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我下班前会打。",
+          "meaning_my": "အလုပ်ဆင်းခါနီး မှတ်ပါမယ်။"
+        },
+        {
+          "text": "加班后再打吗？",
+          "meaning_my": "အချိန်ပိုပြီးမှ မှတ်ရမှာလား။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "xià bān yě yào dǎ kǎ",
+      "phonetic_my": "ရှျာ ပန် ယဲ့ ယောင် တာ ခါ"
+    },
+    {
+      "id": "s55_1_0014",
+      "level": "listen",
+      "text": "找主管补打卡。",
+      "meaning_my": "အချိန်မှတ်တမ်း ပြန်ဖြည့်ဖို့ ကြီးကြပ်ရေးမှူးကို သွားတွေ့ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "主管在办公室吗？",
+          "meaning_my": "ကြီးကြပ်ရေးမှူး ရုံးခန်းထဲမှာ ရှိလား။"
+        },
+        {
+          "text": "要先填申请吗？",
+          "meaning_my": "အရင် လျှောက်လွှာဖြည့်ဖို့ လိုလား။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "zhǎo zhǔ guǎn bǔ dǎ kǎ",
+      "phonetic_my": "ကျောင် ကျူ ကွမ် ပု တာ ခါ"
+    },
+    {
+      "id": "s55_1_0015",
+      "level": "listen",
+      "text": "迟到会记下来。",
+      "meaning_my": "နောက်ကျတာကို မှတ်တမ်းတင်ထားမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "今天晚了十分钟。",
+          "meaning_my": "ဒီနေ့ ဆယ်မိနစ် နောက်ကျသွားတယ်။"
+        },
+        {
+          "text": "需要说明原因吗？",
+          "meaning_my": "ဘာကြောင့် နောက်ကျတာလဲ ရှင်းပြဖို့ လိုလား။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "chí dào huì jì xià lái",
+      "phonetic_my": "ချီ တောင် ဟွေ့ ကျီ ရှျာ လိုင်"
+    },
+    {
+      "id": "s55_1_0016",
+      "level": "listen",
+      "text": "手机上也能打卡。",
+      "meaning_my": "ဖုန်းနဲ့လည်း အလုပ်ချိန် မှတ်လို့ရတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "用哪个软件？",
+          "meaning_my": "ဘယ်အက်ပ်ကို သုံးရမလဲ။"
+        },
+        {
+          "text": "要开定位吗？",
+          "meaning_my": "တည်နေရာဖွင့်ထားဖို့ လိုလား။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "shǒu jī shàng yě néng dǎ kǎ",
+      "phonetic_my": "ရှိုး ကျီ ရှန်း ယဲ့ နန်း တာ ခါ"
+    },
+    {
+      "id": "s55_1_0017",
+      "level": "listen",
+      "text": "补卡要主管审批。",
+      "meaning_my": "အချိန်မှတ်တမ်း ပြန်ဖြည့်ဖို့ ကြီးကြပ်ရေးမှူးရဲ့ ခွင့်ပြုချက် လိုတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那我先去找主管。",
+          "meaning_my": "ဒါဆို ကြီးကြပ်ရေးမှူးကို အရင် သွားတွေ့မယ်။"
+        },
+        {
+          "text": "审批要多久？",
+          "meaning_my": "ခွင့်ပြုချက်ရဖို့ ဘယ်လောက်ကြာမလဲ။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "bǔ kǎ yào zhǔ guǎn shěn pī",
+      "phonetic_my": "ပု ခါ ယောင် ကျူ ကွမ် ရှန် ဖီး"
+    },
+    {
+      "id": "s55_1_0018",
+      "level": "listen",
+      "text": "系统显示打卡成功。",
+      "meaning_my": "စနစ်မှာ အချိန်မှတ်တာ အောင်မြင်ပြီလို့ ပြနေတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "能查到时间吗？",
+          "meaning_my": "မှတ်ထားတဲ့အချိန်ကို ကြည့်လို့ရလား။"
+        },
+        {
+          "text": "我再核对一下记录。",
+          "meaning_my": "မှတ်တမ်းကို နောက်တစ်ခါ စစ်ကြည့်ဦးမယ်။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "xì tǒng xiǎn shì dǎ kǎ chéng gōng",
+      "phonetic_my": "ရှီး ထုံ ရှန် ရှီး တာ ခါ ချန်း ကုန်း"
+    },
+    {
+      "id": "s55_1_0019",
+      "level": "listen",
+      "text": "漏打卡要及时申请。",
+      "meaning_my": "အလုပ်ချိန်မှတ်ဖို့ လွတ်သွားရင် မြန်မြန် ပြန်လျှောက်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "从哪儿申请？",
+          "meaning_my": "ဘယ်မှာ သွားလျှောက်ရမလဲ။"
+        },
+        {
+          "text": "我今天就去办。",
+          "meaning_my": "ဒီနေ့ပဲ သွားလုပ်လိုက်မယ်။"
+        }
+      ],
+      "lesson_id": "55.1",
+      "lesson_title": "55.1 上下班打卡",
+      "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "mistakes": [],
+      "pinyin": "lòu dǎ kǎ yào jí shí shēn qǐng",
+      "phonetic_my": "လိုး တာ ခါ ယောင် ကျီ ရှီး ရှန် ချင်း"
+    },
+    {
+      "id": "s55_2_0001",
+      "level": "must",
+      "text": "明天我上什么班？",
+      "meaning_my": "မနက်ဖြန် ဘာဆိုင်းဆင်းရမလဲ။",
+      "alternatives": [
+        {
+          "text": "明天什么班？",
+          "meaning_my": "မနက်ဖြန် ဘာဆိုင်းလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "明天你上早班。",
+          "meaning_my": "မနက်ဖြန် မနက်ဆိုင်း ဆင်းရမယ်။"
+        },
+        {
+          "text": "明天轮到你夜班。",
+          "meaning_my": "မနက်ဖြန် မင်း ညဆိုင်းကျတယ်။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "míng tiān wǒ shàng shén me bān",
+      "phonetic_my": "မင်း ထျန် ဝေါ ရှန်း ရှန် မ ပန်"
+    },
+    {
+      "id": "s55_2_0002",
+      "level": "must",
+      "text": "今天上夜班吗？",
+      "meaning_my": "ဒီနေ့ ညဆိုင်းဆင်းရမှာလား။",
+      "alternatives": [
+        {
+          "text": "今晚上夜班吗？",
+          "meaning_my": "ဒီည ညဆိုင်းဆင်းရမှာလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "是，晚上八点开始。",
+          "meaning_my": "ဟုတ်တယ်၊ ည ရှစ်နာရီ စမယ်။"
+        },
+        {
+          "text": "不是，今天上白班。",
+          "meaning_my": "မဟုတ်ဘူး၊ ဒီနေ့ နေ့ဆိုင်းပါ။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "jīn tiān shàng yè bān ma",
+      "phonetic_my": "ကျင် ထျန် ရှန်း ယဲ့ ပန် မာ"
+    },
+    {
+      "id": "s55_2_0003",
+      "level": "must",
+      "text": "排班表在哪儿？",
+      "meaning_my": "ဆိုင်းဇယား ဘယ်မှာလဲ။",
+      "alternatives": [
+        {
+          "text": "班表在哪儿？",
+          "meaning_my": "ဆိုင်းဇယား ဘယ်မှာလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "发在工作群里了。",
+          "meaning_my": "အလုပ်အဖွဲ့ထဲ ပို့ထားတယ်။"
+        },
+        {
+          "text": "贴在公告栏上。",
+          "meaning_my": "ကြေညာသင်ပုန်းမှာ ကပ်ထားတယ်။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "pái bān biǎo zài nǎr",
+      "phonetic_my": "ဖိုင် ပန် ပြျောင် ဇိုင် နာ"
+    },
+    {
+      "id": "s55_2_0004",
+      "level": "must",
+      "text": "这个月有几次夜班？",
+      "meaning_my": "ဒီလ ညဆိုင်း ဘယ်နှကြိမ် ဆင်းရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "一共六次。",
+          "meaning_my": "စုစုပေါင်း ခြောက်ကြိမ်ပါ။"
+        },
+        {
+          "text": "有八次，表上写着。",
+          "meaning_my": "ရှစ်ကြိမ်ပါ၊ ဇယားမှာ ရေးထားတယ်။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "zhè ge yuè yǒu jǐ cì yè bān",
+      "phonetic_my": "ကျ က ယွဲ ယိုး ကျီ ဆီး ယဲ့ ပန်"
+    },
+    {
+      "id": "s55_2_0005",
+      "level": "must",
+      "text": "班次变了吗？",
+      "meaning_my": "ဆိုင်း ပြောင်းသွားပြီလား။",
+      "alternatives": [
+        {
+          "text": "换班了吗？",
+          "meaning_my": "ဆိုင်းပြောင်းပြီလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "变了，你改上晚班。",
+          "meaning_my": "ပြောင်းသွားပြီ၊ မင်း ညနေဆိုင်း ဆင်းရမယ်။"
+        },
+        {
+          "text": "没变，还是白班。",
+          "meaning_my": "မပြောင်းဘူး၊ နေ့ဆိုင်းပဲ။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "bān cì biàn le ma",
+      "phonetic_my": "ပန် ဆီး ပျန် လ မာ"
+    },
+    {
+      "id": "s55_2_0006",
+      "level": "must",
+      "text": "我今天上白班。",
+      "meaning_my": "ဒီနေ့ နေ့ဆိုင်းဆင်းတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那你八点上班吗？",
+          "meaning_my": "ဒါဆို ရှစ်နာရီ အလုပ်စရမှာလား။"
+        },
+        {
+          "text": "下午几点下班？",
+          "meaning_my": "နေ့လယ်ပိုင်း ဘယ်နှနာရီ ဆင်းရမလဲ။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "wǒ jīn tiān shàng bái bān",
+      "phonetic_my": "ဝေါ ကျင် ထျန် ရှန်း ပိုင် ပန်"
+    },
+    {
+      "id": "s55_2_0007",
+      "level": "must",
+      "text": "明天是夜班。",
+      "meaning_my": "မနက်ဖြန် ညဆိုင်းပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "晚上八点开始吗？",
+          "meaning_my": "ည ရှစ်နာရီ စမှာလား။"
+        },
+        {
+          "text": "那你白天先休息吧。",
+          "meaning_my": "ဒါဆို နေ့ဘက်မှာ အရင်နားထားပါ။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "míng tiān shì yè bān",
+      "phonetic_my": "မင်း ထျန် ရှီး ယဲ့ ပန်"
+    },
+    {
+      "id": "s55_2_0008",
+      "level": "must",
+      "text": "这周我休两天。",
+      "meaning_my": "ဒီအပတ် နှစ်ရက်နားရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "周几休？",
+          "meaning_my": "ဘယ်နေ့တွေနားရမှာလဲ။"
+        },
+        {
+          "text": "是连着休两天吗？",
+          "meaning_my": "နှစ်ရက်ဆက်တိုက် နားရမှာလား။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "zhè zhōu wǒ xiū liǎng tiān",
+      "phonetic_my": "ကျ ကျိုး ဝေါ ရှိုး လျန်း ထျန်"
+    },
+    {
+      "id": "s55_2_0009",
+      "level": "must",
+      "text": "排班表改了吗？",
+      "meaning_my": "ဆိုင်းဇယား ပြင်ပြီးပြီလား။",
+      "alternatives": [
+        {
+          "text": "班表更新了吗？",
+          "meaning_my": "ဆိုင်းဇယား အသစ်ပြင်ပြီးပြီလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "改了，群里有新表。",
+          "meaning_my": "ပြင်ပြီးပြီ၊ အဖွဲ့ထဲမှာ ဇယားအသစ်ရှိတယ်။"
+        },
+        {
+          "text": "还没改，按原表来。",
+          "meaning_my": "မပြင်ရသေးဘူး၊ အရင်ဇယားအတိုင်း ဆင်းပါ။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "pái bān biǎo gǎi le ma",
+      "phonetic_my": "ဖိုင် ပန် ပြျောင် ကိုင် လ မာ"
+    },
+    {
+      "id": "s55_2_0010",
+      "level": "must",
+      "text": "要连上几天夜班？",
+      "meaning_my": "ညဆိုင်း ဘယ်နှရက်ဆက် ဆင်းရမလဲ။",
+      "alternatives": [
+        {
+          "text": "连上几天夜班？",
+          "meaning_my": "ညဆိုင်း ဘယ်နှရက်ဆက် ဆင်းရမှာလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "连上三天。",
+          "meaning_my": "သုံးရက်ဆက် ဆင်းရမယ်။"
+        },
+        {
+          "text": "这周连续两个晚上。",
+          "meaning_my": "ဒီအပတ် နှစ်ညဆက်တိုက်ပါ။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "yào lián shàng jǐ tiān yè bān",
+      "phonetic_my": "ယောင် လျန် ရှန်း ကျီ ထျန် ယဲ့ ပန်"
+    },
+    {
+      "id": "s55_2_0011",
+      "level": "listen",
+      "text": "明天上早班。",
+      "meaning_my": "မနက်ဖြန် မနက်ဆိုင်းဆင်းရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "早班几点开始？",
+          "meaning_my": "မနက်ဆိုင်း ဘယ်နှနာရီ စမလဲ။"
+        },
+        {
+          "text": "要提前到吗？",
+          "meaning_my": "စောစော ရောက်ဖို့လိုလား။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "míng tiān shàng zǎo bān",
+      "phonetic_my": "မင်း ထျန် ရှန်း ဇောက် ပန်"
+    },
+    {
+      "id": "s55_2_0012",
+      "level": "listen",
+      "text": "今天临时改晚班。",
+      "meaning_my": "ဒီနေ့ ရုတ်တရက် ညနေဆိုင်း ပြောင်းထားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "晚班几点开始？",
+          "meaning_my": "ညနေဆိုင်း ဘယ်နှနာရီ စမလဲ။"
+        },
+        {
+          "text": "我今天有事，能调整吗？",
+          "meaning_my": "ဒီနေ့ ကိစ္စရှိလို့ ပြန်ညှိလို့ရမလား။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [
+        {
+          "text": "晚班和通宵夜班不一定相同，应确认具体开始和结束时间。",
+          "text_my": "ညနေဆိုင်းနဲ့ တစ်ညလုံးဆင်းရတဲ့ ညဆိုင်း မတူနိုင်လို့ စချိန်၊ ဆင်းချိန်ကို သေချာမေးပါ။"
+        }
+      ],
+      "pinyin": "jīn tiān lín shí gǎi wǎn bān",
+      "phonetic_my": "ကျင် ထျန် လင် ရှီး ကိုင် ဝမ် ပန်"
+    },
+    {
+      "id": "s55_2_0013",
+      "level": "listen",
+      "text": "排班发群里了。",
+      "meaning_my": "ဆိုင်းဇယားကို အဖွဲ့ထဲ ပို့ထားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "发在哪个群？",
+          "meaning_my": "ဘယ်အဖွဲ့ထဲ ပို့ထားတာလဲ။"
+        },
+        {
+          "text": "我去看看新表。",
+          "meaning_my": "ဇယားအသစ်ကို သွားကြည့်လိုက်မယ်။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "pái bān fā qún lǐ le",
+      "phonetic_my": "ဖိုင် ပန် ဖာ ချွင် လီ လ"
+    },
+    {
+      "id": "s55_2_0014",
+      "level": "listen",
+      "text": "夜班晚上八点开始。",
+      "meaning_my": "ညဆိုင်းက ည ရှစ်နာရီ စတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "几点下班？",
+          "meaning_my": "ဘယ်နှနာရီ အလုပ်ဆင်းရမလဲ။"
+        },
+        {
+          "text": "需要提前到吗？",
+          "meaning_my": "စောစော ရောက်ဖို့လိုလား။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "yè bān wǎn shàng bā diǎn kāi shǐ",
+      "phonetic_my": "ယဲ့ ပန် ဝမ် ရှန်း ပါ တျန် ခိုင် ရှီး"
+    },
+    {
+      "id": "s55_2_0015",
+      "level": "listen",
+      "text": "这周班表有调整。",
+      "meaning_my": "ဒီအပတ် ဆိုင်းဇယား ပြောင်းထားတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我换到哪一班了？",
+          "meaning_my": "ဘယ်ဆိုင်းကို ပြောင်းထားတာလဲ။"
+        },
+        {
+          "text": "新表在哪儿？",
+          "meaning_my": "ဇယားအသစ် ဘယ်မှာလဲ။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "zhè zhōu bān biǎo yǒu tiáo zhěng",
+      "phonetic_my": "ကျ ကျိုး ပန် ပြျောင် ယိုး ထျောင် ကျန်း"
+    },
+    {
+      "id": "s55_2_0016",
+      "level": "listen",
+      "text": "临时换班看群通知。",
+      "meaning_my": "ရုတ်တရက် ဆိုင်းပြောင်းတာကို အဖွဲ့ထဲက အသိပေးစာမှာ ကြည့်ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我还没看到通知。",
+          "meaning_my": "အသိပေးစာ မတွေ့သေးဘူး။"
+        },
+        {
+          "text": "是今天生效吗？",
+          "meaning_my": "ဒီနေ့ကစပြီး အကျုံးဝင်မှာလား။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "lín shí huàn bān kàn qún tōng zhī",
+      "phonetic_my": "လင် ရှီး ဟွမ် ပန် ခန် ချွင် ထုန်း ကျီး"
+    },
+    {
+      "id": "s55_2_0017",
+      "level": "listen",
+      "text": "按最新班表上班。",
+      "meaning_my": "နောက်ဆုံး ဆိုင်းဇယားအတိုင်း အလုပ်ဆင်းပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我再核对一下日期。",
+          "meaning_my": "ရက်စွဲကို နောက်တစ်ခါ စစ်ကြည့်မယ်။"
+        },
+        {
+          "text": "最新的是昨天那张吗？",
+          "meaning_my": "နောက်ဆုံးဇယားက မနေ့က ပို့ထားတာလား။"
+        }
+      ],
+      "lesson_id": "55.2",
+      "lesson_title": "55.2 白班夜班排班",
+      "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "mistakes": [],
+      "pinyin": "àn zuì xīn bān biǎo shàng bān",
+      "phonetic_my": "အန် ဇွေ့ ရှင် ပန် ပြျောင် ရှန်း ပန်"
+    },
+    {
+      "id": "s55_3_0001",
+      "level": "must",
+      "text": "能跟小李换班吗？",
+      "meaning_my": "ရှောင်လီနဲ့ ဆိုင်းလဲလို့ရလား။",
+      "alternatives": [
+        {
+          "text": "我能和小李换班吗？",
+          "meaning_my": "ရှောင်လီနဲ့ ဆိုင်းလဲလို့ရလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "先问小李同不同意。",
+          "meaning_my": "ရှောင်လီ သဘောတူမတူ အရင်မေးပါ။"
+        },
+        {
+          "text": "双方谈好再找主管。",
+          "meaning_my": "နှစ်ယောက်ညှိပြီးမှ ကြီးကြပ်ရေးမှူးဆီ သွားပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "néng gēn xiǎo lǐ huàn bān ma",
+      "phonetic_my": "နန်း ကန်း ရှောင် လီ ဟွမ် ပန် မာ"
+    },
+    {
+      "id": "s55_3_0002",
+      "level": "must",
+      "text": "换班要提前申请吗？",
+      "meaning_my": "ဆိုင်းလဲဖို့ ကြိုတင်လျှောက်ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，最好提前一天。",
+          "meaning_my": "လိုတယ်၊ တစ်ရက်ကြိုလျှောက်ရင် ပိုကောင်းတယ်။"
+        },
+        {
+          "text": "先在系统里申请。",
+          "meaning_my": "စနစ်ထဲမှာ အရင် လျှောက်ပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "huàn bān yào tí qián shēn qǐng ma",
+      "phonetic_my": "ဟွမ် ပန် ယောင် ထီ ချန် ရှန် ချင်း မာ"
+    },
+    {
+      "id": "s55_3_0003",
+      "level": "must",
+      "text": "今晚要加班吗？",
+      "meaning_my": "ဒီည အချိန်ပို ဆင်းရမလား။",
+      "alternatives": [
+        {
+          "text": "今晚加班吗？",
+          "meaning_my": "ဒီည အချိန်ပို ဆင်းရမှာလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "要，做到九点。",
+          "meaning_my": "လိုတယ်၊ ညကိုးနာရီထိ ဆင်းရမယ်။"
+        },
+        {
+          "text": "不用，正常下班。",
+          "meaning_my": "မလိုဘူး၊ ပုံမှန်အချိန်အတိုင်း ဆင်းလို့ရတယ်။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "jīn wǎn yào jiā bān ma",
+      "phonetic_my": "ကျင် ဝမ် ယောင် ကျား ပန် မာ"
+    },
+    {
+      "id": "s55_3_0004",
+      "level": "must",
+      "text": "加班到几点？",
+      "meaning_my": "အချိန်ပို ဘယ်နှနာရီထိ ဆင်းရမလဲ။",
+      "alternatives": [
+        {
+          "text": "加到几点？",
+          "meaning_my": "ဘယ်နှနာရီထိ အချိန်ပိုဆင်းရမှာလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "到晚上九点。",
+          "meaning_my": "ညကိုးနာရီထိပါ။"
+        },
+        {
+          "text": "加到八点半。",
+          "meaning_my": "ညရှစ်နာရီခွဲထိပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "jiā bān dào jǐ diǎn",
+      "phonetic_my": "ကျား ပန် တောင် ကျီ တျန်"
+    },
+    {
+      "id": "s55_3_0005",
+      "level": "must",
+      "text": "周末要上班吗？",
+      "meaning_my": "စနေ၊ တနင်္ဂနွေ အလုပ်ဆင်းရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "周六要来。",
+          "meaning_my": "စနေနေ့ လာဆင်းရမယ်။"
+        },
+        {
+          "text": "这周末都休息。",
+          "meaning_my": "ဒီစနေ၊ တနင်္ဂနွေ နှစ်ရက်လုံး နားရမယ်။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "zhōu mò yào shàng bān ma",
+      "phonetic_my": "ကျိုး မော့ ယောင် ရှန်း ပန် မာ"
+    },
+    {
+      "id": "s55_3_0006",
+      "level": "must",
+      "text": "我能加两小时。",
+      "meaning_my": "အချိန်ပို နှစ်နာရီ ဆင်းနိုင်တယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那就加到八点。",
+          "meaning_my": "ဒါဆို ရှစ်နာရီထိ ဆင်းပါ။"
+        },
+        {
+          "text": "先登记一下加班。",
+          "meaning_my": "အချိန်ပိုဆင်းမယ့်စာရင်း အရင်သွင်းပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "wǒ néng jiā liǎng xiǎo shí",
+      "phonetic_my": "ဝေါ နန်း ကျား လျန်း ရှောင် ရှီး"
+    },
+    {
+      "id": "s55_3_0007",
+      "level": "must",
+      "text": "加班后要打卡吗？",
+      "meaning_my": "အချိန်ပိုပြီးရင် အလုပ်ဆင်းချိန် မှတ်ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要，结束后再打。",
+          "meaning_my": "လိုတယ်၊ အချိန်ပိုပြီးမှ မှတ်ပါ။"
+        },
+        {
+          "text": "按实际下班时间打。",
+          "meaning_my": "တကယ် အလုပ်ဆင်းတဲ့အချိန်အတိုင်း မှတ်ပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "jiā bān hòu yào dǎ kǎ ma",
+      "phonetic_my": "ကျား ပန် ဟိုး ယောင် တာ ခါ မာ"
+    },
+    {
+      "id": "s55_3_0008",
+      "level": "must",
+      "text": "换班申请在哪儿交？",
+      "meaning_my": "ဆိုင်းလဲဖို့ လျှောက်လွှာ ဘယ်မှာတင်ရမလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在公司系统里提交。",
+          "meaning_my": "ကုမ္ပဏီစနစ်ထဲမှာ တင်ပါ။"
+        },
+        {
+          "text": "交给组长签字。",
+          "meaning_my": "အဖွဲ့ခေါင်းဆောင်ဆီ လက်မှတ်ထိုးဖို့ ပေးပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "huàn bān shēn qǐng zài nǎr jiāo",
+      "phonetic_my": "ဟွမ် ပန် ရှန် ချင်း ဇိုင် နာ ကျောင်"
+    },
+    {
+      "id": "s55_3_0009",
+      "level": "must",
+      "text": "这周末不能加班。",
+      "meaning_my": "ဒီစနေ၊ တနင်္ဂနွေ အချိန်ပို မဆင်းနိုင်ဘူး။",
+      "alternatives": [
+        {
+          "text": "周末没法加班。",
+          "meaning_my": "စနေ၊ တနင်္ဂနွေ အချိန်ပို မဆင်းနိုင်ဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "那我再找别人。",
+          "meaning_my": "ဒါဆို တခြားသူကို ထပ်ရှာကြည့်မယ်။"
+        },
+        {
+          "text": "你提前跟组长说吧。",
+          "meaning_my": "အဖွဲ့ခေါင်းဆောင်ကို ကြိုပြောထားပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "zhè zhōu mò bù néng jiā bān",
+      "phonetic_my": "ကျ ကျိုး မော့ ပု နန်း ကျား ပန်"
+    },
+    {
+      "id": "s55_3_0010",
+      "level": "must",
+      "text": "加班能调休吗？",
+      "meaning_my": "အချိန်ပိုအတွက် အစားထိုးနားရက် ယူလို့ရလား။",
+      "alternatives": [
+        {
+          "text": "加班可以补休吗？",
+          "meaning_my": "အချိန်ပိုအတွက် အစားထိုးနားရက် ယူလို့ရလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "这次可以申请调休。",
+          "meaning_my": "ဒီတစ်ခါ အစားထိုးနားရက် လျှောက်လို့ရတယ်။"
+        },
+        {
+          "text": "先问人事怎么安排。",
+          "meaning_my": "ဘယ်လိုစီစဉ်ပေးမလဲ HR ကို အရင်မေးပါ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [
+        {
+          "text": "加班费和调休是否适用，应根据当地劳动法规、工时制度和实际安排确认。",
+          "text_my": "အချိန်ပိုကြေးနဲ့ အစားထိုးနားရက်ကို သက်ဆိုင်ရာ အလုပ်သမားဥပဒေ၊ အလုပ်ချိန်စနစ်နဲ့ အစီအစဉ်အတိုင်း စစ်ပါ။"
+        }
+      ],
+      "pinyin": "jiā bān néng tiáo xiū ma",
+      "phonetic_my": "ကျား ပန် နန်း ထျောင် ရှိုး မာ"
+    },
+    {
+      "id": "s55_3_0011",
+      "level": "listen",
+      "text": "今天加班到九点。",
+      "meaning_my": "ဒီနေ့ ညကိုးနာရီထိ အချိန်ပို ဆင်းရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那晚饭怎么安排？",
+          "meaning_my": "ဒါဆို ညစာ ဘယ်လိုစီစဉ်ထားလဲ။"
+        },
+        {
+          "text": "结束后要再打卡吗？",
+          "meaning_my": "ပြီးရင် အချိန် ထပ်မှတ်ရမလား။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "jīn tiān jiā bān dào jiǔ diǎn",
+      "phonetic_my": "ကျင် ထျန် ကျား ပန် တောင် ကျိုး တျန်"
+    },
+    {
+      "id": "s55_3_0012",
+      "level": "listen",
+      "text": "换班先找主管。",
+      "meaning_my": "ဆိုင်းလဲချင်ရင် ကြီးကြပ်ရေးမှူးကို အရင် သွားတွေ့ပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我先去找他确认。",
+          "meaning_my": "သူ့ဆီ သွားပြီး အရင် အတည်ပြုမယ်။"
+        },
+        {
+          "text": "要先问对方吗？",
+          "meaning_my": "လဲမယ့်သူကို အရင်မေးရမလား။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "huàn bān xiān zhǎo zhǔ guǎn",
+      "phonetic_my": "ဟွမ် ပန် ရှျန် ကျောင် ကျူ ကွမ်"
+    },
+    {
+      "id": "s55_3_0013",
+      "level": "listen",
+      "text": "这周末不用上班。",
+      "meaning_my": "ဒီစနေ၊ တနင်္ဂနွေ အလုပ်မဆင်းရဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "周一正常上班吧？",
+          "meaning_my": "တနင်္လာနေ့ ပုံမှန်ဆင်းရမှာနော်။"
+        },
+        {
+          "text": "两天都休息吗？",
+          "meaning_my": "နှစ်ရက်လုံး နားရမှာလား။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "zhè zhōu mò bú yòng shàng bān",
+      "phonetic_my": "ကျ ကျိုး မော့ ပု ယုန်း ရှန်း ပန်"
+    },
+    {
+      "id": "s55_3_0014",
+      "level": "listen",
+      "text": "今天需要你留下来。",
+      "meaning_my": "ဒီနေ့ အလုပ်ဆက်လုပ်ဖို့ နေခဲ့ပေးပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要留到几点？",
+          "meaning_my": "ဘယ်နှနာရီထိ နေရမလဲ။"
+        },
+        {
+          "text": "我今晚有事，能调整吗？",
+          "meaning_my": "ဒီည ကိစ္စရှိလို့ ပြန်ညှိလို့ရမလား။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "jīn tiān xū yào nǐ liú xià lái",
+      "phonetic_my": "ကျင် ထျန် ရှွီ ယောင် နီ လျိုး ရှျာ လိုင်"
+    },
+    {
+      "id": "s55_3_0015",
+      "level": "listen",
+      "text": "换班要双方同意。",
+      "meaning_my": "ဆိုင်းလဲဖို့ နှစ်ယောက်လုံး သဘောတူရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我已经问过小李了。",
+          "meaning_my": "ရှောင်လီကို မေးပြီးပါပြီ။"
+        },
+        {
+          "text": "还要主管批准吗？",
+          "meaning_my": "ကြီးကြပ်ရေးမှူး ခွင့်ပြုဖို့ လိုသေးလား။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "huàn bān yào shuāng fāng tóng yì",
+      "phonetic_my": "ဟွမ် ပန် ယောင် ရှွမ်း ဖန်း ထုန်း ယီ"
+    },
+    {
+      "id": "s55_3_0016",
+      "level": "listen",
+      "text": "今天大概加两小时。",
+      "meaning_my": "ဒီနေ့ အချိန်ပို နှစ်နာရီလောက် ဆင်းရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那几点结束？",
+          "meaning_my": "ဒါဆို ဘယ်နှနာရီ ပြီးမှာလဲ။"
+        },
+        {
+          "text": "加班时间怎么记？",
+          "meaning_my": "အချိန်ပိုဆင်းတဲ့အချိန်ကို ဘယ်လိုမှတ်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "jīn tiān dà gài jiā liǎng xiǎo shí",
+      "phonetic_my": "ကျင် ထျန် တာ ကိုင် ကျား လျန်း ရှောင် ရှီး"
+    },
+    {
+      "id": "s55_3_0017",
+      "level": "listen",
+      "text": "不能私下换班。",
+      "meaning_my": "ကြီးကြပ်ရေးမှူးကို မပြောဘဲ ကိုယ့်သဘောနဲ့ ဆိုင်းမလဲရဘူး။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "那我先去申请。",
+          "meaning_my": "ဒါဆို အရင် သွားလျှောက်မယ်။"
+        },
+        {
+          "text": "找谁审批？",
+          "meaning_my": "ဘယ်သူ့ဆီ ခွင့်ပြုချက် တောင်းရမလဲ။"
+        }
+      ],
+      "lesson_id": "55.3",
+      "lesson_title": "55.3 换班加班",
+      "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "mistakes": [],
+      "pinyin": "bù néng sī xià huàn bān",
+      "phonetic_my": "ပု နန်း စီး ရှျာ ဟွမ် ပန်"
+    },
+    {
+      "id": "s55_4_0001",
+      "level": "must",
+      "text": "我想请一天假。",
+      "meaning_my": "တစ်ရက် ခွင့်ယူချင်ပါတယ်။",
+      "alternatives": [
+        {
+          "text": "我想请假一天。",
+          "meaning_my": "တစ်ရက် ခွင့်ယူချင်ပါတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "你想请哪一天？",
+          "meaning_my": "ဘယ်နေ့ ခွင့်ယူချင်တာလဲ။"
+        },
+        {
+          "text": "先在系统里申请。",
+          "meaning_my": "စနစ်ထဲမှာ အရင် လျှောက်ပါ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ xiǎng qǐng yì tiān jià",
+      "phonetic_my": "ဝေါ ရှျန်း ချင်း ယီ ထျန် ကျား"
+    },
+    {
+      "id": "s55_4_0002",
+      "level": "must",
+      "text": "我今天不舒服。",
+      "meaning_my": "ဒီနေ့ နေမကောင်းဘူး။",
+      "alternatives": [
+        {
+          "text": "我今天身体不舒服。",
+          "meaning_my": "ဒီနေ့ နေမကောင်းဘူး။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "要不要先休息？",
+          "meaning_my": "အရင် နားမလား။"
+        },
+        {
+          "text": "要去医院看看吗？",
+          "meaning_my": "ဆေးရုံသွားပြချင်လား။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ jīn tiān bù shū fu",
+      "phonetic_my": "ဝေါ ကျင် ထျန် ပု ရှူ ဖူ"
+    },
+    {
+      "id": "s55_4_0003",
+      "level": "must",
+      "text": "我可能晚到半小时。",
+      "meaning_my": "နာရီဝက်လောက် နောက်ကျမှ ရောက်နိုင်မယ်။",
+      "alternatives": [
+        {
+          "text": "我可能迟到半小时。",
+          "meaning_my": "နာရီဝက်လောက် နောက်ကျနိုင်တယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "路上注意安全。",
+          "meaning_my": "လမ်းမှာ သတိထားပါ။"
+        },
+        {
+          "text": "到了跟我说一声。",
+          "meaning_my": "ရောက်ရင် တစ်ချက် ပြောပေးပါ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "wǒ kě néng wǎn dào bàn xiǎo shí",
+      "phonetic_my": "ဝေါ ခ နန်း ဝမ် တောင် ပန် ရှောင် ရှီး"
+    },
+    {
+      "id": "s55_4_0004",
+      "level": "must",
+      "text": "需要请假条吗？",
+      "meaning_my": "ခွင့်စာ တင်ဖို့လိုလား။",
+      "alternatives": [
+        {
+          "text": "请假要写申请吗？",
+          "meaning_my": "ခွင့်ယူဖို့ လျှောက်လွှာရေးရမလား။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "要，填一张申请单。",
+          "meaning_my": "လိုတယ်၊ လျှောက်လွှာတစ်ရွက် ဖြည့်ပါ။"
+        },
+        {
+          "text": "不用，网上申请就行。",
+          "meaning_my": "မလိုဘူး၊ အွန်လိုင်းက လျှောက်ရုံပဲ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "xū yào qǐng jià tiáo ma",
+      "phonetic_my": "ရှွီ ယောင် ချင်း ကျား ထျောင် မာ"
+    },
+    {
+      "id": "s55_4_0005",
+      "level": "must",
+      "text": "请假谁批准？",
+      "meaning_my": "ခွင့်ယူဖို့ ဘယ်သူ ခွင့်ပြုရမလဲ။",
+      "alternatives": [
+        {
+          "text": "找谁批假？",
+          "meaning_my": "ခွင့်ပြုချက်အတွက် ဘယ်သူ့ဆီ သွားရမလဲ။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "由部门主管批准。",
+          "meaning_my": "ဌာနကြီးကြပ်ရေးမှူးက ခွင့်ပြုပေးရမယ်။"
+        },
+        {
+          "text": "先找你们组长。",
+          "meaning_my": "မင်းတို့ အဖွဲ့ခေါင်းဆောင်ကို အရင်သွားတွေ့ပါ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng jià shéi pī zhǔn",
+      "phonetic_my": "ချင်း ကျား ရှေး ဖီး ကျွင်"
+    },
+    {
+      "id": "s55_4_0006",
+      "level": "must",
+      "text": "明天能请假吗？",
+      "meaning_my": "မနက်ဖြန် ခွင့်ယူလို့ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "可以，先提交申请。",
+          "meaning_my": "ရတယ်၊ အရင် လျှောက်လွှာတင်ပါ။"
+        },
+        {
+          "text": "我先确认一下排班。",
+          "meaning_my": "ဆိုင်းဇယားကို အရင် စစ်ကြည့်မယ်။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "míng tiān néng qǐng jià ma",
+      "phonetic_my": "မင်း ထျန် နန်း ချင်း ကျား မာ"
+    },
+    {
+      "id": "s55_4_0007",
+      "level": "must",
+      "text": "我想请病假。",
+      "meaning_my": "ဆေးခွင့်ယူချင်ပါတယ်။",
+      "alternatives": [
+        {
+          "text": "我生病了，想请假。",
+          "meaning_my": "နေမကောင်းလို့ ခွင့်ယူချင်ပါတယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "哪里不舒服？",
+          "meaning_my": "ဘယ်နား နေမကောင်းတာလဲ။"
+        },
+        {
+          "text": "先休息，按流程请假。",
+          "meaning_my": "အရင် နားပါ၊ ပြီးရင် ခွင့်တောင်းတဲ့လုပ်ထုံးလုပ်နည်းအတိုင်း ဆောင်ရွက်ပါ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [
+        {
+          "text": "突然生病时可以先及时通知单位，不应误以为任何病假都必须提前获批才能求医。",
+          "text_my": "ရုတ်တရက် နေမကောင်းရင် အလုပ်ကို ချက်ချင်း အသိပေးပါ။ ဆေးကုသဖို့အတွက် ခွင့်ပြုချက်ရမှသာ သွားရမယ်လို့ မယူဆပါနဲ့။"
+        }
+      ],
+      "pinyin": "wǒ xiǎng qǐng bìng jià",
+      "phonetic_my": "ဝေါ ရှျန်း ချင်း ပင်း ကျား"
+    },
+    {
+      "id": "s55_4_0008",
+      "level": "must",
+      "text": "明天能请半天假吗？",
+      "meaning_my": "မနက်ဖြန် နေ့တစ်ဝက် ခွင့်ယူလို့ရမလား။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "上午还是下午？",
+          "meaning_my": "မနက်ပိုင်းလား၊ နေ့လယ်ပိုင်းလား။"
+        },
+        {
+          "text": "可以，先提交申请。",
+          "meaning_my": "ရတယ်၊ အရင် လျှောက်လွှာတင်ပါ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "míng tiān néng qǐng bàn tiān jià ma",
+      "phonetic_my": "မင်း ထျန် နန်း ချင်း ပန် ထျန် ကျား မာ"
+    },
+    {
+      "id": "s55_4_0009",
+      "level": "must",
+      "text": "病假要什么证明？",
+      "meaning_my": "ဆေးခွင့်အတွက် ဘာအထောက်အထား လိုလဲ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "这次要医院证明。",
+          "meaning_my": "ဒီတစ်ခါ ဆေးရုံက အထောက်အထား လိုတယ်။"
+        },
+        {
+          "text": "具体要求问人事。",
+          "meaning_my": "ဘာတွေလိုလဲ HR ကို သေချာမေးပါ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "bìng jià yào shén me zhèng míng",
+      "phonetic_my": "ပင်း ကျား ယောင် ရှန် မ ကျန်း မင်း"
+    },
+    {
+      "id": "s55_4_0010",
+      "level": "listen",
+      "text": "先跟主管说。",
+      "meaning_my": "ကြီးကြပ်ရေးမှူးကို အရင်ပြောပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我现在给他发消息。",
+          "meaning_my": "အခု သူ့ဆီ မက်ဆေ့ချ်ပို့လိုက်မယ်။"
+        },
+        {
+          "text": "打电话说可以吗？",
+          "meaning_my": "ဖုန်းဆက်ပြောလို့ရလား။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "xiān gēn zhǔ guǎn shuō",
+      "phonetic_my": "ရှျန် ကန်း ကျူ ကွမ် ရှွော"
+    },
+    {
+      "id": "s55_4_0011",
+      "level": "listen",
+      "text": "这次病假要证明。",
+      "meaning_my": "ဒီတစ်ခါ ဆေးခွင့်အတွက် အထောက်အထား လိုတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要医院开的证明吗？",
+          "meaning_my": "ဆေးရုံက ထုတ်ပေးတဲ့ အထောက်အထား လိုတာလား။"
+        },
+        {
+          "text": "什么时候交？",
+          "meaning_my": "ဘယ်တော့ တင်ပေးရမလဲ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "zhè cì bìng jià yào zhèng míng",
+      "phonetic_my": "ကျ ဆီး ပင်း ကျား ယောင် ကျန်း မင်း"
+    },
+    {
+      "id": "s55_4_0012",
+      "level": "listen",
+      "text": "可以，早点回来。",
+      "meaning_my": "ရတယ်၊ စောစော ပြန်လာပါ။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "我尽量早点回来。",
+          "meaning_my": "တတ်နိုင်သလောက် စောစော ပြန်လာပါမယ်။"
+        },
+        {
+          "text": "晚了会提前通知您。",
+          "meaning_my": "နောက်ကျမယ်ဆို ကြိုအသိပေးပါမယ်။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "kě yǐ zǎo diǎn huí lái",
+      "phonetic_my": "ခ ယီ ဇောက် တျန် ဟွေ့ လိုင်"
+    },
+    {
+      "id": "s55_4_0013",
+      "level": "listen",
+      "text": "请假要提前申请。",
+      "meaning_my": "ခွင့်ယူဖို့ ကြိုတင်လျှောက်ရမယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "要提前几天？",
+          "meaning_my": "ဘယ်နှရက် ကြိုလျှောက်ရမလဲ။"
+        },
+        {
+          "text": "有急事怎么办？",
+          "meaning_my": "အရေးပေါ်ကိစ္စရှိရင် ဘယ်လိုလုပ်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng jià yào tí qián shēn qǐng",
+      "phonetic_my": "ချင်း ကျား ယောင် ထီ ချန် ရှန် ချင်း"
+    },
+    {
+      "id": "s55_4_0014",
+      "level": "listen",
+      "text": "迟到要提前说。",
+      "meaning_my": "နောက်ကျမယ်ဆို ကြိုပြောရမယ်။",
+      "alternatives": [
+        {
+          "text": "迟到要先说。",
+          "meaning_my": "နောက်ကျမယ်ဆို အရင် အသိပေးရမယ်။"
+        }
+      ],
+      "replies": [
+        {
+          "text": "我会提前发消息。",
+          "meaning_my": "ကြိုပြီး မက်ဆေ့ချ်ပို့ပါမယ်။"
+        },
+        {
+          "text": "要联系哪位主管？",
+          "meaning_my": "ဘယ်ကြီးကြပ်ရေးမှူးကို ဆက်သွယ်ရမလဲ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "chí dào yào tí qián shuō",
+      "phonetic_my": "ချီ တောင် ယောင် ထီ ချန် ရှွော"
+    },
+    {
+      "id": "s55_4_0015",
+      "level": "listen",
+      "text": "请假要先获批准。",
+      "meaning_my": "ခွင့်ယူဖို့ အရင် ခွင့်ပြုချက်ရဖို့လိုတယ်။",
+      "alternatives": [],
+      "replies": [
+        {
+          "text": "在哪儿查审批结果？",
+          "meaning_my": "ခွင့်ပြုချက်ရမရ ဘယ်မှာ စစ်ရမလဲ။"
+        },
+        {
+          "text": "紧急情况怎么报备？",
+          "meaning_my": "အရေးပေါ်အခြေအနေဆို ဘယ်လို အသိပေးရမလဲ။"
+        }
+      ],
+      "lesson_id": "55.4",
+      "lesson_title": "55.4 请假迟到",
+      "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
+      "mistakes": [],
+      "pinyin": "qǐng jià yào xiān huò pī zhǔn",
+      "phonetic_my": "ချင်း ကျား ယောင် ရှျန် ဟွော့ ဖီး ကျွင်"
+    }
+  ],
+  "quality_notes": {
+    "reply_first": true,
+    "when_to_use_removed": true,
+    "source_links_preserved": true,
+    "needs_native_burmese_and_pronunciation_review": true
+  }
+}
