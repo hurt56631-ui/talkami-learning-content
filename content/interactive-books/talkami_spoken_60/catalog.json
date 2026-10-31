@@ -1,9 +1,9 @@
 {
-  "version": 54,
+  "version": 55,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 3031,
+  "item_count": 3088,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1392,12 +1392,34 @@
           "theme_id": "31",
           "title": "付款扫码",
           "title_my": "ငွေပေးချေခြင်းနှင့် QR စကင်",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 57,
+          "lessons": [
+            {
+              "id": "31.1",
+              "title": "31.1 手机扫码支付",
+              "title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+              "count": 20
+            },
+            {
+              "id": "31.2",
+              "title": "31.2 现金与找零",
+              "title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+              "count": 20
+            },
+            {
+              "id": "31.3",
+              "title": "31.3 支付异常",
+              "title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+              "count": 17
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 3,
+          "data_url": "packs/31.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/31.json",
+          "data_version": 2
         },
         {
           "theme_id": "32",
@@ -2042,9 +2064,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme30-v2-pricing-natural-replies-theme29-fix-20261031",
-  "source_status": "43 published themes, 17 missing; pronunciation review pending",
+  "revision": "spoken-theme31-short-natural-reply-first-20261031",
+  "source_status": "44 published themes, 16 missing; Myanmar phonetic review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:00:00Z",
+  "updated_at": "2026-10-31T02:30:00Z",
   "packs_base_path": "packs/"
 }

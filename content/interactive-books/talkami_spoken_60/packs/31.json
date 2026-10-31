@@ -1,0 +1,1408 @@
+{
+  "theme_id": "31",
+  "version": 2,
+  "updated_at": "2026-10-31T02:30:00Z",
+  "theme_title": "31 付款扫码",
+  "theme_title_my": "31 ငွေပေးချေမှုနှင့် QR",
+  "quality_standard": "short-natural-reply-first-v2",
+  "source_phrase_count": 60,
+  "lessons": [
+    {
+      "id": "31.1",
+      "title": "31.1 手机扫码支付",
+      "title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+      "phrases": [
+        {
+          "id": "s31_1_0001",
+          "level": "must",
+          "text": "微信可以吗？",
+          "meaning_my": "WeChat နဲ့ ပေးလို့ရလား။",
+          "alternatives": [
+            {
+              "text": "可以用微信吗？",
+              "meaning_my": "WeChat သုံးလို့ရလား။"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，扫这个码。",
+              "meaning_my": "ရပါတယ်၊ ဒီ QR ကုဒ်ကို စကန်ဖတ်ပါ။"
+            },
+            {
+              "text": "不好意思，只收现金。",
+              "meaning_my": "စိတ်မကောင်းပါဘူး၊ ငွေသားပဲ လက်ခံတယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "wēi xìn kě yǐ ma",
+          "phonetic_my": "ဝေး ရှင် ခ ယီ မာ"
+        },
+        {
+          "id": "s31_1_0002",
+          "level": "must",
+          "text": "我扫这个收款码吗？",
+          "meaning_my": "ဒီငွေလက်ခံ QR ကုဒ်ကို စကန်ဖတ်ရမှာလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，扫这个就行。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒီကုဒ်ကို စကန်ဖတ်ရုံပဲ။"
+            },
+            {
+              "text": "不用，我扫您的付款码。",
+              "meaning_my": "မလိုဘူး၊ ငွေပေးကုဒ်ကို ကျွန်တော် စကန်ဖတ်ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [
+            {
+              "text": "收款码由顾客扫，付款码由商家扫。",
+              "text_my": "ဆိုင်ငွေလက်ခံကုဒ်ကို ဝယ်သူက စကန်ဖတ်တာပါ၊ ဝယ်သူငွေပေးကုဒ်ကို ဆိုင်က စကန်ဖတ်တာပါ။"
+            }
+          ],
+          "pinyin": "wǒ sǎo zhè ge shōu kuǎn mǎ ma",
+          "phonetic_my": "ဝေါ စောင် ကျ က ရှိုး ခွန် မာ မာ"
+        },
+        {
+          "id": "s31_1_0003",
+          "level": "must",
+          "text": "扫我的付款码吧。",
+          "meaning_my": "ကျွန်တော့် ငွေပေးကုဒ်ကို စကန်ဖတ်ပေးပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，您把码打开。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ကုဒ်ကို ဖွင့်ပြပေးပါ။"
+            },
+            {
+              "text": "稍等，我扫一下。",
+              "meaning_my": "ခဏစောင့်ပါ၊ စကန်ဖတ်ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [
+            {
+              "text": "付款码不要截图转发给陌生人。",
+              "text_my": "ငွေပေးကုဒ်ကို စခရင်ရှော့ရိုက်ပြီး မသိသူဆီ မပို့ပါနဲ့။"
+            }
+          ],
+          "pinyin": "sǎo wǒ de fù kuǎn mǎ ba",
+          "phonetic_my": "စောင် ဝေါ တ ဖူ ခွန် မာ ပါ"
+        },
+        {
+          "id": "s31_1_0004",
+          "level": "must",
+          "text": "付款码在哪里？",
+          "meaning_my": "ငွေပေးချေတဲ့ကုဒ်က ဘယ်မှာလဲ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "微信里点“收付款”。",
+              "meaning_my": "WeChat ထဲက “Pay and receive” ကို နှိပ်ပါ။"
+            },
+            {
+              "text": "支付宝里点“付钱”。",
+              "meaning_my": "Alipay ထဲက “Pay” ကို နှိပ်ပါ။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "fù kuǎn mǎ zài nǎ lǐ",
+          "phonetic_my": "ဖူ ခွန် မာ ဇိုင် နာ လီ"
+        },
+        {
+          "id": "s31_1_0005",
+          "level": "must",
+          "text": "要出示付款码吗？",
+          "meaning_my": "ငွေပေးကုဒ်ကို ပြဖို့လိုလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，您打开付款码。",
+              "meaning_my": "လိုတယ်၊ ငွေပေးကုဒ်ကို ဖွင့်ပြပါ။"
+            },
+            {
+              "text": "不用，您扫这个码。",
+              "meaning_my": "မလိုဘူး၊ ဒီကုဒ်ကိုပဲ စကန်ဖတ်ပါ။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "yào chū shì fù kuǎn mǎ ma",
+          "phonetic_my": "ယောင် ချူ ရှီး ဖူ ခွန် မာ မာ"
+        },
+        {
+          "id": "s31_1_0006",
+          "level": "must",
+          "text": "我已经付了。",
+          "meaning_my": "ငွေပေးပြီးပြီ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "收到了，谢谢。",
+              "meaning_my": "ငွေရပါပြီ၊ ကျေးဇူးပါ။"
+            },
+            {
+              "text": "还没显示，我查一下。",
+              "meaning_my": "မပေါ်သေးဘူး၊ စစ်ကြည့်ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "wǒ yǐ jīng fù le",
+          "phonetic_my": "ဝေါ ယီ ကျင်း ဖူ လ"
+        },
+        {
+          "id": "s31_1_0007",
+          "level": "must",
+          "text": "钱收到了吗？",
+          "meaning_my": "ငွေရပြီလား။",
+          "alternatives": [
+            {
+              "text": "你那边到账了吗？",
+              "meaning_my": "မင်းဘက်မှာ ငွေရောက်ပြီလား။"
+            }
+          ],
+          "replies": [
+            {
+              "text": "收到了，到账了。",
+              "meaning_my": "ရပြီ၊ ငွေဝင်လာပြီ။"
+            },
+            {
+              "text": "还没显示，等一下。",
+              "meaning_my": "မပေါ်သေးဘူး၊ ခဏစောင့်ပါဦး။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "qián shōu dào le ma",
+          "phonetic_my": "ချန် ရှိုး တောင် လ မာ"
+        },
+        {
+          "id": "s31_1_0008",
+          "level": "must",
+          "text": "支付宝可以吗？",
+          "meaning_my": "Alipay နဲ့ ပေးလို့ရလား။",
+          "alternatives": [
+            {
+              "text": "可以用支付宝吗？",
+              "meaning_my": "Alipay သုံးလို့ရလား။"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，用支付宝扫。",
+              "meaning_my": "ရတယ်၊ Alipay နဲ့ စကန်ဖတ်ပါ။"
+            },
+            {
+              "text": "不好意思，只能用微信。",
+              "meaning_my": "စိတ်မကောင်းပါဘူး၊ WeChat နဲ့ပဲ ပေးလို့ရတယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "zhī fù bǎo kě yǐ ma",
+          "phonetic_my": "ကျီး ဖူ ပေါင် ခ ယီ မာ"
+        },
+        {
+          "id": "s31_1_0009",
+          "level": "must",
+          "text": "我用支付宝付。",
+          "meaning_my": "Alipay နဲ့ ပေးမယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，扫这边。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ဒီဘက်က ကုဒ်ကို စကန်ဖတ်ပါ။"
+            },
+            {
+              "text": "好，请打开付款码。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ငွေပေးကုဒ်ကို ဖွင့်ပြပါ။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "wǒ yòng zhī fù bǎo fù",
+          "phonetic_my": "ဝေါ ယုန်း ကျီး ဖူ ပေါင် ဖူ"
+        },
+        {
+          "id": "s31_1_0010",
+          "level": "must",
+          "text": "微信支付宝都能用吗？",
+          "meaning_my": "WeChat နဲ့ Alipay နှစ်မျိုးလုံး သုံးလို့ရလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "都可以，您随便选。",
+              "meaning_my": "နှစ်မျိုးလုံး ရပါတယ်၊ ကြိုက်တာရွေးပါ။"
+            },
+            {
+              "text": "这里只能用支付宝。",
+              "meaning_my": "ဒီမှာ Alipay နဲ့ပဲ ပေးလို့ရပါတယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "wēi xìn zhī fù bǎo dōu néng yòng ma",
+          "phonetic_my": "ဝေး ရှင် ကျီး ဖူ ပေါင် တိုး နန်း ယုန်း မာ"
+        },
+        {
+          "id": "s31_1_0011",
+          "level": "must",
+          "text": "这里显示五十八元。",
+          "meaning_my": "ဒီမှာ ၅၈ ယွမ်လို့ ပြနေတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，一共五十八。",
+              "meaning_my": "ဟုတ်တယ်၊ စုစုပေါင်း ၅၈ ယွမ်ပါ။"
+            },
+            {
+              "text": "不对，我再核对一下。",
+              "meaning_my": "မမှန်ဘူး၊ ပြန်စစ်ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "zhè lǐ xiǎn shì wǔ shí bā yuán",
+          "phonetic_my": "ကျ လီ ရှန် ရှီး ဝူ ရှီး ပါ ယွမ်"
+        },
+        {
+          "id": "s31_1_0012",
+          "level": "listen",
+          "text": "扫这里。",
+          "meaning_my": "ဒီနေရာကို စကန်ဖတ်ပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我扫一下。",
+              "meaning_my": "ဟုတ်ကဲ့၊ စကန်ဖတ်ကြည့်မယ်။"
+            },
+            {
+              "text": "这个码扫不出来。",
+              "meaning_my": "ဒီကုဒ်ကို စကန်ဖတ်မရဘူး။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "sǎo zhè lǐ",
+          "phonetic_my": "စောင် ကျ လီ"
+        },
+        {
+          "id": "s31_1_0013",
+          "level": "listen",
+          "text": "出示付款码。",
+          "meaning_my": "ငွေပေးကုဒ်ကို ပြပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我打开了。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ဖွင့်ပြီးပြီ။"
+            },
+            {
+              "text": "等一下，我找找。",
+              "meaning_my": "ခဏစောင့်ပါဦး၊ ရှာကြည့်မယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "chū shì fù kuǎn mǎ",
+          "phonetic_my": "ချူ ရှီး ဖူ ခွန် မာ"
+        },
+        {
+          "id": "s31_1_0014",
+          "level": "listen",
+          "text": "一共五十八元。",
+          "meaning_my": "စုစုပေါင်း ၅၈ ယွမ်ပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在付。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အခုပေးမယ်။"
+            },
+            {
+              "text": "能扫码付吗？",
+              "meaning_my": "QR စကန်ဖတ်ပြီး ပေးလို့ရလား။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "yí gòng wǔ shí bā yuán",
+          "phonetic_my": "ယီ ကုန်း ဝူ ရှီး ပါ ယွမ်"
+        },
+        {
+          "id": "s31_1_0015",
+          "level": "listen",
+          "text": "已经收到了。",
+          "meaning_my": "ငွေရပြီ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我先走了。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ဒါဆို သွားလိုက်တော့မယ်။"
+            },
+            {
+              "text": "能给我小票吗？",
+              "meaning_my": "ဘောင်ချာ ပေးလို့ရမလား။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "yǐ jīng shōu dào le",
+          "phonetic_my": "ယီ ကျင်း ရှိုး တောင် လ"
+        },
+        {
+          "id": "s31_1_0016",
+          "level": "listen",
+          "text": "微信支付宝都可以。",
+          "meaning_my": "WeChat နဲ့ Alipay နှစ်မျိုးလုံး ရတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我用微信。",
+              "meaning_my": "ဒါဆို WeChat နဲ့ ပေးမယ်။"
+            },
+            {
+              "text": "我用支付宝付。",
+              "meaning_my": "Alipay နဲ့ ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "wēi xìn zhī fù bǎo dōu kě yǐ",
+          "phonetic_my": "ဝေး ရှင် ကျီး ဖူ ပေါင် တိုး ခ ယီ"
+        },
+        {
+          "id": "s31_1_0017",
+          "level": "listen",
+          "text": "请确认金额。",
+          "meaning_my": "ငွေပမာဏကို စစ်ကြည့်ပေးပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，是五十八元。",
+              "meaning_my": "ဟုတ်တယ်၊ ၅၈ ယွမ်ပါ။"
+            },
+            {
+              "text": "金额不对，麻烦看下。",
+              "meaning_my": "ငွေပမာဏ မမှန်ဘူး၊ ကြည့်ပေးပါဦး။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "qǐng què rèn jīn é",
+          "phonetic_my": "ချင်း ချွဲ ရန် ကျင် အဲ"
+        },
+        {
+          "id": "s31_1_0018",
+          "level": "listen",
+          "text": "支付成功。",
+          "meaning_my": "ငွေပေးချေမှု အောင်မြင်ပြီ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "钱收到了吧？",
+              "meaning_my": "ငွေရပြီနော်။"
+            },
+            {
+              "text": "那我可以走了吗？",
+              "meaning_my": "ဒါဆို သွားလို့ရပြီလား။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "zhī fù chéng gōng",
+          "phonetic_my": "ကျီး ဖူ ချန်း ကုန်း"
+        },
+        {
+          "id": "s31_1_0019",
+          "level": "listen",
+          "text": "请打开付款码。",
+          "meaning_my": "ငွေပေးကုဒ်ကို ဖွင့်ပြပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，打开了。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ဖွင့်ပြီးပြီ။"
+            },
+            {
+              "text": "等一下，手机有点卡。",
+              "meaning_my": "ခဏစောင့်ပါဦး၊ ဖုန်းနည်းနည်းလေးနေတယ်။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "qǐng dǎ kāi fù kuǎn mǎ",
+          "phonetic_my": "ချင်း တာ ခိုင် ဖူ ခွန် မာ"
+        },
+        {
+          "id": "s31_1_0020",
+          "level": "listen",
+          "text": "扫桌上的收款码。",
+          "meaning_my": "စားပွဲပေါ်က ငွေလက်ခံ QR ကုဒ်ကို စကန်ဖတ်ပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我扫一下。",
+              "meaning_my": "ဟုတ်ကဲ့၊ စကန်ဖတ်လိုက်မယ်။"
+            },
+            {
+              "text": "扫不出来，能帮我吗？",
+              "meaning_my": "စကန်ဖတ်မရဘူး၊ ကူပေးလို့ရမလား။"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "lesson_title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+          "mistakes": [],
+          "pinyin": "sǎo zhuō shàng de shōu kuǎn mǎ",
+          "phonetic_my": "စောင် ကျွော ရှန်း တ ရှိုး ခွန် မာ"
+        }
+      ]
+    },
+    {
+      "id": "31.2",
+      "title": "31.2 现金与找零",
+      "title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+      "phrases": [
+        {
+          "id": "s31_2_0001",
+          "level": "must",
+          "text": "可以付现金吗？",
+          "meaning_my": "ငွေသားနဲ့ ပေးလို့ရလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，现金也收。",
+              "meaning_my": "ရပါတယ်၊ ငွေသားလည်း လက်ခံတယ်။"
+            },
+            {
+              "text": "可以，尽量给零钱。",
+              "meaning_my": "ရပါတယ်၊ ဖြစ်နိုင်ရင် အကြွေနဲ့ပေးပါ။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "kě yǐ fù xiàn jīn ma",
+          "phonetic_my": "ခ ယီ ဖူ ရှျန် ကျင် မာ"
+        },
+        {
+          "id": "s31_2_0002",
+          "level": "must",
+          "text": "我只有一张一百的。",
+          "meaning_my": "၁၀၀ တန် တစ်ရွက်ပဲ ရှိတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没事，我能找开。",
+              "meaning_my": "ကိစ္စမရှိဘူး၊ အကြွေပြန်အမ်းလို့ရတယ်။"
+            },
+            {
+              "text": "我这找不开，能扫码吗？",
+              "meaning_my": "ဒီမှာ အကြွေမလုံလောက်ဘူး၊ QR နဲ့ ပေးလို့ရမလား။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "wǒ zhǐ yǒu yí zhāng yí bǎi de",
+          "phonetic_my": "ဝေါ ကျီး ယိုး ယီ ကျန်း ယီ ပိုင် တ"
+        },
+        {
+          "id": "s31_2_0003",
+          "level": "must",
+          "text": "有零钱吗？",
+          "meaning_my": "အကြွေရှိလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，我给您换。",
+              "meaning_my": "ရှိတယ်၊ လဲပေးမယ်။"
+            },
+            {
+              "text": "暂时没零钱了。",
+              "meaning_my": "လောလောဆယ် အကြွေမရှိတော့ဘူး။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "yǒu líng qián ma",
+          "phonetic_my": "ယိုး လင်း ချန် မာ"
+        },
+        {
+          "id": "s31_2_0004",
+          "level": "must",
+          "text": "一百能找开吗？",
+          "meaning_my": "၁၀၀ တန်ကို အကြွေပြန်အမ်းလို့ရလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能，我给您找开。",
+              "meaning_my": "ရတယ်၊ အကြွေပြန်အမ်းပေးမယ်။"
+            },
+            {
+              "text": "现在找不开，能扫码吗？",
+              "meaning_my": "အခု အကြွေမလုံလောက်ဘူး၊ QR နဲ့ ပေးလို့ရမလား။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "yí bǎi néng zhǎo kāi ma",
+          "phonetic_my": "ယီ ပိုင် နန်း ကျောင် ခိုင် မာ"
+        },
+        {
+          "id": "s31_2_0005",
+          "level": "must",
+          "text": "应该找我多少？",
+          "meaning_my": "ဘယ်လောက် ပြန်အမ်းရမှာလဲ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "找您三十二。",
+              "meaning_my": "၃၂ ယွမ် ပြန်အမ်းရမယ်။"
+            },
+            {
+              "text": "一共七十，找您三十。",
+              "meaning_my": "စုစုပေါင်း ၇၀ ယွမ်ပါ၊ ၃၀ ယွမ် ပြန်အမ်းရမယ်။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "yīng gāi zhǎo wǒ duō shǎo",
+          "phonetic_my": "ယင်း ကိုင် ကျောင် ဝေါ တွော ရှောင်"
+        },
+        {
+          "id": "s31_2_0006",
+          "level": "must",
+          "text": "好像找错了。",
+          "meaning_my": "အကြွေပြန်အမ်းတာ မှားသလိုပဲ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我再数一遍。",
+              "meaning_my": "နောက်တစ်ခေါက် ပြန်ရေတွက်ကြည့်မယ်။"
+            },
+            {
+              "text": "不好意思，少找您了。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ အကြွေ လျော့အမ်းမိတယ်။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "hǎo xiàng zhǎo cuò le",
+          "phonetic_my": "ဟောင် ရှျန်း ကျောင် ဆွေါ လ"
+        },
+        {
+          "id": "s31_2_0007",
+          "level": "must",
+          "text": "能给我纸币吗？",
+          "meaning_my": "စက္ကူငွေနဲ့ ပြန်အမ်းပေးလို့ရလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有纸币，给您换。",
+              "meaning_my": "စက္ကူငွေရှိတယ်၊ လဲပေးမယ်။"
+            },
+            {
+              "text": "只有硬币，可以吗？",
+              "meaning_my": "အကြွေစေ့ပဲရှိတယ်၊ ရလား။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "néng gěi wǒ zhǐ bì ma",
+          "phonetic_my": "နန်း ကေး ဝေါ ကျီး ပီ မာ"
+        },
+        {
+          "id": "s31_2_0008",
+          "level": "must",
+          "text": "我没有零钱。",
+          "meaning_my": "အကြွေမရှိဘူး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没关系，我找给您。",
+              "meaning_my": "ကိစ္စမရှိဘူး၊ အကြွေပြန်အမ်းပေးမယ်။"
+            },
+            {
+              "text": "那能扫码付吗？",
+              "meaning_my": "ဒါဆို QR နဲ့ ပေးလို့ရမလား။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "wǒ méi yǒu líng qián",
+          "phonetic_my": "ဝေါ မေး ယိုး လင်း ချန်"
+        },
+        {
+          "id": "s31_2_0009",
+          "level": "must",
+          "text": "好像少找十块。",
+          "meaning_my": "၁၀ ယွမ် လျော့အမ်းထားသလိုပဲ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我再核对一下。",
+              "meaning_my": "တစ်ချက် ပြန်စစ်ကြည့်မယ်။"
+            },
+            {
+              "text": "您说得对，补您十块。",
+              "meaning_my": "ဟုတ်ပါတယ်၊ ၁၀ ယွမ် ထပ်အမ်းပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [
+            {
+              "text": "对找零有疑问时先核对金额和现金。",
+              "text_my": "အကြွေပြန်အမ်းငွေ မမှန်ရင် အရင် ငွေပမာဏ ပြန်စစ်ပါ။"
+            }
+          ],
+          "pinyin": "hǎo xiàng shǎo zhǎo shí kuài",
+          "phonetic_my": "ဟောင် ရှျန်း ရှောင် ကျောင် ရှီး ခွိုင်"
+        },
+        {
+          "id": "s31_2_0010",
+          "level": "must",
+          "text": "我数一下零钱。",
+          "meaning_my": "အကြွေကို တစ်ချက် ရေတွက်ကြည့်မယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，您慢慢数。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ဖြည်းဖြည်း ရေတွက်ကြည့်ပါ။"
+            },
+            {
+              "text": "行，有问题告诉我。",
+              "meaning_my": "ရပါတယ်၊ ပြဿနာရှိရင် ပြောပါ။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "wǒ shǔ yí xià líng qián",
+          "phonetic_my": "ဝေါ ရှူ ယီ ရှျာ လင်း ချန်"
+        },
+        {
+          "id": "s31_2_0011",
+          "level": "must",
+          "text": "不用找了。",
+          "meaning_my": "အကြွေ ပြန်အမ်းစရာ မလိုတော့ဘူး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢您。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ကျေးဇူးတင်ပါတယ်။"
+            },
+            {
+              "text": "那我就不找了，谢谢。",
+              "meaning_my": "ဒါဆို မအမ်းတော့ဘူးနော်၊ ကျေးဇူးပါ။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [
+            {
+              "text": "“不用找了”是主动不要找零。",
+              "text_my": "“不用找了” က အကြွေပြန်အမ်းဖို့ မလိုတော့တာပါ။"
+            }
+          ],
+          "pinyin": "bù yòng zhǎo le",
+          "phonetic_my": "ပု ယုန်း ကျောင် လ"
+        },
+        {
+          "id": "s31_2_0012",
+          "level": "listen",
+          "text": "可以付现金。",
+          "meaning_my": "ငွေသားနဲ့ ပေးလို့ရတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我给您一百。",
+              "meaning_my": "ဒါဆို ၁၀၀ ယွမ် ပေးမယ်။"
+            },
+            {
+              "text": "好的，麻烦找零。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အကြွေ ပြန်အမ်းပေးပါဦး။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "kě yǐ fù xiàn jīn",
+          "phonetic_my": "ခ ယီ ဖူ ရှျန် ကျင်"
+        },
+        {
+          "id": "s31_2_0013",
+          "level": "listen",
+          "text": "没有零钱。",
+          "meaning_my": "အကြွေမရှိဘူး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我用手机付。",
+              "meaning_my": "ဒါဆို ဖုန်းနဲ့ပဲ ပေးမယ်။"
+            },
+            {
+              "text": "我找找有没有零钱。",
+              "meaning_my": "အကြွေရှိမရှိ ရှာကြည့်မယ်။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "méi yǒu líng qián",
+          "phonetic_my": "မေး ယိုး လင်း ချန်"
+        },
+        {
+          "id": "s31_2_0014",
+          "level": "listen",
+          "text": "找您三十二。",
+          "meaning_my": "၃၂ ယွမ် ပြန်အမ်းပေးမယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我数一下，谢谢。",
+              "meaning_my": "တစ်ချက် ရေတွက်ကြည့်မယ်၊ ကျေးဇူးပါ။"
+            },
+            {
+              "text": "好，正好三十二。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ၃၂ ယွမ် အတိပဲ။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "zhǎo nín sān shí èr",
+          "phonetic_my": "ကျောင် နင် စန် ရှီး အာ"
+        },
+        {
+          "id": "s31_2_0015",
+          "level": "listen",
+          "text": "您数一下。",
+          "meaning_my": "တစ်ချက် ရေတွက်ကြည့်ပါဦး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我数数。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ရေတွက်ကြည့်မယ်။"
+            },
+            {
+              "text": "嗯，数目对了。",
+              "meaning_my": "အင်း၊ ငွေပမာဏ မှန်တယ်။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "nín shǔ yí xià",
+          "phonetic_my": "နင် ရှူ ယီ ရှျာ"
+        },
+        {
+          "id": "s31_2_0016",
+          "level": "listen",
+          "text": "一百可以找开。",
+          "meaning_my": "၁၀၀ တန် အကြွေပြန်အမ်းလို့ရတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那给您一百。",
+              "meaning_my": "ဒါဆို ၁၀၀ ယွမ် ပေးမယ်။"
+            },
+            {
+              "text": "好，麻烦找零钱。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အကြွေ ပြန်အမ်းပေးပါဦး။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "yí bǎi kě yǐ zhǎo kāi",
+          "phonetic_my": "ယီ ပိုင် ခ ယီ ကျောင် ခိုင်"
+        },
+        {
+          "id": "s31_2_0017",
+          "level": "listen",
+          "text": "麻烦换小一点的。",
+          "meaning_my": "တန်ဖိုးသေးတဲ့ငွေနဲ့ လဲပေးပါဦး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我找找。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ရှာကြည့်မယ်။"
+            },
+            {
+              "text": "没有小面额，能扫码吗？",
+              "meaning_my": "တန်ဖိုးသေးတဲ့ငွေ မရှိဘူး၊ QR နဲ့ ပေးလို့ရလား။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "má fan huàn xiǎo yí diǎn de",
+          "phonetic_my": "မာ ဖန် ဟွမ် ရှောင် ယီ တျန် တ"
+        },
+        {
+          "id": "s31_2_0018",
+          "level": "listen",
+          "text": "这是找您的钱。",
+          "meaning_my": "ဒါ ပြန်အမ်းငွေပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我数一下。",
+              "meaning_my": "ကျေးဇူးပါ၊ တစ်ချက် ရေတွက်ကြည့်မယ်။"
+            },
+            {
+              "text": "好，零钱正好。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အကြွေ အတိပဲ။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "zhè shì zhǎo nín de qián",
+          "phonetic_my": "ကျ ရှီး ကျောင် နင် တ ချန်"
+        },
+        {
+          "id": "s31_2_0019",
+          "level": "listen",
+          "text": "找您二十七块五。",
+          "meaning_my": "၂၇.၅ ယွမ် ပြန်အမ်းပေးမယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢您。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ကျေးဇူးပါ။"
+            },
+            {
+              "text": "我数数，二十七块五。",
+              "meaning_my": "ရေတွက်ကြည့်မယ်၊ ၂၇.၅ ယွမ်ပဲ။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "zhǎo nín èr shí qī kuài wǔ",
+          "phonetic_my": "ကျောင် နင် အာ ရှီး ချီ ခွိုင် ဝူ"
+        },
+        {
+          "id": "s31_2_0020",
+          "level": "listen",
+          "text": "麻烦尽量给零钱。",
+          "meaning_my": "ဖြစ်နိုင်ရင် အကြွေနဲ့ပေးပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，我给您零钱。",
+              "meaning_my": "ရှိတယ်၊ အကြွေနဲ့ ပေးမယ်။"
+            },
+            {
+              "text": "只有整钱，能找开吗？",
+              "meaning_my": "တန်ဖိုးကြီးတဲ့ငွေပဲရှိတယ်၊ အကြွေပြန်အမ်းလို့ရလား။"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "lesson_title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+          "mistakes": [],
+          "pinyin": "má fan jǐn liàng gěi líng qián",
+          "phonetic_my": "မာ ဖန် ကျင် လျန်း ကေး လင်း ချန်"
+        }
+      ]
+    },
+    {
+      "id": "31.3",
+      "title": "31.3 支付异常",
+      "title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+      "phrases": [
+        {
+          "id": "s31_3_0001",
+          "level": "must",
+          "text": "付款失败了。",
+          "meaning_my": "ငွေပေးချေမှု မအောင်မြင်ဘူး။",
+          "alternatives": [
+            {
+              "text": "付款失败了。",
+              "meaning_my": "ငွေပေးချေမှု မအောင်မြင်ဘူး။"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先查记录，别急着再付。",
+              "meaning_my": "အရင် မှတ်တမ်းစစ်ကြည့်ပါ၊ ထပ်မပေးသေးပါနဲ့။"
+            },
+            {
+              "text": "可能是网络问题，稍等。",
+              "meaning_my": "အင်တာနက်ကြောင့် ဖြစ်နိုင်တယ်၊ ခဏစောင့်ပါ။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "fù kuǎn shī bài le",
+          "phonetic_my": "ဖူ ခွန် ရှီး ပိုင် လ"
+        },
+        {
+          "id": "s31_3_0002",
+          "level": "must",
+          "text": "我这边扣钱了。",
+          "meaning_my": "ကျွန်တော့်ဘက်မှာ ငွေဖြတ်သွားပြီ။",
+          "alternatives": [
+            {
+              "text": "我这边已经扣款了。",
+              "meaning_my": "ကျွန်တော့်ဘက်မှာ ငွေဖြတ်ပြီးပြီ။"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别再付，我查一下。",
+              "meaning_my": "ထပ်မပေးသေးပါနဲ့၊ စစ်ပေးမယ်။"
+            },
+            {
+              "text": "把付款记录给我看下。",
+              "meaning_my": "ငွေပေးမှတ်တမ်းကို ပြပေးပါဦး။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [
+            {
+              "text": "已扣款时先查记录，别重复付款。",
+              "text_my": "ငွေဖြတ်ထားရင် မှတ်တမ်းအရင်စစ်ပြီး ထပ်မပေးပါနဲ့။"
+            }
+          ],
+          "pinyin": "wǒ zhè biān kòu qián le",
+          "phonetic_my": "ဝေါ ကျ ပျန် ခို့ ချန် လ"
+        },
+        {
+          "id": "s31_3_0003",
+          "level": "must",
+          "text": "是不是付了两次？",
+          "meaning_my": "နှစ်ခါ ပေးမိတာလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮您查下记录。",
+              "meaning_my": "မှတ်တမ်းကို စစ်ပေးမယ်။"
+            },
+            {
+              "text": "好像扣了两笔，先别付了。",
+              "meaning_my": "နှစ်ကြိမ် ငွေဖြတ်ထားသလိုပဲ၊ ထပ်မပေးပါနဲ့ဦး။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [
+            {
+              "text": "重复扣款时保留两笔记录并联系支付平台。",
+              "text_my": "နှစ်ခါငွေဖြတ်ရင် မှတ်တမ်းနှစ်ခုလုံး သိမ်းပြီး ငွေပေးဝန်ဆောင်မှုနဲ့ ဆက်သွယ်ပါ။"
+            }
+          ],
+          "pinyin": "shì bù shì fù le liǎng cì",
+          "phonetic_my": "ရှီး ပု ရှီး ဖူ လ လျန်း ဆီး"
+        },
+        {
+          "id": "s31_3_0004",
+          "level": "must",
+          "text": "我先查下账单。",
+          "meaning_my": "အရင် ငွေပေးစာရင်းကို စစ်ကြည့်မယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，您先查。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အရင် စစ်ကြည့်ပါ။"
+            },
+            {
+              "text": "需要的话我也查一下。",
+              "meaning_my": "လိုရင် ကျွန်တော်လည်း စစ်ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "wǒ xiān chá xià zhàng dān",
+          "phonetic_my": "ဝေါ ရှျန် ချာ ရှျာ ကျန်း တန်"
+        },
+        {
+          "id": "s31_3_0005",
+          "level": "must",
+          "text": "网络不太好。",
+          "meaning_my": "အင်တာနက် သိပ်မကောင်းဘူး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先别重付，等会儿再查。",
+              "meaning_my": "ငွေထပ်မပေးသေးပါနဲ့၊ ခဏနေမှ ထပ်စစ်ပါ။"
+            },
+            {
+              "text": "可以连上网再看记录。",
+              "meaning_my": "အင်တာနက်ပြန်ချိတ်ပြီး မှတ်တမ်းကို စစ်ကြည့်လို့ရတယ်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "wǎng luò bù tài hǎo",
+          "phonetic_my": "ဝမ်း လွေါ ပု ထိုင် ဟောင်"
+        },
+        {
+          "id": "s31_3_0006",
+          "level": "must",
+          "text": "能查下付款记录吗？",
+          "meaning_my": "ငွေပေးမှတ်တမ်းကို စစ်ပေးလို့ရမလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，您稍等一下。",
+              "meaning_my": "ရပါတယ်၊ ခဏစောင့်ပါဦး။"
+            },
+            {
+              "text": "行，把订单号给我看下。",
+              "meaning_my": "ရတယ်၊ အော်ဒါနံပါတ် ပြပေးပါဦး။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "néng chá xià fù kuǎn jì lù ma",
+          "phonetic_my": "နန်း ချာ ရှျာ ဖူ ခွန် ကျီး လု့ မာ"
+        },
+        {
+          "id": "s31_3_0007",
+          "level": "must",
+          "text": "能换个方式付吗？",
+          "meaning_my": "တခြားနည်းနဲ့ ငွေပေးလို့ရလား။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，现金也行。",
+              "meaning_my": "ရတယ်၊ ငွေသားနဲ့လည်း ပေးလို့ရတယ်။"
+            },
+            {
+              "text": "先确认没扣款，再换吧。",
+              "meaning_my": "ငွေမဖြတ်ထားတာ အတည်ပြုပြီးမှ ပြောင်းပါ။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [
+            {
+              "text": "未确认上次付款状态前，不要换方式再次付钱。",
+              "text_my": "အရင်ငွေပေးမှု မသေချာခင် နောက်နည်းနဲ့ ထပ်မပေးပါနဲ့။"
+            }
+          ],
+          "pinyin": "néng huàn ge fāng shì fù ma",
+          "phonetic_my": "နန်း ဟွမ် က ဖန်း ရှီး ဖူ မာ"
+        },
+        {
+          "id": "s31_3_0008",
+          "level": "must",
+          "text": "订单显示未付款。",
+          "meaning_my": "အော်ဒါမှာ ငွေမပေးရသေးဘူးလို့ ပြတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "您先看看扣款记录。",
+              "meaning_my": "ငွေဖြတ်ထားတဲ့ မှတ်တမ်းကို အရင်ကြည့်ပါ။"
+            },
+            {
+              "text": "别重复付，我再核对下。",
+              "meaning_my": "ထပ်မပေးသေးပါနဲ့၊ ပြန်စစ်ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "dìng dān xiǎn shì wèi fù kuǎn",
+          "phonetic_my": "တင်း တန် ရှန် ရှီး ဝေး ဖူ ခွန်"
+        },
+        {
+          "id": "s31_3_0009",
+          "level": "must",
+          "text": "我再刷新一下。",
+          "meaning_my": "နောက်တစ်ခေါက် ပြန်ဖွင့်ကြည့်မယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，看看状态变了没。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အခြေအနေ ပြောင်းမပြောင်း ကြည့်ပါ။"
+            },
+            {
+              "text": "刷新前先查下扣款。",
+              "meaning_my": "ပြန်ဖွင့်မကြည့်ခင် ငွေဖြတ်ထားမထား စစ်ပါဦး။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "wǒ zài shuā xīn yí xià",
+          "phonetic_my": "ဝေါ ဇိုင် ရှွာ ရှင် ယီ ရှျာ"
+        },
+        {
+          "id": "s31_3_0010",
+          "level": "listen",
+          "text": "系统还没显示付款。",
+          "meaning_my": "စနစ်မှာ ငွေပေးထားတာ မပေါ်သေးဘူး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可我这边已经扣钱了。",
+              "meaning_my": "ဒါပေမယ့် ကျွန်တော့်ဘက်မှာ ငွေဖြတ်သွားပြီ။"
+            },
+            {
+              "text": "那先帮我查下记录。",
+              "meaning_my": "ဒါဆို မှတ်တမ်းကို အရင်စစ်ပေးပါဦး။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "xì tǒng hái méi xiǎn shì fù kuǎn",
+          "phonetic_my": "ရှီး ထုံ ဟိုင်း မေး ရှန် ရှီး ဖူ ခွန်"
+        },
+        {
+          "id": "s31_3_0011",
+          "level": "listen",
+          "text": "先别重复付款。",
+          "meaning_my": "ငွေထပ်မပေးသေးပါနဲ့။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先查下账单。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ငွေပေးစာရင်းကို အရင်စစ်မယ်။"
+            },
+            {
+              "text": "明白，等确认后再说。",
+              "meaning_my": "နားလည်ပါပြီ၊ အတည်ပြုပြီးမှ ဆက်လုပ်မယ်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "xiān bié chóng fù fù kuǎn",
+          "phonetic_my": "ရှျန် ပျဲ ချုန်း ဖူ ဖူ ခွန်"
+        },
+        {
+          "id": "s31_3_0012",
+          "level": "listen",
+          "text": "等会儿再刷新。",
+          "meaning_my": "ခဏနေမှ ပြန်ဖွင့်ကြည့်ပါ။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等一下。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ခဏစောင့်မယ်။"
+            },
+            {
+              "text": "刷新前我先查扣款。",
+              "meaning_my": "ပြန်ဖွင့်မကြည့်ခင် ငွေဖြတ်ထားမထား အရင်စစ်မယ်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "děng huì er zài shuā xīn",
+          "phonetic_my": "တန်း ဟွေ့ အာ ဇိုင် ရှွာ ရှင်"
+        },
+        {
+          "id": "s31_3_0013",
+          "level": "listen",
+          "text": "可以换个方式付。",
+          "meaning_my": "တခြားနည်းနဲ့ ငွေပေးလို့ရတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我用现金吧。",
+              "meaning_my": "ဒါဆို ငွေသားနဲ့ပဲ ပေးမယ်။"
+            },
+            {
+              "text": "先确认刚才没扣款吧。",
+              "meaning_my": "အခုနက ငွေမဖြတ်ထားဘူးဆိုတာ အရင်စစ်ရအောင်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "kě yǐ huàn ge fāng shì fù",
+          "phonetic_my": "ခ ယီ ဟွမ် က ဖန်း ရှီး ဖူ"
+        },
+        {
+          "id": "s31_3_0014",
+          "level": "listen",
+          "text": "系统有点延迟。",
+          "meaning_my": "စနစ် နည်းနည်းနောက်ကျနေတယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我等会儿再查。",
+              "meaning_my": "ဒါဆို ခဏနေမှ ထပ်စစ်မယ်။"
+            },
+            {
+              "text": "我这边扣款了，先别重付。",
+              "meaning_my": "ကျွန်တော့်ဘက်မှာ ငွေဖြတ်ထားပြီးပြီ၊ ထပ်မပေးသေးဘူး။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "xì tǒng yǒu diǎn yán chí",
+          "phonetic_my": "ရှီး ထုံ ယိုး တျန် ယန် ချီ"
+        },
+        {
+          "id": "s31_3_0015",
+          "level": "listen",
+          "text": "先别再付钱。",
+          "meaning_my": "ငွေထပ်မပေးသေးပါနဲ့။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先看下记录。",
+              "meaning_my": "ဟုတ်ကဲ့၊ မှတ်တမ်းကို အရင်ကြည့်မယ်။"
+            },
+            {
+              "text": "那麻烦您帮我核对。",
+              "meaning_my": "ဒါဆို ကူပြီး စစ်ပေးပါဦး။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "xiān bié zài fù qián",
+          "phonetic_my": "ရှျန် ပျဲ ဇိုင် ဖူ ချန်"
+        },
+        {
+          "id": "s31_3_0016",
+          "level": "listen",
+          "text": "我帮您查下订单。",
+          "meaning_my": "အော်ဒါကို စစ်ပေးမယ်။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，麻烦您了。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ကူညီပေးပါဦး။"
+            },
+            {
+              "text": "我这边有付款截图。",
+              "meaning_my": "ကျွန်တော့်ဘက်မှာ ငွေပေးထားတဲ့ စခရင်ရှော့ရှိတယ်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [],
+          "pinyin": "wǒ bāng nín chá xià dìng dān",
+          "phonetic_my": "ဝေါ ပန်း နင် ချာ ရှျာ တင်း တန်"
+        },
+        {
+          "id": "s31_3_0017",
+          "level": "listen",
+          "text": "这单还没支付成功。",
+          "meaning_my": "ဒီအော်ဒါ ငွေပေးချေမှု မအောင်မြင်သေးဘူး။",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可我已经扣款了。",
+              "meaning_my": "ဒါပေမယ့် ကျွန်တော့်ငွေ ဖြတ်သွားပြီ။"
+            },
+            {
+              "text": "那先核对扣款记录吧。",
+              "meaning_my": "ဒါဆို ငွေဖြတ်ထားတဲ့ မှတ်တမ်းကို အရင်စစ်ရအောင်။"
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "lesson_title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+          "mistakes": [
+            {
+              "text": "订单未支付不等于钱没扣，先查扣款记录。",
+              "text_my": "အော်ဒါမှာ မပေးရသေးဘူးလို့ ပြပေမယ့် ငွေဖြတ်ထားနိုင်တယ်၊ မှတ်တမ်းကို စစ်ပါ။"
+            }
+          ],
+          "pinyin": "zhè dān hái méi zhī fù chéng gōng",
+          "phonetic_my": "ကျ တန် ဟိုင်း မေး ကျီး ဖူ ချန်း ကုန်း"
+        }
+      ]
+    }
+  ]
+}
