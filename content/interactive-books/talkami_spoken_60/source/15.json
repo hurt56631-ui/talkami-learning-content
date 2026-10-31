@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 11,
-  "updated_at": "2026-10-31T14:19:28.309Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:39:20.436Z",
   "zone_id": 1,
   "zone_title": "日常交往",
   "theme_id": "15",
@@ -2564,7 +2564,8 @@
     "primary_card_count": 72,
     "source_link_count": 6,
     "source_count_explanation": "78 historical sources = 72 published cards + 6 source_links",
-    "reserved_or_unpublished_id_gap": "s15_1_0009 absent since earliest inspected snapshot; reason not verified; no fabricated replacement"
+    "reserved_or_unpublished_id_gap": "s15_1_0009 absent since earliest inspected snapshot; reason not verified; no fabricated replacement",
+    "phonetics_ui_note": "phonetic_my is an approximation and must not replace Mandarin pinyin or recorded native Mandarin audio."
   },
-  "quality_standard": "V11 high-quality review: 72 published cards in 4 lessons + 6 historical source association/variant records = 78 source entries. Stable IDs preserved; s15_1_0009 is an unpublished gap present since earliest checked repository snapshot, not a missing published card. Six source links retained in source/15.json lessons[].source_links; free/access permission remains in catalog.json. Gender-neutral natural conversational Burmese, context-aware replies and learner-facing confusion notes; phonetic_my is approximate only, Mandarin audio/pinyin authoritative. Removed when_to_use fields. Independent Burmese-native and real-audio final review pending."
+  "quality_standard": "V12 high-quality review: 72 published cards in 4 lessons + 6 historical source association/variant records = 78 source entries. Stable IDs preserved; s15_1_0009 is an unpublished gap present since earliest checked repository snapshot, not a missing published card. Six source links retained in source/15.json lessons[].source_links; free/access permission remains in catalog.json. Gender-neutral natural conversational Burmese, context-aware replies and learner-facing confusion notes; phonetic_my is approximate only, Mandarin audio/pinyin authoritative. Removed when_to_use fields. Independent Burmese-native and real-audio final review pending. | Cross-theme QA: normalized optional mistakes fields; historical source links/stable IDs maintained; auxiliary pronunciation requires real audio review."
 }
