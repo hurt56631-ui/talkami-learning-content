@@ -1,9 +1,9 @@
 {
-  "version": 53,
+  "version": 54,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 2972,
+  "item_count": 3031,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1353,18 +1353,40 @@
           "data_url": "packs/29.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/29.json",
           "lesson_count": 4,
-          "data_version": 2
+          "data_version": 3
         },
         {
           "theme_id": "30",
           "title": "价格优惠",
           "title_my": "ဈေးနှုန်းနှင့် လျှော့ဈေး",
-          "status": "missing",
+          "status": "available",
           "free": false,
-          "phrase_count": 0,
-          "lessons": [],
-          "data_path": null,
-          "needs_pronunciation_review": false
+          "phrase_count": 59,
+          "lessons": [
+            {
+              "id": "30.1",
+              "title": "30.1 询问价格与计价",
+              "title_my": "30.1 ဈေးနှင့် တွက်ချက်ပုံ မေးခြင်း",
+              "count": 17
+            },
+            {
+              "id": "30.2",
+              "title": "30.2 促销、会员与优惠券",
+              "title_my": "30.2 ပရိုမိုးရှင်း၊ အသင်းဝင်နှင့် ကူပွန်",
+              "count": 22
+            },
+            {
+              "id": "30.3",
+              "title": "30.3 议价",
+              "title_my": "30.3 ဈေးဆစ်ခြင်း",
+              "count": 20
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/30.json",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/30.json",
+          "lesson_count": 3,
+          "data_version": 2
         },
         {
           "theme_id": "31",
@@ -2020,9 +2042,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme29-v2-reply-first-20261031",
-  "source_status": "42 published themes, 18 missing; phonetic review pending",
+  "revision": "spoken-theme30-v2-pricing-natural-replies-theme29-fix-20261031",
+  "source_status": "43 published themes, 17 missing; pronunciation review pending",
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:00:00Z",
+  "updated_at": "2026-10-31T02:00:00Z",
   "packs_base_path": "packs/"
 }
