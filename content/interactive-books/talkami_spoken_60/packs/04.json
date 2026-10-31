@@ -1,10 +1,10 @@
 {
   "theme_id": "04",
-  "version": 11,
-  "updated_at": "2026-10-31T13:08:48.934Z",
+  "version": 12,
+  "updated_at": "2026-10-31T14:37:59.429Z",
   "theme_title": "04 提问确认",
   "theme_title_my": "04 မေးမြန်းခြင်းနှင့် အတည်ပြုခြင်း",
-  "quality_standard": "V11: 73 stable Mandarin-Myanmar question and confirmation cards; reviewed natural Burmese meanings, courteous contextual responses, ownership versus responsibility, floor levels, object usage and culturally relevant mistake notes; removed usage fields; native Burmese editorial and audio review pending.",
+  "quality_standard": "V12: 73 stable Mandarin-Myanmar question and confirmation cards; reviewed natural Burmese meanings, courteous contextual responses, ownership versus responsibility, floor levels, object usage and culturally relevant mistake notes; removed usage fields; native Burmese editorial and audio review pending. | Cross-theme QA: normalized optional mistakes and checked Burmese dialogue; phonetic_my is approximate, native/audio review pending.",
   "lessons": [
     {
       "id": "04.1",
@@ -900,7 +900,7 @@
             }
           ],
           "pinyin": "diàn tī zài nǎr",
-          "phonetic_my": "တျန် ထီ ဇိုင် နာ"
+          "phonetic_my": "တျန် ထီ ဇိုင် နာရ်"
         },
         {
           "id": "s04_02_0013",
@@ -1510,7 +1510,7 @@
             },
             {
               "text": "不在，下午回来。",
-              "meaning_my": "မရှိဘူး၊ နေ့လယ်နောက်ပိုင်း ပြန်လာမယ်။"
+              "meaning_my": "မရှိဘူး၊ မွန်းလွဲပိုင်း ပြန်လာမယ်။"
             }
           ],
           "lesson_id": "04.3",
@@ -2105,7 +2105,7 @@
             },
             {
               "text": "不是，今天正常上班。",
-              "meaning_my": "မဟုတ်ဘူး၊ ဒီနေ့ပုံမှန်အလုပ်ဆင်းရတယ်။"
+              "meaning_my": "မဟုတ်ဘူး၊ ဒီနေ့ ပုံမှန် အလုပ်လုပ်ရတယ်။"
             }
           ],
           "lesson_id": "04.4",
@@ -2408,5 +2408,6 @@
         }
       ]
     }
-  ]
+  ],
+  "phrase_count": 73
 }
