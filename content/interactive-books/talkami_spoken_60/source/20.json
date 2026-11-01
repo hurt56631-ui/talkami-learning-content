@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 12,
-  "updated_at": "2026-10-31T16:22:28.423Z",
+  "version": 13,
+  "updated_at": "2026-11-01T03:00:00Z",
   "zone_id": 2,
   "zone_title": "居家生活",
   "theme_id": "20",
@@ -1519,7 +1519,7 @@
       "id": "s20_3_0002",
       "level": "must",
       "text": "热水器没反应。",
-      "meaning_my": "ရေပူစက် တုံ့ပြန်မှုမရှိဘူး။",
+      "meaning_my": "ရေပူစက် ဖွင့်လည်း ဘာမှမတုံ့ပြန်ဘူး။",
       "alternatives": [
         {
           "text": "热水器没有反应。",
@@ -1811,7 +1811,7 @@
       "id": "s20_3_0011",
       "level": "must",
       "text": "插上电也没反应。",
-      "meaning_my": "ပလပ်ထိုးထားလည်း စက်က တုံ့ပြန်မှုမရှိဘူး။",
+      "meaning_my": "ပလပ်ထိုးထားလည်း စက်က ဘာမှမတုံ့ပြန်ဘူး။",
       "alternatives": [
         {
           "text": "接上电也没反应。",
@@ -2138,7 +2138,7 @@
       "phonetic_my": "ခ နင် ရှီး ရှျန် လူ ဝန် ထီ"
     }
   ],
-  "quality_standard": "V12｜主题20《水电空调与家电故障》：正式主卡62张（20.1=21、20.2=21、20.3=20），历史来源63条，额外1条“维修师傅下午来”已在主题48.2的s48_2_0003作为类似说法收录，source/20.json保留跨主题关联。20.3缺s20_3_0016为原有保留空号，不新造卡也不重排稳定ID。主句、回复优先缅语性别中立；区分空调温度/风速/风向、停水/停电范围、恢复预估/保证、故障/确诊，强调漏水触电情况下由专业人员处置。phonetic_my只是近似辅助音，应以标准拼音和真人音频为准。缅甸母语及专业发音独立终审待完成。",
+  "quality_standard": "V13｜2026-11-01复查：62张正式主卡，全部原ID、顺序和双回复保留，修订已确认的缅语用词及课程元数据，移除when_to_use字段；近似注音和母语终审仍待复查。",
   "quality_notes": {
     "origin": "3 user uploaded v2 JSON files, reconciled with existing online pack20 language corrections",
     "preserved": "3 lesson IDs/pack IDs, 62 original card IDs/order, 37 must/25 listen, one deferred link to theme48",
@@ -2154,7 +2154,8 @@
     "source_link_status": "verified in source/48.json and packs/48.json",
     "stable_ids": "62 IDs retained; s20_3_0016 absent intentionally; not renumbered",
     "speaker_gender": "male first-person default removed from main, alternatives and replies",
-    "phonetic_status": "approximate Burmese sound cues only; independent audio review pending"
+    "phonetic_status": "approximate Burmese sound cues only; independent audio review pending",
+    "recheck_20261101": "Reviewed; 2 phrase edits, 0 usage fields removed in published pack; stable IDs preserved"
   },
   "card_count": 62
 }
