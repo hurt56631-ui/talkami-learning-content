@@ -1,9 +1,9 @@
 {
-  "version": 132,
+  "version": 133,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4385,
+  "item_count": 4393,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1841,40 +1841,40 @@
           "title_my": "42 ဝီချတ် နှင့် ဖုန်း",
           "status": "available",
           "free": false,
-          "phrase_count": 57,
+          "phrase_count": 65,
           "lessons": [
             {
               "id": "42.1",
               "title": "42.1 添加微信",
               "title_my": "42.1 ဝီချတ် အကောင့်ထည့်ခြင်း",
-              "count": 12
+              "count": 14
             },
             {
               "id": "42.2",
               "title": "42.2 消息语音",
               "title_my": "42.2 မက်ဆေ့ချ်နှင့် အသံ",
-              "count": 15
+              "count": 17
             },
             {
               "id": "42.3",
               "title": "42.3 电话沟通",
               "title_my": "42.3 ဖုန်းပြောခြင်း",
-              "count": 16
+              "count": 18
             },
             {
               "id": "42.4",
               "title": "42.4 定位照片文件",
               "title_my": "42.4 တည်နေရာ၊ ဓာတ်ပုံနှင့် ဖိုင်",
-              "count": 14
+              "count": 16
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/42.json",
           "source_data": "content/interactive-books/talkami_spoken_60/packs/42.json",
-          "data_version": 4,
-          "data_size": 107954,
-          "data_sha256": "4f87bbcdf7b37280e2da9a994491d602a353363f4190ab3d01bf536cc9f82550",
+          "data_version": 5,
+          "data_size": 132470,
+          "data_sha256": "98645b7dbaeebfca090e187af2d73548410ab2cc30f80d7945933b2ebde7c78a",
           "lesson_count": 4
         },
         {
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-themes30-40-audit-20261101",
-  "source_status": "Themes30-40 QA: 11 themes checked; 31-33 include 12 meaningful bilingual usage cautions and two corrected historical source-link descriptions; 39 Burmese mixed Han character fixed; 40 has four lesson introductions and two clearer front-desk replies; all main/child IDs preserved. Old Chinese TTS for s40_1_0003_reply01 and s40_1_0007_reply01 must be regenerated; retired 38/39 historic IDs remain archived, not republished. Native teacher, audio and Android/web QA pending.",
+  "revision": "spoken-theme42-v5-wechat-practical-20261101",
+  "source_status": "Theme 42 V5 synchronized: 65 cards, stable unique IDs; Burmese native and client/TTS QA pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T06:26:49.199Z",
+  "updated_at": "2026-11-01T06:57:23.011Z",
   "packs_base_path": "packs/"
 }
