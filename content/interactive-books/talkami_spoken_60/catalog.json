@@ -1,5 +1,5 @@
 {
-  "version": 114,
+  "version": 115,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -1623,35 +1623,35 @@
             {
               "id": "37.1",
               "title": "37.1 叫车定位",
-              "title_my": "37.1 ကားခေါ်ခြင်းနှင့် တည်နေရာ",
+              "title_my": "37.1 ကားခေါ်ခြင်းနှင့် လာကြိုမယ့်နေရာ",
               "count": 17
             },
             {
               "id": "37.2",
               "title": "37.2 上车确认",
-              "title_my": "37.2 ကားတက်ချိန် အတည်ပြုခြင်း",
+              "title_my": "37.2 ကားမတက်ခင် အော်ဒါအတည်ပြုခြင်း",
               "count": 18
             },
             {
               "id": "37.3",
               "title": "37.3 路线目的地",
-              "title_my": "37.3 လမ်းကြောင်းနှင့် ခရီးဆုံး",
+              "title_my": "37.3 ကားသွားမယ့်လမ်းနှင့် ပန်းတိုင်",
               "count": 19
             },
             {
               "id": "37.4",
               "title": "37.4 下车付款遗失",
-              "title_my": "37.4 ကားဆင်း၊ ငွေပေး၊ ပျောက်ပစ္စည်း",
+              "title_my": "37.4 ကားဆင်းခြင်း၊ ငွေရှင်းခြင်းနှင့် ပစ္စည်းကျန်ခဲ့ခြင်း",
               "count": 16
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/37.json",
-          "source_data": "content/interactive-books/talkami_spoken_60/packs/37.json",
-          "data_version": 5,
-          "data_size": 169885,
-          "data_sha256": "7d4786ec3bfa89ddb8a08b3245c399e8ed6a2327d46834a0de30e092446879e6",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/37.json",
+          "data_version": 6,
+          "data_size": 141243,
+          "data_sha256": "c93f1b1d12ac0464867534ac74da6a76bec33a8cb8ee1d82c9422e8b57e69d68",
           "lesson_count": 4
         },
         {
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme36-v5-transit-burmese-qa-20261101",
-  "source_status": "Theme 36 V5 pack and source synchronized, with payment, transit and language corrections; native Burmese editorial and audio review pending.",
+  "revision": "spoken-theme37-v6-burmese-ride-hailing-qa-20261101",
+  "source_status": "Theme 37 V6 source and pack synchronized; cross-theme reference 31.1 reverified; native Burmese editorial and audio review still pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:50:00Z",
+  "updated_at": "2026-11-01T03:02:00Z",
   "packs_base_path": "packs/"
 }
