@@ -1,9 +1,9 @@
 {
-  "version": 150,
+  "version": 151,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4613,
+  "item_count": 4623,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2545,47 +2545,48 @@
         {
           "theme_id": "60",
           "title": "仓库物流与工厂生活",
-          "title_my": "ဂိုဒေါင်၊ လိုဂျစ်စတစ်နှင့် စက်ရုံနေထိုင်မှု",
+          "title_my": "60 ဂိုဒေါင်၊ ကုန်စည်ပို့ဆောင်ရေးနှင့် စက်ရုံနေထိုင်မှု",
           "status": "available",
           "free": false,
-          "phrase_count": 93,
+          "phrase_count": 103,
           "lessons": [
             {
               "id": "60.1",
               "title": "60.1 仓库领料盘点",
-              "title_my": "60.1 ဂိုဒေါင်ပစ္စည်းထုတ်ယူနှင့် စာရင်းစစ်",
-              "count": 19
+              "title_my": "60.1 ဂိုဒေါင်မှ ပစ္စည်းထုတ်ယူခြင်းနှင့် စာရင်းစစ်ခြင်း",
+              "count": 21
             },
             {
               "id": "60.2",
               "title": "60.2 包装贴标",
-              "title_my": "60.2 ထုပ်ပိုးနှင့် တံဆိပ်ကပ်ခြင်း",
-              "count": 19
+              "title_my": "60.2 ထုပ်ပိုးခြင်းနှင့် တံဆိပ်ကပ်ခြင်း",
+              "count": 21
             },
             {
               "id": "60.3",
               "title": "60.3 搬运装卸发货",
-              "title_my": "60.3 သယ်ယူ၊ တင်ချနှင့် ပို့ဆောင်ခြင်း",
-              "count": 19
+              "title_my": "60.3 ပစ္စည်းသယ်ယူခြင်း၊ ကားတင်ချခြင်းနှင့် ကုန်ပို့ခြင်း",
+              "count": 21
             },
             {
               "id": "60.4",
               "title": "60.4 员工宿舍",
-              "title_my": "60.4 ဝန်ထမ်းအဆောင်",
-              "count": 18
+              "title_my": "60.4 ဝန်ထမ်းအဆောင်တွင် နေထိုင်ခြင်း",
+              "count": 20
             },
             {
               "id": "60.5",
               "title": "60.5 员工食堂",
-              "title_my": "60.5 ဝန်ထမ်းစားသောက်ခန်း",
-              "count": 18
+              "title_my": "60.5 ဝန်ထမ်းစားသောက်ဆောင်",
+              "count": 20
             }
           ],
           "needs_pronunciation_review": true,
           "lesson_count": 5,
           "data_url": "packs/60.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/60.json",
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 239530
         }
       ],
       "title_my": "လုပ်ငန်းခွင်အလိုက် တရုတ်စကား"
@@ -2593,9 +2594,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme59-v3-qc-safety-burmese-20261101",
-  "source_status": "Theme 59 V3: 88 production/QC/safety cards, 12 new parents, 210 permanent child IDs, 76 original parent IDs preserved; native Burmese, safety expert, TTS and device review pending.",
+  "revision": "spoken-theme60-v3-warehouse-logistics-factory-life-20261101",
+  "source_status": "Theme 60 V3: 103 main warehouse/factory-life cards; 10 new main, 241 permanent child IDs, 93 original main IDs retained. Native Burmese and safety/TTS/client review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T09:12:13.529Z",
+  "updated_at": "2026-11-01T09:15:48.992Z",
   "packs_base_path": "packs/"
 }
