@@ -1,5 +1,5 @@
 {
-  "version": 127,
+  "version": 128,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -698,9 +698,9 @@
           "needs_pronunciation_review": true,
           "data_url": "packs/16.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/16.json",
-          "data_version": 12,
-          "data_size": 128663,
-          "data_sha256": "28ffe551af744b48da03c08ceb8c23e6012a181524726da5c401d99515755d40",
+          "data_version": 13,
+          "data_size": 128868,
+          "data_sha256": "dbde905561ecea7620f4450f0e6336b7bcbe636948dfbfe231331249b3853358",
           "lesson_count": 4
         }
       ],
@@ -795,9 +795,9 @@
           "needs_pronunciation_review": true,
           "data_url": "packs/18.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/18.json",
-          "data_version": 6,
-          "data_size": 161755,
-          "data_sha256": "0f9cafcc605e034ee5ac1823704882bdfc1e0df5dce8d9cf91ec5ff4814ce62a",
+          "data_version": 7,
+          "data_size": 161960,
+          "data_sha256": "b00b76f56742ed391e03acf4be4b55b76f77ea4b603ecd53580e750cba16bede",
           "lesson_count": 5
         },
         {
@@ -1277,9 +1277,9 @@
           "data_url": "packs/27.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/27.json",
           "lesson_count": 4,
-          "data_version": 4,
-          "data_size": 138119,
-          "data_sha256": "f6e2aec62e6c08c6daef8c120d06cd684cc30d6d7557854afd7c79f1c190bbbc"
+          "data_version": 5,
+          "data_size": 138207,
+          "data_sha256": "f9e497af216d94f34789a3965e5bba4c826174d7d3c9c82d7ebdee425c06da7c"
         },
         {
           "theme_id": "28",
@@ -1353,9 +1353,9 @@
           "data_url": "packs/29.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/29.json",
           "lesson_count": 4,
-          "data_version": 5,
-          "data_size": 136681,
-          "data_sha256": "8615a111cfda54b30799d65e9f5fdbbaf282b6d027e9a407927843434a1b4a78"
+          "data_version": 6,
+          "data_size": 136785,
+          "data_sha256": "f4cd3bc755e7f4045622d5d231291a3952b9c4a4ece7d09869c1e0ca007f90bd"
         },
         {
           "theme_id": "30",
@@ -1388,9 +1388,9 @@
           "data_url": "packs/30.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/30.json",
           "lesson_count": 3,
-          "data_version": 4,
-          "data_size": 104489,
-          "data_sha256": "5d5f4c1febb896e220ebf5af185882a7ae2e9fb02c8e8b43fcc8f2a47fcef162"
+          "data_version": 5,
+          "data_size": 104625,
+          "data_sha256": "97c2cc1475db12d6a875c5980f6bd99b505da1100eb55fce9c568bd7090769c0"
         },
         {
           "theme_id": "31",
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme41-v6-mobile-network-myanmar-practical-20261101",
-  "source_status": "Theme 41 V6: source/packs/catalog synchronized at 77 main cards (+20, -1). Old expression IDs preserved; 3 retired. Myanmar native speaker, pronunciation and TTS client verification pending.",
+  "revision": "spoken-themes12-30-audit-20261101",
+  "source_status": "Themes 12-30 re-audited: 19 packs; 5 themes received small natural-language fixes (16,18,27,29,30), stable IDs preserved, synced source and catalog; 3 changed Chinese child audio lines need regeneration. Native Burmese, pronunciation and client TTS review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T05:55:46.193Z",
+  "updated_at": "2026-11-01T06:05:31.700Z",
   "packs_base_path": "packs/"
 }
