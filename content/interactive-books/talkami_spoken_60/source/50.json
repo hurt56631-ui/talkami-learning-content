@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 3,
-  "updated_at": "2026-11-01T08:12:10.806Z",
+  "version": 4,
+  "updated_at": "2026-11-01T10:00:00Z",
   "zone_id": 7,
   "zone_title": "看病办事",
   "theme_id": "50",
@@ -384,7 +384,7 @@
           "text_my": "“白底” က နောက်ခံအဖြူပါ၊ အထောက်အထားဓာတ်ပုံတိုင်း အဖြူမဟုတ်ဘူး။ အရွယ်အစားနဲ့ သတ်မှတ်ချက် စစ်ပါ။"
         }
       ],
-      "pinyin": "zhào piàn yǒu shén me yào qiú",
+      "pinyin": "zhào piàn yǒu shén me yāo qiú",
       "phonetic_my": "ကျောင် ဖျန် ယိုး ရှန် မ ယောင် ချိုး",
       "when_to_use": "办理证件照时，不知道窗口要求什么尺寸和背景颜色，向工作人员咨询。",
       "when_to_use_my": "အထောက်အထားဓာတ်ပုံ ရိုက်မယ်ဆို အရွယ်အစားနဲ့ နောက်ခံအရောင် ဘာလိုလဲ မေးတယ်။"
@@ -1386,7 +1386,7 @@
           "text_my": "“ကြိုချိန်းအချက်အလက်” မှာ ရက်၊ အချိန်၊ လုပ်ငန်းအမျိုးအစား ပါနိုင်တယ်။ ချိန်းပြီးတာနဲ့ ခွင့်ပြုပြီးပြီ မဟုတ်ဘူး။"
         }
       ],
-      "pinyin": "xiān hé duì yù yuē xìn xi",
+      "pinyin": "xiān hé duì yù yuē xìn xī",
       "phonetic_my": "ရှျန် ဟယ် တွေး ယွီ ယွဲ ရှင် ရှီး",
       "when_to_use": "预约成功后，工作人员提醒先核对预约日期、姓名和办理事项。",
       "when_to_use_my": "ကြိုချိန်းပြီးနောက် ရက်စွဲ၊ နာမည်နဲ့ လုပ်ငန်းအမျိုးအစား မှန်မမှန် စစ်ခိုင်းတယ်။"
@@ -2287,8 +2287,8 @@
     {
       "id": "s50_3_0018",
       "level": "listen",
-      "text": "证件这天到期。",
-      "meaning_my": "အထောက်အထားက ဒီနေ့မှာ သက်တမ်းကုန်မယ်။",
+      "text": "这个证件月底到期。",
+      "meaning_my": "ဒီအထောက်အထား လကုန်ရင် သက်တမ်းကုန်မယ်။",
       "alternatives": [],
       "replies": [
         {
@@ -2311,8 +2311,8 @@
           "text_my": "“ဒီနေ့ သက်တမ်းကုန်” လို့ပြောရင် ဗီဇာဝင်ခွင့်ရက်လား၊ နေခွင့်ကာလလား၊ နေထိုင်ခွင့်သက်တမ်းလား သေချာမေးပါ။"
         }
       ],
-      "pinyin": "zhèng jiàn zhè tiān dào qī",
-      "phonetic_my": "ကျန်း ကျျန် ကျ ထျန် တောင် ချီ",
+      "pinyin": "zhè ge zhèng jiàn yuè dǐ dào qī",
+      "phonetic_my": "ကျ က ကျန်း ကျန် ယွဲ တီ တောင် ချီ",
       "when_to_use": "拿着签证或居留证件，工作人员指向上面的某个到期日期提醒你。",
       "when_to_use_my": "ဗီဇာ ဒါမှမဟုတ် နေထိုင်ခွင့်ပေါ်က ရက်စွဲတစ်ခုကို ဝန်ထမ်းက ညွှန်ပြတယ်။"
     },
@@ -4483,7 +4483,7 @@
     "when_to_use_removed": false,
     "needs_pronunciation_review": true,
     "requirements_may_vary": true,
-    "editorial_revision": "V3 full Chinese-Burmese visa/document/work-permit editorial review; 127 main, 34 alt, 254 replies, 415 permanent expression IDs.",
+    "editorial_revision": "V4 verified Chinese and pinyin correction pass; original parent and child IDs unchanged.",
     "context_count": 127,
     "bilingual_contrast_count": 127,
     "legacyParentCount": 110,
@@ -4506,6 +4506,8 @@
     "native_speaker_review_pending": true,
     "immigration_work_permit_specialist_review_pending": true,
     "tts_review_pending": true,
-    "web_android_test_pending": true
+    "web_android_test_pending": true,
+    "needs_native_burmese_review": true,
+    "needs_tts_audio_review": true
   }
 }
