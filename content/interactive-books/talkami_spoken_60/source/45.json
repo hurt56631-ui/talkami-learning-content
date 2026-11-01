@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 5,
-  "updated_at": "2026-11-01T07:19:12.112Z",
+  "version": 6,
+  "updated_at": "2026-11-01T07:34:53.016Z",
   "zone_id": 7,
   "zone_title": "看病办事",
   "theme_id": "45",
@@ -1391,9 +1391,15 @@
     {
       "id": "s45_2_0012",
       "level": "listen",
-      "text": "这张药单写着一天三次。",
-      "meaning_my": "ဒီဆေးစာမှာ တစ်နေ့ သုံးကြိမ်လို့ ရေးထားတယ်။",
-      "alternatives": [],
+      "text": "这药一天吃三次。",
+      "meaning_my": "ဒီဆေးကို တစ်နေ့ သုံးကြိမ် သောက်ရမယ်။",
+      "alternatives": [
+        {
+          "text": "这张药单写着一天三次。",
+          "meaning_my": "ဒီဆေးစာမှာ တစ်နေ့ သုံးကြိမ်လို့ ရေးထားတယ်။",
+          "id": "s45_2_0012_alt01"
+        }
+      ],
       "replies": [
         {
           "text": "一次吃几片？",
@@ -1409,23 +1415,29 @@
       "lesson_id": "45.2",
       "lesson_title": "45.2 用法用量",
       "lesson_title_my": "45.2 ဆေးသောက်နည်းနှင့် ပမာဏ",
-      "pinyin": "zhè zhāng yào dān xiě zhe yì tiān sān cì",
-      "phonetic_my": "ကျ ကျန်း ယောင် တန်း ရှယ် ကျ ယီ ထျန် စန် ဆီး",
+      "pinyin": "zhè yào yì tiān chī sān cì",
+      "phonetic_my": "ကျ ယောင် ယီ ထျန် ချီး စန် ဆီး",
       "mistakes": [
         {
-          "text": "“一天三次”是这张药单上的示例内容，不能套用到其他药；需核对药品、规格、患者身份及实际医嘱。",
-          "text_my": "“တစ်နေ့သုံးကြိမ်” က ဒီဆေးစာပေါ်က ဥပမာပါ။ တခြားဆေးတွေအတွက် မလိုက်သုံးရဘူး။ ဆေးနာမည်၊ အားပမာဏနဲ့ ဆရာဝန်ညွှန်ကြားချက်ကို စစ်ပါ။"
+          "text": "“一天三次”说的是一天服药三回，不是一次吃三片。这是某种药的示例对话，个人用药须核对自己的处方与药盒。",
+          "text_my": "“တစ်နေ့ သုံးကြိမ်” ဆိုတာ တစ်နေ့သောက်ရမယ့် အကြိမ်ရေပါ၊ တစ်ကြိမ် သုံးပြား မဟုတ်ဘူး။ ဒါက ဥပမာစကားပြောပါ။ ကိုယ့်ဆေးစာနဲ့ ဆေးဘူးကို စစ်ပါ။"
         }
       ],
-      "when_to_use": "学习听懂处方上的频率：这张药单示例写着一天服用三次。",
-      "when_to_use_my": "ဒီဥပမာဆေးစာပေါ်မှာ တစ်နေ့သုံးကြိမ်လို့ ရေးထားတာကို နားထောင်လေ့ကျင့်တယ်။ တခြားဆေးအတွက် မဟုတ်ဘူး။"
+      "when_to_use": "药师核对具体药品及这次的处方后，直接告诉患者服药频率。听懂“一天三次”，再确认每次的片数。",
+      "when_to_use_my": "ဆေးဝါးပညာရှင်က ဒီဆေးနဲ့ ဆေးစာကို စစ်ပြီး တစ်နေ့ ဘယ်နှကြိမ်သောက်ရမလဲ ပြောတဲ့အခါ “တစ်နေ့ သုံးကြိမ်” ဆိုတာကို နားလည်ဖို့ လေ့ကျင့်တယ်။"
     },
     {
       "id": "s45_2_0013",
       "level": "listen",
-      "text": "这张药单写着一次两片。",
-      "meaning_my": "ဒီဆေးစာမှာ တစ်ကြိမ် ဆေးပြား နှစ်ပြားလို့ ရေးထားတယ်။",
-      "alternatives": [],
+      "text": "这药一次吃两片。",
+      "meaning_my": "ဒီဆေးကို တစ်ခါ ဆေးပြား နှစ်ပြား သောက်ရမယ်။",
+      "alternatives": [
+        {
+          "text": "这张药单写着一次两片。",
+          "meaning_my": "ဒီဆေးစာမှာ တစ်ကြိမ် ဆေးပြား နှစ်ပြားလို့ ရေးထားတယ်။",
+          "id": "s45_2_0013_alt01"
+        }
+      ],
       "replies": [
         {
           "text": "一天吃几次？",
@@ -1441,16 +1453,16 @@
       "lesson_id": "45.2",
       "lesson_title": "45.2 用法用量",
       "lesson_title_my": "45.2 ဆေးသောက်နည်းနှင့် ပမာဏ",
-      "pinyin": "zhè zhāng yào dān xiě zhe yí cì liǎng piàn",
-      "phonetic_my": "ကျ ကျန်း ယောင် တန်း ရှယ် ကျ ယီ ဆီး လျန်း ဖျန်",
+      "pinyin": "zhè yào yí cì chī liǎng piàn",
+      "phonetic_my": "ကျ ယောင် ယီ ဆီး ချီး လျန်း ဖျန်",
       "mistakes": [
         {
-          "text": "“一次两片”只描述这张示例药单，不是通用剂量；药片规格可能不同，不能只按片数照搬。",
-          "text_my": "“တစ်ကြိမ် နှစ်ပြား” ဆိုတာ ဒီဥပမာဆေးစာအတွက်ပါ။ ဆေးတိုင်းမှာ တစ်ပြားထဲပါတဲ့ အားပမာဏ မတူနိုင်လို့ မလိုက်ကူးပါနဲ့။"
+          "text": "“一次两片”是每次的片数，不是一天的总片数，也不表示每片的毫克含量；不同药品及规格不可照搬。",
+          "text_my": "“တစ်ကြိမ် နှစ်ပြား” က တစ်ခါသောက်မယ့် ဆေးပြားအရေအတွက်ပါ၊ တစ်နေ့စုစုပေါင်း မဟုတ်ဘူး။ ဆေးတစ်ပြားရဲ့ အားပမာဏကိုလည်း စစ်ပါ။"
         }
       ],
-      "when_to_use": "学习听懂这张示例药单中的片数：写着每次两片。",
-      "when_to_use_my": "ဒီဥပမာဆေးစာမှာ တစ်ကြိမ်နှစ်ပြားလို့ ရေးထားတဲ့ ပမာဏကို နားထောင်လေ့ကျင့်တယ်။"
+      "when_to_use": "药师核对你手里的药品规格后，直接说明每次要吃几片。练习听懂“一次两片”，并继续问一天几次。",
+      "when_to_use_my": "ဆေးဝါးပညာရှင်က ဒီဆေးပြားရဲ့ အားပမာဏကို စစ်ပြီး တစ်ကြိမ် ဘယ်နှပြားသောက်ရမလဲ ပြောတဲ့အခါ “တစ်ကြိမ် နှစ်ပြား” ဆိုတာ နားထောင်လေ့ကျင့်တယ်။"
     },
     {
       "id": "s45_2_0014",
@@ -1487,9 +1499,15 @@
     {
       "id": "s45_2_0015",
       "level": "listen",
-      "text": "药单上写着先吃三天。",
-      "meaning_my": "ဆေးစာမှာ အရင် သုံးရက်သောက်ဖို့ ရေးထားတယ်။",
-      "alternatives": [],
+      "text": "先连续吃三天。",
+      "meaning_my": "အရင် သုံးရက်ဆက်သောက်ပါ။",
+      "alternatives": [
+        {
+          "text": "药单上写着先吃三天。",
+          "meaning_my": "ဆေးစာမှာ အရင် သုံးရက်သောက်ဖို့ ရေးထားတယ်။",
+          "id": "s45_2_0015_alt01"
+        }
+      ],
       "replies": [
         {
           "text": "三天后要复诊吗？",
@@ -1505,23 +1523,29 @@
       "lesson_id": "45.2",
       "lesson_title": "45.2 用法用量",
       "lesson_title_my": "45.2 ဆေးသောက်နည်းနှင့် ပမာဏ",
-      "pinyin": "yào dān shàng xiě zhe xiān chī sān tiān",
-      "phonetic_my": "ယောင် တန်း ရှန်း ရှယ် ကျ ရှျန် ချီး စန် ထျန်",
+      "pinyin": "xiān lián xù chī sān tiān",
+      "phonetic_my": "ရှျန် လျန် ရှွီ ချီး စန် ထျန်",
       "mistakes": [
         {
-          "text": "“三天”是药单上的个别示例，不能作为所有药物的通用疗程；停药或延长都需要核对具体医嘱。",
-          "text_my": "“သုံးရက်” က ဒီဆေးစာမှာ ရေးထားတာပါ။ ဆေးတိုင်း သုံးရက်သောက်ရမယ်လို့ မဆိုလိုဘူး။ ဆေးရပ်တာ၊ ရက်တိုးတာကို ဆရာဝန်ညွှန်ကြားချက်နဲ့ စစ်ပါ။"
+          "text": "“连续吃三天”说的是连续服药三天，不是一天三次；这只是特定处方对话，不能用于所有药物，也不代表三天后自行停药。",
+          "text_my": "“သုံးရက်ဆက်သောက်ပါ” ဆိုတာ ဆက်တိုက်သောက်ရမယ့် ရက်အရေအတွက်ပါ၊ တစ်နေ့ သုံးကြိမ် မဟုတ်ဘူး။ ကိုယ့်ဆေးရပ်မရပ်ကို ဆရာဝန်ညွှန်ကြားချက်အတိုင်း ဆုံးဖြတ်ပါ။"
         }
       ],
-      "when_to_use": "学习听懂这张示例药单上的疗程：写着先连续服用三天。",
-      "when_to_use_my": "ဒီဥပမာဆေးစာပေါ်မှာ အရင်သုံးရက် ဆက်သောက်ဖို့ ရေးထားတာကို နားထောင်လေ့ကျင့်တယ်။"
+      "when_to_use": "医生或药师核对这次处方后告诉患者先连续服用三天。练习听懂“连续”表示不中断，以及“复诊”的回应。",
+      "when_to_use_my": "ဆရာဝန် ဒါမှမဟုတ် ဆေးဝါးပညာရှင်က ဒီဆေးစာအတွက် သုံးရက်ဆက်သောက်ဖို့ ပြောတဲ့အခါ “ဆက်တိုက်” နဲ့ “သုံးရက်” ကို နားထောင်လေ့ကျင့်တယ်။"
     },
     {
       "id": "s45_2_0016",
       "level": "listen",
-      "text": "药单上写着间隔六小时。",
-      "meaning_my": "ဆေးစာမှာ ခြောက်နာရီခြားဖို့ ရေးထားတယ်။",
-      "alternatives": [],
+      "text": "两次服药隔六小时。",
+      "meaning_my": "ဆေးသောက်တဲ့ နှစ်ကြိမ်ကြား ခြောက်နာရီ ခြားရမယ်။",
+      "alternatives": [
+        {
+          "text": "药单上写着间隔六小时。",
+          "meaning_my": "ဆေးစာမှာ ခြောက်နာရီခြားဖို့ ရေးထားတယ်။",
+          "id": "s45_2_0016_alt01"
+        }
+      ],
       "replies": [
         {
           "text": "晚上也要吃吗？",
@@ -1537,16 +1561,16 @@
       "lesson_id": "45.2",
       "lesson_title": "45.2 用法用量",
       "lesson_title_my": "45.2 ဆေးသောက်နည်းနှင့် ပမာဏ",
-      "pinyin": "yào dān shàng xiě zhe jiàn gé liù xiǎo shí",
-      "phonetic_my": "ယောင် တန်း ရှန်း ရှယ် ကျ ကျျန် ကယ် လျိုး ရှောင် ရှီး",
+      "pinyin": "liǎng cì fú yào gé liù xiǎo shí",
+      "phonetic_my": "လျန်း ဆီး ဖူ ယောင် ကယ် လျိုး ရှောင် ရှီး",
       "mistakes": [
         {
-          "text": "“隔六小时”只对应这张示例药单，不能用于推断其他药物的间隔或夜间是否需服药。",
-          "text_my": "“ခြောက်နာရီခြား” က ဒီဥပမာဆေးစာပေါ်က အချိန်ပါ။ တခြားဆေးတွေရဲ့ အချိန်ခြားနည်းကို ဒီအတိုင်း မသတ်မှတ်ပါနဲ့။"
+          "text": "“隔六小时”说的是两次服药之间的时间，不是一天吃六次，也不一定意味着夜里要起床服药；以具体医嘱为准。",
+          "text_my": "“ခြောက်နာရီခြား” က ဆေးနှစ်ကြိမ်ကြား အချိန်ပါ၊ တစ်နေ့ ခြောက်ကြိမ် မဟုတ်ဘူး။ ညဘက်လည်း သောက်ဖို့လိုမလိုကို ဆေးစာနဲ့ ဆေးဝါးပညာရှင်ထံ စစ်ပါ။"
         }
       ],
-      "when_to_use": "学习听懂这张示例药单上的两次服药间隔为六小时。",
-      "when_to_use_my": "ဒီဥပမာဆေးစာပေါ်မှာ ခြောက်နာရီခြားလို့ ရေးထားတာကို နားထောင်လေ့ကျင့်တယ်။"
+      "when_to_use": "药师说明这款药两次服药之间需要间隔多久。练习听懂“隔六小时”，并问清夜间是否需要服药。",
+      "when_to_use_my": "ဆေးဝါးပညာရှင်က ဒီဆေးကို နှစ်ကြိမ်သောက်တဲ့ကြား ဘယ်နှနာရီခြားရမလဲ ပြောတဲ့အခါ “ခြောက်နာရီခြား” ဆိုတာ နားထောင်လေ့ကျင့်တယ်။"
     },
     {
       "id": "s45_2_0017",
@@ -3112,21 +3136,39 @@
     "medical_safety": "Dialogue teaching only, no universal dose advice. Pharmacist or doctor must check drug labels, prescriptions, interactions and contraindications. Suspected severe anaphylaxis (sudden lip or throat swelling, breathing difficulty) requires emergency response, 120 in mainland China.",
     "pinyin_method": "manually segmented and checked character by character; tone sandhi applied to 一 and 不 where appropriate",
     "phonetic_my_method": "approximate Burmese sound guide based on patterns in other published theme packs; must not replace accurate Mandarin audio",
-    "burmese_review": "AI bilingual editorial only; independent native-speaking Burmese medical translator/pharmacist signoff pending",
+    "burmese_review": "Pending independent native medical Burmese editorial signoff",
     "canonical": "source/45.json is now synchronized to packs/45.json V5; previous source/45.json V3 was archived/stale versus published pack V4.",
     "editorial_version": "V5 bilingual and medicine-safety editorial; 86 current cards (21/23/20/22), 73 old main IDs retained, 13 main IDs added.",
     "id_completion": "32 alternatives + 172 replies = 204 unique newly assigned child IDs, total 290 unique text expression IDs.",
     "usage_safety": "All 86 cards have distinct context notes in Chinese and Burmese and 1 substantive bilingual mistake/caution. Four numerical dose/course/frequency/interval examples explicitly refer to the specific sample medication order.",
     "audio_rebuild_ids": [
-      "s45_1_0017",
       "s45_2_0012",
       "s45_2_0013",
       "s45_2_0015",
       "s45_2_0016"
     ],
-    "tts_review": "pending; five changed existing main sentence MP3/WAV need regeneration; all 217 newly assigned expression IDs need new audio",
-    "client_review": "pending; real website and Android reading/load tests not performed",
+    "tts_review": "pending",
+    "client_review": "pending",
     "historic_metadata_note": "V4 pack had source_phrase_count=75 but contained 73 cards; V5 fixes the active count to 86.",
-    "no_audio_url": true
+    "no_audio_url": true,
+    "editorial_revision": "V6: 86 main cards preserved, restore four direct spoken dose/frequency/course/interval phrases as primary listening sentences; keep V5 label-reading variants as 4 new alternatives. Total 36 alternatives, 172 replies, 294 permanent unique expression IDs.",
+    "speaking_comprehension": "Primary listening cards must contain the kind of short, direct language heard at a pharmacy, not only formal written-label paraphrases.",
+    "speaking_dose_parent_ids": [
+      "s45_2_0012",
+      "s45_2_0013",
+      "s45_2_0015",
+      "s45_2_0016"
+    ],
+    "new_alternative_ids_v6": [
+      "s45_2_0012_alt01",
+      "s45_2_0013_alt01",
+      "s45_2_0015_alt01",
+      "s45_2_0016_alt01"
+    ],
+    "audio_rebuild_baseline": "V5 -> V6: four existing main IDs changed text and audio must match V6. These four V6 wordings restore the V4 text and may use proven matching V4 recordings only after verification; new alt IDs need new audio.",
+    "parent_ids_still_changed_since_v4": [
+      "s45_1_0017"
+    ],
+    "dosage_warning_scope": "Direct dosage sentences are for listening and roleplay in the context of a particular medicine. They are never generic medical instructions; actual dosage and interval must be verified on the prescription or medication label with a pharmacist/doctor."
   }
 }
