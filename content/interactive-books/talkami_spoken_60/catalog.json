@@ -1,9 +1,9 @@
 {
-  "version": 133,
+  "version": 134,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4393,
+  "item_count": 4403,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1883,40 +1883,40 @@
           "title_my": "43 အကောင့်၊ ကျူအာကုဒ်နှင့် အက်ပ်",
           "status": "available",
           "free": false,
-          "phrase_count": 50,
+          "phrase_count": 60,
           "lessons": [
             {
               "id": "43.1",
               "title": "43.1 注册登录",
               "title_my": "43.1 အကောင့်ဖွင့်ခြင်းနှင့် အကောင့်ဝင်ခြင်း",
-              "count": 13
+              "count": 16
             },
             {
               "id": "43.2",
               "title": "43.2 密码验证码",
               "title_my": "43.2 စကားဝှက်နှင့် အတည်ပြုကုဒ်",
-              "count": 12
+              "count": 14
             },
             {
               "id": "43.3",
               "title": "43.3 扫码操作",
               "title_my": "43.3 ကျူအာကုဒ်စကန်ဖတ်ခြင်း",
-              "count": 11
+              "count": 13
             },
             {
               "id": "43.4",
               "title": "43.4 下载更新权限",
               "title_my": "43.4 အက်ပ်ဒေါင်းလုဒ်၊ အပ်ဒိတ်နှင့် အသုံးပြုခွင့်",
-              "count": 14
+              "count": 17
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/43.json",
-          "source_data": "content/interactive-books/talkami_spoken_60/packs/43.json",
-          "data_version": 4,
-          "data_size": 103436,
-          "data_sha256": "9fdb1e9e3ac05cc37953f4a28d9a13426c203ece3d210fead243cc877824dfc7",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/43.json",
+          "data_version": 5,
+          "data_size": 136935,
+          "data_sha256": "cdae55e9cb03aa88c28ad4268f40d82320b7a314ac900dd29cfda9919fc7181a",
           "lesson_count": 4
         }
       ],
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme42-v5-wechat-practical-20261101",
-  "source_status": "Theme 42 V5 synchronized: 65 cards, stable unique IDs; Burmese native and client/TTS QA pending.",
+  "revision": "spoken-theme43-v5-account-qr-practical-20261101",
+  "source_status": "Theme 43 V5: 60 practical account, QR and app cards, 10 new; stable child IDs complete, source and pack aligned. Burmese native, TTS and client QA still pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T06:57:23.011Z",
+  "updated_at": "2026-11-01T07:04:43.335Z",
   "packs_base_path": "packs/"
 }
