@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 5,
-  "updated_at": "2026-10-31T15:28:23.863Z",
+  "version": 6,
+  "updated_at": "2026-11-01T03:00:00Z",
   "zone_id": 2,
   "zone_title": "居家生活",
   "theme_id": "18",
@@ -1755,7 +1755,7 @@
       "id": "s18_3_0009",
       "level": "must",
       "text": "我来洗菜，你来切。",
-      "meaning_my": "ဟင်းသီးဟင်းရွက်ကို အရင်ဆေးမယ်၊ လှီးပေးနော်။",
+      "meaning_my": "ဟင်းသီးဟင်းရွက်တွေကို ကိုယ်ဆေးမယ်၊ လှီးပေးနော်။",
       "alternatives": [
         {
           "text": "我洗菜，你来切。",
@@ -3083,7 +3083,7 @@
       "id": "s18_5_0010",
       "level": "must",
       "text": "常用的放外面。",
-      "meaning_my": "အသုံးများတဲ့ပစ္စည်းတွေကို အပြင်ဘက် လွယ်လွယ်ယူလို့ရတဲ့နေရာမှာ ထားပါ။",
+      "meaning_my": "အသုံးများတာတွေ အပြင်ဘက်မှာ ထားပါ။",
       "alternatives": [
         {
           "text": "常用的东西放外面。",
@@ -3321,8 +3321,9 @@
     "audio_review": "pending",
     "count_note": "101 source phrases = 93 unique published main cards + 8 documented source links/merged variants",
     "id_policy": "Keep s18_1_0001 etc stable IDs unchanged",
-    "speaker_gender": "No default masculine first-person pronouns in learner-facing translations or dialogue"
+    "speaker_gender": "No default masculine first-person pronouns in learner-facing translations or dialogue",
+    "recheck_20261101": "Reviewed; 2 phrase edits, 0 usage fields removed in published pack; stable IDs preserved"
   },
-  "quality_standard": "V5｜缅甸学习者口语精修：正式主卡93张（18.1:19、18.2:19、18.3:19、18.4:20、18.5:16），历史来源短语101条，另8条已在source/18.json的source_links中记录为自然变体或共享核心，不是缺卡。既有稳定ID如s18_1_0001全部保留，避免旧引用失效；不为凑课量添加重复句。主译、类似说法与回复尽量省略性别化第一人称，易错提醒以缅甸学习者容易混淆的扫/拖、洗/晾、熟/没熟、收/扔及其他具体语义为重点，不保留when_to_use字段。phonetic_my仅是近似发音辅助，不承诺能准确表示汉语声调或全部声韵母；标准拼音和真人音频优先。独立缅甸母语编辑及发音终审仍待完成。",
+  "quality_standard": "V6｜2026-11-01复查：93张正式主卡，全部原ID、顺序和双回复保留，修订已确认的缅语用词及课程元数据，移除when_to_use字段；近似注音和母语终审仍待复查。",
   "card_count": 93
 }
