@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 3,
-  "updated_at": "2026-11-01T08:37:17.938Z",
+  "version": 4,
+  "updated_at": "2026-11-01T10:00:00Z",
   "zone_id": 8,
   "zone_title": "职场工作",
   "theme_id": "53",
@@ -486,7 +486,7 @@
           "text_my": "အလုပ်ညွှန်ကြားချက်ထဲက အရေအတွက်၊ အချိန်၊ အသုတ်နဲ့ အစီအစဉ်ကို သေချာစစ်ပါ။"
         }
       ],
-      "pinyin": "hái yǒu bié de yào qiú ma",
+      "pinyin": "hái yǒu bié de yāo qiú ma",
       "phonetic_my": "ဟိုင်း ယိုး ပျဲ တ ယောင် ချိုး မာ",
       "when_to_use": "工作现场接受指令并确认先后顺序、数量与期限，练习自然地说或听懂“还有别的要求吗？”。",
       "when_to_use_my": "အလုပ်ခွင်မှာ “တခြား လိုအပ်ချက် ရှိသေးလား” ဆိုတာကို အခြေအနေအလိုက် ပြောဆိုနားလည်ပြီး မသေချာရင် ပြန်မေးတယ်။"
@@ -932,7 +932,7 @@
           "text_my": "အလုပ်ညွှန်ကြားချက်ထဲက အရေအတွက်၊ အချိန်၊ အသုတ်နဲ့ အစီအစဉ်ကို သေချာစစ်ပါ။"
         }
       ],
-      "pinyin": "yǒu wèn tí mǎ shàng gào sù wǒ",
+      "pinyin": "yǒu wèn tí mǎ shàng gào su wǒ",
       "phonetic_my": "ယိုး ဝန် ထီ မာ ရှန်း ကောင် စု ဝေါ",
       "when_to_use": "工作现场接受指令并确认先后顺序、数量与期限，练习自然地说或听懂“有问题马上告诉我。”。",
       "when_to_use_my": "အလုပ်ခွင်မှာ “ပြဿနာရှိရင် ချက်ချင်းပြောပါ” ဆိုတာကို အခြေအနေအလိုက် ပြောဆိုနားလည်ပြီး မသေချာရင် ပြန်မေးတယ်။"
@@ -1556,7 +1556,7 @@
           "text_my": "နားမလည်ရင် ပြန်မေးပါ။ စက်၊ လျှပ်စစ်နဲ့ အန္တရာယ်ရှိတဲ့အလုပ်ကို သင်တန်းမပြီးဘဲ မလုပ်ပါနဲ့။"
         }
       ],
-      "pinyin": "xiān zuò dì yí bù",
+      "pinyin": "xiān zuò dì yī bù",
       "phonetic_my": "ရှျန် ဇွော တီ ယီ ပု",
       "when_to_use": "工作现场听不懂操作时请同事演示，确认后再动手，练习自然地说或听懂“先做第一步。”。",
       "when_to_use_my": "အလုပ်ခွင်မှာ “ပထမအဆင့်ကို အရင်လုပ်ပါ” ဆိုတာကို အခြေအနေအလိုက် ပြောဆိုနားလည်ပြီး မသေချာရင် ပြန်မေးတယ်။"
@@ -3109,12 +3109,14 @@
     "short_natural": true,
     "when_to_use_removed": false,
     "needs_pronunciation_review": true,
-    "editorial_revision": "V3: 84 main, 34 alternatives, 168 replies; 286 unique TTS expression IDs. 68 legacy parents and lesson-relative order retained; 16 mains and 202 child IDs added.",
+    "editorial_revision": "V4 verified Chinese and pinyin correction pass; original parent and child IDs unchanged.",
     "all_cards_bilingual_usage": true,
     "all_cards_bilingual_mistakes": true,
     "native_review_pending": true,
     "workplace_safety_review_pending": true,
     "tts_human_review_pending": true,
-    "web_android_tests_pending": true
+    "web_android_tests_pending": true,
+    "needs_native_burmese_review": true,
+    "needs_tts_audio_review": true
   }
 }
