@@ -1,5 +1,5 @@
 {
-  "version": 109,
+  "version": 110,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -1430,7 +1430,7 @@
         {
           "theme_id": "32",
           "title": "退换退款",
-          "title_my": "ပြန်အပ်ခြင်း၊ လဲလှယ်ခြင်းနှင့် ငွေပြန်အမ်းခြင်း",
+          "title_my": "32 ပစ္စည်းပြန်အပ်ခြင်း၊ လဲလှယ်ခြင်းနှင့် ငွေပြန်အမ်းခြင်း",
           "status": "available",
           "free": false,
           "phrase_count": 69,
@@ -1444,19 +1444,19 @@
             {
               "id": "32.2",
               "title": "32.2 申请换货",
-              "title_my": "32.2 ပစ္စည်းလဲရန် တောင်းဆိုခြင်း",
+              "title_my": "32.2 ပစ္စည်းလဲလှယ်ရန် တောင်းဆိုခြင်း",
               "count": 17
             },
             {
               "id": "32.3",
               "title": "32.3 退款到账",
-              "title_my": "32.3 ငွေပြန်အမ်းဝင်ရောက်မှု",
+              "title_my": "32.3 ပြန်အမ်းငွေ ဝင်ရောက်မှု",
               "count": 17
             },
             {
               "id": "32.4",
               "title": "32.4 售后保修",
-              "title_my": "32.4 အပြီးရောင်းဝန်ဆောင်မှုနှင့် အာမခံ",
+              "title_my": "32.4 ဝယ်ပြီးနောက် ဝန်ဆောင်မှုနှင့် အာမခံ",
               "count": 17
             }
           ],
@@ -1464,7 +1464,9 @@
           "data_url": "packs/32.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/32.json",
           "lesson_count": 4,
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 112508,
+          "data_sha256": "29778fe8ce5adc954492d6e3d92c5fb710ed9fd345c9283b81623e0580854ac3"
         },
         {
           "theme_id": "33",
@@ -2575,9 +2577,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme31-v3-payment-dialogue-burmese-20261101",
-  "source_status": "60 themes published; theme 31 V3 pack/source synchronized, payment safety and Burmese dialogues revised; independent native language and audio review pending.",
+  "revision": "spoken-theme32-v3-burmese-refund-quality-20261101",
+  "source_status": "60 themes published; themes 16-32 source+pack synchronized; independent Burmese native language and pronunciation final review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:45:00Z",
+  "updated_at": "2026-11-01T08:00:00Z",
   "packs_base_path": "packs/"
 }
