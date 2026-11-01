@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -1470,8 +1470,8 @@
         },
         {
           "theme_id": "33",
-          "title": "快递收发",
-          "title_my": "အမြန်ပို့စာ ပို့ခြင်းနှင့် လက်ခံခြင်း",
+          "title": "网购与快递",
+          "title_my": "33 အွန်လိုင်းဈေးဝယ်ခြင်းနှင့် ပါဆယ်ပို့ဆောင်ခြင်း",
           "status": "available",
           "free": false,
           "phrase_count": 109,
@@ -1479,13 +1479,13 @@
             {
               "id": "33.1",
               "title": "33.1 网上下单与收货地址",
-              "title_my": "33.1 အွန်လိုင်းအော်ဒါနှင့် လက်ခံလိပ်စာ",
+              "title_my": "33.1 အွန်လိုင်းမှာ အော်ဒါတင်ခြင်းနှင့် လက်ခံလိပ်စာ",
               "count": 20
             },
             {
               "id": "33.2",
               "title": "33.2 联系商家与订单修改",
-              "title_my": "33.2 ဆိုင်နှင့် ဆက်သွယ်ပြီး အော်ဒါပြင်ခြင်း",
+              "title_my": "33.2 ရောင်းသူကို ဆက်သွယ်ပြီး အော်ဒါပြင်ခြင်း",
               "count": 17
             },
             {
@@ -1503,13 +1503,13 @@
             {
               "id": "33.5",
               "title": "33.5 查询物流",
-              "title_my": "33.5 ပို့ဆောင်မှုအခြေအနေ စစ်ခြင်း",
+              "title_my": "33.5 ပါဆယ်ပို့ဆောင်မှုအခြေအနေ စစ်ခြင်း",
               "count": 18
             },
             {
               "id": "33.6",
               "title": "33.6 丢件破损与错件",
-              "title_my": "33.6 ပါဆယ်ပျောက်၊ ပျက်စီး၊ မှားရောက်ခြင်း",
+              "title_my": "33.6 ပါဆယ်ပျောက်ခြင်း၊ ပျက်စီးခြင်းနှင့် မှားရောက်ခြင်း",
               "count": 17
             }
           ],
@@ -1517,7 +1517,9 @@
           "lesson_count": 6,
           "data_url": "packs/33.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/33.json",
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 174276,
+          "data_sha256": "f08c4a1aa21d9837721409c14f32ba8c4191a34e9a72f29503271c1bd1431836"
         }
       ],
       "title_my": "ဈေးဝယ်ခြင်း"
@@ -2577,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme32-v3-burmese-refund-quality-20261101",
-  "source_status": "60 themes published; themes 16-32 source+pack synchronized; independent Burmese native language and pronunciation final review pending.",
+  "revision": "spoken-theme33-v3-ecommerce-parcel-qa-20261101",
+  "source_status": "Theme 33 V3 pack and source synchronized; language and parcel safety edited, native Burmese and audio final review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:00:00Z",
+  "updated_at": "2026-11-01T09:00:00Z",
   "packs_base_path": "packs/"
 }
