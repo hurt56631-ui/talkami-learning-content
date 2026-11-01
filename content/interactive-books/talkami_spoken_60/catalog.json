@@ -1,9 +1,9 @@
 {
-  "version": 139,
+  "version": 140,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4456,
+  "item_count": 4472,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2051,38 +2051,40 @@
           "title_my": "ဘဏ်နှင့် စာတိုက်",
           "status": "available",
           "free": false,
-          "phrase_count": 71,
+          "phrase_count": 87,
           "lessons": [
             {
               "id": "49.1",
               "title": "49.1 银行卡与取现",
               "title_my": "49.1 ဘဏ်ကတ်နှင့် ငွေထုတ်ခြင်း",
-              "count": 19
+              "count": 23
             },
             {
               "id": "49.2",
               "title": "49.2 转账汇款",
               "title_my": "49.2 ငွေလွှဲခြင်း",
-              "count": 16
+              "count": 20
             },
             {
               "id": "49.3",
               "title": "49.3 银行卡异常",
               "title_my": "49.3 ဘဏ်ကတ်ပြဿနာ",
-              "count": 18
+              "count": 22
             },
             {
               "id": "49.4",
               "title": "49.4 邮政国际寄件",
               "title_my": "49.4 နိုင်ငံတကာစာပို့ခြင်း",
-              "count": 18
+              "count": 22
             }
           ],
           "needs_pronunciation_review": true,
           "lesson_count": 4,
           "data_url": "packs/49.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/49.json",
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 186370,
+          "data_sha256": "6e2d12b85f30120bc22598f0520e5ed33ea0087a1a697b7bb6d63ed9546fa7dc"
         },
         {
           "theme_id": "50",
@@ -2581,9 +2583,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme48-v11-community-property-burmese-20261101",
-  "source_status": "Theme 48 V11: 86 bilingual community-property cards (12 new), 225 unique child IDs; 74 original main IDs preserved. Source, pack and catalog synchronized. Independent Burmese/TTS/Android/web review pending.",
+  "revision": "spoken-theme49-v3-bank-post-natural-burmese-20261101",
+  "source_status": "Theme 49 V3: 87 practical bilingual bank/transfer/card-security/international-post cards; 16 new parent cards, 200 permanent child IDs, 71 old parent IDs retained; Myanmar-focused remittance and shipping contexts. Native Burmese, bank/post expert, TTS and client QA pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:52:31.763Z",
+  "updated_at": "2026-11-01T08:02:45.667Z",
   "packs_base_path": "packs/"
 }
