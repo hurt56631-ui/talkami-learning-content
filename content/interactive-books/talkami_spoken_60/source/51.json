@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 3,
-  "updated_at": "2026-11-01T08:23:06.584Z",
+  "version": 4,
+  "updated_at": "2026-11-01T10:00:00Z",
   "zone_id": 8,
   "zone_title": "职场工作",
   "theme_id": "51",
@@ -463,7 +463,7 @@
           "text_my": "ဥပမာထဲက အတွေ့အကြုံ၊ လစာ၊ ဆိုင်းချိန်နဲ့ အလုပ်ခန့်မှုကို လူတိုင်းအတွက် အတူတူလို့ မယူဆပါနဲ့။ ကိုယ့်အခြေအနေအမှန်အတိုင်း ဖြေပါ။"
         }
       ],
-      "pinyin": "zhōng wén yào qiú gāo ma",
+      "pinyin": "zhōng wén yāo qiú gāo ma",
       "phonetic_my": "ကျုန်း ဝင် ယောင် ချိုး ကောင်း မာ",
       "when_to_use": "求职时表达或询问“中文要求高吗？”，根据实际情况理解并回应。",
       "when_to_use_my": "အလုပ်လျှောက်ချိန်၊ အင်တာဗျူးမှာ “တရုတ်စကား ကျွမ်းကျင်ဖို့ လိုလား” ဆိုတဲ့စကားကို အခြေအနေအလိုက် နားလည်ပြီး ပြန်ဖြေဖို့ လေ့ကျင့်တယ်။"
@@ -1025,7 +1025,7 @@
     {
       "id": "s51_1_0025",
       "level": "listen",
-      "text": "招聘信息我发你微信。",
+      "text": "招聘信息我微信发你。",
       "meaning_my": "အလုပ်ခေါ်တဲ့ အချက်အလက်ကို ဝီချတ်ကနေ ပို့ပေးမယ်။",
       "when_to_use": "招聘人员答应通过微信发送岗位信息，练习听懂并主动追问工作地点与工资。",
       "when_to_use_my": "HR က အလုပ်ခေါ်အချက်အလက်ကို ဝီချတ်ကနေ ပို့မယ်လို့ ပြောတဲ့အခါ အလုပ်နေရာနဲ့ လစာကိုပါ တောင်းမေးတယ်။",
@@ -1051,8 +1051,8 @@
       "lesson_id": "51.1",
       "lesson_title": "51.1 找工作职位",
       "lesson_title_my": "51.1 အလုပ်ရှာခြင်းနှင့် ရာထူးများ",
-      "pinyin": "zhāo pìn xìn xī wǒ fā nǐ wēi xìn",
-      "phonetic_my": "ကျောင်း ဖင်း ရှင် ရှီး ဝေါ ဖာ နီ ဝေး ရှင်",
+      "pinyin": "zhāo pìn xìn xī wǒ wēi xìn fā nǐ",
+      "phonetic_my": "ကျောင် ဖင် ရှင် ရှီ ဝေါ ဝေး ရှင် ဖာ နီ",
       "mistakes": [
         {
           "text": "招聘截图只是初步信息；面试前核对企业名称、联系渠道、工作地点和收费要求，勿轻信陌生人的保证。",
@@ -3499,12 +3499,13 @@
     "natural_short_sentences": true,
     "needs_pronunciation_review": true,
     "contextual_examples_not_guaranteed_job_offers": true,
-    "editorial_revision": "V3: 95 practical Myanmar-to-China job search cards; 23 new main, 47 alternatives, 190 replies; 332 unique stable IDs, all original 72 main IDs and order retained.",
+    "editorial_revision": "V4 verified Chinese and pinyin correction pass; original parent and child IDs unchanged.",
     "all_cards_bilingual_usage": true,
     "all_cards_bilingual_mistakes": true,
     "needs_native_burmese_review": true,
     "needs_legal_hr_review": true,
     "needs_tts_device_review": true,
-    "foreign_work_eligibility": "Job interview/offer is not permission to work; verify relevant foreign work authorization and residence status."
+    "foreign_work_eligibility": "Job interview/offer is not permission to work; verify relevant foreign work authorization and residence status.",
+    "needs_tts_audio_review": true
   }
 }
