@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 13,
-  "updated_at": "2026-11-01T06:04:01.362Z",
+  "version": 14,
+  "updated_at": "2026-11-01T06:17:52.671Z",
   "zone_id": 1,
   "zone_title": "日常交往",
   "theme_id": "16",
@@ -556,7 +556,13 @@
       "lesson_title": "16.1 借东西",
       "lesson_title_my": "16.1 ပစ္စည်းခဏငှားခြင်း",
       "pinyin": "nǐ xiān yòng ba",
-      "phonetic_my": "နီ ရှျန် ယုန်း ပါ"
+      "phonetic_my": "နီ ရှျန် ယုန်း ပါ",
+      "mistakes": [
+        {
+          "text": "“你先用吧”是同意对方暂时先用，不是把东西送给对方；借的物品用后仍要还。",
+          "text_my": "“你先用吧” က အရင် ခဏသုံးလို့ရတယ်ဆိုတာပါ။ လက်ဆောင်ပေးလိုက်တာ မဟုတ်လို့ ငှားသုံးပြီးရင် ပြန်ပေးရတယ်။"
+        }
+      ]
     },
     {
       "id": "s16_1_0012",
@@ -1252,7 +1258,13 @@
       "lesson_title": "16.2 归还物品",
       "lesson_title_my": "16.2 ပစ္စည်းပြန်ပေးခြင်း",
       "pinyin": "gěi wǒ ba",
-      "phonetic_my": "ကေး ဝေါ ပါ"
+      "phonetic_my": "ကေး ဝေါ ပါ",
+      "mistakes": [
+        {
+          "text": "“给我吧”是熟人之间简短地请对方递物品，语气可能偏直接；对陌生人可说“麻烦递给我一下”。",
+          "text_my": "“给我吧” က ရင်းနှီးသူဆီ ပစ္စည်းပေးဖို့ တိုတိုပြောတာပါ။ မရင်းနှီးသူနဲ့ဆို “麻烦递给我一下” လို့ ယဉ်ကျေးစွာ ပြောပါ။"
+        }
+      ]
     },
     {
       "id": "s16_2_0014",
@@ -1456,7 +1468,13 @@
       "lesson_title": "16.2 归还物品",
       "lesson_title_my": "16.2 ပစ္စည်းပြန်ပေးခြင်း",
       "pinyin": "hǎo wǒ shōu dào le",
-      "phonetic_my": "ဟောင် ဝေါ ရှိုး တောင် လ"
+      "phonetic_my": "ဟောင် ဝေါ ရှိုး တောင် လ",
+      "mistakes": [
+        {
+          "text": "“收到了”是确认物品或消息已经接收；在这课指借出的东西已经拿回来，不是收到一笔钱。",
+          "text_my": "“收到了” က ပစ္စည်း ဒါမှမဟုတ် စာ ရောက်ပြီး လက်ခံရရှိတာကို အတည်ပြုတာပါ။ ဒီသင်ခန်းစာမှာ ငှားပေးထားတဲ့ပစ္စည်း ပြန်ရတာကို ဆိုလိုတယ်။"
+        }
+      ]
     },
     {
       "id": "s16_3_0001",
@@ -1846,7 +1864,13 @@
       "lesson_title": "16.3 拿递物品",
       "lesson_title_my": "16.3 ပစ္စည်းယူ၊ ကမ်း၊ သယ်ခြင်း",
       "pinyin": "ná zuǒ biān nà ge",
-      "phonetic_my": "နာ ဇွော ပျန် နာ က"
+      "phonetic_my": "နာ ဇွော ပျန် နာ က",
+      "mistakes": [
+        {
+          "text": "“拿左边那个”指拿左边的物品，不是把东西搬到左边；要按现场指向确认左右。",
+          "text_my": "“拿左边那个” က ဘယ်ဘက်မှာရှိတဲ့ပစ္စည်းကို ယူခိုင်းတာပါ။ ပစ္စည်းကို ဘယ်ဘက်ရွှေ့ခိုင်းတာ မဟုတ်ဘူး။ ဘယ်ညာကို သေချာညွှန်ပြပါ။"
+        }
+      ]
     },
     {
       "id": "s16_3_0012",
@@ -2554,7 +2578,13 @@
       "lesson_title": "16.4 放置收纳",
       "lesson_title_my": "16.4 ပစ္စည်းထားသိုခြင်း",
       "pinyin": "fàng shàng miàn nà céng",
-      "phonetic_my": "ဖန်း ရှန်း မျန် နာ ဆင်"
+      "phonetic_my": "ဖန်း ရှန်း မျန် နာ ဆင်",
+      "mistakes": [
+        {
+          "text": "“上面那层”是货架上方的一层，不是把物品直接压在另一件物品上；摆放时注意安全。",
+          "text_my": "“上面那层” က စင်ရဲ့ အပေါ်ထပ်အလွှာကို ဆိုလိုတာပါ။ တခြားပစ္စည်းရဲ့ အပေါ်တည့်တည့် တင်ခိုင်းတာ မဟုတ်ဘူး။"
+        }
+      ]
     },
     {
       "id": "s16_4_0015",
@@ -2785,8 +2815,9 @@
     "pronunciation_caveat": "phonetic_my approximate, pinyin/audio authoritative",
     "when_to_use_removed": true,
     "recheck_20261101": "removed 148 bilingual usage fields, preserved 74 published cards and original source_links",
-    "audit_2026_11_01": "Replaced punctuation-only alternative s16_3_0010_alt01 with natural variant; stable ID preserved, Chinese audio regeneration required."
+    "audit_2026_11_01": "Replaced punctuation-only alternative s16_3_0010_alt01 with natural variant; stable ID preserved, Chinese audio regeneration required.",
+    "audit_mistakes_20261101": "Added 5 meaningful bilingual contrastive usage cautions without changing any spoken expression or existing ID."
   },
-  "quality_standard": "V12｜2026-11-01复查：保留74张正式主卡和全部稳定ID、双回复；按照01主题规则，删除when_to_use/when_to_use_my；精修个别缅语口语、类似表达。历史来源计数与原合并关联未改，缅甸母语和音频终审仍待完成。 | V13复查：将仅标点变化的类似说法改为真正可替换的搬运提醒；保留全部现有ID及主句数量，需重配s16_3_0010_alt01中文音频。",
+  "quality_standard": "V12｜2026-11-01复查：保留74张正式主卡和全部稳定ID、双回复；按照01主题规则，删除when_to_use/when_to_use_my；精修个别缅语口语、类似表达。历史来源计数与原合并关联未改，缅甸母语和音频终审仍待完成。 | V13复查：将仅标点变化的类似说法改为真正可替换的搬运提醒；保留全部现有ID及主句数量，需重配s16_3_0010_alt01中文音频。 | V14扩展审查：针对5张此前空白卡补充确有实用意义的中缅语用对照提醒；不机械补全其余无实质易错点的卡。现有中文、缅语表达、拼音、ID及排序全保留，不影响中文TTS。",
   "card_count": 74
 }
