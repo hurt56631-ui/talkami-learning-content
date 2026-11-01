@@ -1,9 +1,9 @@
 {
-  "version": 128,
+  "version": 129,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4377,
+  "item_count": 4385,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -716,7 +716,7 @@
           "title_my": "17 နေ့စဉ်နေထိုင်မှုပုံစံ",
           "status": "available",
           "free": false,
-          "phrase_count": 64,
+          "phrase_count": 72,
           "lessons": [
             {
               "id": "17.1",
@@ -740,16 +740,16 @@
               "id": "17.4",
               "title": "17.4 日常休息",
               "title_my": "17.4 နေ့စဉ် အနားယူခြင်း",
-              "count": 6
+              "count": 14
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/17.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/17.json",
-          "data_version": 12,
-          "data_size": 114766,
-          "data_sha256": "87279c3dfb161a594d351c15cad79e5b13828a1a9c1231e458d765207946593b",
+          "data_version": 13,
+          "data_size": 130586,
+          "data_sha256": "4cd23e91894683fc537a52b971b769f3c2e3f75a3a620aec2145732df52912ba",
           "lesson_count": 4
         },
         {
@@ -1277,9 +1277,9 @@
           "data_url": "packs/27.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/27.json",
           "lesson_count": 4,
-          "data_version": 5,
-          "data_size": 138207,
-          "data_sha256": "f9e497af216d94f34789a3965e5bba4c826174d7d3c9c82d7ebdee425c06da7c"
+          "data_version": 6,
+          "data_size": 139578,
+          "data_sha256": "091bb9b91d736a5134e506db5508d0e2c4c8af23383d2bf639ff4cef0d0ea578"
         },
         {
           "theme_id": "28",
@@ -1312,9 +1312,9 @@
           "data_url": "packs/28.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/28.json",
           "lesson_count": 3,
-          "data_version": 4,
-          "data_size": 113045,
-          "data_sha256": "694f57f00fd5fec55b4c89e400e7841e80458f77a49bbe69c05ba90cf557cf6b"
+          "data_version": 5,
+          "data_size": 114082,
+          "data_sha256": "92882c05897cacb89fa487a6fe8673da9770ae6056af7862a1f0d16b86f98340"
         },
         {
           "theme_id": "29",
@@ -1353,9 +1353,9 @@
           "data_url": "packs/29.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/29.json",
           "lesson_count": 4,
-          "data_version": 6,
-          "data_size": 136785,
-          "data_sha256": "f4cd3bc755e7f4045622d5d231291a3952b9c4a4ece7d09869c1e0ca007f90bd"
+          "data_version": 7,
+          "data_size": 138149,
+          "data_sha256": "0e340beff86d35fd8b46ebf42198e76439988a4b80ccdf80f64222c2138556fb"
         },
         {
           "theme_id": "30",
@@ -1388,9 +1388,9 @@
           "data_url": "packs/30.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/30.json",
           "lesson_count": 3,
-          "data_version": 5,
-          "data_size": 104625,
-          "data_sha256": "97c2cc1475db12d6a875c5980f6bd99b505da1100eb55fce9c568bd7090769c0"
+          "data_version": 6,
+          "data_size": 105623,
+          "data_sha256": "060e036e10b3890612cadd9eeacd169ffe52d87f9005777edb449704ae558a94"
         },
         {
           "theme_id": "31",
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-themes12-30-audit-20261101",
-  "source_status": "Themes 12-30 re-audited: 19 packs; 5 themes received small natural-language fixes (16,18,27,29,30), stable IDs preserved, synced source and catalog; 3 changed Chinese child audio lines need regeneration. Native Burmese, pronunciation and client TTS review pending.",
+  "revision": "spoken-theme17-v13-and-27to30-openings-20261101",
+  "source_status": "Theme17 V13: 8 practical daily-rest cards added (72 active), all previous IDs retained; Themes27-30: 14 bilingual lesson openings localized with no expression changes. Source/pack/catalog synchronized; 13 deferred work-shift texts remain theme55 pending; native Burmese, pronunciation and TTS checks pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T06:05:31.700Z",
+  "updated_at": "2026-11-01T06:16:07.625Z",
   "packs_base_path": "packs/"
 }
