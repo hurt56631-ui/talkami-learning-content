@@ -1,7 +1,7 @@
 {
   "theme_id": "48",
   "version": 11,
-  "updated_at": "2026-11-01T07:49:51.597Z",
+  "updated_at": "2026-11-01T07:52:31.763Z",
   "theme_title": "48 社区物业",
   "theme_title_my": "48 အိမ်ရာစီမံခန့်ခွဲရေးနှင့် အများသုံးနေရာ",
   "quality_standard": "V11｜社区物业与公共生活86张中缅口语卡（19/24/21/22），74张原有主句保留ID及顺序，新增12张门禁卡补办、楼上漏水、停水停电、维修收费、维修验收、深夜噪音、电动车安全充电、充电桩和垃圾桶清理场景。53条类似说法、172条回复全部有独立永久ID；共311个唯一表达ID。所有卡均有中缅使用情境与易错说明；自然短句优先，缅语避免不必要的男性或过度指向第二人称。母语终审、TTS真人核验和Android/网页实测仍待完成。",
@@ -3127,11 +3127,31 @@
     "native_burmese_review": "Pending independent Burmese native-speaker review.",
     "safety_review": "Elevator faults, water near electricity, fire corridors, and e-bike charging notes are safety cautions; local property rules and competent maintenance staff take precedence.",
     "pronunciation_review": "All 86 pinyin and phonetic_my syllable counts match; human pronunciation review pending.",
-    "audio_review": "One old main text changed: s48_1_0014_reply02; one old child alt text changed: s48_2_0014_alt01. New 12 main and 36 child entries need TTS.",
+    "audio_review": "No original main Chinese text changed. Three existing child Chinese texts were revised: s48_1_0014_reply02, s48_2_0014_alt01, s48_4_0003_reply01. All 225 child expressions have newly assigned IDs and require matching audio; 12 new main cards also require audio. The 36 newly added child texts are included in those 225.",
     "client_review": "Android and web loading/audio caching tests pending.",
     "alt_count": 53,
     "replies_count": 172,
     "expression_id_count": 311,
-    "new_child_id_count": 225
+    "new_child_id_count": 225,
+    "tts_changed_existing_child_ids": [
+      "s48_1_0014_reply02",
+      "s48_2_0014_alt01",
+      "s48_4_0003_reply01"
+    ],
+    "tts_new_main_ids": [
+      "s48_1_0016",
+      "s48_1_0017",
+      "s48_1_0018",
+      "s48_1_0019",
+      "s48_2_0023",
+      "s48_2_0024",
+      "s48_3_0019",
+      "s48_3_0020",
+      "s48_3_0021",
+      "s48_4_0020",
+      "s48_4_0021",
+      "s48_4_0022"
+    ],
+    "tts_all_child_ids_new": true
   }
 }
