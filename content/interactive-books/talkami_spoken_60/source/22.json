@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 5,
-  "updated_at": "2026-10-31T16:41:06.097Z",
+  "version": 6,
+  "updated_at": "2026-11-01T03:00:00Z",
   "zone_id": 3,
   "zone_title": "吃饭餐饮",
   "theme_id": "22",
@@ -622,7 +622,7 @@
       "id": "s22_1_0016",
       "level": "listen",
       "text": "马上给你装。",
-      "meaning_my": "ခဏနေရင် ထုပ်ပိုးပေးမယ်။",
+      "meaning_my": "ချက်ချင်း ထုပ်ပေးမယ်နော်။",
       "alternatives": [],
       "replies": [
         {
@@ -1010,7 +1010,7 @@
       "id": "s22_2_0010",
       "level": "must",
       "text": "可以现做吗？",
-      "meaning_my": "အော်ဒါတင်ပြီးမှ အသစ်ချက်ပေးလို့ရမလား။",
+      "meaning_my": "အခုမှ လုပ်ပေးလို့ရမလား။",
       "alternatives": [
         {
           "text": "能现做吗？",
@@ -2053,8 +2053,9 @@
     "count_note": "69 historical source phrases = 63 published cards + 5 intra-theme alternatives + 1 canonical reuse in theme10.3",
     "stable_ids": "63 original card IDs and order retained",
     "speaker_gender": "avoid fixed masculine Burmese in main, alternates and replies",
-    "phonetic_review": "approximation only, audio review pending"
+    "phonetic_review": "approximation only, audio review pending",
+    "recheck_20261101": "Reviewed published bilingual dialogue; 2 targeted Burmese meaning edits, source and pack aligned"
   },
-  "quality_standard": "V5｜主题22《早餐小吃》正式主卡63张（19+23+21），历史来源69条；source/22.json中另有6条关联来源（5条同主题变体、1条复用主题10.3已存在的“要几个？”）。原stable ID s22_1_0001等全部保留，不迁移ID。缅语主句、替代表达和回复避免固定男性自称；强调早餐量词、菜包馅料与过敏确认、外带与堂食、加料是否收费、少辣与不辣不同。phonetic_my是近似辅助音，不代替普通话标准拼音和真人音频；独立缅甸母语编辑及音频终审待完成。",
+  "quality_standard": "V6｜2026-11-01二次复查：保留63张正式卡及原ID、分级、课序与双回复，修正重点缅语口语表达；历史来源关联维持原数。音译辅助与缅甸母语教师终审仍待核验。",
   "card_count": 63
 }
