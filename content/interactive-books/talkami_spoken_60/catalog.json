@@ -1,9 +1,9 @@
 {
-  "version": 148,
+  "version": 149,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4589,
+  "item_count": 4601,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2465,41 +2465,42 @@
         {
           "theme_id": "58",
           "title": "工厂车间",
-          "title_my": "စက်ရုံနှင့် အလုပ်ရုံ",
+          "title_my": "58 စက်ရုံနှင့် အလုပ်ရုံ",
           "status": "available",
           "free": false,
-          "phrase_count": 71,
+          "phrase_count": 83,
           "lessons": [
             {
               "id": "58.1",
               "title": "58.1 进入车间与岗位",
-              "title_my": "58.1 အလုပ်ရုံဝင်ခြင်းနှင့် အလုပ်နေရာ",
-              "count": 18
+              "title_my": "58.1 အလုပ်ရုံဝင်ခြင်းနှင့် အလုပ်နေရာသတ်မှတ်ခြင်း",
+              "count": 21
             },
             {
               "id": "58.2",
               "title": "58.2 工作指令步骤",
-              "title_my": "58.2 အလုပ်ညွှန်ကြားချက်အဆင့်များ",
-              "count": 17
+              "title_my": "58.2 အလုပ်ညွှန်ကြားချက်နှင့် လုပ်ငန်းအဆင့်များ",
+              "count": 20
             },
             {
               "id": "58.3",
               "title": "58.3 机器基本操作",
-              "title_my": "58.3 စက်အခြေခံလုပ်ဆောင်မှု",
-              "count": 18
+              "title_my": "58.3 စက်အသုံးပြုမှုအခြေခံနှင့် လုံခြုံရေး",
+              "count": 21
             },
             {
               "id": "58.4",
               "title": "58.4 生产数量进度",
-              "title_my": "58.4 ထုတ်လုပ်မှုအရေအတွက်နှင့် တိုးတက်မှု",
-              "count": 18
+              "title_my": "58.4 ထုတ်လုပ်မှုပမာဏနှင့် လုပ်ငန်းတိုးတက်မှု",
+              "count": 21
             }
           ],
           "needs_pronunciation_review": true,
           "lesson_count": 4,
           "data_url": "packs/58.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/58.json",
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 200053
         },
         {
           "theme_id": "59",
@@ -2591,9 +2592,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme57-v3-service-industry-20261101",
-  "source_status": "Theme 57 V3: 129 customer service cards, 11 added mains, 300 permanent child IDs, all 118 original parent IDs preserved. Native Burmese and TTS/client QA pending.",
+  "revision": "spoken-theme58-v3-factory-workshop-burmese-20261101",
+  "source_status": "Theme 58 V3: 83 practical factory cards, 12 new main, 201 stable child audio IDs; 71 old parent IDs preserved. Burmese native and machine safety/TTS/client review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:52:42.727Z",
+  "updated_at": "2026-11-01T09:03:48.969Z",
   "packs_base_path": "packs/"
 }
