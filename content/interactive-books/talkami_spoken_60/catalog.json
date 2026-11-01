@@ -1,5 +1,5 @@
 {
-  "version": 131,
+  "version": 132,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -1423,9 +1423,9 @@
           "lesson_count": 3,
           "data_url": "packs/31.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/31.json",
-          "data_version": 3,
-          "data_size": 84209,
-          "data_sha256": "cc5591c10b6cc4414a2d23d8338b09533c2e9875a38c5d2be439d70674f0c2ef"
+          "data_version": 4,
+          "data_size": 86987,
+          "data_sha256": "98bea0777129cc4a62c8c1eba6c1a3f8653b3f9c796a2215fc70083228a89989"
         },
         {
           "theme_id": "32",
@@ -1464,9 +1464,9 @@
           "data_url": "packs/32.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/32.json",
           "lesson_count": 4,
-          "data_version": 3,
-          "data_size": 119464,
-          "data_sha256": "f21e41c928324aca31e8b6ec670422c069edc9012c567619366c0915e3d88e87"
+          "data_version": 4,
+          "data_size": 121912,
+          "data_sha256": "f4468ee93a152d5f2267a9fe44a341879d556623da236f759167523830ec83cf"
         },
         {
           "theme_id": "33",
@@ -1517,9 +1517,9 @@
           "lesson_count": 6,
           "data_url": "packs/33.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/33.json",
-          "data_version": 3,
-          "data_size": 184512,
-          "data_sha256": "1a57e41c83feac469ce22a9dc3bd721d03feb070d39ace8f2eec77bb3b1f1c84"
+          "data_version": 4,
+          "data_size": 187126,
+          "data_sha256": "1c098bfa746940c88df6f2d7afda01557d91b6cb2857c37fa5236b6a268f57dc"
         }
       ],
       "title_my": "ဈေးဝယ်ခြင်း"
@@ -1739,9 +1739,9 @@
           "needs_pronunciation_review": true,
           "data_url": "packs/39.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/39.json",
-          "data_version": 5,
-          "data_size": 161064,
-          "data_sha256": "0f07f0f32b8b342b4db9235317aea4315147c7a24a25ba737c7d142f3941da5a",
+          "data_version": 6,
+          "data_size": 161311,
+          "data_sha256": "60c14b5ac6c0a2a6c2c7644b854869bd70002a656fc8c650ed465c04a40a66fc",
           "lesson_count": 5
         },
         {
@@ -1781,9 +1781,9 @@
           "needs_pronunciation_review": true,
           "data_url": "packs/40.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/40.json",
-          "data_version": 4,
-          "data_size": 170472,
-          "data_sha256": "e9184edaa03a1d4f53862ac91cd7e54d1a15d3728a4d0e011a992e189ed0cde5",
+          "data_version": 5,
+          "data_size": 174016,
+          "data_sha256": "333d9245346a1526bc65524e8d520b932fb7eb5ba85ad64e590435f323ff33a2",
           "lesson_count": 4
         }
       ],
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-themes13-16-cautions-and-17-27to30-20261101",
-  "source_status": "Theme13: 4 bilingual cautions; Theme16: 5 meaningful bilingual cautions; Theme17: 8 new rest cards; Themes27-30: localized lesson openings. Source/pack/catalog version/hash aligned; only new Theme17 expressions require additional audio; theme55 deferred work-break items remain pending.",
+  "revision": "spoken-themes30-40-audit-20261101",
+  "source_status": "Themes30-40 QA: 11 themes checked; 31-33 include 12 meaningful bilingual usage cautions and two corrected historical source-link descriptions; 39 Burmese mixed Han character fixed; 40 has four lesson introductions and two clearer front-desk replies; all main/child IDs preserved. Old Chinese TTS for s40_1_0003_reply01 and s40_1_0007_reply01 must be regenerated; retired 38/39 historic IDs remain archived, not republished. Native teacher, audio and Android/web QA pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T06:18:13.506Z",
+  "updated_at": "2026-11-01T06:26:49.199Z",
   "packs_base_path": "packs/"
 }
