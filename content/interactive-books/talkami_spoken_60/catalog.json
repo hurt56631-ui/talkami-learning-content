@@ -1,9 +1,9 @@
 {
-  "version": 126,
+  "version": 127,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4358,
+  "item_count": 4377,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1799,40 +1799,40 @@
           "title_my": "41 ဖုန်းနှင့် အင်တာနက်",
           "status": "available",
           "free": false,
-          "phrase_count": 58,
+          "phrase_count": 77,
           "lessons": [
             {
               "id": "41.1",
               "title": "41.1 充电电量",
               "title_my": "41.1 အားသွင်းခြင်းနှင့် ဘက်ထရီ",
-              "count": 16
+              "count": 19
             },
             {
               "id": "41.2",
               "title": "41.2 手机卡流量",
               "title_my": "41.2 ဖုန်းကတ်နှင့် ဒေတာ",
-              "count": 16
+              "count": 22
             },
             {
               "id": "41.3",
               "title": "41.3 连接Wi-Fi",
               "title_my": "41.3 ကြိုးမဲ့အင်တာနက် ချိတ်ဆက်ခြင်း",
-              "count": 14
+              "count": 19
             },
             {
               "id": "41.4",
               "title": "41.4 网络故障",
               "title_my": "41.4 အင်တာနက်ပြဿနာ",
-              "count": 12
+              "count": 17
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/41.json",
-          "source_data": "content/interactive-books/talkami_spoken_60/packs/41.json",
-          "data_version": 5,
-          "data_size": 121667,
-          "data_sha256": "9c5c133767a6f89a05cd9bf4dc36f364ba78909045351bcd56fe7b536097564d",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/41.json",
+          "data_version": 6,
+          "data_size": 175038,
+          "data_sha256": "ac53ffc91e1d420d4c649445623d03cb52d8d47de5cce28b3b335ec1905018c7",
           "lesson_count": 4
         },
         {
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme40-v4-hotel-myanmar-practical-20261101",
-  "source_status": "Theme 40 V4: 75 practical hotel cards (21 new, 2 retired), source/pack/catalog aligned, stable IDs preserved. Native Burmese, TTS and client review pending.",
+  "revision": "spoken-theme41-v6-mobile-network-myanmar-practical-20261101",
+  "source_status": "Theme 41 V6: source/packs/catalog synchronized at 77 main cards (+20, -1). Old expression IDs preserved; 3 retired. Myanmar native speaker, pronunciation and TTS client verification pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T05:48:03.140Z",
+  "updated_at": "2026-11-01T05:55:46.193Z",
   "packs_base_path": "packs/"
 }
