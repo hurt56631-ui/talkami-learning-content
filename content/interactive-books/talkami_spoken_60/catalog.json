@@ -1,9 +1,9 @@
 {
-  "version": 138,
+  "version": 139,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4444,
+  "item_count": 4456,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -926,40 +926,40 @@
           "title_my": "48 အိမ်ရာစီမံခန့်ခွဲရေးနှင့် အများသုံးနေရာ",
           "status": "available",
           "free": false,
-          "phrase_count": 74,
+          "phrase_count": 86,
           "lessons": [
             {
               "id": "48.1",
               "title": "48.1 联系物业与公共设施报修",
               "title_my": "48.1 အိမ်ရာစီမံခန့်ခွဲရေးနှင့် အများသုံးပစ္စည်း ပြုပြင်တိုင်ကြားခြင်း",
-              "count": 15
+              "count": 19
             },
             {
               "id": "48.2",
               "title": "48.2 报修预约与催修",
               "title_my": "48.2 ပြုပြင်မှု ချိန်းဆိုခြင်းနှင့် လိုက်လံမေးမြန်းခြင်း",
-              "count": 22
+              "count": 24
             },
             {
               "id": "48.3",
               "title": "48.3 邻居噪音",
               "title_my": "48.3 အိမ်နီးချင်း ဆူညံသံ",
-              "count": 18
+              "count": 21
             },
             {
               "id": "48.4",
               "title": "48.4 公共区域停车与垃圾",
               "title_my": "48.4 အများသုံးနေရာ ကားရပ်နားခြင်းနှင့် အမှိုက်",
-              "count": 19
+              "count": 22
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/48.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/48.json",
-          "data_version": 10,
-          "data_size": 159861,
-          "data_sha256": "fba41e232e3758bf2819c91f526cbab6ec621c83945052da368df5d9d598b291",
+          "data_version": 11,
+          "data_size": 202887,
+          "data_sha256": "4cf61d918de23ae53003985d62680195360cc0ecd1c9e8f2956811e9b9873684",
           "lesson_count": 4
         }
       ],
@@ -2581,9 +2581,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme47-v11-authentic-housing-burmese-20261101",
-  "source_status": "Theme 47 V11: 89 bilingual high-frequency housing/moving cards (12 new), 222 new stable child IDs; 2026-09-21 nationwide online foreigner lodging registration and 2025 rental deposit rules incorporated. Native-language/legal and TTS/client QA pending.",
+  "revision": "spoken-theme48-v11-community-property-burmese-20261101",
+  "source_status": "Theme 48 V11: 86 practical bilingual community-property cards (12 new), 225 stable child IDs assigned, original 74 main IDs retained; 4 lesson counts and pack/source/catalog synchronized. Burmese native/TTS/client QA pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:41:41.253Z",
+  "updated_at": "2026-11-01T07:49:51.597Z",
   "packs_base_path": "packs/"
 }
