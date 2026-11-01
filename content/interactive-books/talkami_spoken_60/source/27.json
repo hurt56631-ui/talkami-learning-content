@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 3,
-  "updated_at": "2026-11-01T00:17:02.436Z",
+  "version": 4,
+  "updated_at": "2026-11-01T03:00:00Z",
   "zone_id": 4,
   "zone_title": "购物消费",
   "theme_id": "27",
@@ -183,7 +183,7 @@
       "id": "s27_1_0002",
       "level": "must",
       "text": "有矿泉水吗？",
-      "meaning_my": "သတ္တုရေ ရှိလား။",
+      "meaning_my": "သတ္တုဓာတ်ပါတဲ့ သောက်ရေ ရှိလား။",
       "alternatives": [
         {
           "text": "有瓶装水吗？",
@@ -1928,7 +1928,7 @@
       "id": "s27_3_0021",
       "level": "listen",
       "text": "开封后尽快吃完。",
-      "meaning_my": "ဖွင့်ပြီး အမြန်ဆုံးစားပြီးပါ။",
+      "meaning_my": "ဖွင့်ပြီးရင် အမြန်ဆုံး စားသုံးပါ။",
       "alternatives": [],
       "replies": [
         {
@@ -2551,8 +2551,9 @@
     "phonetic_status": "Burmese approximate hints revised; professional native/audio review pending",
     "native_burmese_review": "pending",
     "audio_review": "pending",
-    "bilingual_cautions_per_card": 82
+    "bilingual_cautions_per_card": 82,
+    "recheck_20261101": "Targeted recheck 2 meanings, restored lesson intro in published pack"
   },
   "card_count": 82,
-  "quality_standard": "V3｜主题27《超市便利店》正式主卡82张（21+20+21+20）；历史来源83条，额外1条“我不小心扫了两次”在source/27.json关联同主题s27_4_0004的类似表达，不是缺卡。原有82个stable ID和must/listen等级不改名、不重排；无when_to_use或when_to_use_my。缅语主译、类似说法和回复避免固定男性自称。教学重点区分货架位置/楼层、品牌/包装、500克中国斤、生鲜价格标签/自助结账复核称重、生产日期/到期日期/开封后保存、打八折=付原价80%而非减80%、商品条码/会员码/支付码、重复扫描与付款确认。phonetic_my仅为近似辅助，优先参考带声调的标准拼音与真人音频；独立缅甸母语和录音终审尚待完成。"
+  "quality_standard": "V4｜2026-11-01二次复查：82张原ID正式主卡和双回复保留，进一步修正口语译文、补齐简短的缅语课前导语；未改变历史来源映射。母语编辑和音频终审待完成。"
 }
