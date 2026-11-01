@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 6,
-  "updated_at": "2026-11-01T03:00:00Z",
+  "version": 7,
+  "updated_at": "2026-11-01T06:04:12.887Z",
   "zone_id": 2,
   "zone_title": "居家生活",
   "theme_id": "18",
@@ -1312,8 +1312,8 @@
       "meaning_my": "အဝတ်ခြောက်ပြီ၊ သိမ်းလို့ရပြီ။",
       "alternatives": [
         {
-          "text": "衣服干了，可以收了。",
-          "meaning_my": "အဝတ်ခြောက်ပြီ၊ သိမ်းလို့ရပြီ။",
+          "text": "衣服晾干了，收起来吧。",
+          "meaning_my": "လှန်းထားတဲ့အဝတ်တွေ ခြောက်ပြီ၊ သိမ်းလိုက်ပါ။",
           "id": "s18_2_0012_alt01"
         }
       ],
@@ -3605,8 +3605,9 @@
     "count_note": "101 source phrases = 93 unique published main cards + 8 documented source links/merged variants",
     "id_policy": "Keep s18_1_0001 etc stable IDs unchanged",
     "speaker_gender": "No default masculine first-person pronouns in learner-facing translations or dialogue",
-    "recheck_20261101": "Reviewed; 2 phrase edits, 0 usage fields removed in published pack; stable IDs preserved"
+    "recheck_20261101": "Reviewed; 2 phrase edits, 0 usage fields removed in published pack; stable IDs preserved",
+    "audit_2026_11_01": "Replaced punctuation-only alternative s18_2_0012_alt01; keep ID, refresh Chinese audio."
   },
-  "quality_standard": "V6｜2026-11-01复查：93张正式主卡，全部原ID、顺序和双回复保留，修订已确认的缅语用词及课程元数据，移除when_to_use字段；近似注音和母语终审仍待复查。",
+  "quality_standard": "V6｜2026-11-01复查：93张正式主卡，全部原ID、顺序和双回复保留，修订已确认的缅语用词及课程元数据，移除when_to_use字段；近似注音和母语终审仍待复查。 | V7复查：删除仅靠标点变化的类似说法，改为自然真实的晾衣收衣口语；保留全部ID及数量，需重配s18_2_0012_alt01音频。",
   "card_count": 93
 }
