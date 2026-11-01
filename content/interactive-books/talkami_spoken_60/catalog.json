@@ -1,9 +1,9 @@
 {
-  "version": 134,
+  "version": 135,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4403,
+  "item_count": 4416,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1974,31 +1974,31 @@
           "title_my": "ဆေးဆိုင်နှင့် ဆေးသောက်ခြင်း",
           "status": "available",
           "free": false,
-          "phrase_count": 73,
+          "phrase_count": 86,
           "lessons": [
             {
               "id": "45.1",
               "title": "45.1 药店买药",
               "title_my": "45.1 ဆေးဆိုင်တွင် ဆေးဝယ်ခြင်း",
-              "count": 18
+              "count": 21
             },
             {
               "id": "45.2",
               "title": "45.2 用法用量",
               "title_my": "45.2 ဆေးသောက်နည်းနှင့် ပမာဏ",
-              "count": 20
+              "count": 23
             },
             {
               "id": "45.3",
               "title": "45.3 注意与禁忌",
               "title_my": "45.3 သတိပြုရန်နှင့် တားမြစ်ချက်များ",
-              "count": 17
+              "count": 20
             },
             {
               "id": "45.4",
               "title": "45.4 不良反应与停药",
               "title_my": "45.4 ဆေးဘေးထွက်ဆိုးကျိုးနှင့် ဆေးရပ်ခြင်း",
-              "count": 18
+              "count": 22
             }
           ],
           "data_path": null,
@@ -2006,9 +2006,9 @@
           "lesson_count": 4,
           "data_url": "packs/45.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/45.json",
-          "data_version": 4,
-          "data_size": 90355,
-          "data_sha256": "961e73076c9d7ac756b90ce76dacb0a6f375d69793ec88b428fecd87ec795308"
+          "data_version": 5,
+          "data_size": 190542,
+          "data_sha256": "1a7b68b6da539a335a34209840ae76abe42c259dc145cafbb942834d6c9045e5"
         },
         {
           "theme_id": "46",
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme43-v5-account-qr-practical-20261101",
-  "source_status": "Theme 43 V5: 60 practical account, QR and app cards, 10 new; stable child IDs complete, source and pack aligned. Burmese native, TTS and client QA still pending.",
+  "revision": "spoken-theme45-v5-medicine-safety-burmese-20261101",
+  "source_status": "Theme 45 V5: 86 medically cautious learner-facing cards, 204 newly assigned child IDs, source/pack/catalog synchronized, all old main IDs retained; native Burmese pharmacist and real TTS/Android/web QA pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:04:43.335Z",
+  "updated_at": "2026-11-01T07:19:12.112Z",
   "packs_base_path": "packs/"
 }
