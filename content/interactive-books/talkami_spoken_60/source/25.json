@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 5,
-  "updated_at": "2026-11-01T00:06:43.073Z",
+  "version": 6,
+  "updated_at": "2026-11-01T03:00:00Z",
   "zone_id": 3,
   "zone_title": "吃饭餐饮",
   "theme_id": "25",
@@ -1046,7 +1046,7 @@
       "id": "s25_2_0012",
       "level": "must",
       "text": "这次你付，下次我来。",
-      "meaning_my": "ဒီတစ်ခါ ငွေရှင်းပေးပါဦး၊ နောက်တစ်ခါတော့ ကျွေးမယ်။",
+      "meaning_my": "ဒီတစ်ခါ ငွေရှင်းပေးပါဦး၊ နောက်တစ်ခါတော့ ကိုယ်ရှင်းမယ်။",
       "alternatives": [],
       "replies": [
         {
@@ -1902,8 +1902,9 @@
     "learner_perspective": "Removed repeated pronouns in natural Burmese friendly replies and added explicit RMB units to relevant transfers.",
     "count_note": "63 historical source phrases = 62 published cards + one verified reuse of theme10.4 invoice amount question",
     "speaker_gender": "no default male-only Burmese first person in main, alternates or replies",
-    "phonetic_review": "Burmese sound hints are approximate; native pronunciation/audio final QA pending"
+    "phonetic_review": "Burmese sound hints are approximate; native pronunciation/audio final QA pending",
+    "recheck_20261101": "Reviewed published bilingual dialogue; 1 targeted Burmese meaning edits, source and pack aligned"
   },
-  "quality_standard": "V5｜主题25《餐厅结账》62张正式主卡（21+22+19），历史来源63条；source/25.json保留一条“发票金额对吗？”复用主题10.4已有金额核对卡，不补重复卡。62个stable ID及must/listen分级保持不变，去除when_to_use/when_to_use_my；缅语主译、变体和回复不默认男性自称。重点区分买单/核对明细、优惠与实际应付金额、AA/一人一半、请客/垫付、付款码/收款码、发票/普通账单、开票抬头/税号/订单号，核对支付方向与元金额。phonetic_my仅作近似辅助，以标准拼音和真人音频为准；缅甸母语及专业录音终审仍待完成。",
+  "quality_standard": "V6｜2026-11-01二次复查：保留62张正式卡及原ID、分级、课序与双回复，修正重点缅语口语表达；历史来源关联维持原数。音译辅助与缅甸母语教师终审仍待核验。",
   "card_count": 62
 }
