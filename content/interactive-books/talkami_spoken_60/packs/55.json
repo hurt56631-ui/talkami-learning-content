@@ -10,13 +10,13 @@
     {
       "id": "55.1",
       "title": "55.1 上下班打卡",
-      "title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+      "title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
       "phrases": [
         {
           "id": "s55_1_0001",
           "level": "must",
           "text": "我们几点上班？",
-          "meaning_my": "ကျွန်တော်တို့ ဘယ်နှနာရီ အလုပ်စရလဲ။",
+          "meaning_my": "ဘယ်နှနာရီ အလုပ်စကြမလဲ။",
           "alternatives": [],
           "replies": [
             {
@@ -30,7 +30,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "wǒ men jǐ diǎn shàng bān",
           "phonetic_my": "ဝေါ မန် ကျီ တျန် ရှန်း ပန်"
@@ -58,7 +58,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "zài nǎ lǐ dǎ kǎ",
           "phonetic_my": "ဇိုင် နာ လီ တာ ခါ"
@@ -86,7 +86,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [
             {
               "text": "补打卡是补录实际出勤时间，不是补领工牌。",
@@ -114,7 +114,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "wǒ jīn tiān chí dào le",
           "phonetic_my": "ဝေါ ကျင် ထျန် ချီ တောင် လ"
@@ -137,7 +137,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "xià bān yào dǎ kǎ ma",
           "phonetic_my": "ရှျာ ပန် ယောင် တာ ခါ မာ"
@@ -165,7 +165,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "zěn me bǔ kǎ",
           "phonetic_my": "ဇန် မ ပု ခါ"
@@ -193,7 +193,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "shǒu jī yě néng dǎ kǎ ma",
           "phonetic_my": "ရှိုး ကျီ ယဲ့ နန်း တာ ခါ မာ"
@@ -221,7 +221,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "xì tǒng lǐ méi dǎ kǎ jì lù",
           "phonetic_my": "ရှီး ထုံ လီ မေး တာ ခါ ကျီ လု့"
@@ -229,8 +229,8 @@
         {
           "id": "s55_1_0009",
           "level": "must",
-          "text": "打卡显示超范围。",
-          "meaning_my": "အလုပ်ချိန်မှတ်ရင် သတ်မှတ်နေရာပြင်ပလို့ ပြနေတယ်။",
+          "text": "打卡时提示不在范围内。",
+          "meaning_my": "အလုပ်ချိန်မှတ်တဲ့အခါ သတ်မှတ်ဧရိယာအတွင်း မရှိဘူးလို့ ပြနေတယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -244,10 +244,10 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
-          "pinyin": "dǎ kǎ xiǎn shì chāo fàn wéi",
-          "phonetic_my": "တာ ခါ ရှန် ရှီး ချောင် ဖန် ဝေး"
+          "pinyin": "dǎ kǎ shí tí shì bú zài fàn wéi nèi",
+          "phonetic_my": "တာ ခါ ရှီး ထီ ရှီး ပု ဇိုင် ဖန် ဝေး နေ့"
         },
         {
           "id": "s55_1_0010",
@@ -272,7 +272,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "dǎ kǎ chéng gōng le ma",
           "phonetic_my": "တာ ခါ ချန်း ကုန်း လ မာ"
@@ -295,7 +295,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "bǔ kǎ yào zhǎo shéi",
           "phonetic_my": "ပု ခါ ယောင် ကျောင် ရှေး"
@@ -318,7 +318,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "bā diǎn qián yào dǎ kǎ",
           "phonetic_my": "ပါ တျန် ချန် ယောင် တာ ခါ"
@@ -331,8 +331,8 @@
           "alternatives": [],
           "replies": [
             {
-              "text": "我下班前会打。",
-              "meaning_my": "အလုပ်ဆင်းခါနီး မှတ်ပါမယ်။"
+              "text": "好，我下班时打卡。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အလုပ်ဆင်းချိန်မှာ မှတ်ပါမယ်။"
             },
             {
               "text": "加班后再打吗？",
@@ -341,7 +341,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "xià bān yě yào dǎ kǎ",
           "phonetic_my": "ရှျာ ပန် ယဲ့ ယောင် တာ ခါ"
@@ -364,7 +364,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "zhǎo zhǔ guǎn bǔ dǎ kǎ",
           "phonetic_my": "ကျောင် ကျူ ကွမ် ပု တာ ခါ"
@@ -387,7 +387,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "chí dào huì jì xià lái",
           "phonetic_my": "ချီ တောင် ဟွေ့ ကျီ ရှျာ လိုင်"
@@ -410,7 +410,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "shǒu jī shàng yě néng dǎ kǎ",
           "phonetic_my": "ရှိုး ကျီ ရှန်း ယဲ့ နန်း တာ ခါ"
@@ -433,7 +433,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "bǔ kǎ yào zhǔ guǎn shěn pī",
           "phonetic_my": "ပု ခါ ယောင် ကျူ ကွမ် ရှန် ဖီး"
@@ -456,7 +456,7 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
           "pinyin": "xì tǒng xiǎn shì dǎ kǎ chéng gōng",
           "phonetic_my": "ရှီး ထုံ ရှန် ရှီး တာ ခါ ချန်း ကုန်း"
@@ -464,8 +464,8 @@
         {
           "id": "s55_1_0019",
           "level": "listen",
-          "text": "漏打卡要及时申请。",
-          "meaning_my": "အလုပ်ချိန်မှတ်ဖို့ လွတ်သွားရင် မြန်မြန် ပြန်လျှောက်ပါ။",
+          "text": "漏打卡要及时申请补卡。",
+          "meaning_my": "အလုပ်ချိန်မှတ်ဖို့ လွတ်သွားရင် မှတ်တမ်းပြန်ဖြည့်ဖို့ အမြန်လျှောက်ရမယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -479,17 +479,17 @@
           ],
           "lesson_id": "55.1",
           "lesson_title": "55.1 上下班打卡",
-          "lesson_title_my": "55.1 အလုပ်ဝင်/ဆင်း clock-in",
+          "lesson_title_my": "55.1 အလုပ်တက်ဆင်းချိန် မှတ်တမ်းတင်ခြင်း",
           "mistakes": [],
-          "pinyin": "lòu dǎ kǎ yào jí shí shēn qǐng",
-          "phonetic_my": "လိုး တာ ခါ ယောင် ကျီ ရှီး ရှန် ချင်း"
+          "pinyin": "lòu dǎ kǎ yào jí shí shēn qǐng bǔ kǎ",
+          "phonetic_my": "လိုး တာ ခါ ယောင် ကျီ ရှီး ရှန် ချင်း ပု ခါ"
         }
       ]
     },
     {
       "id": "55.2",
       "title": "55.2 白班夜班排班",
-      "title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+      "title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
       "phrases": [
         {
           "id": "s55_2_0001",
@@ -514,7 +514,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "míng tiān wǒ shàng shén me bān",
           "phonetic_my": "မင်း ထျန် ဝေါ ရှန်း ရှန် မ ပန်"
@@ -542,7 +542,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "jīn tiān shàng yè bān ma",
           "phonetic_my": "ကျင် ထျန် ရှန်း ယဲ့ ပန် မာ"
@@ -570,7 +570,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "pái bān biǎo zài nǎr",
           "phonetic_my": "ဖိုင် ပန် ပြျောင် ဇိုင် နာ"
@@ -593,7 +593,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "zhè ge yuè yǒu jǐ cì yè bān",
           "phonetic_my": "ကျ က ယွဲ ယိုး ကျီ ဆီး ယဲ့ ပန်"
@@ -605,8 +605,8 @@
           "meaning_my": "ဆိုင်း ပြောင်းသွားပြီလား။",
           "alternatives": [
             {
-              "text": "换班了吗？",
-              "meaning_my": "ဆိုင်းပြောင်းပြီလား။"
+              "text": "班次调整了吗？",
+              "meaning_my": "ဆိုင်းချိန် ပြန်ညှိထားပြီလား။"
             }
           ],
           "replies": [
@@ -621,7 +621,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "bān cì biàn le ma",
           "phonetic_my": "ပန် ဆီး ပျန် လ မာ"
@@ -644,7 +644,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "wǒ jīn tiān shàng bái bān",
           "phonetic_my": "ဝေါ ကျင် ထျန် ရှန်း ပိုင် ပန်"
@@ -667,7 +667,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "míng tiān shì yè bān",
           "phonetic_my": "မင်း ထျန် ရှီး ယဲ့ ပန်"
@@ -690,7 +690,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "zhè zhōu wǒ xiū liǎng tiān",
           "phonetic_my": "ကျ ကျိုး ဝေါ ရှိုး လျန်း ထျန်"
@@ -718,7 +718,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "pái bān biǎo gǎi le ma",
           "phonetic_my": "ဖိုင် ပန် ပြျောင် ကိုင် လ မာ"
@@ -746,7 +746,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "yào lián shàng jǐ tiān yè bān",
           "phonetic_my": "ယောင် လျန် ရှန်း ကျီ ထျန် ယဲ့ ပန်"
@@ -769,7 +769,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "míng tiān shàng zǎo bān",
           "phonetic_my": "မင်း ထျန် ရှန်း ဇောက် ပန်"
@@ -792,7 +792,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [
             {
               "text": "晚班和通宵夜班不一定相同，应确认具体开始和结束时间。",
@@ -820,7 +820,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "pái bān fā qún lǐ le",
           "phonetic_my": "ဖိုင် ပန် ဖာ ချွင် လီ လ"
@@ -843,7 +843,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "yè bān wǎn shàng bā diǎn kāi shǐ",
           "phonetic_my": "ယဲ့ ပန် ဝမ် ရှန်း ပါ တျန် ခိုင် ရှီး"
@@ -866,7 +866,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "zhè zhōu bān biǎo yǒu tiáo zhěng",
           "phonetic_my": "ကျ ကျိုး ပန် ပြျောင် ယိုး ထျောင် ကျန်း"
@@ -889,7 +889,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "lín shí huàn bān kàn qún tōng zhī",
           "phonetic_my": "လင် ရှီး ဟွမ် ပန် ခန် ချွင် ထုန်း ကျီး"
@@ -912,7 +912,7 @@
           ],
           "lesson_id": "55.2",
           "lesson_title": "55.2 白班夜班排班",
-          "lesson_title_my": "55.2 နေ့/ညဆိုင်း အချိန်ဇယား",
+          "lesson_title_my": "55.2 နေ့ဆိုင်း၊ ညဆိုင်းနှင့် ဆိုင်းဇယား",
           "mistakes": [],
           "pinyin": "àn zuì xīn bān biǎo shàng bān",
           "phonetic_my": "အန် ဇွေ့ ရှင် ပန် ပြျောင် ရှန်း ပန်"
@@ -922,7 +922,7 @@
     {
       "id": "55.3",
       "title": "55.3 换班加班",
-      "title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+      "title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
       "phrases": [
         {
           "id": "s55_3_0001",
@@ -947,7 +947,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "néng gēn xiǎo lǐ huàn bān ma",
           "phonetic_my": "နန်း ကန်း ရှောင် လီ ဟွမ် ပန် မာ"
@@ -970,7 +970,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "huàn bān yào tí qián shēn qǐng ma",
           "phonetic_my": "ဟွမ် ပန် ယောင် ထီ ချန် ရှန် ချင်း မာ"
@@ -998,7 +998,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "jīn wǎn yào jiā bān ma",
           "phonetic_my": "ကျင် ဝမ် ယောင် ကျား ပန် မာ"
@@ -1026,7 +1026,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "jiā bān dào jǐ diǎn",
           "phonetic_my": "ကျား ပန် တောင် ကျီ တျန်"
@@ -1049,7 +1049,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "zhōu mò yào shàng bān ma",
           "phonetic_my": "ကျိုး မော့ ယောင် ရှန်း ပန် မာ"
@@ -1072,7 +1072,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "wǒ néng jiā liǎng xiǎo shí",
           "phonetic_my": "ဝေါ နန်း ကျား လျန်း ရှောင် ရှီး"
@@ -1095,7 +1095,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "jiā bān hòu yào dǎ kǎ ma",
           "phonetic_my": "ကျား ပန် ဟိုး ယောင် တာ ခါ မာ"
@@ -1118,7 +1118,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "huàn bān shēn qǐng zài nǎr jiāo",
           "phonetic_my": "ဟွမ် ပန် ရှန် ချင်း ဇိုင် နာ ကျောင်"
@@ -1146,7 +1146,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "zhè zhōu mò bù néng jiā bān",
           "phonetic_my": "ကျ ကျိုး မော့ ပု နန်း ကျား ပန်"
@@ -1174,7 +1174,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [
             {
               "text": "加班费和调休是否适用，应根据当地劳动法规、工时制度和实际安排确认。",
@@ -1202,7 +1202,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "jīn tiān jiā bān dào jiǔ diǎn",
           "phonetic_my": "ကျင် ထျန် ကျား ပန် တောင် ကျိုး တျန်"
@@ -1225,7 +1225,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "huàn bān xiān zhǎo zhǔ guǎn",
           "phonetic_my": "ဟွမ် ပန် ရှျန် ကျောင် ကျူ ကွမ်"
@@ -1234,7 +1234,7 @@
           "id": "s55_3_0013",
           "level": "listen",
           "text": "这周末不用上班。",
-          "meaning_my": "ဒီစနေ၊ တနင်္ဂနွေ အလုပ်မဆင်းရဘူး။",
+          "meaning_my": "ဒီစနေ၊ တနင်္ဂနွေ အလုပ်ဆင်းစရာမလိုဘူး။",
           "alternatives": [],
           "replies": [
             {
@@ -1248,7 +1248,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "zhè zhōu mò bú yòng shàng bān",
           "phonetic_my": "ကျ ကျိုး မော့ ပု ယုန်း ရှန်း ပန်"
@@ -1271,7 +1271,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "jīn tiān xū yào nǐ liú xià lái",
           "phonetic_my": "ကျင် ထျန် ရှွီ ယောင် နီ လျိုး ရှျာ လိုင်"
@@ -1294,7 +1294,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "huàn bān yào shuāng fāng tóng yì",
           "phonetic_my": "ဟွမ် ပန် ယောင် ရှွမ်း ဖန်း ထုန်း ယီ"
@@ -1317,7 +1317,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "jīn tiān dà gài jiā liǎng xiǎo shí",
           "phonetic_my": "ကျင် ထျန် တာ ကိုင် ကျား လျန်း ရှောင် ရှီး"
@@ -1340,7 +1340,7 @@
           ],
           "lesson_id": "55.3",
           "lesson_title": "55.3 换班加班",
-          "lesson_title_my": "55.3 shift လဲခြင်းနှင့် အချိန်ပို",
+          "lesson_title_my": "55.3 ဆိုင်းလဲခြင်းနှင့် အချိန်ပိုလုပ်ခြင်း",
           "mistakes": [],
           "pinyin": "bù néng sī xià huàn bān",
           "phonetic_my": "ပု နန်း စီး ရှျာ ဟွမ် ပန်"
@@ -1467,8 +1467,8 @@
         {
           "id": "s55_4_0005",
           "level": "must",
-          "text": "请假谁批准？",
-          "meaning_my": "ခွင့်ယူဖို့ ဘယ်သူ ခွင့်ပြုရမလဲ။",
+          "text": "请假找谁批？",
+          "meaning_my": "ခွင့်ယူဖို့ ဘယ်သူ့ဆီ ခွင့်ပြုချက်တောင်းရမလဲ။",
           "alternatives": [
             {
               "text": "找谁批假？",
@@ -1489,8 +1489,8 @@
           "lesson_title": "55.4 请假迟到",
           "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
           "mistakes": [],
-          "pinyin": "qǐng jià shéi pī zhǔn",
-          "phonetic_my": "ချင်း ကျား ရှေး ဖီး ကျွင်"
+          "pinyin": "qǐng jià zhǎo shéi pī",
+          "phonetic_my": "ချင်း ကျား ကျောင် ရှေး ဖီး"
         },
         {
           "id": "s55_4_0006",
@@ -1717,8 +1717,8 @@
         {
           "id": "s55_4_0015",
           "level": "listen",
-          "text": "请假要先获批准。",
-          "meaning_my": "ခွင့်ယူဖို့ အရင် ခွင့်ပြုချက်ရဖို့လိုတယ်။",
+          "text": "请假得先审批。",
+          "meaning_my": "ခွင့်ယူဖို့ အရင် ခွင့်ပြုချက်ရဖို့ လိုတယ်။",
           "alternatives": [],
           "replies": [
             {
@@ -1734,8 +1734,8 @@
           "lesson_title": "55.4 请假迟到",
           "lesson_title_my": "55.4 ခွင့်ယူခြင်းနှင့် နောက်ကျခြင်း",
           "mistakes": [],
-          "pinyin": "qǐng jià yào xiān huò pī zhǔn",
-          "phonetic_my": "ချင်း ကျား ယောင် ရှျန် ဟွော့ ဖီး ကျွင်"
+          "pinyin": "qǐng jià děi xiān shěn pī",
+          "phonetic_my": "ချင်း ကျား တေ ရှျန် ရှန် ဖီး"
         }
       ]
     }
