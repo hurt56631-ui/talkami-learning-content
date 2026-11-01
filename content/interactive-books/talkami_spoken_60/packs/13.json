@@ -1,10 +1,10 @@
 {
   "theme_id": "13",
-  "version": 12,
-  "updated_at": "2026-10-31T14:39:06.268Z",
+  "version": 13,
+  "updated_at": "2026-11-01T06:17:45.129Z",
   "theme_title": "13 约时间见面",
   "theme_title_my": "13 ချိန်းဆိုပြီး တွေ့ဆုံခြင်း",
-  "quality_standard": "V12: 73 primary learning cards + 7 preserved source reuse/alternative references (80 historical source entries). Precise natural Mandarin-Burmese appointment dialogs, speaker-neutral Burmese, corrected gǎi and B-exit notation, clearer workplace/time vocabulary, two replies per card, contrastive Burmese learner notes; when_to_use fields removed. Source cross-theme associations remain in source/13.json lessons[].source_links, not in the teaching pack. Native-speaker and audio final review pending. | Cross-theme QA: normalized optional mistakes fields; historical source links/stable IDs maintained; auxiliary pronunciation requires real audio review.",
+  "quality_standard": "V12: 73 primary learning cards + 7 preserved source reuse/alternative references (80 historical source entries). Precise natural Mandarin-Burmese appointment dialogs, speaker-neutral Burmese, corrected gǎi and B-exit notation, clearer workplace/time vocabulary, two replies per card, contrastive Burmese learner notes; when_to_use fields removed. Source cross-theme associations remain in source/13.json lessons[].source_links, not in the teaching pack. Native-speaker and audio final review pending. | Cross-theme QA: normalized optional mistakes fields; historical source links/stable IDs maintained; auxiliary pronunciation requires real audio review. | V13扩展审查：针对4张此前空白卡补充确有实用意义的中缅语用对照提醒；不机械补全其余无实质易错点的卡。现有中文、缅语表达、拼音、ID及排序全保留，不影响中文TTS。",
   "source_phrase_count": 80,
   "lessons": [
     {
@@ -938,7 +938,12 @@
           "lesson_title_my": "13.2 တွေ့မည့်နေရာ သတ်မှတ်ခြင်း",
           "pinyin": "nǎ ge mén bǐ jiào hǎo zhǎo",
           "phonetic_my": "နာ က မန် ပီ ကျောင် ဟောင် ကျောင်",
-          "mistakes": []
+          "mistakes": [
+            {
+              "text": "“比较好找”指位置容易认出来，不一定是离你最近的门；约见前应确认具体哪个门。",
+              "text_my": "“比较好找” က နေရာကို ရှာရလွယ်တာပါ၊ အနီးဆုံးတံခါးလို့ မဆိုလိုဘူး။ တွေ့မယ့်တံခါး ဘယ်ဟာလဲ သေချာပြောပါ။"
+            }
+          ]
         },
         {
           "id": "s13_2_0009",
@@ -1616,7 +1621,12 @@
           "lesson_title_my": "13.3 မတွေ့ခင် အတည်ပြုခြင်း",
           "pinyin": "méi biàn",
           "phonetic_my": "မေး ပျန်",
-          "mistakes": []
+          "mistakes": [
+            {
+              "text": "“没变”只回答此前提到的内容；如果只确认时间，不要默认见面地点也没变。",
+              "text_my": "“没变” က အရင်ပြောထားတဲ့အရာ မပြောင်းဘူးဆိုတာပါ။ အချိန်ပဲ အတည်ပြုထားရင် နေရာလည်း မပြောင်းဘူးလို့ မယူဆပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "s13_3_0011",
@@ -1940,7 +1950,12 @@
           "lesson_title_my": "13.4 ရောက်ရှိတွေ့ဆုံခြင်းနှင့် ကြို/ပို့ခြင်း",
           "pinyin": "nǐ zài nǎr",
           "phonetic_my": "နီ ဇိုင် နာရ်",
-          "mistakes": []
+          "mistakes": [
+            {
+              "text": "“在哪儿”问现在的位置，“到哪儿了”更强调在路上的进度；找人时最好说清地铁口或门牌。",
+              "text_my": "“在哪儿” က အခုရှိတဲ့နေရာကို မေးတာပါ။ “到哪儿了” က လမ်းမှာ ဘယ်ရောက်နေပြီလဲ မေးတာ။ တွေ့ဖို့ဆို ထွက်ပေါက် ဒါမှမဟုတ် တံခါးနံပါတ်ကို ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "s13_4_0003",
@@ -2577,7 +2592,12 @@
           "lesson_title_my": "13.4 ရောက်ရှိတွေ့ဆုံခြင်းနှင့် ကြို/ပို့ခြင်း",
           "pinyin": "wǒ mǎ shàng chū lái",
           "phonetic_my": "ဝေါ မာ ရှန်း ချူ လိုင်",
-          "mistakes": []
+          "mistakes": [
+            {
+              "text": "“马上出来”表示现在还在里面、很快会出来，和“已经出来了”不一样。",
+              "text_my": "“马上出来” က အထဲမှာရှိနေပြီး မကြာခင် ထွက်လာမယ်ဆိုတာပါ။ အပြင်ရောက်ပြီးပြီလို့ မဆိုလိုဘူး။"
+            }
+          ]
         }
       ]
     }
