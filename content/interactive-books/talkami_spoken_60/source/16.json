@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 12,
-  "updated_at": "2026-11-01T02:27:00Z",
+  "version": 13,
+  "updated_at": "2026-11-01T06:04:01.362Z",
   "zone_id": 1,
   "zone_title": "日常交往",
   "theme_id": "16",
@@ -1789,8 +1789,8 @@
       "meaning_my": "သတိထားနော်၊ လွတ်မကျစေနဲ့။",
       "alternatives": [
         {
-          "text": "小心，别摔了。",
-          "meaning_my": "သတိထား၊ လွတ်မကျစေနဲ့။",
+          "text": "拿稳点，别摔了。",
+          "meaning_my": "သေချာကိုင်ထားနော်၊ လွတ်မကျစေနဲ့။",
           "id": "s16_3_0010_alt01"
         }
       ],
@@ -2784,8 +2784,9 @@
     "count_note": "78 source phrases consist of 74 published unique cards + 3 documented alternative phrases + 1 cross-theme exact reuse",
     "pronunciation_caveat": "phonetic_my approximate, pinyin/audio authoritative",
     "when_to_use_removed": true,
-    "recheck_20261101": "removed 148 bilingual usage fields, preserved 74 published cards and original source_links"
+    "recheck_20261101": "removed 148 bilingual usage fields, preserved 74 published cards and original source_links",
+    "audit_2026_11_01": "Replaced punctuation-only alternative s16_3_0010_alt01 with natural variant; stable ID preserved, Chinese audio regeneration required."
   },
-  "quality_standard": "V12｜2026-11-01复查：保留74张正式主卡和全部稳定ID、双回复；按照01主题规则，删除when_to_use/when_to_use_my；精修个别缅语口语、类似表达。历史来源计数与原合并关联未改，缅甸母语和音频终审仍待完成。",
+  "quality_standard": "V12｜2026-11-01复查：保留74张正式主卡和全部稳定ID、双回复；按照01主题规则，删除when_to_use/when_to_use_my；精修个别缅语口语、类似表达。历史来源计数与原合并关联未改，缅甸母语和音频终审仍待完成。 | V13复查：将仅标点变化的类似说法改为真正可替换的搬运提醒；保留全部现有ID及主句数量，需重配s16_3_0010_alt01中文音频。",
   "card_count": 74
 }
