@@ -1,5 +1,5 @@
 {
-  "version": 106,
+  "version": 107,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -1353,7 +1353,9 @@
           "data_url": "packs/29.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/29.json",
           "lesson_count": 4,
-          "data_version": 3
+          "data_version": 4,
+          "data_size": 132001,
+          "data_sha256": "2c7a0091d8a43a3ca1b3536f7176745f48a75f442a3aa2e4ff5beac059087d82"
         },
         {
           "theme_id": "30",
@@ -1386,7 +1388,9 @@
           "data_url": "packs/30.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/30.json",
           "lesson_count": 3,
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 96338,
+          "data_sha256": "bdf8ba41ff2fb888e0f80f490ac513b83f018e8ec7d099a8dcdd404db41b67dd"
         },
         {
           "theme_id": "31",
@@ -2569,9 +2573,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme28-v3-editorial-20261101",
+  "revision": "spoken-themes29-30-editorial-20261101",
   "source_status": "Themes01-15 cross-theme QA: card metadata normalized, targeted Burmese and vocabulary corrections, original IDs and permissions retained; 09 has 5 unverifiable historical source entries explicitly marked in source/09.json; independent native speaker/audio review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T00:39:40.409Z",
+  "updated_at": "2026-11-01T01:03:33.911Z",
   "packs_base_path": "packs/"
 }
