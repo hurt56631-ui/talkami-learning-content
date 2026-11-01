@@ -1,9 +1,9 @@
 {
-  "version": 135,
+  "version": 136,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4416,
+  "item_count": 4432,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2016,32 +2016,34 @@
           "title_my": "အရေးပေါ်အကူအညီ",
           "status": "available",
           "free": false,
-          "phrase_count": 56,
+          "phrase_count": 72,
           "lessons": [
             {
               "id": "46.1",
               "title": "46.1 报警求助",
               "title_my": "46.1 ရဲအကူအညီတောင်းခြင်း",
-              "count": 19
+              "count": 24
             },
             {
               "id": "46.2",
               "title": "46.2 医疗急救",
               "title_my": "46.2 ဆေးဘက်အရေးပေါ်အကူအညီ",
-              "count": 18
+              "count": 24
             },
             {
               "id": "46.3",
               "title": "46.3 火灾疏散",
               "title_my": "46.3 မီးဘေးနှင့် ထွက်ခွာခြင်း",
-              "count": 19
+              "count": 24
             }
           ],
           "needs_pronunciation_review": true,
           "lesson_count": 3,
-          "data_version": 2,
+          "data_version": 3,
           "data_url": "packs/46.json",
-          "source_data": "content/interactive-books/talkami_spoken_60/source/46.json"
+          "source_data": "content/interactive-books/talkami_spoken_60/source/46.json",
+          "data_size": 153712,
+          "data_sha256": "b7b06d29d5d2315a6d8b02b194d16eb3b524dc11014ddefa4d4315689270ee52"
         },
         {
           "theme_id": "49",
@@ -2579,9 +2581,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme45-v5-medicine-safety-burmese-20261101",
-  "source_status": "Theme 45 V5: 86 medically cautious learner-facing cards, 204 newly assigned child IDs, source/pack/catalog synchronized, all old main IDs retained; native Burmese pharmacist and real TTS/Android/web QA pending.",
+  "revision": "spoken-theme46-v3-emergency-police-medical-fire-20261101",
+  "source_status": "Theme 46 V3 synchronized: 72 high-priority police/medical/fire emergency bilingual cards, 167 new permanent child IDs, all 56 original main IDs preserved. Independent Burmese/emergency expert and TTS/web/Android QA pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:19:12.112Z",
+  "updated_at": "2026-11-01T07:31:08.067Z",
   "packs_base_path": "packs/"
 }
