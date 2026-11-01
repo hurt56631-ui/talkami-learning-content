@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "version": 11,
-  "updated_at": "2026-11-01T07:49:51.597Z",
+  "updated_at": "2026-11-01T07:52:31.763Z",
   "zone_id": 2,
   "zone_title": "居家生活",
   "theme_id": "48",
@@ -3270,7 +3270,7 @@
     "phonetic_convention": "Myanmar-script syllable-by-syllable pronunciation approximations aligned to authoritative tone-marked pinyin; tone contrasts cannot be represented reliably by approximation alone; native tutor and speech audio review pending",
     "individual_scenarios_written": 86,
     "bilingual_cautions": 86,
-    "native_burmese_review": "pending independent native Burmese review",
+    "native_burmese_review": "pending independent Burmese native-speaker review",
     "child_id_policy": "53 alternatives and 172 replies now each have stable unique child IDs; no audio_url field added.",
     "source_count_correction": "V10 source_phrase_count 78 did not match the actual 74 phrases; V11 corrects to 86.",
     "new_main_count": 12,
@@ -3283,6 +3283,26 @@
       "listen": 31
     },
     "tts_review": "One existing reply text and one existing alternative text were edited; all 225 newly assigned child IDs need corresponding audio. No original main text changed.",
-    "client_review": "Android and web load/audio-cache tests pending."
+    "client_review": "Android and web loading/audio caching tests pending",
+    "audio_review": "No original main Chinese text changed. Three old child Chinese texts were revised: s48_1_0014_reply02, s48_2_0014_alt01 and s48_4_0003_reply01. All 225 child expressions now have newly assigned IDs and require matching audio; 12 new main cards also require audio.",
+    "tts_changed_existing_child_ids": [
+      "s48_1_0014_reply02",
+      "s48_2_0014_alt01",
+      "s48_4_0003_reply01"
+    ],
+    "tts_new_main_ids": [
+      "s48_1_0016",
+      "s48_1_0017",
+      "s48_1_0018",
+      "s48_1_0019",
+      "s48_2_0023",
+      "s48_2_0024",
+      "s48_3_0019",
+      "s48_3_0020",
+      "s48_3_0021",
+      "s48_4_0020",
+      "s48_4_0021",
+      "s48_4_0022"
+    ]
   }
 }
