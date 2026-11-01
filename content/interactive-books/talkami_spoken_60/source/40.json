@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 4,
-  "updated_at": "2026-11-01T05:48:03.140Z",
+  "version": 5,
+  "updated_at": "2026-11-01T06:26:24.880Z",
   "zone_id": 5,
   "zone_title": "出行旅行",
   "theme_id": "40",
@@ -208,8 +208,8 @@
       "alternatives": [],
       "replies": [
         {
-          "text": "有，还有大床房。",
-          "meaning_my": "ရှိပါတယ်၊ ကုတင်ကြီးတစ်လုံးပါတဲ့အခန်း ရှိသေးတယ်။",
+          "text": "有，可以给您安排大床房。",
+          "meaning_my": "ရှိပါတယ်၊ ကုတင်ကြီးတစ်လုံးပါတဲ့အခန်း စီစဉ်ပေးလို့ရပါတယ်။",
           "id": "s40_1_0003_reply01"
         },
         {
@@ -342,8 +342,8 @@
       ],
       "replies": [
         {
-          "text": "有，还有双床房。",
-          "meaning_my": "ရှိပါတယ်၊ ကုတင်နှစ်လုံးပါတဲ့အခန်း ရှိသေးတယ်။",
+          "text": "有，可以给您安排双床房。",
+          "meaning_my": "ရှိပါတယ်၊ ကုတင်နှစ်လုံးပါတဲ့အခန်း စီစဉ်ပေးလို့ရပါတယ်။",
           "id": "s40_1_0007_reply01"
         },
         {
@@ -2811,6 +2811,12 @@
       "s40_4_0010_reply02",
       "s40_4_0014_reply01"
     ],
-    "stable_id_rule": "Never reassign surviving IDs or reuse retired IDs. Regenerate audio whenever an existing ID has changed Chinese text."
-  }
+    "stable_id_rule": "Never reassign surviving IDs or reuse retired IDs. Regenerate audio whenever an existing ID has changed Chinese text.",
+    "audit_20261101_30_40": "Added all four missing bilingual lesson openings and subtitles, edited 2 awkward positive front desk replies; IDs, count and order unchanged.",
+    "changed_existing_chinese_tts_ids_v5": [
+      "s40_1_0003_reply01",
+      "s40_1_0007_reply01"
+    ]
+  },
+  "quality_standard": "V4｜主题40《酒店住宿》缅甸学习者实用口语修订：在V3的56张卡基础上，停用2张低价值卡，新增21张生活实用卡，现为75张（21+20+19+15）。其余主卡和子项旧ID均保留，新增ID从各课未使用的新编号分配；每张卡含两条中缅回复、双语场景、易错说明。重点覆盖晚到、护照登记、付款、订单核对、房型及设施故障、行李寄存与押金退还。已变更中文的原有ID需重配TTS，缅文谐音与母语终审、网页及Android实际加载检查尚未完成，详见QA_THEME_40_V4.md。 | V5第30—40批次复核：补充4课完整中缅语境导语与课卡数量，优化2条重复的前台答句；所有主卡/子项ID、卡片数量和旧顺序不变，两条已修改中文的reply ID须重新配音。"
 }
