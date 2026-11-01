@@ -1,5 +1,5 @@
 {
-  "version": 108,
+  "version": 109,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -1395,7 +1395,7 @@
         {
           "theme_id": "31",
           "title": "付款扫码",
-          "title_my": "ငွေပေးချေခြင်းနှင့် QR စကင်",
+          "title_my": "ငွေပေးချေခြင်းနှင့် QR စကန်ဖတ်ခြင်း",
           "status": "available",
           "free": false,
           "phrase_count": 57,
@@ -1403,19 +1403,19 @@
             {
               "id": "31.1",
               "title": "31.1 手机扫码支付",
-              "title_my": "31.1 ဖုန်း QR ငွေပေးချေမှု",
+              "title_my": "31.1 ဖုန်းနဲ့ QR စကန်ဖတ်ပြီး ငွေပေးခြင်း",
               "count": 20
             },
             {
               "id": "31.2",
               "title": "31.2 现金与找零",
-              "title_my": "31.2 ငွေသားနှင့် အကြွေပြန်အမ်းခြင်း",
+              "title_my": "31.2 ငွေသားပေးချေခြင်းနှင့် အကြွေပြန်အမ်းခြင်း",
               "count": 20
             },
             {
               "id": "31.3",
               "title": "31.3 支付异常",
-              "title_my": "31.3 ငွေပေးချေမှု ပြဿနာ",
+              "title_my": "31.3 ငွေပေးချေမှု အဆင်မပြေခြင်း",
               "count": 17
             }
           ],
@@ -1423,7 +1423,9 @@
           "lesson_count": 3,
           "data_url": "packs/31.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/31.json",
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 79221,
+          "data_sha256": "8cf51bc23f2ee1d67412ec10092f3335e596bab478e42fb9effc7fdd4c39e6d8"
         },
         {
           "theme_id": "32",
@@ -2573,9 +2575,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-themes16-30-second-recheck-20261101",
-  "source_status": "60 published themes; themes 16-30 revised with source and pack synchronized; independent native Burmese editorial and audio review still pending.",
+  "revision": "spoken-theme31-v3-payment-dialogue-burmese-20261101",
+  "source_status": "60 themes published; theme 31 V3 pack/source synchronized, payment safety and Burmese dialogues revised; independent native language and audio review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:00:00Z",
+  "updated_at": "2026-11-01T03:45:00Z",
   "packs_base_path": "packs/"
 }
