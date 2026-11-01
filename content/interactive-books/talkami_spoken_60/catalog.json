@@ -1,9 +1,9 @@
 {
-  "version": 125,
+  "version": 126,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4339,
+  "item_count": 4358,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1750,40 +1750,40 @@
           "title_my": "40 ဟိုတယ်နှင့် ခရီးသွားခြင်း",
           "status": "available",
           "free": false,
-          "phrase_count": 56,
+          "phrase_count": 75,
           "lessons": [
             {
               "id": "40.1",
               "title": "40.1 预订房间",
               "title_my": "40.1 ဟိုတယ်အခန်းကြိုတင်မှာခြင်း",
-              "count": 16
+              "count": 21
             },
             {
               "id": "40.2",
               "title": "40.2 入住证件押金",
               "title_my": "40.2 အခန်းဝင်စာရင်းသွင်းခြင်း၊ အထောက်အထားနှင့် အာမခံငွေ",
-              "count": 15
+              "count": 20
             },
             {
               "id": "40.3",
               "title": "40.3 房间需求问题",
               "title_my": "40.3 အခန်းလိုအပ်ချက်နှင့် ပြဿနာ",
-              "count": 15
+              "count": 19
             },
             {
               "id": "40.4",
               "title": "40.4 退房寄存",
               "title_my": "40.4 အခန်းအပ်ပြီးထွက်ခြင်းနှင့် အိတ်အပ်ထားခြင်း",
-              "count": 10
+              "count": 15
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/40.json",
-          "source_data": "content/interactive-books/talkami_spoken_60/packs/40.json",
-          "data_version": 3,
-          "data_size": 119022,
-          "data_sha256": "47e6b6fbf0f8a8a8edb088cd82ff234f5c0cbb70416f06b4b73164148c6afb4a",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/40.json",
+          "data_version": 4,
+          "data_size": 170472,
+          "data_sha256": "e9184edaa03a1d4f53862ac91cd7e54d1a15d3728a4d0e011a992e189ed0cde5",
           "lesson_count": 4
         }
       ],
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme39-v5-airport-burmese-qa-20261101",
-  "source_status": "Theme 39 V5 pack/source aligned; 19 historical unpublished cards not restored; native Burmese and audio final review pending.",
+  "revision": "spoken-theme40-v4-hotel-myanmar-practical-20261101",
+  "source_status": "Theme 40 V4: 75 practical hotel cards (21 new, 2 retired), source/pack/catalog aligned, stable IDs preserved. Native Burmese, TTS and client review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:01:19.033Z",
+  "updated_at": "2026-11-01T05:48:03.140Z",
   "packs_base_path": "packs/"
 }
