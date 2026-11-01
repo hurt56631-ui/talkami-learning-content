@@ -1,9 +1,9 @@
 {
-  "version": 143,
+  "version": 144,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
-  "item_count": 4521,
+  "item_count": 4537,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2225,38 +2225,39 @@
           "title_my": "နေ့စဉ်အလုပ်ဆက်သွယ်မှု",
           "status": "available",
           "free": false,
-          "phrase_count": 68,
+          "phrase_count": 84,
           "lessons": [
             {
               "id": "53.1",
               "title": "53.1 接受工作指令",
               "title_my": "53.1 အလုပ်ညွှန်ကြားချက် လက်ခံခြင်း",
-              "count": 17
+              "count": 21
             },
             {
               "id": "53.2",
               "title": "53.2 不会时确认",
               "title_my": "53.2 မသိတဲ့အခါ အတည်ပြုမေးခြင်း",
-              "count": 17
+              "count": 21
             },
             {
               "id": "53.3",
               "title": "53.3 同事协作",
               "title_my": "53.3 လုပ်ဖော်ကိုင်ဖက် ပူးပေါင်းလုပ်ခြင်း",
-              "count": 16
+              "count": 20
             },
             {
               "id": "53.4",
               "title": "53.4 汇报完成问题",
               "title_my": "53.4 ပြီးစီးမှုနှင့် ပြဿနာအစီရင်ခံခြင်း",
-              "count": 18
+              "count": 22
             }
           ],
           "needs_pronunciation_review": true,
           "lesson_count": 4,
           "data_url": "packs/53.json",
           "source_data": "content/interactive-books/talkami_spoken_60/source/53.json",
-          "data_version": 2
+          "data_version": 3,
+          "data_size": 187858
         },
         {
           "theme_id": "54",
@@ -2586,9 +2587,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme52-v3-high-quality-onboarding-burmese-20261101",
-  "source_status": "Theme 52 V3: 64 bilingual onboarding cards, 9 new main, 152 permanent child IDs, all 55 existing main IDs retained; native Burmese/HR/legal/safety/TTS/client QA still pending.",
+  "revision": "spoken-theme53-v3-workplace-communication-quality-20261101",
+  "source_status": "Theme 53 V3: 84 practical factory workplace dialogue cards, 16 new parent cards, 202 new permanent child IDs, all 68 original parent IDs retained. Native Burmese/safety/TTS/client QA pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:33:35.463Z",
+  "updated_at": "2026-11-01T08:37:17.938Z",
   "packs_base_path": "packs/"
 }
