@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "version": 3,
-  "updated_at": "2026-11-01T08:33:35.463Z",
+  "version": 4,
+  "updated_at": "2026-11-01T10:00:00Z",
   "zone_id": 8,
   "zone_title": "职场工作",
   "theme_id": "52",
@@ -356,7 +356,7 @@
           "text_my": "“ပထမနေ့” လို့ ပြောတာနဲ့ စက်အားလုံး ကိုင်တတ်ပြီ မဟုတ်ဘူး။ သင်တန်းပြီးမှ သတ်မှတ်ထားတဲ့အလုပ် လုပ်ပါ။"
         }
       ],
-      "pinyin": "jīn tiān shì wǒ dì yì tiān shàng bān",
+      "pinyin": "jīn tiān shì wǒ dì yī tiān shàng bān",
       "phonetic_my": "ကျင် ထျန် ရှီး ဝေါ တီ ယီ ထျန် ရှန်း ပန်",
       "when_to_use": "第一次到新单位向同事打招呼，说明自己是新来的员工。",
       "when_to_use_my": "အလုပ်အသစ် ပထမနေ့မှာ လုပ်ဖော်ကိုင်ဖက်ကို ကိုယ်က အသစ်ဝင်တာလို့ မိတ်ဆက်တယ်။"
@@ -1382,7 +1382,7 @@
           "text_my": "အလုပ်နေရာ၊ ကြီးကြပ်ရေးမှူး၊ အဖွဲ့ခေါင်းဆောင်နဲ့ တာဝန်က မတူဘူး။ စက်နဲ့ ကိရိယာကို သင်တန်းမပြီးဘဲ မကိုင်ပါနဲ့။"
         }
       ],
-      "pinyin": "yǒu shì xiān zhǎo zǔ cháng",
+      "pinyin": "yǒu shì xiān zhǎo zǔ zhǎng",
       "phonetic_my": "ယိုး ရှီး ရှျန် ကျောင် ဇူ ချန်း",
       "when_to_use": "新员工第一次到岗，遇到“有事先找组长。”这样的任务、位置或人员安排时，及时确认后再行动。",
       "when_to_use_my": "အလုပ်သစ်ပထမနေ့မှာ “ကိစ္စရှိရင် အဖွဲ့ခေါင်းဆောင်ကို အရင်သွားတွေ့ပါ” ဆိုတဲ့အကြောင်းကို နားလည်ပြီး မသေချာတာရှိရင် ပြန်မေးတယ်။"
@@ -1650,7 +1650,7 @@
           "text_my": "အလုပ်ဧရိယာအလိုက် ကတ်၊ ဝတ်စုံနဲ့ လုံခြုံရေးပစ္စည်း စည်းကမ်းကွာနိုင်တယ်။ သင်တန်းနဲ့ လုံခြုံရေးညွှန်ကြားချက်ကို လိုက်နာပါ။"
         }
       ],
-      "pinyin": "yào chuān gōng zuò fu ma",
+      "pinyin": "yào chuān gōng zuò fú ma",
       "phonetic_my": "ယောင် ချွမ် ကုန်း ဇွော ဖူ မာ",
       "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“要穿工作服吗？”对应的现场要求。",
       "when_to_use_my": "အလုပ်စဝင်ချိန် ဝန်ထမ်းကတ်၊ အလုပ်ဝတ်စုံနဲ့ အလုပ်ရုံစည်းကမ်းအတွက် “အလုပ်ဝတ်စုံ ဝတ်ဖို့လိုလား” ဆိုတာကို နားလည်ပြီး မေးတယ်။"
@@ -1682,7 +1682,7 @@
           "text_my": "အလုပ်ဧရိယာအလိုက် ကတ်၊ ဝတ်စုံနဲ့ လုံခြုံရေးပစ္စည်း စည်းကမ်းကွာနိုင်တယ်။ သင်တန်းနဲ့ လုံခြုံရေးညွှန်ကြားချက်ကို လိုက်နာပါ။"
         }
       ],
-      "pinyin": "gōng zuò fu fàng nǎr",
+      "pinyin": "gōng zuò fú fàng nǎr",
       "phonetic_my": "ကုန်း ဇွော ဖူ ဖန်း နာ",
       "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“工作服放哪儿？”对应的现场要求。",
       "when_to_use_my": "အလုပ်စဝင်ချိန် ဝန်ထမ်းကတ်၊ အလုပ်ဝတ်စုံနဲ့ အလုပ်ရုံစည်းကမ်းအတွက် “အလုပ်ဝတ်စုံ ဘယ်မှာထားလဲ” ဆိုတာကို နားလည်ပြီး မေးတယ်။"
@@ -2305,12 +2305,14 @@
     "when_to_use_removed": false,
     "short_natural": true,
     "phonetic_needs_native_review": true,
-    "editorial_revision": "V3: 64 practical onboarding cards; original 55 main IDs kept, 9 new parent IDs added, 24 alternatives and 128 replies all have stable IDs, 216 unique expression IDs.",
+    "editorial_revision": "V4 verified Chinese and pinyin correction pass; original parent and child IDs unchanged.",
     "bilingual_usage_added": true,
     "bilingual_cautions_added": true,
     "native_review_pending": true,
     "HR_work_permission_review_pending": true,
     "safety_expert_review_pending": true,
-    "TTS_client_QA_pending": true
+    "TTS_client_QA_pending": true,
+    "needs_native_burmese_review": true,
+    "needs_tts_audio_review": true
   }
 }
