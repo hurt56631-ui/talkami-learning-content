@@ -95,7 +95,7 @@
 - 未被明确验证的用药频率、剂量和疗程不可作为患者个人医嘱。不要按教材示例自行服药。
 
 ## 九、审校所参考的公共安全材料
-- 中国《药品管理法》有关药品标签、药师复核及合理用药条文：https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_b73ec9dabb2d48.html
+- 中国《药品管理法》有关药品标签、药师复核及合理用药条文：https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_b73ec9dabb2d468281d6c994b4bcdaf8.html
 - 国家卫健委《处方管理办法》关于药师核对药物、剂量、禁忌、相互作用的条款：https://www.nhc.gov.cn/wjw/c100221/202201/6a4ee53e4a3a407fbd9f520e1e2662c5.shtml
 - FDA关于药片不可随意分割的指导：https://www.fda.gov/drugs/buying-using-medicine-safely/tablet-splitting
 - NHS关于急性严重过敏症状的临床警示：https://www.nhs.uk/conditions/anaphylaxis/
