@@ -1,5 +1,5 @@
 {
-  "version": 111,
+  "version": 112,
   "id": "talkami_spoken_60",
   "title": "在中国生活与工作 · 实用中文口语",
   "title_my": "တရုတ်နိုင်ငံတွင် နေထိုင်ရေးနှင့် အလုပ်ခွင်သုံး တရုတ်စကား",
@@ -1194,7 +1194,7 @@
         {
           "theme_id": "34",
           "title": "外卖取餐",
-          "title_my": "34 အစားပို့အော်ဒါနှင့် လက်ခံယူခြင်း",
+          "title_my": "34 အစားအစာမှာယူခြင်းနှင့် လက်ခံယူခြင်း",
           "status": "available",
           "free": false,
           "phrase_count": 68,
@@ -1202,35 +1202,35 @@
             {
               "id": "34.1",
               "title": "34.1 下单备注与修改信息",
-              "title_my": "34.1 အော်ဒါမှတ်ချက်နှင့် အချက်အလက်ပြောင်းခြင်း",
+              "title_my": "34.1 အစားအစာမှာယူခြင်း၊ မှတ်ချက်နှင့် လိပ်စာပြင်ခြင်း",
               "count": 18
             },
             {
               "id": "34.2",
               "title": "34.2 联系骑手与碰面",
-              "title_my": "34.2 ပို့သူနှင့် ဆက်သွယ်တွေ့ဆုံခြင်း",
+              "title_my": "34.2 အစားအစာပို့သူနှင့် ဆက်သွယ်တွေ့ဆုံခြင်း",
               "count": 18
             },
             {
               "id": "34.3",
               "title": "34.3 催单与超时",
-              "title_my": "34.3 အော်ဒါနောက်ကျခြင်းနှင့် မြန်မြန်ပို့ခိုင်းခြင်း",
+              "title_my": "34.3 အော်ဒါနောက်ကျမှုကို မေးမြန်းခြင်း",
               "count": 15
             },
             {
               "id": "34.4",
               "title": "34.4 少送错送与退款",
-              "title_my": "34.4 လျော့ပို့၊ မှားပို့နှင့် ငွေပြန်အမ်းခြင်း",
+              "title_my": "34.4 အစားအစာလျော့ပို့၊ မှားပို့ခြင်းနှင့် ငွေပြန်အမ်းခြင်း",
               "count": 17
             }
           ],
           "data_path": null,
           "needs_pronunciation_review": true,
           "data_url": "packs/34.json",
-          "source_data": "content/interactive-books/talkami_spoken_60/packs/34.json",
-          "data_version": 5,
-          "data_size": 155481,
-          "data_sha256": "6eb487dc63416c483a9082ff876fdef6ae04e83fe66faf647e474aa0ec6127e5",
+          "source_data": "content/interactive-books/talkami_spoken_60/source/34.json",
+          "data_version": 6,
+          "data_size": 129168,
+          "data_sha256": "3e432c949d327a78e208bcee55dc63169d5af6e3c0d55316d2fe5eb7d19a51fb",
           "lesson_count": 4
         }
       ],
@@ -2579,9 +2579,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-theme33-v3-ecommerce-parcel-qa-20261101",
-  "source_status": "Theme 33 V3 pack and source synchronized; language and parcel safety edited, native Burmese and audio final review pending.",
+  "revision": "spoken-theme34-v6-burmese-takeout-qa-20261101",
+  "source_status": "Theme 34 V6 published in pack and synchronized with source; independent Burmese native proofread and audio review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-01T09:00:00Z",
+  "updated_at": "2026-11-01T10:00:00Z",
   "packs_base_path": "packs/"
 }
