@@ -1,0 +1,2185 @@
+{
+  "theme_id": "32",
+  "version": 1,
+  "updated_at": "2026-11-02T16:21:14.012Z",
+  "theme_title": "32 退换退款",
+  "quality_standard": "Vietnamese independently translated theme 32; Chinese text, pinyin, stable IDs and order preserved. Refund stages, exchange price difference and warranty distinctions localized. All translations and notes covered; native-language, audio and app QA pending.",
+  "source_phrase_count": 74,
+  "lessons": [
+    {
+      "id": "32.1",
+      "title": "32.1 申请退货",
+      "phrases": [
+        {
+          "id": "s32_1_0001",
+          "level": "must",
+          "text": "我想退货。",
+          "alternatives": [
+            {
+              "text": "这个我想退。",
+              "id": "s32_1_0001_alt01",
+              "meaning_vi": "Tôi muốn trả lại món này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我先看看商品和订单。",
+              "id": "s32_1_0001_reply01",
+              "meaning_vi": "Để tôi xem sản phẩm và đơn hàng trước."
+            },
+            {
+              "text": "请问是什么原因？",
+              "id": "s32_1_0001_reply02",
+              "meaning_vi": "Xin hỏi vì lý do gì ạ?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "退货是把商品退回，退款是退回钱；申请退货不等于当场获批或立刻到账。",
+              "text_vi": "Trả hàng là gửi lại sản phẩm, hoàn tiền là trả lại tiền mua. Gửi yêu cầu chưa có nghĩa được duyệt hoặc tiền về ngay."
+            }
+          ],
+          "pinyin": "wǒ xiǎng tuì huò",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Tôi muốn trả hàng."
+        },
+        {
+          "id": "s32_1_0002",
+          "level": "must",
+          "text": "这个能退吗？",
+          "alternatives": [
+            {
+              "text": "可以退货吗？",
+              "id": "s32_1_0002_alt01",
+              "meaning_vi": "Có thể trả hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看看小票和商品吧。",
+              "id": "s32_1_0002_reply01",
+              "meaning_vi": "Để tôi xem biên lai và sản phẩm trước."
+            },
+            {
+              "text": "我先看看退货条件。",
+              "id": "s32_1_0002_reply02",
+              "meaning_vi": "Để tôi kiểm tra điều kiện trả hàng."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“能退吗”是在询问是否符合退货条件，不能当成商家已同意；先核对订单和商品情况。",
+              "text_vi": "“Trả được không?” hỏi về điều kiện trả hàng; cần đối chiếu đơn và tình trạng sản phẩm, không phải đã được chấp thuận."
+            }
+          ],
+          "pinyin": "zhè ge néng tuì ma",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Món này trả lại được không?"
+        },
+        {
+          "id": "s32_1_0003",
+          "level": "must",
+          "text": "小票在这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我核对一下。",
+              "id": "s32_1_0003_reply01",
+              "meaning_vi": "Vâng, để tôi kiểm tra."
+            },
+            {
+              "text": "谢谢，把商品也给我看看。",
+              "id": "s32_1_0003_reply02",
+              "meaning_vi": "Cảm ơn, cho tôi xem sản phẩm nữa nhé."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“小票”是购物付款凭证，退换货时可与电子订单一起核对；有小票不等于商品一定符合退货条件。",
+              "text_vi": "“小票” là biên lai mua hàng. Có biên lai chưa chắc đủ điều kiện trả; có thể đối chiếu thêm đơn điện tử."
+            }
+          ],
+          "pinyin": "xiǎo piào zài zhè lǐ",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Biên lai ở đây."
+        },
+        {
+          "id": "s32_1_0004",
+          "level": "must",
+          "text": "包装还在。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我看看包装。",
+              "id": "s32_1_0004_reply01",
+              "meaning_vi": "Được, để tôi xem bao bì."
+            },
+            {
+              "text": "那商品用过了吗？",
+              "id": "s32_1_0004_reply02",
+              "meaning_vi": "Vậy sản phẩm đã sử dụng chưa?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [],
+          "pinyin": "bāo zhuāng hái zài",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Tôi vẫn giữ bao bì."
+        },
+        {
+          "id": "s32_1_0005",
+          "level": "must",
+          "text": "型号买错了。",
+          "alternatives": [
+            {
+              "text": "我买错型号了。",
+              "id": "s32_1_0005_alt01",
+              "meaning_vi": "Tôi mua nhầm mẫu mã."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您想换别的型号吗？",
+              "id": "s32_1_0005_reply01",
+              "meaning_vi": "Anh/chị muốn đổi sang mẫu khác không?"
+            },
+            {
+              "text": "我先查下能不能退。",
+              "id": "s32_1_0005_reply02",
+              "meaning_vi": "Để tôi kiểm tra có trả được không."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“型号”是产品型号或版本，不是衣服“尺码”；买错型号和商品质量差是两回事。",
+              "text_vi": "“型号” là mã hoặc phiên bản sản phẩm, khác “尺码” là kích cỡ. Mua nhầm mẫu khác với hàng bị lỗi chất lượng."
+            }
+          ],
+          "pinyin": "xíng hào mǎi cuò le",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Tôi mua nhầm mã sản phẩm."
+        },
+        {
+          "id": "s32_1_0006",
+          "level": "must",
+          "text": "这个有质量问题。",
+          "alternatives": [
+            {
+              "text": "商品有问题。",
+              "id": "s32_1_0006_alt01",
+              "meaning_vi": "Sản phẩm có vấn đề."
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪里有问题？我看看。",
+              "id": "s32_1_0006_reply01",
+              "meaning_vi": "Bị lỗi chỗ nào? Để tôi xem."
+            },
+            {
+              "text": "我先帮您登记售后。",
+              "id": "s32_1_0006_reply02",
+              "meaning_vi": "Để tôi tiếp nhận yêu cầu hậu mãi cho anh/chị."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "质量问题与单纯不喜欢不同，退换条件可能不同。",
+              "text_vi": "Hàng bị lỗi chất lượng khác với việc chỉ không thích; điều kiện đổi trả có thể khác nhau."
+            }
+          ],
+          "pinyin": "zhè ge yǒu zhì liàng wèn tí",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Sản phẩm này bị lỗi chất lượng."
+        },
+        {
+          "id": "s32_1_0007",
+          "level": "must",
+          "text": "怎么申请退款？",
+          "alternatives": [
+            {
+              "text": "退款在哪儿申请？",
+              "id": "s32_1_0007_alt01",
+              "meaning_vi": "Gửi yêu cầu hoàn tiền ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "订单里可以申请。",
+              "id": "s32_1_0007_reply01",
+              "meaning_vi": "Có thể yêu cầu ngay trong đơn hàng."
+            },
+            {
+              "text": "拿小票到服务台办。",
+              "id": "s32_1_0007_reply02",
+              "meaning_vi": "Mang biên lai đến quầy dịch vụ để làm thủ tục."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“申请退款”是提出退款请求，不代表商家已经批准；线上和线下的办理入口可能不同。",
+              "text_vi": "“申请退款” chỉ là gửi yêu cầu, chưa phải duyệt hoàn. Cách làm online và tại cửa hàng có thể khác."
+            }
+          ],
+          "pinyin": "zěn me shēn qǐng tuì kuǎn",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Làm sao để yêu cầu hoàn tiền?"
+        },
+        {
+          "id": "s32_1_0008",
+          "level": "must",
+          "text": "尺码不合适。",
+          "alternatives": [
+            {
+              "text": "这件不合身。",
+              "id": "s32_1_0008_alt01",
+              "meaning_vi": "Chiếc này mặc không vừa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您想换大一点的吗？",
+              "id": "s32_1_0008_reply01",
+              "meaning_vi": "Anh/chị muốn đổi sang cỡ lớn hơn không?"
+            },
+            {
+              "text": "我看看能不能退换。",
+              "id": "s32_1_0008_reply02",
+              "meaning_vi": "Để tôi xem có thể đổi hoặc trả không."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [],
+          "pinyin": "chǐ mǎ bù hé shì",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Kích cỡ không vừa."
+        },
+        {
+          "id": "s32_1_0009",
+          "level": "must",
+          "text": "能原路退款吗？",
+          "alternatives": [
+            {
+              "text": "会退回原账户吗？",
+              "id": "s32_1_0009_alt01",
+              "meaning_vi": "Tiền sẽ hoàn về tài khoản ban đầu phải không?"
+            },
+            {
+              "text": "原路退吗？",
+              "id": "s32_1_0009_alt02",
+              "meaning_vi": "Có hoàn về cách thanh toán ban đầu không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，退回原账户。",
+              "id": "s32_1_0009_reply01",
+              "meaning_vi": "Được, sẽ hoàn về tài khoản ban đầu."
+            },
+            {
+              "text": "得看付款方式，我查下。",
+              "id": "s32_1_0009_reply02",
+              "meaning_vi": "Còn tùy cách thanh toán, để tôi kiểm tra."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“原路退款”是按原付款渠道退回，可能涉及电子钱包或银行卡；不要按陌生人指示转账所谓退款验证费。",
+              "text_vi": "“原路退款” là hoàn qua kênh đã thanh toán, như ví hoặc thẻ. Không chuyển “phí xác minh” theo lời người lạ."
+            }
+          ],
+          "pinyin": "néng yuán lù tuì kuǎn ma",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Tiền có thể hoàn về phương thức thanh toán ban đầu không?"
+        },
+        {
+          "id": "s32_1_0010",
+          "level": "must",
+          "text": "没小票还能退吗？",
+          "alternatives": [
+            {
+              "text": "没收据能退吗？",
+              "id": "s32_1_0010_alt01",
+              "meaning_vi": "Không có hóa đơn mua hàng thì có trả được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有订单记录也可以查。",
+              "id": "s32_1_0010_reply01",
+              "meaning_vi": "Có lịch sử đơn hàng cũng tra được."
+            },
+            {
+              "text": "您先给我看付款记录。",
+              "id": "s32_1_0010_reply02",
+              "meaning_vi": "Anh/chị cho tôi xem lịch sử thanh toán trước nhé."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "没有小票时可以先提供订单或付款记录，是否接受要核对。",
+              "text_vi": "Nếu không có biên lai, có thể thử dùng đơn hàng hoặc lịch sử thanh toán; cần hỏi có được chấp nhận không."
+            }
+          ],
+          "pinyin": "méi xiǎo piào hái néng tuì ma",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Không có biên lai thì vẫn trả hàng được không?"
+        },
+        {
+          "id": "s32_1_0011",
+          "level": "must",
+          "text": "几天内可以退？",
+          "alternatives": [
+            {
+              "text": "最晚几天能退？",
+              "id": "s32_1_0011_alt01",
+              "meaning_vi": "Hạn cuối trả hàng là sau bao nhiêu ngày?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要看是什么商品。",
+              "id": "s32_1_0011_reply01",
+              "meaning_vi": "Còn tùy loại sản phẩm."
+            },
+            {
+              "text": "我帮您查具体期限。",
+              "id": "s32_1_0011_reply02",
+              "meaning_vi": "Để tôi kiểm tra thời hạn cụ thể."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "退货截止日要看商品、购买渠道和具体规则，不能把所有商品都当成相同期限。",
+              "text_vi": "Thời hạn trả hàng tùy sản phẩm, nơi mua và quy định, không phải món nào cũng giống nhau."
+            }
+          ],
+          "pinyin": "jǐ tiān nèi kě yǐ tuì",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Có thể trả hàng trong bao nhiêu ngày?"
+        },
+        {
+          "id": "s32_1_0012",
+          "level": "listen",
+          "text": "可以退。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那现在能办理吗？",
+              "id": "s32_1_0012_reply01",
+              "meaning_vi": "Vậy bây giờ làm thủ tục được không?"
+            },
+            {
+              "text": "好，需要带什么？",
+              "id": "s32_1_0012_reply02",
+              "meaning_vi": "Được, cần mang theo gì?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "店员说“可以退”只是表示原则上可退，仍可能需要核对购买记录和商品状态。",
+              "text_vi": "Nhân viên nói “có thể trả” vẫn có thể cần kiểm tra hàng và thông tin mua."
+            }
+          ],
+          "pinyin": "kě yǐ tuì",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Có thể trả hàng."
+        },
+        {
+          "id": "s32_1_0013",
+          "level": "listen",
+          "text": "已经过退货期了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可它有质量问题。",
+              "id": "s32_1_0013_reply01",
+              "meaning_vi": "Nhưng sản phẩm này bị lỗi chất lượng mà."
+            },
+            {
+              "text": "那还能申请保修吗？",
+              "id": "s32_1_0013_reply02",
+              "meaning_vi": "Vậy vẫn yêu cầu bảo hành được không?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "普通退货期限已过，不等于质量故障的售后、保修申请一律不能提出；应另问处理办法。",
+              "text_vi": "Hết hạn trả hàng thông thường không có nghĩa mất quyền hỏi bảo hành cho hàng lỗi; nên hỏi riêng."
+            }
+          ],
+          "pinyin": "yǐ jīng guò tuì huò qī le",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Đã quá hạn trả hàng rồi."
+        },
+        {
+          "id": "s32_1_0014",
+          "level": "listen",
+          "text": "请出示小票或订单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "小票在这里。",
+              "id": "s32_1_0014_reply01",
+              "meaning_vi": "Dùng đơn hàng điện tử được không?"
+            },
+            {
+              "text": "电子订单可以吗？",
+              "id": "s32_1_0014_reply02",
+              "meaning_vi": "Biên lai ở đây."
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [],
+          "pinyin": "qǐng chū shì xiǎo piào huò dìng dān",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Vui lòng xuất trình biên lai hoặc đơn hàng."
+        },
+        {
+          "id": "s32_1_0015",
+          "level": "listen",
+          "text": "这款拆封后不能退。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "只是打开看了，没用过。",
+              "id": "s32_1_0015_reply01",
+              "meaning_vi": "Tôi chỉ mở ra xem, chưa dùng."
+            },
+            {
+              "text": "有质量问题也不能退吗？",
+              "id": "s32_1_0015_reply02",
+              "meaning_vi": "Bị lỗi chất lượng cũng không được trả à?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“拆封后不能退”可能是店铺针对某类商品的规则；有质量问题时需分别核对，不要把它当成所有商品通用结论。",
+              "text_vi": "Quy định hàng đã mở niêm phong không được trả tùy mặt hàng. Hàng lỗi cần hỏi quy định xử lý riêng."
+            }
+          ],
+          "pinyin": "zhè kuǎn chāi fēng hòu bù néng tuì",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Mẫu này mở niêm phong rồi thì không được trả."
+        },
+        {
+          "id": "s32_1_0016",
+          "level": "listen",
+          "text": "质量问题可以退。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我现在申请。",
+              "id": "s32_1_0016_reply01",
+              "meaning_vi": "Vậy tôi gửi yêu cầu ngay."
+            },
+            {
+              "text": "需要先检测吗？",
+              "id": "s32_1_0016_reply02",
+              "meaning_vi": "Có cần kiểm tra lỗi trước không?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“质量问题可以退”是符合条件后的处理方式；店家可能先核实问题，不等于一开口就必然全额退款。",
+              "text_vi": "Hàng lỗi có thể được nhận trả khi đủ điều kiện; cửa hàng có thể kiểm tra trước, không tự động hoàn toàn bộ."
+            }
+          ],
+          "pinyin": "zhì liàng wèn tí kě yǐ tuì",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Sản phẩm bị lỗi chất lượng thì có thể trả."
+        },
+        {
+          "id": "s32_1_0017",
+          "level": "listen",
+          "text": "会原路退款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概多久能到账？",
+              "id": "s32_1_0017_reply01",
+              "meaning_vi": "Khoảng bao lâu tiền mới về tài khoản?"
+            },
+            {
+              "text": "还是退到原来的卡吗？",
+              "id": "s32_1_0017_reply02",
+              "meaning_vi": "Vẫn hoàn về thẻ ngân hàng cũ à?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [
+            {
+              "text": "“原路退款”说明退款途径，不说明具体到账时间；实际入账还要看支付渠道。",
+              "text_vi": "“Hoàn về phương thức ban đầu” chỉ nói kênh hoàn, không nói thời gian tiền về."
+            }
+          ],
+          "pinyin": "huì yuán lù tuì kuǎn",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Tiền sẽ hoàn về phương thức thanh toán ban đầu."
+        },
+        {
+          "id": "s32_1_0018",
+          "level": "listen",
+          "text": "可以在订单里申请。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去申请。",
+              "id": "s32_1_0018_reply01",
+              "meaning_vi": "Được, tôi sẽ gửi yêu cầu."
+            },
+            {
+              "text": "申请入口在哪儿？",
+              "id": "s32_1_0018_reply02",
+              "meaning_vi": "Mục gửi yêu cầu ở đâu?"
+            }
+          ],
+          "lesson_id": "32.1",
+          "lesson_title": "32.1 申请退货",
+          "mistakes": [],
+          "pinyin": "kě yǐ zài dìng dān lǐ shēn qǐng",
+          "lesson_title_vi": "32.1 Yêu cầu trả hàng",
+          "meaning_vi": "Có thể gửi yêu cầu ngay trong đơn hàng."
+        }
+      ],
+      "opening": "练习提出退货申请、出示购物凭证、说明退货原因和确认退款路径。退货申请不等于立即退款成功。",
+      "subtitle": "18张高频卡 · 11必说 + 7必听",
+      "title_vi": "32.1 Yêu cầu trả hàng",
+      "opening_vi": "Luyện đề nghị trả hàng, đưa chứng từ mua, giải thích lý do và xác nhận kênh hoàn tiền. Gửi yêu cầu không có nghĩa tiền về ngay.",
+      "subtitle_vi": "18 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "32.2",
+      "title": "32.2 申请换货",
+      "phrases": [
+        {
+          "id": "s32_2_0001",
+          "level": "must",
+          "text": "我想换一个。",
+          "alternatives": [
+            {
+              "text": "我想换货。",
+              "id": "s32_2_0001_alt01",
+              "meaning_vi": "Tôi muốn đổi hàng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，您带小票了吗？",
+              "id": "s32_2_0001_reply01",
+              "meaning_vi": "Được, anh/chị có mang biên lai không?"
+            },
+            {
+              "text": "您想换什么样的？",
+              "id": "s32_2_0001_reply02",
+              "meaning_vi": "Anh/chị muốn đổi sang loại nào?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“换一个”指换成另一个商品，不是把原商品退回后必定退款；可继续说明想换颜色、型号还是尺码。",
+              "text_vi": "“换一个” là đổi sang món khác, không mặc nhiên hoàn tiền; hãy nói rõ muốn đổi mẫu, màu hay cỡ."
+            }
+          ],
+          "pinyin": "wǒ xiǎng huàn yí ge",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Tôi muốn đổi sang món khác."
+        },
+        {
+          "id": "s32_2_0002",
+          "level": "must",
+          "text": "我想换黑色的。",
+          "alternatives": [
+            {
+              "text": "能换成黑色的吗？",
+              "id": "s32_2_0002_alt01",
+              "meaning_vi": "Có thể đổi sang màu đen không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有黑色的，我给您拿。",
+              "id": "s32_2_0002_reply01",
+              "meaning_vi": "Có màu đen, để tôi lấy cho anh/chị."
+            },
+            {
+              "text": "黑色暂时没货。",
+              "id": "s32_2_0002_reply02",
+              "meaning_vi": "Màu đen hiện đang hết hàng."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [],
+          "pinyin": "wǒ xiǎng huàn hēi sè de",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Tôi muốn đổi sang màu đen."
+        },
+        {
+          "id": "s32_2_0003",
+          "level": "must",
+          "text": "刚买就坏了。",
+          "alternatives": [
+            {
+              "text": "买回来就坏了。",
+              "id": "s32_2_0003_alt01",
+              "meaning_vi": "Mua về là hỏng ngay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您看看故障。",
+              "id": "s32_2_0003_reply01",
+              "meaning_vi": "Để tôi xem lỗi giúp anh/chị."
+            },
+            {
+              "text": "先登记一下购买时间。",
+              "id": "s32_2_0003_reply02",
+              "meaning_vi": "Ghi lại ngày mua trước nhé."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“刚买就坏了”强调买来不久即发生故障，不等于承认自己把商品弄坏。",
+              "text_vi": "“Vừa mua đã hỏng” nói hàng hỏng sớm, không phải thừa nhận người mua làm hỏng."
+            }
+          ],
+          "pinyin": "gāng mǎi jiù huài le",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Vừa mua về đã hỏng rồi."
+        },
+        {
+          "id": "s32_2_0004",
+          "level": "must",
+          "text": "能换同款吗？",
+          "alternatives": [
+            {
+              "text": "能换一样的吗？",
+              "id": "s32_2_0004_alt01",
+              "meaning_vi": "Đổi sang cái giống hệt được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "同款还有，我帮您看。",
+              "id": "s32_2_0004_reply01",
+              "meaning_vi": "Vẫn còn cùng mẫu, để tôi kiểm tra."
+            },
+            {
+              "text": "同款没货了，能等吗？",
+              "id": "s32_2_0004_reply02",
+              "meaning_vi": "Cùng mẫu hết hàng rồi, anh/chị đợi được không?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“同款”是同一种设计或型号，不一定自动保证相同颜色、尺码或配置；换货时要一并确认。",
+              "text_vi": "“同款” là cùng mẫu, chưa chắc cùng màu, size hay cấu hình; cần xác nhận đủ."
+            }
+          ],
+          "pinyin": "néng huàn tóng kuǎn ma",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Đổi sang mẫu y hệt được không?"
+        },
+        {
+          "id": "s32_2_0005",
+          "level": "must",
+          "text": "要补差价吗？",
+          "alternatives": [
+            {
+              "text": "还需要补钱吗？",
+              "id": "s32_2_0005_alt01",
+              "meaning_vi": "Còn phải trả thêm tiền không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不用，价格一样。",
+              "id": "s32_2_0005_reply01",
+              "meaning_vi": "Không cần, giá bằng nhau."
+            },
+            {
+              "text": "要补二十块。",
+              "id": "s32_2_0005_reply02",
+              "meaning_vi": "Cần bù thêm 20 tệ."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "补差价是换成更贵商品时补钱；若换便宜商品，可能涉及退差价。",
+              "text_vi": "“补差价” là bù tiền khi đổi sang hàng đắt, còn đổi sang hàng rẻ có thể được hoàn chênh lệch."
+            }
+          ],
+          "pinyin": "yào bǔ chā jià ma",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Có cần bù thêm tiền chênh lệch không?"
+        },
+        {
+          "id": "s32_2_0006",
+          "level": "must",
+          "text": "没货怎么换？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮您查别的店。",
+              "id": "s32_2_0006_reply01",
+              "meaning_vi": "Để tôi kiểm tra cửa hàng khác."
+            },
+            {
+              "text": "可以等到货再换。",
+              "id": "s32_2_0006_reply02",
+              "meaning_vi": "Có thể đợi hàng về rồi đổi."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "没库存不等于必须等货，可继续问调货、退款或其他可行办法。",
+              "text_vi": "Hết hàng không bắt buộc phải đợi; có thể hỏi điều hàng, đổi phương án hoặc trả hàng."
+            }
+          ],
+          "pinyin": "méi huò zěn me huàn",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Hết hàng thì đổi thế nào?"
+        },
+        {
+          "id": "s32_2_0007",
+          "level": "must",
+          "text": "换货要重开单吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不用，原订单就行。",
+              "id": "s32_2_0007_reply01",
+              "meaning_vi": "Không cần, dùng đơn cũ là được."
+            },
+            {
+              "text": "要，我给您开换货单。",
+              "id": "s32_2_0007_reply02",
+              "meaning_vi": "Có, để tôi lập phiếu đổi hàng."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“重开单”可能是重新开单据或生成换货记录，不一定指重新开普通购物小票或税务发票。",
+              "text_vi": "“重开单” có thể là lập phiếu đổi hàng mới, không nhất thiết là hóa đơn thuế hay biên lai mua mới."
+            }
+          ],
+          "pinyin": "huàn huò yào chóng kāi dān ma",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Đổi hàng có cần lập lại phiếu không?"
+        },
+        {
+          "id": "s32_2_0008",
+          "level": "must",
+          "text": "这个型号能换吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我查下换货条件。",
+              "id": "s32_2_0008_reply01",
+              "meaning_vi": "Để tôi kiểm tra điều kiện đổi hàng."
+            },
+            {
+              "text": "可以，先把商品拿来。",
+              "id": "s32_2_0008_reply02",
+              "meaning_vi": "Được, anh/chị mang sản phẩm đến trước."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“这个型号能换吗”要结合正在拿的商品理解：询问这个型号能否退换，不等于一定换成该型号。",
+              "text_vi": "Câu này hỏi mẫu đang cầm có được đổi không, không nhất thiết muốn đổi sang chính mẫu đó."
+            }
+          ],
+          "pinyin": "zhè ge xíng hào néng huàn ma",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Mẫu này có đổi được không?"
+        },
+        {
+          "id": "s32_2_0009",
+          "level": "must",
+          "text": "换贵的要补多少？",
+          "alternatives": [
+            {
+              "text": "换这款要加多少钱？",
+              "id": "s32_2_0009_alt01",
+              "meaning_vi": "Đổi sang mẫu này cần trả thêm bao nhiêu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还要补三十块。",
+              "id": "s32_2_0009_reply01",
+              "meaning_vi": "Cần bù thêm 30 tệ."
+            },
+            {
+              "text": "我算下差价告诉您。",
+              "id": "s32_2_0009_reply02",
+              "meaning_vi": "Để tôi tính chênh lệch rồi báo anh/chị."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“补多少”只问两件商品的应补差价，不是让顾客重新支付新商品的全部售价。",
+              "text_vi": "Hỏi “bù bao nhiêu” là hỏi phần chênh lệch, không phải trả lại toàn bộ giá món mới."
+            }
+          ],
+          "pinyin": "huàn guì de yào bǔ duō shǎo",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Đổi sang loại đắt hơn thì bù bao nhiêu?"
+        },
+        {
+          "id": "s32_2_0010",
+          "level": "listen",
+          "text": "可以换。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那就换这款吧。",
+              "id": "s32_2_0010_reply01",
+              "meaning_vi": "Vậy đổi sang mẫu này nhé."
+            },
+            {
+              "text": "还要补钱吗？",
+              "id": "s32_2_0010_reply02",
+              "meaning_vi": "Còn phải bù tiền không?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [],
+          "pinyin": "kě yǐ huàn",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Đổi được."
+        },
+        {
+          "id": "s32_2_0011",
+          "level": "listen",
+          "text": "这款没货了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "别的店还有吗？",
+              "id": "s32_2_0011_reply01",
+              "meaning_vi": "Cửa hàng khác còn không?"
+            },
+            {
+              "text": "什么时候能到货？",
+              "id": "s32_2_0011_reply02",
+              "meaning_vi": "Khi nào hàng về?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“没货了”只表示这款当前缺货，不代表永远买不到；可问其他门店、补货或退货。",
+              "text_vi": "“Hết hàng” chỉ tình trạng hiện tại, có thể hỏi nơi khác hoặc khi hàng về."
+            }
+          ],
+          "pinyin": "zhè kuǎn méi huò le",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Mẫu này hết hàng rồi."
+        },
+        {
+          "id": "s32_2_0012",
+          "level": "listen",
+          "text": "要补二十块。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我补二十。",
+              "id": "s32_2_0012_reply01",
+              "meaning_vi": "Được, tôi trả thêm 20 tệ."
+            },
+            {
+              "text": "能扫码补吗？",
+              "id": "s32_2_0012_reply02",
+              "meaning_vi": "Quét mã trả phần chênh được không?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“补二十块”指换更贵的商品时再支付二十元，与商家退回二十元的“退差价”方向相反。",
+              "text_vi": "“Bù 20 tệ” là khách trả thêm, trái với “hoàn lại 20 tệ”."
+            }
+          ],
+          "pinyin": "yào bǔ èr shí kuài",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Cần bù thêm 20 tệ."
+        },
+        {
+          "id": "s32_2_0013",
+          "level": "listen",
+          "text": "只能换同价的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我看看同价的。",
+              "id": "s32_2_0013_reply01",
+              "meaning_vi": "Vậy tôi xem loại cùng giá."
+            },
+            {
+              "text": "补差价也不行吗？",
+              "id": "s32_2_0013_reply02",
+              "meaning_vi": "Trả bù chênh lệch cũng không được à?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“只能换同价的”表示只允许交换同价格商品，即使愿意补差价也未必接受。",
+              "text_vi": "“Chỉ đổi cùng giá” nghĩa là chưa chắc cho đổi sang hàng đắt hơn dù khách muốn bù."
+            }
+          ],
+          "pinyin": "zhǐ néng huàn tóng jià de",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Chỉ được đổi sang hàng cùng giá."
+        },
+        {
+          "id": "s32_2_0014",
+          "level": "listen",
+          "text": "这个颜色还有货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那给我换这个颜色。",
+              "id": "s32_2_0014_reply01",
+              "meaning_vi": "Vậy đổi sang màu này cho tôi."
+            },
+            {
+              "text": "能拿来看看吗？",
+              "id": "s32_2_0014_reply02",
+              "meaning_vi": "Lấy ra cho tôi xem được không?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [],
+          "pinyin": "zhè ge yán sè hái yǒu huò",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Màu này còn hàng."
+        },
+        {
+          "id": "s32_2_0015",
+          "level": "listen",
+          "text": "差价会退给您。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "退到哪里？",
+              "id": "s32_2_0015_reply01",
+              "meaning_vi": "Tiền hoàn về đâu?"
+            },
+            {
+              "text": "大概多久能退？",
+              "id": "s32_2_0015_reply02",
+              "meaning_vi": "Khoảng bao lâu sẽ hoàn?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“退差价”通常发生在换成更便宜的商品时；要确认实退金额及退款路径。",
+              "text_vi": "Hoàn chênh lệch thường khi đổi sang món rẻ hơn; nên hỏi rõ số tiền và cách hoàn."
+            }
+          ],
+          "pinyin": "chā jià huì tuì gěi nín",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Tiền chênh lệch sẽ được hoàn lại cho anh/chị."
+        },
+        {
+          "id": "s32_2_0016",
+          "level": "listen",
+          "text": "这款能换尺码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我要大一码的。",
+              "id": "s32_2_0016_reply01",
+              "meaning_vi": "Vậy tôi lấy cỡ lớn hơn một số."
+            },
+            {
+              "text": "还有L码吗？",
+              "id": "s32_2_0016_reply02",
+              "meaning_vi": "Còn cỡ L không?"
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [],
+          "pinyin": "zhè kuǎn néng huàn chǐ mǎ",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Mẫu này đổi kích cỡ được."
+        },
+        {
+          "id": "s32_2_0017",
+          "level": "listen",
+          "text": "差价多退少补。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我还要补多少？",
+              "id": "s32_2_0017_reply01",
+              "meaning_vi": "Vậy tôi còn phải bù bao nhiêu?"
+            },
+            {
+              "text": "好，帮我算下差价。",
+              "id": "s32_2_0017_reply02",
+              "meaning_vi": "Được, tính tiền chênh lệch giúp tôi."
+            }
+          ],
+          "lesson_id": "32.2",
+          "lesson_title": "32.2 申请换货",
+          "mistakes": [
+            {
+              "text": "“多退少补”不是无条件返钱：换便宜商品退差额，换贵商品补差额。",
+              "text_vi": "“多退少补”: đổi hàng rẻ hoàn chênh, đổi hàng đắt trả bù, không phải lúc nào cũng nhận tiền."
+            }
+          ],
+          "pinyin": "chā jià duō tuì shǎo bǔ",
+          "lesson_title_vi": "32.2 Yêu cầu đổi hàng",
+          "meaning_vi": "Đổi sang hàng rẻ hơn được hoàn chênh lệch, đắt hơn thì bù thêm."
+        }
+      ],
+      "opening": "练习换颜色、型号、尺码，询问库存和差价。分清换货、退差价和补差价。",
+      "subtitle": "17张高频卡 · 9必说 + 8必听",
+      "title_vi": "32.2 Yêu cầu đổi hàng",
+      "opening_vi": "Luyện đổi màu, mẫu và kích cỡ, hỏi tồn kho và chênh lệch. Phân biệt đổi hàng, hoàn chênh và bù thêm.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "32.3",
+      "title": "32.3 退款到账",
+      "phrases": [
+        {
+          "id": "s32_3_0001",
+          "level": "must",
+          "text": "什么时候退款？",
+          "alternatives": [
+            {
+              "text": "钱什么时候退给我？",
+              "id": "s32_3_0001_alt01",
+              "meaning_vi": "Khi nào tiền được trả lại cho tôi?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "审核通过就安排退款。",
+              "id": "s32_3_0001_reply01",
+              "meaning_vi": "Duyệt xong sẽ tiến hành hoàn tiền."
+            },
+            {
+              "text": "我帮您查下处理时间。",
+              "id": "s32_3_0001_reply02",
+              "meaning_vi": "Để tôi kiểm tra thời gian xử lý."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "问“什么时候退款”要分清商家开始处理、退款审核完成和钱实际到账；并不一定是同一个时间。",
+              "text_vi": "Phân biệt lúc gửi yêu cầu, lúc duyệt và lúc tiền thực về tài khoản; các mốc này có thể khác."
+            }
+          ],
+          "pinyin": "shén me shí hou tuì kuǎn",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Khi nào tôi được hoàn tiền?"
+        },
+        {
+          "id": "s32_3_0002",
+          "level": "must",
+          "text": "多久能到账？",
+          "alternatives": [
+            {
+              "text": "要等多久才到账？",
+              "id": "s32_3_0002_alt01",
+              "meaning_vi": "Phải chờ bao lâu tiền mới về?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般要两三天。",
+              "id": "s32_3_0002_reply01",
+              "meaning_vi": "Thường mất hai đến ba ngày."
+            },
+            {
+              "text": "要看银行处理速度。",
+              "id": "s32_3_0002_reply02",
+              "meaning_vi": "Còn tùy ngân hàng xử lý nhanh hay chậm."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“到账”是资金确实进到原支付渠道或账户，不是仅仅看到“申请成功”。",
+              "text_vi": "“到账” là tiền thực về tài khoản, không chỉ có thông báo gửi yêu cầu thành công."
+            }
+          ],
+          "pinyin": "duō jiǔ néng dào zhàng",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Bao lâu nữa tiền mới về tài khoản?"
+        },
+        {
+          "id": "s32_3_0003",
+          "level": "must",
+          "text": "退款还没到账。",
+          "alternatives": [
+            {
+              "text": "退的钱我还没收到。",
+              "id": "s32_3_0003_alt01",
+              "meaning_vi": "Tôi vẫn chưa nhận được tiền hoàn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您查下进度。",
+              "id": "s32_3_0003_reply01",
+              "meaning_vi": "Để tôi kiểm tra tiến độ giúp anh/chị."
+            },
+            {
+              "text": "您先看看原支付账户。",
+              "id": "s32_3_0003_reply02",
+              "meaning_vi": "Anh/chị kiểm tra tài khoản đã thanh toán trước nhé."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“还没到账”表示未看到实际入账；先核对原付款渠道和退款编号，不必立刻提供新账户。",
+              "text_vi": "Nếu chưa thấy tiền, kiểm tra tài khoản đã trả và mã hoàn tiền trước khi cung cấp thông tin khác."
+            }
+          ],
+          "pinyin": "tuì kuǎn hái méi dào zhàng",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Tiền hoàn vẫn chưa về tài khoản."
+        },
+        {
+          "id": "s32_3_0004",
+          "level": "must",
+          "text": "能查下退款进度吗？",
+          "alternatives": [
+            {
+              "text": "帮我查下退款进度。",
+              "id": "s32_3_0004_alt01",
+              "meaning_vi": "Kiểm tra tiến độ hoàn tiền giúp tôi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，请提供订单号。",
+              "id": "s32_3_0004_reply01",
+              "meaning_vi": "Được, vui lòng cung cấp mã đơn hàng."
+            },
+            {
+              "text": "能，我现在帮您查。",
+              "id": "s32_3_0004_reply02",
+              "meaning_vi": "Được, tôi kiểm tra ngay cho anh/chị."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“退款进度”问退款处理到了哪一步；审核通过、商家已退款与银行卡实际到账可能是不同阶段。",
+              "text_vi": "Tiến độ hoàn tiền có nhiều bước: xét duyệt, cửa hàng gửi lệnh hoàn, ngân hàng ghi có."
+            }
+          ],
+          "pinyin": "néng chá xià tuì kuǎn jìn dù ma",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Kiểm tra tiến độ hoàn tiền giúp tôi được không?"
+        },
+        {
+          "id": "s32_3_0005",
+          "level": "must",
+          "text": "已经退款了吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "已经退了，您查下账户。",
+              "id": "s32_3_0005_reply01",
+              "meaning_vi": "Đã hoàn rồi, anh/chị kiểm tra tài khoản nhé."
+            },
+            {
+              "text": "还没，正在审核。",
+              "id": "s32_3_0005_reply02",
+              "meaning_vi": "Chưa, vẫn đang xét duyệt."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "退款申请受理、商家发起退款和银行实际到账是三个不同进度。",
+              "text_vi": "Được tiếp nhận, đã phát lệnh hoàn và tiền thực vào tài khoản là ba trạng thái khác nhau."
+            }
+          ],
+          "pinyin": "yǐ jīng tuì kuǎn le ma",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Đã hoàn tiền chưa?"
+        },
+        {
+          "id": "s32_3_0006",
+          "level": "must",
+          "text": "退款怎么少了？",
+          "alternatives": [
+            {
+              "text": "怎么没退全款？",
+              "id": "s32_3_0006_alt01",
+              "meaning_vi": "Sao không hoàn đủ tiền?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您核对金额。",
+              "id": "s32_3_0006_reply01",
+              "meaning_vi": "Để tôi đối chiếu số tiền giúp anh/chị."
+            },
+            {
+              "text": "可能和优惠抵扣有关。",
+              "id": "s32_3_0006_reply02",
+              "meaning_vi": "Có thể liên quan đến ưu đãi đã áp dụng."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "退款金额不符要先核对订单优惠、原实付金额和费用明细。",
+              "text_vi": "Nếu hoàn thiếu, đối chiếu ưu đãi, số tiền đã trả và phí trong đơn hàng."
+            }
+          ],
+          "pinyin": "tuì kuǎn zěn me shǎo le",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Sao số tiền hoàn lại ít hơn?"
+        },
+        {
+          "id": "s32_3_0007",
+          "level": "must",
+          "text": "钱会退到哪儿？",
+          "alternatives": [
+            {
+              "text": "钱退到哪个账户？",
+              "id": "s32_3_0007_alt01",
+              "meaning_vi": "Tiền hoàn về tài khoản nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般退回付款账户。",
+              "id": "s32_3_0007_reply01",
+              "meaning_vi": "Thường hoàn về tài khoản thanh toán ban đầu."
+            },
+            {
+              "text": "您用哪种方式付的？",
+              "id": "s32_3_0007_reply02",
+              "meaning_vi": "Anh/chị đã thanh toán bằng cách nào?"
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "问退款去向时要先核对原支付渠道；不要把“原路退款”误解成随意指定另一个收款账户。",
+              "text_vi": "Hoàn về kênh thanh toán cũ không có nghĩa được tùy ý chỉ định tài khoản mới."
+            }
+          ],
+          "pinyin": "qián huì tuì dào nǎr",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Tiền sẽ hoàn về đâu?"
+        },
+        {
+          "id": "s32_3_0008",
+          "level": "must",
+          "text": "五天了还没到账。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮您催一下。",
+              "id": "s32_3_0008_reply01",
+              "meaning_vi": "Để tôi nhắc bộ phận xử lý giúp anh/chị."
+            },
+            {
+              "text": "我查下是不是还在处理。",
+              "id": "s32_3_0008_reply02",
+              "meaning_vi": "Để tôi xem có còn đang xử lý không."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“五天了”是已过五个日历日，不一定等于五个工作日；超出承诺期限可继续查退款流水。",
+              "text_vi": "“Năm ngày” là năm ngày theo lịch, không chắc bằng năm ngày làm việc; quá hạn hẹn có thể yêu cầu tra soát."
+            }
+          ],
+          "pinyin": "wǔ tiān le hái méi dào zhàng",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Năm ngày rồi mà tiền vẫn chưa về."
+        },
+        {
+          "id": "s32_3_0009",
+          "level": "must",
+          "text": "退到原银行卡吗？",
+          "alternatives": [
+            {
+              "text": "退回原来的卡吗？",
+              "id": "s32_3_0009_alt01",
+              "meaning_vi": "Có hoàn về thẻ cũ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "是的，退回原卡。",
+              "id": "s32_3_0009_reply01",
+              "meaning_vi": "Đúng, hoàn về thẻ ban đầu."
+            },
+            {
+              "text": "要看原支付方式。",
+              "id": "s32_3_0009_reply02",
+              "meaning_vi": "Còn tùy cách thanh toán ban đầu."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "银行卡停用或注销时，应通过银行、原平台官方渠道确认退款去向，不能听信陌生人的“退款验证”转账。",
+              "text_vi": "Thẻ hết hiệu lực thì liên hệ ngân hàng hoặc nền tảng chính thức, không chuyển “phí xác minh” cho người lạ."
+            }
+          ],
+          "pinyin": "tuì dào yuán yín xíng kǎ ma",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Tiền sẽ hoàn về thẻ ngân hàng ban đầu à?"
+        },
+        {
+          "id": "s32_3_0010",
+          "level": "listen",
+          "text": "退款申请已提交。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概多久能审核好？",
+              "id": "s32_3_0010_reply01",
+              "meaning_vi": "Khoảng bao lâu mới duyệt xong?"
+            },
+            {
+              "text": "好，审核后通知我吧。",
+              "id": "s32_3_0010_reply02",
+              "meaning_vi": "Được, duyệt xong báo tôi nhé."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“已提交”表示申请已经发送，尚不等于已受理、已批准或已到账。",
+              "text_vi": "“已提交” là đã gửi yêu cầu, chưa có nghĩa đã duyệt hoặc tiền về."
+            }
+          ],
+          "pinyin": "tuì kuǎn shēn qǐng yǐ tí jiāo",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Đã gửi yêu cầu hoàn tiền."
+        },
+        {
+          "id": "s32_3_0011",
+          "level": "listen",
+          "text": "三到五个工作日。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是从今天算吗？",
+              "id": "s32_3_0011_reply01",
+              "meaning_vi": "Tính từ hôm nay à?"
+            },
+            {
+              "text": "好，到时我再查。",
+              "id": "s32_3_0011_reply02",
+              "meaning_vi": "Được, đến lúc đó tôi kiểm tra lại."
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“工作日”一般排除周末及法定假日；与连续的三到五个自然日不同，具体以实际渠道为准。",
+              "text_vi": "Ngày làm việc thường không tính cuối tuần và lễ, khác số ngày liên tục theo lịch."
+            }
+          ],
+          "pinyin": "sān dào wǔ ge gōng zuò rì",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Ba đến năm ngày làm việc."
+        },
+        {
+          "id": "s32_3_0012",
+          "level": "listen",
+          "text": "原路退回。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我查下原账户。",
+              "id": "s32_3_0012_reply01",
+              "meaning_vi": "Được, tôi kiểm tra tài khoản cũ."
+            },
+            {
+              "text": "原来的卡停用了，怎么办？",
+              "id": "s32_3_0012_reply02",
+              "meaning_vi": "Thẻ cũ ngừng dùng rồi, phải làm sao?"
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“原路退回”说明返款渠道，不代表原银行卡停用时可以私下指定陌生人的账户接收。",
+              "text_vi": "“原路退回” chỉ kênh hoàn tiền; nếu thẻ cũ ngừng dùng, hãy liên hệ kênh chính thức."
+            }
+          ],
+          "pinyin": "yuán lù tuì huí",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Hoàn về phương thức thanh toán ban đầu."
+        },
+        {
+          "id": "s32_3_0013",
+          "level": "listen",
+          "text": "系统显示已退款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可我还没收到钱。",
+              "id": "s32_3_0013_reply01",
+              "meaning_vi": "Nhưng tôi vẫn chưa nhận được tiền."
+            },
+            {
+              "text": "能给我退款单号吗？",
+              "id": "s32_3_0013_reply02",
+              "meaning_vi": "Cho tôi xin mã hoàn tiền được không?"
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "平台显示“已退款”可能是商家已发起退回，钱不一定立刻到银行；可凭退款单号继续查。",
+              "text_vi": "Hiển thị “đã hoàn” có thể là mới phát lệnh; tiền chưa chắc về ngân hàng ngay. Tra cứu bằng mã hoàn."
+            }
+          ],
+          "pinyin": "xì tǒng xiǎn shì yǐ tuì kuǎn",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Hệ thống hiển thị đã hoàn tiền."
+        },
+        {
+          "id": "s32_3_0014",
+          "level": "listen",
+          "text": "银行到账可能晚点。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我再等一天。",
+              "id": "s32_3_0014_reply01",
+              "meaning_vi": "Vậy tôi đợi thêm một ngày."
+            },
+            {
+              "text": "能帮我查单号吗？",
+              "id": "s32_3_0014_reply02",
+              "meaning_vi": "Kiểm tra mã giao dịch giúp tôi được không?"
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“可能晚点”是到账延迟的解释，不是已经确认成功；超过预计时间应要求核对流水。",
+              "text_vi": "Tiền “có thể về trễ” không phải xác nhận đã hoàn tất; quá thời gian hẹn nên tra soát."
+            }
+          ],
+          "pinyin": "yín xíng dào zhàng kě néng wǎn diǎn",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Tiền có thể về tài khoản ngân hàng muộn hơn."
+        },
+        {
+          "id": "s32_3_0015",
+          "level": "listen",
+          "text": "退款单号在这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我保存一下。",
+              "id": "s32_3_0015_reply01",
+              "meaning_vi": "Được, để tôi lưu lại."
+            },
+            {
+              "text": "这个号可以查询吗？",
+              "id": "s32_3_0015_reply02",
+              "meaning_vi": "Có thể tra cứu bằng mã này không?"
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "退款单号用于追踪退款流程，和商品订单号、付款交易号不一定相同。",
+              "text_vi": "Mã hoàn tiền khác với mã đơn hàng hoặc mã giao dịch trả tiền, dùng để theo dõi hoàn tiền."
+            }
+          ],
+          "pinyin": "tuì kuǎn dān hào zài zhè lǐ",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Mã hoàn tiền ở đây."
+        },
+        {
+          "id": "s32_3_0016",
+          "level": "listen",
+          "text": "还是退到原账户。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去查一下。",
+              "id": "s32_3_0016_reply01",
+              "meaning_vi": "Được, để tôi kiểm tra."
+            },
+            {
+              "text": "那个账户停用了，怎么办？",
+              "id": "s32_3_0016_reply02",
+              "meaning_vi": "Tài khoản đó ngừng hoạt động rồi, phải làm sao?"
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "原账户停用时，不要凭口头答复让陌生人改收款账户；请走平台或银行官方客服核实。",
+              "text_vi": "Nếu tài khoản cũ ngừng hoạt động, xác minh qua ngân hàng hoặc nền tảng chính thức."
+            }
+          ],
+          "pinyin": "hái shì tuì dào yuán zhàng hù",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Vẫn hoàn về tài khoản ban đầu."
+        },
+        {
+          "id": "s32_3_0017",
+          "level": "listen",
+          "text": "退款申请已受理。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那多久能处理好？",
+              "id": "s32_3_0017_reply01",
+              "meaning_vi": "Vậy bao lâu mới xử lý xong?"
+            },
+            {
+              "text": "好，会通知我吗？",
+              "id": "s32_3_0017_reply02",
+              "meaning_vi": "Được, có báo cho tôi không?"
+            }
+          ],
+          "lesson_id": "32.3",
+          "lesson_title": "32.3 退款到账",
+          "mistakes": [
+            {
+              "text": "“已受理”只是平台或商家已接收退款申请，不能理解成“审核通过”或“已经退款”。",
+              "text_vi": "“已受理” là đã tiếp nhận yêu cầu, chưa phải duyệt hay đã hoàn."
+            }
+          ],
+          "pinyin": "tuì kuǎn shēn qǐng yǐ shòu lǐ",
+          "lesson_title_vi": "32.3 Tiền hoàn về tài khoản",
+          "meaning_vi": "Yêu cầu hoàn tiền đã được tiếp nhận."
+        }
+      ],
+      "opening": "练习查询退款申请、审核和到账进度，确认退款去向和金额。分清“已提交”“已受理”“已退款”“已到账”。",
+      "subtitle": "17张高频卡 · 9必说 + 8必听",
+      "title_vi": "32.3 Tiền hoàn về tài khoản",
+      "opening_vi": "Luyện tra cứu tiến độ xét duyệt, hoàn tiền và lúc tiền thực vào tài khoản; phân biệt đã gửi, đã tiếp nhận, đã hoàn và đã nhận tiền.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "32.4",
+      "title": "32.4 售后保修",
+      "phrases": [
+        {
+          "id": "s32_4_0001",
+          "level": "must",
+          "text": "这个还保修吗？",
+          "alternatives": [
+            {
+              "text": "还在保修期内吗？",
+              "id": "s32_4_0001_alt01",
+              "meaning_vi": "Vẫn còn trong hạn bảo hành chứ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我查下购买日期。",
+              "id": "s32_4_0001_reply01",
+              "meaning_vi": "Để tôi kiểm tra ngày mua."
+            },
+            {
+              "text": "这款保修一年。",
+              "id": "s32_4_0001_reply02",
+              "meaning_vi": "Mẫu này được bảo hành một năm."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“保修”指在规定范围、期限内提供维修等服务，不等于商品一定可以无条件退货或换新。",
+              "text_vi": "“保修” là sửa chữa trong phạm vi và thời hạn quy định, không đảm bảo được đổi hoặc trả vô điều kiện."
+            }
+          ],
+          "pinyin": "zhè ge hái bǎo xiū ma",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Cái này còn bảo hành không?"
+        },
+        {
+          "id": "s32_4_0002",
+          "level": "must",
+          "text": "我想修一下。",
+          "alternatives": [
+            {
+              "text": "这个能修吗？",
+              "id": "s32_4_0002_alt01",
+              "meaning_vi": "Cái này sửa được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪里坏了？",
+              "id": "s32_4_0002_reply01",
+              "meaning_vi": "Bị hỏng chỗ nào?"
+            },
+            {
+              "text": "先把商品拿来看看。",
+              "id": "s32_4_0002_reply02",
+              "meaning_vi": "Mang sản phẩm tới cho tôi xem trước."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“我想修一下”是希望找人维修商品，不一定是说自己要动手拆开维修。",
+              "text_vi": "Muốn sửa hàng thường là nhờ dịch vụ sửa, không phải tự tháo sản phẩm."
+            }
+          ],
+          "pinyin": "wǒ xiǎng xiū yí xià",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Tôi muốn mang cái này đi sửa."
+        },
+        {
+          "id": "s32_4_0003",
+          "level": "must",
+          "text": "用了两天就坏了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先帮您检测。",
+              "id": "s32_4_0003_reply01",
+              "meaning_vi": "Để tôi kiểm tra lỗi cho anh/chị."
+            },
+            {
+              "text": "您有购买记录吗？",
+              "id": "s32_4_0003_reply02",
+              "meaning_vi": "Anh/chị có thông tin mua hàng không?"
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [],
+          "pinyin": "yòng le liǎng tiān jiù huài le",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Mới dùng hai ngày đã hỏng."
+        },
+        {
+          "id": "s32_4_0004",
+          "level": "must",
+          "text": "保修多久？",
+          "alternatives": [
+            {
+              "text": "保修期多长？",
+              "id": "s32_4_0004_alt01",
+              "meaning_vi": "Thời hạn bảo hành bao lâu?"
+            },
+            {
+              "text": "这个保修几年？",
+              "id": "s32_4_0004_alt02",
+              "meaning_vi": "Cái này được bảo hành mấy năm?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这款保修一年。",
+              "id": "s32_4_0004_reply01",
+              "meaning_vi": "Mẫu này được bảo hành một năm."
+            },
+            {
+              "text": "我帮您查具体期限。",
+              "id": "s32_4_0004_reply02",
+              "meaning_vi": "Để tôi kiểm tra thời hạn cụ thể."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“保修多久”问保修期限；期限较长也不代表所有损坏都包括在保修范围内。",
+              "text_vi": "Thời hạn bảo hành dài không có nghĩa mọi hư hỏng đều được bảo hành."
+            }
+          ],
+          "pinyin": "bǎo xiū duō jiǔ",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Bảo hành bao lâu?"
+        },
+        {
+          "id": "s32_4_0005",
+          "level": "must",
+          "text": "能换新的吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先检测一下再说。",
+              "id": "s32_4_0005_reply01",
+              "meaning_vi": "Kiểm tra lỗi trước rồi tính nhé."
+            },
+            {
+              "text": "符合换新条件就可以。",
+              "id": "s32_4_0005_reply02",
+              "meaning_vi": "Đủ điều kiện đổi mới thì được."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“换新的”是要求更换新商品，和修好旧商品不同；是否能换新应核对售后规则。",
+              "text_vi": "Đổi sản phẩm mới khác với sửa món cũ; phải kiểm tra điều kiện đổi."
+            }
+          ],
+          "pinyin": "néng huàn xīn de ma",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Có thể đổi cái mới không?"
+        },
+        {
+          "id": "s32_4_0006",
+          "level": "must",
+          "text": "售后在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在二楼服务台。",
+              "id": "s32_4_0006_reply01",
+              "meaning_vi": "Ở quầy dịch vụ tầng hai."
+            },
+            {
+              "text": "右边进去就是。",
+              "id": "s32_4_0006_reply02",
+              "meaning_vi": "Đi vào bên phải là tới."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“售后”指退换、维修、保修等售后服务处，不是只问刚才卖货的柜台。中国“二楼”通常是地面入口上一层，实际看楼层指示。",
+              "text_vi": "“售后” là dịch vụ đổi trả, sửa chữa và bảo hành. Ở Trung Quốc “二楼” là tầng trên tầng trệt; xem biển chỉ dẫn."
+            }
+          ],
+          "pinyin": "shòu hòu zài nǎr",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Bộ phận hậu mãi ở đâu?"
+        },
+        {
+          "id": "s32_4_0007",
+          "level": "must",
+          "text": "要先检测吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，先查故障原因。",
+              "id": "s32_4_0007_reply01",
+              "meaning_vi": "Có, cần xác định nguyên nhân lỗi trước."
+            },
+            {
+              "text": "先登记，再安排检测。",
+              "id": "s32_4_0007_reply02",
+              "meaning_vi": "Đăng ký trước rồi sẽ sắp xếp kiểm tra."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“检测”是先查清故障和原因，不表示已经修好；检测后还应确认是否保修、费用及维修时间。",
+              "text_vi": "“检测” là tìm lỗi và nguyên nhân, không phải sửa xong; hãy hỏi chi phí và thời gian tiếp theo."
+            }
+          ],
+          "pinyin": "yào xiān jiǎn cè ma",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Có cần kiểm tra lỗi trước không?"
+        },
+        {
+          "id": "s32_4_0008",
+          "level": "must",
+          "text": "维修收费吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "保修范围内可以免费修。",
+              "id": "s32_4_0008_reply01",
+              "meaning_vi": "Trong phạm vi bảo hành thì được sửa miễn phí."
+            },
+            {
+              "text": "要看检测结果。",
+              "id": "s32_4_0008_reply02",
+              "meaning_vi": "Còn phải xem kết quả kiểm tra."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "在保修期内也要看故障是否在保修范围；不是所有维修都免费。",
+              "text_vi": "Còn hạn bảo hành không đồng nghĩa mọi sửa chữa đều miễn phí; tùy phạm vi lỗi."
+            }
+          ],
+          "pinyin": "wéi xiū shōu fèi ma",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Sửa chữa có tính phí không?"
+        },
+        {
+          "id": "s32_4_0009",
+          "level": "must",
+          "text": "维修要多久？",
+          "alternatives": [
+            {
+              "text": "修好要几天？",
+              "id": "s32_4_0009_alt01",
+              "meaning_vi": "Mất mấy ngày mới sửa xong?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "大概两三天。",
+              "id": "s32_4_0009_reply01",
+              "meaning_vi": "Khoảng hai, ba ngày."
+            },
+            {
+              "text": "检查完才能确定。",
+              "id": "s32_4_0009_reply02",
+              "meaning_vi": "Kiểm tra xong mới xác định được."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“大概两三天”是预计维修时间，不是承诺两天内一定修好；可请店员完成后通知。",
+              "text_vi": "“Hai, ba ngày” là thời gian dự kiến, không phải cam kết chính xác; có thể xin thông báo khi xong."
+            }
+          ],
+          "pinyin": "wéi xiū yào duō jiǔ",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Sửa mất bao lâu?"
+        },
+        {
+          "id": "s32_4_0010",
+          "level": "must",
+          "text": "修不好能换新吗？",
+          "alternatives": [
+            {
+              "text": "修不了能换新吗？",
+              "id": "s32_4_0010_alt01",
+              "meaning_vi": "Nếu không sửa được, có đổi mới được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "得看换新条件。",
+              "id": "s32_4_0010_reply01",
+              "meaning_vi": "Còn phải xem điều kiện đổi mới."
+            },
+            {
+              "text": "先检测，符合条件可以申请。",
+              "id": "s32_4_0010_reply02",
+              "meaning_vi": "Kiểm tra trước, đủ điều kiện thì có thể gửi yêu cầu."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "修不了不代表可以直接换新，可能还需故障检测、核对保修与换货条件。",
+              "text_vi": "Không sửa được chưa chắc đổi mới ngay; có thể phải kiểm tra lỗi và điều kiện."
+            }
+          ],
+          "pinyin": "xiū bù hǎo néng huàn xīn ma",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Không sửa được thì có đổi mới được không?"
+        },
+        {
+          "id": "s32_4_0011",
+          "level": "listen",
+          "text": "得先检测。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，要等多久？",
+              "id": "s32_4_0011_reply01",
+              "meaning_vi": "Được, phải đợi bao lâu?"
+            },
+            {
+              "text": "需要带什么材料？",
+              "id": "s32_4_0011_reply02",
+              "meaning_vi": "Cần mang theo giấy tờ gì?"
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“得先检测”表示先检查故障，不表示必须已经同意收费维修；如有检测费应另确认。",
+              "text_vi": "“Phải kiểm tra trước” chưa có nghĩa khách đồng ý trả phí sửa; hỏi rõ phí kiểm tra riêng."
+            }
+          ],
+          "pinyin": "děi xiān jiǎn cè",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Phải kiểm tra lỗi trước."
+        },
+        {
+          "id": "s32_4_0012",
+          "level": "listen",
+          "text": "人为损坏不保修。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那自费修多少钱？",
+              "id": "s32_4_0012_reply01",
+              "meaning_vi": "Vậy tự trả tiền sửa thì hết bao nhiêu?"
+            },
+            {
+              "text": "能给我检测结果吗？",
+              "id": "s32_4_0012_reply02",
+              "meaning_vi": "Cho tôi xin kết quả kiểm tra được không?"
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“人为损坏”指因人为操作等导致的损坏；是否属于人为损坏应根据检测事实判断，不是店员口头说了就必然成立。",
+              "text_vi": "“Hư hỏng do người dùng” cần căn cứ kết quả kiểm tra, không chỉ lời nói của nhân viên."
+            }
+          ],
+          "pinyin": "rén wéi sǔn huài bù bǎo xiū",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Hỏng do người dùng gây ra thì không được bảo hành."
+        },
+        {
+          "id": "s32_4_0013",
+          "level": "listen",
+          "text": "这台可以免费修。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那麻烦帮我修一下。",
+              "id": "s32_4_0013_reply01",
+              "meaning_vi": "Vậy phiền anh/chị sửa giúp tôi."
+            },
+            {
+              "text": "大概什么时候能取？",
+              "id": "s32_4_0013_reply02",
+              "meaning_vi": "Khoảng khi nào tôi tới lấy được?"
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“免费修”指这次确认可以免费维修，并不代表其他零件或以后所有维修也免费。",
+              "text_vi": "Sửa miễn phí cho lần được chấp thuận này không có nghĩa mọi lần sửa đều miễn phí."
+            }
+          ],
+          "pinyin": "zhè tái kě yǐ miǎn fèi xiū",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Máy này được sửa miễn phí."
+        },
+        {
+          "id": "s32_4_0014",
+          "level": "listen",
+          "text": "请带购买凭证。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "电子订单可以吗？",
+              "id": "s32_4_0014_reply01",
+              "meaning_vi": "Dùng đơn điện tử được không?"
+            },
+            {
+              "text": "好，我把发票带来。",
+              "id": "s32_4_0014_reply02",
+              "meaning_vi": "Được, tôi mang hóa đơn đến."
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“购买凭证”可指购物小票、发票或可核实的订单记录；实际接受哪种材料要问维修服务处。",
+              "text_vi": "Chứng từ mua hàng có thể là biên lai, hóa đơn hoặc đơn xác minh được; hãy hỏi nơi bảo hành."
+            }
+          ],
+          "pinyin": "qǐng dài gòu mǎi píng zhèng",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Vui lòng mang theo chứng từ mua hàng."
+        },
+        {
+          "id": "s32_4_0015",
+          "level": "listen",
+          "text": "检测要两天。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，检查完通知我。",
+              "id": "s32_4_0015_reply01",
+              "meaning_vi": "Được, kiểm tra xong báo tôi nhé."
+            },
+            {
+              "text": "那我后天再来？",
+              "id": "s32_4_0015_reply02",
+              "meaning_vi": "Vậy ngày kia tôi quay lại?"
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "“检测要两天”是检查故障预计需两天，不是说两天后一定已修好可取件。",
+              "text_vi": "“Kiểm tra mất hai ngày” chưa có nghĩa hai ngày là sửa xong."
+            }
+          ],
+          "pinyin": "jiǎn cè yào liǎng tiān",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Kiểm tra lỗi mất hai ngày."
+        },
+        {
+          "id": "s32_4_0016",
+          "level": "listen",
+          "text": "过保修期要收费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那维修费是多少？",
+              "id": "s32_4_0016_reply01",
+              "meaning_vi": "Vậy phí sửa chữa bao nhiêu?"
+            },
+            {
+              "text": "能先报价再修吗？",
+              "id": "s32_4_0016_reply02",
+              "meaning_vi": "Báo giá trước rồi mới sửa được không?"
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [
+            {
+              "text": "过保维修最好先确认检测费、维修报价和是否需要同意才开修。",
+              "text_vi": "Hết hạn bảo hành nên xác nhận phí kiểm tra, báo giá và chỉ sửa khi khách đồng ý."
+            }
+          ],
+          "pinyin": "guò bǎo xiū qī yào shōu fèi",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Hết hạn bảo hành thì phải trả phí."
+        },
+        {
+          "id": "s32_4_0017",
+          "level": "listen",
+          "text": "修好后通知您。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，麻烦发短信。",
+              "id": "s32_4_0017_reply01",
+              "meaning_vi": "Được, phiền gửi tin nhắn."
+            },
+            {
+              "text": "大概多久能修好？",
+              "id": "s32_4_0017_reply02",
+              "meaning_vi": "Khoảng bao lâu mới sửa xong?"
+            }
+          ],
+          "lesson_id": "32.4",
+          "lesson_title": "32.4 售后保修",
+          "mistakes": [],
+          "pinyin": "xiū hǎo hòu tōng zhī nín",
+          "lesson_title_vi": "32.4 Hậu mãi và bảo hành",
+          "meaning_vi": "Sửa xong sẽ báo cho anh/chị."
+        }
+      ],
+      "opening": "练习询问售后、保修期限、故障检测、维修报价和换新。检测完成不代表维修完成。",
+      "subtitle": "17张高频卡 · 10必说 + 7必听",
+      "title_vi": "32.4 Hậu mãi và bảo hành",
+      "opening_vi": "Luyện hỏi thời hạn bảo hành, kiểm tra lỗi, báo giá sửa và đổi mới. Kiểm tra xong không có nghĩa đã sửa xong.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    }
+  ],
+  "card_count": 69,
+  "lesson_counts": {
+    "32.1": 18,
+    "32.2": 17,
+    "32.3": 17,
+    "32.4": 17
+  },
+  "theme_title_vi": "32 Đổi trả hàng và hoàn tiền"
+}
