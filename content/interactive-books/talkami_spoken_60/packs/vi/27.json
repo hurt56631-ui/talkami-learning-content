@@ -1,0 +1,2554 @@
+{
+  "theme_id": "27",
+  "version": 1,
+  "updated_at": "2026-11-02T15:19:47.426Z",
+  "theme_title": "27 超市便利店",
+  "quality_standard": "Independent Vietnamese adaptation theme 27. Source Chinese, pinyin, IDs, levels, order, nested cards and card_count unchanged. 斤=500g; 8折=pay 80%; 82 food/checkout usage notes translated. Native speaker/audio/app QA pending.",
+  "source_phrase_count": 83,
+  "lessons": [
+    {
+      "id": "27.1",
+      "title": "27.1 寻找商品",
+      "phrases": [
+        {
+          "id": "s27_1_0001",
+          "level": "must",
+          "text": "请问牛奶在哪儿？",
+          "alternatives": [
+            {
+              "text": "牛奶在哪儿？",
+              "id": "s27_1_0001_alt01",
+              "meaning_vi": "Sữa ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在第三排。",
+              "id": "s27_1_0001_reply01",
+              "meaning_vi": "Ở dãy thứ ba."
+            },
+            {
+              "text": "我带您过去。",
+              "id": "s27_1_0001_reply02",
+              "meaning_vi": "Để tôi dẫn anh/chị tới."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“在哪儿”问位置；店员答“第三排”指第3条货架通道，不是三楼。",
+              "text_vi": "“在哪儿” hỏi vị trí; “第三排” ở siêu thị là dãy kệ thứ ba, không phải tầng ba."
+            }
+          ],
+          "pinyin": "qǐng wèn niú nǎi zài nǎr",
+          "meaning_vi": "Xin hỏi sữa ở đâu ạ?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0002",
+          "level": "must",
+          "text": "有矿泉水吗？",
+          "alternatives": [
+            {
+              "text": "有瓶装水吗？",
+              "id": "s27_1_0002_alt01",
+              "meaning_vi": "Có nước đóng chai không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，在那边。",
+              "id": "s27_1_0002_reply01",
+              "meaning_vi": "Có, ở bên kia."
+            },
+            {
+              "text": "暂时没货。",
+              "id": "s27_1_0002_reply02",
+              "meaning_vi": "Tạm thời hết hàng."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“矿泉水”是矿泉水；“瓶装水”只是瓶装饮用水，不一定都是矿泉水，购买前看瓶身名称。",
+              "text_vi": "“矿泉水” là nước khoáng; “瓶装水” chỉ nước uống đóng chai, chưa chắc là nước khoáng. Hãy xem nhãn chai."
+            }
+          ],
+          "pinyin": "yǒu kuàng quán shuǐ ma",
+          "meaning_vi": "Có nước khoáng không?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0003",
+          "level": "must",
+          "text": "纸巾在哪一排？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在第三排。",
+              "id": "s27_1_0003_reply01",
+              "meaning_vi": "Ở dãy thứ ba."
+            },
+            {
+              "text": "我带您过去。",
+              "id": "s27_1_0003_reply02",
+              "meaning_vi": "Để tôi dẫn anh/chị tới."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "超市“一排”通常是货架通道；“第几排”问排列位置，不是楼层。",
+              "text_vi": "“一排” trong siêu thị thường là một dãy kệ; “第几排” hỏi dãy nào, không phải tầng mấy."
+            }
+          ],
+          "pinyin": "zhǐ jīn zài nǎ yì pái",
+          "meaning_vi": "Khăn giấy ở dãy nào?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0004",
+          "level": "must",
+          "text": "我找不到这个牌子。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮您找。",
+              "id": "s27_1_0004_reply01",
+              "meaning_vi": "Để tôi tìm giúp anh/chị."
+            },
+            {
+              "text": "我带您过去。",
+              "id": "s27_1_0004_reply02",
+              "meaning_vi": "Để tôi dẫn anh/chị tới."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“牌子”在这里指商品品牌，不能误解为货架上的价格标签；找不到品牌可请店员推荐同类商品。",
+              "text_vi": "“牌子” ở đây là thương hiệu, không phải nhãn giá trên kệ. Có thể nhờ nhân viên giới thiệu hãng tương tự."
+            }
+          ],
+          "pinyin": "wǒ zhǎo bu dào zhè ge pái zi",
+          "meaning_vi": "Tôi không tìm được nhãn hiệu này.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0005",
+          "level": "must",
+          "text": "麻烦指一下。",
+          "alternatives": [
+            {
+              "text": "麻烦指给我看一下。",
+              "id": "s27_1_0005_alt01",
+              "meaning_vi": "Phiền chỉ cho tôi xem."
+            }
+          ],
+          "replies": [
+            {
+              "text": "在那边。",
+              "id": "s27_1_0005_reply01",
+              "meaning_vi": "Ở phía kia."
+            },
+            {
+              "text": "我给您指一下。",
+              "id": "s27_1_0005_reply02",
+              "meaning_vi": "Để tôi chỉ cho anh/chị."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“指一下”请求对方指出位置或方向，不是要求对方必须亲自带路；“麻烦”使请求更客气。",
+              "text_vi": "“指一下” là nhờ chỉ vị trí hoặc hướng, không bắt nhân viên phải dẫn đến tận nơi; “麻烦” làm lời nhờ lịch sự."
+            }
+          ],
+          "pinyin": "má fan zhǐ yí xià",
+          "meaning_vi": "Phiền chỉ giúp một chút.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0006",
+          "level": "must",
+          "text": "这个牌子还有吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，在那边。",
+              "id": "s27_1_0006_reply01",
+              "meaning_vi": "Có, ở bên kia."
+            },
+            {
+              "text": "暂时没货。",
+              "id": "s27_1_0006_reply02",
+              "meaning_vi": "Tạm thời hết hàng."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“这个牌子还有吗”问这一品牌是否还有货，不表示想换另一个品牌；“还有”不等于促销赠品。",
+              "text_vi": "“这个牌子还有吗” hỏi một thương hiệu cụ thể còn hàng không, không phải hỏi có quà khuyến mãi."
+            }
+          ],
+          "pinyin": "zhè ge pái zi hái yǒu ma",
+          "meaning_vi": "Nhãn hiệu này còn hàng không?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0007",
+          "level": "must",
+          "text": "还有别的牌子吗？",
+          "alternatives": [
+            {
+              "text": "有没有其他牌子的？",
+              "id": "s27_1_0007_alt01",
+              "meaning_vi": "Có loại của hãng khác không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，旁边还有两种牌子。",
+              "id": "s27_1_0007_reply01",
+              "meaning_vi": "Có, cạnh đó còn hai nhãn hiệu nữa."
+            },
+            {
+              "text": "这个品类目前只有这一种牌子。",
+              "id": "s27_1_0007_reply02",
+              "meaning_vi": "Nhóm hàng này hiện chỉ có một nhãn hiệu thôi."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“别的牌子”是其他品牌，和“同一品牌的其他规格或口味”不同。",
+              "text_vi": "“别的牌子” là nhãn hiệu khác, không phải kích cỡ hoặc hương vị khác của cùng một hãng."
+            }
+          ],
+          "pinyin": "hái yǒu bié de pái zi ma",
+          "meaning_vi": "Còn nhãn hiệu khác không?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0008",
+          "level": "must",
+          "text": "牛奶在哪一排？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在第三排。",
+              "id": "s27_1_0008_reply01",
+              "meaning_vi": "Ở dãy thứ ba."
+            },
+            {
+              "text": "鲜奶在冷藏区。",
+              "id": "s27_1_0008_reply02",
+              "meaning_vi": "Sữa tươi ở khu hàng lạnh."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“牛奶在哪一排”是问牛奶位于哪条货架通道；鲜奶也可能在冷藏区，要以门店指引为准。",
+              "text_vi": "Hỏi sữa ở dãy nào; sữa tươi có thể nằm trong tủ lạnh. Hãy dựa vào chỉ dẫn thực tế của cửa hàng."
+            }
+          ],
+          "pinyin": "niú nǎi zài nǎ yì pái",
+          "meaning_vi": "Sữa ở dãy nào?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0009",
+          "level": "must",
+          "text": "有纸巾吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，在那边。",
+              "id": "s27_1_0009_reply01",
+              "meaning_vi": "Có, ở bên kia."
+            },
+            {
+              "text": "暂时没货。",
+              "id": "s27_1_0009_reply02",
+              "meaning_vi": "Tạm thời hết hàng."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“有纸巾吗”问商店是否出售或目前有货；不一定是向店员讨一张免费纸巾。",
+              "text_vi": "“有纸巾吗” hỏi cửa hàng có bán hoặc còn khăn giấy không, chưa chắc là xin khăn giấy miễn phí."
+            }
+          ],
+          "pinyin": "yǒu zhǐ jīn ma",
+          "meaning_vi": "Có khăn giấy không?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0010",
+          "level": "must",
+          "text": "这个商品在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在第三排。",
+              "id": "s27_1_0010_reply01",
+              "meaning_vi": "Ở dãy thứ ba."
+            },
+            {
+              "text": "我带您过去。",
+              "id": "s27_1_0010_reply02",
+              "meaning_vi": "Để tôi dẫn anh/chị tới."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“这个商品”需要配合手指或商品图片说明；“在哪儿”问摆放位置，不是问价格。",
+              "text_vi": "“这个商品” cần chỉ bằng tay hoặc ảnh sản phẩm. “在哪儿” hỏi vị trí, không phải giá."
+            }
+          ],
+          "pinyin": "zhè ge shāng pǐn zài nǎr",
+          "meaning_vi": "Món hàng này ở đâu?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0011",
+          "level": "must",
+          "text": "这个有小包装吗？",
+          "alternatives": [
+            {
+              "text": "有小袋装的吗？",
+              "id": "s27_1_0011_alt01",
+              "meaning_vi": "Có loại túi nhỏ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，就在旁边。",
+              "id": "s27_1_0011_reply01",
+              "meaning_vi": "Có, ở ngay bên cạnh."
+            },
+            {
+              "text": "没有，只有大包装。",
+              "id": "s27_1_0011_reply02",
+              "meaning_vi": "Không, chỉ có gói lớn."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“小包装”指包装规格小，不一定单价或每克价格更便宜；“小袋装”指袋装规格。",
+              "text_vi": "“小包装” là quy cách gói nhỏ, chưa chắc rẻ hơn tính theo mỗi gam. “小袋装” là loại túi nhỏ."
+            }
+          ],
+          "pinyin": "zhè ge yǒu xiǎo bāo zhuāng ma",
+          "meaning_vi": "Loại này có gói nhỏ không?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0012",
+          "level": "must",
+          "text": "促销区在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在入口旁边。",
+              "id": "s27_1_0012_reply01",
+              "meaning_vi": "Ngay cạnh cửa vào."
+            },
+            {
+              "text": "前面左转就是。",
+              "id": "s27_1_0012_reply02",
+              "meaning_vi": "Phía trước rẽ trái là tới."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“促销区”是促销商品陈列区，不能推断里面每件商品都打折；结账以实际标价和活动条件为准。",
+              "text_vi": "“促销区” là khu trưng bày hàng khuyến mãi, không bảo đảm mọi món đều giảm giá; cần xem điều kiện."
+            }
+          ],
+          "pinyin": "cù xiāo qū zài nǎr",
+          "meaning_vi": "Khu hàng khuyến mãi ở đâu?",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0013",
+          "level": "listen",
+          "text": "在第三排。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去第三排找。",
+              "id": "s27_1_0013_reply01",
+              "meaning_vi": "Được, tôi đi tìm ở dãy thứ ba."
+            },
+            {
+              "text": "第三排在那边吗？",
+              "id": "s27_1_0013_reply02",
+              "meaning_vi": "Dãy thứ ba ở bên kia à?"
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“第三排”在超市通常指货架第3排，不是建筑的第3层；听不清可以追问“是这边吗”。",
+              "text_vi": "“第三排” trong cửa hàng là dãy kệ thứ ba, không phải tầng ba; không rõ thì hỏi lại hướng."
+            }
+          ],
+          "pinyin": "zài dì sān pái",
+          "meaning_vi": "Ở dãy thứ ba.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0014",
+          "level": "listen",
+          "text": "往前走，右手边。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我往前找找。",
+              "id": "s27_1_0014_reply01",
+              "meaning_vi": "Được, tôi đi lên trước tìm xem."
+            },
+            {
+              "text": "在右边是吧？",
+              "id": "s27_1_0014_reply02",
+              "meaning_vi": "Ở bên phải, đúng không?"
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“往前走”是朝面前方向走；“右手边”是按前进方向的右边，不是说向右转。",
+              "text_vi": "“往前走” là đi thẳng tới; “右手边” là bên tay phải theo hướng đang đi, không nhất thiết phải rẽ phải."
+            }
+          ],
+          "pinyin": "wǎng qián zǒu yòu shǒu biān",
+          "meaning_vi": "Đi thẳng phía trước, bên tay phải.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0015",
+          "level": "listen",
+          "text": "就在收银台旁边。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我去收银台那边找。",
+              "id": "s27_1_0015_reply01",
+              "meaning_vi": "Cảm ơn, tôi qua gần quầy thu ngân tìm."
+            },
+            {
+              "text": "哦，我看到了。",
+              "id": "s27_1_0015_reply02",
+              "meaning_vi": "À, tôi thấy rồi."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“收银台”是结账柜台，不是生鲜称重台或自助取货台；“旁边”是附近。",
+              "text_vi": "“收银台” là quầy thu ngân, khác quầy cân rau quả; “旁边” là gần cạnh."
+            }
+          ],
+          "pinyin": "jiù zài shōu yín tái páng biān",
+          "meaning_vi": "Ngay cạnh quầy thu ngân.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0016",
+          "level": "listen",
+          "text": "这个卖完了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还有别的牌子吗？",
+              "id": "s27_1_0016_reply01",
+              "meaning_vi": "Còn nhãn hiệu khác không?"
+            },
+            {
+              "text": "那什么时候会补货？",
+              "id": "s27_1_0016_reply02",
+              "meaning_vi": "Vậy khi nào nhập thêm hàng?"
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“卖完了”指现有库存售罄，不等于商店永久停售；可以追问什么时候补货。",
+              "text_vi": "“卖完了” là hết hàng hiện tại, không phải ngừng bán mãi mãi. Có thể hỏi khi nào nhập thêm."
+            }
+          ],
+          "pinyin": "zhè ge mài wán le",
+          "meaning_vi": "Món hàng này bán hết rồi.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0017",
+          "level": "listen",
+          "text": "在冷藏区。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去冷藏区看看。",
+              "id": "s27_1_0017_reply01",
+              "meaning_vi": "Được, tôi qua khu hàng lạnh xem."
+            },
+            {
+              "text": "冷藏区在哪边？",
+              "id": "s27_1_0017_reply02",
+              "meaning_vi": "Khu hàng lạnh nằm phía nào?"
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“冷藏”是冷藏保存，和“冷冻”冻成冰不同；冷藏区一般找冰箱/冷柜，不是常温货架。",
+              "text_vi": "“冷藏” là giữ lạnh nhưng không đông đá; khu hàng lạnh khác kệ nhiệt độ thường."
+            }
+          ],
+          "pinyin": "zài lěng cáng qū",
+          "meaning_vi": "Ở khu hàng lạnh.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0018",
+          "level": "listen",
+          "text": "这个牌子暂时没货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还有别的牌子吗？",
+              "id": "s27_1_0018_reply01",
+              "meaning_vi": "Còn nhãn hiệu khác không?"
+            },
+            {
+              "text": "那我看看别的。",
+              "id": "s27_1_0018_reply02",
+              "meaning_vi": "Vậy tôi xem loại khác."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“暂时没货”只表示目前缺货，不能保证何时补到；“这个牌子”限定的是某一品牌。",
+              "text_vi": "“暂时没货” là tạm hết, không bảo đảm ngày nhập lại; chỉ nhãn hiệu cụ thể đang hỏi."
+            }
+          ],
+          "pinyin": "zhè ge pái zi zàn shí méi huò",
+          "meaning_vi": "Nhãn hiệu này hiện tạm hết hàng.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0019",
+          "level": "listen",
+          "text": "楼上也有。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我上楼看看。",
+              "id": "s27_1_0019_reply01",
+              "meaning_vi": "Được, tôi lên tầng trên xem."
+            },
+            {
+              "text": "从哪边上楼？",
+              "id": "s27_1_0019_reply02",
+              "meaning_vi": "Lên tầng trên từ phía nào?"
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“楼上也有”意味着楼上也出售或陈列，不表示这层完全没有；可问电梯或楼梯位置。",
+              "text_vi": "“楼上也有” nghĩa là tầng trên cũng có bán, chưa chắc tầng này hoàn toàn không có."
+            }
+          ],
+          "pinyin": "lóu shàng yě yǒu",
+          "meaning_vi": "Tầng trên cũng có.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0020",
+          "level": "listen",
+          "text": "我带您过去。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，麻烦您了。",
+              "id": "s27_1_0020_reply01",
+              "meaning_vi": "Vâng, phiền anh/chị nhé."
+            },
+            {
+              "text": "谢谢，我跟您走。",
+              "id": "s27_1_0020_reply02",
+              "meaning_vi": "Cảm ơn, tôi đi theo anh/chị."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“我带您过去”是店员主动带顾客到指定位置，不是让顾客自己找；礼貌回应“谢谢，麻烦您了”。",
+              "text_vi": "“我带您过去” là nhân viên dẫn khách tới tận vị trí, khác chỉ tay để khách tự tìm."
+            }
+          ],
+          "pinyin": "wǒ dài nín guò qù",
+          "meaning_vi": "Để tôi dẫn anh/chị tới.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        },
+        {
+          "id": "s27_1_0021",
+          "level": "listen",
+          "text": "今天刚补货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那现在还有货吗？",
+              "id": "s27_1_0021_reply01",
+              "meaning_vi": "Vậy giờ còn hàng không?"
+            },
+            {
+              "text": "太好了，我去看看。",
+              "id": "s27_1_0021_reply02",
+              "meaning_vi": "Tốt quá, tôi đi xem."
+            }
+          ],
+          "lesson_id": "27.1",
+          "lesson_title": "27.1 寻找商品",
+          "mistakes": [
+            {
+              "text": "“补货”是为货架补上库存，不等于商品刚生产；需看生产日期才能判断生产时间。",
+              "text_vi": "“补货” là nhập hoặc bày thêm hàng lên kệ, không có nghĩa hàng vừa được sản xuất."
+            }
+          ],
+          "pinyin": "jīn tiān gāng bǔ huò",
+          "meaning_vi": "Hôm nay vừa nhập thêm hàng.",
+          "lesson_title_vi": "27.1 Tìm hàng trong siêu thị"
+        }
+      ],
+      "opening": "在超市找不到牛奶、瓶装水或纸巾时，练习问货架位置、品牌和是否有货，并听懂“第三排”“卖完了”。",
+      "subtitle": "21张实用口语卡",
+      "title_vi": "27.1 Tìm hàng trong siêu thị",
+      "subtitle_vi": "21 thẻ giao tiếp thực tế",
+      "opening_vi": "Hỏi vị trí sữa, nước đóng chai, khăn giấy, thương hiệu, dãy kệ và hàng còn hay hết, nghe hiểu chỉ dẫn tìm hàng."
+    },
+    {
+      "id": "27.2",
+      "title": "27.2 生鲜称重",
+      "phrases": [
+        {
+          "id": "s27_2_0001",
+          "level": "must",
+          "text": "我要一斤。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我给您称一斤。",
+              "id": "s27_2_0001_reply01",
+              "meaning_vi": "Vâng, tôi cân cho anh/chị nửa ký."
+            },
+            {
+              "text": "行，您先挑好。",
+              "id": "s27_2_0001_reply02",
+              "meaning_vi": "Được, anh/chị cứ chọn trước."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "中国超市的“一斤”是500克，即越南语常说的“nửa ký”；“一斤多少钱”是每500克的单价，不是整袋总价。",
+              "text_vi": "Tại Trung Quốc, 1 斤 bằng 500 gam. “一斤多少钱” là giá cho nửa ký, không phải tổng giá của túi đã cân."
+            }
+          ],
+          "pinyin": "wǒ yào yì jīn",
+          "meaning_vi": "Tôi lấy nửa ký.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0002",
+          "level": "must",
+          "text": "帮我称一下。",
+          "alternatives": [
+            {
+              "text": "麻烦称一下。",
+              "id": "s27_2_0002_alt01",
+              "meaning_vi": "Phiền cân giúp tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的。",
+              "id": "s27_2_0002_reply01",
+              "meaning_vi": "Vâng."
+            },
+            {
+              "text": "我帮您称。",
+              "id": "s27_2_0002_reply02",
+              "meaning_vi": "Để tôi cân giúp anh/chị."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“称一下”是给生鲜过秤、确定重量和价格，不是“尝一下”尝味道；有些门店要贴重量价格标签。",
+              "text_vi": "“称一下” là cân hàng để tính trọng lượng và giá, không phải nếm thử. Có cửa hàng phải in tem cân."
+            }
+          ],
+          "pinyin": "bāng wǒ chēng yí xià",
+          "meaning_vi": "Cân giúp tôi với.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0003",
+          "level": "must",
+          "text": "可以自己挑吗？",
+          "alternatives": [
+            {
+              "text": "可以自己选吗？",
+              "id": "s27_2_0003_alt01",
+              "meaning_vi": "Tôi có thể tự chọn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，您自己挑吧。",
+              "id": "s27_2_0003_reply01",
+              "meaning_vi": "Được, anh/chị tự chọn nhé."
+            },
+            {
+              "text": "可以，挑好以后拿来称。",
+              "id": "s27_2_0003_reply02",
+              "meaning_vi": "Được, chọn xong thì mang đến cân."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“挑”指顾客自己挑选水果蔬菜，不是“剥皮”或“洗菜”；是否允许自选应先问店员。",
+              "text_vi": "“挑” là tự chọn rau quả, không phải gọt vỏ hoặc rửa; nên hỏi xem có được tự chọn không."
+            }
+          ],
+          "pinyin": "kě yǐ zì jǐ tiāo ma",
+          "meaning_vi": "Tự chọn được không?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0004",
+          "level": "must",
+          "text": "标签贴哪里？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "贴袋子上。",
+              "id": "s27_2_0004_reply01",
+              "meaning_vi": "Dán lên túi."
+            },
+            {
+              "text": "贴在这里。",
+              "id": "s27_2_0004_reply02",
+              "meaning_vi": "Dán ở đây."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "生鲜区“标签”通常指称重后打印的价格/条码贴纸，不是商品品牌商标；应贴在袋子外面便于扫描。",
+              "text_vi": "“标签” ở đây là tem giá, cân nặng và mã vạch in sau khi cân, không phải nhãn hiệu; nên dán ngoài túi."
+            }
+          ],
+          "pinyin": "biāo qiān tiē nǎ lǐ",
+          "meaning_vi": "Dán tem ở đâu?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0005",
+          "level": "must",
+          "text": "这些要分开称吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要分别称。",
+              "id": "s27_2_0005_reply01",
+              "meaning_vi": "Phải cân từng loại riêng."
+            },
+            {
+              "text": "不用，一起称就行。",
+              "id": "s27_2_0005_reply02",
+              "meaning_vi": "Không cần, cân chung là được."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "不同品类或不同单价的生鲜通常要分别称重；只有同品种、同单价时才可能一起称，不能随便混袋。",
+              "text_vi": "Hàng khác loại hoặc khác đơn giá thường phải cân riêng; chỉ cân chung khi cùng loại và cùng giá, không tự trộn các món."
+            }
+          ],
+          "pinyin": "zhè xiē yào fēn kāi chēng ma",
+          "meaning_vi": "Mấy món này phải cân riêng không?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0006",
+          "level": "must",
+          "text": "这个今天多少钱一斤？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "九块八一斤。",
+              "id": "s27_2_0006_reply01",
+              "meaning_vi": "Chín tệ tám hào cho nửa ký."
+            },
+            {
+              "text": "今天十块一斤。",
+              "id": "s27_2_0006_reply02",
+              "meaning_vi": "Hôm nay mười tệ cho nửa ký."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“九块八一斤”是9.8元/斤（500克），不是98元，也不是称好之后的总价。",
+              "text_vi": "“九块八一斤” là 9,8 tệ cho 500 gam, không phải 98 tệ hay tổng tiền cả túi."
+            }
+          ],
+          "pinyin": "zhè ge jīn tiān duō shǎo qián yì jīn",
+          "meaning_vi": "Hôm nay loại này bao nhiêu tiền nửa ký?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0007",
+          "level": "must",
+          "text": "称完以后去哪里结账？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "称完直接去收银台。",
+              "id": "s27_2_0007_reply01",
+              "meaning_vi": "Cân xong ra thẳng quầy thu ngân."
+            },
+            {
+              "text": "先贴标签再结账。",
+              "id": "s27_2_0007_reply02",
+              "meaning_vi": "Dán tem giá trước rồi mới thanh toán."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“称完以后结账”是先称重贴价签、后去收银台；生鲜称重处与付款处可能不是同一台机器。",
+              "text_vi": "Thường cân rau quả, dán tem giá rồi mới ra thu ngân thanh toán; hai quầy có thể ở chỗ khác nhau."
+            }
+          ],
+          "pinyin": "chēng wán yǐ hòu qù nǎ lǐ jié zhàng",
+          "meaning_vi": "Cân xong tới đâu thanh toán?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0008",
+          "level": "must",
+          "text": "帮我挑几个熟一点的。",
+          "alternatives": [
+            {
+              "text": "帮我选几个熟一点的。",
+              "id": "s27_2_0008_alt01",
+              "meaning_vi": "Chọn vài quả chín hơn cho tôi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我帮您挑熟一点的。",
+              "id": "s27_2_0008_reply01",
+              "meaning_vi": "Vâng, tôi chọn quả chín hơn cho anh/chị."
+            },
+            {
+              "text": "您是今天吃还是明天吃？",
+              "id": "s27_2_0008_reply02",
+              "meaning_vi": "Anh/chị định ăn hôm nay hay ngày mai?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "挑水果说“熟一点”是希望果实成熟些、适合较快食用；不是要求“已经煮熟”，太熟也不一定耐放。",
+              "text_vi": "“熟一点” khi chọn quả là chín hơn để ăn sớm, không phải đã nấu chín. Quá chín có thể khó bảo quản."
+            }
+          ],
+          "pinyin": "bāng wǒ tiāo jǐ ge shú yì diǎn de",
+          "meaning_vi": "Chọn giúp tôi vài quả chín hơn chút.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0009",
+          "level": "must",
+          "text": "我自己拿多少都可以吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，按重量结账。",
+              "id": "s27_2_0009_reply01",
+              "meaning_vi": "Được, tính tiền theo cân nặng."
+            },
+            {
+              "text": "一般可以，限购商品另有规定。",
+              "id": "s27_2_0009_reply02",
+              "meaning_vi": "Thường được, nhưng hàng giới hạn mua có quy định riêng."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“自己拿多少都可以吗”问可否按需选取数量，不代表能免费拿或无限量拿；限购商品另有规定。",
+              "text_vi": "Câu này hỏi có được tự chọn lượng mua; không có nghĩa lấy miễn phí hoặc không giới hạn nếu hàng có quy định hạn mức."
+            }
+          ],
+          "pinyin": "wǒ zì jǐ ná duō shǎo dōu kě yǐ ma",
+          "meaning_vi": "Tôi muốn lấy bao nhiêu tùy ý được không?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0010",
+          "level": "must",
+          "text": "袋子在哪儿拿？",
+          "alternatives": [
+            {
+              "text": "袋子在哪里拿？",
+              "id": "s27_2_0010_alt01",
+              "meaning_vi": "Lấy túi ở đâu vậy?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "袋子在这里。",
+              "id": "s27_2_0010_reply01",
+              "meaning_vi": "Túi ở đây."
+            },
+            {
+              "text": "自己拿袋子。",
+              "id": "s27_2_0010_reply02",
+              "meaning_vi": "Tự lấy túi nhé."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "生鲜区的“袋子”是装水果蔬菜的小袋，未必等于结账处另收费的购物袋；应区别两种用途。",
+              "text_vi": "Túi đựng rau quả ở khu hàng tươi khác túi mua hàng có thể tính phí tại quầy thu ngân."
+            }
+          ],
+          "pinyin": "dài zi zài nǎr ná",
+          "meaning_vi": "Lấy túi ở đâu?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0011",
+          "level": "must",
+          "text": "这个按斤还是按个卖？",
+          "alternatives": [
+            {
+              "text": "这个是按个卖还是按斤？",
+              "id": "s27_2_0011_alt01",
+              "meaning_vi": "Món này bán theo cái hay theo nửa ký?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按斤卖。",
+              "id": "s27_2_0011_reply01",
+              "meaning_vi": "Bán theo cân Trung Quốc (500 gam)."
+            },
+            {
+              "text": "这个按个卖。",
+              "id": "s27_2_0011_reply02",
+              "meaning_vi": "Món này bán theo cái."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“按斤”按重量计价，“按个”按件数计价；问清单位价格，不能拿一斤价当一个的价格。",
+              "text_vi": "“按斤” là bán theo trọng lượng 500 gam một đơn vị, “按个” là bán theo cái; phải hỏi rõ đơn giá."
+            }
+          ],
+          "pinyin": "zhè ge àn jīn hái shì àn ge mài",
+          "meaning_vi": "Món này bán theo nửa ký hay theo cái?",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0012",
+          "level": "listen",
+          "text": "自己拿袋子。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我拿一个。",
+              "id": "s27_2_0012_reply01",
+              "meaning_vi": "Được, tôi lấy một cái."
+            },
+            {
+              "text": "袋子在哪儿？",
+              "id": "s27_2_0012_reply02",
+              "meaning_vi": "Túi ở đâu?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“自己拿袋子”是拿供装生鲜的袋子，不等于员工已帮你称重；拿袋后通常还需要称重。",
+              "text_vi": "Tự lấy túi để đựng rau quả không có nghĩa nhân viên đã cân hoặc tính tiền xong."
+            }
+          ],
+          "pinyin": "zì jǐ ná dài zi",
+          "meaning_vi": "Tự lấy túi nhé.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0013",
+          "level": "listen",
+          "text": "先称重。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，称重台在哪儿？",
+              "id": "s27_2_0013_reply01",
+              "meaning_vi": "Được, quầy cân ở đâu?"
+            },
+            {
+              "text": "好的，我先去称。",
+              "id": "s27_2_0013_reply02",
+              "meaning_vi": "Vâng, tôi đi cân trước."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“先称重”强调先做称重步骤；扫码结账区若另有复核称重台，应按机器提示操作。",
+              "text_vi": "“先称重” yêu cầu cân trước. Quầy cân hàng tươi khác bàn cân kiểm tra tại máy tự thanh toán."
+            }
+          ],
+          "pinyin": "xiān chēng zhòng",
+          "meaning_vi": "Cân trước.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0014",
+          "level": "listen",
+          "text": "这个按斤卖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，那我要一斤。",
+              "id": "s27_2_0014_reply01",
+              "meaning_vi": "Được, vậy tôi lấy nửa ký."
+            },
+            {
+              "text": "一斤多少钱？",
+              "id": "s27_2_0014_reply02",
+              "meaning_vi": "Nửa ký bao nhiêu tiền?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“按斤卖”说明计价单位是中国斤（500克）；“我要一斤”是要500克左右，不是一个水果。",
+              "text_vi": "“按斤卖” nghĩa là tính theo 斤 của Trung Quốc (500 gam); “我要一斤” là lấy khoảng nửa ký."
+            }
+          ],
+          "pinyin": "zhè ge àn jīn mài",
+          "meaning_vi": "Món này bán theo 500 gam.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0015",
+          "level": "listen",
+          "text": "标签贴袋子上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我贴上了。",
+              "id": "s27_2_0015_reply01",
+              "meaning_vi": "Được, tôi dán rồi."
+            },
+            {
+              "text": "贴在袋子外面就行吗？",
+              "id": "s27_2_0015_reply02",
+              "meaning_vi": "Chỉ cần dán ngoài túi là được chứ?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“标签贴袋子上”是把称重价格条码贴在袋上，不能把标签随意贴在鲜食可食用表面。",
+              "text_vi": "Tem giá và mã vạch sau cân nên dán ngoài túi, không dán lên bề mặt ăn được của thực phẩm."
+            }
+          ],
+          "pinyin": "biāo qiān tiē dài zi shàng",
+          "meaning_vi": "Dán tem lên túi.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0016",
+          "level": "listen",
+          "text": "这个要分别称。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我分开放。",
+              "id": "s27_2_0016_reply01",
+              "meaning_vi": "Được, tôi để riêng ra."
+            },
+            {
+              "text": "每一种都要单独称吗？",
+              "id": "s27_2_0016_reply02",
+              "meaning_vi": "Mỗi loại đều phải cân riêng à?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“分别称”指不同种类分开过秤，不是把同一袋食品无理由重复称两次；按不同品种分别打印价签。",
+              "text_vi": "“分别称” là cân riêng từng loại hàng, không phải vô cớ cân cùng một túi nhiều lần."
+            }
+          ],
+          "pinyin": "zhè ge yào fēn bié chēng",
+          "meaning_vi": "Món này phải cân riêng.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0017",
+          "level": "listen",
+          "text": "称完再结账。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先去称重。",
+              "id": "s27_2_0017_reply01",
+              "meaning_vi": "Được, tôi đi cân trước."
+            },
+            {
+              "text": "称重台在那边吗？",
+              "id": "s27_2_0017_reply02",
+              "meaning_vi": "Quầy cân ở phía kia à?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“称完再结账”是步骤顺序：称重在先、付款在后；不要把还没称重的散装商品当作已经结清。",
+              "text_vi": "“称完再结账” là cân trước, trả tiền sau; đồ rời chưa cân không được xem là đã thanh toán."
+            }
+          ],
+          "pinyin": "chēng wán zài jié zhàng",
+          "meaning_vi": "Cân xong rồi thanh toán.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0018",
+          "level": "listen",
+          "text": "这边可以自己挑。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我自己挑几个。",
+              "id": "s27_2_0018_reply01",
+              "meaning_vi": "Được, tôi tự chọn vài quả."
+            },
+            {
+              "text": "挑好了在哪儿称？",
+              "id": "s27_2_0018_reply02",
+              "meaning_vi": "Chọn xong thì cân ở đâu?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“自己挑”许可顾客挑选；“挑好了在哪儿称”是问挑完以后到哪里过秤，两个动作不同。",
+              "text_vi": "“自己挑” cho phép khách tự chọn, còn “挑好了在哪儿称” hỏi sau khi chọn xong cân ở đâu."
+            }
+          ],
+          "pinyin": "zhè biān kě yǐ zì jǐ tiāo",
+          "meaning_vi": "Bên này có thể tự chọn.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0019",
+          "level": "listen",
+          "text": "这个今天九块八一斤。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，给我一斤。",
+              "id": "s27_2_0019_reply01",
+              "meaning_vi": "Được, lấy cho tôi nửa ký."
+            },
+            {
+              "text": "那我先买半斤。",
+              "id": "s27_2_0019_reply02",
+              "meaning_vi": "Vậy tôi mua 250 gam trước."
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“九块八一斤”表示每500克9.8元，买半斤约250克；实际总价依称重结果计算。",
+              "text_vi": "9,8 tệ mỗi 斤 là 9,8 tệ/500g. 半斤 là 250g; tổng tiền phụ thuộc cân thực tế."
+            }
+          ],
+          "pinyin": "zhè ge jīn tiān jiǔ kuài bā yì jīn",
+          "meaning_vi": "Hôm nay loại này chín tệ tám hào cho nửa ký.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        },
+        {
+          "id": "s27_2_0020",
+          "level": "listen",
+          "text": "请去称重台。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在过去。",
+              "id": "s27_2_0020_reply01",
+              "meaning_vi": "Được, tôi qua ngay."
+            },
+            {
+              "text": "称重台在哪边？",
+              "id": "s27_2_0020_reply02",
+              "meaning_vi": "Quầy cân nằm phía nào?"
+            }
+          ],
+          "lesson_id": "27.2",
+          "lesson_title": "27.2 生鲜称重",
+          "mistakes": [
+            {
+              "text": "“称重台”此处是给散装生鲜称重的柜台；自助结账机器上的放袋复核台不一定能代替它。",
+              "text_vi": "“称重台” ở đây là quầy cân hàng tươi để in tem giá, chưa chắc giống bàn cân xác nhận của máy tự thanh toán."
+            }
+          ],
+          "pinyin": "qǐng qù chēng zhòng tái",
+          "meaning_vi": "Vui lòng tới quầy cân.",
+          "lesson_title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+        }
+      ],
+      "opening": "买水果蔬菜时，练习自己挑选、按斤称重、贴价签、去收银台结账，并分清按件与按斤计价。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "27.2 Chọn, cân và dán nhãn rau quả",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Tự chọn rau quả, hỏi giá theo 斤 Trung Quốc (500 gam), cân riêng, dán tem giá và thanh toán tại quầy."
+    },
+    {
+      "id": "27.3",
+      "title": "27.3 日期保质期",
+      "phrases": [
+        {
+          "id": "s27_3_0001",
+          "level": "must",
+          "text": "生产日期在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在包装背面。",
+              "id": "s27_3_0001_reply01",
+              "meaning_vi": "Ở mặt sau bao bì."
+            },
+            {
+              "text": "印在瓶底。",
+              "id": "s27_3_0001_reply02",
+              "meaning_vi": "In ở đáy chai."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "生产日期是生产或包装日期，不是到期日；日期位置以商品包装为准。",
+              "text_vi": "Ngày sản xuất là ngày sản xuất/đóng gói, khác hạn hết; vị trí ghi trên bao bì tùy sản phẩm."
+            }
+          ],
+          "pinyin": "shēng chǎn rì qī zài nǎr",
+          "meaning_vi": "Ngày sản xuất ở đâu?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0002",
+          "level": "must",
+          "text": "保质期多久？",
+          "alternatives": [
+            {
+              "text": "保质期多长？",
+              "id": "s27_3_0002_alt01",
+              "meaning_vi": "Thời hạn sử dụng là bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "保质期六个月。",
+              "id": "s27_3_0002_reply01",
+              "meaning_vi": "Hạn sử dụng sáu tháng."
+            },
+            {
+              "text": "请看包装背面。",
+              "id": "s27_3_0002_reply02",
+              "meaning_vi": "Vui lòng xem mặt sau bao bì."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "保质期是标明储存条件下未开封产品的期限；开封后须另看说明。",
+              "text_vi": "Hạn sử dụng áp dụng cho hàng chưa mở trong điều kiện bảo quản ghi trên nhãn; mở ra cần xem hướng dẫn riêng."
+            }
+          ],
+          "pinyin": "bǎo zhì qī duō jiǔ",
+          "meaning_vi": "Hạn sử dụng bao lâu?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0003",
+          "level": "must",
+          "text": "什么时候过期？",
+          "alternatives": [
+            {
+              "text": "哪天过期？",
+              "id": "s27_3_0003_alt01",
+              "meaning_vi": "Hết hạn ngày nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还有一个月到期。",
+              "id": "s27_3_0003_reply01",
+              "meaning_vi": "Còn một tháng nữa mới hết hạn."
+            },
+            {
+              "text": "明天到期。",
+              "id": "s27_3_0003_reply02",
+              "meaning_vi": "Ngày mai hết hạn."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“什么时候过期”问到期日期，不是问何时生产；要结合包装标注确定。",
+              "text_vi": "Câu này hỏi khi nào hết hạn, không phải khi nào sản xuất; phải đối chiếu ngày trên bao bì."
+            }
+          ],
+          "pinyin": "shén me shí hou guò qī",
+          "meaning_vi": "Khi nào hết hạn?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0004",
+          "level": "must",
+          "text": "这个新鲜吗？",
+          "alternatives": [
+            {
+              "text": "这个新不新鲜？",
+              "id": "s27_3_0004_alt01",
+              "meaning_vi": "Cái này có tươi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "新鲜，今天刚到货。",
+              "id": "s27_3_0004_reply01",
+              "meaning_vi": "Tươi, hôm nay hàng vừa về."
+            },
+            {
+              "text": "这个是昨天到的。",
+              "id": "s27_3_0004_reply02",
+              "meaning_vi": "Lô này về hôm qua."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“新鲜”是新鲜程度，今天刚进货也不证明今天生产或全程冷链正常。",
+              "text_vi": "Hàng vừa về kho hôm nay chưa chắc sản xuất hôm nay hoặc bảo quản lạnh đúng cả quá trình."
+            }
+          ],
+          "pinyin": "zhè ge xīn xiān ma",
+          "meaning_vi": "Cái này còn tươi không?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0005",
+          "level": "must",
+          "text": "今天到期吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是的，今天到期。",
+              "id": "s27_3_0005_reply01",
+              "meaning_vi": "Đúng, hôm nay hết hạn."
+            },
+            {
+              "text": "不是，明天才到期。",
+              "id": "s27_3_0005_reply02",
+              "meaning_vi": "Không, ngày mai mới hết hạn."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“今天到期”与“已经过期”不同；是否能销售及食用应依当地规则、包装和储存情况判断。",
+              "text_vi": "Hôm nay hết hạn khác đã quá hạn; việc sử dụng và bán phụ thuộc quy định địa phương, bảo quản và hướng dẫn sản phẩm."
+            }
+          ],
+          "pinyin": "jīn tiān dào qī ma",
+          "meaning_vi": "Hôm nay hết hạn à?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0006",
+          "level": "must",
+          "text": "这个需要冷藏吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要冷藏。",
+              "id": "s27_3_0006_reply01",
+              "meaning_vi": "Cần bảo quản lạnh."
+            },
+            {
+              "text": "不用冷藏。",
+              "id": "s27_3_0006_reply02",
+              "meaning_vi": "Không cần giữ lạnh."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "冷藏不等于冷冻；有冷藏要求的食品购物后仍需保持合适温度。",
+              "text_vi": "Bảo quản lạnh khác cấp đông; hàng cần lạnh phải giữ nhiệt độ phù hợp sau khi mua."
+            }
+          ],
+          "pinyin": "zhè ge xū yào lěng cáng ma",
+          "meaning_vi": "Cái này có cần bảo quản lạnh không?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0007",
+          "level": "must",
+          "text": "临期有优惠吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，临期商品打折。",
+              "id": "s27_3_0007_reply01",
+              "meaning_vi": "Có, hàng sắp hết hạn được giảm giá."
+            },
+            {
+              "text": "没有，这个不参加活动。",
+              "id": "s27_3_0007_reply02",
+              "meaning_vi": "Không, mặt hàng này không áp dụng khuyến mãi."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“临期”指接近到期、尚未过期；折扣不代表可忽略储藏条件。",
+              "text_vi": "“临期” là sắp tới hạn nhưng chưa quá hạn; giảm giá không có nghĩa có thể bỏ qua điều kiện bảo quản."
+            }
+          ],
+          "pinyin": "lín qī yǒu yōu huì ma",
+          "meaning_vi": "Hàng sắp hết hạn có giảm giá không?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0008",
+          "level": "must",
+          "text": "这个是哪天生产的？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请看包装背面。",
+              "id": "s27_3_0008_reply01",
+              "meaning_vi": "Vui lòng xem mặt sau bao bì."
+            },
+            {
+              "text": "这是昨天生产的。",
+              "id": "s27_3_0008_reply02",
+              "meaning_vi": "Cái này được sản xuất hôm qua."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“哪天生产”询问生产日期，不能用进货日代替。",
+              "text_vi": "“哪天生产” hỏi ngày sản xuất, không thể lấy ngày nhập hàng thay thế."
+            }
+          ],
+          "pinyin": "zhè ge shì nǎ tiān shēng chǎn de",
+          "meaning_vi": "Món này sản xuất ngày nào?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0009",
+          "level": "must",
+          "text": "这个要放冰箱吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要冷藏。",
+              "id": "s27_3_0009_reply01",
+              "meaning_vi": "Cần bảo quản lạnh."
+            },
+            {
+              "text": "不用冷藏。",
+              "id": "s27_3_0009_reply02",
+              "meaning_vi": "Không cần giữ lạnh."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“放冰箱”不说明冷藏还是冷冻，需确认包装储存要求。",
+              "text_vi": "“放冰箱” chưa nói ngăn mát hay ngăn đông; phải xem yêu cầu trên nhãn."
+            }
+          ],
+          "pinyin": "zhè ge yào fàng bīng xiāng ma",
+          "meaning_vi": "Cái này phải cho vào tủ lạnh không?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0010",
+          "level": "must",
+          "text": "开封后怎么保存？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "开封后三天内吃完。",
+              "id": "s27_3_0010_reply01",
+              "meaning_vi": "Sau khi mở phải ăn hết trong ba ngày."
+            },
+            {
+              "text": "开封后尽快吃完。",
+              "id": "s27_3_0010_reply02",
+              "meaning_vi": "Mở ra rồi nên ăn hết sớm."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "开封后保存方式可能不同于未开封时；看包装并注意开封日期。",
+              "text_vi": "Cách bảo quản sau khi mở có thể khác trước khi mở; xem bao bì và ghi nhớ ngày mở."
+            }
+          ],
+          "pinyin": "kāi fēng hòu zěn me bǎo cún",
+          "meaning_vi": "Mở bao bì rồi thì bảo quản thế nào?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0011",
+          "level": "must",
+          "text": "这个快过期了吗？",
+          "alternatives": [
+            {
+              "text": "是不是快到期了？",
+              "id": "s27_3_0011_alt01",
+              "meaning_vi": "Có phải sắp hết hạn rồi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还有一个月到期。",
+              "id": "s27_3_0011_reply01",
+              "meaning_vi": "Còn một tháng nữa mới hết hạn."
+            },
+            {
+              "text": "明天到期。",
+              "id": "s27_3_0011_reply02",
+              "meaning_vi": "Ngày mai hết hạn."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“快过期”是临近到期，不等于已过期；优先查看印刷日期。",
+              "text_vi": "“快过期” là sắp hết hạn, chưa phải đã hết; nên kiểm tra ngày in."
+            }
+          ],
+          "pinyin": "zhè ge kuài guò qī le ma",
+          "meaning_vi": "Cái này sắp hết hạn chưa?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0012",
+          "level": "must",
+          "text": "开封后能放几天？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "开封后三天内吃完。",
+              "id": "s27_3_0012_reply01",
+              "meaning_vi": "Sau khi mở phải ăn hết trong ba ngày."
+            },
+            {
+              "text": "开封后尽快吃完。",
+              "id": "s27_3_0012_reply02",
+              "meaning_vi": "Mở ra rồi nên ăn hết sớm."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“开封后能放几天”只问打开后的保存时长，必须同时确认是否需要冷藏。",
+              "text_vi": "Hỏi giữ được bao nhiêu ngày sau khi mở, đồng thời cần xác nhận có phải để tủ lạnh không."
+            }
+          ],
+          "pinyin": "kāi fēng hòu néng fàng jǐ tiān",
+          "meaning_vi": "Sau khi mở thì để được mấy ngày?",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0013",
+          "level": "listen",
+          "text": "保质期六个月。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，那生产日期是哪天？",
+              "id": "s27_3_0013_reply01",
+              "meaning_vi": "Được, vậy ngày sản xuất là ngày nào?"
+            },
+            {
+              "text": "好，我看一下包装。",
+              "id": "s27_3_0013_reply02",
+              "meaning_vi": "Được, để tôi xem bao bì."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“六个月”一般按生产日期及包装要求推算，不能直接从购买日算六个月。",
+              "text_vi": "Thời hạn sáu tháng cần tính từ mốc trên nhãn, không phải cứ tính sáu tháng kể từ lúc mua."
+            }
+          ],
+          "pinyin": "bǎo zhì qī liù ge yuè",
+          "meaning_vi": "Hạn sử dụng sáu tháng.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0014",
+          "level": "listen",
+          "text": "明天到期。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我换一个日期新一点的。",
+              "id": "s27_3_0014_reply01",
+              "meaning_vi": "Vậy tôi đổi sang sản phẩm có ngày sản xuất mới hơn."
+            },
+            {
+              "text": "临期有优惠吗？",
+              "id": "s27_3_0014_reply02",
+              "meaning_vi": "Hàng sắp hết hạn có giảm giá không?"
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“明天到期”说明次日到期，不等于次日仍能在任何条件下安全保存。",
+              "text_vi": "“明天到期” nghĩa là ngày mai hết hạn, không bảo đảm ngày mai lưu trữ sai cách vẫn an toàn."
+            }
+          ],
+          "pinyin": "míng tiān dào qī",
+          "meaning_vi": "Ngày mai hết hạn.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0015",
+          "level": "listen",
+          "text": "今天刚到货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我买这个。",
+              "id": "s27_3_0015_reply01",
+              "meaning_vi": "Được, vậy tôi mua cái này."
+            },
+            {
+              "text": "生产日期是哪天？",
+              "id": "s27_3_0015_reply02",
+              "meaning_vi": "Sản xuất ngày nào?"
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“今天刚到货”是入店日期，不是生产日期，二者要区分。",
+              "text_vi": "“今天刚到货” là hôm nay quán nhập hàng, chưa chắc hôm nay được sản xuất."
+            }
+          ],
+          "pinyin": "jīn tiān gāng dào huò",
+          "meaning_vi": "Hôm nay hàng vừa về.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0016",
+          "level": "listen",
+          "text": "临期商品打折。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "打几折？",
+              "id": "s27_3_0016_reply01",
+              "meaning_vi": "Giảm còn bao nhiêu phần trăm giá gốc?"
+            },
+            {
+              "text": "那我再核对一下日期。",
+              "id": "s27_3_0016_reply02",
+              "meaning_vi": "Vậy tôi kiểm tra lại ngày tháng."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“打几折”是按原价的几成付款：八折是付80%，即减20%，不是降80%。",
+              "text_vi": "“打几折” hỏi trả bao nhiêu phần giá gốc. 八折 = trả 80% giá gốc, tức giảm 20%, không phải giảm 80%."
+            }
+          ],
+          "pinyin": "lín qī shāng pǐn dǎ zhé",
+          "meaning_vi": "Hàng sắp hết hạn đang giảm giá.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0017",
+          "level": "listen",
+          "text": "开封后三天内吃完。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我会按包装要求保存。",
+              "id": "s27_3_0017_reply01",
+              "meaning_vi": "Được, tôi sẽ bảo quản theo hướng dẫn trên bao bì."
+            },
+            {
+              "text": "明白了，谢谢提醒。",
+              "id": "s27_3_0017_reply02",
+              "meaning_vi": "Tôi hiểu rồi, cảm ơn đã nhắc."
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“三天内”从开封后算，不能直接等同印刷保质期；以产品说明为准。",
+              "text_vi": "“三天内” tính từ khi mở bao bì, không phải hạn chưa mở in sẵn; phải xem hướng dẫn."
+            }
+          ],
+          "pinyin": "kāi fēng hòu sān tiān nèi chī wán",
+          "meaning_vi": "Sau khi mở phải ăn hết trong ba ngày.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0018",
+          "level": "listen",
+          "text": "这个需要冷藏。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，回家就放冰箱。",
+              "id": "s27_3_0018_reply01",
+              "meaning_vi": "Được, về nhà tôi cho ngay vào tủ lạnh."
+            },
+            {
+              "text": "需要冷冻吗？",
+              "id": "s27_3_0018_reply02",
+              "meaning_vi": "Có cần cấp đông không?"
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“需要冷藏”不是让食物放冷冻层；要遵循包装标注的温度要求。",
+              "text_vi": "“需要冷藏” là bảo quản ngăn mát, không tự động chuyển sang ngăn đông; xem nhiệt độ yêu cầu."
+            }
+          ],
+          "pinyin": "zhè ge xū yào lěng cáng",
+          "meaning_vi": "Cái này phải bảo quản lạnh.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0019",
+          "level": "listen",
+          "text": "还有一个月到期。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我看看别的日期。",
+              "id": "s27_3_0019_reply01",
+              "meaning_vi": "Được, vậy tôi xem lô ngày khác."
+            },
+            {
+              "text": "有没有日期更新的？",
+              "id": "s27_3_0019_reply02",
+              "meaning_vi": "Có loại mới sản xuất hơn không?"
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“还有一个月到期”是距离有效期结束约一月，不保证开封后仍可保存一月。",
+              "text_vi": "Còn khoảng một tháng tới hết hạn nhưng sau khi mở có thể chỉ dùng được ngắn hơn nhiều."
+            }
+          ],
+          "pinyin": "hái yǒu yí ge yuè dào qī",
+          "meaning_vi": "Còn một tháng nữa mới hết hạn.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0020",
+          "level": "listen",
+          "text": "请看包装背面。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "找到了，谢谢。",
+              "id": "s27_3_0020_reply01",
+              "meaning_vi": "Tìm thấy rồi, cảm ơn."
+            },
+            {
+              "text": "日期印在哪个位置？",
+              "id": "s27_3_0020_reply02",
+              "meaning_vi": "Ngày tháng in ở vị trí nào?"
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“包装背面”是包装后侧，若未找到要问具体印刷位置。",
+              "text_vi": "Mặt sau bao bì là phía lưng sản phẩm; nếu không thấy ngày in, có thể hỏi vị trí chính xác."
+            }
+          ],
+          "pinyin": "qǐng kàn bāo zhuāng bèi miàn",
+          "meaning_vi": "Vui lòng xem mặt sau bao bì.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        },
+        {
+          "id": "s27_3_0021",
+          "level": "listen",
+          "text": "开封后尽快吃完。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我会尽快吃完。",
+              "id": "s27_3_0021_reply01",
+              "meaning_vi": "Được, tôi sẽ ăn hết sớm."
+            },
+            {
+              "text": "开封后还要冷藏吗？",
+              "id": "s27_3_0021_reply02",
+              "meaning_vi": "Sau khi mở vẫn phải bảo quản lạnh à?"
+            }
+          ],
+          "lesson_id": "27.3",
+          "lesson_title": "27.3 日期保质期",
+          "mistakes": [
+            {
+              "text": "“尽快吃完”表示开封后应及时食用，并非具体保证若干天；保存条件仍重要。",
+              "text_vi": "“尽快吃完” nghĩa là nên dùng sớm sau khi mở, không hứa bảo quản được bao nhiêu ngày; điều kiện giữ lạnh vẫn quan trọng."
+            }
+          ],
+          "pinyin": "kāi fēng hòu jǐn kuài chī wán",
+          "meaning_vi": "Mở ra rồi nên ăn hết sớm.",
+          "lesson_title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+        }
+      ],
+      "opening": "买牛奶和包装食品时，看生产日期、保质期和临期优惠，分清未开封的保质期与开封后的保存要求。",
+      "subtitle": "21张实用口语卡",
+      "title_vi": "27.3 Ngày sản xuất và hạn sử dụng",
+      "subtitle_vi": "21 thẻ giao tiếp thực tế",
+      "opening_vi": "Kiểm tra ngày sản xuất, hạn dùng, hàng gần hết hạn và cách bảo quản sau khi mở; phân biệt hàng mới nhập với mới sản xuất."
+    },
+    {
+      "id": "27.4",
+      "title": "27.4 自助结账",
+      "phrases": [
+        {
+          "id": "s27_4_0001",
+          "level": "must",
+          "text": "自助结账在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在前面右边。",
+              "id": "s27_4_0001_reply01",
+              "meaning_vi": "Ở phía trước bên phải."
+            },
+            {
+              "text": "我给您指一下。",
+              "id": "s27_4_0001_reply02",
+              "meaning_vi": "Để tôi chỉ cho anh/chị."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“自助结账”是在设备上自行扫描付款，不是向普通人工收银台结账。",
+              "text_vi": "“自助结账” là tự quét hàng và trả tiền trên máy, khác quầy có nhân viên tính tiền."
+            }
+          ],
+          "pinyin": "zì zhù jié zhàng zài nǎr",
+          "meaning_vi": "Quầy tự thanh toán ở đâu?",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0002",
+          "level": "must",
+          "text": "这个怎么扫？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "把条码对准这里扫。",
+              "id": "s27_4_0002_reply01",
+              "meaning_vi": "Đưa mã vạch vào chỗ này để quét."
+            },
+            {
+              "text": "先扫商品。",
+              "id": "s27_4_0002_reply02",
+              "meaning_vi": "Quét hàng trước."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“扫”在这里先指扫商品条形码，不是扫描付款二维码。",
+              "text_vi": "“扫” trước hết là quét mã vạch sản phẩm, không phải mã QR để thanh toán."
+            }
+          ],
+          "pinyin": "zhè ge zěn me sǎo",
+          "meaning_vi": "Quét món này thế nào?",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0003",
+          "level": "must",
+          "text": "这个条码扫不出来。",
+          "alternatives": [
+            {
+              "text": "这个条码扫不了。",
+              "id": "s27_4_0003_alt01",
+              "meaning_vi": "Mã vạch này không quét được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "换个角度再扫一下。",
+              "id": "s27_4_0003_reply01",
+              "meaning_vi": "Đổi góc rồi quét lại."
+            },
+            {
+              "text": "我帮您手动输入条码。",
+              "id": "s27_4_0003_reply02",
+              "meaning_vi": "Để tôi nhập mã vạch bằng tay cho anh/chị."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "条形码无法识别时可换角度或联系工作人员，不能擅自更改价格。",
+              "text_vi": "Mã vạch không đọc được thì thử góc khác hoặc nhờ nhân viên, không tự ý sửa giá sản phẩm."
+            }
+          ],
+          "pinyin": "zhè ge tiáo mǎ sǎo bu chū lái",
+          "meaning_vi": "Mã vạch này quét không ra.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0004",
+          "level": "must",
+          "text": "我刚才多扫了一次。",
+          "alternatives": [
+            {
+              "text": "我不小心扫了两次。",
+              "id": "s27_4_0004_alt01",
+              "meaning_vi": "Tôi lỡ quét hai lần."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您删掉多扫的那件。",
+              "id": "s27_4_0004_reply01",
+              "meaning_vi": "Tôi xóa món bị quét thừa giúp anh/chị."
+            },
+            {
+              "text": "请稍等，我来处理。",
+              "id": "s27_4_0004_reply02",
+              "meaning_vi": "Vui lòng đợi chút, tôi sẽ xử lý."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "重复扫描要在付款前核对清单并删除多扫的一件；不要简单再扫一次。",
+              "text_vi": "Quét hai lần cần kiểm tra giỏ hàng rồi xóa lượt quét thừa trước khi thanh toán; không nên quét thêm lần nữa."
+            }
+          ],
+          "pinyin": "wǒ gāng cái duō sǎo le yí cì",
+          "meaning_vi": "Vừa rồi tôi quét dư một lần.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0005",
+          "level": "must",
+          "text": "这个商品怎么删掉？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "点这里删除。",
+              "id": "s27_4_0005_reply01",
+              "meaning_vi": "Bấm đây để xóa."
+            },
+            {
+              "text": "这个要叫工作人员处理。",
+              "id": "s27_4_0005_reply02",
+              "meaning_vi": "Việc này phải gọi nhân viên xử lý."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“删掉”是从本次购物清单移除商品，不是删除会员账户或商品库存。",
+              "text_vi": "“删掉” là xóa món khỏi danh sách mua lần này, không phải xóa tài khoản thành viên hay hàng tồn kho."
+            }
+          ],
+          "pinyin": "zhè ge shāng pǐn zěn me shān diào",
+          "meaning_vi": "Xóa món hàng này thế nào?",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0006",
+          "level": "must",
+          "text": "商品要放哪里？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "放到称重台。",
+              "id": "s27_4_0006_reply01",
+              "meaning_vi": "Đặt lên bàn cân."
+            },
+            {
+              "text": "把商品放这里。",
+              "id": "s27_4_0006_reply02",
+              "meaning_vi": "Đặt hàng vào đây."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "机器要求放商品的位置通常是复核称重区，不等于生鲜称重贴价台。",
+              "text_vi": "Vị trí máy yêu cầu đặt hàng thường là khu cân kiểm tra, không phải quầy cân rau quả để in tem."
+            }
+          ],
+          "pinyin": "shāng pǐn yào fàng nǎ lǐ",
+          "meaning_vi": "Đặt hàng ở đâu?",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0007",
+          "level": "must",
+          "text": "袋子怎么加购？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在屏幕上选购物袋。",
+              "id": "s27_4_0007_reply01",
+              "meaning_vi": "Chọn túi mua hàng trên màn hình."
+            },
+            {
+              "text": "选好袋子数量就可以。",
+              "id": "s27_4_0007_reply02",
+              "meaning_vi": "Chỉ cần chọn số lượng túi."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“加购袋子”指结账时另买购物袋，可能收费；不同于生鲜区的包装袋。",
+              "text_vi": "“加购袋子” là mua thêm túi khi tính tiền, có thể tính phí; khác túi dùng để đựng rau quả."
+            }
+          ],
+          "pinyin": "dài zi zěn me jiā gòu",
+          "meaning_vi": "Thêm túi mua hàng thế nào?",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0008",
+          "level": "must",
+          "text": "会员码在哪里扫？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在这里扫。",
+              "id": "s27_4_0008_reply01",
+              "meaning_vi": "Quét ở đây."
+            },
+            {
+              "text": "先扫会员码。",
+              "id": "s27_4_0008_reply02",
+              "meaning_vi": "Quét mã thành viên trước."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "会员码用于积分或会员优惠，不是付款码；二者不要扫反。",
+              "text_vi": "Mã thành viên để tích điểm hoặc nhận giảm giá, khác mã thanh toán; không quét nhầm."
+            }
+          ],
+          "pinyin": "huì yuán mǎ zài nǎ lǐ sǎo",
+          "meaning_vi": "Quét mã thành viên ở đâu?",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0009",
+          "level": "must",
+          "text": "要袋子。",
+          "alternatives": [
+            {
+              "text": "给我一个袋子。",
+              "id": "s27_4_0009_alt01",
+              "meaning_vi": "Cho tôi một túi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，要几个？",
+              "id": "s27_4_0009_reply01",
+              "meaning_vi": "Vâng, lấy mấy cái?"
+            },
+            {
+              "text": "好的，袋子需要另外收费。",
+              "id": "s27_4_0009_reply02",
+              "meaning_vi": "Vâng, túi tính phí riêng."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“要袋子”表示需要购物袋；可能额外收费，应问是否需要袋子和数量。",
+              "text_vi": "“要袋子” là cần túi mua hàng; có thể tính phí, cần xem số lượng và giá."
+            }
+          ],
+          "pinyin": "yào dài zi",
+          "meaning_vi": "Lấy túi.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0010",
+          "level": "must",
+          "text": "没有会员。",
+          "alternatives": [
+            {
+              "text": "我不是会员。",
+              "id": "s27_4_0010_alt01",
+              "meaning_vi": "Tôi không phải thành viên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "没关系，可以直接结账。",
+              "id": "s27_4_0010_reply01",
+              "meaning_vi": "Không sao, vẫn có thể thanh toán trực tiếp."
+            },
+            {
+              "text": "不办会员也能付款。",
+              "id": "s27_4_0010_reply02",
+              "meaning_vi": "Không đăng ký thành viên vẫn trả tiền được."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“没有会员”是未加入该店会员计划，通常仍可正常结账，不等于无法付款。",
+              "text_vi": "Không có tư cách thành viên vẫn thường thanh toán được, không có nghĩa không được mua."
+            }
+          ],
+          "pinyin": "méi yǒu huì yuán",
+          "meaning_vi": "Tôi không có thẻ thành viên.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0011",
+          "level": "must",
+          "text": "不要小票。",
+          "alternatives": [
+            {
+              "text": "小票不用了。",
+              "id": "s27_4_0011_alt01",
+              "meaning_vi": "Không cần biên lai nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，那就不打印了。",
+              "id": "s27_4_0011_reply01",
+              "meaning_vi": "Vâng, vậy không in nữa."
+            },
+            {
+              "text": "好的，请拿好商品。",
+              "id": "s27_4_0011_reply02",
+              "meaning_vi": "Vâng, anh/chị nhớ cầm đủ hàng."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“不要小票”表示不要打印购物凭据；如需退换货，应先确认有无电子凭据。",
+              "text_vi": "“不要小票” là không in biên lai; nếu cần trả đổi, nên hỏi còn hóa đơn điện tử không."
+            }
+          ],
+          "pinyin": "bú yào xiǎo piào",
+          "meaning_vi": "Không lấy biên lai.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0012",
+          "level": "listen",
+          "text": "先扫商品。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我先扫条码。",
+              "id": "s27_4_0012_reply01",
+              "meaning_vi": "Vâng, tôi quét mã vạch trước."
+            },
+            {
+              "text": "扫不出来怎么办？",
+              "id": "s27_4_0012_reply02",
+              "meaning_vi": "Quét không ra thì làm sao?"
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“先扫商品”是先把每件商品加入购物清单，并非已经成功付款。",
+              "text_vi": "“先扫商品” là thêm hàng vào danh sách mua, chưa có nghĩa đã thanh toán thành công."
+            }
+          ],
+          "pinyin": "xiān sǎo shāng pǐn",
+          "meaning_vi": "Quét hàng trước.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0013",
+          "level": "listen",
+          "text": "请选择支付方式。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我选扫码支付。",
+              "id": "s27_4_0013_reply01",
+              "meaning_vi": "Được, tôi chọn quét mã thanh toán."
+            },
+            {
+              "text": "这里可以用现金吗？",
+              "id": "s27_4_0013_reply02",
+              "meaning_vi": "Ở đây trả tiền mặt được không?"
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“支付方式”是现金、刷卡或电子支付等渠道；该自助机未必支持全部方式。",
+              "text_vi": "“支付方式” là phương thức trả như tiền mặt, thẻ hoặc điện tử; không phải máy nào cũng hỗ trợ tất cả."
+            }
+          ],
+          "pinyin": "qǐng xuǎn zé zhī fù fāng shì",
+          "meaning_vi": "Vui lòng chọn phương thức thanh toán.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0014",
+          "level": "listen",
+          "text": "袋子要收费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "多少钱一个？",
+              "id": "s27_4_0014_reply01",
+              "meaning_vi": "Mỗi cái bao nhiêu tiền?"
+            },
+            {
+              "text": "那我不要袋子了。",
+              "id": "s27_4_0014_reply02",
+              "meaning_vi": "Vậy tôi không lấy túi nữa."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "购物袋收费要核对每只单价，不要当成商品本身价格。",
+              "text_vi": "Túi mua hàng có thể mất phí; cần xem giá từng chiếc, không nhầm với giá của sản phẩm."
+            }
+          ],
+          "pinyin": "dài zi yào shōu fèi",
+          "meaning_vi": "Túi có tính phí.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0015",
+          "level": "listen",
+          "text": "把商品放这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我放好了。",
+              "id": "s27_4_0015_reply01",
+              "meaning_vi": "Được, tôi đặt xong rồi."
+            },
+            {
+              "text": "是放这里吗？",
+              "id": "s27_4_0015_reply02",
+              "meaning_vi": "Đặt ở đây à?"
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“放这里”要看设备指示的台面，不能把未扫描商品放进已结账区。",
+              "text_vi": "“放这里” chỉ vị trí máy đang yêu cầu, không nên đưa hàng chưa quét vào khu đã thanh toán."
+            }
+          ],
+          "pinyin": "bǎ shāng pǐn fàng zhè li",
+          "meaning_vi": "Đặt hàng vào đây.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0016",
+          "level": "listen",
+          "text": "请重新扫描。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我再扫一次。",
+              "id": "s27_4_0016_reply01",
+              "meaning_vi": "Vâng, tôi quét lại."
+            },
+            {
+              "text": "还是扫不出来，能帮我看看吗？",
+              "id": "s27_4_0016_reply02",
+              "meaning_vi": "Vẫn không quét được, giúp tôi xem thử được không?"
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“重新扫描”是重试识别，不表示要重复计费；屏幕上已有该件则应请员工确认。",
+              "text_vi": "“重新扫描” là quét thử lại, không có nghĩa phải tính tiền hai lần; nếu đã hiện trong giỏ thì hỏi nhân viên."
+            }
+          ],
+          "pinyin": "qǐng chóng xīn sǎo miáo",
+          "meaning_vi": "Vui lòng quét lại.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0017",
+          "level": "listen",
+          "text": "请将商品放到称重台。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我放上去了。",
+              "id": "s27_4_0017_reply01",
+              "meaning_vi": "Được, tôi đặt lên rồi."
+            },
+            {
+              "text": "是这个台子吗？",
+              "id": "s27_4_0017_reply02",
+              "meaning_vi": "Là cái bàn này à?"
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "这里的称重台多为收银机复核台，不等于生鲜区用于打价签的称重台。",
+              "text_vi": "Bàn cân này thường để máy tự thanh toán kiểm tra hàng, không phải bàn cân rau quả để in nhãn giá."
+            }
+          ],
+          "pinyin": "qǐng jiāng shāng pǐn fàng dào chēng zhòng tái",
+          "meaning_vi": "Vui lòng đặt hàng lên bàn cân.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0018",
+          "level": "listen",
+          "text": "付款成功。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，可以拿走了吗？",
+              "id": "s27_4_0018_reply01",
+              "meaning_vi": "Được, giờ mang đi được chưa?"
+            },
+            {
+              "text": "好的，谢谢。",
+              "id": "s27_4_0018_reply02",
+              "meaning_vi": "Vâng, cảm ơn."
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "看到“付款成功”应核对金额与交易结果，避免重复付款；可留电子凭据。",
+              "text_vi": "Thấy “付款成功” cần kiểm tra số tiền và trạng thái để tránh trả hai lần; có thể lưu biên lai."
+            }
+          ],
+          "pinyin": "fù kuǎn chéng gōng",
+          "meaning_vi": "Thanh toán thành công.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0019",
+          "level": "listen",
+          "text": "请叫一下工作人员。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，工作人员在哪边？",
+              "id": "s27_4_0019_reply01",
+              "meaning_vi": "Vâng, nhân viên ở phía nào?"
+            },
+            {
+              "text": "能帮我叫一下吗？",
+              "id": "s27_4_0019_reply02",
+              "meaning_vi": "Có thể gọi giúp tôi một chút không?"
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“工作人员”指现场工作人员，设备异常、删除受限商品时应请工作人员处理。",
+              "text_vi": "“工作人员” là nhân viên tại siêu thị; lỗi máy, xóa món bị khóa có thể phải nhờ họ."
+            }
+          ],
+          "pinyin": "qǐng jiào yí xià gōng zuò rén yuán",
+          "meaning_vi": "Vui lòng gọi nhân viên giúp.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        },
+        {
+          "id": "s27_4_0020",
+          "level": "listen",
+          "text": "这个商品需要人工确认。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，麻烦帮我确认一下。",
+              "id": "s27_4_0020_reply01",
+              "meaning_vi": "Vâng, phiền anh/chị xác nhận giúp."
+            },
+            {
+              "text": "要等工作人员过来吗？",
+              "id": "s27_4_0020_reply02",
+              "meaning_vi": "Phải đợi nhân viên tới à?"
+            }
+          ],
+          "lesson_id": "27.4",
+          "lesson_title": "27.4 自助结账",
+          "mistakes": [
+            {
+              "text": "“人工确认”是由员工检查或授权，不能自行跳过机器提示。",
+              "text_vi": "“人工确认” nghĩa là nhân viên kiểm tra hoặc cấp quyền, không tự ý bỏ qua cảnh báo của máy."
+            }
+          ],
+          "pinyin": "zhè ge shāng pǐn xū yào rén gōng què rèn",
+          "meaning_vi": "Món hàng này cần nhân viên xác nhận.",
+          "lesson_title_vi": "27.4 Tự thanh toán tại siêu thị"
+        }
+      ],
+      "opening": "第一次使用自助结账机时，学会扫码、删掉重复扫描的商品、加购袋子、按提示放好商品并找工作人员。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "27.4 Tự thanh toán tại siêu thị",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Quét mã vạch, bỏ món quét trùng, mua túi, dùng mã thành viên, làm theo máy và nhờ nhân viên khi cần xác nhận."
+    }
+  ],
+  "card_count": 82,
+  "lesson_counts": {
+    "27.1": 21,
+    "27.2": 20,
+    "27.3": 21,
+    "27.4": 20
+  },
+  "theme_title_vi": "27 Siêu thị và cửa hàng tiện lợi"
+}
