@@ -47,3 +47,13 @@
 2. 前端需要容忍 `collocations: []` 和 `examples: []`；上线前测试词典卡片、类别跳转及异体字/英文缩写配音。
 3. 4500 条缅语释义来自用户精校 V4，只有定向修正；**仍未通过缅语母语老师全部逐条终审**，不得宣传 100% 无误。
 4. 本 PR 为草稿，正式上线仍需合并及应用接入流程。
+
+## 第三轮优化：最小配音与目录接入检查
+
+- 建议优先使用 App 的中文 TTS（`zh-CN`）即时朗读 `hanzi`。因此不必提前录制 4500 个 MP3；词目以外不需要任何配音。
+- 需要批量录音时，使用 `content/words/practical_16_v5_audio_words_only.csv` 的 **4500** 个独立词目（包含稳定 ID、中文词目、拼音、原分类调整后的分类、建议文件名、TTS 待试听标志）。本 PR 没有生成或上传音频。
+- `WiFi`、`U盘`、`T恤`、`喂` 和 `血` 的读音需特别试听；其他词也不能保证 TTS 自动朗读毫无偏差。
+- `scripts/build_release.py` 的 `safe_asset_name` 仅接受文件名，原目录草案里的 `practical_16_v5/category_XX.json` **不能用作 Release 的 data_url**。现已改为 `talkami-practical-XX-v5.json`。源码 JSON 仍放在 `practical_16_v5/category_XX.json`，由发布器打包输出为平铺资源。
+- 当前目录草案没有封面资源，缺少 `cover_url`、`cover_version`、`source_cover`，不能直接加到正式目录发布。需要补充 16 张 WebP 分类封面、检查 App 词卡加载，并合并发布 Release 后用户才能在 App 里看到。
+- 原正式目录与 HSK1–4 的词包未作修改，PR 仍是草稿。
+
