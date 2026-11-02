@@ -1,0 +1,2456 @@
+{
+  "theme_id": "39",
+  "lessons": [
+    {
+      "id": "39.1",
+      "title": "39.1 值机托运",
+      "phrases": [
+        {
+          "id": "s39_1_0001",
+          "level": "must",
+          "text": "值机柜台在哪儿？",
+          "alternatives": [
+            {
+              "text": "请问这趟航班在哪儿值机？",
+              "id": "s39_1_0001_alt01",
+              "meaning_vi": "Xin hỏi chuyến này làm thủ tục ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "请去F区的航空公司柜台。",
+              "id": "s39_1_0001_reply01",
+              "meaning_vi": "Vui lòng tới quầy của hãng hàng không ở khu F."
+            },
+            {
+              "text": "先看大厅屏幕上的值机柜台号。",
+              "id": "s39_1_0001_reply02",
+              "meaning_vi": "Xem số quầy làm thủ tục trên bảng điện tử trong sảnh."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "zhí jī guì tái zài nǎr",
+          "mistakes": [
+            {
+              "text": "“值机柜台”是办理登机手续、核验证件的柜台，不是登机口或海关柜台；先核对航班和航空公司。",
+              "text_vi": "Quầy làm thủ tục là nơi kiểm tra giấy tờ và lấy thẻ lên máy bay, khác cổng lên máy bay và quầy hải quan."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Quầy làm thủ tục chuyến bay ở đâu?"
+        },
+        {
+          "id": "s39_1_0002",
+          "level": "must",
+          "text": "我要托运行李。",
+          "alternatives": [
+            {
+              "text": "我想把这个箱子托运。",
+              "id": "s39_1_0002_alt01",
+              "meaning_vi": "Tôi muốn ký gửi chiếc vali này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，请出示护照。",
+              "id": "s39_1_0002_reply01",
+              "meaning_vi": "Vâng, vui lòng xuất trình hộ chiếu."
+            },
+            {
+              "text": "请把箱子放到称重台上。",
+              "id": "s39_1_0002_reply02",
+              "meaning_vi": "Vui lòng đặt vali lên bàn cân."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "wǒ yào tuō yùn xíng lǐ",
+          "mistakes": [
+            {
+              "text": "“托运行李”是把行李交航空公司放入货舱，不等于随身携带；充电宝及备用锂电池不能放在托运行李中。",
+              "text_vi": "Ký gửi là giao hành lý cho hãng để vào khoang hàng; không bỏ sạc dự phòng và pin lithium dự phòng trong hành lý ký gửi."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Tôi muốn ký gửi hành lý."
+        },
+        {
+          "id": "s39_1_0019",
+          "level": "listen",
+          "text": "有行李要托运吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，这个箱子要托运。",
+              "id": "s39_1_0019_reply01",
+              "meaning_vi": "Có, tôi muốn ký gửi vali này."
+            },
+            {
+              "text": "没有，只有随身行李。",
+              "id": "s39_1_0019_reply02",
+              "meaning_vi": "Không, tôi chỉ có hành lý xách tay."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "yǒu xíng lǐ yào tuō yùn ma",
+          "mistakes": [
+            {
+              "text": "“有行李要托运吗”是问是否有交运的行李，不是在问有没有任何背包；手提行李可能不需托运。",
+              "text_vi": "Hỏi hành lý ký gửi không có nghĩa hỏi có mang túi nào không; hành lý xách tay thường không phải ký gửi."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Anh/chị có hành lý cần ký gửi không?"
+        },
+        {
+          "id": "s39_1_0003",
+          "level": "must",
+          "text": "这个箱子可以托运吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先把充电宝和备用锂电池拿出来，再确认能否托运。",
+              "id": "s39_1_0003_reply01",
+              "meaning_vi": "Trước tiên lấy sạc dự phòng và pin lithium dự phòng ra, rồi kiểm tra có được ký gửi không."
+            },
+            {
+              "text": "尺寸和重量符合规定的话可以托运。",
+              "id": "s39_1_0003_reply02",
+              "meaning_vi": "Nếu kích thước và cân nặng đúng quy định thì ký gửi được."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "zhè ge xiāng zi kě yǐ tuō yùn ma",
+          "mistakes": [
+            {
+              "text": "能否托运取决于尺寸、重量和内装物；备用锂电池、充电宝等不能放托运行李，贵重证件也宜随身保存。",
+              "text_vi": "Ký gửi được hay không tùy kích thước, cân nặng và đồ bên trong; lấy pin rời, sạc dự phòng ra và giữ giấy tờ quý bên người."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Vali này có ký gửi được không?"
+        },
+        {
+          "id": "s39_1_0005",
+          "level": "must",
+          "text": "登机牌在哪里拿？",
+          "alternatives": [
+            {
+              "text": "请问登机牌在哪儿领取？",
+              "id": "s39_1_0005_alt01",
+              "meaning_vi": "Xin hỏi lấy thẻ lên máy bay ở chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在值机柜台拿。",
+              "id": "s39_1_0005_reply01",
+              "meaning_vi": "Lấy tại quầy làm thủ tục."
+            },
+            {
+              "text": "如果支持自助值机，也可以在机器上打印。",
+              "id": "s39_1_0005_reply02",
+              "meaning_vi": "Nếu được làm thủ tục tự động, cũng có thể in ở máy."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "dēng jī pái zài nǎ li ná",
+          "mistakes": [
+            {
+              "text": "“机票”证明已订购行程，“登机牌”用于办理登机；并非所有航班都能用自助机或电子登机牌，依航司安排。",
+              "text_vi": "Vé máy bay xác nhận chuyến đã mua, thẻ lên máy bay dùng để lên máy bay; không phải chuyến nào cũng làm thủ tục tự động được."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Nhận thẻ lên máy bay ở đâu?"
+        },
+        {
+          "id": "s39_1_0009",
+          "level": "must",
+          "text": "行李超重怎么办？",
+          "alternatives": [
+            {
+              "text": "行李超出重量限制了，怎么处理？",
+              "id": "s39_1_0009_alt01",
+              "meaning_vi": "Hành lý vượt mức cân nặng, xử lý thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以补交逾重行李费，具体看航空公司。",
+              "id": "s39_1_0009_reply01",
+              "meaning_vi": "Có thể trả phí hành lý quá cân, tùy hãng."
+            },
+            {
+              "text": "也可以重新整理行李再称。",
+              "id": "s39_1_0009_reply02",
+              "meaning_vi": "Hoặc sắp xếp lại đồ rồi cân lại."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "xíng lǐ chāo zhòng zěn me bàn",
+          "mistakes": [
+            {
+              "text": "“超重”是超过票种或航司允许的重量，不代表所有旅客统一只能带20公斤；额外费用依票价与承运人规则计算。",
+              "text_vi": "Quá cân tùy hạn mức vé và hãng, không mặc định mọi khách chỉ được 20 kg; phí thêm theo điều kiện vé."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Hành lý quá cân thì phải làm sao?"
+        },
+        {
+          "id": "s39_1_0010",
+          "level": "must",
+          "text": "可以选靠过道吗？",
+          "alternatives": [
+            {
+              "text": "能帮我安排过道座吗？",
+              "id": "s39_1_0010_alt01",
+              "meaning_vi": "Sắp xếp giúp tôi ghế cạnh lối đi được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我先帮您查一下过道座位。",
+              "id": "s39_1_0010_reply01",
+              "meaning_vi": "Để tôi kiểm tra còn ghế cạnh lối đi không."
+            },
+            {
+              "text": "不好意思，过道座位已经没有了。",
+              "id": "s39_1_0010_reply02",
+              "meaning_vi": "Xin lỗi, ghế cạnh lối đi hết rồi."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "kě yǐ xuǎn kào guò dào ma",
+          "mistakes": [
+            {
+              "text": "“靠过道”是飞机客舱走道旁的座位，“靠窗”是窗边座；是否免费选座、能否调换应以航空公司规则和剩余位置为准。",
+              "text_vi": "Ghế cạnh lối đi khác ghế cạnh cửa sổ; được chọn miễn phí hay đổi không tùy hãng và ghế còn."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Tôi chọn ghế cạnh lối đi được không?"
+        },
+        {
+          "id": "s39_1_0011",
+          "level": "listen",
+          "text": "请出示护照。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，给您。",
+              "id": "s39_1_0011_reply01",
+              "meaning_vi": "Vâng, gửi anh/chị."
+            },
+            {
+              "text": "这是我的护照。",
+              "id": "s39_1_0011_reply02",
+              "meaning_vi": "Đây là hộ chiếu của tôi."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "qǐng chū shì hù zhào",
+          "mistakes": [
+            {
+              "text": "“出示”是拿出来给对方看，不是把护照永久交给柜台；证件姓名应与预订信息一致。",
+              "text_vi": "“出示” là đưa giấy tờ cho xem, không phải giao luôn hộ chiếu; tên phải khớp đặt vé."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Vui lòng xuất trình hộ chiếu."
+        },
+        {
+          "id": "s39_1_0012",
+          "level": "listen",
+          "text": "行李超重了。",
+          "alternatives": [
+            {
+              "text": "这个箱子超重了。",
+              "id": "s39_1_0012_alt01",
+              "meaning_vi": "Vali này quá cân rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "请问超了多少公斤？",
+              "id": "s39_1_0012_reply01",
+              "meaning_vi": "Xin hỏi quá bao nhiêu ký?"
+            },
+            {
+              "text": "那我先重新整理行李。",
+              "id": "s39_1_0012_reply02",
+              "meaning_vi": "Vậy để tôi sắp xếp lại hành lý trước."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "xíng lǐ chāo zhòng le",
+          "mistakes": [
+            {
+              "text": "“行李超重了”是检查后的结果，不是行李箱坏了；可以询问超出多少公斤及是否需要整理或补费。",
+              "text_vi": "Hành lý quá cân là vượt hạn mức, không phải vali bị hỏng; hỏi vượt bao nhiêu kg và cách xử lý."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Hành lý quá cân rồi."
+        },
+        {
+          "id": "s39_1_0013",
+          "level": "listen",
+          "text": "这是登机牌。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，请问登机口在哪儿？",
+              "id": "s39_1_0013_reply01",
+              "meaning_vi": "Cảm ơn, cho hỏi cổng lên máy bay ở đâu?"
+            },
+            {
+              "text": "好，我再核对一下座位号。",
+              "id": "s39_1_0013_reply02",
+              "meaning_vi": "Được, tôi kiểm tra lại số ghế."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "zhè shì dēng jī pái",
+          "mistakes": [
+            {
+              "text": "“登机牌”上通常有航班、座位、登机口等信息；登机口有可能临时改变，仍需关注广播和显示屏。",
+              "text_vi": "Thẻ lên máy bay có mã chuyến, chỗ và cổng, nhưng cổng có thể đổi; hãy xem bảng và loa."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Đây là thẻ lên máy bay."
+        },
+        {
+          "id": "s39_1_0014",
+          "level": "listen",
+          "text": "超重要另外付费。",
+          "alternatives": [
+            {
+              "text": "超出额度的行李要补费。",
+              "id": "s39_1_0014_alt01",
+              "meaning_vi": "Vượt mức hành lý thì phải trả thêm tiền."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，要补多少钱？",
+              "id": "s39_1_0014_reply01",
+              "meaning_vi": "Được, phải trả thêm bao nhiêu?"
+            },
+            {
+              "text": "我想先重新整理行李，再称一次。",
+              "id": "s39_1_0014_reply02",
+              "meaning_vi": "Tôi muốn sắp xếp lại hành lý rồi cân lần nữa."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "chāo zhòng yào lìng wài fù fèi",
+          "mistakes": [
+            {
+              "text": "“另外付费”是原费用之外再付款，不表示柜台人员可以随意收现金；应确认航空公司公布的费用与付款凭证。",
+              "text_vi": "“Trả thêm” là ngoài phí đã mua, cần xác nhận phí chính thức của hãng và chứng từ thanh toán."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Hành lý quá cân phải trả thêm phí."
+        },
+        {
+          "id": "s39_1_0016",
+          "level": "listen",
+          "text": "靠窗座位已经没有了。",
+          "alternatives": [
+            {
+              "text": "没有靠窗的位置了。",
+              "id": "s39_1_0016_alt01",
+              "meaning_vi": "Không còn chỗ cạnh cửa sổ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那给我靠过道的吧。",
+              "id": "s39_1_0016_reply01",
+              "meaning_vi": "Vậy cho tôi ghế cạnh lối đi nhé."
+            },
+            {
+              "text": "好，其他座位也可以。",
+              "id": "s39_1_0016_reply02",
+              "meaning_vi": "Được, ghế khác cũng được."
+            }
+          ],
+          "lesson_id": "39.1",
+          "lesson_title": "39.1 值机托运",
+          "pinyin": "kào chuāng zuò wèi yǐ jīng méi yǒu le",
+          "mistakes": [
+            {
+              "text": "“靠窗座位没有了”仅指某种座位不可选，不表示整趟航班都售罄；可询问过道座或其他座席。",
+              "text_vi": "Hết ghế cạnh cửa sổ không đồng nghĩa chuyến hết vé, có thể hỏi ghế cạnh lối đi."
+            }
+          ],
+          "lesson_title_vi": "39.1 Làm thủ tục bay và ký gửi",
+          "meaning_vi": "Ghế cạnh cửa sổ hết rồi."
+        }
+      ],
+      "opening": "练习在中国机场找值机柜台、托运行李、核对登机牌和选座。办理值机、安检和登机是不同步骤。",
+      "subtitle": "12张高频卡 · 6必说 + 6必听",
+      "title_vi": "39.1 Làm thủ tục bay và ký gửi",
+      "opening_vi": "Tìm quầy làm thủ tục ở sân bay Trung Quốc, ký gửi hành lý, lấy thẻ lên máy bay và chọn chỗ; check-in, kiểm tra an ninh và lên máy bay là những bước riêng.",
+      "subtitle_vi": "12 thẻ giao tiếp"
+    },
+    {
+      "id": "39.2",
+      "title": "39.2 安检",
+      "phrases": [
+        {
+          "id": "s39_2_0001",
+          "level": "must",
+          "text": "安检在哪儿？",
+          "alternatives": [
+            {
+              "text": "安检入口在哪里？",
+              "id": "s39_2_0001_alt01",
+              "meaning_vi": "Lối vào khu kiểm tra an ninh ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在前面右边。",
+              "id": "s39_2_0001_reply01",
+              "meaning_vi": "Phía trước bên phải."
+            },
+            {
+              "text": "跟着安检标志走。",
+              "id": "s39_2_0001_reply02",
+              "meaning_vi": "Theo biển chỉ dẫn an ninh."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "ān jiǎn zài nǎr",
+          "mistakes": [
+            {
+              "text": "“安检”是安全检查，不是办理值机或出入境边防检查；国际航班往往还要分别办理边检手续。",
+              "text_vi": "An ninh khác thủ tục làm thẻ lên máy bay và kiểm soát xuất nhập cảnh; chuyến quốc tế có thể cần nhiều bước riêng."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Khu kiểm tra an ninh ở đâu?"
+        },
+        {
+          "id": "s39_2_0002",
+          "level": "must",
+          "text": "这个能带吗？",
+          "alternatives": [
+            {
+              "text": "这件东西能随身带上飞机吗？",
+              "id": "s39_2_0002_alt01",
+              "meaning_vi": "Tôi có thể mang món này lên máy bay trong hành lý xách tay không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这件可以随身带，但要接受安检。",
+              "id": "s39_2_0002_reply01",
+              "meaning_vi": "Món này được mang theo nhưng vẫn phải qua kiểm tra an ninh."
+            },
+            {
+              "text": "这个不能随身带，先问能否托运。",
+              "id": "s39_2_0002_reply02",
+              "meaning_vi": "Món này không được mang xách tay, bạn hỏi có ký gửi được không nhé."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "zhè ge néng dài ma",
+          "mistakes": [
+            {
+              "text": "“能带吗”在安检处通常问是否允许随身携带，和“能托运吗”不同；应说明具体物品而非猜测规定。",
+              "text_vi": "Ở cửa an ninh, “mang theo được không” thường hỏi hành lý xách tay, khác hỏi ký gửi."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Món này có mang theo được không?"
+        },
+        {
+          "id": "s39_2_0003",
+          "level": "must",
+          "text": "充电宝能托运吗？",
+          "alternatives": [
+            {
+              "text": "充电宝能放在托运行李里吗？",
+              "id": "s39_2_0003_alt01",
+              "meaning_vi": "Có được bỏ sạc dự phòng trong hành lý ký gửi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不能托运，要随身带。",
+              "id": "s39_2_0003_reply01",
+              "meaning_vi": "Không được ký gửi, phải để trong hành lý mang theo người."
+            },
+            {
+              "text": "坐中国境内航班，还要检查清晰的3C标识和是否属于召回批次。",
+              "id": "s39_2_0003_reply02",
+              "meaning_vi": "Với chuyến bay nội địa Trung Quốc còn phải kiểm tra dấu 3C rõ ràng và loại có bị thu hồi không."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "chōng diàn bǎo néng tuō yùn ma",
+          "mistakes": [
+            {
+              "text": "充电宝严禁托运；符合能量和标识要求才可随身带。2025年6月28日起，中国境内航班禁止携带无清晰3C标识或被召回的充电宝，国际航班具体查承运人规定。",
+              "text_vi": "Không được ký gửi sạc dự phòng. Theo quy định nêu trong giáo trình, từ 28/6/2025 chuyến nội địa Trung Quốc không nhận loại thiếu dấu 3C rõ hoặc thuộc diện thu hồi; kiểm tra quy định hãng hiện hành."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Sạc dự phòng có ký gửi được không?"
+        },
+        {
+          "id": "s39_2_0004",
+          "level": "must",
+          "text": "水要扔掉吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这瓶水不能带过这道安检，可以先喝完或按指示处理。",
+              "id": "s39_2_0004_reply01",
+              "meaning_vi": "Chai nước này không được mang qua cửa kiểm tra, bạn uống hết hoặc xử lý theo hướng dẫn nhé."
+            },
+            {
+              "text": "可以先喝完，再按现场要求处理瓶子。",
+              "id": "s39_2_0004_reply02",
+              "meaning_vi": "Có thể uống hết trước, sau đó xử lý vỏ chai theo quy định tại đây."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "shuǐ yào rēng diào ma",
+          "mistakes": [
+            {
+              "text": "“水要扔掉吗”问安检前是否需要处理饮用水，不等于连空水瓶也必须丢弃；液体规则按航线、物品类别及现场规定执行。",
+              "text_vi": "Hỏi xử lý nước trước an ninh, không có nghĩa chai rỗng cũng phải vứt; quy định chất lỏng tùy tuyến và loại vật."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Có phải bỏ chai nước đi không?"
+        },
+        {
+          "id": "s39_2_0005",
+          "level": "must",
+          "text": "这些东西放哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请放到安检筐里。",
+              "id": "s39_2_0005_reply01",
+              "meaning_vi": "Vui lòng đặt vào khay kiểm tra an ninh."
+            },
+            {
+              "text": "电脑按工作人员要求单独拿出来。",
+              "id": "s39_2_0005_reply02",
+              "meaning_vi": "Máy tính cần lấy riêng ra theo yêu cầu của nhân viên."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "zhè xiē dōng xi fàng nǎr",
+          "mistakes": [
+            {
+              "text": "“这些东西”指手里正在拿的多件物品，不是托运大箱子；安检筐用于接受检查，电脑是否单独拿出应听工作人员要求。",
+              "text_vi": "Khay an ninh dùng cho đồ mang theo; có cần lấy laptop riêng không phải nghe nhân viên."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Để những món này ở đâu?"
+        },
+        {
+          "id": "s39_2_0006",
+          "level": "must",
+          "text": "要把口袋清空吗？",
+          "alternatives": [
+            {
+              "text": "口袋里的东西都要拿出来吗？",
+              "id": "s39_2_0006_alt01",
+              "meaning_vi": "Phải lấy tất cả đồ trong túi ra à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "请把口袋里的东西拿出来。",
+              "id": "s39_2_0006_reply01",
+              "meaning_vi": "Vui lòng lấy đồ trong túi ra."
+            },
+            {
+              "text": "按工作人员要求就可以。",
+              "id": "s39_2_0006_reply02",
+              "meaning_vi": "Cứ làm theo hướng dẫn của nhân viên."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "yào bǎ kǒu dài qīng kōng ma",
+          "mistakes": [
+            {
+              "text": "“清空口袋”是把口袋里的东西取出来，不是把整个口袋剪掉；不同安检设备的具体要求要听现场人员。",
+              "text_vi": "Lấy đồ ra khỏi túi áo quần, không phải tháo túi; làm theo hướng dẫn máy và nhân viên."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Có phải lấy hết đồ trong túi áo quần ra không?"
+        },
+        {
+          "id": "s39_2_0007",
+          "level": "must",
+          "text": "液体有什么限制？",
+          "alternatives": [
+            {
+              "text": "液体能带多少毫升？",
+              "id": "s39_2_0007_alt01",
+              "meaning_vi": "Có thể mang bao nhiêu mililít chất lỏng?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "国内和国际航班的规定不完全一样。",
+              "id": "s39_2_0007_reply01",
+              "meaning_vi": "Quy định cho chuyến nội địa và quốc tế không hoàn toàn giống nhau."
+            },
+            {
+              "text": "具体看这趟航班和安检规定。",
+              "id": "s39_2_0007_reply02",
+              "meaning_vi": "Cụ thể theo chuyến bay và yêu cầu an ninh."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "yè tǐ yǒu shén me xiàn zhì",
+          "mistakes": [
+            {
+              "text": "“容量”说的是容器标注的毫升等容积，不一定是瓶子里剩下的液体量；中国境内与国际航班适用限制不同。",
+              "text_vi": "Giới hạn chất lỏng thường xét dung tích ghi trên chai, chưa chắc lượng thực còn; chuyến nội địa và quốc tế khác."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Chất lỏng bị giới hạn thế nào?"
+        },
+        {
+          "id": "s39_2_0008",
+          "level": "must",
+          "text": "充电宝要单独拿出来吗？",
+          "alternatives": [
+            {
+              "text": "要把移动电源取出来检查吗？",
+              "id": "s39_2_0008_alt01",
+              "meaning_vi": "Có cần lấy pin sạc dự phòng ra để kiểm tra không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按工作人员要求，需要的话单独拿出来。",
+              "id": "s39_2_0008_reply01",
+              "meaning_vi": "Theo yêu cầu nhân viên, nếu cần thì lấy riêng ra."
+            },
+            {
+              "text": "能否携带还要看容量、标识和航班要求。",
+              "id": "s39_2_0008_reply02",
+              "meaning_vi": "Được mang theo hay không còn tùy dung lượng, nhãn và quy định chuyến bay."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "chōng diàn bǎo yào dān dú ná chū lai ma",
+          "mistakes": [
+            {
+              "text": "“单独拿出来”是为了安全检查临时取出；即使允许随身带，也不代表飞行过程中允许使用充电宝给设备充电。",
+              "text_vi": "Lấy pin ra để kiểm tra chưa có nghĩa được dùng pin sạc trong lúc bay; còn tùy hãng và quy định."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Có phải lấy sạc dự phòng ra riêng không?"
+        },
+        {
+          "id": "s39_2_0009",
+          "level": "must",
+          "text": "大概要等多久？",
+          "alternatives": [
+            {
+              "text": "安检现在要排多久？",
+              "id": "s39_2_0009_alt01",
+              "meaning_vi": "Hiện xếp hàng kiểm tra an ninh mất bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "大概二十分钟。",
+              "id": "s39_2_0009_reply01",
+              "meaning_vi": "Khoảng hai mươi phút."
+            },
+            {
+              "text": "现在人多，可能要半小时。",
+              "id": "s39_2_0009_reply02",
+              "meaning_vi": "Giờ khá đông, có thể mất nửa tiếng."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "dà gài yào děng duō jiǔ",
+          "mistakes": [
+            {
+              "text": "“大概”是估计时间，工作人员说“二十分钟”也不保证准确；排队等待时间与航班起飞时刻不是同一个概念。",
+              "text_vi": "“Khoảng 20 phút” là ước tính hàng chờ, không phải giờ bay; có thể thay đổi."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Khoảng phải đợi bao lâu?"
+        },
+        {
+          "id": "s39_2_0012",
+          "level": "listen",
+          "text": "电脑单独拿出来。",
+          "alternatives": [
+            {
+              "text": "请单独拿出笔记本电脑。",
+              "id": "s39_2_0012_alt01",
+              "meaning_vi": "Vui lòng lấy laptop ra riêng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我把笔记本电脑单独拿出来。",
+              "id": "s39_2_0012_reply01",
+              "meaning_vi": "Được, tôi lấy laptop ra riêng."
+            },
+            {
+              "text": "放这个筐里吗？",
+              "id": "s39_2_0012_reply02",
+              "meaning_vi": "Để vào khay này à?"
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "diàn nǎo dān dú ná chū lai",
+          "mistakes": [
+            {
+              "text": "“电脑”在机场安检通常指笔记本电脑，不是只指台式机；“单独”是与其他物品分开放，并非要交给其他乘客。",
+              "text_vi": "Trong an ninh, “电脑” thường là laptop; “riêng” là đặt tách đồ khác, không giao cho hành khách lạ."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Lấy máy tính ra riêng."
+        },
+        {
+          "id": "s39_2_0013",
+          "level": "listen",
+          "text": "充电宝不能托运。",
+          "alternatives": [
+            {
+              "text": "移动电源不能放进托运行李。",
+              "id": "s39_2_0013_alt01",
+              "meaning_vi": "Không được để pin sạc dự phòng trong hành lý ký gửi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我把充电宝从箱子里取出来。",
+              "id": "s39_2_0013_reply01",
+              "meaning_vi": "Được, tôi lấy sạc dự phòng ra khỏi vali."
+            },
+            {
+              "text": "那我把充电宝放在随身包里，再让安检员检查。",
+              "id": "s39_2_0013_reply02",
+              "meaning_vi": "Vậy tôi cho vào túi xách tay rồi nhờ nhân viên kiểm tra."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "chōng diàn bǎo bù néng tuō yùn",
+          "mistakes": [
+            {
+              "text": "“不能托运”只表示不能放入交运行李；是否允许带入客舱还需检查电池规格、标识和承运规则，不能一概认为可随身带。",
+              "text_vi": "Không ký gửi không có nghĩa chắc chắn được xách tay; còn phải kiểm tra dung lượng pin, nhãn và quy định."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Không được ký gửi sạc dự phòng."
+        },
+        {
+          "id": "s39_2_0014",
+          "level": "listen",
+          "text": "请把口袋清空。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在拿出来。",
+              "id": "s39_2_0014_reply01",
+              "meaning_vi": "Được, tôi lấy ra ngay."
+            },
+            {
+              "text": "这些也要放筐里吗？",
+              "id": "s39_2_0014_reply02",
+              "meaning_vi": "Mấy món này cũng phải cho vào khay à?"
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "qǐng bǎ kǒu dài qīng kōng",
+          "mistakes": [
+            {
+              "text": "“请把……”是礼貌指令，机场安检中需照做；“清空”指所有需要拿出的口袋物品，不等于把行李箱完全打开倒空。",
+              "text_vi": "“清空口袋” là lấy các món trong túi ra theo yêu cầu, không phải đổ rỗng cả vali."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Vui lòng lấy hết đồ trong túi áo quần ra."
+        },
+        {
+          "id": "s39_2_0015",
+          "level": "listen",
+          "text": "这个不能随身带。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那这个怎么办？",
+              "id": "s39_2_0015_reply01",
+              "meaning_vi": "Vậy tôi xử lý món này thế nào?"
+            },
+            {
+              "text": "好，我问一下工作人员。",
+              "id": "s39_2_0015_reply02",
+              "meaning_vi": "Được, tôi hỏi nhân viên."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "zhè ge bù néng suí shēn dài",
+          "mistakes": [
+            {
+              "text": "“不能随身带”与“禁止运输”不同；某些物品符合条件可托运，危险品则可能托运和随身携带都不允许。",
+              "text_vi": "Không được xách tay chưa chắc bị cấm mọi dạng vận chuyển; cần hỏi có ký gửi được không."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Món này không được mang theo người lên máy bay."
+        },
+        {
+          "id": "s39_2_0016",
+          "level": "listen",
+          "text": "请放到安检筐里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，放这里对吧？",
+              "id": "s39_2_0016_reply01",
+              "meaning_vi": "Được, để ở đây đúng không?"
+            },
+            {
+              "text": "知道了。",
+              "id": "s39_2_0016_reply02",
+              "meaning_vi": "Hiểu rồi."
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "qǐng fàng dào ān jiǎn kuāng lǐ",
+          "mistakes": [
+            {
+              "text": "“放到……里”表示放进筐里，不是随意放在地上或直接给工作人员；贵重物品要留意取回。",
+              "text_vi": "Đặt đồ vào khay, không để bừa xuống sàn; lấy lại đồ quý sau khi qua kiểm tra."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Vui lòng đặt vào khay kiểm tra an ninh."
+        },
+        {
+          "id": "s39_2_0018",
+          "level": "listen",
+          "text": "请检查充电宝上的三C标识。",
+          "alternatives": [
+            {
+              "text": "看看充电宝的CCC认证标志。",
+              "id": "s39_2_0018_alt01",
+              "meaning_vi": "Xem dấu chứng nhận CCC trên sạc dự phòng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，3C标志在这个位置。",
+              "id": "s39_2_0018_reply01",
+              "meaning_vi": "Vâng, dấu 3C ở đây."
+            },
+            {
+              "text": "如果标识看不清，是不是不能带上境内航班？",
+              "id": "s39_2_0018_reply02",
+              "meaning_vi": "Nếu dấu không rõ thì có phải không được mang lên chuyến nội địa không?"
+            }
+          ],
+          "lesson_id": "39.2",
+          "lesson_title": "39.2 安检",
+          "pinyin": "qǐng jiǎn chá chōng diàn bǎo shàng de sān xī biāo shí",
+          "mistakes": [
+            {
+              "text": "“三C”指CCC认证标识，不是剩余电量3%。中国民航局规定自2025年6月28日起，国内航班禁止携带无清晰3C标识或被召回型号、批次的充电宝。",
+              "text_vi": "3C là dấu chứng nhận CCC, không phải 3% pin. Theo quy định nêu trong giáo trình, từ 28/6/2025 chuyến nội địa Trung Quốc kiểm tra dấu 3C và sản phẩm bị thu hồi."
+            }
+          ],
+          "lesson_title_vi": "39.2 Kiểm tra an ninh",
+          "meaning_vi": "Vui lòng kiểm tra dấu 3C trên sạc dự phòng."
+        }
+      ],
+      "opening": "练习安检时询问充电宝、液体、电脑、安检筐和排队时间。充电宝不得托运，能否随身携带须符合航线及航空公司规定。",
+      "subtitle": "15张高频卡 · 9必说 + 6必听",
+      "title_vi": "39.2 Kiểm tra an ninh",
+      "opening_vi": "Hỏi về sạc dự phòng, chất lỏng, laptop, khay kiểm tra và thời gian xếp hàng. Không ký gửi sạc dự phòng; mang xách tay phải theo quy định chuyến bay.",
+      "subtitle_vi": "15 thẻ giao tiếp"
+    },
+    {
+      "id": "39.3",
+      "title": "39.3 登机口登机",
+      "phrases": [
+        {
+          "id": "s39_3_0001",
+          "level": "must",
+          "text": "登机口在哪儿？",
+          "alternatives": [
+            {
+              "text": "这班航班从哪个登机口上？",
+              "id": "s39_3_0001_alt01",
+              "meaning_vi": "Chuyến này lên máy bay ở cổng nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在前面左边。",
+              "id": "s39_3_0001_reply01",
+              "meaning_vi": "Phía trước bên trái."
+            },
+            {
+              "text": "我再核对一下航班号，登机口可能会调整。",
+              "id": "s39_3_0001_reply02",
+              "meaning_vi": "Để tôi kiểm tra lại số hiệu chuyến, cổng có thể thay đổi."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "dēng jī kǒu zài nǎr",
+          "mistakes": [
+            {
+              "text": "“登机口”是进入飞机登机流程的门，不是值机柜台或登机牌；可能临时换门，要同时看航班号和大屏。",
+              "text_vi": "Cổng lên máy bay là cửa làm thủ tục lên tàu bay, khác quầy check-in; có thể đổi bất ngờ, so số chuyến."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Cổng lên máy bay ở đâu?"
+        },
+        {
+          "id": "s39_3_0002",
+          "level": "must",
+          "text": "几点登机？",
+          "alternatives": [
+            {
+              "text": "什么时候开始登机？",
+              "id": "s39_3_0002_alt01",
+              "meaning_vi": "Khi nào bắt đầu lên máy bay?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "两点半开始登机。",
+              "id": "s39_3_0002_reply01",
+              "meaning_vi": "Bắt đầu lúc hai giờ rưỡi."
+            },
+            {
+              "text": "登机时间可能变更，请留意大屏和广播。",
+              "id": "s39_3_0002_reply02",
+              "meaning_vi": "Giờ lên máy bay có thể thay đổi, chú ý bảng và loa thông báo."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "jǐ diǎn dēng jī",
+          "mistakes": [
+            {
+              "text": "“几点登机”问开始登机的时间，不是起飞时间；登机组别和登机口若变化，应以现场屏幕和广播为准。",
+              "text_vi": "“几点登机” hỏi giờ bắt đầu lên máy bay, không phải giờ cất cánh; xem nhóm lên máy bay và bảng."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Mấy giờ bắt đầu lên máy bay?"
+        },
+        {
+          "id": "s39_3_0003",
+          "level": "must",
+          "text": "开始登机了吗？",
+          "alternatives": [
+            {
+              "text": "现在可以登机了吗？",
+              "id": "s39_3_0003_alt01",
+              "meaning_vi": "Giờ lên máy bay được chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "开始了，可以去排队。",
+              "id": "s39_3_0003_reply01",
+              "meaning_vi": "Bắt đầu rồi, có thể đi xếp hàng."
+            },
+            {
+              "text": "还没开始，再等一下。",
+              "id": "s39_3_0003_reply02",
+              "meaning_vi": "Chưa bắt đầu, chờ thêm chút nhé."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "kāi shǐ dēng jī le ma",
+          "mistakes": [
+            {
+              "text": "“开始登机了”指登机手续已开放，不一定代表所有区域都能同时排队；需留意分组广播。",
+              "text_vi": "Bắt đầu lên máy bay chưa chắc mọi nhóm được xếp hàng cùng lúc, nên nghe thông báo."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Đã bắt đầu lên máy bay chưa?"
+        },
+        {
+          "id": "s39_3_0004",
+          "level": "must",
+          "text": "这是登机的队吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，在这里排队。",
+              "id": "s39_3_0004_reply01",
+              "meaning_vi": "Đúng, xếp hàng ở đây."
+            },
+            {
+              "text": "不是，登机的队在那边。",
+              "id": "s39_3_0004_reply02",
+              "meaning_vi": "Không, hàng lên máy bay ở bên kia."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "zhè shì dēng jī de duì ma",
+          "mistakes": [
+            {
+              "text": "“这是……的队吗”是询问队伍用途，不是问飞机是不是“队”；还要确认航班号和登机组别。",
+              "text_vi": "Hỏi hàng người đang xếp có phải hàng lên chuyến mình không, cần xem số chuyến và nhóm."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Đây có phải hàng xếp lên máy bay không?"
+        },
+        {
+          "id": "s39_3_0005",
+          "level": "must",
+          "text": "需要护照吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "国际航班请准备护照和登机牌。",
+              "id": "s39_3_0005_reply01",
+              "meaning_vi": "Với chuyến quốc tế, hãy chuẩn bị hộ chiếu và thẻ lên máy bay."
+            },
+            {
+              "text": "请按登机口要求出示这趟航班需要的有效证件。",
+              "id": "s39_3_0005_reply02",
+              "meaning_vi": "Vui lòng xuất trình giấy tờ hợp lệ theo yêu cầu ở cổng chuyến này."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "xū yào hù zhào ma",
+          "mistakes": [
+            {
+              "text": "国际航班一般须携带有效护照和相应旅行证件；国内航班证件要求不同。“需要护照吗”不是在问能否免签入境。",
+              "text_vi": "Chuyến quốc tế cần hộ chiếu, giấy tờ nhập cảnh phù hợp; chuyến nội địa có yêu cầu khác, câu này không hỏi miễn thị thực."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Có cần hộ chiếu không?"
+        },
+        {
+          "id": "s39_3_0007",
+          "level": "must",
+          "text": "登机口离这里远吗？",
+          "alternatives": [
+            {
+              "text": "走到登机口要多久？",
+              "id": "s39_3_0007_alt01",
+              "meaning_vi": "Đi bộ tới cổng mất bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不远，走十分钟左右。",
+              "id": "s39_3_0007_reply01",
+              "meaning_vi": "Không xa, đi bộ khoảng mười phút."
+            },
+            {
+              "text": "有点远，大概要走二十分钟。",
+              "id": "s39_3_0007_reply02",
+              "meaning_vi": "Hơi xa, khoảng hai mươi phút."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "dēng jī kǒu lí zhè li yuǎn ma",
+          "mistakes": [
+            {
+              "text": "“离这里远吗”问从当前位置到登机口的距离或步行时间，不是问飞机的飞行距离；要预留行走时间。",
+              "text_vi": "Xa hay gần cổng là khoảng cách đi bộ trong sân bay, không phải khoảng cách chuyến bay; dự trù giờ đi."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Cổng lên máy bay có xa đây không?"
+        },
+        {
+          "id": "s39_3_0008",
+          "level": "must",
+          "text": "需要坐摆渡车吗？",
+          "alternatives": [
+            {
+              "text": "这班要坐机场摆渡车吗？",
+              "id": "s39_3_0008_alt01",
+              "meaning_vi": "Chuyến này có dùng xe buýt trung chuyển sân bay không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "需要，登机口核验后坐摆渡车去飞机旁。",
+              "id": "s39_3_0008_reply01",
+              "meaning_vi": "Có, soát thẻ ở cổng rồi đi xe ra chỗ máy bay đỗ."
+            },
+            {
+              "text": "不用，直接从廊桥走到飞机上。",
+              "id": "s39_3_0008_reply02",
+              "meaning_vi": "Không, đi thẳng qua ống lồng lên máy bay."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "xū yào zuò bǎi dù chē ma",
+          "mistakes": [
+            {
+              "text": "“摆渡车”是登机口与停机位之间的机场接驳巴士；应在登机口核验后乘车，不是已经上飞机后再坐车。",
+              "text_vi": "Xe trung chuyển sân bay chở khách từ cổng tới nơi máy bay đỗ, không phải xe đi sau khi đã lên máy bay."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Có phải đi xe buýt trung chuyển ra máy bay không?"
+        },
+        {
+          "id": "s39_3_0009",
+          "level": "must",
+          "text": "登机口换了吗？",
+          "alternatives": [
+            {
+              "text": "登机门改了吗？",
+              "id": "s39_3_0009_alt01",
+              "meaning_vi": "Cổng lên máy bay thay đổi rồi à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "换了，改到二十五号登机口。",
+              "id": "s39_3_0009_reply01",
+              "meaning_vi": "Đổi rồi, sang cổng số 25."
+            },
+            {
+              "text": "没有，还是原来的登机口。",
+              "id": "s39_3_0009_reply02",
+              "meaning_vi": "Không, vẫn là cổng cũ."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "dēng jī kǒu huàn le ma",
+          "mistakes": [
+            {
+              "text": "“登机口换了”是上机地点变更，不等于航班被取消或目的地变了；以最新航班屏幕和广播为准。",
+              "text_vi": "Đổi cổng không đồng nghĩa hủy chuyến hay đổi nơi đến; xem bảng mới nhất."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Đổi cổng lên máy bay rồi à?"
+        },
+        {
+          "id": "s39_3_0010",
+          "level": "must",
+          "text": "还有多久停止登机？",
+          "alternatives": [
+            {
+              "text": "登机口还有多久关闭？",
+              "id": "s39_3_0010_alt01",
+              "meaning_vi": "Cổng lên máy bay còn bao lâu mới đóng?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还有二十分钟。",
+              "id": "s39_3_0010_reply01",
+              "meaning_vi": "Còn hai mươi phút."
+            },
+            {
+              "text": "还有十分钟左右，请尽快去正确的登机口。",
+              "id": "s39_3_0010_reply02",
+              "meaning_vi": "Còn khoảng mười phút, hãy nhanh tới đúng cổng."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "hái yǒu duō jiǔ tíng zhǐ dēng jī",
+          "mistakes": [
+            {
+              "text": "“停止登机”指关门后不再允许旅客通过登机口，不是飞机起飞时刻；不要把“还有十分钟”理解为必定不会提前调整。",
+              "text_vi": "Đóng cổng lên máy bay khác giờ cất cánh; thời gian có thể cập nhật, không nên tới sát giờ."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Còn bao lâu thì đóng cổng lên máy bay?"
+        },
+        {
+          "id": "s39_3_0011",
+          "level": "listen",
+          "text": "请到二十五号登机口。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在过去。",
+              "id": "s39_3_0011_reply01",
+              "meaning_vi": "Được, tôi tới ngay."
+            },
+            {
+              "text": "二十五号登机口在哪边？",
+              "id": "s39_3_0011_reply02",
+              "meaning_vi": "Cổng số 25 ở phía nào?"
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "qǐng dào èr shí wǔ hào dēng jī kǒu",
+          "mistakes": [
+            {
+              "text": "“二十五号”是登机门编号25，不是座位25，也不是航班号25；看对应航站楼和楼层。",
+              "text_vi": "Số 25 là số cổng, không phải số ghế hoặc số chuyến; kiểm tra cả nhà ga."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Vui lòng tới cổng lên máy bay số 25."
+        },
+        {
+          "id": "s39_3_0012",
+          "level": "listen",
+          "text": "现在开始登机。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我看看是不是轮到我的区域。",
+              "id": "s39_3_0012_reply01",
+              "meaning_vi": "Được, tôi xem đã tới lượt khu vực của mình chưa."
+            },
+            {
+              "text": "请问现在开放到哪个登机区了？",
+              "id": "s39_3_0012_reply02",
+              "meaning_vi": "Xin hỏi đang cho nhóm lên máy bay nào vào?"
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "xiàn zài kāi shǐ dēng jī",
+          "mistakes": [
+            {
+              "text": "“现在开始”表示登机程序此刻开放，不等于飞机马上起飞；若分区登机，按自己的区域排队。",
+              "text_vi": "Bắt đầu lên máy bay chưa có nghĩa sắp cất cánh, hãy xếp hàng đúng nhóm."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Bây giờ bắt đầu cho lên máy bay."
+        },
+        {
+          "id": "s39_3_0014",
+          "level": "listen",
+          "text": "登机口变更了。",
+          "alternatives": [
+            {
+              "text": "登机门已经换了。",
+              "id": "s39_3_0014_alt01",
+              "meaning_vi": "Đã thay cổng lên máy bay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "改到几号了？",
+              "id": "s39_3_0014_reply01",
+              "meaning_vi": "Đổi sang cổng số mấy?"
+            },
+            {
+              "text": "好，我看一下大屏。",
+              "id": "s39_3_0014_reply02",
+              "meaning_vi": "Được, để tôi xem bảng điện tử."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "dēng jī kǒu biàn gēng le",
+          "mistakes": [
+            {
+              "text": "“变更”是信息发生变化，变更登机口和“航班延误”不是同一回事；可能同时发生，也可能不发生。",
+              "text_vi": "Đổi cổng là thay đổi địa điểm lên, khác chuyến bị trễ, dù có thể cùng xảy ra."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Cổng lên máy bay đã đổi."
+        },
+        {
+          "id": "s39_3_0016",
+          "level": "listen",
+          "text": "请准备护照和登机牌。",
+          "alternatives": [
+            {
+              "text": "请提前拿好登机牌和护照。",
+              "id": "s39_3_0016_alt01",
+              "meaning_vi": "Hãy cầm sẵn thẻ lên máy bay và hộ chiếu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我准备好了。",
+              "id": "s39_3_0016_reply01",
+              "meaning_vi": "Được, tôi chuẩn bị xong rồi."
+            },
+            {
+              "text": "护照和登机牌都准备好了，请核对。",
+              "id": "s39_3_0016_reply02",
+              "meaning_vi": "Tôi đã có đủ hộ chiếu và thẻ lên máy bay, xin kiểm tra."
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "qǐng zhǔn bèi hù zhào hé dēng jī pái",
+          "mistakes": [
+            {
+              "text": "“请准备护照和登机牌”指提前备好供核验；国内/国际航班证件要求可能不同，护照应交给正规工作人员核对而非陌生人。",
+              "text_vi": "Chuẩn bị sẵn hộ chiếu và thẻ để nhân viên kiểm tra, không đưa hộ chiếu cho người lạ."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Vui lòng chuẩn bị hộ chiếu và thẻ lên máy bay."
+        },
+        {
+          "id": "s39_3_0017",
+          "level": "listen",
+          "text": "请尽快登机。",
+          "alternatives": [
+            {
+              "text": "请抓紧时间登机。",
+              "id": "s39_3_0017_alt01",
+              "meaning_vi": "Hãy nhanh chóng ra lên máy bay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我马上去登机口。",
+              "id": "s39_3_0017_reply01",
+              "meaning_vi": "Được, tôi tới cổng ngay."
+            },
+            {
+              "text": "请问登机口还开着吗？",
+              "id": "s39_3_0017_reply02",
+              "meaning_vi": "Xin hỏi cổng vẫn đang mở chứ?"
+            }
+          ],
+          "lesson_id": "39.3",
+          "lesson_title": "39.3 登机口登机",
+          "pinyin": "qǐng jǐn kuài dēng jī",
+          "mistakes": [
+            {
+              "text": "“尽快”是尽可能快但仍要遵守安全秩序，不是让旅客冲撞队伍；听到这句话要立刻前往正确登机口。",
+              "text_vi": "“尽快” là sớm nhất có thể nhưng giữ trật tự, không chen lấn khi lên máy bay."
+            }
+          ],
+          "lesson_title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+          "meaning_vi": "Vui lòng lên máy bay sớm."
+        }
+      ],
+      "opening": "练习辨别登机口、登机开始和停止时间、登机队列以及摆渡车。登机口可能变更，要持续核对航班号。",
+      "subtitle": "14张高频卡 · 9必说 + 5必听",
+      "title_vi": "39.3 Cổng lên máy bay và lên máy bay",
+      "opening_vi": "Phân biệt số cổng, giờ bắt đầu/đóng cổng và hàng xếp, xe trung chuyển sân bay. Cổng có thể thay đổi, hãy kiểm tra số chuyến liên tục.",
+      "subtitle_vi": "14 thẻ giao tiếp"
+    },
+    {
+      "id": "39.4",
+      "title": "39.4 延误取消转机",
+      "phrases": [
+        {
+          "id": "s39_4_0001",
+          "level": "must",
+          "text": "航班延误多久？",
+          "alternatives": [
+            {
+              "text": "这班飞机预计晚多久？",
+              "id": "s39_4_0001_alt01",
+              "meaning_vi": "Dự kiến chuyến này trễ bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "预计延误两小时。",
+              "id": "s39_4_0001_reply01",
+              "meaning_vi": "Dự kiến trễ hai tiếng."
+            },
+            {
+              "text": "现在还没有确定时间。",
+              "id": "s39_4_0001_reply02",
+              "meaning_vi": "Hiện chưa xác định được giờ."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "háng bān yán wù duō jiǔ",
+          "mistakes": [
+            {
+              "text": "“航班延误多久”问比原计划晚多久，不是问飞机在空中飞多久；预计延误时间可能继续变化。",
+              "text_vi": "Hỏi trễ bao lâu là so với giờ dự kiến, không phải thời gian bay trong không trung."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Chuyến bay bị trễ bao lâu?"
+        },
+        {
+          "id": "s39_4_0002",
+          "level": "must",
+          "text": "为什么取消？",
+          "alternatives": [
+            {
+              "text": "航班取消是什么原因？",
+              "id": "s39_4_0002_alt01",
+              "meaning_vi": "Lý do hủy chuyến là gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "因为天气原因。",
+              "id": "s39_4_0002_reply01",
+              "meaning_vi": "Do thời tiết."
+            },
+            {
+              "text": "因为空中交通管制。",
+              "id": "s39_4_0002_reply02",
+              "meaning_vi": "Do hạn chế điều hành không lưu."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "wèi shén me qǔ xiāo",
+          "mistakes": [
+            {
+              "text": "“取消”表示这趟航班不再按原计划执行，和“延误”推迟起飞不同；不能从原因推定一定免费住宿或全额赔偿。",
+              "text_vi": "Hủy chuyến khác với trễ chuyến; nguyên nhân hủy không tự động bảo đảm miễn phí khách sạn hay bồi thường."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Vì sao chuyến bay bị hủy?"
+        },
+        {
+          "id": "s39_4_0003",
+          "level": "must",
+          "text": "下一班航班几点？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "下午六点有一班，但还要查有没有座位。",
+              "id": "s39_4_0003_reply01",
+              "meaning_vi": "Có chuyến lúc 6 giờ chiều, nhưng phải kiểm tra còn ghế không."
+            },
+            {
+              "text": "下一班时间还没确定。",
+              "id": "s39_4_0003_reply02",
+              "meaning_vi": "Giờ chuyến tiếp theo chưa xác định."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "xià yì bān háng bān jǐ diǎn",
+          "mistakes": [
+            {
+              "text": "“下一班”指可查询的下一趟航班，不代表一定有余票或者你原票自动改到了这班。",
+              "text_vi": "Chuyến tiếp theo có thể là chuyến khác, nhưng chưa chắc còn chỗ hay vé cũ tự chuyển sang."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Chuyến bay tiếp theo lúc mấy giờ?"
+        },
+        {
+          "id": "s39_4_0004",
+          "level": "must",
+          "text": "转机还来得及吗？",
+          "alternatives": [
+            {
+              "text": "我还能赶上转机吗？",
+              "id": "s39_4_0004_alt01",
+              "meaning_vi": "Tôi có kịp chuyển tiếp chuyến bay không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可能还来得及，但要先确认是否需再次安检或边检。",
+              "id": "s39_4_0004_reply01",
+              "meaning_vi": "Có thể còn kịp, nhưng phải kiểm tra có phải qua an ninh hoặc xuất nhập cảnh lần nữa không."
+            },
+            {
+              "text": "恐怕来不及，请马上找中转柜台确认。",
+              "id": "s39_4_0004_reply02",
+              "meaning_vi": "E là không kịp, hãy đến quầy nối chuyến xác nhận ngay."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "zhuǎn jī hái lái de jí ma",
+          "mistakes": [
+            {
+              "text": "“来得及转机”需要考虑下一程停止登机时间、换航站楼、重新安检和可能的边检；不能保证直接到下一登机口就能衔接。",
+              "text_vi": "Kịp nối chuyến phải tính giờ đóng cổng, đổi nhà ga, an ninh và kiểm tra biên phòng nếu có."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Tôi còn kịp chuyến nối không?"
+        },
+        {
+          "id": "s39_4_0005",
+          "level": "must",
+          "text": "托运行李怎么办？",
+          "alternatives": [
+            {
+              "text": "改签以后托运行李会怎么安排？",
+              "id": "s39_4_0005_alt01",
+              "meaning_vi": "Sau khi đổi chuyến, hành lý ký gửi sẽ được chuyển thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先确认行李能否直挂到终点。",
+              "id": "s39_4_0005_reply01",
+              "meaning_vi": "Trước hết xác nhận hành lý có chuyển thẳng đến điểm cuối không."
+            },
+            {
+              "text": "如果航班取消或改签，先确认要不要取行李。",
+              "id": "s39_4_0005_reply02",
+              "meaning_vi": "Nếu hủy hoặc đổi chuyến, phải hỏi có cần lấy hành lý không."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "tuō yùn xíng lǐ zěn me bàn",
+          "mistakes": [
+            {
+              "text": "转机或改签时“行李直挂”是托运行李直接送到终点；分开出票、换航司或入境转机时可能需要提取并重新托运，先问清楚。",
+              "text_vi": "Hành lý ký gửi chuyển thẳng đến điểm cuối gọi là “直挂”; vé đặt riêng hoặc hãng khác có thể phải lấy ra gửi lại."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Hành lý ký gửi của tôi xử lý thế nào?"
+        },
+        {
+          "id": "s39_4_0006",
+          "level": "must",
+          "text": "可以免费改签吗？",
+          "alternatives": [
+            {
+              "text": "改航班要另外付费吗？",
+              "id": "s39_4_0006_alt01",
+              "meaning_vi": "Đổi chuyến có phải trả thêm phí không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要看航空公司及机票条款，先查询改签条件。",
+              "id": "s39_4_0006_reply01",
+              "meaning_vi": "Tùy hãng và điều kiện vé, cần kiểm tra trước."
+            },
+            {
+              "text": "若符合非自愿改签条件，可能可以免收改签费，具体以航司为准。",
+              "id": "s39_4_0006_reply02",
+              "meaning_vi": "Nếu đủ điều kiện đổi ngoài ý muốn thì có thể được miễn phí đổi, tùy hãng quyết định."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "kě yǐ miǎn fèi gǎi qiān ma",
+          "mistakes": [
+            {
+              "text": "因航班延误或取消能否免费改签，取决于实际原因、票规、是否属于非自愿变更及航空公司的安排；不等于所有延误自动免全部费用。",
+              "text_vi": "Đổi miễn phí tùy nguyên nhân trễ/hủy, điều kiện vé, thay đổi bất đắc dĩ và chính sách hãng."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Có đổi chuyến miễn phí được không?"
+        },
+        {
+          "id": "s39_4_0007",
+          "level": "must",
+          "text": "转机赶不上怎么办？",
+          "alternatives": [
+            {
+              "text": "错过转机了，应该找谁处理？",
+              "id": "s39_4_0007_alt01",
+              "meaning_vi": "Lỡ chuyến nối thì nhờ ai xử lý?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "请到中转柜台处理。",
+              "id": "s39_4_0007_reply01",
+              "meaning_vi": "Vui lòng tới quầy nối chuyến."
+            },
+            {
+              "text": "如果两段是分开买的票，还要分别联系承运航司。",
+              "id": "s39_4_0007_reply02",
+              "meaning_vi": "Nếu hai chặng mua vé riêng thì phải liên hệ từng hãng vận chuyển."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "zhuǎn jī gǎn bú shàng zěn me bàn",
+          "mistakes": [
+            {
+              "text": "若前后两段是分开购票而非同一联程订单，错过转机的处理责任和改签安排可能不同；应分别联系相应航空公司。",
+              "text_vi": "Hai chặng mua vé riêng có thể không được bảo vệ nối chuyến như cùng đơn; liên hệ từng hãng."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Nếu lỡ chuyến nối thì phải làm sao?"
+        },
+        {
+          "id": "s39_4_0010",
+          "level": "must",
+          "text": "今天还有别的航班吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "今天还有一班，但是否有余票需要查询。",
+              "id": "s39_4_0010_reply01",
+              "meaning_vi": "Hôm nay còn một chuyến, nhưng cần kiểm tra còn chỗ không."
+            },
+            {
+              "text": "今天暂时没有别的航班。",
+              "id": "s39_4_0010_reply02",
+              "meaning_vi": "Hôm nay tạm thời không còn chuyến khác."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "jīn tiān hái yǒu bié de háng bān ma",
+          "mistakes": [
+            {
+              "text": "“别的航班”指其他航班班次，可能属于其他航空公司；有航班不代表有可改签的座位。",
+              "text_vi": "Có chuyến khác trong ngày chưa chắc có vé trống để đổi; có thể là hãng khác."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Hôm nay còn chuyến bay nào khác không?"
+        },
+        {
+          "id": "s39_4_0011",
+          "level": "listen",
+          "text": "预计延误两小时。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s39_4_0011_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "登机时间也会往后吗？",
+              "id": "s39_4_0011_reply02",
+              "meaning_vi": "Giờ lên máy bay có dời lại không?"
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "yù jì yán wù liǎng xiǎo shí",
+          "mistakes": [
+            {
+              "text": "“预计”只是根据现有信息估计，延误两小时不保证正好两小时后能起飞；仍须留意变更。",
+              "text_vi": "Thời gian dự kiến là ước lượng, trễ hai tiếng chưa chắc chính xác hai tiếng."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Dự kiến trễ hai tiếng."
+        },
+        {
+          "id": "s39_4_0012",
+          "level": "listen",
+          "text": "航班取消了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我去航空公司柜台问一下。",
+              "id": "s39_4_0012_reply01",
+              "meaning_vi": "Vậy tôi đến quầy hãng hàng không hỏi nhé."
+            },
+            {
+              "text": "可以改到下一班吗？",
+              "id": "s39_4_0012_reply02",
+              "meaning_vi": "Có thể chuyển sang chuyến kế tiếp không?"
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "háng bān qǔ xiāo le",
+          "mistakes": [
+            {
+              "text": "“取消了”不是仅延迟起飞，不能一直在原登机口等；要根据航空公司公告咨询退改签。",
+              "text_vi": "Hủy chuyến khác chỉ trễ giờ; cần liên hệ hãng đổi, hoàn thay vì cứ đợi ở cổng cũ."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Chuyến bay đã bị hủy."
+        },
+        {
+          "id": "s39_4_0013",
+          "level": "listen",
+          "text": "请到航空公司柜台处理。",
+          "alternatives": [
+            {
+              "text": "请联系这家航空公司的柜台。",
+              "id": "s39_4_0013_alt01",
+              "meaning_vi": "Vui lòng liên hệ quầy của hãng này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我现在过去。",
+              "id": "s39_4_0013_reply01",
+              "meaning_vi": "Được, tôi tới ngay."
+            },
+            {
+              "text": "航空公司柜台在哪儿？",
+              "id": "s39_4_0013_reply02",
+              "meaning_vi": "Quầy hãng hàng không ở đâu?"
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "qǐng dào háng kōng gōng sī guì tái chǔ lǐ",
+          "mistakes": [
+            {
+              "text": "“航空公司柜台”是承运航空公司的服务点，不是任何机场柜台都能替你改另一家公司的票。",
+              "text_vi": "Quầy hãng là quầy chính hãng vận chuyển, không chắc quầy bất kỳ giải quyết được vé của hãng khác."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Vui lòng tới quầy hãng hàng không để xử lý."
+        },
+        {
+          "id": "s39_4_0014",
+          "level": "listen",
+          "text": "来得及。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我先确认中转是否需要重新安检。",
+              "id": "s39_4_0014_reply01",
+              "meaning_vi": "Vậy trước tiên tôi xác nhận có phải qua an ninh lại khi nối chuyến không."
+            },
+            {
+              "text": "中间需要重新安检吗？",
+              "id": "s39_4_0014_reply02",
+              "meaning_vi": "Khi nối chuyến có cần qua kiểm tra an ninh lần nữa không?"
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "lái de jí",
+          "mistakes": [
+            {
+              "text": "“来得及”意为还有时间完成某事，反义“来不及”；并非保证你慢慢走也一定能赶上。",
+              "text_vi": "“Kịp” là còn đủ thời gian, khác “không kịp”, không có nghĩa có thể đi thong thả."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Vẫn còn kịp."
+        },
+        {
+          "id": "s39_4_0017",
+          "level": "listen",
+          "text": "请到中转柜台处理。",
+          "alternatives": [
+            {
+              "text": "去中转服务台问一下。",
+              "id": "s39_4_0017_alt01",
+              "meaning_vi": "Đến quầy hỗ trợ nối chuyến hỏi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我现在过去。",
+              "id": "s39_4_0017_reply01",
+              "meaning_vi": "Được, tôi tới ngay."
+            },
+            {
+              "text": "中转柜台在哪儿？",
+              "id": "s39_4_0017_reply02",
+              "meaning_vi": "Quầy nối chuyến ở đâu?"
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "qǐng dào zhōng zhuǎn guì tái chǔ lǐ",
+          "mistakes": [
+            {
+              "text": "“中转柜台”处理衔接行程问题，和办理首次值机的柜台不同；先出示相关航班订单和护照。",
+              "text_vi": "Quầy nối chuyến xử lý chặng nối, khác quầy check-in ban đầu; cần giấy tờ và thông tin cả hai chuyến."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Vui lòng tới quầy nối chuyến để xử lý."
+        },
+        {
+          "id": "s39_4_0018",
+          "level": "listen",
+          "text": "航班时间还没有确定。",
+          "alternatives": [
+            {
+              "text": "新的起飞时间尚未公布。",
+              "id": "s39_4_0018_alt01",
+              "meaning_vi": "Giờ cất cánh mới chưa được công bố."
+            }
+          ],
+          "replies": [
+            {
+              "text": "新的时间公布后会通知吗？",
+              "id": "s39_4_0018_reply01",
+              "meaning_vi": "Khi có giờ mới thì có thông báo không?"
+            },
+            {
+              "text": "我会继续留意航班大屏和消息。",
+              "id": "s39_4_0018_reply02",
+              "meaning_vi": "Tôi sẽ tiếp tục theo dõi bảng chuyến bay và tin nhắn."
+            }
+          ],
+          "lesson_id": "39.4",
+          "lesson_title": "39.4 延误取消转机",
+          "pinyin": "háng bān shí jiān hái méi yǒu què dìng",
+          "mistakes": [
+            {
+              "text": "“还没有确定”表示现在尚无确认时间，不等于航班一定取消；不要把口头估计当成最终通知。",
+              "text_vi": "Chưa xác định giờ mới không có nghĩa chắc chắn hủy; tiếp tục theo dõi thông báo chính thức."
+            }
+          ],
+          "lesson_title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+          "meaning_vi": "Giờ bay vẫn chưa xác định."
+        }
+      ],
+      "opening": "练习说明航班延误、取消、转机不及和改签，问清托运行李是否直挂。是否能免费改签取决于票规和航司实际处理。",
+      "subtitle": "14张高频卡 · 8必说 + 6必听",
+      "title_vi": "39.4 Trễ, hủy chuyến và nối chuyến",
+      "opening_vi": "Luyện báo trễ/hủy, nối chuyến không kịp, đổi vé và kiểm tra hành lý ký gửi có chuyển thẳng không. Miễn phí đổi chuyến tùy hãng và điều kiện vé.",
+      "subtitle_vi": "14 thẻ giao tiếp"
+    },
+    {
+      "id": "39.5",
+      "title": "39.5 入境通关：边检与海关",
+      "phrases": [
+        {
+          "id": "s39_5_0001",
+          "level": "must",
+          "text": "给您，这是我的护照。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请看摄像头。",
+              "id": "s39_5_0001_reply01",
+              "meaning_vi": "Vui lòng nhìn vào camera."
+            },
+            {
+              "text": "请按指纹。",
+              "id": "s39_5_0001_reply02",
+              "meaning_vi": "Vui lòng đặt ngón tay lấy dấu vân tay."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "gěi nín zhè shì wǒ de hù zhào",
+          "mistakes": [
+            {
+              "text": "“给您”是礼貌地把东西递给对方，不是让对方永久保存护照；入境边检与后面的海关行李查验属于不同程序。",
+              "text_vi": "Đưa hộ chiếu để kiểm tra là tạm xuất trình, không phải để họ giữ vĩnh viễn. Biên phòng khác hải quan."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Thưa anh/chị, đây là hộ chiếu của tôi."
+        },
+        {
+          "id": "s39_5_0002",
+          "level": "must",
+          "text": "我来中国工作。",
+          "alternatives": [
+            {
+              "text": "我是来中国工作的。",
+              "id": "s39_5_0002_alt01",
+              "meaning_vi": "Tôi sang Trung Quốc làm việc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "请问您准备在中国待多久？",
+              "id": "s39_5_0002_reply01",
+              "meaning_vi": "Anh/chị dự định ở Trung Quốc bao lâu?"
+            },
+            {
+              "text": "请出示与入境目的有关的材料。",
+              "id": "s39_5_0002_reply02",
+              "meaning_vi": "Vui lòng xuất trình giấy tờ liên quan đến mục đích nhập cảnh."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "wǒ lái zhōng guó gōng zuò",
+          "mistakes": [
+            {
+              "text": "“我来中国工作”只适用于真实工作目的，并须具备与工作相符的有效入境及工作手续；不能把旅游或出差说成工作，也不能为过关谎报成旅游。",
+              "text_vi": "Chỉ nói “đến Trung Quốc làm việc” nếu đó là mục đích thật và có giấy tờ hợp lệ; không khai sai là du lịch."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Tôi đến Trung Quốc để làm việc."
+        },
+        {
+          "id": "s39_5_0003",
+          "level": "must",
+          "text": "我会在中国待一个月。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "您在中国住哪里？",
+              "id": "s39_5_0003_reply01",
+              "meaning_vi": "Anh/chị ở đâu tại Trung Quốc?"
+            },
+            {
+              "text": "请出示您的行程或者住宿信息。",
+              "id": "s39_5_0003_reply02",
+              "meaning_vi": "Vui lòng cho xem lịch trình hoặc thông tin chỗ ở."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "wǒ huì zài zhōng guó dài yí ge yuè",
+          "mistakes": [
+            {
+              "text": "“待一个月”是计划停留一个月，不代表签证或停留许可一定允许一个月；须以准许的停留期限为准。这里的“一个”按普通话变调读yí ge。",
+              "text_vi": "“Ở một tháng” là thời gian dự định, không tự bảo đảm được phép ở 30 ngày; theo thời hạn nhập cảnh được cấp."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Tôi sẽ ở Trung Quốc một tháng."
+        },
+        {
+          "id": "s39_5_0004",
+          "level": "must",
+          "text": "我住在公司宿舍。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请提供公司宿舍的具体地址。",
+              "id": "s39_5_0004_reply01",
+              "meaning_vi": "Vui lòng cung cấp địa chỉ cụ thể ký túc xá công ty."
+            },
+            {
+              "text": "您有公司的联系信息吗？",
+              "id": "s39_5_0004_reply02",
+              "meaning_vi": "Anh/chị có thông tin liên lạc của công ty không?"
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "wǒ zhù zài gōng sī sù shè",
+          "mistakes": [
+            {
+              "text": "“公司宿舍”是公司安排的住宿地点，不等于公司办公地址；如被问具体地址应提供真实宿舍地址。",
+              "text_vi": "Ký túc xá công ty là chỗ ở do công ty sắp xếp, khác địa chỉ văn phòng; phải cung cấp địa chỉ thật."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Tôi ở ký túc xá của công ty."
+        },
+        {
+          "id": "s39_5_0005",
+          "level": "must",
+          "text": "入境卡在哪里填？",
+          "alternatives": [
+            {
+              "text": "外国人入境卡在哪里填写？",
+              "id": "s39_5_0005_alt01",
+              "meaning_vi": "Người nước ngoài điền tờ khai nhập cảnh ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以在国家移民管理局的官方免费渠道填写。",
+              "id": "s39_5_0005_reply01",
+              "meaning_vi": "Có thể điền miễn phí qua kênh chính thức của Cục Quản lý Xuất nhập cảnh Quốc gia Trung Quốc."
+            },
+            {
+              "text": "如果不能提前网上填写，可按口岸现场指引填报。",
+              "id": "s39_5_0005_reply02",
+              "meaning_vi": "Nếu không điền online trước thì làm theo hướng dẫn tại cửa khẩu."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "rù jìng kǎ zài nǎ li tián",
+          "mistakes": [
+            {
+              "text": "自2025年11月20日起，外国人入境卡支持国家移民管理局官方渠道免费网上填报，也可依口岸指引现场填报；部分法定情形可免填。入境卡不是签证，谨防收费假网站。",
+              "text_vi": "Theo nội dung giáo trình, từ 20/11/2025 có kênh chính thức miễn phí điền tờ khai nhập cảnh trực tuyến hoặc tại cửa khẩu; không phải thị thực, cảnh giác web giả thu phí."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Điền tờ khai nhập cảnh ở đâu?"
+        },
+        {
+          "id": "s39_5_0006",
+          "level": "must",
+          "text": "这个需要申报吗？",
+          "alternatives": [
+            {
+              "text": "这件物品需要向海关申报吗？",
+              "id": "s39_5_0006_alt01",
+              "meaning_vi": "Vật này có cần khai báo với hải quan không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看物品种类和数量，按海关规定确定是否需要申报。",
+              "id": "s39_5_0006_reply01",
+              "meaning_vi": "Cần xem loại và số lượng đồ, rồi xác định theo quy định hải quan."
+            },
+            {
+              "text": "先问一下海关工作人员。",
+              "id": "s39_5_0006_reply02",
+              "meaning_vi": "Anh/chị hỏi nhân viên hải quan trước nhé."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "zhè ge xū yào shēn bào ma",
+          "mistakes": [
+            {
+              "text": "此处“申报”是向海关申报携带物品，不是填写外国人入境卡；需否申报要看物品种类、价值和数量，不应凭猜测选绿色通道。",
+              "text_vi": "“申报” trong câu này là khai báo đồ với hải quan, khác điền tờ khai nhập cảnh; xét loại, giá trị và số lượng."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Món này có cần khai báo hải quan không?"
+        },
+        {
+          "id": "s39_5_0007",
+          "level": "must",
+          "text": "申报通道在哪儿？",
+          "alternatives": [
+            {
+              "text": "海关申报的通道在哪里？",
+              "id": "s39_5_0007_alt01",
+              "meaning_vi": "Lối dành cho khai báo hải quan ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "前面就是申报通道。",
+              "id": "s39_5_0007_reply01",
+              "meaning_vi": "Lối khai báo ở ngay phía trước."
+            },
+            {
+              "text": "我给您指一下。",
+              "id": "s39_5_0007_reply02",
+              "meaning_vi": "Để tôi chỉ cho anh/chị."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "shēn bào tōng dào zài nǎr",
+          "mistakes": [
+            {
+              "text": "携带须申报物品时，应按海关规定填写申报资料并走红色申报通道；红色通道不同于边防检查窗口，按现场标识走。",
+              "text_vi": "Có đồ phải khai báo thì theo quy định đi lối khai báo màu đỏ, khác quầy biên phòng."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Lối khai báo hải quan ở đâu?"
+        },
+        {
+          "id": "s39_5_0008",
+          "level": "must",
+          "text": "我没有需要申报的东西。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请按海关现场指引通行。",
+              "id": "s39_5_0008_reply01",
+              "meaning_vi": "Vui lòng đi theo chỉ dẫn tại khu hải quan."
+            },
+            {
+              "text": "如果不确定，请先问海关，不能随意走无申报通道。",
+              "id": "s39_5_0008_reply02",
+              "meaning_vi": "Nếu không chắc, hãy hỏi hải quan trước, đừng tự vào lối không khai báo."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "wǒ méi yǒu xū yào shēn bào de dōng xi",
+          "mistakes": [
+            {
+              "text": "“没有需要申报的东西”只有事实如此才可以说；按海关规定无需书面申报时可走绿色通道，仍可能接受检查，不确定先问工作人员。",
+              "text_vi": "Chỉ nói không có đồ phải khai khi đúng sự thật; lối xanh vẫn có thể bị kiểm tra, không chắc thì hỏi trước."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Tôi không có đồ nào phải khai báo hải quan."
+        },
+        {
+          "id": "s39_5_0009",
+          "level": "must",
+          "text": "这是我的住宿地址。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，请问具体门牌号是多少？",
+              "id": "s39_5_0009_reply01",
+              "meaning_vi": "Được, xin hỏi số nhà cụ thể là bao nhiêu?"
+            },
+            {
+              "text": "请让我核对这个住宿地址和联系电话。",
+              "id": "s39_5_0009_reply02",
+              "meaning_vi": "Cho tôi kiểm tra địa chỉ lưu trú và số điện thoại này."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "zhè shì wǒ de zhù sù dì zhǐ",
+          "mistakes": [
+            {
+              "text": "“住宿地址”要写实际住处的地址，不是只报城市名称；若填写入境卡应与实际安排一致。",
+              "text_vi": "Địa chỉ lưu trú là địa chỉ chỗ thực ở, không chỉ tên thành phố; thông tin phải đúng lịch trình."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Đây là địa chỉ chỗ tôi ở."
+        },
+        {
+          "id": "s39_5_0011",
+          "level": "listen",
+          "text": "我不确定要不要申报。",
+          "alternatives": [
+            {
+              "text": "我不太清楚这件东西需不需要申报。",
+              "id": "s39_5_0011_alt01",
+              "meaning_vi": "Tôi không rõ món này có cần khai báo không."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以先让海关工作人员看一下。",
+              "id": "s39_5_0011_reply01",
+              "meaning_vi": "Có thể nhờ nhân viên hải quan kiểm tra trước."
+            },
+            {
+              "text": "我帮您确认物品是否属于应申报范围。",
+              "id": "s39_5_0011_reply02",
+              "meaning_vi": "Để tôi xác nhận món này có thuộc diện phải khai báo không."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "wǒ bú què dìng yào bu yào shēn bào",
+          "mistakes": [
+            {
+              "text": "“不确定要不要申报”是在不清楚海关规定时如实询问，不等于自动免申报；不要隐瞒物品或让别人代作虚假申报。",
+              "text_vi": "Không chắc có cần khai thì hỏi nhân viên hải quan, không được giấu đồ hoặc khai không đúng sự thật."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Tôi không chắc có phải khai báo không."
+        },
+        {
+          "id": "s39_5_0012",
+          "level": "listen",
+          "text": "您来中国做什么？",
+          "alternatives": [
+            {
+              "text": "请问您这次来中国的目的是什么？",
+              "id": "s39_5_0012_alt01",
+              "meaning_vi": "Xin hỏi mục đích lần này đến Trung Quốc là gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我来中国工作。",
+              "id": "s39_5_0012_reply01",
+              "meaning_vi": "Tôi đến Trung Quốc làm việc."
+            },
+            {
+              "text": "我这次来中国旅游。",
+              "id": "s39_5_0012_reply02",
+              "meaning_vi": "Lần này tôi đến Trung Quốc du lịch."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "nín lái zhōng guó zuò shén me",
+          "mistakes": [
+            {
+              "text": "边检问“来中国做什么”是核对真实入境目的。工作、旅游、商务访问不是随意互换的答案，回答应与实际活动、签证或入境许可相符。",
+              "text_vi": "Biên phòng hỏi mục đích nhập cảnh thực tế; đi làm, du lịch, công tác là khác nhau, trả lời đúng giấy tờ."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Anh/chị đến Trung Quốc làm gì?"
+        },
+        {
+          "id": "s39_5_0013",
+          "level": "listen",
+          "text": "准备待多久？",
+          "alternatives": [
+            {
+              "text": "您打算停留多长时间？",
+              "id": "s39_5_0013_alt01",
+              "meaning_vi": "Anh/chị dự định lưu trú bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我会在中国待一个月。",
+              "id": "s39_5_0013_reply01",
+              "meaning_vi": "Tôi sẽ ở Trung Quốc một tháng."
+            },
+            {
+              "text": "大概两周。",
+              "id": "s39_5_0013_reply02",
+              "meaning_vi": "Khoảng hai tuần."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "zhǔn bèi dài duō jiǔ",
+          "mistakes": [
+            {
+              "text": "“准备待多久”询问预计停留时间，不是签证自动允许的期限；应如实回答计划，并核对有效入境许可的停留期。",
+              "text_vi": "Hỏi kế hoạch ở bao lâu, không phải thời hạn được cấp tự động; nói thật và kiểm tra thời hạn lưu trú."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Anh/chị định ở lại bao lâu?"
+        },
+        {
+          "id": "s39_5_0014",
+          "level": "listen",
+          "text": "在中国住哪里？",
+          "alternatives": [
+            {
+              "text": "您在中国的住宿地点在哪儿？",
+              "id": "s39_5_0014_alt01",
+              "meaning_vi": "Nơi lưu trú ở Trung Quốc của anh/chị ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我住在公司宿舍。",
+              "id": "s39_5_0014_reply01",
+              "meaning_vi": "Tôi ở ký túc xá công ty."
+            },
+            {
+              "text": "我住在酒店。",
+              "id": "s39_5_0014_reply02",
+              "meaning_vi": "Tôi ở khách sạn."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "zài zhōng guó zhù nǎ li",
+          "mistakes": [
+            {
+              "text": "“住哪里”问住宿地而不是工作岗位；可以提供酒店、公司宿舍等真实地址，不要随口捏造。",
+              "text_vi": "“Ở đâu” hỏi nơi lưu trú, không phải chỗ làm; chỉ đưa khách sạn hoặc ký túc xá thật."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Anh/chị ở đâu tại Trung Quốc?"
+        },
+        {
+          "id": "s39_5_0015",
+          "level": "listen",
+          "text": "请看摄像头。",
+          "alternatives": [
+            {
+              "text": "请面对摄像头。",
+              "id": "s39_5_0015_alt01",
+              "meaning_vi": "Vui lòng hướng mặt về camera."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我看着摄像头。",
+              "id": "s39_5_0015_reply01",
+              "meaning_vi": "Được, tôi nhìn vào camera."
+            },
+            {
+              "text": "这样的位置可以吗？",
+              "id": "s39_5_0015_reply02",
+              "meaning_vi": "Đứng thế này được chưa?"
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "qǐng kàn shè xiàng tóu",
+          "mistakes": [
+            {
+              "text": "“请看摄像头”是按要求让摄像头拍清面部，不是让你拿起自己的手机拍照；按现场指示配合。",
+              "text_vi": "Nhìn camera theo yêu cầu để chụp mặt, không phải dùng điện thoại tự chụp."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Vui lòng nhìn vào camera."
+        },
+        {
+          "id": "s39_5_0016",
+          "level": "listen",
+          "text": "请按指纹。",
+          "alternatives": [
+            {
+              "text": "请把手指放在指纹采集器上。",
+              "id": "s39_5_0016_alt01",
+              "meaning_vi": "Vui lòng đặt ngón tay lên máy quét vân tay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，按在这里对吗？",
+              "id": "s39_5_0016_reply01",
+              "meaning_vi": "Được, đặt ngón tay vào đây đúng không?"
+            },
+            {
+              "text": "请问要用哪根手指？",
+              "id": "s39_5_0016_reply02",
+              "meaning_vi": "Xin hỏi dùng ngón tay nào?"
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "qǐng àn zhǐ wén",
+          "mistakes": [
+            {
+              "text": "“按指纹”是配合指纹采集，按的是采集器，不是手机解锁键；是否需要采集依现场适用的规定。",
+              "text_vi": "Lấy dấu vân tay trên máy thu thập, không phải nút mở khóa điện thoại; làm theo nhân viên."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Vui lòng lấy dấu vân tay."
+        },
+        {
+          "id": "s39_5_0017",
+          "level": "listen",
+          "text": "有东西需要申报吗？",
+          "alternatives": [
+            {
+              "text": "有需要向海关申报的物品吗？",
+              "id": "s39_5_0017_alt01",
+              "meaning_vi": "Có vật nào phải khai báo với hải quan không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我没有需要申报的东西。",
+              "id": "s39_5_0017_reply01",
+              "meaning_vi": "Tôi không có đồ cần khai báo."
+            },
+            {
+              "text": "有，我有东西要申报。",
+              "id": "s39_5_0017_reply02",
+              "meaning_vi": "Có, tôi có món cần khai báo."
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "yǒu dōng xi xū yào shēn bào ma",
+          "mistakes": [
+            {
+              "text": "“有东西需要申报吗”不是问有没有任何行李，而是问有没有按海关规定须申报的物品；红色申报通道与绿色无申报通道不同。",
+              "text_vi": "Hỏi có đồ thuộc diện phải khai báo, không phải hỏi có mang hành lý nào không; lối đỏ khác lối xanh."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Anh/chị có đồ gì cần khai báo không?"
+        },
+        {
+          "id": "s39_5_0018",
+          "level": "listen",
+          "text": "这个需要申报，请走申报通道。",
+          "alternatives": [
+            {
+              "text": "请走海关申报通道。",
+              "id": "s39_5_0018_alt01",
+              "meaning_vi": "Vui lòng đi lối khai báo hải quan."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，请问红色申报通道在哪儿？",
+              "id": "s39_5_0018_reply01",
+              "meaning_vi": "Vâng, xin hỏi lối khai báo màu đỏ ở đâu?"
+            },
+            {
+              "text": "需要填写申报单吗？",
+              "id": "s39_5_0018_reply02",
+              "meaning_vi": "Có cần điền tờ khai hải quan không?"
+            }
+          ],
+          "lesson_id": "39.5",
+          "lesson_title": "39.5 入境通关：边检与海关",
+          "pinyin": "zhè ge xū yào shēn bào qǐng zǒu shēn bào tōng dào",
+          "mistakes": [
+            {
+              "text": "工作人员指出物品须申报时，应按规定在红色申报通道办理；仅说“需要申报”或走进通道，并不表示已经完成申报。",
+              "text_vi": "Nếu nhân viên yêu cầu khai báo, đi lối đỏ và làm đủ thủ tục, không phải vào lối là hoàn thành."
+            }
+          ],
+          "lesson_title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+          "meaning_vi": "Món này phải khai báo, vui lòng đi lối khai báo."
+        }
+      ],
+      "opening": "练习如实回答边检关于入境目的、停留时长、住址的问题，办理外国人入境卡和海关物品申报。边检与海关不同，官方入境卡免费填报。",
+      "subtitle": "17张高频卡 · 9必说 + 8必听",
+      "title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan",
+      "opening_vi": "Trả lời trung thực mục đích đến, thời gian lưu trú, địa chỉ; điền tờ khai nhập cảnh và khai báo hàng hóa hải quan. Biên phòng và hải quan là hai quy trình khác.",
+      "subtitle_vi": "17 thẻ giao tiếp"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T23:20:00Z",
+  "theme_title": "39 机场航班与入境通关",
+  "card_count": 72,
+  "source_phrase_count": 92,
+  "lesson_counts": {
+    "39.1": 12,
+    "39.2": 15,
+    "39.3": 14,
+    "39.4": 14,
+    "39.5": 17
+  },
+  "quality_standard": "Vietnamese localization of original theme 39: 72 main cards, 193 alternatives/replies and 72 safety/culture notes. Chinese, pinyin, IDs, order and levels preserved. Security, power banks, immigration vs customs and refund/change semantics reviewed. Regulations described as source context, not live legal advice; verify current policy. Native speaker and app/audio QA pending.",
+  "theme_title_vi": "39 Sân bay, chuyến bay và nhập cảnh"
+}
