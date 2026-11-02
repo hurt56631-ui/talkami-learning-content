@@ -1,0 +1,1804 @@
+{
+  "theme_id": "38",
+  "lessons": [
+    {
+      "id": "38.1",
+      "title": "38.1 购票候车",
+      "phrases": [
+        {
+          "id": "s38_1_0002",
+          "level": "must",
+          "text": "下一趟车几点开？",
+          "alternatives": [
+            {
+              "text": "下一趟车什么时候发车？",
+              "id": "s38_1_0002_alt01",
+              "meaning_vi": "Chuyến sau khởi hành khi nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "计划下午三点发车。",
+              "id": "s38_1_0002_reply01",
+              "meaning_vi": "Theo lịch là 3 giờ chiều."
+            },
+            {
+              "text": "原定三点开，目前显示晚点二十分钟。",
+              "id": "s38_1_0002_reply02",
+              "meaning_vi": "Dự kiến 3 giờ, hiện báo trễ 20 phút."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "xià yí tàng chē jǐ diǎn kāi",
+          "mistakes": [
+            {
+              "text": "“几点开”问发车时刻，不是到达时刻；“下一趟”还要结合目的地和车次确认。",
+              "text_vi": "“几点开” hỏi giờ tàu khởi hành, không phải giờ đến; “chuyến tiếp theo” cần xác nhận điểm đến."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Chuyến tàu tiếp theo mấy giờ khởi hành?"
+        },
+        {
+          "id": "s38_1_0003",
+          "level": "must",
+          "text": "还有票吗？",
+          "alternatives": [
+            {
+              "text": "现在还有余票吗？",
+              "id": "s38_1_0003_alt01",
+              "meaning_vi": "Hiện vẫn còn vé không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，目前还有二等座。",
+              "id": "s38_1_0003_reply01",
+              "meaning_vi": "Có, hiện còn ghế hạng hai."
+            },
+            {
+              "text": "这趟卖完了，可以看看稍晚的车次。",
+              "id": "s38_1_0003_reply02",
+              "meaning_vi": "Chuyến này hết vé rồi, bạn xem chuyến muộn hơn nhé."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "hái yǒu piào ma",
+          "mistakes": [
+            {
+              "text": "“还有票”问有没有剩余可售车票，不等于一定有你想要的座席等级或出发时间。",
+              "text_vi": "“Còn vé” hỏi vé còn bán, chưa chắc còn đúng hạng ghế và giờ bạn muốn."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Còn vé không?"
+        },
+        {
+          "id": "s38_1_0004",
+          "level": "must",
+          "text": "在哪儿候车？",
+          "alternatives": [
+            {
+              "text": "候车区在哪儿？",
+              "id": "s38_1_0004_alt01",
+              "meaning_vi": "Khu vực chờ tàu ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在二楼候车区。",
+              "id": "s38_1_0004_reply01",
+              "meaning_vi": "Ở khu chờ tầng hai."
+            },
+            {
+              "text": "看车票或者大屏上的候车信息。",
+              "id": "s38_1_0004_reply02",
+              "meaning_vi": "Xem thông tin chờ tàu trên vé hoặc bảng điện tử."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "zài nǎr hòu chē",
+          "mistakes": [
+            {
+              "text": "“候车区”是进站后等候检票的区域，与“站台”不同。中国标注“二楼”通常指地面层上一层，要以车站楼层牌为准。",
+              "text_vi": "Khu chờ tàu khác sân ga lên tàu. Ở Trung Quốc tầng hai thường là tầng ngay trên tầng trệt, hãy xem biển."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Chờ tàu ở đâu?"
+        },
+        {
+          "id": "s38_1_0005",
+          "level": "must",
+          "text": "什么时候检票？",
+          "alternatives": [
+            {
+              "text": "检票什么时候开始？",
+              "id": "s38_1_0005_alt01",
+              "meaning_vi": "Mấy giờ mở cổng soát vé?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还没开始，等广播通知。",
+              "id": "s38_1_0005_reply01",
+              "meaning_vi": "Chưa bắt đầu, đợi thông báo loa nhé."
+            },
+            {
+              "text": "已经开始了，可以到检票口排队。",
+              "id": "s38_1_0005_reply02",
+              "meaning_vi": "Bắt đầu rồi, bạn có thể xếp hàng ở cổng soát vé."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "shén me shí hou jiǎn piào",
+          "mistakes": [
+            {
+              "text": "“检票”是在指定口核对乘车资格，不等于进站前的“安检”或“身份核验”；时间按现场通知。",
+              "text_vi": "Soát vé là kiểm tra quyền lên tàu tại cổng, khác an ninh hoặc xác minh danh tính; thời gian theo thông báo."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Khi nào bắt đầu soát vé?"
+        },
+        {
+          "id": "s38_1_0006",
+          "level": "must",
+          "text": "可以用护照买票吗？",
+          "alternatives": [
+            {
+              "text": "外国护照能买高铁票吗？",
+              "id": "s38_1_0006_alt01",
+              "meaning_vi": "Người nước ngoài dùng hộ chiếu mua vé tàu cao tốc được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，但购票前可能要先完成护照身份核验。",
+              "id": "s38_1_0006_reply01",
+              "meaning_vi": "Được, nhưng có thể phải xác minh hộ chiếu trước khi mua."
+            },
+            {
+              "text": "进站时带上购票用的护照原件，按提示核验。",
+              "id": "s38_1_0006_reply02",
+              "meaning_vi": "Khi vào ga nhớ mang hộ chiếu gốc đã dùng đặt vé để kiểm tra."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "kě yǐ yòng hù zhào mǎi piào ma",
+          "mistakes": [
+            {
+              "text": "按规定可使用的有效护照可购票；外国旅客可能需先在12306完成身份核验，乘车时须带购票所用证件原件。可走自动或人工核验通道，按车站指示。",
+              "text_vi": "Có thể mua vé bằng hộ chiếu hợp lệ, nhưng có thể phải xác minh trên 12306; mang hộ chiếu gốc đã dùng mua vé và theo hướng dẫn ga."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Có mua vé bằng hộ chiếu được không?"
+        },
+        {
+          "id": "s38_1_0007",
+          "level": "must",
+          "text": "我想买一张票。",
+          "alternatives": [
+            {
+              "text": "请帮我买一张车票。",
+              "id": "s38_1_0007_alt01",
+              "meaning_vi": "Phiền mua giúp tôi một vé tàu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "请问你要去哪个城市？",
+              "id": "s38_1_0007_reply01",
+              "meaning_vi": "Bạn muốn đi thành phố nào?"
+            },
+            {
+              "text": "你想买哪一天的票？",
+              "id": "s38_1_0007_reply02",
+              "meaning_vi": "Bạn mua vé ngày nào?"
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "wǒ xiǎng mǎi yì zhāng piào",
+          "mistakes": [
+            {
+              "text": "“一张票”用量词“张”，不说“一辆票”；单说买票还需要补充出发地、目的地、日期。",
+              "text_vi": "“一张票” dùng lượng từ 张 cho vé; khi mua cần nói nơi đi, nơi đến và ngày đi."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Tôi muốn mua một vé."
+        },
+        {
+          "id": "s38_1_0008",
+          "level": "must",
+          "text": "还有座位吗？",
+          "alternatives": [
+            {
+              "text": "现在还有二等座的票吗？",
+              "id": "s38_1_0008_alt01",
+              "meaning_vi": "Hiện còn vé ghế hạng hai không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，目前还有二等座。",
+              "id": "s38_1_0008_reply01",
+              "meaning_vi": "Có, hiện vẫn còn ghế hạng hai."
+            },
+            {
+              "text": "这趟没有坐席了，可以查其他车次。",
+              "id": "s38_1_0008_reply02",
+              "meaning_vi": "Chuyến này hết chỗ ngồi rồi, bạn xem chuyến khác nhé."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "hái yǒu zuò wèi ma",
+          "mistakes": [
+            {
+              "text": "“有座位吗”强调是否有可坐的席位；“有票吗”范围更广，可能还涉及无座票或其他席别。",
+              "text_vi": "“Còn ghế ngồi” khác “còn vé”; có thể chỉ còn loại ghế khác hoặc vé không ghế."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Còn chỗ ngồi không?"
+        },
+        {
+          "id": "s38_1_0010",
+          "level": "must",
+          "text": "提前多久进站？",
+          "alternatives": [
+            {
+              "text": "我最好提前多久到站？",
+              "id": "s38_1_0010_alt01",
+              "meaning_vi": "Tôi nên có mặt trước giờ tàu chạy bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "建议预留足够时间，别卡着点到。",
+              "id": "s38_1_0010_reply01",
+              "meaning_vi": "Nên dành dư thời gian, đừng tới sát giờ."
+            },
+            {
+              "text": "请留意停止检票时间，别等到最后才进站。",
+              "id": "s38_1_0010_reply02",
+              "meaning_vi": "Chú ý giờ ngừng soát vé, đừng chờ tới phút cuối."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "tí qián duō jiǔ jìn zhàn",
+          "mistakes": [
+            {
+              "text": "“提前多久进站”问预留多少时间；别把“开始检票”和“停止检票”当作同一时间，具体以车站公告为准。",
+              "text_vi": "Tới ga trước bao lâu cần tính cả kiểm tra an ninh và giờ đóng soát vé; không nhầm giờ mở với giờ đóng."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Nên tới ga sớm bao lâu?"
+        },
+        {
+          "id": "s38_1_0011",
+          "level": "must",
+          "text": "这趟车晚点吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "目前显示晚点二十分钟。",
+              "id": "s38_1_0011_reply01",
+              "meaning_vi": "Hiện bảng báo trễ 20 phút."
+            },
+            {
+              "text": "暂时没看到晚点信息。",
+              "id": "s38_1_0011_reply02",
+              "meaning_vi": "Tạm thời chưa thấy thông báo trễ."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "zhè tàng chē wǎn diǎn ma",
+          "mistakes": [
+            {
+              "text": "“晚点”是实际运行比计划时刻延后，不是说自己去车站晚了；延误分钟数也可能继续变化。",
+              "text_vi": "“晚点” là tàu trễ so với lịch, không phải bạn tới muộn; số phút trễ có thể thay đổi."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Chuyến này có bị trễ không?"
+        },
+        {
+          "id": "s38_1_0012",
+          "level": "must",
+          "text": "有靠窗座位吗？",
+          "alternatives": [
+            {
+              "text": "我想要靠窗的位置。",
+              "id": "s38_1_0012_alt01",
+              "meaning_vi": "Tôi muốn ngồi cạnh cửa sổ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "有的话可以选靠窗。",
+              "id": "s38_1_0012_reply01",
+              "meaning_vi": "Nếu còn thì có thể chọn ghế cạnh cửa sổ."
+            },
+            {
+              "text": "靠窗座已经没有了。",
+              "id": "s38_1_0012_reply02",
+              "meaning_vi": "Ghế cạnh cửa sổ hết rồi."
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "yǒu kào chuāng zuò wèi ma",
+          "mistakes": [
+            {
+              "text": "“靠窗”是紧挨窗户的位置，不等于“一等座”；座席是否能自主选择要看车次和售票系统。",
+              "text_vi": "Ghế sát cửa sổ không đồng nghĩa ghế hạng nhất; có được chọn hay không tùy hệ thống."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Có ghế cạnh cửa sổ không?"
+        },
+        {
+          "id": "s38_1_0013",
+          "level": "listen",
+          "text": "下午三点有一班。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是下午三点，不是凌晨三点，对吧？",
+              "id": "s38_1_0013_reply01",
+              "meaning_vi": "Là 3 giờ chiều, không phải 3 giờ sáng, đúng không?"
+            },
+            {
+              "text": "三点这班还有票吗？",
+              "id": "s38_1_0013_reply02",
+              "meaning_vi": "Chuyến 3 giờ còn vé không?"
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "xià wǔ sān diǎn yǒu yì bān",
+          "mistakes": [
+            {
+              "text": "“下午三点”是15:00，不是凌晨3:00；“一班”指一个发车班次，不是一定只剩一张票。",
+              "text_vi": "3 giờ chiều là 15:00, không phải 3 giờ sáng; “một chuyến” không có nghĩa chỉ còn một vé."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Có một chuyến lúc 3 giờ chiều."
+        },
+        {
+          "id": "s38_1_0014",
+          "level": "listen",
+          "text": "二楼候车。",
+          "alternatives": [
+            {
+              "text": "在二楼的候车区等。",
+              "id": "s38_1_0014_alt01",
+              "meaning_vi": "Đợi ở khu chờ tàu tầng hai."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去二楼候车。",
+              "id": "s38_1_0014_reply01",
+              "meaning_vi": "Được, tôi lên tầng hai đợi."
+            },
+            {
+              "text": "二楼候车区从哪里上去？",
+              "id": "s38_1_0014_reply02",
+              "meaning_vi": "Lên khu chờ tầng hai từ lối nào?"
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "èr lóu hòu chē",
+          "mistakes": [
+            {
+              "text": "“二楼”是中国车站标识中的二层，不是“二号站台”；到站后按楼层牌核对。",
+              "text_vi": "Tầng hai là tầng của tòa ga, khác sân ga số hai; xem bảng chỉ tầng."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Chờ tàu ở tầng hai."
+        },
+        {
+          "id": "s38_1_0018",
+          "level": "listen",
+          "text": "持护照请走人工通道。",
+          "alternatives": [
+            {
+              "text": "用护照的旅客请走人工核验通道。",
+              "id": "s38_1_0018_alt01",
+              "meaning_vi": "Hành khách dùng hộ chiếu vui lòng đến lối nhân viên kiểm tra giấy tờ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去人工通道。",
+              "id": "s38_1_0018_reply01",
+              "meaning_vi": "Được, tôi tới lối có nhân viên."
+            },
+            {
+              "text": "这里也能过安检吗？",
+              "id": "s38_1_0018_reply02",
+              "meaning_vi": "Ở đó cũng qua kiểm tra an ninh được không?"
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "chí hù zhào qǐng zǒu rén gōng tōng dào",
+          "mistakes": [
+            {
+              "text": "“人工通道”是工作人员核验证件的通道，不代表免票或免安检；要携带购票时所用的有效护照原件。",
+              "text_vi": "Lối kiểm tra hộ chiếu có nhân viên vẫn cần vé và an ninh; mang hộ chiếu gốc đã dùng mua."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Khách dùng hộ chiếu vui lòng đi lối kiểm tra thủ công."
+        },
+        {
+          "id": "s38_1_0019",
+          "level": "listen",
+          "text": "这趟车晚点二十分钟。",
+          "alternatives": [
+            {
+              "text": "预计晚点二十分钟。",
+              "id": "s38_1_0019_alt01",
+              "meaning_vi": "Dự kiến khởi hành muộn 20 phút."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我继续留意大屏上的时间。",
+              "id": "s38_1_0019_reply01",
+              "meaning_vi": "Được, tôi theo dõi giờ trên bảng điện tử."
+            },
+            {
+              "text": "大概什么时候能开始检票？",
+              "id": "s38_1_0019_reply02",
+              "meaning_vi": "Khoảng khi nào bắt đầu soát vé?"
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "zhè tàng chē wǎn diǎn èr shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“晚点二十分钟”是预计比计划晚20分钟，不是还必须恰好等待20分钟；要继续查看更新公告。",
+              "text_vi": "“Trễ 20 phút” là chênh so với giờ dự kiến, không có nghĩa còn chính xác 20 phút kể từ lúc nói."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Chuyến này dự kiến trễ 20 phút."
+        },
+        {
+          "id": "s38_1_0020",
+          "level": "listen",
+          "text": "目前只有二等座。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，二等座也可以。",
+              "id": "s38_1_0020_reply01",
+              "meaning_vi": "Được, ghế hạng hai cũng được."
+            },
+            {
+              "text": "二等座还有靠窗的位置吗？",
+              "id": "s38_1_0020_reply02",
+              "meaning_vi": "Hạng hai còn chỗ cạnh cửa sổ không?"
+            }
+          ],
+          "lesson_id": "38.1",
+          "lesson_title": "38.1 购票候车",
+          "pinyin": "mù qián zhǐ yǒu èr děng zuò",
+          "mistakes": [
+            {
+              "text": "“二等座”是高铁座席等级，不是二楼的座位，也不是没有座位；要和“一等座”“无座”区别。",
+              "text_vi": "Ghế hạng hai là một hạng ghế trên tàu cao tốc, khác ghế hạng nhất và vé không ghế."
+            }
+          ],
+          "lesson_title_vi": "38.1 Mua vé và đợi tàu",
+          "meaning_vi": "Hiện chỉ còn ghế hạng hai."
+        }
+      ],
+      "opening": "练习询问车次、余票、候车区、检票时间以及外国护照购票和实名核验。区分发车时间与晚点、候车区与站台。",
+      "subtitle": "15张高频卡 · 10必说 + 5必听",
+      "title_vi": "38.1 Mua vé và đợi tàu",
+      "opening_vi": "Luyện hỏi chuyến tàu, vé còn, khu chờ, giờ soát vé và mua vé bằng hộ chiếu nước ngoài; phân biệt giờ tàu chạy, tàu trễ, khu chờ và sân ga.",
+      "subtitle_vi": "15 thẻ giao tiếp"
+    },
+    {
+      "id": "38.2",
+      "title": "38.2 站台车次",
+      "phrases": [
+        {
+          "id": "s38_2_0001",
+          "level": "must",
+          "text": "这趟车在几号站台？",
+          "alternatives": [
+            {
+              "text": "这班车停在哪个站台？",
+              "id": "s38_2_0001_alt01",
+              "meaning_vi": "Chuyến tàu này dừng ở sân ga nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在三号站台。",
+              "id": "s38_2_0001_reply01",
+              "meaning_vi": "Sân ga số ba."
+            },
+            {
+              "text": "站台信息可能会变，检票前再看大屏。",
+              "id": "s38_2_0001_reply02",
+              "meaning_vi": "Số sân ga có thể đổi, trước khi soát vé hãy xem lại bảng."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "zhè tàng chē zài jǐ hào zhàn tái",
+          "mistakes": [
+            {
+              "text": "“站台”是列车上下客的月台，不是候车大厅；同一个车次的检票口和站台编号可能不同。",
+              "text_vi": "Sân ga là nơi lên/xuống tàu, khác phòng chờ. Số cổng soát vé và số sân ga không nhất thiết giống nhau."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Chuyến này ở sân ga số mấy?"
+        },
+        {
+          "id": "s38_2_0002",
+          "level": "must",
+          "text": "这是G一二三次列车吗？",
+          "alternatives": [
+            {
+              "text": "请问这是G123次吗？",
+              "id": "s38_2_0002_alt01",
+              "meaning_vi": "Xin hỏi đây có phải chuyến G123 không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，就是这趟车。",
+              "id": "s38_2_0002_reply01",
+              "meaning_vi": "Đúng, chính là chuyến này."
+            },
+            {
+              "text": "不是这趟，你再核对车票上的G字头车次。",
+              "id": "s38_2_0002_reply02",
+              "meaning_vi": "Không phải, bạn đối chiếu lại số hiệu tàu bắt đầu bằng chữ G trên vé nhé."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "zhè shì jī yī èr sān cì liè chē ma",
+          "mistakes": [
+            {
+              "text": "G是列车车次前缀字母，普通话常读jī；“一二三”是车次编号，数字逐个念，不把123读成“一百二十三”。",
+              "text_vi": "Chữ G đầu mã chuyến thường đọc jī; các số 1-2-3 đọc riêng từng số, không đọc thành một trăm hai mươi ba."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Đây có phải tàu G123 không?"
+        },
+        {
+          "id": "s38_2_0003",
+          "level": "must",
+          "text": "这趟车去南京吗？",
+          "alternatives": [
+            {
+              "text": "这班车到南京吗？",
+              "id": "s38_2_0003_alt01",
+              "meaning_vi": "Chuyến này có đến Nam Kinh không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，这趟车去南京。",
+              "id": "s38_2_0003_reply01",
+              "meaning_vi": "Có, chuyến này đi Nam Kinh."
+            },
+            {
+              "text": "这趟不停南京站，看看别的车次吧。",
+              "id": "s38_2_0003_reply02",
+              "meaning_vi": "Chuyến này không dừng ở ga Nam Kinh, bạn xem chuyến khác nhé."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "zhè tàng chē qù nán jīng ma",
+          "mistakes": [
+            {
+              "text": "“去南京”可以指途经南京或终点在南京，不等于每趟去南京的列车都停靠你的目标站；看车次和经停站。",
+              "text_vi": "“Đi Nam Kinh” có thể là qua đó hoặc đến ga đó; phải xem chuyến có dừng đúng ga bạn cần không."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Chuyến này có đi Nam Kinh không?"
+        },
+        {
+          "id": "s38_2_0004",
+          "level": "must",
+          "text": "检票口在哪儿？",
+          "alternatives": [
+            {
+              "text": "从哪个口检票？",
+              "id": "s38_2_0004_alt01",
+              "meaning_vi": "Soát vé qua cổng nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在前面的十二号检票口。",
+              "id": "s38_2_0004_reply01",
+              "meaning_vi": "Cổng soát vé số 12 ở phía trước."
+            },
+            {
+              "text": "看大屏上的检票口信息。",
+              "id": "s38_2_0004_reply02",
+              "meaning_vi": "Xem cổng soát vé trên bảng điện tử."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "jiǎn piào kǒu zài nǎr",
+          "mistakes": [
+            {
+              "text": "“检票口”是查票后放行的入口，和“出站口”“站台”不同；临时变更时按显示屏和广播走。",
+              "text_vi": "Cổng soát vé là chỗ kiểm tra vé trước khi lên tàu, khác lối ra và sân ga; có thể đổi bất ngờ."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Cổng soát vé ở đâu?"
+        },
+        {
+          "id": "s38_2_0005",
+          "level": "must",
+          "text": "晚点了吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，目前晚点十分钟。",
+              "id": "s38_2_0005_reply01",
+              "meaning_vi": "Đúng, hiện đang trễ mười phút."
+            },
+            {
+              "text": "暂时没有晚点。",
+              "id": "s38_2_0005_reply02",
+              "meaning_vi": "Tạm thời chưa trễ."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "wǎn diǎn le ma",
+          "mistakes": [
+            {
+              "text": "“晚点了”表示列车比原定时刻延误；不等于车已经开走，具体延误信息要实时查看。",
+              "text_vi": "Tàu trễ là khởi hành muộn, không phải đã chạy đi; theo dõi thông báo mới nhất."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Tàu bị trễ rồi à?"
+        },
+        {
+          "id": "s38_2_0009",
+          "level": "must",
+          "text": "现在可以去站台吗？",
+          "alternatives": [
+            {
+              "text": "站台现在开放了吗？",
+              "id": "s38_2_0009_alt01",
+              "meaning_vi": "Sân ga đã mở cho khách vào chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以了，已经开始检票了。",
+              "id": "s38_2_0009_reply01",
+              "meaning_vi": "Được rồi, đã bắt đầu soát vé."
+            },
+            {
+              "text": "还不能去，检票口还没开放。",
+              "id": "s38_2_0009_reply02",
+              "meaning_vi": "Chưa được, cổng soát vé chưa mở."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "xiàn zài kě yǐ qù zhàn tái ma",
+          "mistakes": [
+            {
+              "text": "“可以去站台”问当前是否获准进入乘车站台，不表示能越过尚未开放的检票口。",
+              "text_vi": "Chỉ được vào sân ga sau khi cổng soát vé mở; không tự đi qua chỗ chưa cho phép."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Giờ có thể xuống sân ga chưa?"
+        },
+        {
+          "id": "s38_2_0010",
+          "level": "must",
+          "text": "广播刚才说什么？",
+          "alternatives": [
+            {
+              "text": "刚才广播通知什么了？",
+              "id": "s38_2_0010_alt01",
+              "meaning_vi": "Thông báo trên loa vừa nói gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "广播说站台有变更。",
+              "id": "s38_2_0010_reply01",
+              "meaning_vi": "Loa thông báo đổi sân ga."
+            },
+            {
+              "text": "广播说现在开始检票。",
+              "id": "s38_2_0010_reply02",
+              "meaning_vi": "Loa báo bắt đầu soát vé."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "guǎng bō gāng cái shuō shén me",
+          "mistakes": [
+            {
+              "text": "“刚才”是刚刚过去的时间；“广播”指车站公共播报，不是电话里的人讲话。",
+              "text_vi": "“刚才” là vừa mới, “广播” là thông báo loa công cộng của ga."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Loa vừa thông báo gì vậy?"
+        },
+        {
+          "id": "s38_2_0011",
+          "level": "listen",
+          "text": "三号站台。",
+          "alternatives": [
+            {
+              "text": "在三号站台上车。",
+              "id": "s38_2_0011_alt01",
+              "meaning_vi": "Lên tàu tại sân ga số ba."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去三号站台。",
+              "id": "s38_2_0011_reply01",
+              "meaning_vi": "Được, tôi tới sân ga số ba."
+            },
+            {
+              "text": "知道了，我再看一下大屏。",
+              "id": "s38_2_0011_reply02",
+              "meaning_vi": "Hiểu rồi, tôi xem lại bảng điện tử."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "sān hào zhàn tái",
+          "mistakes": [
+            {
+              "text": "“三号站台”是编号3的站台，不是从这里走三站，也不是“第三趟车”；注意“号”这个编号词。",
+              "text_vi": "Sân ga số ba là mã sân ga, không phải đi ba ga hoặc chuyến thứ ba."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Sân ga số ba."
+        },
+        {
+          "id": "s38_2_0013",
+          "level": "listen",
+          "text": "晚点十分钟。",
+          "alternatives": [
+            {
+              "text": "预计晚点十分钟。",
+              "id": "s38_2_0013_alt01",
+              "meaning_vi": "Dự kiến trễ mười phút."
+            }
+          ],
+          "replies": [
+            {
+              "text": "知道了，我再看看预计发车时间。",
+              "id": "s38_2_0013_reply01",
+              "meaning_vi": "Hiểu rồi, tôi xem lại giờ khởi hành dự kiến."
+            },
+            {
+              "text": "现在还能按时检票吗？",
+              "id": "s38_2_0013_reply02",
+              "meaning_vi": "Giờ vẫn soát vé đúng giờ à?"
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "wǎn diǎn shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“晚点十分钟”说的是与计划时间的差额，不一定是从现在开始再等十分钟；不要自行计算后就不看通知。",
+              "text_vi": "Trễ 10 phút là chậm so với lịch, không chắc phải đợi thêm đúng 10 phút từ hiện tại."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Trễ mười phút."
+        },
+        {
+          "id": "s38_2_0014",
+          "level": "listen",
+          "text": "请看车站大屏。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去看大屏。",
+              "id": "s38_2_0014_reply01",
+              "meaning_vi": "Được, tôi đi xem bảng."
+            },
+            {
+              "text": "大屏上能查到检票口吗？",
+              "id": "s38_2_0014_reply02",
+              "meaning_vi": "Trên bảng có số cổng soát vé không?"
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "qǐng kàn chē zhàn dà píng",
+          "mistakes": [
+            {
+              "text": "“车站大屏”是车站公共信息显示屏，不是手机屏幕；屏幕内容随车次更新。",
+              "text_vi": "Bảng điện tử ở ga là màn hình chung, không phải màn hình điện thoại."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Vui lòng xem bảng điện tử ở ga."
+        },
+        {
+          "id": "s38_2_0016",
+          "level": "listen",
+          "text": "现在还不能下站台。",
+          "alternatives": [
+            {
+              "text": "暂时不能进入站台。",
+              "id": "s38_2_0016_alt01",
+              "meaning_vi": "Tạm thời chưa được vào sân ga."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先在候车区等通知。",
+              "id": "s38_2_0016_reply01",
+              "meaning_vi": "Được, tôi đợi thông báo ở khu chờ."
+            },
+            {
+              "text": "请问什么时候能下去？",
+              "id": "s38_2_0016_reply02",
+              "meaning_vi": "Xin hỏi khi nào có thể xuống?"
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "xiàn zài hái bù néng xià zhàn tái",
+          "mistakes": [
+            {
+              "text": "“下站台”在这种车站可指从候车层走下去到站台，不是从列车上“下车”；“现在还不能”只是暂时未开放。",
+              "text_vi": "“下站台” trong nhà ga là đi từ tầng chờ xuống khu sân ga, không phải xuống tàu."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Hiện chưa được xuống sân ga."
+        },
+        {
+          "id": "s38_2_0018",
+          "level": "listen",
+          "text": "现在开始检票。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去检票。",
+              "id": "s38_2_0018_reply01",
+              "meaning_vi": "Được, tôi đi soát vé."
+            },
+            {
+              "text": "好，我先核对检票口号码。",
+              "id": "s38_2_0018_reply02",
+              "meaning_vi": "Được, tôi kiểm tra lại số cổng trước."
+            }
+          ],
+          "lesson_id": "38.2",
+          "lesson_title": "38.2 站台车次",
+          "pinyin": "xiàn zài kāi shǐ jiǎn piào",
+          "mistakes": [
+            {
+              "text": "“开始检票”是开放检票，不等于列车马上发车；还需要在规定时间内按指示通过。",
+              "text_vi": "Bắt đầu soát vé chưa có nghĩa tàu chạy ngay; phải qua cổng trước hạn đóng soát vé."
+            }
+          ],
+          "lesson_title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+          "meaning_vi": "Bây giờ bắt đầu soát vé."
+        }
+      ],
+      "opening": "练习辨认检票口、站台与车次编号，听懂车站广播和临时站台变更；不在检票口开放前自行下站台。",
+      "subtitle": "12张高频卡 · 7必说 + 5必听",
+      "title_vi": "38.2 Sân ga và số hiệu chuyến tàu",
+      "opening_vi": "Luyện phân biệt cổng soát vé, sân ga và mã chuyến, nghe thông báo đổi sân ga; không tự xuống sân ga trước khi mở soát vé.",
+      "subtitle_vi": "12 thẻ giao tiếp"
+    },
+    {
+      "id": "38.3",
+      "title": "38.3 车厢座位",
+      "phrases": [
+        {
+          "id": "s38_3_0001",
+          "level": "must",
+          "text": "我在几号车厢？",
+          "alternatives": [
+            {
+              "text": "我应该上几号车厢？",
+              "id": "s38_3_0001_alt01",
+              "meaning_vi": "Tôi phải lên toa nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "你在五号车厢。",
+              "id": "s38_3_0001_reply01",
+              "meaning_vi": "Bạn ở toa số năm."
+            },
+            {
+              "text": "车票上写着五号车厢。",
+              "id": "s38_3_0001_reply02",
+              "meaning_vi": "Vé ghi toa số năm."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "wǒ zài jǐ hào chē xiāng",
+          "mistakes": [
+            {
+              "text": "“车厢”指整节车厢，“座位”指车厢里的某个坐席；五号车厢不是五号座位。",
+              "text_vi": "“车厢” là cả toa tàu; “座位” là ghế bên trong. Toa năm không phải ghế số năm."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Tôi ở toa số mấy?"
+        },
+        {
+          "id": "s38_3_0002",
+          "level": "must",
+          "text": "我的座位在哪儿？",
+          "alternatives": [
+            {
+              "text": "我该坐哪个位置？",
+              "id": "s38_3_0002_alt01",
+              "meaning_vi": "Tôi phải ngồi chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "你的座位在前面。",
+              "id": "s38_3_0002_reply01",
+              "meaning_vi": "Ghế bạn ở phía trước."
+            },
+            {
+              "text": "座位号在座位上方。",
+              "id": "s38_3_0002_reply02",
+              "meaning_vi": "Số ghế có ghi phía trên ghế."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "wǒ de zuò wèi zài nǎr",
+          "mistakes": [
+            {
+              "text": "“我的座位”是购票分配给自己的座位；位置要同时看“车厢号”和“座位号”，不能只看一个号码。",
+              "text_vi": "Để tìm chỗ cần xem cả số toa và số ghế, không chỉ một trong hai."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Ghế của tôi ở đâu?"
+        },
+        {
+          "id": "s38_3_0003",
+          "level": "must",
+          "text": "这是十二A座吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，这里就是12A。",
+              "id": "s38_3_0003_reply01",
+              "meaning_vi": "Đúng, đây là ghế 12A."
+            },
+            {
+              "text": "不是，你再往前找两排。",
+              "id": "s38_3_0003_reply02",
+              "meaning_vi": "Không, bạn đi thêm hai hàng nữa."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "zhè shì shí èr ēi zuò ma",
+          "mistakes": [
+            {
+              "text": "“十二A座”是第12排或编号12的A座标识，字母A读ēi；这不是车次G123，也不是十二号车厢。",
+              "text_vi": "12A là ký hiệu ghế, A đọc êi; khác mã chuyến tàu hoặc toa số 12."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Đây có phải ghế 12A không?"
+        },
+        {
+          "id": "s38_3_0004",
+          "level": "must",
+          "text": "行李放哪儿？",
+          "alternatives": [
+            {
+              "text": "请问行李可以放在哪里？",
+              "id": "s38_3_0004_alt01",
+              "meaning_vi": "Xin hỏi tôi có thể để hành lý ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "小件行李可以放在上面的行李架上。",
+              "id": "s38_3_0004_reply01",
+              "meaning_vi": "Hành lý nhỏ có thể để trên giá phía trên."
+            },
+            {
+              "text": "大件行李放指定位置。",
+              "id": "s38_3_0004_reply02",
+              "meaning_vi": "Hành lý lớn để đúng khu vực quy định."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "xíng lǐ fàng nǎr",
+          "mistakes": [
+            {
+              "text": "“行李”包括包、箱等；小件放行李架要摆稳，重物和超大件不能随手举到别人头顶的架子上。",
+              "text_vi": "Hành lý nhỏ có thể để giá phía trên nếu chắc chắn; vali nặng hoặc lớn phải theo quy định an toàn."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Để hành lý ở đâu?"
+        },
+        {
+          "id": "s38_3_0005",
+          "level": "must",
+          "text": "这个座位有人坐吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有人，这个座位有乘客。",
+              "id": "s38_3_0005_reply01",
+              "meaning_vi": "Có, ghế này đã có khách."
+            },
+            {
+              "text": "我也不确定，最好核对车票。",
+              "id": "s38_3_0005_reply02",
+              "meaning_vi": "Tôi không chắc, tốt nhất bạn kiểm tra vé."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "zhè ge zuò wèi yǒu rén zuò ma",
+          "mistakes": [
+            {
+              "text": "“有人坐吗”可问座位是否已有乘客使用；没人坐在上面不等于座位没有被别人预订。",
+              "text_vi": "Ghế hiện trống không có nghĩa chưa được bán cho ai; nên đối chiếu vé."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Ghế này có người ngồi không?"
+        },
+        {
+          "id": "s38_3_0006",
+          "level": "must",
+          "text": "能跟你换个座吗？",
+          "alternatives": [
+            {
+              "text": "方便跟我换一下座位吗？",
+              "id": "s38_3_0006_alt01",
+              "meaning_vi": "Bạn có tiện đổi ghế với tôi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我们换一下吧。",
+              "id": "s38_3_0006_reply01",
+              "meaning_vi": "Được, chúng ta đổi nhé."
+            },
+            {
+              "text": "不好意思，我不太方便换。",
+              "id": "s38_3_0006_reply02",
+              "meaning_vi": "Xin lỗi, tôi không tiện đổi chỗ."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "néng gēn nǐ huàn ge zuò ma",
+          "mistakes": [
+            {
+              "text": "“能跟你换个座吗”是请求对方同意，不是有权要求换座；不同席别或车厢需先核实列车规定。",
+              "text_vi": "Đổi ghế là đề nghị, không được ép người khác. Khác hạng ghế cần tuân thủ quy định tàu."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Bạn đổi chỗ với tôi được không?"
+        },
+        {
+          "id": "s38_3_0009",
+          "level": "must",
+          "text": "我的座位被占了。",
+          "alternatives": [
+            {
+              "text": "有人坐了我的座位。",
+              "id": "s38_3_0009_alt01",
+              "meaning_vi": "Có người đang ngồi vào chỗ của tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先核对一下座位号。",
+              "id": "s38_3_0009_reply01",
+              "meaning_vi": "Trước tiên hãy kiểm tra số ghế."
+            },
+            {
+              "text": "如果确实被占了，可以请乘务员帮忙。",
+              "id": "s38_3_0009_reply02",
+              "meaning_vi": "Nếu đúng là bị chiếm, nhờ nhân viên trên tàu giúp."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "wǒ de zuò wèi bèi zhàn le",
+          "mistakes": [
+            {
+              "text": "“座位被占了”是有人坐在票面分配给自己的座位；先核对车厢号和座位号，若有争议找乘务员协助，不要直接争吵。",
+              "text_vi": "Có người ngồi ghế đã ghi trên vé mình thì kiểm tra toa và số ghế rồi nhờ nhân viên nếu cần."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Ghế của tôi có người ngồi rồi."
+        },
+        {
+          "id": "s38_3_0010",
+          "level": "must",
+          "text": "大件行李放哪里？",
+          "alternatives": [
+            {
+              "text": "大行李箱应该放哪儿？",
+              "id": "s38_3_0010_alt01",
+              "meaning_vi": "Vali to nên để chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "那边有大件行李区，你看一下标志。",
+              "id": "s38_3_0010_reply01",
+              "meaning_vi": "Bên kia có khu để hành lý lớn, bạn xem biển nhé."
+            },
+            {
+              "text": "这件有点大，先问一下乘务员。",
+              "id": "s38_3_0010_reply02",
+              "meaning_vi": "Món này hơi to, bạn hỏi nhân viên trên tàu trước."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "dà jiàn xíng lǐ fàng nǎ li",
+          "mistakes": [
+            {
+              "text": "“大件行李”指体积大的随身携带物，未必全部允许带上车；要遵守尺寸、重量和安全摆放要求。",
+              "text_vi": "Hành lý lớn có thể bị giới hạn kích cỡ, cân nặng; không chắn lối đi và cửa."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Hành lý lớn để ở đâu?"
+        },
+        {
+          "id": "s38_3_0011",
+          "level": "listen",
+          "text": "你的座位在前面。",
+          "alternatives": [
+            {
+              "text": "往前走几排就到了。",
+              "id": "s38_3_0011_alt01",
+              "meaning_vi": "Đi lên vài hàng nữa là tới."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我往前找一下。",
+              "id": "s38_3_0011_reply01",
+              "meaning_vi": "Được, tôi tìm phía trước."
+            },
+            {
+              "text": "谢谢，我看一下座位号。",
+              "id": "s38_3_0011_reply02",
+              "meaning_vi": "Cảm ơn, để tôi xem số ghế."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "nǐ de zuò wèi zài qián miàn",
+          "mistakes": [
+            {
+              "text": "“前面”表示相对于说话位置的前方，不能只看车头方向；沿车厢内标志和座位号找。",
+              "text_vi": "“Phía trước” tính theo vị trí đang đứng, nên theo số ghế và chỉ dẫn trong toa."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Ghế của bạn ở phía trước."
+        },
+        {
+          "id": "s38_3_0012",
+          "level": "listen",
+          "text": "小件行李可以放在上面的行李架上。",
+          "alternatives": [
+            {
+              "text": "小包可以放在上面的行李架。",
+              "id": "s38_3_0012_alt01",
+              "meaning_vi": "Túi nhỏ có thể để trên giá hành lý phía trên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我放到行李架上。",
+              "id": "s38_3_0012_reply01",
+              "meaning_vi": "Được, tôi để lên giá hành lý."
+            },
+            {
+              "text": "知道了，我不挡过道。",
+              "id": "s38_3_0012_reply02",
+              "meaning_vi": "Hiểu rồi, tôi không chắn lối đi."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "xiǎo jiàn xíng lǐ kě yǐ fàng zài shàng miàn de xíng lǐ jià shàng",
+          "mistakes": [
+            {
+              "text": "句中的“小件行李”不包括沉重或危险物品；放在架上要稳固，不得掉落或阻挡通道。",
+              "text_vi": "Chỉ để đồ nhẹ, an toàn lên giá; không để rơi hoặc chắn lối."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Hành lý nhỏ có thể để trên giá phía trên."
+        },
+        {
+          "id": "s38_3_0013",
+          "level": "listen",
+          "text": "不好意思，我不换。",
+          "alternatives": [
+            {
+              "text": "抱歉，我不方便换座。",
+              "id": "s38_3_0013_alt01",
+              "meaning_vi": "Xin lỗi, tôi không tiện đổi ghế."
+            }
+          ],
+          "replies": [
+            {
+              "text": "没关系，我再问问乘务员。",
+              "id": "s38_3_0013_reply01",
+              "meaning_vi": "Không sao, để tôi hỏi nhân viên trên tàu."
+            },
+            {
+              "text": "好的，谢谢你。",
+              "id": "s38_3_0013_reply02",
+              "meaning_vi": "Được, cảm ơn bạn."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "bù hǎo yì si wǒ bú huàn",
+          "mistakes": [
+            {
+              "text": "“不好意思”在这里是礼貌缓和语气，并不一定是做错事后道歉；“不换”就是不同意，应尊重。",
+              "text_vi": "“不好意思” là lời nói mềm khi từ chối, không nhất thiết xin lỗi vì làm sai; “không đổi” là từ chối."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Xin lỗi, tôi không đổi chỗ."
+        },
+        {
+          "id": "s38_3_0016",
+          "level": "listen",
+          "text": "大件行李请放指定位置。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去找大件行李处。",
+              "id": "s38_3_0016_reply01",
+              "meaning_vi": "Được, tôi tìm khu để hành lý lớn."
+            },
+            {
+              "text": "知道了，不放过道。",
+              "id": "s38_3_0016_reply02",
+              "meaning_vi": "Hiểu rồi, không để ở lối đi."
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "dà jiàn xíng lǐ qǐng fàng zhǐ dìng wèi zhì",
+          "mistakes": [
+            {
+              "text": "“指定位置”是车厢规定的存放区，不是乘客想放哪儿就放哪儿；过道和车门附近应保持畅通。",
+              "text_vi": "Chỗ quy định là khu để hành lý được chỉ định, không phải chỗ tùy ý; lối đi phải thông."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Vui lòng để hành lý lớn vào chỗ quy định."
+        },
+        {
+          "id": "s38_3_0018",
+          "level": "listen",
+          "text": "座位号在座位上方。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我抬头看一下。",
+              "id": "s38_3_0018_reply01",
+              "meaning_vi": "Được, để tôi ngước nhìn."
+            },
+            {
+              "text": "这个是十二A座吗？",
+              "id": "s38_3_0018_reply02",
+              "meaning_vi": "Đây có phải ghế 12A không?"
+            }
+          ],
+          "lesson_id": "38.3",
+          "lesson_title": "38.3 车厢座位",
+          "pinyin": "zuò wèi hào zài zuò wèi shàng fāng",
+          "mistakes": [
+            {
+              "text": "“上方”是座位正上面的位置，不是另一层楼；座位号与车厢号要分别核对。",
+              "text_vi": "“上方” là phía trên ghế, không phải tầng trên; vẫn cần kiểm tra cả toa."
+            }
+          ],
+          "lesson_title_vi": "38.3 Toa tàu và chỗ ngồi",
+          "meaning_vi": "Số ghế ghi phía trên chỗ ngồi."
+        }
+      ],
+      "opening": "练习按车厢号和座位号找位，礼貌询问换座、处理占座及大件行李；车厢号不是座位号。",
+      "subtitle": "13张高频卡 · 8必说 + 5必听",
+      "title_vi": "38.3 Toa tàu và chỗ ngồi",
+      "opening_vi": "Tìm ghế theo số toa và số ghế, hỏi đổi chỗ lịch sự, xử lý ghế bị chiếm và cất hành lý; số toa khác số ghế.",
+      "subtitle_vi": "13 thẻ giao tiếp"
+    },
+    {
+      "id": "38.4",
+      "title": "38.4 改签退票",
+      "phrases": [
+        {
+          "id": "s38_4_0001",
+          "level": "must",
+          "text": "我赶不上了。",
+          "alternatives": [
+            {
+              "text": "这趟车我来不及赶上了。",
+              "id": "s38_4_0001_alt01",
+              "meaning_vi": "Tôi không kịp lên chuyến này nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先查一下12306订单还能不能改签。",
+              "id": "s38_4_0001_reply01",
+              "meaning_vi": "Bạn thử xem đơn 12306 còn đổi vé được không."
+            },
+            {
+              "text": "如果已经开车了，处理规则可能不同。",
+              "id": "s38_4_0001_reply02",
+              "meaning_vi": "Nếu tàu đã khởi hành, quy định xử lý có thể khác."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "wǒ gǎn bú shàng le",
+          "mistakes": [
+            {
+              "text": "“赶不上”是来不及搭乘该趟列车，不代表车票必定作废。出发后能否改签、何时可改和费用应按12306当时规则核实；退票与改签不同。",
+              "text_vi": "Không kịp tàu chưa chắc vé hết giá trị. Quy định đổi sau khi chạy tùy 12306 và thời điểm, khác trả vé."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Tôi sợ không kịp chuyến tàu rồi."
+        },
+        {
+          "id": "s38_4_0002",
+          "level": "must",
+          "text": "可以改签吗？",
+          "alternatives": [
+            {
+              "text": "这张车票还能改签吗？",
+              "id": "s38_4_0002_alt01",
+              "meaning_vi": "Vé này còn đổi chuyến được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要看车票状态和余票。",
+              "id": "s38_4_0002_reply01",
+              "meaning_vi": "Còn tùy trạng thái vé và chỗ trống."
+            },
+            {
+              "text": "符合条件的话可以改签。",
+              "id": "s38_4_0002_reply02",
+              "meaning_vi": "Nếu đủ điều kiện thì được đổi."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "kě yǐ gǎi qiān ma",
+          "mistakes": [
+            {
+              "text": "“改签”是按铁路规则更改已购车票的日期、车次等，和直接退票不同；能否改签由余票、原票状态及办理时间决定，不能因另一班有票就认定一定能改。",
+              "text_vi": "“改签” là đổi ngày hoặc chuyến của vé đã mua, khác trả vé; điều kiện tùy số ghế trống và giờ xử lý."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Có đổi sang chuyến khác được không?"
+        },
+        {
+          "id": "s38_4_0003",
+          "level": "must",
+          "text": "我想改到晚上。",
+          "alternatives": [
+            {
+              "text": "能改到今天晚上的车吗？",
+              "id": "s38_4_0003_alt01",
+              "meaning_vi": "Có thể đổi sang tàu tối nay không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先查一下晚上还有没有余票。",
+              "id": "s38_4_0003_reply01",
+              "meaning_vi": "Trước tiên kiểm tra tối còn chỗ không."
+            },
+            {
+              "text": "查到有票后，还要确认原车票是否允许改签。",
+              "id": "s38_4_0003_reply02",
+              "meaning_vi": "Nếu có chỗ, vẫn phải xem vé cũ có đủ điều kiện đổi không."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "wǒ xiǎng gǎi dào wǎn shang",
+          "mistakes": [
+            {
+              "text": "“改到晚上”是更换乘车时段，不是“晚点”（列车自己延误）；晚上是否有车和能否改签是两件事。",
+              "text_vi": "“Đổi sang chuyến tối” khác tàu tự trễ giờ; còn ghế chưa chắc đủ điều kiện đổi."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Tôi muốn đổi sang chuyến tối."
+        },
+        {
+          "id": "s38_4_0004",
+          "level": "must",
+          "text": "怎么退票？",
+          "alternatives": [
+            {
+              "text": "退票在哪儿办理？",
+              "id": "s38_4_0004_alt01",
+              "meaning_vi": "Làm thủ tục hoàn vé ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先在12306订单里看能否申请退票。",
+              "id": "s38_4_0004_reply01",
+              "meaning_vi": "Trước tiên xem đơn trên 12306 có nộp yêu cầu trả vé được không."
+            },
+            {
+              "text": "如果线上办不了，可以去车站窗口问问。",
+              "id": "s38_4_0004_reply02",
+              "meaning_vi": "Nếu không làm online được, thử hỏi quầy vé tại ga."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "zěn me tuì piào",
+          "mistakes": [
+            {
+              "text": "“退票”是申请取消车票并按规定退款；退票渠道可能是12306、车站窗口或支持该功能的设备。",
+              "text_vi": "Trả vé là hủy vé và xin hoàn theo quy định, có thể thực hiện ở 12306 hoặc quầy tùy loại vé."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Làm sao trả vé?"
+        },
+        {
+          "id": "s38_4_0005",
+          "level": "must",
+          "text": "要手续费吗？",
+          "alternatives": [
+            {
+              "text": "办理退票会扣钱吗？",
+              "id": "s38_4_0005_alt01",
+              "meaning_vi": "Trả vé có bị trừ tiền không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有可能，要看办理时间和具体业务。",
+              "id": "s38_4_0005_reply01",
+              "meaning_vi": "Có thể có, tùy thời điểm và loại thủ tục."
+            },
+            {
+              "text": "办理页面会显示具体费用。",
+              "id": "s38_4_0005_reply02",
+              "meaning_vi": "Trang thực hiện sẽ hiển thị mức phí cụ thể."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "yào shǒu xù fèi ma",
+          "mistakes": [
+            {
+              "text": "退票费、改签费和换成更贵车票时的票价差额是不同费用；是否收费取决于具体业务和办理时点，按12306实际页面核对，不能统一回答“不收费”。",
+              "text_vi": "Phí trả vé, phí đổi và tiền chênh khi đổi sang vé đắt hơn là khác nhau; xem mức phí cụ thể trên 12306."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Có mất phí không?"
+        },
+        {
+          "id": "s38_4_0008",
+          "level": "must",
+          "text": "这张票可以退吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看开车时间和车票状态。",
+              "id": "s38_4_0008_reply01",
+              "meaning_vi": "Còn tùy giờ tàu chạy và trạng thái vé."
+            },
+            {
+              "text": "符合退票条件的话可以退。",
+              "id": "s38_4_0008_reply02",
+              "meaning_vi": "Đủ điều kiện thì trả được."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "zhè zhāng piào kě yǐ tuì ma",
+          "mistakes": [
+            {
+              "text": "“可以退吗”问这张车票是否符合退票条件，不表示一定能全额退钱。一般按规定须在列车开车前退票；开车后部分改签业务可能仍可办理，二者不能混为一谈。",
+              "text_vi": "Trả vé được hay không phụ thuộc trạng thái vé và giờ chạy; thông thường phải làm trước giờ khởi hành."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Vé này có trả lại được không?"
+        },
+        {
+          "id": "s38_4_0009",
+          "level": "must",
+          "text": "退票多久到账？",
+          "alternatives": [
+            {
+              "text": "退款大概几天到账？",
+              "id": "s38_4_0009_alt01",
+              "meaning_vi": "Hoàn tiền vé mất khoảng mấy ngày?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "退款一般按原支付方式退，到账时间要看支付渠道。",
+              "id": "s38_4_0009_reply01",
+              "meaning_vi": "Thường hoàn về phương thức thanh toán cũ, thời gian tùy kênh trả tiền."
+            },
+            {
+              "text": "你可以在退款详情里查看进度和预计时间。",
+              "id": "s38_4_0009_reply02",
+              "meaning_vi": "Bạn có thể xem tiến độ và thời gian dự kiến trong chi tiết hoàn tiền."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "tuì piào duō jiǔ dào zhàng",
+          "mistakes": [
+            {
+              "text": "退票已受理、系统显示已退款和钱实际进入账户是不同状态。退款一般退回原支付渠道，具体到账时间依银行、平台及交易方式而定；现金付款可能需按规定到窗口办理。",
+              "text_vi": "Yêu cầu trả vé, hệ thống báo đã hoàn và tiền thực về là ba bước; thời gian tùy kênh thanh toán, tiền mặt có thể xử lý tại quầy."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Trả vé thì bao lâu tiền về tài khoản?"
+        },
+        {
+          "id": "s38_4_0010",
+          "level": "must",
+          "text": "还有别的车次吗？",
+          "alternatives": [
+            {
+              "text": "能查一下其他车次吗？",
+              "id": "s38_4_0010_alt01",
+              "meaning_vi": "Kiểm tra giúp tôi chuyến khác được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，下一班还有票。",
+              "id": "s38_4_0010_reply01",
+              "meaning_vi": "Có, chuyến sau còn vé."
+            },
+            {
+              "text": "有一趟晚上发车的，你想查一下余票吗？",
+              "id": "s38_4_0010_reply02",
+              "meaning_vi": "Có chuyến buổi tối, bạn muốn xem còn vé không?"
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "hái yǒu bié de chē cì ma",
+          "mistakes": [
+            {
+              "text": "“别的车次”是另一班有独立车次号的列车，不是同一列车里的另一种座位；还要看目的地和余票。",
+              "text_vi": "“Chuyến khác” là mã chuyến khác, không phải đổi ghế trên cùng chuyến; cần xem nơi đến và chỗ còn."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Còn chuyến tàu khác không?"
+        },
+        {
+          "id": "s38_4_0012",
+          "level": "listen",
+          "text": "符合条件的话可以在手机上改签。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先看一下订单。",
+              "id": "s38_4_0012_reply01",
+              "meaning_vi": "Được, tôi xem đơn trước."
+            },
+            {
+              "text": "知道了，我在手机上试一下。",
+              "id": "s38_4_0012_reply02",
+              "meaning_vi": "Hiểu rồi, để tôi thử trên điện thoại."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "fú hé tiáo jiàn de huà kě yǐ zài shǒu jī shàng gǎi qiān",
+          "mistakes": [
+            {
+              "text": "能否在手机上改签要看原票支付方式、凭证、车次状态等条件；12306目前说明，现金购票或已领取报销凭证的车票须到车站窗口办理改签。",
+              "text_vi": "Đổi vé trên điện thoại tùy chứng từ và hình thức mua. Vé mua tiền mặt hoặc đã lấy chứng từ thanh toán có thể cần đến quầy."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Nếu đủ điều kiện thì có thể đổi vé trên điện thoại."
+        },
+        {
+          "id": "s38_4_0013",
+          "level": "listen",
+          "text": "这张票现在改不了。",
+          "alternatives": [
+            {
+              "text": "这张票暂时没法改签。",
+              "id": "s38_4_0013_alt01",
+              "meaning_vi": "Vé này tạm thời không đổi chuyến được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我再核对一下是不是余票或时间限制。",
+              "id": "s38_4_0013_reply01",
+              "meaning_vi": "Để tôi kiểm tra có phải do hết chỗ hay quá hạn."
+            },
+            {
+              "text": "那这张票还有其他处理办法吗？",
+              "id": "s38_4_0013_reply02",
+              "meaning_vi": "Vậy vé này còn cách xử lý nào khác không?"
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "zhè zhāng piào xiàn zài gǎi bu liǎo",
+          "mistakes": [
+            {
+              "text": "“改不了”中的“不了”表示做不到或条件不允许，这里读bu liǎo；不能误解成自己不会操作，也不宜保证一定能到窗口解决。",
+              "text_vi": "“改不了” nghĩa là không làm được vì điều kiện, 不了 đọc bu liǎo; không mặc nhiên đến quầy sẽ đổi được."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Vé này giờ không đổi được."
+        },
+        {
+          "id": "s38_4_0015",
+          "level": "listen",
+          "text": "下一班还有票。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这班车几点出发？",
+              "id": "s38_4_0015_reply01",
+              "meaning_vi": "Chuyến này khởi hành lúc mấy giờ?"
+            },
+            {
+              "text": "我先看一下原票是否符合改签条件。",
+              "id": "s38_4_0015_reply02",
+              "meaning_vi": "Để tôi xem vé cũ có đủ điều kiện đổi chuyến không."
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "xià yì bān hái yǒu piào",
+          "mistakes": [
+            {
+              "text": "“下一班还有票”只表示另一班有剩余票，不代表你的原票自动改好了；改签还要单独办理。",
+              "text_vi": "Chuyến sau còn vé chưa có nghĩa vé cũ đã đổi; vẫn phải hoàn tất thủ tục riêng."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Chuyến sau vẫn còn vé."
+        },
+        {
+          "id": "s38_4_0016",
+          "level": "listen",
+          "text": "退款一般会原路退。",
+          "alternatives": [
+            {
+              "text": "退款通常退回原支付账户。",
+              "id": "s38_4_0016_alt01",
+              "meaning_vi": "Tiền hoàn thường về tài khoản đã thanh toán."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我留意原来的支付账户。",
+              "id": "s38_4_0016_reply01",
+              "meaning_vi": "Được, tôi theo dõi tài khoản cũ."
+            },
+            {
+              "text": "大概要多久能到账？",
+              "id": "s38_4_0016_reply02",
+              "meaning_vi": "Khoảng bao lâu tiền mới về?"
+            }
+          ],
+          "lesson_id": "38.4",
+          "lesson_title": "38.4 改签退票",
+          "pinyin": "tuì kuǎn yì bān huì yuán lù tuì",
+          "mistakes": [
+            {
+              "text": "“原路退”是退款回原支付渠道，不是乘车原路返回。显示已办理退款不等于资金已入账；遇到现金购票或特殊支付情况应按12306和车站规定处理。",
+              "text_vi": "“原路退” là hoàn về kênh đã trả, không phải đi tàu quay về; báo hoàn chưa chắc tiền đã vào tài khoản."
+            }
+          ],
+          "lesson_title_vi": "38.4 Đổi vé và trả vé",
+          "meaning_vi": "Tiền hoàn thường về kênh thanh toán ban đầu."
+        }
+      ],
+      "opening": "练习没赶上车时问改签、查询退票条件和费用，以及确认退款实际到账；不要把已申请退票当成钱已入账。",
+      "subtitle": "12张高频卡 · 8必说 + 4必听",
+      "title_vi": "38.4 Đổi vé và trả vé",
+      "opening_vi": "Hỏi đổi vé khi lỡ chuyến, kiểm tra điều kiện và phí trả vé, theo dõi tiền hoàn thực về; nộp yêu cầu chưa phải nhận được tiền.",
+      "subtitle_vi": "12 thẻ giao tiếp"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T23:10:00Z",
+  "theme_title": "38 火车高铁",
+  "card_count": 52,
+  "source_phrase_count": 78,
+  "lesson_counts": {
+    "38.1": 15,
+    "38.2": 12,
+    "38.3": 13,
+    "38.4": 12
+  },
+  "quality_standard": "Vietnamese translations of original theme 38, Chinese pinyin IDs unchanged, all 52 main cards, 143 nested expressions and 52 usage notes. Train times, passport checking, platform vs gate, ticket changes vs refunds differentiated. Native editor and app/audio final QA pending.",
+  "theme_title_vi": "38 Tàu hỏa và tàu cao tốc"
+}
