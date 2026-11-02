@@ -1,9 +1,9 @@
 {
   "theme_id": "19",
-  "version": 1,
-  "updated_at": "2026-11-02T08:45:58.657Z",
+  "version": 2,
+  "updated_at": "2026-11-02T16:00:06.826Z",
   "theme_title": "19 楼宇出入与公共设施",
-  "quality_standard": "Vietnamese independent adaptation of Chinese theme 19 V13; all original Chinese/pinyin, stable card/nested IDs, order, lesson and level preserved. Myanmar-specific instructional text adapted. No native Vietnamese or audio/client regression testing yet.",
+  "quality_standard": "Vietnamese independent adaptation of Chinese theme 19 V13; all original Chinese/pinyin, stable card/nested IDs, order, lesson and level preserved. Myanmar-specific instructional text adapted. No native Vietnamese or audio/client regression testing yet. | Vietnamese semantic/naturalness QA 2026-11-02: targeted fixes; Mandarin, IDs and pinyin unchanged.",
   "source_phrase_count": 82,
   "lessons": [
     {
@@ -1453,12 +1453,12 @@
             {
               "text": "二单元。",
               "id": "s19_3_0002_reply01",
-              "meaning_vi": "Đơn nguyên số hai."
+              "meaning_vi": "Lối vào số hai."
             },
             {
               "text": "一单元。",
               "id": "s19_3_0002_reply02",
-              "meaning_vi": "Đơn nguyên số một."
+              "meaning_vi": "Lối vào số một."
             }
           ],
           "lesson_id": "19.3",
@@ -1467,10 +1467,10 @@
           "mistakes": [
             {
               "text": "住宅“单元”通常是楼内按不同入口划分的单元号，不是楼层或房间号；越南语可按现场标牌解释“đơn nguyên”。",
-              "text_vi": "“单元” trong khu nhà ở có thể là đơn nguyên hoặc cửa vào của một khu trong tòa, không phải số tầng hay số phòng."
+              "text_vi": "“单元” trong khu nhà ở thường chỉ một khu có lối vào và cầu thang riêng trong tòa, không phải số tầng hay số phòng."
             }
           ],
-          "meaning_vi": "Đây là đơn nguyên số mấy?",
+          "meaning_vi": "Đây là lối vào số mấy của tòa nhà?",
           "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
         },
         {
@@ -1691,7 +1691,7 @@
             {
               "text": "二单元从哪边进？",
               "id": "s19_3_0009_reply02",
-              "meaning_vi": "Đơn nguyên hai vào từ hướng nào?"
+              "meaning_vi": "Lối vào số hai ở phía nào?"
             }
           ],
           "lesson_id": "19.3",
@@ -1700,10 +1700,10 @@
           "mistakes": [
             {
               "text": "“二单元”是楼内编号为2的单元入口，不是二楼或2号房；与“二号楼”也不能混淆。",
-              "text_vi": "“二单元” là khu/cửa vào số hai trong một tòa, không phải tầng hai, phòng hai hay tòa hai."
+              "text_vi": "“二单元” là khu có lối vào số hai trong cùng một tòa nhà, không phải tầng hai, phòng hai hay tòa nhà số hai."
             }
           ],
-          "meaning_vi": "Đơn nguyên số hai.",
+          "meaning_vi": "Lối vào số hai.",
           "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
         },
         {
@@ -1799,10 +1799,10 @@
           "mistakes": [
             {
               "text": "“二号楼一单元”有两个编号：楼栋号2，单元号1，不代表二楼一层。",
-              "text_vi": "“二号楼一单元” có hai số: tòa số hai và đơn nguyên số một, không có nghĩa tầng hai."
+              "text_vi": "“二号楼一单元” gồm hai số: tòa nhà số hai và khu/lối vào số một, không phải tầng hai phòng một."
             }
           ],
-          "meaning_vi": "Tòa hai, đơn nguyên một.",
+          "meaning_vi": "Tòa số hai, lối vào số một.",
           "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
         },
         {
@@ -2058,7 +2058,7 @@
       ],
       "title_vi": "19.3 Thang máy, tầng và tòa nhà",
       "subtitle_vi": "19 thẻ giao tiếp thực tế",
-      "opening_vi": "Phân biệt số tòa, đơn nguyên và số tầng; hỏi đổi thang máy và tìm đúng lối vào."
+      "opening_vi": "Phân biệt số tòa nhà, số lối vào hoặc khu cầu thang của tòa nhà và số tầng; học cách hỏi chỗ đổi thang máy và tìm đúng lối vào."
     },
     {
       "id": "19.4",
