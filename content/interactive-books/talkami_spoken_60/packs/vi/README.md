@@ -4,10 +4,10 @@
 
 ## 当前进度（2026-11-02）
 
-- 已发布主题：**01–30**，共 **2189 张主卡**。
-- 越南语课程目录：`catalog.json`，已登记 30 个主题，供越南语 App 加载。
-- 主题数据文件：`01.json`–`30.json`。
-- 第31–60主题尚未制作成正式越南语课程文件。
+- 已发布主题：**01–35**，共 **2567 张主卡**。
+- 越南语课程目录：`catalog.json`，已登记 35 个主题，供越南语 App 加载。
+- 主题数据文件：`01.json`–`35.json`。
+- 第36–60主题尚未制作成正式越南语课程文件。
 - 部分辅助文件包括 `_translation_map_*.json`、`_translation_notes_*.json` 和 QA 报告，仅供制作及审核使用；辅助文件的存在不代表正式课程已经发布。
 
 ## 数据原则
@@ -21,7 +21,11 @@
 ## App 数据入口
 
 - [越南语目录](https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/packs/vi/catalog.json)
-- 单个主题按 `packs/vi/<theme_id>.json` 加载。例如第30主题的路径是 `packs/vi/30.json`。
+- 单个主题按 `packs/vi/<theme_id>.json` 加载。例如第35主题的路径是 `packs/vi/35.json`。
+
+## 第31–35主题新增翻译（2026-11-02）
+
+本批完成5个主题，共**378张主卡、944条替换句/回应句、318条越南语教学说明**；与原始中文逐卡核验，修复退款回应顺序并复查金额/物流/方位等高风险语义。详见 [`QA_31-35_NATURALNESS_20261102.md`](QA_31-35_NATURALNESS_20261102.md)。原始缅甸语包未改动。
 
 ## 质量声明
 
