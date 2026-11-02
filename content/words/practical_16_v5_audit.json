@@ -1,0 +1,1930 @@
+{
+  "version": "v5-recheck2",
+  "date": "2026-11-02",
+  "source": "Talkami_实用中缅四列词典_4500条_V4_完整精校版.txt",
+  "compare_reference": "content/words/packs/hsk1_3_0.json",
+  "totals": {
+    "words": 4500,
+    "major_categories": 16,
+    "minor_categories": 163,
+    "unique_ids": 4500,
+    "unique_hanzi": 4500,
+    "first_id": 1000001,
+    "last_id": 1004500,
+    "full_four_column_rows": 4500,
+    "words_with_collocations": 0,
+    "words_with_examples": 0,
+    "confirmed_pinyin_corrections": 6,
+    "burmese_meaning_enhancements": 11,
+    "reclassified_words": 86,
+    "subcategory_labels_refined": 5,
+    "phonetic_syllable_alignment_errors": 0
+  },
+  "quality_notes": [
+    "所有 ID 与 V4 源顺序绑定：id=1000000+source_order。移动类别及拼音排序不改变 ID。",
+    "四列译文中的缅语依据 V4 原稿，做了定向中文/HSK 对照和多义词补充；不是 4500 条重新人工翻译。",
+    "未完成缅语母语教师逐词终审；没有足够依据的音调或语言差异不自动覆盖。",
+    "每词仅中文词目需要一条音频（应用端单独生成），本 PR 未提供音频文件；搭配和例句完全不包含内容。",
+    "WiFi、U盘、T恤 等混合拉丁字母词目，TTS 读取需在应用端试听或配置朗读策略。",
+    "词库主题分类不等同于官方 HSK 等级。practical 标记实用词典，不应显示成 HSK1-4 考试词。",
+    "需要应用端验证 data_url 路径、分类跳转、封面配置、空搭配例句字段的 UI 兼容性。",
+    "Release 构建器的 safe_asset_name 不接受斜杠，本次把目录草案 data_url 改为平铺 JSON 文件名。",
+    "catalog 草案尚缺每类封面及 cover_url、cover_version、source_cover，正式发布前必须补齐并合并目录。",
+    "本次只准备 4500 个中文词目对应的可选 TTS 清单；没有搭配、例句配音任务，也未生成音频。特殊词目需先试听。"
+  ],
+  "categories": [
+    {
+      "id": "01",
+      "title": "基础中文与交流",
+      "item_count": 225,
+      "subcategory_count": 9,
+      "preview": "拜拜 / 拜托 / 帮"
+    },
+    {
+      "id": "02",
+      "title": "数字时间与方位",
+      "item_count": 378,
+      "subcategory_count": 9,
+      "preview": "安排 / 八 / 把"
+    },
+    {
+      "id": "03",
+      "title": "人物家庭与身份",
+      "item_count": 137,
+      "subcategory_count": 3,
+      "preview": "爱人 / 阿姨 / 爸"
+    },
+    {
+      "id": "04",
+      "title": "饮食食材与餐饮",
+      "item_count": 350,
+      "subcategory_count": 13,
+      "preview": "白菜 / 白醋 / 白粥"
+    },
+    {
+      "id": "05",
+      "title": "居家生活与日用品",
+      "item_count": 250,
+      "subcategory_count": 8,
+      "preview": "搬家 / 宝宝车 / 薄毯"
+    },
+    {
+      "id": "06",
+      "title": "衣服穿戴与个人护理",
+      "item_count": 195,
+      "subcategory_count": 6,
+      "preview": "安全帽 / 白色 / 半身裙"
+    },
+    {
+      "id": "07",
+      "title": "购物金钱与物流",
+      "item_count": 291,
+      "subcategory_count": 14,
+      "preview": "按件卖 / 按斤卖 / 搬货"
+    },
+    {
+      "id": "08",
+      "title": "交通出行与地点",
+      "item_count": 254,
+      "subcategory_count": 10,
+      "preview": "安检 / 安全带 / 爆胎"
+    },
+    {
+      "id": "09",
+      "title": "工作求职与工厂",
+      "item_count": 467,
+      "subcategory_count": 25,
+      "preview": "按钮 / 安全培训 / 安全通道"
+    },
+    {
+      "id": "10",
+      "title": "身体健康与医疗",
+      "item_count": 254,
+      "subcategory_count": 6,
+      "preview": "饱 / 饱了 / 背部"
+    },
+    {
+      "id": "11",
+      "title": "学习语言与教育",
+      "item_count": 221,
+      "subcategory_count": 7,
+      "preview": "报名 / 报纸 / 笔"
+    },
+    {
+      "id": "12",
+      "title": "手机网络与数码",
+      "item_count": 180,
+      "subcategory_count": 7,
+      "preview": "按键手机 / 安装 / 版本"
+    },
+    {
+      "id": "13",
+      "title": "社交情绪与休闲",
+      "item_count": 239,
+      "subcategory_count": 12,
+      "preview": "爱 / 爱好 / 爱情"
+    },
+    {
+      "id": "14",
+      "title": "办事证件与安全",
+      "item_count": 184,
+      "subcategory_count": 13,
+      "preview": "安全出口 / 帮忙 / 办结"
+    },
+    {
+      "id": "15",
+      "title": "自然天气与动植物",
+      "item_count": 108,
+      "subcategory_count": 8,
+      "preview": "暴雨 / 暴雨预警 / 避难所"
+    },
+    {
+      "id": "16",
+      "title": "常用动作与描述",
+      "item_count": 767,
+      "subcategory_count": 13,
+      "preview": "啊 / 矮 / 按"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "01.01",
+      "name": "问候寒暄与告别",
+      "count": 22
+    },
+    {
+      "id": "01.02",
+      "name": "感谢道歉与礼貌",
+      "count": 14
+    },
+    {
+      "id": "01.03",
+      "name": "常用口语回应",
+      "count": 27
+    },
+    {
+      "id": "01.04",
+      "name": "同意拒绝与协商",
+      "count": 19
+    },
+    {
+      "id": "01.05",
+      "name": "请对方帮忙与重复确认",
+      "count": 15
+    },
+    {
+      "id": "01.06",
+      "name": "人称代词",
+      "count": 23
+    },
+    {
+      "id": "01.07",
+      "name": "指示词与指代",
+      "count": 32
+    },
+    {
+      "id": "01.08",
+      "name": "常见疑问词",
+      "count": 49
+    },
+    {
+      "id": "01.09",
+      "name": "判断与选择问法",
+      "count": 24
+    },
+    {
+      "id": "02.01",
+      "name": "数字数量与编号",
+      "count": 58
+    },
+    {
+      "id": "02.02",
+      "name": "量词与计量单位",
+      "count": 56
+    },
+    {
+      "id": "02.03",
+      "name": "时刻星期与日期",
+      "count": 65
+    },
+    {
+      "id": "02.04",
+      "name": "时长频率与周期",
+      "count": 48
+    },
+    {
+      "id": "02.05",
+      "name": "时间安排与进度",
+      "count": 28
+    },
+    {
+      "id": "02.06",
+      "name": "方位远近与距离",
+      "count": 51
+    },
+    {
+      "id": "02.07",
+      "name": "路线楼层与空间变化",
+      "count": 33
+    },
+    {
+      "id": "02.08",
+      "name": "时间频率副词",
+      "count": 22
+    },
+    {
+      "id": "02.09",
+      "name": "时间持续与变化副词",
+      "count": 17
+    },
+    {
+      "id": "03.01",
+      "name": "家人亲戚与婚恋身份",
+      "count": 71
+    },
+    {
+      "id": "03.02",
+      "name": "职业称呼与人员身份",
+      "count": 56
+    },
+    {
+      "id": "03.03",
+      "name": "国籍语言与人群",
+      "count": 10
+    },
+    {
+      "id": "04.01",
+      "name": "水果类",
+      "count": 25
+    },
+    {
+      "id": "04.02",
+      "name": "蔬菜豆制品与菌菇",
+      "count": 41
+    },
+    {
+      "id": "04.03",
+      "name": "肉蛋奶与水产",
+      "count": 42
+    },
+    {
+      "id": "04.04",
+      "name": "米面主食与熟食",
+      "count": 41
+    },
+    {
+      "id": "04.05",
+      "name": "调料香料与干货",
+      "count": 22
+    },
+    {
+      "id": "04.06",
+      "name": "零食饮料与常见食品",
+      "count": 20
+    },
+    {
+      "id": "04.07",
+      "name": "餐具锅具与厨具",
+      "count": 25
+    },
+    {
+      "id": "04.08",
+      "name": "点餐与餐厅服务",
+      "count": 52
+    },
+    {
+      "id": "04.09",
+      "name": "口味烹饪方法",
+      "count": 21
+    },
+    {
+      "id": "04.10",
+      "name": "外卖与奶茶饮品",
+      "count": 23
+    },
+    {
+      "id": "04.11",
+      "name": "餐厅服务用品与标识",
+      "count": 9
+    },
+    {
+      "id": "04.12",
+      "name": "口味与食品评价",
+      "count": 20
+    },
+    {
+      "id": "04.13",
+      "name": "生鲜称重与包装",
+      "count": 9
+    },
+    {
+      "id": "05.01",
+      "name": "家具床品与室内摆设",
+      "count": 40
+    },
+    {
+      "id": "05.02",
+      "name": "家务清洁与日用品",
+      "count": 67
+    },
+    {
+      "id": "05.03",
+      "name": "家电照明与插座",
+      "count": 31
+    },
+    {
+      "id": "05.04",
+      "name": "厨房电器",
+      "count": 16
+    },
+    {
+      "id": "05.05",
+      "name": "租房宿舍与居住环境",
+      "count": 52
+    },
+    {
+      "id": "05.06",
+      "name": "保洁维修物业与费用",
+      "count": 22
+    },
+    {
+      "id": "05.07",
+      "name": "门窗五金与家居装修",
+      "count": 9
+    },
+    {
+      "id": "05.08",
+      "name": "母婴喂养与育儿用品",
+      "count": 13
+    },
+    {
+      "id": "06.01",
+      "name": "服装鞋帽",
+      "count": 58
+    },
+    {
+      "id": "06.02",
+      "name": "衣服尺码细节与搭配",
+      "count": 30
+    },
+    {
+      "id": "06.03",
+      "name": "包袋眼镜与首饰",
+      "count": 20
+    },
+    {
+      "id": "06.04",
+      "name": "洗漱口腔与身体清洁",
+      "count": 36
+    },
+    {
+      "id": "06.05",
+      "name": "护肤化妆美发美甲",
+      "count": 35
+    },
+    {
+      "id": "06.06",
+      "name": "女性与婴幼儿卫生用品",
+      "count": 16
+    },
+    {
+      "id": "07.01",
+      "name": "挑选商品询价与促销",
+      "count": 54
+    },
+    {
+      "id": "07.02",
+      "name": "结算付款与交易操作",
+      "count": 23
+    },
+    {
+      "id": "07.03",
+      "name": "价格计算与计费",
+      "count": 18
+    },
+    {
+      "id": "07.04",
+      "name": "退款售后与试穿",
+      "count": 38
+    },
+    {
+      "id": "07.05",
+      "name": "购物收银用品",
+      "count": 8
+    },
+    {
+      "id": "07.06",
+      "name": "线上订单与地址",
+      "count": 14
+    },
+    {
+      "id": "07.07",
+      "name": "银行支付与现金业务",
+      "count": 19
+    },
+    {
+      "id": "07.08",
+      "name": "快递寄取件与配送",
+      "count": 33
+    },
+    {
+      "id": "07.09",
+      "name": "仓储出入库与分拣",
+      "count": 25
+    },
+    {
+      "id": "07.10",
+      "name": "物流异常与冷链",
+      "count": 12
+    },
+    {
+      "id": "07.11",
+      "name": "商铺柜台用品",
+      "count": 4
+    },
+    {
+      "id": "07.12",
+      "name": "买卖与收付动作",
+      "count": 20
+    },
+    {
+      "id": "07.13",
+      "name": "商业经营与销售",
+      "count": 13
+    },
+    {
+      "id": "07.14",
+      "name": "财务银行与金融",
+      "count": 10
+    },
+    {
+      "id": "08.01",
+      "name": "交通工具与骑行用品",
+      "count": 31
+    },
+    {
+      "id": "08.02",
+      "name": "问路公交与打车",
+      "count": 56
+    },
+    {
+      "id": "08.03",
+      "name": "车站机场与道路设施",
+      "count": 19
+    },
+    {
+      "id": "08.04",
+      "name": "火车飞机票务与旅游",
+      "count": 27
+    },
+    {
+      "id": "08.05",
+      "name": "道路驾驶与交通安全",
+      "count": 36
+    },
+    {
+      "id": "08.06",
+      "name": "旅行随身用品",
+      "count": 9
+    },
+    {
+      "id": "08.07",
+      "name": "城市地点与生活设施",
+      "count": 44
+    },
+    {
+      "id": "08.08",
+      "name": "国家地区与城市",
+      "count": 16
+    },
+    {
+      "id": "08.09",
+      "name": "汽车部件与保养",
+      "count": 14
+    },
+    {
+      "id": "08.10",
+      "name": "汽车维修设施",
+      "count": 2
+    },
+    {
+      "id": "09.01",
+      "name": "招聘面试与求职",
+      "count": 36
+    },
+    {
+      "id": "09.02",
+      "name": "工时工资与福利",
+      "count": 53
+    },
+    {
+      "id": "09.03",
+      "name": "劳动权益与工伤",
+      "count": 25
+    },
+    {
+      "id": "09.04",
+      "name": "工作安排与职场协作",
+      "count": 31
+    },
+    {
+      "id": "09.05",
+      "name": "工厂生产与岗位操作",
+      "count": 53
+    },
+    {
+      "id": "09.06",
+      "name": "工厂安全与求助",
+      "count": 30
+    },
+    {
+      "id": "09.07",
+      "name": "质检返工与交接报告",
+      "count": 23
+    },
+    {
+      "id": "09.08",
+      "name": "包装入库与出货",
+      "count": 9
+    },
+    {
+      "id": "09.09",
+      "name": "裁剪缝纫与工序",
+      "count": 42
+    },
+    {
+      "id": "09.10",
+      "name": "辅料瑕疵与修补",
+      "count": 16
+    },
+    {
+      "id": "09.11",
+      "name": "后整出货跟单交期",
+      "count": 19
+    },
+    {
+      "id": "09.12",
+      "name": "服装厂计件工价",
+      "count": 4
+    },
+    {
+      "id": "09.13",
+      "name": "服装厂裁床缝纫设备",
+      "count": 15
+    },
+    {
+      "id": "09.14",
+      "name": "服装面料辅料",
+      "count": 13
+    },
+    {
+      "id": "09.15",
+      "name": "服装厂质检整烫出货",
+      "count": 10
+    },
+    {
+      "id": "09.16",
+      "name": "生产设备与电子机械加工",
+      "count": 8
+    },
+    {
+      "id": "09.17",
+      "name": "仓库物流装备与单据",
+      "count": 10
+    },
+    {
+      "id": "09.18",
+      "name": "车间印刷包装设备",
+      "count": 1
+    },
+    {
+      "id": "09.19",
+      "name": "五金电工与维修工具",
+      "count": 14
+    },
+    {
+      "id": "09.20",
+      "name": "建筑装修与工地安全",
+      "count": 11
+    },
+    {
+      "id": "09.21",
+      "name": "能源电力与工程设备",
+      "count": 3
+    },
+    {
+      "id": "09.22",
+      "name": "门店电话与客服接待",
+      "count": 14
+    },
+    {
+      "id": "09.23",
+      "name": "酒店餐厅服务岗位",
+      "count": 13
+    },
+    {
+      "id": "09.24",
+      "name": "理发美容与保洁服务",
+      "count": 10
+    },
+    {
+      "id": "09.25",
+      "name": "酒店客房与前台设备",
+      "count": 4
+    },
+    {
+      "id": "10.01",
+      "name": "身体部位与常见症状",
+      "count": 78
+    },
+    {
+      "id": "10.02",
+      "name": "疲劳体感与身体症状",
+      "count": 56
+    },
+    {
+      "id": "10.03",
+      "name": "挂号问诊检查与急救",
+      "count": 77
+    },
+    {
+      "id": "10.04",
+      "name": "服药用药与药店沟通",
+      "count": 20
+    },
+    {
+      "id": "10.05",
+      "name": "诊室检查与药房用品",
+      "count": 15
+    },
+    {
+      "id": "10.06",
+      "name": "病房护理与康复用品",
+      "count": 8
+    },
+    {
+      "id": "11.01",
+      "name": "拼音识字纠音与表达",
+      "count": 66
+    },
+    {
+      "id": "11.02",
+      "name": "听说读写动作",
+      "count": 32
+    },
+    {
+      "id": "11.03",
+      "name": "学习课程练习与考试",
+      "count": 40
+    },
+    {
+      "id": "11.04",
+      "name": "学校教师与学习生活",
+      "count": 49
+    },
+    {
+      "id": "11.05",
+      "name": "写字文具与教室用品",
+      "count": 25
+    },
+    {
+      "id": "11.06",
+      "name": "语言媒介与文字资料",
+      "count": 7
+    },
+    {
+      "id": "11.07",
+      "name": "办公设备与会议用品",
+      "count": 2
+    },
+    {
+      "id": "12.01",
+      "name": "手机软件与网络操作",
+      "count": 79
+    },
+    {
+      "id": "12.02",
+      "name": "账号密码与验证",
+      "count": 25
+    },
+    {
+      "id": "12.03",
+      "name": "群聊消息与社交应用",
+      "count": 26
+    },
+    {
+      "id": "12.04",
+      "name": "手机电脑及配件",
+      "count": 27
+    },
+    {
+      "id": "12.05",
+      "name": "路由网络与连接设备",
+      "count": 6
+    },
+    {
+      "id": "12.06",
+      "name": "影音与拍摄设备",
+      "count": 5
+    },
+    {
+      "id": "12.07",
+      "name": "科学技术与软件",
+      "count": 12
+    },
+    {
+      "id": "13.01",
+      "name": "关系建立与社交往来",
+      "count": 40
+    },
+    {
+      "id": "13.02",
+      "name": "性格品德与情绪描述",
+      "count": 37
+    },
+    {
+      "id": "13.03",
+      "name": "喜怒哀乐与心理感受",
+      "count": 44
+    },
+    {
+      "id": "13.04",
+      "name": "意愿需求与态度",
+      "count": 41
+    },
+    {
+      "id": "13.05",
+      "name": "邻里礼貌交流",
+      "count": 4
+    },
+    {
+      "id": "13.06",
+      "name": "文化习俗与节日",
+      "count": 4
+    },
+    {
+      "id": "13.07",
+      "name": "文化习惯与人生观念",
+      "count": 18
+    },
+    {
+      "id": "13.08",
+      "name": "体育运动与比赛",
+      "count": 10
+    },
+    {
+      "id": "13.09",
+      "name": "影音游戏与休闲娱乐",
+      "count": 24
+    },
+    {
+      "id": "13.10",
+      "name": "阅读摄影与艺术",
+      "count": 8
+    },
+    {
+      "id": "13.11",
+      "name": "体育健身用品",
+      "count": 6
+    },
+    {
+      "id": "13.12",
+      "name": "户外露营与休闲用品",
+      "count": 3
+    },
+    {
+      "id": "14.01",
+      "name": "证件办理与签证居留",
+      "count": 39
+    },
+    {
+      "id": "14.02",
+      "name": "政务办事场所",
+      "count": 6
+    },
+    {
+      "id": "14.03",
+      "name": "投诉咨询与政务服务",
+      "count": 10
+    },
+    {
+      "id": "14.04",
+      "name": "报告问题解释与协商",
+      "count": 23
+    },
+    {
+      "id": "14.05",
+      "name": "争议纠纷证据与跟进",
+      "count": 18
+    },
+    {
+      "id": "14.06",
+      "name": "治安与权益保障",
+      "count": 15
+    },
+    {
+      "id": "14.07",
+      "name": "公共设施与安全标识",
+      "count": 7
+    },
+    {
+      "id": "14.08",
+      "name": "防护与风险行为",
+      "count": 8
+    },
+    {
+      "id": "14.09",
+      "name": "证件票据与支付实物",
+      "count": 8
+    },
+    {
+      "id": "14.10",
+      "name": "政府法律与公共服务",
+      "count": 26
+    },
+    {
+      "id": "14.11",
+      "name": "社会制度与公共组织",
+      "count": 6
+    },
+    {
+      "id": "14.12",
+      "name": "社会新闻与民生",
+      "count": 14
+    },
+    {
+      "id": "14.13",
+      "name": "风险发展与后果",
+      "count": 4
+    },
+    {
+      "id": "15.01",
+      "name": "天气变化与四季",
+      "count": 45
+    },
+    {
+      "id": "15.02",
+      "name": "自然灾害预警与避险",
+      "count": 8
+    },
+    {
+      "id": "15.03",
+      "name": "环境与公共卫生",
+      "count": 15
+    },
+    {
+      "id": "15.04",
+      "name": "动植物与自然现象",
+      "count": 17
+    },
+    {
+      "id": "15.05",
+      "name": "地理地形与山水",
+      "count": 6
+    },
+    {
+      "id": "15.06",
+      "name": "种植园艺与植物",
+      "count": 10
+    },
+    {
+      "id": "15.07",
+      "name": "家畜与家禽",
+      "count": 4
+    },
+    {
+      "id": "15.08",
+      "name": "宠物与用品",
+      "count": 3
+    },
+    {
+      "id": "16.01",
+      "name": "基本动作与操作",
+      "count": 106
+    },
+    {
+      "id": "16.02",
+      "name": "生活与身体动作",
+      "count": 77
+    },
+    {
+      "id": "16.03",
+      "name": "认知思考与表达",
+      "count": 49
+    },
+    {
+      "id": "16.04",
+      "name": "组织协作与执行动作",
+      "count": 65
+    },
+    {
+      "id": "16.05",
+      "name": "关系归属与用途动作",
+      "count": 8
+    },
+    {
+      "id": "16.06",
+      "name": "大小冷热颜色与质地",
+      "count": 56
+    },
+    {
+      "id": "16.07",
+      "name": "好坏难易与通用评价",
+      "count": 87
+    },
+    {
+      "id": "16.08",
+      "name": "程度范围与否定副词",
+      "count": 36
+    },
+    {
+      "id": "16.09",
+      "name": "比较程度与不确定",
+      "count": 29
+    },
+    {
+      "id": "16.10",
+      "name": "介词连词与转折关系",
+      "count": 70
+    },
+    {
+      "id": "16.11",
+      "name": "语气助词与功能副词",
+      "count": 56
+    },
+    {
+      "id": "16.12",
+      "name": "判断许可与结果补语",
+      "count": 54
+    },
+    {
+      "id": "16.13",
+      "name": "抽象概念与逻辑表达",
+      "count": 74
+    }
+  ],
+  "reclassifications": [
+    {
+      "id": 1000335,
+      "hanzi": "高度",
+      "original_subcategory_id": "02.02",
+      "final_subcategory_id": "02.06",
+      "from_category": "02",
+      "to_category": "02"
+    },
+    {
+      "id": 1000344,
+      "hanzi": "夜班",
+      "original_subcategory_id": "02.03",
+      "final_subcategory_id": "09.02",
+      "from_category": "02",
+      "to_category": "09"
+    },
+    {
+      "id": 1000400,
+      "hanzi": "周期",
+      "original_subcategory_id": "02.03",
+      "final_subcategory_id": "02.04",
+      "from_category": "02",
+      "to_category": "02"
+    },
+    {
+      "id": 1000402,
+      "hanzi": "到来",
+      "original_subcategory_id": "02.03",
+      "final_subcategory_id": "16.01",
+      "from_category": "02",
+      "to_category": "16"
+    },
+    {
+      "id": 1000634,
+      "hanzi": "同事",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "03.02",
+      "from_category": "03",
+      "to_category": "03"
+    },
+    {
+      "id": 1000635,
+      "hanzi": "朋友",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "13.01",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000636,
+      "hanzi": "房东",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "05.05",
+      "from_category": "03",
+      "to_category": "05"
+    },
+    {
+      "id": 1000637,
+      "hanzi": "客人",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "03.02",
+      "from_category": "03",
+      "to_category": "03"
+    },
+    {
+      "id": 1000639,
+      "hanzi": "租客",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "05.05",
+      "from_category": "03",
+      "to_category": "05"
+    },
+    {
+      "id": 1000640,
+      "hanzi": "人员",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "03.02",
+      "from_category": "03",
+      "to_category": "03"
+    },
+    {
+      "id": 1000649,
+      "hanzi": "同学",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "11.04",
+      "from_category": "03",
+      "to_category": "11"
+    },
+    {
+      "id": 1000651,
+      "hanzi": "室友",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "05.05",
+      "from_category": "03",
+      "to_category": "05"
+    },
+    {
+      "id": 1000654,
+      "hanzi": "主人",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "03.02",
+      "from_category": "03",
+      "to_category": "03"
+    },
+    {
+      "id": 1000656,
+      "hanzi": "邻居",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "13.05",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000657,
+      "hanzi": "老乡",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "13.01",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000660,
+      "hanzi": "伙伴",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "13.01",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000662,
+      "hanzi": "熟人",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "13.01",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000666,
+      "hanzi": "人物",
+      "original_subcategory_id": "03.01",
+      "final_subcategory_id": "03.02",
+      "from_category": "03",
+      "to_category": "03"
+    },
+    {
+      "id": 1000711,
+      "hanzi": "习惯",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "13.07",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000712,
+      "hanzi": "部门",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "09.04",
+      "from_category": "03",
+      "to_category": "09"
+    },
+    {
+      "id": 1000714,
+      "hanzi": "单位",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "09.04",
+      "from_category": "03",
+      "to_category": "09"
+    },
+    {
+      "id": 1000715,
+      "hanzi": "岗位",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "09.04",
+      "from_category": "03",
+      "to_category": "09"
+    },
+    {
+      "id": 1000716,
+      "hanzi": "语言",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "11.06",
+      "from_category": "03",
+      "to_category": "11"
+    },
+    {
+      "id": 1000740,
+      "hanzi": "专业",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "11.03",
+      "from_category": "03",
+      "to_category": "11"
+    },
+    {
+      "id": 1000747,
+      "hanzi": "性格",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "13.02",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000748,
+      "hanzi": "青春",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "13.07",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000750,
+      "hanzi": "爱好",
+      "original_subcategory_id": "03.02",
+      "final_subcategory_id": "13.09",
+      "from_category": "03",
+      "to_category": "13"
+    },
+    {
+      "id": 1000932,
+      "hanzi": "肉",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.03",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000933,
+      "hanzi": "蛋",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.03",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000934,
+      "hanzi": "面",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.04",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000935,
+      "hanzi": "汤",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.04",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000936,
+      "hanzi": "盐",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.05",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000937,
+      "hanzi": "糖",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.05",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000938,
+      "hanzi": "醋",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.05",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000939,
+      "hanzi": "早餐",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.04",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000950,
+      "hanzi": "蔬菜",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.02",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1000951,
+      "hanzi": "午餐",
+      "original_subcategory_id": "04.06",
+      "final_subcategory_id": "04.04",
+      "from_category": "04",
+      "to_category": "04"
+    },
+    {
+      "id": 1001115,
+      "hanzi": "厨房",
+      "original_subcategory_id": "05.01",
+      "final_subcategory_id": "05.05",
+      "from_category": "05",
+      "to_category": "05"
+    },
+    {
+      "id": 1001319,
+      "hanzi": "热水器",
+      "original_subcategory_id": "05.06",
+      "final_subcategory_id": "05.03",
+      "from_category": "05",
+      "to_category": "05"
+    },
+    {
+      "id": 1001320,
+      "hanzi": "柜子",
+      "original_subcategory_id": "05.06",
+      "final_subcategory_id": "05.01",
+      "from_category": "05",
+      "to_category": "05"
+    },
+    {
+      "id": 1001321,
+      "hanzi": "衣柜",
+      "original_subcategory_id": "05.06",
+      "final_subcategory_id": "05.01",
+      "from_category": "05",
+      "to_category": "05"
+    },
+    {
+      "id": 1001322,
+      "hanzi": "电饭锅",
+      "original_subcategory_id": "05.06",
+      "final_subcategory_id": "05.04",
+      "from_category": "05",
+      "to_category": "05"
+    },
+    {
+      "id": 1001559,
+      "hanzi": "费用",
+      "original_subcategory_id": "07.01",
+      "final_subcategory_id": "07.03",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1001594,
+      "hanzi": "差价",
+      "original_subcategory_id": "07.01",
+      "final_subcategory_id": "07.03",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1001604,
+      "hanzi": "存款",
+      "original_subcategory_id": "07.01",
+      "final_subcategory_id": "07.07",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1001607,
+      "hanzi": "金钱",
+      "original_subcategory_id": "07.01",
+      "final_subcategory_id": "07.14",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1001608,
+      "hanzi": "花费",
+      "original_subcategory_id": "07.01",
+      "final_subcategory_id": "07.03",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1001623,
+      "hanzi": "价钱",
+      "original_subcategory_id": "07.02",
+      "final_subcategory_id": "07.03",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1001629,
+      "hanzi": "订单号",
+      "original_subcategory_id": "07.02",
+      "final_subcategory_id": "07.06",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1001649,
+      "hanzi": "会员",
+      "original_subcategory_id": "07.04",
+      "final_subcategory_id": "07.01",
+      "from_category": "07",
+      "to_category": "07"
+    },
+    {
+      "id": 1002033,
+      "hanzi": "公司",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "09.04",
+      "from_category": "08",
+      "to_category": "09"
+    },
+    {
+      "id": 1002034,
+      "hanzi": "工厂",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "09.05",
+      "from_category": "08",
+      "to_category": "09"
+    },
+    {
+      "id": 1002035,
+      "hanzi": "厂",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "09.05",
+      "from_category": "08",
+      "to_category": "09"
+    },
+    {
+      "id": 1002036,
+      "hanzi": "仓库",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "07.09",
+      "from_category": "08",
+      "to_category": "07"
+    },
+    {
+      "id": 1002037,
+      "hanzi": "车间",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "09.05",
+      "from_category": "08",
+      "to_category": "09"
+    },
+    {
+      "id": 1002038,
+      "hanzi": "服装厂",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "09.05",
+      "from_category": "08",
+      "to_category": "09"
+    },
+    {
+      "id": 1002039,
+      "hanzi": "出租屋",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "05.05",
+      "from_category": "08",
+      "to_category": "05"
+    },
+    {
+      "id": 1002040,
+      "hanzi": "员工宿舍",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "05.05",
+      "from_category": "08",
+      "to_category": "05"
+    },
+    {
+      "id": 1002042,
+      "hanzi": "工地",
+      "original_subcategory_id": "08.07",
+      "final_subcategory_id": "09.20",
+      "from_category": "08",
+      "to_category": "09"
+    },
+    {
+      "id": 1002634,
+      "hanzi": "忙",
+      "original_subcategory_id": "10.02",
+      "final_subcategory_id": "16.07",
+      "from_category": "10",
+      "to_category": "16"
+    },
+    {
+      "id": 1002691,
+      "hanzi": "闲",
+      "original_subcategory_id": "10.02",
+      "final_subcategory_id": "16.07",
+      "from_category": "10",
+      "to_category": "16"
+    },
+    {
+      "id": 1003027,
+      "hanzi": "打卡机",
+      "original_subcategory_id": "11.07",
+      "final_subcategory_id": "09.02",
+      "from_category": "11",
+      "to_category": "09"
+    },
+    {
+      "id": 1003029,
+      "hanzi": "考勤机",
+      "original_subcategory_id": "11.07",
+      "final_subcategory_id": "09.02",
+      "from_category": "11",
+      "to_category": "09"
+    },
+    {
+      "id": 1003440,
+      "hanzi": "钢琴",
+      "original_subcategory_id": "13.12",
+      "final_subcategory_id": "13.09",
+      "from_category": "13",
+      "to_category": "13"
+    },
+    {
+      "id": 1003486,
+      "hanzi": "诊所",
+      "original_subcategory_id": "14.02",
+      "final_subcategory_id": "10.03",
+      "from_category": "14",
+      "to_category": "10"
+    },
+    {
+      "id": 1003560,
+      "hanzi": "参加",
+      "original_subcategory_id": "14.08",
+      "final_subcategory_id": "16.04",
+      "from_category": "14",
+      "to_category": "16"
+    },
+    {
+      "id": 1003566,
+      "hanzi": "参与",
+      "original_subcategory_id": "14.08",
+      "final_subcategory_id": "16.04",
+      "from_category": "14",
+      "to_category": "16"
+    },
+    {
+      "id": 1003586,
+      "hanzi": "城市",
+      "original_subcategory_id": "14.10",
+      "final_subcategory_id": "08.07",
+      "from_category": "14",
+      "to_category": "08"
+    },
+    {
+      "id": 1003587,
+      "hanzi": "交通",
+      "original_subcategory_id": "14.10",
+      "final_subcategory_id": "08.05",
+      "from_category": "14",
+      "to_category": "08"
+    },
+    {
+      "id": 1003609,
+      "hanzi": "战斗",
+      "original_subcategory_id": "14.11",
+      "final_subcategory_id": "14.10",
+      "from_category": "14",
+      "to_category": "14"
+    },
+    {
+      "id": 1003611,
+      "hanzi": "背景",
+      "original_subcategory_id": "14.11",
+      "final_subcategory_id": "16.13",
+      "from_category": "14",
+      "to_category": "16"
+    },
+    {
+      "id": 1003612,
+      "hanzi": "主题",
+      "original_subcategory_id": "14.11",
+      "final_subcategory_id": "16.13",
+      "from_category": "14",
+      "to_category": "16"
+    },
+    {
+      "id": 1003639,
+      "hanzi": "道路封闭",
+      "original_subcategory_id": "15.01",
+      "final_subcategory_id": "08.05",
+      "from_category": "15",
+      "to_category": "08"
+    },
+    {
+      "id": 1003640,
+      "hanzi": "避难所",
+      "original_subcategory_id": "15.01",
+      "final_subcategory_id": "15.02",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003687,
+      "hanzi": "安全出口",
+      "original_subcategory_id": "15.03",
+      "final_subcategory_id": "14.07",
+      "from_category": "15",
+      "to_category": "14"
+    },
+    {
+      "id": 1003712,
+      "hanzi": "种子",
+      "original_subcategory_id": "15.04",
+      "final_subcategory_id": "15.06",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003713,
+      "hanzi": "花园",
+      "original_subcategory_id": "15.04",
+      "final_subcategory_id": "15.06",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003714,
+      "hanzi": "气",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.01",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003715,
+      "hanzi": "环境",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.03",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003717,
+      "hanzi": "花",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.06",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003718,
+      "hanzi": "雨",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.01",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003719,
+      "hanzi": "雪",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.01",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003720,
+      "hanzi": "风",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.01",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003722,
+      "hanzi": "火",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.04",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003724,
+      "hanzi": "草",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.06",
+      "from_category": "15",
+      "to_category": "15"
+    },
+    {
+      "id": 1003725,
+      "hanzi": "树",
+      "original_subcategory_id": "15.05",
+      "final_subcategory_id": "15.06",
+      "from_category": "15",
+      "to_category": "15"
+    }
+  ],
+  "subcategory_renames": [
+    {
+      "id": "04.11",
+      "original_name": "饭店与饮品制作设备",
+      "current_name": "餐厅服务用品与标识",
+      "word_count": 9
+    },
+    {
+      "id": "05.08",
+      "original_name": "母婴用品与儿童玩具",
+      "current_name": "母婴喂养与育儿用品",
+      "word_count": 13
+    },
+    {
+      "id": "15.02",
+      "original_name": "自然灾害预警",
+      "current_name": "自然灾害预警与避险",
+      "word_count": 8
+    },
+    {
+      "id": "15.07",
+      "original_name": "农机农具与养殖用品",
+      "current_name": "家畜与家禽",
+      "word_count": 4
+    },
+    {
+      "id": "15.08",
+      "original_name": "宠物用品",
+      "current_name": "宠物与用品",
+      "word_count": 3
+    }
+  ],
+  "lexical_corrections": [
+    {
+      "id": 1000160,
+      "hanzi": "多少",
+      "field": "pinyin",
+      "before": "duō shǎo",
+      "after": "duō shao"
+    },
+    {
+      "id": 1000285,
+      "hanzi": "家",
+      "field": "burmese",
+      "before": "အိမ်၊ ဆိုင်၊ ကုမ္ပဏီအတွက် ရေတွက်စကားလုံး",
+      "after": "အိမ်၊ မိသားစု၊ ဆိုင်/ကုမ္ပဏီအတွက် ရေတွက်စကားလုံး"
+    },
+    {
+      "id": 1000289,
+      "hanzi": "名",
+      "field": "burmese",
+      "before": "ယောက် (လူအရေအတွက်)",
+      "after": "နာမည်၊ ယောက် (လူအရေအတွက်ကို ရေတွက်ရာတွင်)"
+    },
+    {
+      "id": 1000934,
+      "hanzi": "面",
+      "field": "burmese",
+      "before": "ခေါက်ဆွဲ၊ ဂျုံမှုန့် (စားသောက်ရေးတွင်)",
+      "after": "ခေါက်ဆွဲ၊ ဂျုံမှုန့်၊ မျက်နှာ၊ မျက်နှာပြင်၊ ဘက်"
+    },
+    {
+      "id": 1001094,
+      "hanzi": "熟",
+      "field": "burmese",
+      "before": "ကျက်ပြီ",
+      "after": "ကျက်တယ်၊ ရင်းနှီးကျွမ်းဝင်တယ်"
+    },
+    {
+      "id": 1001623,
+      "hanzi": "价钱",
+      "field": "pinyin",
+      "before": "jià qian",
+      "after": "jià qián"
+    },
+    {
+      "id": 1002397,
+      "hanzi": "线",
+      "field": "burmese",
+      "before": "ချည်ကြိုး",
+      "after": "ချည်မျှင်၊ ကြိုးမျှင်၊ လိုင်း (အခြေအနေအလိုက်)"
+    },
+    {
+      "id": 1002560,
+      "hanzi": "口",
+      "field": "burmese",
+      "before": "ပါးစပ်",
+      "after": "ပါးစပ်၊ မိသားစုဝင်အရေအတွက်ကို ရေတွက်ရာတွင် သုံးသောစကားလုံး"
+    },
+    {
+      "id": 1003218,
+      "hanzi": "关系",
+      "field": "pinyin",
+      "before": "guān xi",
+      "after": "guān xì"
+    },
+    {
+      "id": 1003332,
+      "hanzi": "喜欢",
+      "field": "pinyin",
+      "before": "xǐ huān",
+      "after": "xǐ huan"
+    },
+    {
+      "id": 1003423,
+      "hanzi": "故事",
+      "field": "pinyin",
+      "before": "gù shì",
+      "after": "gù shi"
+    },
+    {
+      "id": 1003717,
+      "hanzi": "花",
+      "field": "burmese",
+      "before": "ပန်း",
+      "after": "ပန်း၊ (ငွေ၊ အချိန်) သုံးစွဲတယ်"
+    },
+    {
+      "id": 1003924,
+      "hanzi": "找",
+      "field": "burmese",
+      "before": "ရှာတယ်",
+      "after": "ရှာတယ်၊ အကြွေငွေပြန်အမ်းတယ်"
+    },
+    {
+      "id": 1004106,
+      "hanzi": "脏",
+      "field": "pinyin",
+      "before": "zàng",
+      "after": "zāng"
+    },
+    {
+      "id": 1004218,
+      "hanzi": "光",
+      "field": "burmese",
+      "before": "... ပဲ၊ သပ်သပ်",
+      "after": "အလင်းရောင်၊ ... ပဲ၊ သပ်သပ်"
+    },
+    {
+      "id": 1004260,
+      "hanzi": "通过",
+      "field": "burmese",
+      "before": "... ကတစ်ဆင့်",
+      "after": "ဖြတ်သန်းတယ်၊ (စာမေးပွဲ၊ စစ်ဆေးမှု) အောင်မြင်ကျော်ဖြတ်တယ်၊ ... ကတစ်ဆင့်"
+    },
+    {
+      "id": 1004360,
+      "hanzi": "千万",
+      "field": "burmese",
+      "before": "လုံးဝ ... မလုပ်ပါနဲ့ (တားမြစ်ရာတွင်)၊ သေချာပေါက် လုပ်ပါ (အလေးပေးရာတွင်)",
+      "after": "ဆယ်သန်း (၁၀,၀၀၀,၀၀၀)၊ လုံးဝ ... မလုပ်ပါနဲ့ (တားမြစ်ရာတွင်)၊ သေချာပေါက် လုပ်ပါ (အလေးပေးရာတွင်)"
+    }
+  ],
+  "pronunciation_variants_to_review": [
+    {
+      "hanzi": "喂",
+      "source_pinyin": "wéi",
+      "hsk_pinyin": [
+        {
+          "level": "1",
+          "pinyin": "wèi"
+        }
+      ]
+    },
+    {
+      "hanzi": "费用",
+      "source_pinyin": "fèi yòng",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "fèiyong"
+        }
+      ]
+    },
+    {
+      "hanzi": "路上",
+      "source_pinyin": "lù shàng",
+      "hsk_pinyin": [
+        {
+          "level": "2",
+          "pinyin": "lùshang"
+        }
+      ]
+    },
+    {
+      "hanzi": "任务",
+      "source_pinyin": "rèn wù",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "rènwu"
+        }
+      ]
+    },
+    {
+      "hanzi": "血",
+      "source_pinyin": "xuè",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "xiě"
+        }
+      ]
+    },
+    {
+      "hanzi": "网上",
+      "source_pinyin": "wǎng shàng",
+      "hsk_pinyin": [
+        {
+          "level": "2",
+          "pinyin": "wǎngshang"
+        }
+      ]
+    },
+    {
+      "hanzi": "受不了",
+      "source_pinyin": "shòu bù liǎo",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "shòubuliǎo"
+        }
+      ]
+    },
+    {
+      "hanzi": "下去",
+      "source_pinyin": "xià qu",
+      "hsk_pinyin": [
+        {
+          "level": "2",
+          "pinyin": "xiàqù"
+        }
+      ]
+    }
+  ],
+  "audio_exception_candidates": [
+    "WiFi",
+    "U盘",
+    "T恤",
+    "喂",
+    "血"
+  ],
+  "validation": {
+    "all_4500_words_found": true,
+    "unique_id_and_hanzi": true,
+    "full_four_columns": true,
+    "valid_category_assignment": true,
+    "subcategory_titles_consistent": true,
+    "phonetic_syllable_count_aligned": true,
+    "no_collocations_or_examples": true,
+    "no_published_audio_in_pr": true,
+    "audio_manifest_exactly_4500_unique_words": true,
+    "catalog_draft_data_url_uses_flat_filename": true,
+    "catalog_draft_missing_release_covers": true
+  },
+  "audio_policy": {
+    "mode": "word_only",
+    "language": "zh-CN",
+    "source_text_field": "hanzi",
+    "optional_filename_pattern": "practical_{id}.mp3",
+    "word_entries": 4500,
+    "collocation_jobs": 0,
+    "example_jobs": 0,
+    "audio_generated_in_pr": 0,
+    "manifest_path": "content/words/practical_16_v5_audio_words_only.csv",
+    "manual_review_words": [
+      "T恤",
+      "U盘",
+      "WiFi",
+      "喂",
+      "血"
+    ],
+    "note": "仅提供可选批量配音清单，未生成 MP3；设备中文TTS可以直接朗读词目。"
+  }
+}
