@@ -1,9 +1,9 @@
 {
   "theme_id": "30",
-  "version": 1,
-  "updated_at": "2026-11-02T16:00:00Z",
+  "version": 2,
+  "updated_at": "2026-11-02T16:01:16.363Z",
   "theme_title": "30 价格优惠",
-  "quality_standard": "Vietnamese adaptation of theme 30. Original Mandarin examples, pinyin, stable IDs, levels, order, alternatives and replies preserved; 59 learner notes localized for Vietnamese speakers. Structural and translation coverage QA performed; native Vietnamese editorial review, audio and app integration checks pending.",
+  "quality_standard": "Vietnamese adaptation of theme 30. Original Mandarin examples, pinyin, stable IDs, levels, order, alternatives and replies preserved; 59 learner notes localized for Vietnamese speakers. Structural and translation coverage QA performed; native Vietnamese editorial review, audio and app integration checks pending. | Vietnamese semantic/naturalness QA 2026-11-02: targeted fixes; Mandarin, IDs and pinyin unchanged.",
   "source_phrase_count": 64,
   "lessons": [
     {
@@ -246,7 +246,7 @@
             }
           ],
           "pinyin": "zhè ge tào cān duō shǎo qián",
-          "meaning_vi": "Bộ combo này bao nhiêu tiền?",
+          "meaning_vi": "Gói này bao nhiêu tiền?",
           "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
         },
         {
@@ -257,7 +257,7 @@
             {
               "text": "两个一起多少钱？",
               "id": "s30_1_0008_alt01",
-              "meaning_vi": "Hai cái mua cùng nhau bao nhiêu tiền?"
+              "meaning_vi": "Mua cả hai cái hết bao nhiêu tiền?"
             }
           ],
           "replies": [
@@ -589,7 +589,7 @@
             {
               "text": "打八折。",
               "id": "s30_2_0001_reply01",
-              "meaning_vi": "Giá còn 80% so với ban đầu."
+              "meaning_vi": "Giảm 20%, chỉ còn 80% giá gốc."
             },
             {
               "text": "这款不参加打折。",
@@ -687,7 +687,7 @@
             {
               "text": "这次满减怎么减？",
               "id": "s30_2_0004_alt01",
-              "meaning_vi": "Ưu đãi giảm theo mức chi tiêu lần này tính thế nào?"
+              "meaning_vi": "Chương trình giảm tiền theo giá trị hóa đơn lần này tính thế nào?"
             }
           ],
           "replies": [
@@ -723,7 +723,7 @@
             {
               "text": "有，会员便宜五块。",
               "id": "s30_2_0005_reply01",
-              "meaning_vi": "Có, thành viên rẻ hơn năm tệ."
+              "meaning_vi": "Có, thành viên được giảm năm tệ."
             },
             {
               "text": "没有，会员和普通顾客一个价。",
@@ -821,7 +821,7 @@
             {
               "text": "积分可以抵钱吗？",
               "id": "s30_2_0008_alt01",
-              "meaning_vi": "Điểm tích lũy đổi trừ tiền được không?"
+              "meaning_vi": "Có thể dùng điểm tích lũy để trừ vào số tiền phải trả không?"
             }
           ],
           "replies": [
@@ -915,7 +915,7 @@
             }
           ],
           "pinyin": "zhè shì tè jià ma",
-          "meaning_vi": "Đây là giá đặc biệt à?",
+          "meaning_vi": "Món này đang có giá khuyến mãi à?",
           "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
         },
         {
@@ -950,7 +950,7 @@
             }
           ],
           "pinyin": "yōu huì quàn néng hé mǎn jiǎn yì qǐ yòng ma",
-          "meaning_vi": "Có dùng phiếu giảm giá cùng ưu đãi đủ mức mua không?",
+          "meaning_vi": "Phiếu giảm giá có dùng chung với ưu đãi giảm tiền theo mức mua không?",
           "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
         },
         {
@@ -985,7 +985,7 @@
             }
           ],
           "pinyin": "wǎng shàng hé diàn lǐ de yōu huì yí yàng ma",
-          "meaning_vi": "Khuyến mãi trên mạng và tại quán có giống nhau không?",
+          "meaning_vi": "Ưu đãi trên mạng và tại cửa hàng có giống nhau không?",
           "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
         },
         {
@@ -1020,7 +1020,7 @@
             }
           ],
           "pinyin": "xiàn zài bā zhé",
-          "meaning_vi": "Hiện giá còn 80%.",
+          "meaning_vi": "Hiện đang giảm 20%.",
           "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
         },
         {
@@ -1195,7 +1195,7 @@
             }
           ],
           "pinyin": "bù néng hé qí tā yōu huì yì qǐ yòng",
-          "meaning_vi": "Không dùng cùng ưu đãi khác được.",
+          "meaning_vi": "Không được áp dụng cùng các ưu đãi khác.",
           "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
         },
         {
@@ -1253,7 +1253,7 @@
             }
           ],
           "pinyin": "tè jià shāng pǐn bù cān jiā huó dòng",
-          "meaning_vi": "Hàng đặc biệt giảm giá không được áp dụng chương trình.",
+          "meaning_vi": "Hàng đang bán giá khuyến mãi không tham gia chương trình này.",
           "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
         },
         {
@@ -1380,7 +1380,7 @@
             {
               "text": "最低能多少？",
               "id": "s30_3_0002_alt01",
-              "meaning_vi": "Giảm thấp nhất còn bao nhiêu?"
+              "meaning_vi": "Giá thấp nhất là bao nhiêu?"
             },
             {
               "text": "最低能卖多少？",
@@ -1514,7 +1514,7 @@
             }
           ],
           "pinyin": "liǎng jiàn yì qǐ suàn duō shǎo qián",
-          "meaning_vi": "Mua hai món cùng lúc tính bao nhiêu?",
+          "meaning_vi": "Mua cả hai món thì tổng cộng bao nhiêu tiền?",
           "lesson_title_vi": "30.3 Mặc cả"
         },
         {
@@ -1567,7 +1567,7 @@
             {
               "text": "可以，这个价包邮。",
               "id": "s30_3_0007_reply01",
-              "meaning_vi": "Được, giá này gồm giao hàng miễn phí."
+              "meaning_vi": "Được, với giá này được miễn phí giao hàng."
             },
             {
               "text": "这个价不包邮，还要加八块运费。",
@@ -1811,7 +1811,7 @@
             {
               "text": "那有特价款吗？",
               "id": "s30_3_0014_reply02",
-              "meaning_vi": "Vậy có mẫu giá đặc biệt không?"
+              "meaning_vi": "Vậy có mẫu nào đang giảm giá không?"
             }
           ],
           "lesson_id": "30.3",
