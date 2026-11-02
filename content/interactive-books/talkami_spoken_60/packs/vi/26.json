@@ -1,0 +1,1966 @@
+{
+  "theme_id": "26",
+  "lessons": [
+    {
+      "id": "26.1",
+      "title": "26.1 咖啡点单：品类杯型冷热",
+      "phrases": [
+        {
+          "id": "s26_1_0001",
+          "level": "must",
+          "text": "我要一杯拿铁。",
+          "alternatives": [
+            {
+              "text": "来一杯拿铁。",
+              "id": "s26_1_0001_alt01",
+              "meaning_vi": "Cho một ly latte."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，要大杯还是中杯？",
+              "id": "s26_1_0001_reply01",
+              "meaning_vi": "Vâng, anh/chị lấy cỡ lớn hay cỡ vừa?"
+            },
+            {
+              "text": "好的，要冰的还是热的？",
+              "id": "s26_1_0001_reply02",
+              "meaning_vi": "Vâng, lấy đá hay nóng ạ?"
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "wǒ yào yì bēi ná tiě",
+          "mistakes": [
+            {
+              "text": "“一杯”是饮料量词；“拿铁”通常是咖啡加牛奶，不等于一杯纯牛奶，牛奶忌口应另问配料。",
+              "text_vi": "“一杯” là lượng từ đếm ly nước. Latte là cà phê pha với sữa, không phải ly sữa thuần; người kiêng sữa cần hỏi thành phần."
+            }
+          ],
+          "meaning_vi": "Cho tôi một ly latte.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0002",
+          "level": "must",
+          "text": "中杯就行。",
+          "alternatives": [
+            {
+              "text": "中杯就可以。",
+              "id": "s26_1_0002_alt01",
+              "meaning_vi": "Cỡ vừa cũng được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，中杯拿铁一杯。",
+              "id": "s26_1_0002_reply01",
+              "meaning_vi": "Vâng, một ly latte cỡ vừa."
+            },
+            {
+              "text": "好的，还需要别的吗？",
+              "id": "s26_1_0002_reply02",
+              "meaning_vi": "Vâng, còn cần gì nữa không ạ?"
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "zhōng bēi jiù xíng",
+          "mistakes": [
+            {
+              "text": "“就行”表示这样就够了，不是“走路就行”；中杯的实际容量由各家店规定。",
+              "text_vi": "“就行” nghĩa là vậy là đủ, không liên quan đến đi bộ; dung tích cỡ vừa tùy từng quán."
+            }
+          ],
+          "meaning_vi": "Cỡ vừa là được.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0003",
+          "level": "must",
+          "text": "大杯多少钱？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大杯二十八元。",
+              "id": "s26_1_0003_reply01",
+              "meaning_vi": "Cỡ lớn hai mươi tám tệ."
+            },
+            {
+              "text": "这款大杯是二十六元。",
+              "id": "s26_1_0003_reply02",
+              "meaning_vi": "Loại này cỡ lớn giá hai mươi sáu tệ."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "dà bēi duō shǎo qián",
+          "mistakes": [
+            {
+              "text": "“大杯多少钱”问大杯总价；若只想知道比中杯贵多少，应说“大杯比中杯多多少钱”。",
+              "text_vi": "Câu này hỏi tổng giá cỡ lớn. Muốn hỏi chênh lệch với cỡ vừa thì dùng “大杯比中杯多多少钱？”."
+            }
+          ],
+          "meaning_vi": "Cỡ lớn bao nhiêu tiền?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0004",
+          "level": "must",
+          "text": "有小杯吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这款没有小杯。",
+              "id": "s26_1_0004_reply01",
+              "meaning_vi": "Loại này không có cỡ nhỏ."
+            },
+            {
+              "text": "有，这款有小杯。",
+              "id": "s26_1_0004_reply02",
+              "meaning_vi": "Có, loại này có cỡ nhỏ."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "yǒu xiǎo bēi ma",
+          "mistakes": [
+            {
+              "text": "“有……吗”询问是否提供，不等于已下单；有些饮料品类没有小杯。",
+              "text_vi": "“有……吗” hỏi có bán loại đó không, chưa phải đặt món. Một số đồ uống không có cỡ nhỏ."
+            }
+          ],
+          "meaning_vi": "Có cỡ nhỏ không?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0005",
+          "level": "must",
+          "text": "要热的。",
+          "alternatives": [
+            {
+              "text": "我要热的。",
+              "id": "s26_1_0005_alt01",
+              "meaning_vi": "Tôi lấy loại nóng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，给您做热拿铁。",
+              "id": "s26_1_0005_reply01",
+              "meaning_vi": "Vâng, tôi làm latte nóng cho anh/chị."
+            },
+            {
+              "text": "好的，怕烫的话可以做温一点。",
+              "id": "s26_1_0005_reply02",
+              "meaning_vi": "Vâng, nếu sợ bỏng thì có thể làm ấm vừa thôi."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "yào rè de",
+          "mistakes": [
+            {
+              "text": "“热的”指热饮；“烫”强调可能烫嘴，怕烫可说“不要太烫”。热饮是否可调温要看门店设备和制作方式。",
+              "text_vi": "“热的” là đồ uống nóng, “烫” nói nóng đến mức có thể bỏng. Sợ bỏng có thể yêu cầu đừng nóng quá; không phải quán nào cũng chỉnh nhiệt độ được."
+            }
+          ],
+          "meaning_vi": "Lấy loại nóng.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0006",
+          "level": "must",
+          "text": "我要冰的。",
+          "alternatives": [
+            {
+              "text": "要冰的。",
+              "id": "s26_1_0006_alt01",
+              "meaning_vi": "Lấy loại lạnh."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，正常冰吗？",
+              "id": "s26_1_0006_reply01",
+              "meaning_vi": "Vâng, lượng đá bình thường nhé?"
+            },
+            {
+              "text": "可以，给您做冰的。",
+              "id": "s26_1_0006_reply02",
+              "meaning_vi": "Được, tôi làm loại có đá cho anh/chị."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "wǒ yào bīng de",
+          "mistakes": [
+            {
+              "text": "“冰的”通常指冷饮或加冰饮料；具体加多少冰还可以说“少冰”或“去冰”，不等于冰淇淋。",
+              "text_vi": "“冰的” là đồ uống lạnh hoặc có đá, không phải kem; lượng đá có thể chọn ít hoặc bỏ đá nếu quán cho phép."
+            }
+          ],
+          "meaning_vi": "Tôi lấy loại đá.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0007",
+          "level": "must",
+          "text": "这杯不要太烫。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，给您做温一点。",
+              "id": "s26_1_0007_reply01",
+              "meaning_vi": "Vâng, tôi làm ấm vừa cho anh/chị."
+            },
+            {
+              "text": "可以，不会做太烫。",
+              "id": "s26_1_0007_reply02",
+              "meaning_vi": "Được, sẽ không làm nóng quá."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "zhè bēi bú yào tài tàng",
+          "mistakes": [
+            {
+              "text": "“烫”强调烫嘴、可能伤人的高温，比一般“热”更强；不同饮料能否调温要确认。",
+              "text_vi": "“烫” nhấn mạnh nóng có thể gây bỏng hơn “热”; cần hỏi quán có chỉnh nhiệt độ được không."
+            }
+          ],
+          "meaning_vi": "Ly này đừng nóng quá.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0008",
+          "level": "must",
+          "text": "我要美式。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，要冰的还是热的？",
+              "id": "s26_1_0008_reply01",
+              "meaning_vi": "Vâng, lấy đá hay nóng ạ?"
+            },
+            {
+              "text": "好的，要中杯吗？",
+              "id": "s26_1_0008_reply02",
+              "meaning_vi": "Vâng, lấy cỡ vừa ạ?"
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "wǒ yào měi shì",
+          "mistakes": [
+            {
+              "text": "“美式”在咖啡店通常指美式咖啡（Americano），不是“美国人”；一般不默认加牛奶。",
+              "text_vi": "“美式” trong quán cà phê là cà phê Americano, không phải người Mỹ. Thường không tự động thêm sữa."
+            }
+          ],
+          "meaning_vi": "Tôi lấy cà phê Americano.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0009",
+          "level": "must",
+          "text": "一杯这个。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，要什么大小？",
+              "id": "s26_1_0009_reply01",
+              "meaning_vi": "Vâng, lấy cỡ nào?"
+            },
+            {
+              "text": "好，要冰的还是热的？",
+              "id": "s26_1_0009_reply02",
+              "meaning_vi": "Được, lấy loại lạnh hay nóng?"
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "yì bēi zhè ge",
+          "mistakes": [
+            {
+              "text": "“这个”要配合手指或菜单位置，否则店员不知道指哪款；说“一杯这个”是口语省略表达。",
+              "text_vi": "“这个” phải chỉ rõ món trên thực đơn, nếu không nhân viên không biết muốn gọi loại nào."
+            }
+          ],
+          "meaning_vi": "Một ly loại này.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0010",
+          "level": "must",
+          "text": "大杯比中杯贵多少钱？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "多三块。",
+              "id": "s26_1_0010_reply01",
+              "meaning_vi": "Thêm ba tệ."
+            },
+            {
+              "text": "这款大杯多五块。",
+              "id": "s26_1_0010_reply02",
+              "meaning_vi": "Loại này cỡ lớn thêm năm tệ."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "dà bēi bǐ zhōng bēi guì duō shǎo qián",
+          "mistakes": [
+            {
+              "text": "“大杯比中杯贵多少钱？”问两种杯型的价格差，不是问大杯总价；“贵”表示更贵。“块”在此为人民币元。",
+              "text_vi": "Câu này hỏi cỡ lớn đắt hơn cỡ vừa bao nhiêu, không phải tổng giá cỡ lớn. “块” ở đây là tệ."
+            }
+          ],
+          "meaning_vi": "Cỡ lớn đắt hơn cỡ vừa bao nhiêu?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0011",
+          "level": "must",
+          "text": "能换成大杯吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，加三块。",
+              "id": "s26_1_0011_reply01",
+              "meaning_vi": "Được, thêm ba tệ."
+            },
+            {
+              "text": "可以，我帮您改成大杯。",
+              "id": "s26_1_0011_reply02",
+              "meaning_vi": "Được, tôi đổi sang cỡ lớn cho anh/chị."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "néng huàn chéng dà bēi ma",
+          "mistakes": [
+            {
+              "text": "“换成大杯”是修改原订单，不是另外再买一杯；可能需要补差价，做好后未必能改。",
+              "text_vi": "Đổi sang cỡ lớn là sửa đơn cũ, không phải mua thêm một ly. Có thể mất tiền chênh lệch và chưa chắc sửa được sau khi pha."
+            }
+          ],
+          "meaning_vi": "Đổi sang cỡ lớn được không?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0012",
+          "level": "must",
+          "text": "可以做温的吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，帮您做温一点。",
+              "id": "s26_1_0012_reply01",
+              "meaning_vi": "Được, tôi làm ấm vừa cho anh/chị."
+            },
+            {
+              "text": "这款只能做热的或冰的，您要哪种？",
+              "id": "s26_1_0012_reply02",
+              "meaning_vi": "Loại này chỉ làm nóng hoặc có đá, anh/chị chọn loại nào?"
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "kě yǐ zuò wēn de ma",
+          "mistakes": [
+            {
+              "text": "“温的”是温热、暖和，与“常温”（室温）不同；不是所有热饮都支持精确调温。",
+              "text_vi": "“温的” là đồ uống ấm, khác “常温” là nhiệt độ phòng. Không phải loại nào cũng chỉnh ấm vừa được."
+            }
+          ],
+          "meaning_vi": "Có thể làm ấm vừa không?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0013",
+          "level": "listen",
+          "text": "要大杯还是中杯？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "中杯就行。",
+              "id": "s26_1_0013_reply01",
+              "meaning_vi": "Cỡ vừa là được."
+            },
+            {
+              "text": "我要大杯。",
+              "id": "s26_1_0013_reply02",
+              "meaning_vi": "Tôi lấy cỡ lớn."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "yào dà bēi hái shi zhōng bēi",
+          "mistakes": [
+            {
+              "text": "“还是”在这句里列出两个选择，不能理解为“仍然”；需要回答具体杯型。",
+              "text_vi": "“还是” nối hai lựa chọn cỡ ly, không phải nghĩa “vẫn”; cần trả lời rõ cỡ nào."
+            }
+          ],
+          "meaning_vi": "Lấy cỡ lớn hay cỡ vừa?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0014",
+          "level": "listen",
+          "text": "咖啡还是茶？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我要咖啡。",
+              "id": "s26_1_0014_reply01",
+              "meaning_vi": "Tôi lấy cà phê."
+            },
+            {
+              "text": "来杯茶。",
+              "id": "s26_1_0014_reply02",
+              "meaning_vi": "Cho một ly trà."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "kā fēi hái shi chá",
+          "mistakes": [
+            {
+              "text": "“咖啡还是茶”是选择题，“茶”可能是普通茶，不一定是奶茶；要喝奶茶应说清楚。",
+              "text_vi": "Đây là câu chọn giữa cà phê và trà; “茶” chưa chắc là trà sữa."
+            }
+          ],
+          "meaning_vi": "Cà phê hay trà?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0015",
+          "level": "listen",
+          "text": "这个只有中杯。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，中杯就行。",
+              "id": "s26_1_0015_reply01",
+              "meaning_vi": "Được, cỡ vừa là được."
+            },
+            {
+              "text": "那我换一个。",
+              "id": "s26_1_0015_reply02",
+              "meaning_vi": "Vậy tôi đổi loại khác."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "zhè ge zhǐ yǒu zhōng bēi",
+          "mistakes": [
+            {
+              "text": "“只有中杯”只限制这款饮品，不一定表示全店都没有大杯或小杯。",
+              "text_vi": "Loại nước này chỉ có cỡ vừa, không có nghĩa cả quán không bán cỡ khác."
+            }
+          ],
+          "meaning_vi": "Loại này chỉ có cỡ vừa.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0016",
+          "level": "listen",
+          "text": "需要升级大杯吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不用，中杯就行。",
+              "id": "s26_1_0016_reply01",
+              "meaning_vi": "Không cần, cỡ vừa là được."
+            },
+            {
+              "text": "要，帮我换成大杯。",
+              "id": "s26_1_0016_reply02",
+              "meaning_vi": "Có, đổi sang cỡ lớn giúp tôi."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "xū yào shēng jí dà bēi ma",
+          "mistakes": [
+            {
+              "text": "“升级”在这里指把中杯换成大杯，不是手机软件升级；通常应问是否加钱。",
+              "text_vi": "“升级” ở đây là đổi ly vừa sang ly lớn, không phải nâng cấp phần mềm; nên hỏi giá thêm."
+            }
+          ],
+          "meaning_vi": "Có muốn nâng lên cỡ lớn không?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0017",
+          "level": "listen",
+          "text": "大杯加三块。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那要大杯。",
+              "id": "s26_1_0017_reply01",
+              "meaning_vi": "Được, vậy lấy cỡ lớn."
+            },
+            {
+              "text": "那还是中杯吧。",
+              "id": "s26_1_0017_reply02",
+              "meaning_vi": "Vậy thôi lấy cỡ vừa."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "dà bēi jiā sān kuài",
+          "mistakes": [
+            {
+              "text": "“加三块”是比原杯型多付3元，不是大杯总价3元；“块”是人民币元的口语说法。",
+              "text_vi": "“加三块” là trả thêm ba tệ so với cỡ ban đầu, không phải tổng giá ly lớn là ba tệ."
+            }
+          ],
+          "meaning_vi": "Cỡ lớn thêm ba tệ.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0018",
+          "level": "listen",
+          "text": "这款没有小杯。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那中杯吧。",
+              "id": "s26_1_0018_reply01",
+              "meaning_vi": "Vậy cỡ vừa nhé."
+            },
+            {
+              "text": "好，我知道了。",
+              "id": "s26_1_0018_reply02",
+              "meaning_vi": "Được, tôi biết rồi."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "zhè kuǎn méi yǒu xiǎo bēi",
+          "mistakes": [
+            {
+              "text": "“这款”专指选中的一种饮品，可能别的饮品有小杯；不是小杯杯子售罄的通用说明。",
+              "text_vi": "“这款” là loại nước đang nói, không phải mọi loại trong quán đều không có cỡ nhỏ."
+            }
+          ],
+          "meaning_vi": "Loại này không có cỡ nhỏ.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0019",
+          "level": "listen",
+          "text": "两杯可以选不同大小。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那一杯大杯，一杯中杯。",
+              "id": "s26_1_0019_reply01",
+              "meaning_vi": "Vậy một ly lớn, một ly vừa."
+            },
+            {
+              "text": "好，两杯都要中杯。",
+              "id": "s26_1_0019_reply02",
+              "meaning_vi": "Được, cả hai ly đều cỡ vừa."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "liǎng bēi kě yǐ xuǎn bù tóng dà xiǎo",
+          "mistakes": [
+            {
+              "text": "“两杯”是两份饮料；“不同大小”不表示两杯必须同一种口味，也不保证价格相同。",
+              "text_vi": "“两杯” là hai ly nước; chọn kích cỡ khác nhau không có nghĩa hai ly cùng vị hay cùng giá."
+            }
+          ],
+          "meaning_vi": "Hai ly có thể chọn kích cỡ khác nhau.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0020",
+          "level": "listen",
+          "text": "冰的还是热的？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要冰的。",
+              "id": "s26_1_0020_reply01",
+              "meaning_vi": "Lấy loại lạnh."
+            },
+            {
+              "text": "要热的。",
+              "id": "s26_1_0020_reply02",
+              "meaning_vi": "Lấy loại nóng."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "bīng de hái shi rè de",
+          "mistakes": [
+            {
+              "text": "“冰的”是冷饮选择，“热的”是热饮选择；不要把“冰的”误听成要加冰淇淋。",
+              "text_vi": "“冰的” là đồ uống lạnh, “热的” là nóng; không phải hỏi có thêm kem hay không."
+            }
+          ],
+          "meaning_vi": "Lạnh hay nóng?",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        },
+        {
+          "id": "s26_1_0021",
+          "level": "listen",
+          "text": "常温也可以。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那就常温。",
+              "id": "s26_1_0021_reply01",
+              "meaning_vi": "Vậy lấy nhiệt độ thường."
+            },
+            {
+              "text": "我还是要冰的。",
+              "id": "s26_1_0021_reply02",
+              "meaning_vi": "Tôi vẫn lấy loại lạnh."
+            }
+          ],
+          "lesson_id": "26.1",
+          "lesson_title": "26.1 咖啡点单：品类杯型冷热",
+          "pinyin": "cháng wēn yě kě yǐ",
+          "mistakes": [
+            {
+              "text": "“常温”是接近室内温度，不等于“温的”热饮，也不等于一定经过冰镇。",
+              "text_vi": "“常温” là gần nhiệt độ phòng, khác đồ uống ấm hoặc đã làm lạnh."
+            }
+          ],
+          "meaning_vi": "Nhiệt độ thường cũng được.",
+          "lesson_title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+        }
+      ],
+      "opening": "学会在咖啡店点拿铁和美式，选择杯型、冷热和温度，询问价格差及修改杯型；能听懂店员的两个选项。",
+      "subtitle": "21张实用口语卡",
+      "title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh",
+      "subtitle_vi": "21 thẻ giao tiếp thực tế",
+      "opening_vi": "Luyện gọi latte, Americano, chọn cỡ ly và nóng lạnh, hỏi giá chênh lệch và yêu cầu đồ uống ấm vừa."
+    },
+    {
+      "id": "26.2",
+      "title": "26.2 奶茶点单：甜度冰量加料",
+      "phrases": [
+        {
+          "id": "s26_2_0001",
+          "level": "must",
+          "text": "甜度可以选吗？",
+          "alternatives": [
+            {
+              "text": "可以选甜度吗？",
+              "id": "s26_2_0001_alt01",
+              "meaning_vi": "Có thể chọn mức đường không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，正常糖、半糖、三分糖都可以。",
+              "id": "s26_2_0001_reply01",
+              "meaning_vi": "Được, có mức đường bình thường, nửa đường và 30% đường."
+            },
+            {
+              "text": "这款甜度不能选。",
+              "id": "s26_2_0001_reply02",
+              "meaning_vi": "Loại này không chọn độ ngọt được."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "tián dù kě yǐ xuǎn ma",
+          "mistakes": [
+            {
+              "text": "“甜度”是店家提供的甜味档位，不一定能任意输入一个百分比；部分饮品使用固定配方，不能调整。",
+              "text_vi": "“甜度” là mức ngọt có sẵn của quán, không chắc tùy chỉnh mọi phần trăm; có thức uống theo công thức cố định."
+            }
+          ],
+          "meaning_vi": "Có chọn độ ngọt được không?",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0002",
+          "level": "must",
+          "text": "我要半糖。",
+          "alternatives": [
+            {
+              "text": "半糖就行。",
+              "id": "s26_2_0002_alt01",
+              "meaning_vi": "50% đường là được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，半糖。",
+              "id": "s26_2_0002_reply01",
+              "meaning_vi": "Vâng, 50% đường."
+            },
+            {
+              "text": "好，还要调整冰量吗？",
+              "id": "s26_2_0002_reply02",
+              "meaning_vi": "Được, có muốn chỉnh lượng đá không?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "wǒ yào bàn táng",
+          "mistakes": [
+            {
+              "text": "“半糖”指门店的五成糖档位，不保证整杯饮料最终含糖克数正好减半；奶与其他配料仍可能含糖。",
+              "text_vi": "“半糖” là mức 50% đường do quán đặt, không bảo đảm tổng lượng đường trong ly giảm đúng một nửa vì nguyên liệu khác cũng có đường."
+            }
+          ],
+          "meaning_vi": "Tôi lấy 50% đường.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0003",
+          "level": "must",
+          "text": "我要少冰。",
+          "alternatives": [
+            {
+              "text": "少冰就行。",
+              "id": "s26_2_0003_alt01",
+              "meaning_vi": "Ít đá là được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，少冰。",
+              "id": "s26_2_0003_reply01",
+              "meaning_vi": "Vâng, ít đá."
+            },
+            {
+              "text": "好，甜度要多少？",
+              "id": "s26_2_0003_reply02",
+              "meaning_vi": "Được, muốn mức ngọt bao nhiêu?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "wǒ yào shǎo bīng",
+          "mistakes": [
+            {
+              "text": "“少冰”是冰块减少但仍可能有冰，与“去冰”不加冰块不同；不保证饮料因此变成温的。",
+              "text_vi": "“少冰” vẫn có đá nhưng ít hơn, khác “去冰” không thêm đá; đồ uống không nhất thiết trở thành ấm."
+            }
+          ],
+          "meaning_vi": "Tôi lấy ít đá.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0004",
+          "level": "must",
+          "text": "帮我加珍珠。",
+          "alternatives": [
+            {
+              "text": "加一份珍珠。",
+              "id": "s26_2_0004_alt01",
+              "meaning_vi": "Thêm một phần trân châu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，加料两块。",
+              "id": "s26_2_0004_reply01",
+              "meaning_vi": "Được, thêm topping mất hai tệ."
+            },
+            {
+              "text": "不好意思，珍珠卖完了。",
+              "id": "s26_2_0004_reply02",
+              "meaning_vi": "Xin lỗi, hết trân châu rồi."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "bāng wǒ jiā zhēn zhū",
+          "mistakes": [
+            {
+              "text": "奶茶“珍珠”通常指木薯粉制成的可嚼配料（tapioca pearls），不是装饰珠宝；“加珍珠”是额外添加，可能另外收费。",
+              "text_vi": "“珍珠” trong trà sữa là hạt trân châu làm từ tinh bột sắn, không phải ngọc trai trang sức; thêm vào có thể mất phí."
+            }
+          ],
+          "meaning_vi": "Thêm trân châu giúp tôi.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0005",
+          "level": "must",
+          "text": "不要奶盖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，这杯不加奶盖。",
+              "id": "s26_2_0005_reply01",
+              "meaning_vi": "Vâng, ly này không thêm kem sữa."
+            },
+            {
+              "text": "这款奶盖不能单独去掉，您要换一款吗？",
+              "id": "s26_2_0005_reply02",
+              "meaning_vi": "Loại này không bỏ riêng lớp kem sữa được, anh/chị muốn đổi loại khác không?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "bú yào nǎi gài",
+          "mistakes": [
+            {
+              "text": "“奶盖”指饮品表层的奶类或芝士泡沫，去掉奶盖不等于饮品完全无乳制品；乳制品过敏应核对奶基底、粉末和接触器具。",
+              "text_vi": "“奶盖” là lớp kem sữa hoặc phô mai phía trên. Bỏ lớp này chưa chắc không còn sữa trong đồ uống; người dị ứng cần hỏi toàn bộ thành phần."
+            }
+          ],
+          "meaning_vi": "Không lấy lớp kem sữa phía trên.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0006",
+          "level": "must",
+          "text": "这个能做无糖吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以不另外加糖，不过其他原料可能有糖。",
+              "id": "s26_2_0006_reply01",
+              "meaning_vi": "Có thể không thêm đường, nhưng các nguyên liệu khác có thể chứa đường."
+            },
+            {
+              "text": "这款原料本身有糖，做不了完全无糖。",
+              "id": "s26_2_0006_reply02",
+              "meaning_vi": "Nguyên liệu của loại này vốn có đường nên không thể làm hoàn toàn không đường."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "zhè ge néng zuò wú táng ma",
+          "mistakes": [
+            {
+              "text": "点单时“无糖”有时只表示不额外加糖，不保证奶、糖浆或预调基底中没有糖。严格控糖或有健康限制时，要确认具体配方。",
+              "text_vi": "“无糖” khi đặt hàng đôi khi chỉ là không thêm đường, chưa chắc sữa, siro hoặc nền pha sẵn không chứa đường; cần kiểm tra nếu phải hạn chế đường nghiêm ngặt."
+            }
+          ],
+          "meaning_vi": "Món này làm không đường được không?",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0007",
+          "level": "must",
+          "text": "可以加两种料吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，两种都可以加。",
+              "id": "s26_2_0007_reply01",
+              "meaning_vi": "Được, thêm cả hai loại được."
+            },
+            {
+              "text": "可以，不过要分别加价。",
+              "id": "s26_2_0007_reply02",
+              "meaning_vi": "Được, nhưng mỗi loại tính thêm tiền riêng."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "kě yǐ jiā liǎng zhǒng liào ma",
+          "mistakes": [
+            {
+              "text": "“两种料”是两类配料，不是再买两杯奶茶；不同配料可能分别收费。",
+              "text_vi": "“两种料” là hai loại topping, không phải mua thêm hai ly; mỗi loại có thể tính phí riêng."
+            }
+          ],
+          "meaning_vi": "Có thể thêm hai loại topping không?",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0008",
+          "level": "must",
+          "text": "加料多少钱？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "一种两块。",
+              "id": "s26_2_0008_reply01",
+              "meaning_vi": "Mỗi loại thêm hai tệ."
+            },
+            {
+              "text": "珍珠加两块。",
+              "id": "s26_2_0008_reply02",
+              "meaning_vi": "Thêm trân châu tính hai tệ."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "jiā liào duō shǎo qián",
+          "mistakes": [
+            {
+              "text": "“加料多少钱”问配料附加费，不是奶茶原本的售价；不同料不一定同价。",
+              "text_vi": "Câu này hỏi phí topping bổ sung, không phải giá gốc trà sữa; các loại topping có thể khác giá."
+            }
+          ],
+          "meaning_vi": "Thêm topping bao nhiêu tiền?",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0009",
+          "level": "must",
+          "text": "少糖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，少糖。",
+              "id": "s26_2_0009_reply01",
+              "meaning_vi": "Vâng, ít đường."
+            },
+            {
+              "text": "可以，给您少放一点糖。",
+              "id": "s26_2_0009_reply02",
+              "meaning_vi": "Được, tôi bớt đường cho anh/chị."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "shǎo táng",
+          "mistakes": [
+            {
+              "text": "“少糖”是笼统要求少放糖，和菜单上固定的“半糖”“三分糖”不一定同一档；最好确认店员记了哪档。",
+              "text_vi": "“少糖” là yêu cầu ít đường nói chung, không chắc tương ứng mức 50% hay 30% của menu; nên xác nhận mức ghi đơn."
+            }
+          ],
+          "meaning_vi": "Ít đường.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0010",
+          "level": "must",
+          "text": "三分糖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，三分糖。",
+              "id": "s26_2_0010_reply01",
+              "meaning_vi": "Vâng, 30% đường."
+            },
+            {
+              "text": "可以，甜度给您调到三分糖。",
+              "id": "s26_2_0010_reply02",
+              "meaning_vi": "Được, tôi chỉnh độ ngọt về mức 30%."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "sān fēn táng",
+          "mistakes": [
+            {
+              "text": "“三分糖”是相对门店标准甜度的一档（常被称作三成糖），不表示加三勺糖，也不保证成品总含糖量精确为30%。",
+              "text_vi": "“三分糖” thường là mức khoảng 30% đường theo thang của quán, không phải ba thìa đường và không bảo đảm hàm lượng đường thực tế chính xác 30%."
+            }
+          ],
+          "meaning_vi": "30% đường.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0011",
+          "level": "must",
+          "text": "去冰。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，去冰，不放冰块。",
+              "id": "s26_2_0011_reply01",
+              "meaning_vi": "Vâng, không đá, không cho đá viên."
+            },
+            {
+              "text": "可以去冰，但做出来仍是冷的。",
+              "id": "s26_2_0011_reply02",
+              "meaning_vi": "Có thể bỏ đá nhưng đồ uống vẫn lạnh."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "qù bīng",
+          "mistakes": [
+            {
+              "text": "“去冰”是去掉冰块，并不保证饮料变温或变常温；某些冷饮去冰后仍很凉。",
+              "text_vi": "“去冰” là không cho đá viên, chưa chắc đồ uống ấm lên hoặc ở nhiệt độ phòng."
+            }
+          ],
+          "meaning_vi": "Không đá.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0012",
+          "level": "must",
+          "text": "正常冰。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，正常冰。",
+              "id": "s26_2_0012_reply01",
+              "meaning_vi": "Vâng, đá bình thường."
+            },
+            {
+              "text": "好，甜度也按正常糖吗？",
+              "id": "s26_2_0012_reply02",
+              "meaning_vi": "Được, độ ngọt cũng để mức đường bình thường nhé?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "zhèng cháng bīng",
+          "mistakes": [
+            {
+              "text": "“正常冰”是该店的常规冰量，不等于“很多冰”；别把“正常”误解为规定每家店必须加一样多。",
+              "text_vi": "“正常冰” là lượng đá tiêu chuẩn của chính quán đó, không có con số đá chung cho mọi cửa hàng."
+            }
+          ],
+          "meaning_vi": "Lượng đá bình thường.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0013",
+          "level": "must",
+          "text": "可以加椰果吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s26_2_0013_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "可以，加椰果要另外收费。",
+              "id": "s26_2_0013_reply02",
+              "meaning_vi": "Được, thêm thạch dừa có tính phí riêng."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "kě yǐ jiā yē guǒ ma",
+          "mistakes": [
+            {
+              "text": "“椰果”在奶茶店通常指发酵制成的椰果啫喱（nata de coco），不是新鲜椰肉；配料及过敏信息需另确认。",
+              "text_vi": "“椰果” là thạch dừa lên men (nata de coco), khác cùi dừa tươi. Người dị ứng cần hỏi thông tin thành phần."
+            }
+          ],
+          "meaning_vi": "Thêm thạch dừa được không?",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0014",
+          "level": "must",
+          "text": "这个不要珍珠，换椰果。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，给您换成椰果。",
+              "id": "s26_2_0014_reply01",
+              "meaning_vi": "Vâng, tôi đổi sang thạch dừa cho anh/chị."
+            },
+            {
+              "text": "换椰果需要补差价，可以吗？",
+              "id": "s26_2_0014_reply02",
+              "meaning_vi": "Đổi sang thạch dừa phải trả thêm phần chênh lệch, được không?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "zhè ge bú yào zhēn zhū huàn yē guǒ",
+          "mistakes": [
+            {
+              "text": "“换”是用椰果代替珍珠，不是同时加珍珠和椰果；替换是否补差价要问店员。",
+              "text_vi": "“换” là thay trân châu bằng thạch dừa, không phải thêm đồng thời cả hai; có thể phải trả chênh lệch."
+            }
+          ],
+          "meaning_vi": "Ly này không lấy trân châu, đổi sang thạch dừa.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0015",
+          "level": "listen",
+          "text": "要正常冰还是少冰？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "少冰。",
+              "id": "s26_2_0015_reply01",
+              "meaning_vi": "Ít đá."
+            },
+            {
+              "text": "正常冰。",
+              "id": "s26_2_0015_reply02",
+              "meaning_vi": "Lượng đá bình thường."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "yào zhèng cháng bīng hái shi shǎo bīng",
+          "mistakes": [
+            {
+              "text": "“还是”表示两个选项；顾客回答“少冰”就够，不需要再重复整个问题。",
+              "text_vi": "“还是” hỏi chọn một trong hai mức đá; có thể chỉ đáp “少冰”."
+            }
+          ],
+          "meaning_vi": "Lấy đá bình thường hay ít đá?",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0016",
+          "level": "listen",
+          "text": "甜度要几分糖？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我要半糖。",
+              "id": "s26_2_0016_reply01",
+              "meaning_vi": "Tôi lấy 50% đường."
+            },
+            {
+              "text": "三分糖就好。",
+              "id": "s26_2_0016_reply02",
+              "meaning_vi": "30% đường là được."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "tián dù yào jǐ fēn táng",
+          "mistakes": [
+            {
+              "text": "“几分糖”是店内甜度档位的问法，不是问要几勺糖；与顾客问“有哪些甜度可以选？”的问法不同。",
+              "text_vi": "“几分糖” hỏi mức đường trong menu, không hỏi bao nhiêu thìa đường."
+            }
+          ],
+          "meaning_vi": "Muốn mức đường bao nhiêu phần?",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0017",
+          "level": "listen",
+          "text": "这个不能做无糖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我换一款能不加糖的。",
+              "id": "s26_2_0017_reply01",
+              "meaning_vi": "Vậy tôi đổi sang loại có thể không thêm đường."
+            },
+            {
+              "text": "那最低能做几分糖？",
+              "id": "s26_2_0017_reply02",
+              "meaning_vi": "Vậy mức đường thấp nhất là bao nhiêu?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "zhè ge bù néng zuò wú táng",
+          "mistakes": [
+            {
+              "text": "“不能做无糖”是这一款配方有限制，不等于全店没有无糖饮品；三分糖也不是无糖。",
+              "text_vi": "Loại này không làm không đường được, không có nghĩa cả quán không có đồ uống không thêm đường; 30% đường vẫn có đường."
+            }
+          ],
+          "meaning_vi": "Loại này không thể làm không đường.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0018",
+          "level": "listen",
+          "text": "默认是正常糖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以改成半糖吗？",
+              "id": "s26_2_0018_reply01",
+              "meaning_vi": "Đổi sang 50% đường được không?"
+            },
+            {
+              "text": "那就正常糖。",
+              "id": "s26_2_0018_reply02",
+              "meaning_vi": "Vậy lấy mức đường bình thường."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "mò rèn shì zhèng cháng táng",
+          "mistakes": [
+            {
+              "text": "“默认”指不做选择时系统自动采用的选项，不等于正常糖对每个人都不甜。",
+              "text_vi": "“默认” là mức tự chọn khi khách không yêu cầu, không phải ai cũng thấy mức đường ấy vừa miệng."
+            }
+          ],
+          "meaning_vi": "Mặc định là đường bình thường.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0019",
+          "level": "listen",
+          "text": "可以选三分糖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我要三分糖。",
+              "id": "s26_2_0019_reply01",
+              "meaning_vi": "Vậy tôi lấy 30% đường."
+            },
+            {
+              "text": "那半糖也有吗？",
+              "id": "s26_2_0019_reply02",
+              "meaning_vi": "Có mức 50% đường không?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "kě yǐ xuǎn sān fēn táng",
+          "mistakes": [
+            {
+              "text": "“可以选三分糖”是告知某档可用，不是已自动替顾客设成三分糖；仍需顾客确认。",
+              "text_vi": "Thông báo có mức 30% đường chưa có nghĩa đơn đã được chỉnh về mức ấy; khách phải chọn rõ."
+            }
+          ],
+          "meaning_vi": "Có thể chọn mức 30% đường.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0020",
+          "level": "listen",
+          "text": "这款只能做冰的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那就冰的。",
+              "id": "s26_2_0020_reply01",
+              "meaning_vi": "Vậy lấy loại lạnh."
+            },
+            {
+              "text": "那我换一款。",
+              "id": "s26_2_0020_reply02",
+              "meaning_vi": "Vậy tôi đổi sang loại khác."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "zhè kuǎn zhǐ néng zuò bīng de",
+          "mistakes": [
+            {
+              "text": "“只能做冰的”说明冷热类型限定；是否能做“去冰”仍可能另有限制，不要直接等同。",
+              "text_vi": "Chỉ bán loại lạnh không có nghĩa chắc chắn có thể bỏ đá; hai giới hạn khác nhau."
+            }
+          ],
+          "meaning_vi": "Loại này chỉ làm lạnh được.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0021",
+          "level": "listen",
+          "text": "珍珠现在卖完了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那换椰果吧。",
+              "id": "s26_2_0021_reply01",
+              "meaning_vi": "Vậy đổi sang thạch dừa."
+            },
+            {
+              "text": "那还有别的配料吗？",
+              "id": "s26_2_0021_reply02",
+              "meaning_vi": "Vậy còn topping nào khác không?"
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "zhēn zhū xiàn zài mài wán le",
+          "mistakes": [
+            {
+              "text": "“卖完了”是现在售罄，不等于永久不卖；也不要把“珍珠”理解成装饰珠子。",
+              "text_vi": "Hết trân châu hiện giờ không có nghĩa ngừng bán vĩnh viễn; “珍珠” ở đây không phải hạt trang sức."
+            }
+          ],
+          "meaning_vi": "Trân châu hiện hết rồi.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0022",
+          "level": "listen",
+          "text": "加料要两块。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，加珍珠。",
+              "id": "s26_2_0022_reply01",
+              "meaning_vi": "Được, thêm trân châu."
+            },
+            {
+              "text": "那不加了。",
+              "id": "s26_2_0022_reply02",
+              "meaning_vi": "Vậy thôi, không thêm."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "jiā liào yào liǎng kuài",
+          "mistakes": [
+            {
+              "text": "“两块”是两元人民币的口语说法；这是本例的加料费，不是所有店统一收费。",
+              "text_vi": "“两块” là hai tệ, phí topping trong ví dụ, không phải giá áp dụng ở mọi quán."
+            }
+          ],
+          "meaning_vi": "Thêm topping mất hai tệ.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        },
+        {
+          "id": "s26_2_0023",
+          "level": "listen",
+          "text": "这个不能去冰。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那少冰可以吗？",
+              "id": "s26_2_0023_reply01",
+              "meaning_vi": "Vậy ít đá được không?"
+            },
+            {
+              "text": "那我换一款可以去冰的。",
+              "id": "s26_2_0023_reply02",
+              "meaning_vi": "Vậy tôi đổi sang loại có thể bỏ đá."
+            }
+          ],
+          "lesson_id": "26.2",
+          "lesson_title": "26.2 奶茶点单：甜度冰量加料",
+          "pinyin": "zhè ge bù néng qù bīng",
+          "mistakes": [
+            {
+              "text": "“不能去冰”是不接受完全去冰，可能仍可以“少冰”；若必须无冰应另选饮品。",
+              "text_vi": "Không bỏ đá hoàn toàn được nhưng có thể vẫn chọn ít đá; nếu bắt buộc không đá thì đổi loại nước khác."
+            }
+          ],
+          "meaning_vi": "Loại này không bỏ đá được.",
+          "lesson_title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+        }
+      ],
+      "opening": "学会在奶茶店选择甜度、冰量、珍珠、椰果和奶盖，问加料价格；听懂无糖、去冰等要求不能调整时的回复。",
+      "subtitle": "23张实用口语卡",
+      "title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping",
+      "subtitle_vi": "23 thẻ giao tiếp thực tế",
+      "opening_vi": "Học chọn mức đường, lượng đá, trân châu, thạch dừa và kem sữa; hỏi phí thêm, nhận biết đồ uống không thể làm hoàn toàn không đường."
+    },
+    {
+      "id": "26.3",
+      "title": "26.3 堂食外带与取餐",
+      "phrases": [
+        {
+          "id": "s26_3_0001",
+          "level": "must",
+          "text": "在这里喝。",
+          "alternatives": [
+            {
+              "text": "在店里喝。",
+              "id": "s26_3_0001_alt01",
+              "meaning_vi": "Uống tại quán."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，店里喝。",
+              "id": "s26_3_0001_reply01",
+              "meaning_vi": "Vâng, uống tại quán."
+            },
+            {
+              "text": "好，做好后会叫号。",
+              "id": "s26_3_0001_reply02",
+              "meaning_vi": "Được, làm xong sẽ gọi số."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "zài zhè li hē",
+          "mistakes": [
+            {
+              "text": "“在这里喝”表示店内饮用，与“带走/外带”相对；不一定要求员工直接把饮料送到桌上。",
+              "text_vi": "“在这里喝” là uống tại quán, không phải nhất thiết nhân viên mang nước tới bàn."
+            }
+          ],
+          "meaning_vi": "Uống tại đây.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0002",
+          "level": "must",
+          "text": "这杯带走。",
+          "alternatives": [
+            {
+              "text": "这杯外带。",
+              "id": "s26_3_0002_alt01",
+              "meaning_vi": "Ly này mang về."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，给您做外带。",
+              "id": "s26_3_0002_reply01",
+              "meaning_vi": "Vâng, tôi làm để mang đi cho anh/chị."
+            },
+            {
+              "text": "好，给您用外带杯。",
+              "id": "s26_3_0002_reply02",
+              "meaning_vi": "Được, tôi dùng ly mang đi cho anh/chị."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "zhè bēi dài zǒu",
+          "mistakes": [
+            {
+              "text": "“带走”是顾客自己拿走，与店内喝或外卖配送不同；“这杯”指当前这一杯。",
+              "text_vi": "“带走” là khách tự mang đi, khác ngồi uống trong quán hoặc giao hàng tận nhà. “这杯” là ly đang nói tới."
+            }
+          ],
+          "meaning_vi": "Ly này mang đi.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0003",
+          "level": "must",
+          "text": "取餐号是多少？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "您的号码是三十六。",
+              "id": "s26_3_0003_reply01",
+              "meaning_vi": "Số của anh/chị là ba mươi sáu."
+            },
+            {
+              "text": "请看小票上的号码。",
+              "id": "s26_3_0003_reply02",
+              "meaning_vi": "Vui lòng xem số trên biên lai."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "qǔ cān hào shì duō shǎo",
+          "mistakes": [
+            {
+              "text": "“取餐号”是领取饮料时的叫号，和手机号、订单编号不一定相同；可查看小票。",
+              "text_vi": "“取餐号” là số dùng khi nhận đồ uống, không chắc trùng số điện thoại hay mã đơn; thường nằm trên biên lai."
+            }
+          ],
+          "meaning_vi": "Số nhận món là bao nhiêu?",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0004",
+          "level": "must",
+          "text": "我的饮料好了吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还要等三分钟。",
+              "id": "s26_3_0004_reply01",
+              "meaning_vi": "Còn phải đợi ba phút."
+            },
+            {
+              "text": "好了，在右边取。",
+              "id": "s26_3_0004_reply02",
+              "meaning_vi": "Xong rồi, nhận ở bên phải."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "wǒ de yǐn liào hǎo le ma",
+          "mistakes": [
+            {
+              "text": "“好了吗”问制作是否完成，不是问味道好不好；“还要等”表示从现在开始再等。",
+              "text_vi": "“好了吗” hỏi nước pha xong chưa, không phải uống có ngon không. “还要等” là cần đợi thêm từ giờ."
+            }
+          ],
+          "meaning_vi": "Đồ uống của tôi xong chưa?",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0005",
+          "level": "must",
+          "text": "我来取咖啡。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，取餐号是多少？",
+              "id": "s26_3_0005_reply01",
+              "meaning_vi": "Vâng, số nhận món là bao nhiêu?"
+            },
+            {
+              "text": "请问您的取餐号？",
+              "id": "s26_3_0005_reply02",
+              "meaning_vi": "Xin hỏi số nhận món của anh/chị?"
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "wǒ lái qǔ kā fēi",
+          "mistakes": [
+            {
+              "text": "“我来取咖啡”表示来拿已订的咖啡，不是临时再点一杯；员工通常还会问取餐号。",
+              "text_vi": "“我来取咖啡” là đến lấy ly đã đặt, không phải gọi thêm ly mới; nhân viên thường hỏi số nhận hàng."
+            }
+          ],
+          "meaning_vi": "Tôi đến nhận cà phê.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0006",
+          "level": "must",
+          "text": "我没听到叫号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没关系，请把小票给我，我帮您查一下。",
+              "id": "s26_3_0006_reply01",
+              "meaning_vi": "Không sao, cho tôi xem biên lai, tôi kiểm tra giúp."
+            },
+            {
+              "text": "我帮您看一下是不是已经叫过了。",
+              "id": "s26_3_0006_reply02",
+              "meaning_vi": "Để tôi xem số anh/chị đã được gọi chưa."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "wǒ méi tīng dào jiào hào",
+          "mistakes": [
+            {
+              "text": "“没听到”只是自己没听见，不等于店员一定没叫；可同时看屏幕或出示小票。",
+              "text_vi": "“没听到” chỉ là mình không nghe thấy, chưa chứng tỏ quán chưa gọi; có thể nhìn màn hình hoặc đưa biên lai."
+            }
+          ],
+          "meaning_vi": "Tôi không nghe gọi số.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0007",
+          "level": "must",
+          "text": "叫到几号了？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "现在叫到三十四号了。",
+              "id": "s26_3_0007_reply01",
+              "meaning_vi": "Giờ đang gọi đến số ba mươi bốn."
+            },
+            {
+              "text": "您可以看屏幕上的最新号码。",
+              "id": "s26_3_0007_reply02",
+              "meaning_vi": "Anh/chị có thể xem số mới nhất trên màn hình."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "jiào dào jǐ hào le",
+          "mistakes": [
+            {
+              "text": "“叫到几号”问店里当前叫号进度，不是询问我自己的取餐号；叫号未必严格按号码先后。",
+              "text_vi": "“叫到几号” hỏi tiến độ gọi số hiện tại, không hỏi số của bản thân; thứ tự có thể không tuyệt đối."
+            }
+          ],
+          "meaning_vi": "Đang gọi đến số mấy rồi?",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0008",
+          "level": "must",
+          "text": "取餐台在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在右边。",
+              "id": "s26_3_0008_reply01",
+              "meaning_vi": "Ở bên phải."
+            },
+            {
+              "text": "在前面那个柜台。",
+              "id": "s26_3_0008_reply02",
+              "meaning_vi": "Ở quầy phía trước."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "qǔ cān tái zài nǎr",
+          "mistakes": [
+            {
+              "text": "“取餐台”在咖啡奶茶店是取饮料的台面，不一定有饭菜；“哪儿”是“哪里”的口语形式。",
+              "text_vi": "“取餐台” là quầy nhận đồ uống, không nhất thiết có đồ ăn; “哪儿” là cách nói khẩu ngữ của “哪里”."
+            }
+          ],
+          "meaning_vi": "Quầy nhận đồ uống ở đâu?",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0009",
+          "level": "must",
+          "text": "这是我的取餐号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我帮您看一下。",
+              "id": "s26_3_0009_reply01",
+              "meaning_vi": "Vâng, để tôi kiểm tra cho anh/chị."
+            },
+            {
+              "text": "好，您的饮料马上好。",
+              "id": "s26_3_0009_reply02",
+              "meaning_vi": "Vâng, đồ uống của anh/chị sắp xong."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "zhè shì wǒ de qǔ cān hào",
+          "mistakes": [
+            {
+              "text": "“这是我的取餐号”表示出示编号供核实，不证明那杯现成饮料一定属于自己；应让店员确认。",
+              "text_vi": "Đưa số nhận hàng để xác minh, chưa có nghĩa ly đang để sẵn chắc chắn thuộc mình; nên nhờ nhân viên kiểm tra."
+            }
+          ],
+          "meaning_vi": "Đây là số nhận món của tôi.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0010",
+          "level": "must",
+          "text": "可以改成外带吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，给您换成外带杯。",
+              "id": "s26_3_0010_reply01",
+              "meaning_vi": "Được, tôi đổi sang ly mang đi cho anh/chị."
+            },
+            {
+              "text": "我先确认一下能不能换包装。",
+              "id": "s26_3_0010_reply02",
+              "meaning_vi": "Để tôi xác nhận có đổi bao bì được không."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "kě yǐ gǎi chéng wài dài ma",
+          "mistakes": [
+            {
+              "text": "“改成外带”是调整饮用方式及包装，不是取消旧单再免费做新一杯；能否换杯依店家处理。",
+              "text_vi": "“改成外带” là đổi cách đóng gói đơn đã đặt, không phải hủy đơn và nhận miễn phí ly mới; phụ thuộc quy định quán."
+            }
+          ],
+          "meaning_vi": "Đổi sang mang đi được không?",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0011",
+          "level": "must",
+          "text": "吸管在哪里拿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在取餐台旁边。",
+              "id": "s26_3_0011_reply01",
+              "meaning_vi": "Ở cạnh quầy nhận món."
+            },
+            {
+              "text": "右边可以自己拿。",
+              "id": "s26_3_0011_reply02",
+              "meaning_vi": "Bên phải có thể tự lấy."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "xī guǎn zài nǎ li ná",
+          "mistakes": [
+            {
+              "text": "“吸管”是饮料用的喝水管，不是搅拌棒；“在哪里拿”问领取地点，不是索要另一杯。",
+              "text_vi": "“吸管” là ống hút, không phải que khuấy; “在哪里拿” hỏi điểm lấy chứ không gọi thêm đồ uống."
+            }
+          ],
+          "meaning_vi": "Lấy ống hút ở đâu?",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0012",
+          "level": "listen",
+          "text": "您的号码是三十六。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我记下了。",
+              "id": "s26_3_0012_reply01",
+              "meaning_vi": "Được, tôi nhớ rồi."
+            },
+            {
+              "text": "请问在哪边等叫号？",
+              "id": "s26_3_0012_reply02",
+              "meaning_vi": "Xin hỏi đứng bên nào đợi gọi số?"
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "nín de hào mǎ shì sān shí liù",
+          "mistakes": [
+            {
+              "text": "“您的号码”在这里是取餐号码，不是问客人的手机号；“三十六”听错可看小票数字。",
+              "text_vi": "“您的号码” ở đây là số nhận đồ uống, không phải số điện thoại. Số 36 có thể kiểm tra bằng chữ số trên biên lai."
+            }
+          ],
+          "meaning_vi": "Số của anh/chị là ba mươi sáu.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0013",
+          "level": "listen",
+          "text": "好了会叫号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我在这边等叫号。",
+              "id": "s26_3_0013_reply01",
+              "meaning_vi": "Vâng, tôi đợi gọi số ở đây."
+            },
+            {
+              "text": "好，我看一下屏幕。",
+              "id": "s26_3_0013_reply02",
+              "meaning_vi": "Được, để tôi nhìn màn hình."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "hǎo le huì jiào hào",
+          "mistakes": [
+            {
+              "text": "“叫号”是喊出或显示取餐号码，不是一定会打电话到顾客手机；不要走太远。",
+              "text_vi": "“叫号” là gọi to hoặc hiển thị số, không nhất thiết gọi điện thoại cho khách."
+            }
+          ],
+          "meaning_vi": "Xong sẽ gọi số.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0014",
+          "level": "listen",
+          "text": "请到取餐台拿。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我去那边取。",
+              "id": "s26_3_0014_reply01",
+              "meaning_vi": "Vâng, tôi qua bên kia lấy."
+            },
+            {
+              "text": "取餐台在哪边？",
+              "id": "s26_3_0014_reply02",
+              "meaning_vi": "Quầy nhận đồ ở phía nào?"
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "qǐng dào qǔ cān tái ná",
+          "mistakes": [
+            {
+              "text": "“请到取餐台拿”指顾客自己去取，和店员送到桌边不同；“请”让指示更礼貌。",
+              "text_vi": "Câu này yêu cầu khách tự đến quầy lấy, không phải nhân viên mang đến bàn. “请” giúp lịch sự hơn."
+            }
+          ],
+          "meaning_vi": "Vui lòng tới quầy nhận món.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0015",
+          "level": "listen",
+          "text": "还要等三分钟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我再等一下。",
+              "id": "s26_3_0015_reply01",
+              "meaning_vi": "Vâng, tôi đợi thêm một chút."
+            },
+            {
+              "text": "那做好后会叫号吗？",
+              "id": "s26_3_0015_reply02",
+              "meaning_vi": "Vậy làm xong có gọi số không?"
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "hái yào děng sān fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“还要等三分钟”是额外等待时间，不是从下单开始总共只需三分钟；可能是预计。",
+              "text_vi": "Ba phút là thời gian đợi thêm từ giờ, không phải cả đơn pha trong ba phút; có thể chỉ là ước tính."
+            }
+          ],
+          "meaning_vi": "Còn phải đợi ba phút.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0016",
+          "level": "listen",
+          "text": "三十六号好了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这是我的号，我来拿。",
+              "id": "s26_3_0016_reply01",
+              "meaning_vi": "Đây là số của tôi, tôi đến lấy."
+            },
+            {
+              "text": "好的，我马上过去。",
+              "id": "s26_3_0016_reply02",
+              "meaning_vi": "Vâng, tôi qua ngay."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "sān shí liù hào hǎo le",
+          "mistakes": [
+            {
+              "text": "“三十六号好了”是36号订单完成，不是说36号这个人身体恢复健康；要核对取餐号。",
+              "text_vi": "“三十六号好了” là đơn số 36 đã hoàn thành, không phải một người số 36 đã khỏi bệnh."
+            }
+          ],
+          "meaning_vi": "Số ba mươi sáu xong rồi.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0017",
+          "level": "listen",
+          "text": "请看屏幕上的号码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我留意一下屏幕。",
+              "id": "s26_3_0017_reply01",
+              "meaning_vi": "Được, tôi sẽ để ý màn hình."
+            },
+            {
+              "text": "我的号码是三十六，屏幕上显示了吗？",
+              "id": "s26_3_0017_reply02",
+              "meaning_vi": "Số của tôi là ba mươi sáu, màn hình hiển thị chưa?"
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "qǐng kàn píng mù shàng de hào mǎ",
+          "mistakes": [
+            {
+              "text": "“屏幕上的号码”是显示的叫号或订单号信息，不一定是顾客自己的号码；须和小票核对。",
+              "text_vi": "Số trên màn hình có thể là số gọi hiện tại, không chắc là số của bạn; so lại với biên lai."
+            }
+          ],
+          "meaning_vi": "Vui lòng xem số trên màn hình.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0018",
+          "level": "listen",
+          "text": "饮料在右边取。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去右边拿。",
+              "id": "s26_3_0018_reply01",
+              "meaning_vi": "Được, tôi qua bên phải lấy."
+            },
+            {
+              "text": "知道了，谢谢。",
+              "id": "s26_3_0018_reply02",
+              "meaning_vi": "Biết rồi, cảm ơn."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "yǐn liào zài yòu biān qǔ",
+          "mistakes": [
+            {
+              "text": "“右边”要以当下站立方向和员工指示为准；“取”是领取，不是重新买。",
+              "text_vi": "“右边” dựa vào hướng nhân viên đang chỉ; “取” là tới nhận, không phải mua lại."
+            }
+          ],
+          "meaning_vi": "Nhận đồ uống ở phía bên phải.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0019",
+          "level": "listen",
+          "text": "这杯是外带的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，这是我要带走的。",
+              "id": "s26_3_0019_reply01",
+              "meaning_vi": "Đúng, ly này tôi mang đi."
+            },
+            {
+              "text": "好的，可以给我一个袋子吗？",
+              "id": "s26_3_0019_reply02",
+              "meaning_vi": "Được, cho tôi một chiếc túi được không?"
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "zhè bēi shì wài dài de",
+          "mistakes": [
+            {
+              "text": "“这杯是外带的”是在确认杯子的使用方式，不表示这是外卖骑手配送订单；可核对饮料标签。",
+              "text_vi": "“这杯是外带的” xác nhận đồ uống mang đi, không phải đơn do shipper giao; nên kiểm tra nhãn."
+            }
+          ],
+          "meaning_vi": "Ly này là đồ mang đi.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        },
+        {
+          "id": "s26_3_0020",
+          "level": "listen",
+          "text": "吸管在取餐台旁边。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我自己拿。",
+              "id": "s26_3_0020_reply01",
+              "meaning_vi": "Được, tôi tự lấy."
+            },
+            {
+              "text": "找到了，谢谢。",
+              "id": "s26_3_0020_reply02",
+              "meaning_vi": "Tìm thấy rồi, cảm ơn."
+            }
+          ],
+          "lesson_id": "26.3",
+          "lesson_title": "26.3 堂食外带与取餐",
+          "pinyin": "xī guǎn zài qǔ cān tái páng biān",
+          "mistakes": [
+            {
+              "text": "“旁边”指紧挨取餐台的附近位置，不是饮料杯里面；不同门店有时由店员发吸管。",
+              "text_vi": "“旁边” là cạnh quầy lấy đồ, không phải bên trong ly. Có quán phát ống hút qua nhân viên."
+            }
+          ],
+          "meaning_vi": "Ống hút ở cạnh quầy nhận món.",
+          "lesson_title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+        }
+      ],
+      "opening": "学会区分店内喝与外带，询问取餐号、叫号进度和取餐台，确认饮料是否做好，并听懂店员的取餐指示。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "26.3 Uống tại quán, mang đi và nhận đồ",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Phân biệt uống tại quán hay mang đi, xem số nhận đồ, theo dõi gọi số, tìm quầy nhận và xác nhận đồ uống đã làm xong."
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T15:15:54.197Z",
+  "theme_title": "26 咖啡奶茶",
+  "source_phrase_count": 65,
+  "quality_standard": "Vietnamese theme 26 adaptation. Chinese, pinyin, main/nested IDs, card_count, lessons, ordering and levels preserved. Sugar percentage is menu scale not clinical measurement; notes retain allergy and fixed-formula cautions. Native Vietnamese, audio and app runtime QA pending.",
+  "card_count": 64,
+  "lesson_counts": {
+    "26.1": 21,
+    "26.2": 23,
+    "26.3": 20
+  },
+  "theme_title_vi": "26 Cà phê và trà sữa"
+}
