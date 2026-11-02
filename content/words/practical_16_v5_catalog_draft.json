@@ -4,12 +4,12 @@
   "updated_at": "2026-11-02T00:00:00Z",
   "type": "words",
   "title": "Talkami 实用中缅单词16分类",
-  "note": "独立增量 catalog 草案；未改现有 catalog.json；需检查应用路由与封面。",
+  "note": "实用词典独立目录草案；16分类4500词，全部无搭配例句。未更改正式 catalog.json，接入时需核对前端路由、封面和空数组显示。",
   "items": [
     {
       "id": "practical_01",
       "title": "基础中文与交流",
-      "subtitle": "225 个实用中缅单词",
+      "subtitle": "225 个中缅实用词（不含搭配、例句）",
       "preview": "拜拜 / 拜托 / 帮",
       "badge": "实用",
       "target": "word",
@@ -20,12 +20,12 @@
       "item_count": 225,
       "source_data": "content/words/packs/practical_16_v5/category_01.json",
       "category_id": "01",
-      "ready_content_count": 72
+      "ready_content_count": 0
     },
     {
       "id": "practical_02",
       "title": "数字时间与方位",
-      "subtitle": "380 个实用中缅单词",
+      "subtitle": "380 个中缅实用词（不含搭配、例句）",
       "preview": "安排 / 八 / 把",
       "badge": "实用",
       "target": "word",
@@ -36,12 +36,12 @@
       "item_count": 380,
       "source_data": "content/words/packs/practical_16_v5/category_02.json",
       "category_id": "02",
-      "ready_content_count": 218
+      "ready_content_count": 0
     },
     {
       "id": "practical_03",
       "title": "人物家庭与身份",
-      "subtitle": "143 个实用中缅单词",
+      "subtitle": "143 个中缅实用词（不含搭配、例句）",
       "preview": "爱人 / 阿姨 / 爸",
       "badge": "实用",
       "target": "word",
@@ -52,12 +52,12 @@
       "item_count": 143,
       "source_data": "content/words/packs/practical_16_v5/category_03.json",
       "category_id": "03",
-      "ready_content_count": 78
+      "ready_content_count": 0
     },
     {
       "id": "practical_04",
       "title": "饮食食材与餐饮",
-      "subtitle": "350 个实用中缅单词",
+      "subtitle": "350 个中缅实用词（不含搭配、例句）",
       "preview": "白菜 / 白醋 / 白粥",
       "badge": "实用",
       "target": "word",
@@ -68,12 +68,12 @@
       "item_count": 350,
       "source_data": "content/words/packs/practical_16_v5/category_04.json",
       "category_id": "04",
-      "ready_content_count": 63
+      "ready_content_count": 0
     },
     {
       "id": "practical_05",
       "title": "居家生活与日用品",
-      "subtitle": "247 个实用中缅单词",
+      "subtitle": "247 个中缅实用词（不含搭配、例句）",
       "preview": "搬家 / 宝宝车 / 薄毯",
       "badge": "实用",
       "target": "word",
@@ -84,12 +84,12 @@
       "item_count": 247,
       "source_data": "content/words/packs/practical_16_v5/category_05.json",
       "category_id": "05",
-      "ready_content_count": 27
+      "ready_content_count": 0
     },
     {
       "id": "practical_06",
       "title": "衣服穿戴与个人护理",
-      "subtitle": "195 个实用中缅单词",
+      "subtitle": "195 个中缅实用词（不含搭配、例句）",
       "preview": "安全帽 / 白色 / 半身裙",
       "badge": "实用",
       "target": "word",
@@ -100,12 +100,12 @@
       "item_count": 195,
       "source_data": "content/words/packs/practical_16_v5/category_06.json",
       "category_id": "06",
-      "ready_content_count": 23
+      "ready_content_count": 0
     },
     {
       "id": "practical_07",
       "title": "购物金钱与物流",
-      "subtitle": "290 个实用中缅单词",
+      "subtitle": "290 个中缅实用词（不含搭配、例句）",
       "preview": "按件卖 / 按斤卖 / 搬货",
       "badge": "实用",
       "target": "word",
@@ -116,12 +116,12 @@
       "item_count": 290,
       "source_data": "content/words/packs/practical_16_v5/category_07.json",
       "category_id": "07",
-      "ready_content_count": 27
+      "ready_content_count": 0
     },
     {
       "id": "practical_08",
       "title": "交通出行与地点",
-      "subtitle": "260 个实用中缅单词",
+      "subtitle": "260 个中缅实用词（不含搭配、例句）",
       "preview": "安检 / 安全带 / 爆胎",
       "badge": "实用",
       "target": "word",
@@ -132,12 +132,12 @@
       "item_count": 260,
       "source_data": "content/words/packs/practical_16_v5/category_08.json",
       "category_id": "08",
-      "ready_content_count": 78
+      "ready_content_count": 0
     },
     {
       "id": "practical_09",
       "title": "工作求职与工厂",
-      "subtitle": "458 个实用中缅单词",
+      "subtitle": "458 个中缅实用词（不含搭配、例句）",
       "preview": "按钮 / 安全培训 / 安全通道",
       "badge": "实用",
       "target": "word",
@@ -148,12 +148,12 @@
       "item_count": 458,
       "source_data": "content/words/packs/practical_16_v5/category_09.json",
       "category_id": "09",
-      "ready_content_count": 35
+      "ready_content_count": 0
     },
     {
       "id": "practical_10",
       "title": "身体健康与医疗",
-      "subtitle": "255 个实用中缅单词",
+      "subtitle": "255 个中缅实用词（不含搭配、例句）",
       "preview": "饱 / 饱了 / 背部",
       "badge": "实用",
       "target": "word",
@@ -164,12 +164,12 @@
       "item_count": 255,
       "source_data": "content/words/packs/practical_16_v5/category_10.json",
       "category_id": "10",
-      "ready_content_count": 44
+      "ready_content_count": 0
     },
     {
       "id": "practical_11",
       "title": "学习语言与教育",
-      "subtitle": "222 个实用中缅单词",
+      "subtitle": "222 个中缅实用词（不含搭配、例句）",
       "preview": "报名 / 报纸 / 笔",
       "badge": "实用",
       "target": "word",
@@ -180,12 +180,12 @@
       "item_count": 222,
       "source_data": "content/words/packs/practical_16_v5/category_11.json",
       "category_id": "11",
-      "ready_content_count": 108
+      "ready_content_count": 0
     },
     {
       "id": "practical_12",
       "title": "手机网络与数码",
-      "subtitle": "180 个实用中缅单词",
+      "subtitle": "180 个中缅实用词（不含搭配、例句）",
       "preview": "按键手机 / 安装 / 版本",
       "badge": "实用",
       "target": "word",
@@ -196,12 +196,12 @@
       "item_count": 180,
       "source_data": "content/words/packs/practical_16_v5/category_12.json",
       "category_id": "12",
-      "ready_content_count": 30
+      "ready_content_count": 0
     },
     {
       "id": "practical_13",
       "title": "社交情绪与休闲",
-      "subtitle": "235 个实用中缅单词",
+      "subtitle": "235 个中缅实用词（不含搭配、例句）",
       "preview": "爱 / 爱好 / 爱情",
       "badge": "实用",
       "target": "word",
@@ -212,12 +212,12 @@
       "item_count": 235,
       "source_data": "content/words/packs/practical_16_v5/category_13.json",
       "category_id": "13",
-      "ready_content_count": 124
+      "ready_content_count": 0
     },
     {
       "id": "practical_14",
       "title": "办事证件与安全",
-      "subtitle": "190 个实用中缅单词",
+      "subtitle": "190 个中缅实用词（不含搭配、例句）",
       "preview": "帮忙 / 办结 / 办理",
       "badge": "实用",
       "target": "word",
@@ -228,12 +228,12 @@
       "item_count": 190,
       "source_data": "content/words/packs/practical_16_v5/category_14.json",
       "category_id": "14",
-      "ready_content_count": 43
+      "ready_content_count": 0
     },
     {
       "id": "practical_15",
       "title": "自然天气与动植物",
-      "subtitle": "110 个实用中缅单词",
+      "subtitle": "110 个中缅实用词（不含搭配、例句）",
       "preview": "安全出口 / 暴雨 / 暴雨预警",
       "badge": "实用",
       "target": "word",
@@ -244,12 +244,12 @@
       "item_count": 110,
       "source_data": "content/words/packs/practical_16_v5/category_15.json",
       "category_id": "15",
-      "ready_content_count": 43
+      "ready_content_count": 0
     },
     {
       "id": "practical_16",
       "title": "常用动作与描述",
-      "subtitle": "760 个实用中缅单词",
+      "subtitle": "760 个中缅实用词（不含搭配、例句）",
       "preview": "啊 / 矮 / 按",
       "badge": "实用",
       "target": "word",
@@ -260,7 +260,7 @@
       "item_count": 760,
       "source_data": "content/words/packs/practical_16_v5/category_16.json",
       "category_id": "16",
-      "ready_content_count": 477
+      "ready_content_count": 0
     }
   ]
 }
