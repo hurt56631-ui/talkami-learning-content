@@ -1,0 +1,1792 @@
+{
+  "theme_id": "24",
+  "lessons": [
+    {
+      "id": "24.1",
+      "title": "24.1 催菜与上菜进度",
+      "phrases": [
+        {
+          "id": "s24_1_0001",
+          "level": "must",
+          "text": "这个菜还没上。",
+          "alternatives": [
+            {
+              "text": "这道菜还没上。",
+              "id": "s24_1_0001_alt01",
+              "meaning_vi": "Món này chưa được phục vụ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您查一下。",
+              "id": "s24_1_0001_reply01",
+              "meaning_vi": "Để tôi kiểm tra giúp anh/chị ạ."
+            },
+            {
+              "text": "不好意思，我马上催厨房。",
+              "id": "s24_1_0001_reply02",
+              "meaning_vi": "Xin lỗi, tôi sẽ giục bếp ngay."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "zhè ge cài hái méi shàng",
+          "mistakes": [
+            {
+              "text": "“菜还没上”是菜尚未送到这一桌；“漏单”才是下单项目遗漏，不能因为没上菜就认定店家漏单。",
+              "text_vi": "“菜还没上” chỉ nghĩa là món chưa được mang tới bàn, chưa thể kết luận bếp đã bỏ sót đơn."
+            }
+          ],
+          "meaning_vi": "Món này vẫn chưa được mang lên.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0002",
+          "level": "must",
+          "text": "这道菜还要多久？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还要五分钟。",
+              "id": "s24_1_0002_reply01",
+              "meaning_vi": "Còn năm phút nữa."
+            },
+            {
+              "text": "厨房正在做，大概十分钟。",
+              "id": "s24_1_0002_reply02",
+              "meaning_vi": "Bếp đang nấu, khoảng mười phút nữa."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "zhè dào cài hái yào duō jiǔ",
+          "mistakes": [
+            {
+              "text": "“还要多久”问剩余时长，不是问几点上菜；对方可能只能给预计时间。",
+              "text_vi": "“还要多久” hỏi khoảng thời gian còn lại, không hỏi mấy giờ mang món; nhân viên có thể chỉ ước lượng."
+            }
+          ],
+          "meaning_vi": "Món này còn phải đợi bao lâu?",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0003",
+          "level": "must",
+          "text": "帮我催一下。",
+          "alternatives": [
+            {
+              "text": "能帮我催一下吗？",
+              "id": "s24_1_0003_alt01",
+              "meaning_vi": "Bạn giục bếp giúp tôi được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，马上帮您催。",
+              "id": "s24_1_0003_reply01",
+              "meaning_vi": "Vâng, tôi giục ngay cho anh/chị."
+            },
+            {
+              "text": "已经帮您催厨房了。",
+              "id": "s24_1_0003_reply02",
+              "meaning_vi": "Tôi đã giục bếp giúp anh/chị rồi."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "bāng wǒ cuī yí xià",
+          "mistakes": [
+            {
+              "text": "“催”是催促加快进度，不是让服务员亲自去做菜；“一下”让请求听起来柔和。",
+              "text_vi": "“催” là nhắc thúc đẩy tiến độ bếp, không phải yêu cầu nhân viên tự nấu. “一下” làm lời nhờ nhẹ nhàng."
+            }
+          ],
+          "meaning_vi": "Giục bếp giúp tôi với.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0004",
+          "level": "must",
+          "text": "我们等很久了。",
+          "alternatives": [
+            {
+              "text": "我等很久了。",
+              "id": "s24_1_0004_alt01",
+              "meaning_vi": "Tôi đợi lâu rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "非常抱歉，我马上帮您看。",
+              "id": "s24_1_0004_reply01",
+              "meaning_vi": "Thật sự xin lỗi, để tôi kiểm tra ngay."
+            },
+            {
+              "text": "不好意思，我去催一下。",
+              "id": "s24_1_0004_reply02",
+              "meaning_vi": "Xin lỗi, để tôi đi nhắc bếp."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "wǒ men děng hěn jiǔ le",
+          "mistakes": [
+            {
+              "text": "“等很久了”是在说明已等了很长时间，不一定是在责骂服务员；可以接“帮我们看一下好吗”。",
+              "text_vi": "“等很久了” nói đã đợi lâu, chưa chắc là mắng nhân viên; có thể thêm lời nhờ kiểm tra."
+            }
+          ],
+          "meaning_vi": "Chúng tôi đợi lâu lắm rồi.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0005",
+          "level": "must",
+          "text": "是不是漏单了？",
+          "alternatives": [
+            {
+              "text": "是不是漏了这道菜？",
+              "id": "s24_1_0005_alt01",
+              "meaning_vi": "Có phải quên làm món này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您查一下。",
+              "id": "s24_1_0005_reply01",
+              "meaning_vi": "Để tôi kiểm tra giúp anh/chị ạ."
+            },
+            {
+              "text": "不好意思，刚才确实漏单了。",
+              "id": "s24_1_0005_reply02",
+              "meaning_vi": "Xin lỗi, đúng là vừa nãy quán bỏ sót đơn."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "shì bu shì lòu dān le",
+          "mistakes": [
+            {
+              "text": "“是不是漏单了”带疑问、尚未确认；“漏单”是遗漏订单或菜品记录，不等于菜已卖完，也不宜直接指责服务员。",
+              "text_vi": "Câu này vẫn là nghi vấn về đơn bị bỏ sót, chưa xác nhận. “漏单” không phải hết hàng; đừng vội quy trách nhiệm."
+            }
+          ],
+          "meaning_vi": "Có phải đơn bị bỏ sót không?",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0006",
+          "level": "must",
+          "text": "这道菜下单了吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "已经下单了。",
+              "id": "s24_1_0006_reply01",
+              "meaning_vi": "Đã ghi đơn rồi."
+            },
+            {
+              "text": "我帮您确认一下。",
+              "id": "s24_1_0006_reply02",
+              "meaning_vi": "Để tôi xác nhận lại cho anh/chị."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "zhè dào cài xià dān le ma",
+          "mistakes": [
+            {
+              "text": "“下单”指订单提交到系统，不等于菜已开始烹饪或已端来。",
+              "text_vi": "“下单” chỉ là đã gửi đơn vào hệ thống, chưa chắc bếp bắt đầu nấu hoặc món đã được mang ra."
+            }
+          ],
+          "meaning_vi": "Món này đã được đặt chưa?",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0007",
+          "level": "must",
+          "text": "我们赶时间。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我帮您催一下。",
+              "id": "s24_1_0007_reply01",
+              "meaning_vi": "Vâng, để tôi giục bếp giúp anh/chị."
+            },
+            {
+              "text": "可以先给您上主食。",
+              "id": "s24_1_0007_reply02",
+              "meaning_vi": "Có thể mang cơm hoặc mì ra trước cho anh/chị."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "wǒ men gǎn shí jiān",
+          "mistakes": [
+            {
+              "text": "“赶时间”是时间紧、需要尽快用餐，并不是催人离开；店员应说明实际进度，不能保证瞬间做好。",
+              "text_vi": "“赶时间” nghĩa là đang gấp về thời gian; nhân viên nên báo tiến độ thật, không hứa món có ngay."
+            }
+          ],
+          "meaning_vi": "Chúng tôi đang vội.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0008",
+          "level": "must",
+          "text": "我们后点的菜都上了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不好意思，我查一下这道菜。",
+              "id": "s24_1_0008_reply01",
+              "meaning_vi": "Xin lỗi, để tôi kiểm tra món này."
+            },
+            {
+              "text": "可能漏单了，我马上确认。",
+              "id": "s24_1_0008_reply02",
+              "meaning_vi": "Có thể quên đơn, tôi sẽ xác nhận ngay."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "wǒ men hòu diǎn de cài dōu shàng le",
+          "mistakes": [
+            {
+              "text": "“后点的”指下单时间较晚的菜，不是“后面桌子点的菜”；这句暗示可能有漏单。",
+              "text_vi": "“后点的” là món gọi sau về thời gian, không phải món bàn phía sau gọi; việc này có thể gợi ý quán bỏ sót đơn."
+            }
+          ],
+          "meaning_vi": "Mấy món chúng tôi gọi sau đã lên hết rồi.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0009",
+          "level": "must",
+          "text": "能先上这道吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，我帮您跟厨房说。",
+              "id": "s24_1_0009_reply01",
+              "meaning_vi": "Được, để tôi báo bếp giúp anh/chị."
+            },
+            {
+              "text": "这道还要几分钟，先上别的可以吗？",
+              "id": "s24_1_0009_reply02",
+              "meaning_vi": "Món này còn vài phút nữa, mang món khác ra trước được không?"
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "néng xiān shàng zhè dào ma",
+          "mistakes": [
+            {
+              "text": "“先上”是调整上菜顺序，不是要求免费多送；是否能优先需厨房确认。",
+              "text_vi": "“先上” yêu cầu ưu tiên thứ tự phục vụ, không phải xin thêm món miễn phí; cần bếp xác nhận."
+            }
+          ],
+          "meaning_vi": "Mang món này lên trước được không?",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0010",
+          "level": "must",
+          "text": "这道菜如果没做就不要了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我先确认厨房是否开做。",
+              "id": "s24_1_0010_reply01",
+              "meaning_vi": "Vâng, để tôi xác nhận bếp đã bắt đầu làm chưa."
+            },
+            {
+              "text": "这道已经开始做了，我帮您问问能不能取消。",
+              "id": "s24_1_0010_reply02",
+              "meaning_vi": "Món này bếp làm rồi, để tôi hỏi xem có hủy được không."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "zhè dào cài rú guǒ méi zuò jiù bú yào le",
+          "mistakes": [
+            {
+              "text": "“如果没做就不要了”是附条件的取消请求；不表示已经取消成功，需店员确认。",
+              "text_vi": "Đây là yêu cầu hủy có điều kiện nếu bếp chưa làm; chưa chắc đã hủy thành công, phải xác nhận với nhân viên."
+            }
+          ],
+          "meaning_vi": "Nếu bếp chưa nấu món này thì thôi, không lấy nữa.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0011",
+          "level": "must",
+          "text": "能不能先上主食？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，先给您上米饭。",
+              "id": "s24_1_0011_reply01",
+              "meaning_vi": "Được, tôi mang cơm lên trước cho anh/chị."
+            },
+            {
+              "text": "可以，我马上安排。",
+              "id": "s24_1_0011_reply02",
+              "meaning_vi": "Được, tôi sắp xếp ngay."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "néng bu néng xiān shàng zhǔ shí",
+          "mistakes": [
+            {
+              "text": "“主食”通常指米饭、面条等，不是最贵的那一道菜；“能不能”比直接命令委婉。",
+              "text_vi": "“主食” là cơm, mì hoặc đồ tinh bột, không phải món đắt nhất; “能不能” làm câu hỏi lịch sự hơn."
+            }
+          ],
+          "meaning_vi": "Có thể mang cơm hoặc mì lên trước không?",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0012",
+          "level": "listen",
+          "text": "马上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我们等一下。",
+              "id": "s24_1_0012_reply01",
+              "meaning_vi": "Được, vậy chúng tôi đợi thêm chút."
+            },
+            {
+              "text": "谢谢，麻烦您了。",
+              "id": "s24_1_0012_reply02",
+              "meaning_vi": "Cảm ơn, phiền anh/chị nhé."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "mǎ shàng",
+          "mistakes": [
+            {
+              "text": "餐厅说“马上”通常指很快，并不承诺零等待；如果已有明显延误，可继续问“还要多久”。",
+              "text_vi": "“马上” trong nhà hàng thường nghĩa là sớm thôi, không bảo đảm hết thời gian chờ; có thể hỏi còn bao lâu."
+            }
+          ],
+          "meaning_vi": "Ngay đây.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0013",
+          "level": "listen",
+          "text": "厨房在做。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我们再等一会儿。",
+              "id": "s24_1_0013_reply01",
+              "meaning_vi": "Được, vậy chúng tôi đợi thêm lát nữa."
+            },
+            {
+              "text": "大概还要多久？",
+              "id": "s24_1_0013_reply02",
+              "meaning_vi": "Khoảng bao lâu nữa?"
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "chú fáng zài zuò",
+          "mistakes": [
+            {
+              "text": "“在做”表示正在制作中，不等于马上做完；顾客可以继续问还要多久。",
+              "text_vi": "“在做” nghĩa là bếp đang nấu, không có nghĩa sắp xong ngay."
+            }
+          ],
+          "meaning_vi": "Bếp đang làm.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0014",
+          "level": "listen",
+          "text": "还要五分钟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我们再等五分钟。",
+              "id": "s24_1_0014_reply01",
+              "meaning_vi": "Được, chúng tôi đợi thêm năm phút."
+            },
+            {
+              "text": "行，做好了告诉我。",
+              "id": "s24_1_0014_reply02",
+              "meaning_vi": "Ừ, làm xong báo tôi nhé."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "hái yào wǔ fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“还要五分钟”指从现在起再等五分钟，不是从下单开始总共五分钟。",
+              "text_vi": "“还要五分钟” là phải đợi thêm năm phút tính từ bây giờ, không phải cả quá trình chỉ mất năm phút."
+            }
+          ],
+          "meaning_vi": "Còn năm phút nữa.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0015",
+          "level": "listen",
+          "text": "不好意思，马上帮您催。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢您。",
+              "id": "s24_1_0015_reply01",
+              "meaning_vi": "Vâng, cảm ơn anh/chị."
+            },
+            {
+              "text": "麻烦帮我催快一点。",
+              "id": "s24_1_0015_reply02",
+              "meaning_vi": "Phiền bạn giục bếp làm nhanh hơn chút."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "bù hǎo yì si mǎ shàng bāng nín cuī",
+          "mistakes": [
+            {
+              "text": "“帮您催”是去催促厨房，不是已经确认菜何时送到；顾客可再问估计时间。 “不好意思”中的“思”通常读轻声 si。",
+              "text_vi": "“帮您催” nghĩa là sẽ thúc bếp, không phải đã biết chính xác lúc lên món. Trong “不好意思”, chữ “思” thường đọc nhẹ si."
+            }
+          ],
+          "meaning_vi": "Xin lỗi, tôi giục bếp ngay.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0016",
+          "level": "listen",
+          "text": "这道菜还要十分钟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我们再等十分钟。",
+              "id": "s24_1_0016_reply01",
+              "meaning_vi": "Được, chúng tôi chờ thêm mười phút."
+            },
+            {
+              "text": "我们赶时间，能不能再快一点？",
+              "id": "s24_1_0016_reply02",
+              "meaning_vi": "Chúng tôi đang vội, có thể làm nhanh hơn chút không?"
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "zhè dào cài hái yào shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“这道菜”只指当前那一道，不表示整桌所有菜都要再等十分钟。",
+              "text_vi": "“这道菜” chỉ món đang nói tới, không có nghĩa cả bàn phải đợi thêm mười phút."
+            }
+          ],
+          "meaning_vi": "Món này còn phải chờ mười phút.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0017",
+          "level": "listen",
+          "text": "刚才漏单了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那请尽快帮我们补上这道菜。",
+              "id": "s24_1_0017_reply01",
+              "meaning_vi": "Vậy phiền quán làm bù món này sớm nhất có thể."
+            },
+            {
+              "text": "已经漏单了，能帮我们确认还要多久吗？",
+              "id": "s24_1_0017_reply02",
+              "meaning_vi": "Đơn đã bị bỏ sót, kiểm tra giúp chúng tôi còn bao lâu nữa được không?"
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "gāng cái lòu dān le",
+          "mistakes": [
+            {
+              "text": "“漏单了”是订单遗漏，服务员应承担责任，不等同于菜卖完或厨房已经做好。",
+              "text_vi": "“漏单了” là quán bỏ sót đơn hoặc món; khác hết hàng hay món đã làm xong."
+            }
+          ],
+          "meaning_vi": "Lúc nãy quán bỏ sót đơn.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0018",
+          "level": "listen",
+          "text": "马上给您上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s24_1_0018_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "好，那我们等一下。",
+              "id": "s24_1_0018_reply02",
+              "meaning_vi": "Được, vậy chúng tôi đợi thêm chút."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "mǎ shàng gěi nín shàng",
+          "mistakes": [
+            {
+              "text": "“上菜”是把菜端到桌上，不是下订单；“您”表示礼貌称呼顾客。",
+              "text_vi": "“上菜” là mang món ra bàn, khác “下单” là ghi đơn. “您” là cách xưng hô lịch sự."
+            }
+          ],
+          "meaning_vi": "Tôi mang lên ngay cho anh/chị.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0019",
+          "level": "listen",
+          "text": "已经帮您催厨房了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢您帮忙。",
+              "id": "s24_1_0019_reply01",
+              "meaning_vi": "Vâng, cảm ơn anh/chị đã giúp."
+            },
+            {
+              "text": "好，麻烦了。",
+              "id": "s24_1_0019_reply02",
+              "meaning_vi": "Được, phiền bạn nhé."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "yǐ jīng bāng nín cuī chú fáng le",
+          "mistakes": [
+            {
+              "text": "“已经催了”表示催促的动作做过，不是菜已经做好或已经送上来。",
+              "text_vi": "Đã giục bếp không đồng nghĩa món đã hoàn thành hoặc đã được mang tới bàn."
+            }
+          ],
+          "meaning_vi": "Tôi đã giục bếp giúp anh/chị rồi.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        },
+        {
+          "id": "s24_1_0020",
+          "level": "listen",
+          "text": "先给您上其他菜。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，先上其他菜吧。",
+              "id": "s24_1_0020_reply01",
+              "meaning_vi": "Được, cứ mang món khác lên trước."
+            },
+            {
+              "text": "好，我们先吃其他的。",
+              "id": "s24_1_0020_reply02",
+              "meaning_vi": "Được, chúng tôi ăn món khác trước."
+            }
+          ],
+          "lesson_id": "24.1",
+          "lesson_title": "24.1 催菜与上菜进度",
+          "pinyin": "xiān gěi nín shàng qí tā cài",
+          "mistakes": [
+            {
+              "text": "“先上其他菜”表示只调整顺序，并没有取消尚未做好的那一道。",
+              "text_vi": "“先上其他菜” chỉ đổi thứ tự mang món, không phải hủy món còn đang đợi."
+            }
+          ],
+          "meaning_vi": "Tôi mang các món khác lên trước cho anh/chị.",
+          "lesson_title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+        }
+      ],
+      "opening": "学会向餐厅说明菜还没上、确认漏单与剩余等待时间，并在赶时间时礼貌催菜或询问能否取消。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Học cách báo món chưa lên, hỏi có bỏ sót đơn hay không, lịch sự giục bếp khi cần và hỏi khả năng hủy món."
+    },
+    {
+      "id": "24.2",
+      "title": "24.2 加水餐具与用餐请求",
+      "phrases": [
+        {
+          "id": "s24_2_0001",
+          "level": "must",
+          "text": "麻烦加点水。",
+          "alternatives": [
+            {
+              "text": "麻烦加一下水。",
+              "id": "s24_2_0001_alt01",
+              "meaning_vi": "Phiền rót thêm nước nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，马上给您加。",
+              "id": "s24_2_0001_reply01",
+              "meaning_vi": "Vâng, tôi rót thêm ngay cho anh/chị."
+            },
+            {
+              "text": "好，请稍等。",
+              "id": "s24_2_0001_reply02",
+              "meaning_vi": "Được, vui lòng đợi chút."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "má fan jiā diǎn shuǐ",
+          "mistakes": [
+            {
+              "text": "“加水”是往已有杯、壶添水；并不必然是另点收费的瓶装水。需热水或饮用水可以明确说明。",
+              "text_vi": "“加水” là rót thêm vào ly hoặc bình có sẵn, không tự động tính tiền như gọi chai nước mới."
+            }
+          ],
+          "meaning_vi": "Phiền thêm chút nước giúp tôi.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0002",
+          "level": "must",
+          "text": "麻烦拿双筷子。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，马上拿来。",
+              "id": "s24_2_0002_reply01",
+              "meaning_vi": "Vâng, tôi mang tới ngay."
+            },
+            {
+              "text": "好，还要别的吗？",
+              "id": "s24_2_0002_reply02",
+              "meaning_vi": "Được, còn cần gì khác không?"
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "má fan ná shuāng kuài zi",
+          "mistakes": [
+            {
+              "text": "“双”是成对物品的量词，“一双筷子”就是两支合用的一副；不是只要一支。",
+              "text_vi": "“双” là lượng từ cho vật thành đôi, “一双筷子” là một đôi đũa, không phải chỉ một chiếc."
+            }
+          ],
+          "meaning_vi": "Phiền lấy giúp một đôi đũa.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0003",
+          "level": "must",
+          "text": "给我一个勺子。",
+          "alternatives": [
+            {
+              "text": "麻烦拿个勺子。",
+              "id": "s24_2_0003_alt01",
+              "meaning_vi": "Phiền lấy giúp cái thìa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我马上给您拿来。",
+              "id": "s24_2_0003_reply01",
+              "meaning_vi": "Vâng, tôi mang đến ngay cho anh/chị."
+            },
+            {
+              "text": "好，稍等，我去拿一个。",
+              "id": "s24_2_0003_reply02",
+              "meaning_vi": "Vâng, đợi chút, tôi đi lấy một cái."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "gěi wǒ yì ge sháo zi",
+          "mistakes": [
+            {
+              "text": "“给我一个”语气比较直接，面对不熟悉的店员更适合说“麻烦拿个勺子”。",
+              "text_vi": "“给我一个” khá trực tiếp; với nhân viên không quen, “麻烦拿个勺子” lịch sự hơn."
+            }
+          ],
+          "meaning_vi": "Cho tôi một cái thìa.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0004",
+          "level": "must",
+          "text": "纸巾在哪里？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "桌上有纸巾。",
+              "id": "s24_2_0004_reply01",
+              "meaning_vi": "Trên bàn có khăn giấy."
+            },
+            {
+              "text": "我给您拿一些。",
+              "id": "s24_2_0004_reply02",
+              "meaning_vi": "Để tôi lấy thêm ít khăn giấy cho anh/chị."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "zhǐ jīn zài nǎ li",
+          "mistakes": [
+            {
+              "text": "“在哪里”是问纸巾的位置，不是直接要求服务员替你拿；需要对方拿可说“麻烦给我拿点纸巾”。",
+              "text_vi": "Câu này hỏi chỗ để khăn giấy, không trực tiếp nhờ nhân viên lấy khăn; muốn nhờ có thể nói thêm."
+            }
+          ],
+          "meaning_vi": "Khăn giấy ở đâu?",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0005",
+          "level": "must",
+          "text": "这个碗能换一下吗？",
+          "alternatives": [
+            {
+              "text": "能换个碗吗？",
+              "id": "s24_2_0005_alt01",
+              "meaning_vi": "Đổi bát khác được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我给您换一个。",
+              "id": "s24_2_0005_reply01",
+              "meaning_vi": "Được, tôi đổi bát khác cho anh/chị."
+            },
+            {
+              "text": "好的，请稍等。",
+              "id": "s24_2_0005_reply02",
+              "meaning_vi": "Vâng, xin đợi một chút."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "zhè ge wǎn néng huàn yí xià ma",
+          "mistakes": [
+            {
+              "text": "“换碗”是拿另一只碗替代原来的碗，不等于再要一个额外空碗。若碗破裂或不干净，可说明理由请服务员处理。",
+              "text_vi": "“换碗” là đổi bát khác thay bát cũ, không phải xin thêm một bát trống; có thể nêu lý do bát bẩn hoặc sứt mẻ."
+            }
+          ],
+          "meaning_vi": "Có thể đổi bát này được không?",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0006",
+          "level": "must",
+          "text": "有公筷吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，我给您拿。",
+              "id": "s24_2_0006_reply01",
+              "meaning_vi": "Có, tôi lấy cho anh/chị."
+            },
+            {
+              "text": "有，在桌边抽屉里。",
+              "id": "s24_2_0006_reply02",
+              "meaning_vi": "Có, trong ngăn kéo cạnh bàn."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "yǒu gōng kuài ma",
+          "mistakes": [
+            {
+              "text": "“公筷”是夹取公共菜肴用的专门筷子，和每个人放进嘴里的“私筷”分开；不是随便大家轮流用一双。",
+              "text_vi": "“公筷” là đũa chung chuyên để gắp món vào bát, cần tách khỏi đôi đũa cá nhân dùng để ăn."
+            }
+          ],
+          "meaning_vi": "Có đũa gắp chung không?",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0007",
+          "level": "must",
+          "text": "再来一壶热水。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，马上给您拿。",
+              "id": "s24_2_0007_reply01",
+              "meaning_vi": "Vâng, tôi mang ra ngay cho anh/chị."
+            },
+            {
+              "text": "好，请稍等。",
+              "id": "s24_2_0007_reply02",
+              "meaning_vi": "Được, vui lòng đợi chút."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "zài lái yì hú rè shuǐ",
+          "mistakes": [
+            {
+              "text": "“再来一壶”表示原来已有一壶、现在追加一壶；“热水”是热饮用水，不是“热汤”。",
+              "text_vi": "“再来一壶” là lấy thêm một bình ngoài bình đã có; “热水” là nước uống nóng, không phải canh."
+            }
+          ],
+          "meaning_vi": "Cho thêm một bình nước nóng.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0008",
+          "level": "must",
+          "text": "水壶可以拿过来吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，我给您拿过来。",
+              "id": "s24_2_0008_reply01",
+              "meaning_vi": "Được, tôi mang qua cho anh/chị."
+            },
+            {
+              "text": "可以，稍等一下。",
+              "id": "s24_2_0008_reply02",
+              "meaning_vi": "Được, đợi một chút nhé."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "shuǐ hú kě yǐ ná guò lái ma",
+          "mistakes": [
+            {
+              "text": "“拿过来”表示朝说话人的方向带过来；“拿过去”通常表示拿向另一处。",
+              "text_vi": "“拿过来” là mang về phía người nói, khác “拿过去” là mang ra chỗ khác."
+            }
+          ],
+          "meaning_vi": "Mang bình nước qua đây được không?",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0009",
+          "level": "must",
+          "text": "再拿一双筷子。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的。",
+              "id": "s24_2_0009_reply01",
+              "meaning_vi": "Vâng ạ."
+            },
+            {
+              "text": "马上拿来。",
+              "id": "s24_2_0009_reply02",
+              "meaning_vi": "Mang tới ngay."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "zài ná yì shuāng kuài zi",
+          "mistakes": [
+            {
+              "text": "“再”表示额外添加一双，不是把原来那双拿走；量词“一双”是完整一副。",
+              "text_vi": "“再” nghĩa là lấy thêm một đôi, không phải đổi đôi cũ; “一双” là cả một đôi."
+            }
+          ],
+          "meaning_vi": "Lấy thêm một đôi đũa.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0010",
+          "level": "must",
+          "text": "给我两个小碗。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，马上拿来。",
+              "id": "s24_2_0010_reply01",
+              "meaning_vi": "Vâng, tôi mang tới ngay."
+            },
+            {
+              "text": "好，还需要勺子吗？",
+              "id": "s24_2_0010_reply02",
+              "meaning_vi": "Được, có cần thêm thìa không?"
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "gěi wǒ liǎng ge xiǎo wǎn",
+          "mistakes": [
+            {
+              "text": "“两个小碗”指两只碗；碗用“个”可以，不能把“两碗”误当成两个空碗。",
+              "text_vi": "“两个小碗” là hai cái bát nhỏ trống, khác “两碗” có thể chỉ hai bát thức ăn."
+            }
+          ],
+          "meaning_vi": "Cho tôi hai cái bát nhỏ.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0011",
+          "level": "must",
+          "text": "纸巾用完了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我马上给您拿。",
+              "id": "s24_2_0011_reply01",
+              "meaning_vi": "Tôi đi lấy ngay cho anh/chị."
+            },
+            {
+              "text": "好的，我补一些。",
+              "id": "s24_2_0011_reply02",
+              "meaning_vi": "Vâng, tôi bổ sung thêm."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "zhǐ jīn yòng wán le",
+          "mistakes": [
+            {
+              "text": "“用完了”强调纸巾已被使用完，不是说纸巾放到别的地方找不到了。",
+              "text_vi": "“用完了” nghĩa là đã dùng hết khăn giấy, không phải không tìm thấy chúng."
+            }
+          ],
+          "meaning_vi": "Hết khăn giấy rồi.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0012",
+          "level": "listen",
+          "text": "好的，马上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s24_2_0012_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "好，麻烦您了。",
+              "id": "s24_2_0012_reply02",
+              "meaning_vi": "Vâng, phiền anh/chị nhé."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "hǎo de mǎ shàng",
+          "mistakes": [
+            {
+              "text": "这句常由服务员回答，省略了具体动作；“马上”表示很快，不保证此刻物品已经送到。",
+              "text_vi": "Lời nhân viên này lược hành động mang đồ ra; “马上” nghĩa là sắp tới, chưa phải đã mang ra."
+            }
+          ],
+          "meaning_vi": "Vâng, ngay đây ạ.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0013",
+          "level": "listen",
+          "text": "桌上有纸巾。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我看到了。",
+              "id": "s24_2_0013_reply01",
+              "meaning_vi": "Được, tôi thấy rồi."
+            },
+            {
+              "text": "谢谢。",
+              "id": "s24_2_0013_reply02",
+              "meaning_vi": "Cảm ơn."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "zhuō shàng yǒu zhǐ jīn",
+          "mistakes": [
+            {
+              "text": "“桌上有”说明已经在桌面上，不是说服务员会再去拿一盒。",
+              "text_vi": "“桌上有” cho biết khăn giấy đang có trên bàn, không có nghĩa nhân viên sẽ mang thêm."
+            }
+          ],
+          "meaning_vi": "Trên bàn có khăn giấy.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0014",
+          "level": "listen",
+          "text": "我给您换一个。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢您。",
+              "id": "s24_2_0014_reply01",
+              "meaning_vi": "Vâng, cảm ơn anh/chị."
+            },
+            {
+              "text": "麻烦了。",
+              "id": "s24_2_0014_reply02",
+              "meaning_vi": "Phiền bạn nhé."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "wǒ gěi nín huàn yì ge",
+          "mistakes": [
+            {
+              "text": "“换一个”表示拿新碗替代旧碗，“您”是礼貌称呼，不是再送一碗饭。",
+              "text_vi": "“换一个” là đổi bát thay bát cũ, không phải tặng thêm bát cơm; “您” là xưng hô lịch sự."
+            }
+          ],
+          "meaning_vi": "Tôi đổi cái khác cho anh/chị.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0015",
+          "level": "listen",
+          "text": "筷子在抽屉里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我自己拿。",
+              "id": "s24_2_0015_reply01",
+              "meaning_vi": "Được, tôi tự lấy."
+            },
+            {
+              "text": "找到了，谢谢。",
+              "id": "s24_2_0015_reply02",
+              "meaning_vi": "Tìm thấy rồi, cảm ơn."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "kuài zi zài chōu tì lǐ",
+          "mistakes": [
+            {
+              "text": "“抽屉”指能拉出来的柜格，不是厨房的储物间；“里”说明物品在内部。",
+              "text_vi": "“抽屉” là ngăn kéo có thể kéo ra, không phải kho chứa trong bếp; “里” nói ở bên trong."
+            }
+          ],
+          "meaning_vi": "Đũa nằm trong ngăn kéo.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0016",
+          "level": "listen",
+          "text": "马上给您加水。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢，我等一下。",
+              "id": "s24_2_0016_reply01",
+              "meaning_vi": "Được, cảm ơn, tôi đợi chút."
+            },
+            {
+              "text": "好，麻烦您。",
+              "id": "s24_2_0016_reply02",
+              "meaning_vi": "Vâng, phiền anh/chị nhé."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "mǎ shàng gěi nín jiā shuǐ",
+          "mistakes": [
+            {
+              "text": "“给您加水”是替顾客续水，“给您一瓶水”则可能是另送或另卖瓶装水。",
+              "text_vi": "“给您加水” là rót thêm nước cho khách, khác “给您一瓶水” là mang chai nước mới."
+            }
+          ],
+          "meaning_vi": "Tôi rót thêm nước ngay cho anh/chị.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0017",
+          "level": "listen",
+          "text": "小碗给您拿来了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，放这里就行。",
+              "id": "s24_2_0017_reply01",
+              "meaning_vi": "Được, để đây là được."
+            },
+            {
+              "text": "谢谢，正好要用。",
+              "id": "s24_2_0017_reply02",
+              "meaning_vi": "Cảm ơn, tôi đang cần dùng."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "xiǎo wǎn gěi nín ná lái le",
+          "mistakes": [
+            {
+              "text": "“拿来了”表示物品已经带到说话现场；与“马上拿来”（还没有带来）不同。",
+              "text_vi": "“拿来了” là đã mang vật tới nơi, khác “马上拿来” là sắp mang tới."
+            }
+          ],
+          "meaning_vi": "Tôi mang bát nhỏ đến cho anh/chị rồi.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        },
+        {
+          "id": "s24_2_0018",
+          "level": "listen",
+          "text": "热水马上来。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我们等一下。",
+              "id": "s24_2_0018_reply01",
+              "meaning_vi": "Được, chúng tôi đợi chút."
+            },
+            {
+              "text": "好，谢谢您。",
+              "id": "s24_2_0018_reply02",
+              "meaning_vi": "Vâng, cảm ơn anh/chị."
+            }
+          ],
+          "lesson_id": "24.2",
+          "lesson_title": "24.2 加水餐具与用餐请求",
+          "pinyin": "rè shuǐ mǎ shàng lái",
+          "mistakes": [
+            {
+              "text": "“热水马上来”是说稍后会送来热水，不是已经到了；烫水要小心，尤其不要让杯子靠近桌边。",
+              "text_vi": "“热水马上来” nghĩa là sắp có nước nóng, chưa phải đã tới; cẩn thận nước bỏng và mép bàn."
+            }
+          ],
+          "meaning_vi": "Nước nóng sẽ có ngay.",
+          "lesson_title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+        }
+      ],
+      "opening": "掌握用餐中续水、索要筷子和勺子、找纸巾及换碗的方法；听懂店员的位置提示与服务进度。",
+      "subtitle": "18张实用口语卡",
+      "title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn",
+      "subtitle_vi": "18 thẻ giao tiếp thực tế",
+      "opening_vi": "Luyện nhờ rót nước, lấy đũa, thìa, khăn giấy, đổi bát và hiểu những chỉ dẫn của nhân viên."
+    },
+    {
+      "id": "24.3",
+      "title": "24.3 菜品反馈、换菜与投诉",
+      "phrases": [
+        {
+          "id": "s24_3_0001",
+          "level": "must",
+          "text": "这个有点凉。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以帮您再热一下。",
+              "id": "s24_3_0001_reply01",
+              "meaning_vi": "Tôi có thể hâm nóng lại cho anh/chị."
+            },
+            {
+              "text": "不好意思，我帮您拿回去加热。",
+              "id": "s24_3_0001_reply02",
+              "meaning_vi": "Xin lỗi, để tôi mang vào hâm nóng lại."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "zhè ge yǒu diǎn liáng",
+          "mistakes": [
+            {
+              "text": "“有点凉”表示温度偏凉，不等于“坏了”；但凉菜本来就可能是冷的，应先确认菜品类型。",
+              "text_vi": "“有点凉” chỉ món hơi nguội, chưa có nghĩa hỏng; món ăn nguội có thể vốn được phục vụ lạnh."
+            }
+          ],
+          "meaning_vi": "Món này hơi nguội.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0002",
+          "level": "must",
+          "text": "肉还没熟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "非常抱歉，这道菜先别吃，我帮您换一份。",
+              "id": "s24_3_0002_reply01",
+              "meaning_vi": "Thành thật xin lỗi, anh/chị đừng ăn món này, tôi sẽ đổi phần khác."
+            },
+            {
+              "text": "我马上让厨房核实，给您重新做熟。",
+              "id": "s24_3_0002_reply02",
+              "meaning_vi": "Tôi sẽ nhờ bếp kiểm tra ngay và nấu lại cho chín."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "ròu hái méi shú",
+          "mistakes": [
+            {
+              "text": "“还没熟”是熟度不够，不是肉的温度凉；未熟肉可能不安全，别只随便再热一下便当作解决。",
+              "text_vi": "“还没熟” là thịt chưa chín, không phải chỉ nguội. Thịt chưa chín có nguy cơ mất an toàn, không nên coi hâm sơ là đủ."
+            }
+          ],
+          "meaning_vi": "Thịt vẫn chưa chín.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0003",
+          "level": "must",
+          "text": "这个菜上错了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "非常抱歉，我马上给您换。",
+              "id": "s24_3_0003_reply01",
+              "meaning_vi": "Thật sự xin lỗi, tôi đổi món cho anh/chị ngay."
+            },
+            {
+              "text": "不好意思，我核对一下订单。",
+              "id": "s24_3_0003_reply02",
+              "meaning_vi": "Xin lỗi, để tôi đối chiếu đơn hàng."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "zhè ge cài shàng cuò le",
+          "mistakes": [
+            {
+              "text": "“上错了”指端菜出错，不是菜本身味道差；先核对订单，不要未经确认就吃别桌的菜。",
+              "text_vi": "“上错了” là mang sai món, khác món dở; phải đối chiếu đơn, tránh ăn nhầm món của bàn khác."
+            }
+          ],
+          "meaning_vi": "Mang nhầm món rồi.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0004",
+          "level": "must",
+          "text": "我没点这个。",
+          "alternatives": [
+            {
+              "text": "这个不是我点的。",
+              "id": "s24_3_0004_alt01",
+              "meaning_vi": "Món này không phải tôi gọi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "不好意思，我马上核对。",
+              "id": "s24_3_0004_reply01",
+              "meaning_vi": "Xin lỗi, tôi kiểm tra lại ngay."
+            },
+            {
+              "text": "可能上错桌了，我给您换。",
+              "id": "s24_3_0004_reply02",
+              "meaning_vi": "Có lẽ mang nhầm bàn, tôi sẽ đổi lại cho anh/chị."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "wǒ méi diǎn zhè ge",
+          "mistakes": [
+            {
+              "text": "“我没点这个”是否认下单，不是说这道菜肯定免费赠送；先问清楚。",
+              "text_vi": "“我没点这个” là mình không gọi món này, không có nghĩa nhà hàng tặng miễn phí."
+            }
+          ],
+          "meaning_vi": "Tôi không gọi món này.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0005",
+          "level": "must",
+          "text": "菜里有异物。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "非常抱歉，请先不要吃，我马上找负责人处理。",
+              "id": "s24_3_0005_reply01",
+              "meaning_vi": "Thành thật xin lỗi, xin đừng ăn nữa, tôi sẽ gọi người phụ trách xử lý ngay."
+            },
+            {
+              "text": "不好意思，我请经理过来核实并处理。",
+              "id": "s24_3_0005_reply02",
+              "meaning_vi": "Xin lỗi, tôi mời quản lý tới kiểm tra và xử lý."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "cài lǐ yǒu yì wù",
+          "mistakes": [
+            {
+              "text": "“异物”是食物里不该有的外来东西，不是指香料或正常配菜；发现后应停止食用并要求核实。",
+              "text_vi": "“异物” là vật lạ không thuộc món ăn, không phải gia vị thông thường. Phát hiện thì dừng ăn và yêu cầu kiểm tra."
+            }
+          ],
+          "meaning_vi": "Trong món ăn có vật lạ.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0006",
+          "level": "must",
+          "text": "可以帮我换一份吗？",
+          "alternatives": [
+            {
+              "text": "能帮我换一份吗？",
+              "id": "s24_3_0006_alt01",
+              "meaning_vi": "Bạn đổi giúp tôi phần khác được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我帮您重新做一份。",
+              "id": "s24_3_0006_reply01",
+              "meaning_vi": "Được, tôi sẽ nhờ làm lại một phần cho anh/chị."
+            },
+            {
+              "text": "可以，请稍等。",
+              "id": "s24_3_0006_reply02",
+              "meaning_vi": "Được, xin đợi chút."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "kě yǐ bāng wǒ huàn yí fèn ma",
+          "mistakes": [
+            {
+              "text": "“换一份”是用另一份代替当前这份，不等于免费再加一份；原因最好明确说明。",
+              "text_vi": "“换一份” là đổi phần khác thay phần cũ, không phải lấy thêm một phần miễn phí."
+            }
+          ],
+          "meaning_vi": "Đổi cho tôi phần khác được không?",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0007",
+          "level": "must",
+          "text": "请叫一下经理。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我马上叫经理过来。",
+              "id": "s24_3_0007_reply01",
+              "meaning_vi": "Vâng, tôi gọi quản lý tới ngay."
+            },
+            {
+              "text": "好的，请稍等。",
+              "id": "s24_3_0007_reply02",
+              "meaning_vi": "Vâng, xin đợi một chút."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "qǐng jiào yí xià jīng lǐ",
+          "mistakes": [
+            {
+              "text": "“叫一下经理”是请经理过来处理，不等于报警；语气应平稳清楚说明问题。",
+              "text_vi": "Nhờ gọi quản lý tới xử lý, không phải báo cảnh sát; nên giữ bình tĩnh và nói rõ vấn đề."
+            }
+          ],
+          "meaning_vi": "Vui lòng gọi quản lý giúp.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0008",
+          "level": "must",
+          "text": "味道不错。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢您喜欢！",
+              "id": "s24_3_0008_reply01",
+              "meaning_vi": "Cảm ơn anh/chị đã thích món!"
+            },
+            {
+              "text": "谢谢，欢迎下次再来。",
+              "id": "s24_3_0008_reply02",
+              "meaning_vi": "Cảm ơn, hẹn gặp lại lần sau ạ."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "wèi dao bú cuò",
+          "mistakes": [
+            {
+              "text": "“不错”是肯定评价，意思是“挺好”；不能逐字当成“没有错误”。 食物味觉义的“味道”中“道”通常读轻声 dao。",
+              "text_vi": "“不错” ở đây là lời khen “khá ngon”, không phải “không có lỗi”. Chữ “道” trong “味道” thường đọc nhẹ dao."
+            }
+          ],
+          "meaning_vi": "Vị ngon đấy.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0009",
+          "level": "must",
+          "text": "这个闻起来不太对。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不好意思，请先不要吃，我帮您核实。",
+              "id": "s24_3_0009_reply01",
+              "meaning_vi": "Xin lỗi, anh/chị đừng ăn vội, tôi sẽ kiểm tra."
+            },
+            {
+              "text": "我叫经理来确认，给您安排合适的处理。",
+              "id": "s24_3_0009_reply02",
+              "meaning_vi": "Tôi gọi quản lý tới xác nhận và tìm cách giải quyết phù hợp."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "zhè ge wén qǐ lai bú tài duì",
+          "mistakes": [
+            {
+              "text": "“闻起来不太对”只报告闻到异常，不能凭气味确定原因；可疑食物不要继续品尝来验证。",
+              "text_vi": "“闻起来不太对” chỉ nói có mùi bất thường, chưa biết nguyên nhân; đừng nếm thêm để thử thực phẩm đáng ngờ."
+            }
+          ],
+          "meaning_vi": "Món này có mùi lạ.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0010",
+          "level": "must",
+          "text": "里面还是冷的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不好意思，我让厨房检查并重新处理。",
+              "id": "s24_3_0010_reply01",
+              "meaning_vi": "Xin lỗi, tôi sẽ nhờ bếp kiểm tra và xử lý lại."
+            },
+            {
+              "text": "我帮您确认是否需要重新做一份。",
+              "id": "s24_3_0010_reply02",
+              "meaning_vi": "Để tôi kiểm tra có cần làm lại một phần không."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "lǐ miàn hái shi lěng de",
+          "mistakes": [
+            {
+              "text": "“里面还是冷的”指中心仍冷，不只是外面凉；肉类若也未熟，不宜仅表面加热就食用。",
+              "text_vi": "“里面还是冷的” nói phần giữa vẫn lạnh. Thịt sống chưa chín không nên chỉ hâm nóng bề mặt rồi ăn."
+            }
+          ],
+          "meaning_vi": "Bên trong vẫn còn lạnh.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0011",
+          "level": "must",
+          "text": "能帮我加热一下吗？",
+          "alternatives": [
+            {
+              "text": "可以帮我加热一下吗？",
+              "id": "s24_3_0011_alt01",
+              "meaning_vi": "Có thể hâm nóng lại giúp tôi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，马上帮您加热。",
+              "id": "s24_3_0011_reply01",
+              "meaning_vi": "Được, tôi hâm nóng ngay."
+            },
+            {
+              "text": "可以，请稍等几分钟。",
+              "id": "s24_3_0011_reply02",
+              "meaning_vi": "Được, xin đợi vài phút."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "néng bāng wǒ jiā rè yí xià ma",
+          "mistakes": [
+            {
+              "text": "“加热”是升高温度，与“重新做”不是一回事；疑似变质或受污染的食物不应靠简单加热解决。",
+              "text_vi": "“加热” là làm nóng hơn, khác làm lại từ đầu. Thực phẩm hỏng hoặc nhiễm bẩn không thể xử lý chỉ bằng hâm nóng."
+            }
+          ],
+          "meaning_vi": "Hâm nóng giúp tôi được không?",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0012",
+          "level": "listen",
+          "text": "口味还可以吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有点咸。",
+              "id": "s24_3_0012_reply01",
+              "meaning_vi": "Hơi mặn."
+            },
+            {
+              "text": "还可以，谢谢。",
+              "id": "s24_3_0012_reply02",
+              "meaning_vi": "Cũng ổn, cảm ơn."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "kǒu wèi hái kě yǐ ma",
+          "mistakes": [
+            {
+              "text": "“还可以吗”在这里是询问满意度，不是问顾客还可以多点几道菜。",
+              "text_vi": "Câu này hỏi khách có hài lòng khẩu vị không, không phải hỏi còn gọi thêm món được không."
+            }
+          ],
+          "meaning_vi": "Món ăn có hợp khẩu vị không?",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0013",
+          "level": "listen",
+          "text": "需要加热吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要，麻烦加热一下。",
+              "id": "s24_3_0013_reply01",
+              "meaning_vi": "Có, phiền hâm nóng giúp."
+            },
+            {
+              "text": "不用，这样就可以。",
+              "id": "s24_3_0013_reply02",
+              "meaning_vi": "Không cần, thế này là được."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "xū yào jiā rè ma",
+          "mistakes": [
+            {
+              "text": "“需要……吗”是让顾客选择；如果是未熟或异物问题，不能只当作加热问题。",
+              "text_vi": "“需要……吗” cho khách lựa chọn; nếu món chưa chín hay có vật lạ, không thể xem chỉ là vấn đề hâm nóng."
+            }
+          ],
+          "meaning_vi": "Có cần hâm nóng không?",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0014",
+          "level": "listen",
+          "text": "我让厨房看一下。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，麻烦您了。",
+              "id": "s24_3_0014_reply01",
+              "meaning_vi": "Vâng, phiền anh/chị nhé."
+            },
+            {
+              "text": "好的，我等一下。",
+              "id": "s24_3_0014_reply02",
+              "meaning_vi": "Được, tôi đợi một lát."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "wǒ ràng chú fáng kàn yí xià",
+          "mistakes": [
+            {
+              "text": "“看一下”在这里是查看并核实情况，不是保证已经换菜或已经处理完。",
+              "text_vi": "“看一下” là xem và xác minh, không cam kết đã đổi món hoặc giải quyết xong."
+            }
+          ],
+          "meaning_vi": "Để tôi nhờ bếp kiểm tra.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0015",
+          "level": "listen",
+          "text": "这是正常口味。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我明白，不过对我来说太咸了，能调整吗？",
+              "id": "s24_3_0015_reply01",
+              "meaning_vi": "Tôi hiểu, nhưng với tôi món này mặn quá, có chỉnh được không?"
+            },
+            {
+              "text": "那可以换一道清淡一点的吗？",
+              "id": "s24_3_0015_reply02",
+              "meaning_vi": "Vậy đổi sang món nhạt hơn được không?"
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "zhè shì zhèng cháng kǒu wèi",
+          "mistakes": [
+            {
+              "text": "“正常口味”只说明是店里的标准做法，不等于客人必须接受，也不能用来否认食品安全问题。",
+              "text_vi": "“正常口味” là cách nêm của quán, không ép khách phải chấp nhận, càng không phủ nhận lỗi an toàn thực phẩm."
+            }
+          ],
+          "meaning_vi": "Đây là hương vị bình thường của món này.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0016",
+          "level": "listen",
+          "text": "可以帮您再热一下。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，麻烦您了。",
+              "id": "s24_3_0016_reply01",
+              "meaning_vi": "Vâng, phiền anh/chị nhé."
+            },
+            {
+              "text": "可以，谢谢。",
+              "id": "s24_3_0016_reply02",
+              "meaning_vi": "Được, cảm ơn."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "kě yǐ bāng nín zài rè yí xià",
+          "mistakes": [
+            {
+              "text": "“再热一下”只解决温度低的情况，不等于可以挽救变质或未熟食物。",
+              "text_vi": "“再热一下” chỉ xử lý món hơi nguội, không phải cách cứu món hỏng hoặc chưa chín."
+            }
+          ],
+          "meaning_vi": "Tôi có thể hâm nóng lại cho anh/chị.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0017",
+          "level": "listen",
+          "text": "我帮您重新做一份。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s24_3_0017_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "可以，麻烦您了。",
+              "id": "s24_3_0017_reply02",
+              "meaning_vi": "Được, phiền anh/chị nhé."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "wǒ bāng nín chóng xīn zuò yí fèn",
+          "mistakes": [
+            {
+              "text": "“重新做一份”是从头做新的一份，不是只给旧菜加热，也不一定是额外收费。",
+              "text_vi": "“重新做一份” là làm phần mới từ đầu, không phải hâm lại món cũ; không nhất thiết tính thêm tiền."
+            }
+          ],
+          "meaning_vi": "Tôi sẽ nhờ làm lại một phần cho anh/chị.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0018",
+          "level": "listen",
+          "text": "这个是凉菜。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "哦，我知道了。",
+              "id": "s24_3_0018_reply01",
+              "meaning_vi": "À, tôi hiểu rồi."
+            },
+            {
+              "text": "那不用加热了。",
+              "id": "s24_3_0018_reply02",
+              "meaning_vi": "Vậy không cần hâm nóng nữa."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "zhè ge shì liáng cài",
+          "mistakes": [
+            {
+              "text": "“凉菜”是菜品本来设计成冷食的菜，并非所有“凉菜”都是拌菜，也不等于不新鲜；异常气味仍须报告。",
+              "text_vi": "“凉菜” là món được thiết kế để ăn nguội, không đồng nghĩa thực phẩm không tươi. Nếu có mùi lạ vẫn cần báo."
+            }
+          ],
+          "meaning_vi": "Đây là món nguội.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0019",
+          "level": "listen",
+          "text": "非常抱歉。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没关系，帮我换一下就行。",
+              "id": "s24_3_0019_reply01",
+              "meaning_vi": "Không sao, chỉ cần đổi giúp tôi thôi."
+            },
+            {
+              "text": "麻烦帮我处理一下。",
+              "id": "s24_3_0019_reply02",
+              "meaning_vi": "Phiền bạn giải quyết giúp tôi."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "fēi cháng bào qiàn",
+          "mistakes": [
+            {
+              "text": "“非常抱歉”是强烈道歉，本身不表示问题已经处理完；仍需要具体解决方案。",
+              "text_vi": "“非常抱歉” là xin lỗi mạnh, bản thân không có nghĩa vấn đề đã được xử lý."
+            }
+          ],
+          "meaning_vi": "Thành thật xin lỗi.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        },
+        {
+          "id": "s24_3_0020",
+          "level": "listen",
+          "text": "我马上给您换。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s24_3_0020_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "好的，麻烦您了。",
+              "id": "s24_3_0020_reply02",
+              "meaning_vi": "Vâng, phiền anh/chị nhé."
+            }
+          ],
+          "lesson_id": "24.3",
+          "lesson_title": "24.3 菜品反馈、换菜与投诉",
+          "pinyin": "wǒ mǎ shàng gěi nín huàn",
+          "mistakes": [
+            {
+              "text": "“给您换”是在更换有问题的菜，不是免费再赠送一份；换菜可能仍需制作时间。",
+              "text_vi": "“给您换” là đổi món có vấn đề, không phải tặng thêm; vẫn có thể cần thời gian để nấu món thay thế."
+            }
+          ],
+          "meaning_vi": "Tôi đổi ngay cho anh/chị.",
+          "lesson_title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+        }
+      ],
+      "opening": "学会说明上错菜、食物不够热、未熟和有异物，并正确提出加热、换菜或找经理；区分凉菜与异常食物。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "24.3 Góp ý, đổi món và khiếu nại",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Báo món mang nhầm, nguội, chưa chín hoặc có vật lạ; đề nghị đổi, hâm lại hoặc gặp quản lý, phân biệt món nguội có chủ ý với thực phẩm bất thường."
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T15:10:07.488Z",
+  "theme_title": "24 餐厅用餐",
+  "source_phrase_count": 62,
+  "quality_standard": "Independent Vietnamese adaptation of restaurant dining theme 24; all Chinese, pinyin, main/nested IDs, levels, order and card_count preserved; 58 restaurant safety usage notes included. Native Vietnamese linguistic, audio and app QA pending.",
+  "card_count": 58,
+  "lesson_counts": {
+    "24.1": 20,
+    "24.2": 18,
+    "24.3": 20
+  },
+  "theme_title_vi": "24 Dùng bữa tại nhà hàng"
+}
