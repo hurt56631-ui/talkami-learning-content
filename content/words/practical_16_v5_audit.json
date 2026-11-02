@@ -1,0 +1,475 @@
+{
+  "version": "v5",
+  "date": "2026-11-02",
+  "source": "Talkami_实用中缅四列词典_4500条_V4_完整精校版.txt",
+  "hsk_source_files": [
+    {
+      "level": "1",
+      "path": "content/words/packs/hsk1_3_0.json",
+      "word_count": 300,
+      "sha": "88ee08824333e480b28639ed0016d797433ea0f8"
+    },
+    {
+      "level": "2",
+      "path": "content/words/packs/hsk2_3_0.json",
+      "word_count": 200,
+      "sha": "55feec23ab0eb0e945b68b2bde1d2fdedf839323"
+    },
+    {
+      "level": "3",
+      "path": "content/words/packs/hsk3_3_0.json",
+      "word_count": 500,
+      "sha": "dbf0afc366023a8b70791610f2838a98b3eb2d3c"
+    },
+    {
+      "level": "4",
+      "path": "content/words/packs/hsk4_3_0.json",
+      "word_count": 1000,
+      "sha": "517e935d294ad5841a380273222177e400730433"
+    }
+  ],
+  "totals": {
+    "words": 4500,
+    "major_categories": 16,
+    "minor_categories": 163,
+    "with_2_collocations_2_examples": 1490,
+    "need_2plus2": 3010,
+    "reused_collocations": 2980,
+    "reused_examples": 2980,
+    "new_collocations_needed": 6020,
+    "new_examples_needed": 6020,
+    "reclassifications": 26,
+    "pinyin_differences": 14,
+    "phonetic_syllable_mismatch": 0
+  },
+  "matched_by_level": {
+    "1": 278,
+    "2": 169,
+    "3": 390,
+    "4": 653
+  },
+  "categories": [
+    {
+      "id": "01",
+      "name": "基础中文与交流",
+      "words": 225,
+      "ready_words": 72
+    },
+    {
+      "id": "02",
+      "name": "数字时间与方位",
+      "words": 380,
+      "ready_words": 218
+    },
+    {
+      "id": "03",
+      "name": "人物家庭与身份",
+      "words": 143,
+      "ready_words": 78
+    },
+    {
+      "id": "04",
+      "name": "饮食食材与餐饮",
+      "words": 350,
+      "ready_words": 63
+    },
+    {
+      "id": "05",
+      "name": "居家生活与日用品",
+      "words": 247,
+      "ready_words": 27
+    },
+    {
+      "id": "06",
+      "name": "衣服穿戴与个人护理",
+      "words": 195,
+      "ready_words": 23
+    },
+    {
+      "id": "07",
+      "name": "购物金钱与物流",
+      "words": 290,
+      "ready_words": 27
+    },
+    {
+      "id": "08",
+      "name": "交通出行与地点",
+      "words": 260,
+      "ready_words": 78
+    },
+    {
+      "id": "09",
+      "name": "工作求职与工厂",
+      "words": 458,
+      "ready_words": 35
+    },
+    {
+      "id": "10",
+      "name": "身体健康与医疗",
+      "words": 255,
+      "ready_words": 44
+    },
+    {
+      "id": "11",
+      "name": "学习语言与教育",
+      "words": 222,
+      "ready_words": 108
+    },
+    {
+      "id": "12",
+      "name": "手机网络与数码",
+      "words": 180,
+      "ready_words": 30
+    },
+    {
+      "id": "13",
+      "name": "社交情绪与休闲",
+      "words": 235,
+      "ready_words": 124
+    },
+    {
+      "id": "14",
+      "name": "办事证件与安全",
+      "words": 190,
+      "ready_words": 43
+    },
+    {
+      "id": "15",
+      "name": "自然天气与动植物",
+      "words": 110,
+      "ready_words": 43
+    },
+    {
+      "id": "16",
+      "name": "常用动作与描述",
+      "words": 760,
+      "ready_words": 477
+    }
+  ],
+  "changed_categories": [
+    {
+      "hanzi": "同事",
+      "from": "03.01",
+      "to": "03.02",
+      "from_title": "家人亲戚与婚恋身份",
+      "to_title": "职业称呼与人员身份"
+    },
+    {
+      "hanzi": "朋友",
+      "from": "03.01",
+      "to": "13.01",
+      "from_title": "家人亲戚与婚恋身份",
+      "to_title": "关系建立与社交往来"
+    },
+    {
+      "hanzi": "房东",
+      "from": "03.01",
+      "to": "05.05",
+      "from_title": "家人亲戚与婚恋身份",
+      "to_title": "租房宿舍与居住环境"
+    },
+    {
+      "hanzi": "租客",
+      "from": "03.01",
+      "to": "05.05",
+      "from_title": "家人亲戚与婚恋身份",
+      "to_title": "租房宿舍与居住环境"
+    },
+    {
+      "hanzi": "习惯",
+      "from": "03.02",
+      "to": "13.07",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "文化习惯与人生观念"
+    },
+    {
+      "hanzi": "部门",
+      "from": "03.02",
+      "to": "09.04",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "工作安排与职场协作"
+    },
+    {
+      "hanzi": "单位",
+      "from": "03.02",
+      "to": "09.04",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "工作安排与职场协作"
+    },
+    {
+      "hanzi": "岗位",
+      "from": "03.02",
+      "to": "09.04",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "工作安排与职场协作"
+    },
+    {
+      "hanzi": "语言",
+      "from": "03.02",
+      "to": "11.06",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "语言媒介与文字资料"
+    },
+    {
+      "hanzi": "专业",
+      "from": "03.02",
+      "to": "11.03",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "学习课程练习与考试"
+    },
+    {
+      "hanzi": "性格",
+      "from": "03.02",
+      "to": "13.02",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "性格品德与情绪描述"
+    },
+    {
+      "hanzi": "青春",
+      "from": "03.02",
+      "to": "13.07",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "文化习惯与人生观念"
+    },
+    {
+      "hanzi": "爱好",
+      "from": "03.02",
+      "to": "13.09",
+      "from_title": "职业称呼与人员身份",
+      "to_title": "影音游戏与休闲娱乐"
+    },
+    {
+      "hanzi": "肉",
+      "from": "04.06",
+      "to": "04.03",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "肉蛋奶与水产"
+    },
+    {
+      "hanzi": "蛋",
+      "from": "04.06",
+      "to": "04.03",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "肉蛋奶与水产"
+    },
+    {
+      "hanzi": "面",
+      "from": "04.06",
+      "to": "04.04",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "米面主食与熟食"
+    },
+    {
+      "hanzi": "汤",
+      "from": "04.06",
+      "to": "04.04",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "米面主食与熟食"
+    },
+    {
+      "hanzi": "盐",
+      "from": "04.06",
+      "to": "04.05",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "调料香料与干货"
+    },
+    {
+      "hanzi": "糖",
+      "from": "04.06",
+      "to": "04.05",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "调料香料与干货"
+    },
+    {
+      "hanzi": "醋",
+      "from": "04.06",
+      "to": "04.05",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "调料香料与干货"
+    },
+    {
+      "hanzi": "早餐",
+      "from": "04.06",
+      "to": "04.04",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "米面主食与熟食"
+    },
+    {
+      "hanzi": "蔬菜",
+      "from": "04.06",
+      "to": "04.02",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "蔬菜豆制品与菌菇"
+    },
+    {
+      "hanzi": "午餐",
+      "from": "04.06",
+      "to": "04.04",
+      "from_title": "零食饮料与常见食品",
+      "to_title": "米面主食与熟食"
+    },
+    {
+      "hanzi": "存款",
+      "from": "07.01",
+      "to": "07.07",
+      "from_title": "挑选商品询价与促销",
+      "to_title": "银行支付与现金业务"
+    },
+    {
+      "hanzi": "金钱",
+      "from": "07.01",
+      "to": "07.14",
+      "from_title": "挑选商品询价与促销",
+      "to_title": "财务银行与金融"
+    },
+    {
+      "hanzi": "花费",
+      "from": "07.01",
+      "to": "07.03",
+      "from_title": "挑选商品询价与促销",
+      "to_title": "价格计算与计费"
+    }
+  ],
+  "pinyin_variant_review": [
+    {
+      "hanzi": "喂",
+      "source_pinyin": "wéi",
+      "hsk_pinyin": [
+        {
+          "level": "1",
+          "pinyin": "wèi"
+        }
+      ]
+    },
+    {
+      "hanzi": "多少",
+      "source_pinyin": "duō shǎo",
+      "hsk_pinyin": [
+        {
+          "level": "1",
+          "pinyin": "duōshao"
+        }
+      ]
+    },
+    {
+      "hanzi": "费用",
+      "source_pinyin": "fèi yòng",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "fèiyong"
+        }
+      ]
+    },
+    {
+      "hanzi": "价钱",
+      "source_pinyin": "jià qian",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "jiàqián"
+        }
+      ]
+    },
+    {
+      "hanzi": "路上",
+      "source_pinyin": "lù shàng",
+      "hsk_pinyin": [
+        {
+          "level": "2",
+          "pinyin": "lùshang"
+        }
+      ]
+    },
+    {
+      "hanzi": "任务",
+      "source_pinyin": "rèn wù",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "rènwu"
+        }
+      ]
+    },
+    {
+      "hanzi": "血",
+      "source_pinyin": "xuè",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "xiě"
+        }
+      ]
+    },
+    {
+      "hanzi": "网上",
+      "source_pinyin": "wǎng shàng",
+      "hsk_pinyin": [
+        {
+          "level": "2",
+          "pinyin": "wǎngshang"
+        }
+      ]
+    },
+    {
+      "hanzi": "关系",
+      "source_pinyin": "guān xi",
+      "hsk_pinyin": [
+        {
+          "level": "3",
+          "pinyin": "guānxì"
+        }
+      ]
+    },
+    {
+      "hanzi": "喜欢",
+      "source_pinyin": "xǐ huān",
+      "hsk_pinyin": [
+        {
+          "level": "1",
+          "pinyin": "xǐhuan"
+        }
+      ]
+    },
+    {
+      "hanzi": "受不了",
+      "source_pinyin": "shòu bù liǎo",
+      "hsk_pinyin": [
+        {
+          "level": "4",
+          "pinyin": "shòubuliǎo"
+        }
+      ]
+    },
+    {
+      "hanzi": "故事",
+      "source_pinyin": "gù shì",
+      "hsk_pinyin": [
+        {
+          "level": "3",
+          "pinyin": "gùshi"
+        }
+      ]
+    },
+    {
+      "hanzi": "脏",
+      "source_pinyin": "zàng",
+      "hsk_pinyin": [
+        {
+          "level": "3",
+          "pinyin": "zāng"
+        }
+      ]
+    },
+    {
+      "hanzi": "下去",
+      "source_pinyin": "xià qu",
+      "hsk_pinyin": [
+        {
+          "level": "2",
+          "pinyin": "xiàqù"
+        }
+      ]
+    }
+  ]
+}
