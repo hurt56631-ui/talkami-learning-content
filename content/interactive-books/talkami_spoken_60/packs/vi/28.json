@@ -1,0 +1,2098 @@
+{
+  "theme_id": "28",
+  "version": 1,
+  "updated_at": "2026-11-02T15:24:11.551Z",
+  "theme_title": "28 服装鞋店",
+  "quality_standard": "Vietnamese adaptation of source clothing theme 28. Preserves all source Chinese phrases, pinyin, IDs, levels, lesson and card order, nested IDs, card_count; translates full 64 teaching notes. Native Vietnamese linguistic, audio and app runtime checks pending.",
+  "source_phrase_count": 65,
+  "lessons": [
+    {
+      "id": "28.1",
+      "title": "28.1 颜色款式",
+      "phrases": [
+        {
+          "id": "s28_1_0001",
+          "level": "must",
+          "text": "有黑色的吗？",
+          "alternatives": [
+            {
+              "text": "黑色的还有吗？",
+              "id": "s28_1_0001_alt01",
+              "meaning_vi": "Còn màu đen không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，黑色的在这边。",
+              "id": "s28_1_0001_reply01",
+              "meaning_vi": "Có, màu đen ở bên này."
+            },
+            {
+              "text": "不好意思，黑色卖完了。",
+              "id": "s28_1_0001_reply02",
+              "meaning_vi": "Xin lỗi, màu đen hết hàng rồi."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“有黑色的吗”是在问这件款式有没有黑色，不是问店里有没有任何黑色衣服；无货可问同款其他颜色。",
+              "text_vi": "“有黑色的吗？” hỏi mẫu này có màu đen không, không phải hỏi cả cửa hàng có quần áo màu đen hay không."
+            }
+          ],
+          "pinyin": "yǒu hēi sè de ma",
+          "meaning_vi": "Có màu đen không?",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0002",
+          "level": "must",
+          "text": "我想看这个款。",
+          "alternatives": [
+            {
+              "text": "我想看看这款。",
+              "id": "s28_1_0002_alt01",
+              "meaning_vi": "Cho tôi xem mẫu này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我拿给您看。",
+              "id": "s28_1_0002_reply01",
+              "meaning_vi": "Vâng, tôi mang đến cho anh/chị xem."
+            },
+            {
+              "text": "这款在那边的架子上。",
+              "id": "s28_1_0002_reply02",
+              "meaning_vi": "Mẫu này ở trên kệ bên kia."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“款”是衣服或鞋的设计款式，不等于尺码；同款可以有多种颜色和尺寸。",
+              "text_vi": "“款” là kiểu hoặc mẫu thiết kế của quần áo, giày dép, khác cỡ size. Một mẫu có thể có nhiều màu và size."
+            }
+          ],
+          "pinyin": "wǒ xiǎng kàn zhè ge kuǎn",
+          "meaning_vi": "Tôi muốn xem mẫu này.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0003",
+          "level": "must",
+          "text": "有别的颜色吗？",
+          "alternatives": [
+            {
+              "text": "还有其他颜色吗？",
+              "id": "s28_1_0003_alt01",
+              "meaning_vi": "Còn những màu nào khác?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，还有白色和蓝色。",
+              "id": "s28_1_0003_reply01",
+              "meaning_vi": "Có, còn màu trắng và màu xanh dương."
+            },
+            {
+              "text": "不好意思，这款只有这一种颜色。",
+              "id": "s28_1_0003_reply02",
+              "meaning_vi": "Xin lỗi, mẫu này chỉ có một màu này."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“别的颜色”问同一款式的其他颜色，不等于换成另一款；店员应确认颜色库存。",
+              "text_vi": "“别的颜色” là màu khác của cùng mẫu, không phải đổi sang mẫu thiết kế khác. Cần kiểm tra còn hàng không."
+            }
+          ],
+          "pinyin": "yǒu bié de yán sè ma",
+          "meaning_vi": "Còn màu khác không?",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0004",
+          "level": "must",
+          "text": "我要长袖的。",
+          "alternatives": [
+            {
+              "text": "我想要长袖的。",
+              "id": "s28_1_0004_alt01",
+              "meaning_vi": "Tôi muốn loại tay dài."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，这边有长袖的。",
+              "id": "s28_1_0004_reply01",
+              "meaning_vi": "Vâng, đồ tay dài ở bên này."
+            },
+            {
+              "text": "这款只有短袖，我帮您找别的长袖款。",
+              "id": "s28_1_0004_reply02",
+              "meaning_vi": "Mẫu này chỉ có tay ngắn, tôi tìm mẫu tay dài khác giúp anh/chị."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“长袖”指袖子长短，和衣服整体下摆的长短不是同一个尺寸。",
+              "text_vi": "“长袖” là tay áo dài, khác chiều dài toàn bộ thân áo."
+            }
+          ],
+          "pinyin": "wǒ yào cháng xiù de",
+          "meaning_vi": "Tôi lấy loại tay dài.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0005",
+          "level": "must",
+          "text": "有没有不带图案的？",
+          "alternatives": [
+            {
+              "text": "有纯色的吗？",
+              "id": "s28_1_0005_alt01",
+              "meaning_vi": "Có loại màu trơn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，纯色的在这里。",
+              "id": "s28_1_0005_reply01",
+              "meaning_vi": "Có, đồ màu trơn ở đây."
+            },
+            {
+              "text": "这款都有图案，您可以看看别的款。",
+              "id": "s28_1_0005_reply02",
+              "meaning_vi": "Mẫu này đều có hoa văn, anh/chị có thể xem mẫu khác."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“不带图案”是没有印花或明显图案；“纯色”强调基本为单色，不一定只限黑白。",
+              "text_vi": "“不带图案” là không có họa tiết hoặc hình in nổi bật, còn “纯色” là màu trơn, không nhất thiết chỉ đen trắng."
+            }
+          ],
+          "pinyin": "yǒu méi yǒu bú dài tú àn de",
+          "meaning_vi": "Có loại không có hoa văn không?",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0006",
+          "level": "must",
+          "text": "我喜欢简单一点的款式。",
+          "alternatives": [
+            {
+              "text": "我想要简约一点的。",
+              "id": "s28_1_0006_alt01",
+              "meaning_vi": "Tôi muốn kiểu tối giản hơn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您可以看看这款基础款。",
+              "id": "s28_1_0006_reply01",
+              "meaning_vi": "Anh/chị thử xem mẫu cơ bản này."
+            },
+            {
+              "text": "这件没什么花纹，比较简单。",
+              "id": "s28_1_0006_reply02",
+              "meaning_vi": "Chiếc này không có nhiều họa tiết, khá đơn giản."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“简单一点的款式”是偏好简约设计，不等于尺码小或者价格便宜。",
+              "text_vi": "“简单一点的款式” nói về thiết kế đơn giản, không có nghĩa size nhỏ hoặc giá rẻ."
+            }
+          ],
+          "pinyin": "wǒ xǐ huan jiǎn dān yì diǎn de kuǎn shì",
+          "meaning_vi": "Tôi thích kiểu đơn giản hơn chút.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0007",
+          "level": "must",
+          "text": "这个材质还有别的款吗？",
+          "alternatives": [
+            {
+              "text": "同样的面料还有别的款式吗？",
+              "id": "s28_1_0007_alt01",
+              "meaning_vi": "Cùng loại vải này còn mẫu khác không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，同样的面料还有这款。",
+              "id": "s28_1_0007_reply01",
+              "meaning_vi": "Có, còn mẫu này cùng chất vải."
+            },
+            {
+              "text": "这个材质目前只有这一款。",
+              "id": "s28_1_0007_reply02",
+              "meaning_vi": "Chất liệu này hiện chỉ có mẫu này."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“材质/面料”指布料及其质感，与颜色、尺码和版型分属不同属性。",
+              "text_vi": "“材质/面料” chỉ chất liệu và kiểu vải, khác màu sắc, kích cỡ và dáng áo."
+            }
+          ],
+          "pinyin": "zhè ge cái zhì hái yǒu bié de kuǎn ma",
+          "meaning_vi": "Chất liệu này còn kiểu khác không?",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0008",
+          "level": "must",
+          "text": "颜色太亮。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那您试试深灰色的。",
+              "id": "s28_1_0008_reply01",
+              "meaning_vi": "Vậy anh/chị thử màu xám đậm nhé."
+            },
+            {
+              "text": "我拿件颜色柔和一点的给您看。",
+              "id": "s28_1_0008_reply02",
+              "meaning_vi": "Để tôi lấy chiếc có màu dịu hơn cho anh/chị xem."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“颜色太亮”表示颜色过于鲜亮显眼，不等于衣服尺寸大，也不一定是颜色太浅。",
+              "text_vi": "“颜色太亮” là màu quá rực hoặc nổi bật, không nhất thiết là màu quá nhạt."
+            }
+          ],
+          "pinyin": "yán sè tài liàng",
+          "meaning_vi": "Màu sáng quá.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0009",
+          "level": "must",
+          "text": "有没有深一点的颜色？",
+          "alternatives": [
+            {
+              "text": "有深色一点的吗？",
+              "id": "s28_1_0009_alt01",
+              "meaning_vi": "Có loại màu tối hơn chút không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，这款还有深蓝色。",
+              "id": "s28_1_0009_reply01",
+              "meaning_vi": "Có, mẫu này còn màu xanh đậm."
+            },
+            {
+              "text": "不好意思，没有更深的颜色了。",
+              "id": "s28_1_0009_reply02",
+              "meaning_vi": "Xin lỗi, không còn màu đậm hơn."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“深一点的颜色”问色调更深，如深蓝色，不是要材质更厚。",
+              "text_vi": "“深一点的颜色” là màu có sắc độ đậm hơn, chẳng hạn xanh đậm, không phải vải dày hơn."
+            }
+          ],
+          "pinyin": "yǒu méi yǒu shēn yì diǎn de yán sè",
+          "meaning_vi": "Có màu đậm hơn không?",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0010",
+          "level": "must",
+          "text": "这款有短袖的吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，短袖款在那边。",
+              "id": "s28_1_0010_reply01",
+              "meaning_vi": "Có, mẫu tay ngắn ở bên kia."
+            },
+            {
+              "text": "没有，这款只有长袖。",
+              "id": "s28_1_0010_reply02",
+              "meaning_vi": "Không, mẫu này chỉ có tay dài."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“短袖”说袖长，不能与“短款”衣身较短混淆；同款短袖未必有现货。",
+              "text_vi": "“短袖” là tay áo ngắn, khác “短款” là áo có thân ngắn; cùng mẫu tay ngắn chưa chắc còn hàng."
+            }
+          ],
+          "pinyin": "zhè kuǎn yǒu duǎn xiù de ma",
+          "meaning_vi": "Mẫu này có tay ngắn không?",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0011",
+          "level": "must",
+          "text": "我想看宽松一点的。",
+          "alternatives": [
+            {
+              "text": "有宽松款吗？",
+              "id": "s28_1_0011_alt01",
+              "meaning_vi": "Có dáng rộng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这边有宽松版，您看看。",
+              "id": "s28_1_0011_reply01",
+              "meaning_vi": "Bên này có phom rộng, anh/chị xem nhé."
+            },
+            {
+              "text": "我拿件版型宽松的给您试试。",
+              "id": "s28_1_0011_reply02",
+              "meaning_vi": "Để tôi lấy chiếc phom rộng cho anh/chị thử."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“宽松款”指版型本来较宽松；同一修身款单纯拿大一码未必有相同穿着效果。",
+              "text_vi": "“宽松款” là thiết kế phom rộng, không đơn thuần là lấy áo ôm dáng lớn hơn một size."
+            }
+          ],
+          "pinyin": "wǒ xiǎng kàn kuān sōng yì diǎn de",
+          "meaning_vi": "Tôi muốn xem loại rộng rãi hơn.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0012",
+          "level": "must",
+          "text": "这双鞋有白色吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有白色，我拿给您试试。",
+              "id": "s28_1_0012_reply01",
+              "meaning_vi": "Có màu trắng, tôi lấy cho anh/chị thử."
+            },
+            {
+              "text": "不好意思，这双鞋只有黑色。",
+              "id": "s28_1_0012_reply02",
+              "meaning_vi": "Xin lỗi, đôi giày này chỉ có màu đen."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“这双鞋”指一双鞋，试穿要核对左右脚及鞋码；不要把“双”当成两双。",
+              "text_vi": "“这双鞋” là một đôi giày, gồm hai chiếc trái và phải; đừng hiểu “双” là hai đôi."
+            }
+          ],
+          "pinyin": "zhè shuāng xié yǒu bái sè ma",
+          "meaning_vi": "Đôi giày này có màu trắng không?",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0013",
+          "level": "listen",
+          "text": "这个有三种颜色。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "哪三种颜色？",
+              "id": "s28_1_0013_reply01",
+              "meaning_vi": "Ba màu nào?"
+            },
+            {
+              "text": "有黑色的吗？",
+              "id": "s28_1_0013_reply02",
+              "meaning_vi": "Có màu đen không?"
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“三种颜色”指三个可选颜色，而不是同一件衣服上必有三种颜色。",
+              "text_vi": "“三种颜色” là có ba lựa chọn màu, không có nghĩa trên cùng một chiếc áo có đủ ba màu."
+            }
+          ],
+          "pinyin": "zhè ge yǒu sān zhǒng yán sè",
+          "meaning_vi": "Mẫu này có ba màu.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0014",
+          "level": "listen",
+          "text": "黑色卖完了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那白色还有吗？",
+              "id": "s28_1_0014_reply01",
+              "meaning_vi": "Vậy còn màu trắng không?"
+            },
+            {
+              "text": "什么时候会补货？",
+              "id": "s28_1_0014_reply02",
+              "meaning_vi": "Khi nào nhập thêm hàng?"
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“卖完了”是目前库存售罄，不代表以后永远买不到；可问补货或其他店。",
+              "text_vi": "“卖完了” là hiện hết hàng, không chắc sẽ không bán lại; có thể hỏi nhập thêm hoặc tìm cửa hàng khác."
+            }
+          ],
+          "pinyin": "hēi sè mài wán le",
+          "meaning_vi": "Màu đen hết rồi.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0015",
+          "level": "listen",
+          "text": "新款在那边。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我过去看看。",
+              "id": "s28_1_0015_reply01",
+              "meaning_vi": "Vâng, tôi qua đó xem."
+            },
+            {
+              "text": "能给我推荐一款吗？",
+              "id": "s28_1_0015_reply02",
+              "meaning_vi": "Anh/chị giới thiệu giúp tôi một mẫu được không?"
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“新款”是新推出或新上架的款式，不保证面料、质量或尺码一定更好。",
+              "text_vi": "“新款” là mẫu mới ra hoặc mới nhập, không bảo đảm chất lượng hay size phù hợp hơn mẫu cũ."
+            }
+          ],
+          "pinyin": "xīn kuǎn zài nà biān",
+          "meaning_vi": "Mẫu mới ở bên kia.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0016",
+          "level": "listen",
+          "text": "这款比较宽松。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我试穿一下。",
+              "id": "s28_1_0016_reply01",
+              "meaning_vi": "Vậy để tôi mặc thử."
+            },
+            {
+              "text": "有修身一点的吗？",
+              "id": "s28_1_0016_reply02",
+              "meaning_vi": "Có loại ôm dáng hơn không?"
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“比较宽松”描述版型较宽松，不表示一定大一号；回应可提到试穿。",
+              "text_vi": "“比较宽松” chỉ dáng hơi rộng, không đồng nghĩa lớn hơn đúng một size. Nên mặc thử."
+            }
+          ],
+          "pinyin": "zhè kuǎn bǐ jiào kuān sōng",
+          "meaning_vi": "Mẫu này khá rộng rãi.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0017",
+          "level": "listen",
+          "text": "还有白色和蓝色。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我想看看蓝色的。",
+              "id": "s28_1_0017_reply01",
+              "meaning_vi": "Tôi muốn xem màu xanh."
+            },
+            {
+              "text": "那先给我看看白色的吧。",
+              "id": "s28_1_0017_reply02",
+              "meaning_vi": "Vậy cho tôi xem màu trắng trước nhé."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“还有白色和蓝色”表示另外有白、蓝两种颜色，不一定所有尺码都齐全。",
+              "text_vi": "Còn màu trắng và xanh dương không có nghĩa mọi size của hai màu đều còn."
+            }
+          ],
+          "pinyin": "hái yǒu bái sè hé lán sè",
+          "meaning_vi": "Còn màu trắng và xanh dương.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0018",
+          "level": "listen",
+          "text": "这款只有长袖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有类似的短袖款吗？",
+              "id": "s28_1_0018_reply01",
+              "meaning_vi": "Có mẫu tay ngắn tương tự không?"
+            },
+            {
+              "text": "那我看看长袖的。",
+              "id": "s28_1_0018_reply02",
+              "meaning_vi": "Vậy tôi xem mẫu tay dài."
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“只有长袖”表示这一款暂无短袖，想买短袖可以问类似款式。",
+              "text_vi": "Mẫu này chỉ có tay dài; muốn tay ngắn có thể hỏi mẫu tương tự."
+            }
+          ],
+          "pinyin": "zhè kuǎn zhǐ yǒu cháng xiù",
+          "meaning_vi": "Mẫu này chỉ có tay dài.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0019",
+          "level": "listen",
+          "text": "深色在里面。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我进去看看。",
+              "id": "s28_1_0019_reply01",
+              "meaning_vi": "Được, tôi vào trong xem."
+            },
+            {
+              "text": "能帮我拿件深色的吗？",
+              "id": "s28_1_0019_reply02",
+              "meaning_vi": "Lấy giúp tôi một chiếc màu tối được không?"
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“在里面”是店内更深处的位置，指店内摆放处；不是衣服里层。",
+              "text_vi": "“在里面” chỉ vị trí sâu bên trong cửa hàng, không phải lớp lót bên trong áo."
+            }
+          ],
+          "pinyin": "shēn sè zài lǐ miàn",
+          "meaning_vi": "Màu tối ở phía trong.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        },
+        {
+          "id": "s28_1_0020",
+          "level": "listen",
+          "text": "这个面料比较薄。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有没有厚一点的？",
+              "id": "s28_1_0020_reply01",
+              "meaning_vi": "Có loại dày hơn không?"
+            },
+            {
+              "text": "这件适合夏天穿吗？",
+              "id": "s28_1_0020_reply02",
+              "meaning_vi": "Chiếc này mặc mùa hè có hợp không?"
+            }
+          ],
+          "lesson_id": "28.1",
+          "lesson_title": "28.1 颜色款式",
+          "mistakes": [
+            {
+              "text": "“面料比较薄”说布料偏薄，不必然透光，也不等于质量差；可问穿着季节和是否透。",
+              "text_vi": "“面料比较薄” là vải hơi mỏng, không có nghĩa vải chắc chắn xuyên thấu hay chất lượng kém."
+            }
+          ],
+          "pinyin": "zhè ge miàn liào bǐ jiào báo",
+          "meaning_vi": "Chất vải này khá mỏng.",
+          "lesson_title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+        }
+      ],
+      "opening": "在服装鞋店挑衣服时，问颜色、图案、面料和长短袖，学会表达想看深一点、简单一点或宽松一点的款式。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Chọn màu, họa tiết, chất liệu, tay dài hay tay ngắn và nói kiểu thiết kế rộng, ôm dáng hoặc đơn giản."
+    },
+    {
+      "id": "28.2",
+      "title": "28.2 尺码试穿与合身反馈",
+      "phrases": [
+        {
+          "id": "s28_2_0001",
+          "level": "must",
+          "text": "我穿M码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我给您拿M码。",
+              "id": "s28_2_0001_reply01",
+              "meaning_vi": "Vâng, tôi lấy cỡ M cho anh/chị."
+            },
+            {
+              "text": "这款偏小，您也可以试试L码。",
+              "id": "s28_2_0001_reply02",
+              "meaning_vi": "Mẫu này hơi nhỏ so với cỡ chuẩn, anh/chị thử cỡ L nhé."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "衣服M码会随品牌、款式不同而变化，试穿比只记字母可靠。",
+              "text_vi": "Size M có thể khác giữa thương hiệu và kiểu thiết kế. Mặc thử đáng tin hơn chỉ dựa vào chữ size."
+            }
+          ],
+          "pinyin": "wǒ chuān M mǎ",
+          "meaning_vi": "Tôi mặc cỡ M.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0002",
+          "level": "must",
+          "text": "可以试穿吗？",
+          "alternatives": [
+            {
+              "text": "能试穿吗？",
+              "id": "s28_2_0002_alt01",
+              "meaning_vi": "Mặc thử được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，试衣间在里面。",
+              "id": "s28_2_0002_reply01",
+              "meaning_vi": "Được, phòng thử đồ ở bên trong."
+            },
+            {
+              "text": "可以，我先帮您拿合适的码。",
+              "id": "s28_2_0002_reply02",
+              "meaning_vi": "Được, để tôi lấy cỡ phù hợp cho anh/chị trước."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“试穿”是在店里短暂试穿衣物，不代表已购买；鞋子可说“试穿鞋”或“试鞋”。",
+              "text_vi": "“试穿” là mặc thử tại cửa hàng, chưa phải đã mua; với giày dép có thể nói thử giày."
+            }
+          ],
+          "pinyin": "kě yǐ shì chuān ma",
+          "meaning_vi": "Tôi thử đồ được không?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0003",
+          "level": "must",
+          "text": "试衣间在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在前面右手边。",
+              "id": "s28_2_0003_reply01",
+              "meaning_vi": "Phía trước bên tay phải."
+            },
+            {
+              "text": "我带您过去。",
+              "id": "s28_2_0003_reply02",
+              "meaning_vi": "Để tôi dẫn anh/chị qua đó."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“试衣间”是换衣试穿的更衣室，不是普通卫生间。",
+              "text_vi": "“试衣间” là phòng thay đồ để thử quần áo, không phải nhà vệ sinh."
+            }
+          ],
+          "pinyin": "shì yī jiān zài nǎr",
+          "meaning_vi": "Phòng thử đồ ở đâu?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0004",
+          "level": "must",
+          "text": "有大一码的吗？",
+          "alternatives": [
+            {
+              "text": "有大一号的吗？",
+              "id": "s28_2_0004_alt01",
+              "meaning_vi": "Có lớn hơn một cỡ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，我帮您拿大一码。",
+              "id": "s28_2_0004_reply01",
+              "meaning_vi": "Có, để tôi lấy cỡ lớn hơn một số."
+            },
+            {
+              "text": "大一码暂时没有，您要试别的款吗？",
+              "id": "s28_2_0004_reply02",
+              "meaning_vi": "Hiện không có cỡ lớn hơn, anh/chị thử mẫu khác không?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“大一码”是尺码增大一级，不等于固定增加一厘米；不同品牌的尺码间隔有差别。",
+              "text_vi": "“大一码” là tăng một nấc size, không nhất thiết lớn thêm đúng một centimet; bảng size mỗi hãng khác nhau."
+            }
+          ],
+          "pinyin": "yǒu dà yì mǎ de ma",
+          "meaning_vi": "Có cỡ lớn hơn một số không?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0005",
+          "level": "must",
+          "text": "有点小。",
+          "alternatives": [
+            {
+              "text": "这件有点小。",
+              "id": "s28_2_0005_alt01",
+              "meaning_vi": "Chiếc này hơi nhỏ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我给您拿大一码。",
+              "id": "s28_2_0005_reply01",
+              "meaning_vi": "Để tôi lấy cỡ lớn hơn cho anh/chị."
+            },
+            {
+              "text": "这款比较修身，您可以试试宽松版。",
+              "id": "s28_2_0005_reply02",
+              "meaning_vi": "Mẫu này khá ôm dáng, anh/chị có thể thử phom rộng."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“有点小”是衣服尺寸略小，“太紧”是穿着感受过紧，不完全相同。",
+              "text_vi": "“有点小” nói món đồ hơi nhỏ, còn “太紧” nói mặc vào quá chật; hai cảm giác không hoàn toàn giống nhau."
+            }
+          ],
+          "pinyin": "yǒu diǎn xiǎo",
+          "meaning_vi": "Hơi nhỏ.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0006",
+          "level": "must",
+          "text": "太紧了。",
+          "alternatives": [
+            {
+              "text": "穿着太紧了。",
+              "id": "s28_2_0006_alt01",
+              "meaning_vi": "Mặc vào chật quá."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我给您换件宽松的。",
+              "id": "s28_2_0006_reply01",
+              "meaning_vi": "Vậy tôi đổi cho anh/chị chiếc rộng hơn."
+            },
+            {
+              "text": "您要不要试试大一码？",
+              "id": "s28_2_0006_reply02",
+              "meaning_vi": "Anh/chị có muốn thử lớn hơn một cỡ không?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "紧可能与尺码、面料和版型有关；换大一码不一定解决所有部位的问题。",
+              "text_vi": "Chật có thể vì size, vải hoặc phom dáng. Đổi một size lớn hơn chưa chắc giải quyết tất cả."
+            }
+          ],
+          "pinyin": "tài jǐn le",
+          "meaning_vi": "Chật quá.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0007",
+          "level": "must",
+          "text": "这个太长。",
+          "alternatives": [
+            {
+              "text": "长度有点长。",
+              "id": "s28_2_0007_alt01",
+              "meaning_vi": "Chiều dài hơi dài."
+            }
+          ],
+          "replies": [
+            {
+              "text": "还有短款，您要看看吗？",
+              "id": "s28_2_0007_reply01",
+              "meaning_vi": "Còn kiểu ngắn, anh/chị xem không?"
+            },
+            {
+              "text": "这件偏长，您可以试试那一款。",
+              "id": "s28_2_0007_reply02",
+              "meaning_vi": "Chiếc này hơi dài, anh/chị thử mẫu kia xem."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“太长”说衣身或裤长，需要确认具体位置；“短袖”则说袖子长短。",
+              "text_vi": "“太长” nói chiều dài quần, áo hoặc phần cụ thể, không phải “短袖” nói tay áo ngắn."
+            }
+          ],
+          "pinyin": "zhè ge tài cháng",
+          "meaning_vi": "Cái này dài quá.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0008",
+          "level": "must",
+          "text": "这个正合适。",
+          "alternatives": [
+            {
+              "text": "这个刚好。",
+              "id": "s28_2_0008_alt01",
+              "meaning_vi": "Cái này vừa vặn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "太好了，您喜欢这个颜色吗？",
+              "id": "s28_2_0008_reply01",
+              "meaning_vi": "Tốt quá, anh/chị thích màu này không?"
+            },
+            {
+              "text": "那您要这件吗？",
+              "id": "s28_2_0008_reply02",
+              "meaning_vi": "Vậy anh/chị lấy chiếc này nhé?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“正合适”表示尺码或长度恰好合身，不代表价格或颜色必定满意。",
+              "text_vi": "“正合适” là vừa về kích cỡ hoặc chiều dài, không đồng nghĩa màu sắc và giá đều vừa ý."
+            }
+          ],
+          "pinyin": "zhè ge zhèng hé shì",
+          "meaning_vi": "Cái này vừa khít.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0009",
+          "level": "must",
+          "text": "这双鞋有四十二码吗？",
+          "alternatives": [
+            {
+              "text": "这双鞋有42码的吗？",
+              "id": "s28_2_0009_alt01",
+              "meaning_vi": "Giày này có size 42 không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，我给您拿四十二码。",
+              "id": "s28_2_0009_reply01",
+              "meaning_vi": "Có, để tôi lấy cỡ 42 cho anh/chị."
+            },
+            {
+              "text": "四十二码卖完了，您要试别的款吗？",
+              "id": "s28_2_0009_reply02",
+              "meaning_vi": "Cỡ 42 hết hàng rồi, anh/chị thử mẫu khác không?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "鞋码42的标准会因地区、品牌和鞋楦不同而异，最好试穿两只脚确认。",
+              "text_vi": "Size giày 42 có thể khác tùy tiêu chuẩn, hãng và phom giày; nên thử cả hai chân."
+            }
+          ],
+          "pinyin": "zhè shuāng xié yǒu sì shí èr mǎ ma",
+          "meaning_vi": "Đôi giày này có cỡ 42 không?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0010",
+          "level": "must",
+          "text": "我试试这个。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，请到那边试。",
+              "id": "s28_2_0010_reply01",
+              "meaning_vi": "Vâng, mời thử ở bên kia."
+            },
+            {
+              "text": "可以，我帮您拿去试衣间。",
+              "id": "s28_2_0010_reply02",
+              "meaning_vi": "Được, tôi mang vào phòng thử đồ cho anh/chị."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“试试这个”是在服装店提出试穿/试用这件，不是确认购买；店员可指试衣处。",
+              "text_vi": "“试试这个” trong cửa hàng nghĩa là muốn thử món này, chưa phải xác nhận mua."
+            }
+          ],
+          "pinyin": "wǒ shì shi zhè ge",
+          "meaning_vi": "Để tôi thử cái này.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0011",
+          "level": "must",
+          "text": "这款偏大还是偏小？",
+          "alternatives": [
+            {
+              "text": "这款尺码偏大还是偏小？",
+              "id": "s28_2_0011_alt01",
+              "meaning_vi": "Cỡ của mẫu này thiên về lớn hay nhỏ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这款偏小，建议您试大一码。",
+              "id": "s28_2_0011_reply01",
+              "meaning_vi": "Mẫu này hơi nhỏ, anh/chị nên thử lớn hơn một cỡ."
+            },
+            {
+              "text": "这款尺码正常，按平时穿的选就行。",
+              "id": "s28_2_0011_reply02",
+              "meaning_vi": "Mẫu này đúng size, chọn như cỡ thường mặc là được."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“偏大/偏小”是相对平时尺码的版型倾向，不等同商品本身标错码。",
+              "text_vi": "“偏大/偏小” là mẫu này có size rộng hoặc hẹp hơn thường lệ, không phải nhãn size bị in sai."
+            }
+          ],
+          "pinyin": "zhè kuǎn piān dà hái shì piān xiǎo",
+          "meaning_vi": "Mẫu này rộng hơn hay nhỏ hơn cỡ chuẩn?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0012",
+          "level": "must",
+          "text": "我能穿着走几步试试吗？",
+          "alternatives": [
+            {
+              "text": "能让我穿着走几步吗？",
+              "id": "s28_2_0012_alt01",
+              "meaning_vi": "Cho tôi đi thử vài bước được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，在店里走几步试试。",
+              "id": "s28_2_0012_reply01",
+              "meaning_vi": "Được, đi thử vài bước trong cửa hàng."
+            },
+            {
+              "text": "可以，请别穿到店外面。",
+              "id": "s28_2_0012_reply02",
+              "meaning_vi": "Được, nhưng đừng mang ra ngoài cửa hàng."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“走几步试试”是穿鞋在店内走几步检查舒适度，需遵守门店规定。",
+              "text_vi": "Câu này xin đi vài bước trong cửa hàng để kiểm tra giày có thoải mái không; phải theo quy định thử giày của quán."
+            }
+          ],
+          "pinyin": "wǒ néng chuān zhe zǒu jǐ bù shì shi ma",
+          "meaning_vi": "Tôi mang giày đi vài bước thử được không?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0013",
+          "level": "must",
+          "text": "试完放哪里？",
+          "alternatives": [
+            {
+              "text": "试完放哪儿？",
+              "id": "s28_2_0013_alt01",
+              "meaning_vi": "Thử xong đặt ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "放在这里就行。",
+              "id": "s28_2_0013_reply01",
+              "meaning_vi": "Để ở đây là được."
+            },
+            {
+              "text": "交给我就行。",
+              "id": "s28_2_0013_reply02",
+              "meaning_vi": "Đưa lại cho tôi là được."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "试穿后放哪儿要问店员，有些商店要求交回工作人员，而非自行挂回货架。",
+              "text_vi": "Sau khi thử đồ nên hỏi đặt lại chỗ nào; nhiều nơi muốn khách giao cho nhân viên thay vì treo lại."
+            }
+          ],
+          "pinyin": "shì wán fàng nǎ lǐ",
+          "meaning_vi": "Thử xong thì để đâu?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0014",
+          "level": "must",
+          "text": "穿着挺舒服。",
+          "alternatives": [
+            {
+              "text": "穿着很舒服。",
+              "id": "s28_2_0014_alt01",
+              "meaning_vi": "Mặc rất thoải mái."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那您再照照镜子。",
+              "id": "s28_2_0014_reply01",
+              "meaning_vi": "Vậy anh/chị soi gương thử thêm nhé."
+            },
+            {
+              "text": "穿着舒服就好，您再看看颜色。",
+              "id": "s28_2_0014_reply02",
+              "meaning_vi": "Mặc thoải mái là tốt, anh/chị xem thêm màu sắc nhé."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“舒服”指穿着舒适，不表示尺寸、颜色或价格等其他条件都适合。",
+              "text_vi": "“舒服” là thoải mái khi mặc, chưa bảo đảm màu, giá hoặc mọi điều kiện khác phù hợp."
+            }
+          ],
+          "pinyin": "chuān zhe tǐng shū fu",
+          "meaning_vi": "Mặc vào khá thoải mái.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0015",
+          "level": "listen",
+          "text": "您穿多大？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我穿M码。",
+              "id": "s28_2_0015_reply01",
+              "meaning_vi": "Tôi mặc cỡ M."
+            },
+            {
+              "text": "我平时穿L码。",
+              "id": "s28_2_0015_reply02",
+              "meaning_vi": "Bình thường tôi mặc cỡ L."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“您穿多大”在服装店问平时穿的衣服尺码，不是问年龄或身高。",
+              "text_vi": "“您穿多大？” hỏi cỡ quần áo thường mặc, không phải hỏi tuổi hay chiều cao."
+            }
+          ],
+          "pinyin": "nín chuān duō dà",
+          "meaning_vi": "Anh/chị mặc cỡ mấy?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0016",
+          "level": "listen",
+          "text": "这边试。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，谢谢。",
+              "id": "s28_2_0016_reply01",
+              "meaning_vi": "Vâng, cảm ơn."
+            },
+            {
+              "text": "试衣间就是这里吗？",
+              "id": "s28_2_0016_reply02",
+              "meaning_vi": "Phòng thử đồ là ngay đây à?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“这边试”指店员指定试穿位置，试衣间位置不清楚时可追问。",
+              "text_vi": "“这边试” là nhân viên chỉ vị trí thử; không rõ thì hỏi phòng thử ở đâu."
+            }
+          ],
+          "pinyin": "zhè biān shì",
+          "meaning_vi": "Mời thử bên này.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0017",
+          "level": "listen",
+          "text": "这个码还有。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "太好了，我能试穿吗？",
+              "id": "s28_2_0017_reply01",
+              "meaning_vi": "Tốt quá, tôi thử được không?"
+            },
+            {
+              "text": "好的，请拿给我看看。",
+              "id": "s28_2_0017_reply02",
+              "meaning_vi": "Được, cho tôi xem thử nhé."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“这个码还有”说明这个尺码仍有货，不代表想要的颜色也有现货。",
+              "text_vi": "Còn size này chưa bảo đảm màu đang muốn mua cũng còn hàng."
+            }
+          ],
+          "pinyin": "zhè ge mǎ hái yǒu",
+          "meaning_vi": "Cỡ này vẫn còn.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0018",
+          "level": "listen",
+          "text": "鞋要到那边试。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我去那边试。",
+              "id": "s28_2_0018_reply01",
+              "meaning_vi": "Vâng, tôi qua bên kia thử."
+            },
+            {
+              "text": "谢谢，那里能坐着试吗？",
+              "id": "s28_2_0018_reply02",
+              "meaning_vi": "Cảm ơn, ở đó có chỗ ngồi thử không?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "鞋要在指定区域试穿；“试鞋”不能等同衣服更衣间试穿的流程。",
+              "text_vi": "Giày phải thử ở khu vực chỉ định, không nhất thiết cùng phòng thử quần áo."
+            }
+          ],
+          "pinyin": "xié yào dào nà biān shì",
+          "meaning_vi": "Giày phải thử ở bên kia.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0019",
+          "level": "listen",
+          "text": "M码卖完了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那有L码吗？",
+              "id": "s28_2_0019_reply01",
+              "meaning_vi": "Vậy còn cỡ L không?"
+            },
+            {
+              "text": "什么时候会补货？",
+              "id": "s28_2_0019_reply02",
+              "meaning_vi": "Khi nào nhập thêm hàng?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“M码卖完了”仅指该尺寸目前售完，不表示所有尺寸都卖完。",
+              "text_vi": "“M码卖完了” chỉ cỡ M hiện hết, chưa chắc cỡ khác hoặc mẫu khác hết."
+            }
+          ],
+          "pinyin": "M mǎ mài wán le",
+          "meaning_vi": "Cỡ M hết rồi.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0020",
+          "level": "listen",
+          "text": "可以一起拿进去试。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我先试这两件。",
+              "id": "s28_2_0020_reply01",
+              "meaning_vi": "Vâng, tôi thử hai chiếc này trước."
+            },
+            {
+              "text": "谢谢，试完交给您吗？",
+              "id": "s28_2_0020_reply02",
+              "meaning_vi": "Cảm ơn, thử xong đưa lại anh/chị à?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“一起拿进去试”是一次带多件进试衣间，仍需遵守门店的件数限制。",
+              "text_vi": "“一起拿进去试” là mang nhiều món vào phòng thử cùng lúc; vẫn phải tuân thủ giới hạn số món của cửa hàng."
+            }
+          ],
+          "pinyin": "kě yǐ yì qǐ ná jìn qù shì",
+          "meaning_vi": "Có thể mang vào thử cùng lúc.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0021",
+          "level": "listen",
+          "text": "这款偏小。",
+          "alternatives": [
+            {
+              "text": "这款尺码偏小。",
+              "id": "s28_2_0021_alt01",
+              "meaning_vi": "Size mẫu này hơi nhỏ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我试大一码。",
+              "id": "s28_2_0021_reply01",
+              "meaning_vi": "Vậy tôi thử lớn hơn một cỡ."
+            },
+            {
+              "text": "我平时穿M码，这款试L码可以吗？",
+              "id": "s28_2_0021_reply02",
+              "meaning_vi": "Tôi thường mặc M, mẫu này thử L được không?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“偏小”指尺码小于通常预期，建议试大一码但需以合身程度为准。",
+              "text_vi": "“偏小” là cỡ mẫu này nhỏ hơn dự kiến; thử lớn hơn một size nhưng vẫn phải xem có vừa không."
+            }
+          ],
+          "pinyin": "zhè kuǎn piān xiǎo",
+          "meaning_vi": "Mẫu này hơi nhỏ so với size chuẩn.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0022",
+          "level": "listen",
+          "text": "您可以试大一码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，麻烦拿给我。",
+              "id": "s28_2_0022_reply01",
+              "meaning_vi": "Được, phiền lấy cho tôi nhé."
+            },
+            {
+              "text": "我想先试试现在这件。",
+              "id": "s28_2_0022_reply02",
+              "meaning_vi": "Tôi muốn thử chiếc đang cầm trước."
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“试大一码”是建议换大一号试穿，不等于已经完成购买后的换货。",
+              "text_vi": "Đề nghị thử lớn hơn một size, khác thủ tục đổi trả món đã mua."
+            }
+          ],
+          "pinyin": "nín kě yǐ shì dà yì mǎ",
+          "meaning_vi": "Anh/chị có thể thử lớn hơn một cỡ.",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        },
+        {
+          "id": "s28_2_0023",
+          "level": "listen",
+          "text": "大小合适吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "合适，刚刚好。",
+              "id": "s28_2_0023_reply01",
+              "meaning_vi": "Vừa, rất vừa vặn."
+            },
+            {
+              "text": "有点紧，能拿大一码吗？",
+              "id": "s28_2_0023_reply02",
+              "meaning_vi": "Hơi chật, lấy cỡ lớn hơn được không?"
+            }
+          ],
+          "lesson_id": "28.2",
+          "lesson_title": "28.2 尺码试穿与合身反馈",
+          "mistakes": [
+            {
+              "text": "“大小合适吗”应答合适、紧或松等实际反馈；不要仅答“好的”。",
+              "text_vi": "“大小合适吗？” hỏi đồ có vừa hay không; nên trả lời cụ thể vừa, chật hoặc rộng, không chỉ “được”."
+            }
+          ],
+          "pinyin": "dà xiǎo hé shì ma",
+          "meaning_vi": "Kích cỡ vừa không?",
+          "lesson_title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+        }
+      ],
+      "opening": "买衣服或鞋时，询问试衣间和尺码，试穿后说太紧、太长、偏小或正合适，并听懂店员的换码建议。",
+      "subtitle": "23张实用口语卡",
+      "title_vi": "28.2 Chọn size, thử và nhận xét độ vừa",
+      "subtitle_vi": "23 thẻ giao tiếp thực tế",
+      "opening_vi": "Hỏi phòng thử đồ, thử quần áo và giày, diễn tả quá chật, dài hoặc vừa vặn, hỏi cỡ M, L hay size giày 42."
+    },
+    {
+      "id": "28.3",
+      "title": "28.3 换码与查库存",
+      "phrases": [
+        {
+          "id": "s28_3_0001",
+          "level": "must",
+          "text": "帮我换大一码。",
+          "alternatives": [
+            {
+              "text": "麻烦换大一号的。",
+              "id": "s28_3_0001_alt01",
+              "meaning_vi": "Phiền đổi sang lớn hơn một cỡ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我去拿大一码。",
+              "id": "s28_3_0001_reply01",
+              "meaning_vi": "Vâng, tôi đi lấy cỡ lớn hơn."
+            },
+            {
+              "text": "大一码没有了，我帮您看看别的款。",
+              "id": "s28_3_0001_reply02",
+              "meaning_vi": "Cỡ lớn hơn hết rồi, tôi tìm mẫu khác cho anh/chị."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“换大一码”在试穿时换另一尺码，和已购买商品的退换货流程不同。",
+              "text_vi": "Đổi sang size lớn hơn khi đang thử đồ khác với đổi trả món sau khi thanh toán."
+            }
+          ],
+          "pinyin": "bāng wǒ huàn dà yì mǎ",
+          "meaning_vi": "Đổi giúp tôi cỡ lớn hơn một số.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0002",
+          "level": "must",
+          "text": "还有L码吗？",
+          "alternatives": [
+            {
+              "text": "L码还有货吗？",
+              "id": "s28_3_0002_alt01",
+              "meaning_vi": "Size L còn hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，稍等我拿给您。",
+              "id": "s28_3_0002_reply01",
+              "meaning_vi": "Có, đợi chút tôi lấy cho anh/chị."
+            },
+            {
+              "text": "不好意思，L码暂时没货。",
+              "id": "s28_3_0002_reply02",
+              "meaning_vi": "Xin lỗi, cỡ L hiện hết hàng."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“还有L码”只问L尺码库存，未必说明所选颜色也有货。",
+              "text_vi": "Hỏi còn size L không, chưa bảo đảm đúng màu đang chọn còn."
+            }
+          ],
+          "pinyin": "hái yǒu L mǎ ma",
+          "meaning_vi": "Còn cỡ L không?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0003",
+          "level": "must",
+          "text": "可以查一下库存吗？",
+          "alternatives": [
+            {
+              "text": "能查一下库存吗？",
+              "id": "s28_3_0003_alt01",
+              "meaning_vi": "Có thể kiểm tra tồn kho không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我现在帮您查。",
+              "id": "s28_3_0003_reply01",
+              "meaning_vi": "Được, tôi kiểm tra ngay cho anh/chị."
+            },
+            {
+              "text": "查到了，仓库还有一件。",
+              "id": "s28_3_0003_reply02",
+              "meaning_vi": "Tìm thấy rồi, trong kho còn một chiếc."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“查库存”是查询门店或仓库记录，系统显示库存仍需确认实物是否可售。",
+              "text_vi": "“查库存” kiểm tra thông tin còn hàng; hệ thống báo có vẫn cần xác nhận món thật có thể bán."
+            }
+          ],
+          "pinyin": "kě yǐ chá yí xià kù cún ma",
+          "meaning_vi": "Kiểm tra hàng trong kho được không?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0004",
+          "level": "must",
+          "text": "这个码没了吗？",
+          "alternatives": [
+            {
+              "text": "这个尺码没有了吗？",
+              "id": "s28_3_0004_alt01",
+              "meaning_vi": "Size này không còn nữa à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这个码已经卖完了。",
+              "id": "s28_3_0004_reply01",
+              "meaning_vi": "Cỡ này đã bán hết."
+            },
+            {
+              "text": "仓库可能还有，我查一下。",
+              "id": "s28_3_0004_reply02",
+              "meaning_vi": "Có thể kho vẫn còn, để tôi kiểm tra."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“这个码没了”指这一尺码暂时没有，不等于整款下架。",
+              "text_vi": "“这个码没了” là cỡ này tạm hết, không phải mẫu bị ngừng bán toàn bộ."
+            }
+          ],
+          "pinyin": "zhè ge mǎ méi le ma",
+          "meaning_vi": "Cỡ này hết rồi à?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0005",
+          "level": "must",
+          "text": "别的店有吗？",
+          "alternatives": [
+            {
+              "text": "其他门店还有吗？",
+              "id": "s28_3_0005_alt01",
+              "meaning_vi": "Chi nhánh khác còn hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "另一家店还有。",
+              "id": "s28_3_0005_reply01",
+              "meaning_vi": "Cửa hàng khác vẫn còn."
+            },
+            {
+              "text": "我帮您查一下其他门店。",
+              "id": "s28_3_0005_reply02",
+              "meaning_vi": "Để tôi kiểm tra các chi nhánh khác cho anh/chị."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“别的店有吗”问其他门店库存，不保证可以跨店调货。",
+              "text_vi": "Cửa hàng khác có hàng không đồng nghĩa cửa hàng hiện tại có thể chuyển hàng về."
+            }
+          ],
+          "pinyin": "bié de diàn yǒu ma",
+          "meaning_vi": "Cửa hàng khác còn không?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0006",
+          "level": "must",
+          "text": "能从别的店调货吗？",
+          "alternatives": [
+            {
+              "text": "可以从其他店调过来吗？",
+              "id": "s28_3_0006_alt01",
+              "meaning_vi": "Có thể điều hàng từ chi nhánh khác tới không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，预计两天到。",
+              "id": "s28_3_0006_reply01",
+              "meaning_vi": "Được, dự kiến hai ngày nữa hàng tới."
+            },
+            {
+              "text": "不好意思，这款暂时不能调货。",
+              "id": "s28_3_0006_reply02",
+              "meaning_vi": "Xin lỗi, mẫu này tạm thời không điều hàng được."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“调货”是从其他门店调来，不能理解为已在眼前或必然按时到达。",
+              "text_vi": "“调货” là điều chuyển hàng từ chi nhánh khác, không có nghĩa hàng đã tới hoặc bảo đảm tới đúng ngày."
+            }
+          ],
+          "pinyin": "néng cóng bié de diàn diào huò ma",
+          "meaning_vi": "Chuyển hàng từ cửa hàng khác về được không?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0007",
+          "level": "must",
+          "text": "到了能通知我吗？",
+          "alternatives": [
+            {
+              "text": "到货能通知我吗？",
+              "id": "s28_3_0007_alt01",
+              "meaning_vi": "Khi có hàng, anh/chị báo tôi được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，到货后给您发消息。",
+              "id": "s28_3_0007_reply01",
+              "meaning_vi": "Được, hàng về tôi nhắn cho anh/chị."
+            },
+            {
+              "text": "可以，请留个联系方式。",
+              "id": "s28_3_0007_reply02",
+              "meaning_vi": "Được, xin để lại thông tin liên hệ."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“到了通知我”需明确收到联系方式及通知方式，不是已订购成功。",
+              "text_vi": "“到了通知我” cần cung cấp đúng thông tin liên lạc; chưa phải đặt mua thành công."
+            }
+          ],
+          "pinyin": "dào le néng tōng zhī wǒ ma",
+          "meaning_vi": "Hàng về thì báo cho tôi được không?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0008",
+          "level": "must",
+          "text": "大概什么时候能到货？",
+          "alternatives": [
+            {
+              "text": "预计什么时候到货？",
+              "id": "s28_3_0008_alt01",
+              "meaning_vi": "Dự kiến hàng về khi nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "预计下周到。",
+              "id": "s28_3_0008_reply01",
+              "meaning_vi": "Dự kiến tuần sau hàng tới."
+            },
+            {
+              "text": "还不确定，到了可以通知您。",
+              "id": "s28_3_0008_reply02",
+              "meaning_vi": "Chưa chắc ngày, có hàng tôi sẽ báo cho anh/chị."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“大概什么时候”问预计时间，不是要求店家保证具体日期。",
+              "text_vi": "“大概什么时候” hỏi ngày dự kiến, không yêu cầu cam kết chính xác tuyệt đối."
+            }
+          ],
+          "pinyin": "dà gài shén me shí hou néng dào huò",
+          "meaning_vi": "Khoảng khi nào hàng về?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0009",
+          "level": "must",
+          "text": "可以帮我留一件吗？",
+          "alternatives": [
+            {
+              "text": "能帮我预留一件吗？",
+              "id": "s28_3_0009_alt01",
+              "meaning_vi": "Có thể giữ trước cho tôi một chiếc không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，帮您留到今晚。",
+              "id": "s28_3_0009_reply01",
+              "meaning_vi": "Được, tôi giữ cho anh/chị tới tối nay."
+            },
+            {
+              "text": "不好意思，这款暂时不能预留。",
+              "id": "s28_3_0009_reply02",
+              "meaning_vi": "Xin lỗi, mẫu này hiện không giữ trước được."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“留一件”指暂时预留货品，需确认保留截止时间和是否要定金。",
+              "text_vi": "“留一件” là giữ hàng tạm thời; phải hỏi giữ tới khi nào và có cần cọc không."
+            }
+          ],
+          "pinyin": "kě yǐ bāng wǒ liú yí jiàn ma",
+          "meaning_vi": "Giữ giúp tôi một chiếc được không?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0010",
+          "level": "must",
+          "text": "调货要多久？",
+          "alternatives": [
+            {
+              "text": "调货大概要等几天？",
+              "id": "s28_3_0010_alt01",
+              "meaning_vi": "Điều hàng phải đợi khoảng mấy ngày?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般两三天。",
+              "id": "s28_3_0010_reply01",
+              "meaning_vi": "Thường hai đến ba ngày."
+            },
+            {
+              "text": "具体时间要看别的门店发货情况。",
+              "id": "s28_3_0010_reply02",
+              "meaning_vi": "Thời gian cụ thể tùy chi nhánh kia gửi hàng."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“调货要多久”问调拨配送时间，可能受其他门店库存和物流影响。",
+              "text_vi": "Thời gian điều chuyển có thể phụ thuộc tồn kho chi nhánh khác và vận chuyển."
+            }
+          ],
+          "pinyin": "diào huò yào duō jiǔ",
+          "meaning_vi": "Điều hàng mất bao lâu?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0011",
+          "level": "must",
+          "text": "网上还有库存吗？",
+          "alternatives": [
+            {
+              "text": "网店还有货吗？",
+              "id": "s28_3_0011_alt01",
+              "meaning_vi": "Cửa hàng trực tuyến còn hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "网上还有M码。",
+              "id": "s28_3_0011_reply01",
+              "meaning_vi": "Trên mạng vẫn còn cỡ M."
+            },
+            {
+              "text": "我帮您查一下网店库存。",
+              "id": "s28_3_0011_reply02",
+              "meaning_vi": "Để tôi kiểm tra hàng trên web cho anh/chị."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "线上库存和实体门店库存可不同，网页显示有货也要确认尺码颜色。",
+              "text_vi": "Hàng online và tại cửa hàng có thể khác nhau; phải kiểm tra cả size, màu và tình trạng có thể mua."
+            }
+          ],
+          "pinyin": "wǎng shàng hái yǒu kù cún ma",
+          "meaning_vi": "Trên mạng còn hàng không?",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0012",
+          "level": "must",
+          "text": "到货以后给我发消息。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，到了我给您发消息。",
+              "id": "s28_3_0012_reply01",
+              "meaning_vi": "Vâng, hàng về tôi nhắn cho anh/chị."
+            },
+            {
+              "text": "好的，请留个能联系到您的号码。",
+              "id": "s28_3_0012_reply02",
+              "meaning_vi": "Vâng, xin để lại số điện thoại có thể liên lạc."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“发消息”是到货后告知，须提供正确联系方式且不等于自动预定。",
+              "text_vi": "Nhắn khi hàng về yêu cầu thông tin liên hệ chính xác, không đồng nghĩa đã tự đặt trước món hàng."
+            }
+          ],
+          "pinyin": "dào huò yǐ hòu gěi wǒ fā xiāo xi",
+          "meaning_vi": "Hàng về thì nhắn tôi nhé.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0013",
+          "level": "listen",
+          "text": "我帮您找。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，谢谢您。",
+              "id": "s28_3_0013_reply01",
+              "meaning_vi": "Vâng, cảm ơn anh/chị."
+            },
+            {
+              "text": "不着急，我等一下。",
+              "id": "s28_3_0013_reply02",
+              "meaning_vi": "Không vội, tôi chờ chút."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“我帮您找”表示协助寻找，不代表店员已确定有货。",
+              "text_vi": "“我帮您找” chỉ là đang hỗ trợ tìm, chưa khẳng định tìm được hàng."
+            }
+          ],
+          "pinyin": "wǒ bāng nín zhǎo",
+          "meaning_vi": "Để tôi tìm giúp anh/chị.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0014",
+          "level": "listen",
+          "text": "这个码没货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那有大一码的吗？",
+              "id": "s28_3_0014_reply01",
+              "meaning_vi": "Vậy có cỡ lớn hơn một số không?"
+            },
+            {
+              "text": "别的门店还有吗？",
+              "id": "s28_3_0014_reply02",
+              "meaning_vi": "Chi nhánh khác còn không?"
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“这个码没货”只限定某个尺码，问其他号码或门店可继续选择。",
+              "text_vi": "“这个码没货” chỉ nói size này hết, vẫn có thể hỏi size hoặc chi nhánh khác."
+            }
+          ],
+          "pinyin": "zhè ge mǎ méi huò",
+          "meaning_vi": "Cỡ này hết hàng.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0015",
+          "level": "listen",
+          "text": "仓库还有一件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "太好了，可以拿给我试试吗？",
+              "id": "s28_3_0015_reply01",
+              "meaning_vi": "Tốt quá, anh/chị lấy cho tôi thử được không?"
+            },
+            {
+              "text": "麻烦先帮我留一下。",
+              "id": "s28_3_0015_reply02",
+              "meaning_vi": "Phiền giữ giúp tôi trước nhé."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“仓库还有一件”说明仓库账面有件，能否取出需进一步确认。",
+              "text_vi": "“仓库还有一件” nói kho ghi còn một món, vẫn cần xác nhận có thể lấy ra bán."
+            }
+          ],
+          "pinyin": "cāng kù hái yǒu yí jiàn",
+          "meaning_vi": "Kho còn một chiếc.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0016",
+          "level": "listen",
+          "text": "可以调货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那大概要多久到？",
+              "id": "s28_3_0016_reply01",
+              "meaning_vi": "Vậy khoảng bao lâu mới tới?"
+            },
+            {
+              "text": "好的，麻烦帮我调一下。",
+              "id": "s28_3_0016_reply02",
+              "meaning_vi": "Được, phiền chuyển hàng giúp tôi."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“可以调货”表示允许调拨，尚未说明预计到货日和付款规则。",
+              "text_vi": "“可以调货” là có thể chuyển hàng, chưa xác định ngày tới hoặc có phải trả trước không."
+            }
+          ],
+          "pinyin": "kě yǐ diào huò",
+          "meaning_vi": "Có thể điều hàng.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0017",
+          "level": "listen",
+          "text": "别的店有库存。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那家店在哪里？",
+              "id": "s28_3_0017_reply01",
+              "meaning_vi": "Cửa hàng đó ở đâu?"
+            },
+            {
+              "text": "可以从那家店调过来吗？",
+              "id": "s28_3_0017_reply02",
+              "meaning_vi": "Có thể điều hàng từ cửa hàng đó tới không?"
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“别的店有库存”指其他门店现货，不能直接认为本店现在可提货。",
+              "text_vi": "Chi nhánh khác còn hàng không có nghĩa cửa hàng này có hàng lấy ngay."
+            }
+          ],
+          "pinyin": "bié de diàn yǒu kù cún",
+          "meaning_vi": "Cửa hàng khác còn tồn kho.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0018",
+          "level": "listen",
+          "text": "调货要两天。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，那帮我调吧。",
+              "id": "s28_3_0018_reply01",
+              "meaning_vi": "Được, vậy giúp tôi chuyển hàng nhé."
+            },
+            {
+              "text": "我想想，晚点再决定。",
+              "id": "s28_3_0018_reply02",
+              "meaning_vi": "Để tôi suy nghĩ, lát nữa quyết định."
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“调货要两天”指预计调拨所需时间，遇到延误仍应再确认。",
+              "text_vi": "“调货要两天” thường là dự kiến khoảng hai ngày, có thể thay đổi nếu vận chuyển chậm."
+            }
+          ],
+          "pinyin": "diào huò yào liǎng tiān",
+          "meaning_vi": "Điều hàng mất hai ngày.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0019",
+          "level": "listen",
+          "text": "新货下周到。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，下周我再来。",
+              "id": "s28_3_0019_reply01",
+              "meaning_vi": "Được, tuần sau tôi quay lại."
+            },
+            {
+              "text": "到货能通知我吗？",
+              "id": "s28_3_0019_reply02",
+              "meaning_vi": "Khi có hàng, anh/chị báo tôi được không?"
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“新货下周到”指预计补货，不保证所需颜色和尺码一定包含在内。",
+              "text_vi": "“新货下周到” là kế hoạch nhập hàng, chưa chắc có đủ màu và size bạn cần."
+            }
+          ],
+          "pinyin": "xīn huò xià zhōu dào",
+          "meaning_vi": "Hàng mới về tuần sau.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0020",
+          "level": "listen",
+          "text": "可以帮您留到今天晚上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我今晚来取。",
+              "id": "s28_3_0020_reply01",
+              "meaning_vi": "Được, tối nay tôi tới lấy."
+            },
+            {
+              "text": "谢谢，需要先付定金吗？",
+              "id": "s28_3_0020_reply02",
+              "meaning_vi": "Cảm ơn, có cần đặt cọc trước không?"
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“留到今天晚上”表示只预留到指定时间，之后可能不再保留。",
+              "text_vi": "“留到今天晚上” nghĩa là giữ hàng tới tối nay, hết thời hạn có thể không giữ nữa."
+            }
+          ],
+          "pinyin": "kě yǐ bāng nín liú dào jīn tiān wǎn shang",
+          "meaning_vi": "Có thể giữ cho anh/chị tới tối nay.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        },
+        {
+          "id": "s28_3_0021",
+          "level": "listen",
+          "text": "到货以后会通知您。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，谢谢。",
+              "id": "s28_3_0021_reply01",
+              "meaning_vi": "Vâng, cảm ơn."
+            },
+            {
+              "text": "可以发短信通知我吗？",
+              "id": "s28_3_0021_reply02",
+              "meaning_vi": "Có thể nhắn SMS báo tôi không?"
+            }
+          ],
+          "lesson_id": "28.3",
+          "lesson_title": "28.3 换码与查库存",
+          "mistakes": [
+            {
+              "text": "“到货通知”是到货后主动联系，最好确认电话或短信方式。",
+              "text_vi": "“到货通知” là báo khi hàng tới; nên xác nhận dùng điện thoại, tin nhắn hay phương thức nào."
+            }
+          ],
+          "pinyin": "dào huò yǐ hòu huì tōng zhī nín",
+          "meaning_vi": "Hàng về chúng tôi sẽ báo anh/chị.",
+          "lesson_title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+        }
+      ],
+      "opening": "喜欢的款式没有合适尺码时，练习查仓库、其他门店和线上库存，商量调货、预留与到货通知。",
+      "subtitle": "21张实用口语卡",
+      "title_vi": "28.3 Đổi size và kiểm tra hàng tồn",
+      "subtitle_vi": "21 thẻ giao tiếp thực tế",
+      "opening_vi": "Khi hết size phù hợp, hỏi kho và chi nhánh khác, điều hàng, giữ hàng, thông báo khi về và có cần đặt cọc không."
+    }
+  ],
+  "card_count": 64,
+  "lesson_counts": {
+    "28.1": 20,
+    "28.2": 23,
+    "28.3": 21
+  },
+  "theme_title_vi": "28 Mua quần áo và giày dép"
+}
