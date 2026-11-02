@@ -1,0 +1,2529 @@
+{
+  "theme_id": "29",
+  "version": 1,
+  "updated_at": "2026-11-02T15:27:44.125Z",
+  "theme_title": "29 一般商品购物",
+  "quality_standard": "Vietnamese adaptation of theme 29; Mandarin text, pinyin, IDs, lesson/card order, level and card_count preserved. All Vietnamese usage notes translated. Native-speaker linguistics, live audio and app runtime validation pending.",
+  "source_phrase_count": 82,
+  "lessons": [
+    {
+      "id": "29.1",
+      "title": "29.1 询问有无与型号",
+      "phrases": [
+        {
+          "id": "s29_1_0001",
+          "level": "must",
+          "text": "你们有这个吗？",
+          "alternatives": [
+            {
+              "text": "你们这里有这个吗？",
+              "id": "s29_1_0001_alt01",
+              "meaning_vi": "Ở đây có loại này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，货架在左边。",
+              "id": "s29_1_0001_reply01",
+              "meaning_vi": "Có, kệ hàng ở bên trái."
+            },
+            {
+              "text": "不好意思，这种暂时没有。",
+              "id": "s29_1_0001_reply02",
+              "meaning_vi": "Xin lỗi, loại này hiện tạm hết."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“你们有这个吗”是在问本店是否有该商品，手指指向或出示图片才能明确“这个”指什么。",
+              "text_vi": "“你们有这个吗” hỏi cửa hàng có món đang chỉ hay không; cần đưa ảnh hoặc chỉ rõ món."
+            }
+          ],
+          "pinyin": "nǐ men yǒu zhè ge ma",
+          "meaning_vi": "Bên mình có món này không?",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0002",
+          "level": "must",
+          "text": "这里卖充电器吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "卖，充电器在电子用品区。",
+              "id": "s29_1_0002_reply01",
+              "meaning_vi": "Có, bộ sạc ở khu đồ điện tử."
+            },
+            {
+              "text": "充电器没有，只有充电线。",
+              "id": "s29_1_0002_reply02",
+              "meaning_vi": "Không có bộ sạc, chỉ có dây sạc."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“充电器”是充电头、适配器等充电设备；“充电线”是线，不要混译。",
+              "text_vi": "“充电器” là bộ sạc hoặc củ sạc, khác “充电线” là dây sạc."
+            }
+          ],
+          "pinyin": "zhè lǐ mài chōng diàn qì ma",
+          "meaning_vi": "Ở đây có bán bộ sạc không?",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0003",
+          "level": "must",
+          "text": "有别的型号吗？",
+          "alternatives": [
+            {
+              "text": "还有其他型号吗？",
+              "id": "s29_1_0003_alt01",
+              "meaning_vi": "Còn mẫu khác không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，还有一款新型号。",
+              "id": "s29_1_0003_reply01",
+              "meaning_vi": "Có, còn một mẫu mới."
+            },
+            {
+              "text": "没有，目前只有这一款。",
+              "id": "s29_1_0003_reply02",
+              "meaning_vi": "Không, hiện chỉ có mẫu này."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“型号”表示产品具体型号，不是品牌；同品牌仍可能有多个型号。",
+              "text_vi": "“型号” là mã hoặc mẫu sản phẩm cụ thể, khác thương hiệu; cùng hãng có nhiều mẫu."
+            }
+          ],
+          "pinyin": "yǒu bié de xíng hào ma",
+          "meaning_vi": "Có mẫu mã khác không?",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0004",
+          "level": "must",
+          "text": "这个还有吗？",
+          "alternatives": [
+            {
+              "text": "这种还有货吗？",
+              "id": "s29_1_0004_alt01",
+              "meaning_vi": "Loại này còn hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，还剩两件。",
+              "id": "s29_1_0004_reply01",
+              "meaning_vi": "Có, chỉ còn hai món."
+            },
+            {
+              "text": "刚卖完，要等补货。",
+              "id": "s29_1_0004_reply02",
+              "meaning_vi": "Vừa bán hết, phải chờ nhập thêm hàng."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“还有货吗”是问目前是否有库存，不表示已预留；“卖完了”可追问补货。",
+              "text_vi": "“还有货吗” hỏi còn hàng hiện tại, chưa phải giữ hàng. Hết hàng có thể hỏi khi nào nhập lại."
+            }
+          ],
+          "pinyin": "zhè ge hái yǒu ma",
+          "meaning_vi": "Món này còn không?",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0005",
+          "level": "must",
+          "text": "有没有同款？",
+          "alternatives": [
+            {
+              "text": "还有一样的款式吗？",
+              "id": "s29_1_0005_alt01",
+              "meaning_vi": "Còn kiểu giống vậy không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，仓库还有一件同款。",
+              "id": "s29_1_0005_reply01",
+              "meaning_vi": "Có, trong kho còn một món cùng mẫu."
+            },
+            {
+              "text": "同款没有了，我给您看看类似的。",
+              "id": "s29_1_0005_reply02",
+              "meaning_vi": "Hết mẫu y hệt rồi, để tôi giới thiệu mẫu tương tự."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“同款”指相同款式；相似款不是同款。",
+              "text_vi": "“同款” là cùng một mẫu thiết kế, mẫu tương tự không phải mẫu giống hệt."
+            }
+          ],
+          "pinyin": "yǒu méi yǒu tóng kuǎn",
+          "meaning_vi": "Có mẫu giống hệt không?",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0006",
+          "level": "must",
+          "text": "我想找这个型号。",
+          "alternatives": [
+            {
+              "text": "我想买这个型号。",
+              "id": "s29_1_0006_alt01",
+              "meaning_vi": "Tôi muốn mua mẫu mã này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您把型号给我看一下，我帮您找。",
+              "id": "s29_1_0006_reply01",
+              "meaning_vi": "Anh/chị cho tôi xem mã mẫu, tôi tìm giúp."
+            },
+            {
+              "text": "这个型号没有了，可以看看新款。",
+              "id": "s29_1_0006_reply02",
+              "meaning_vi": "Mẫu này hết rồi, anh/chị có thể xem mẫu mới."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“找这个型号”只是寻找指定型号，“买这个型号”则明确提出购买意向，不能把二者完全等同。",
+              "text_vi": "“找这个型号” là đang tìm mã mẫu, còn “买这个型号” nói rõ ý định mua."
+            }
+          ],
+          "pinyin": "wǒ xiǎng zhǎo zhè ge xíng hào",
+          "meaning_vi": "Tôi muốn tìm đúng mã sản phẩm này.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0007",
+          "level": "must",
+          "text": "可以预订吗？",
+          "alternatives": [
+            {
+              "text": "这个能提前订吗？",
+              "id": "s29_1_0007_alt01",
+              "meaning_vi": "Có thể đặt hàng trước loại này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，先登记型号，到货后通知您。",
+              "id": "s29_1_0007_reply01",
+              "meaning_vi": "Được, đăng ký mã mẫu trước, hàng về tôi báo anh/chị."
+            },
+            {
+              "text": "不好意思，这款暂时不能预订。",
+              "id": "s29_1_0007_reply02",
+              "meaning_vi": "Xin lỗi, mẫu này hiện chưa nhận đặt trước."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“预订”不是已付款；可能需要定金，先问清条件。",
+              "text_vi": "“预订” là đặt trước, chưa chắc đã trả tiền. Phải hỏi có cần đặt cọc và điều kiện hủy không."
+            }
+          ],
+          "pinyin": "kě yǐ yù dìng ma",
+          "meaning_vi": "Có thể đặt trước không?",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0008",
+          "level": "must",
+          "text": "这里卖这个吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "卖，在第二排。",
+              "id": "s29_1_0008_reply01",
+              "meaning_vi": "Có, ở dãy thứ hai."
+            },
+            {
+              "text": "我们店不卖这种。",
+              "id": "s29_1_0008_reply02",
+              "meaning_vi": "Cửa hàng chúng tôi không bán loại này."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“这里卖这个吗”问是否经营该类商品，回答“不卖”不同于“暂时没货”。",
+              "text_vi": "Hỏi cửa hàng có bán mặt hàng này không khác với hỏi tạm thời hết hàng."
+            }
+          ],
+          "pinyin": "zhè lǐ mài zhè ge ma",
+          "meaning_vi": "Ở đây có bán món này không?",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0009",
+          "level": "must",
+          "text": "没有的话我再看看。",
+          "alternatives": [
+            {
+              "text": "没有的话我看看别的。",
+              "id": "s29_1_0009_alt01",
+              "meaning_vi": "Không có thì tôi xem món khác."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，您慢慢看。",
+              "id": "s29_1_0009_reply01",
+              "meaning_vi": "Vâng, anh/chị cứ xem từ từ."
+            },
+            {
+              "text": "没关系，我再给您推荐别的。",
+              "id": "s29_1_0009_reply02",
+              "meaning_vi": "Không sao, tôi giới thiệu loại khác cho anh/chị."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“没有的话”提出条件：如果没货才考虑其他商品；不是已经确定下单。",
+              "text_vi": "“没有的话” nêu điều kiện nếu hết hàng thì xem món khác, không có nghĩa đã đặt mua."
+            }
+          ],
+          "pinyin": "méi yǒu de huà wǒ zài kàn kàn",
+          "meaning_vi": "Không có thì để tôi xem thêm.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0010",
+          "level": "must",
+          "text": "我要这种。",
+          "alternatives": [
+            {
+              "text": "就要这种。",
+              "id": "s29_1_0010_alt01",
+              "meaning_vi": "Tôi chỉ lấy loại này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，要几个？",
+              "id": "s29_1_0010_reply01",
+              "meaning_vi": "Vâng, lấy mấy cái?"
+            },
+            {
+              "text": "可以，我给您拿一个新的。",
+              "id": "s29_1_0010_reply02",
+              "meaning_vi": "Được, tôi lấy món mới cho anh/chị."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“我要这种”是在选择这一类或款式；具体颜色、规格和数量仍可能要另说。",
+              "text_vi": "“我要这种” chọn loại hoặc mẫu, vẫn có thể phải nói rõ màu, kích cỡ và số lượng."
+            }
+          ],
+          "pinyin": "wǒ yào zhè zhǒng",
+          "meaning_vi": "Tôi lấy loại này.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0011",
+          "level": "must",
+          "text": "没有就算了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，不好意思让您白跑一趟。",
+              "id": "s29_1_0011_reply01",
+              "meaning_vi": "Vâng, xin lỗi đã để anh/chị mất công đến đây."
+            },
+            {
+              "text": "要不您看看这一款类似的？",
+              "id": "s29_1_0011_reply02",
+              "meaning_vi": "Hay anh/chị xem mẫu tương tự này?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“没有就算了”是礼貌地放弃此次购买，不等于商品以后永远不要。",
+              "text_vi": "“没有就算了” là tạm bỏ ý định mua lần này, không phải vĩnh viễn không cần món đó."
+            }
+          ],
+          "pinyin": "méi yǒu jiù suàn le",
+          "meaning_vi": "Không có thì thôi vậy.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0012",
+          "level": "listen",
+          "text": "有，在那边。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我过去看看。",
+              "id": "s29_1_0012_reply01",
+              "meaning_vi": "Được, tôi qua đó xem."
+            },
+            {
+              "text": "能指一下具体位置吗？",
+              "id": "s29_1_0012_reply02",
+              "meaning_vi": "Chỉ giúp vị trí cụ thể được không?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“在那边”只给出大致方向；需要准确货架时可问“具体在哪一排”。",
+              "text_vi": "“在那边” chỉ hướng chung, chưa xác định kệ chính xác; có thể hỏi thêm dãy nào."
+            }
+          ],
+          "pinyin": "yǒu zài nà biān",
+          "meaning_vi": "Có, ở phía kia.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0013",
+          "level": "listen",
+          "text": "暂时没货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概什么时候补货？",
+              "id": "s29_1_0013_reply01",
+              "meaning_vi": "Khoảng khi nào nhập thêm hàng?"
+            },
+            {
+              "text": "那有别的型号吗？",
+              "id": "s29_1_0013_reply02",
+              "meaning_vi": "Vậy có mã mẫu khác không?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“暂时没货”说明目前缺货，不等于停产，补货时间也未必已确定。",
+              "text_vi": "“暂时没货” nghĩa là hiện chưa có hàng, khác sản phẩm ngừng sản xuất. Ngày nhập lại cũng chưa chắc."
+            }
+          ],
+          "pinyin": "zàn shí méi huò",
+          "meaning_vi": "Tạm thời hết hàng.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0014",
+          "level": "listen",
+          "text": "只有这个型号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我先看看这个。",
+              "id": "s29_1_0014_reply01",
+              "meaning_vi": "Vậy tôi xem món này trước."
+            },
+            {
+              "text": "还有其他牌子吗？",
+              "id": "s29_1_0014_reply02",
+              "meaning_vi": "Còn thương hiệu khác không?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“只有这个型号”是现有型号选择只有一种，不等于品牌只有一家或所有颜色都齐全。",
+              "text_vi": "“只有这个型号” nghĩa là hiện chỉ có một lựa chọn mẫu, không có nghĩa mọi màu và mọi nhãn hiệu đều còn."
+            }
+          ],
+          "pinyin": "zhǐ yǒu zhè ge xíng hào",
+          "meaning_vi": "Chỉ có mẫu này thôi.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0015",
+          "level": "listen",
+          "text": "可以网上订。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在你们官网吗？",
+              "id": "s29_1_0015_reply01",
+              "meaning_vi": "Đặt trên trang web chính thức của quán à?"
+            },
+            {
+              "text": "网上订了可以到店取吗？",
+              "id": "s29_1_0015_reply02",
+              "meaning_vi": "Đặt online rồi đến cửa hàng lấy được không?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“网上订”指在线下单，未必可以门店提货；要确认官方渠道、配送或自取规则。",
+              "text_vi": "“网上订” là đặt hàng online, không chắc được đến cửa hàng lấy; nên hỏi web chính thức và cách nhận."
+            }
+          ],
+          "pinyin": "kě yǐ wǎng shàng dìng",
+          "meaning_vi": "Có thể đặt hàng online.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0016",
+          "level": "listen",
+          "text": "这个已经停产了。",
+          "alternatives": [
+            {
+              "text": "这款已经不生产了。",
+              "id": "s29_1_0016_alt01",
+              "meaning_vi": "Mẫu này không còn được sản xuất nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那有替代型号吗？",
+              "id": "s29_1_0016_reply01",
+              "meaning_vi": "Vậy có mẫu thay thế không?"
+            },
+            {
+              "text": "还有旧款库存吗？",
+              "id": "s29_1_0016_reply02",
+              "meaning_vi": "Còn hàng tồn của mẫu cũ không?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“停产”是厂家不再生产，不代表所有商店都无旧库存。",
+              "text_vi": "“停产” là nhà sản xuất ngừng làm mẫu này, nhưng vẫn có thể còn hàng cũ ở kho."
+            }
+          ],
+          "pinyin": "zhè ge yǐ jīng tíng chǎn le",
+          "meaning_vi": "Mẫu này ngừng sản xuất rồi.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0017",
+          "level": "listen",
+          "text": "功能差不多。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那价格有什么区别？",
+              "id": "s29_1_0017_reply01",
+              "meaning_vi": "Vậy giá khác nhau thế nào?"
+            },
+            {
+              "text": "我想看看具体差在哪儿。",
+              "id": "s29_1_0017_reply02",
+              "meaning_vi": "Tôi muốn xem khác nhau cụ thể chỗ nào."
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“功能差不多”仅指功能大致相似，不表示接口、配件、质量或保修完全相同。",
+              "text_vi": "“功能差不多” chỉ công dụng gần giống, không đảm bảo cổng kết nối, linh kiện, chất lượng hay bảo hành giống nhau."
+            }
+          ],
+          "pinyin": "gōng néng chà bù duō",
+          "meaning_vi": "Chức năng gần như nhau.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0018",
+          "level": "listen",
+          "text": "下周会补货。",
+          "alternatives": [
+            {
+              "text": "下个星期会到货。",
+              "id": "s29_1_0018_alt01",
+              "meaning_vi": "Tuần sau hàng sẽ tới."
+            }
+          ],
+          "replies": [
+            {
+              "text": "具体哪天到？",
+              "id": "s29_1_0018_reply01",
+              "meaning_vi": "Chính xác ngày nào hàng tới?"
+            },
+            {
+              "text": "到了可以通知我吗？",
+              "id": "s29_1_0018_reply02",
+              "meaning_vi": "Hàng về có thể báo cho tôi không?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“下周补货”是下周预计重新上架库存；实际到货时间仍应确认。",
+              "text_vi": "“下周补货” là dự kiến có hàng lại tuần sau, ngày chính xác vẫn cần xác nhận."
+            }
+          ],
+          "pinyin": "xià zhōu huì bǔ huò",
+          "meaning_vi": "Tuần sau sẽ nhập thêm hàng.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        },
+        {
+          "id": "s29_1_0019",
+          "level": "listen",
+          "text": "同功能的有这一款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那能给我介绍一下吗？",
+              "id": "s29_1_0019_reply01",
+              "meaning_vi": "Vậy anh/chị giới thiệu giúp tôi được không?"
+            },
+            {
+              "text": "这个价格一样吗？",
+              "id": "s29_1_0019_reply02",
+              "meaning_vi": "Giá mẫu này có giống nhau không?"
+            }
+          ],
+          "lesson_id": "29.1",
+          "lesson_title": "29.1 询问有无与型号",
+          "mistakes": [
+            {
+              "text": "“同功能”只表示完成类似用途，不能直接认定相同型号或相同品质。",
+              "text_vi": "“同功能” nghĩa là làm được việc tương tự, không chắc cùng mã mẫu hoặc chất lượng."
+            }
+          ],
+          "pinyin": "tóng gōng néng de yǒu zhè yì kuǎn",
+          "meaning_vi": "Có mẫu này có chức năng tương tự.",
+          "lesson_title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+        }
+      ],
+      "opening": "拿着商品图片或型号去店里询问是否有同款；没货时问替代型号、到货时间和线上预订方式。",
+      "subtitle": "19张实用口语卡",
+      "title_vi": "29.1 Hỏi có hàng và mã sản phẩm",
+      "subtitle_vi": "19 thẻ giao tiếp thực tế",
+      "opening_vi": "Mang ảnh hoặc mã mẫu để hỏi cửa hàng có bán hay không, so mẫu tương tự, hỏi nhập lại và đặt trước qua web."
+    },
+    {
+      "id": "29.2",
+      "title": "29.2 比较质量与功能",
+      "phrases": [
+        {
+          "id": "s29_2_0001",
+          "level": "must",
+          "text": "哪个质量好？",
+          "alternatives": [
+            {
+              "text": "哪个品质更好？",
+              "id": "s29_2_0001_alt01",
+              "meaning_vi": "Mẫu nào có chất lượng tốt hơn?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这款用料更结实。",
+              "id": "s29_2_0001_reply01",
+              "meaning_vi": "Mẫu này dùng vật liệu chắc chắn hơn."
+            },
+            {
+              "text": "两款质量都不错，主要是功能不同。",
+              "id": "s29_2_0001_reply02",
+              "meaning_vi": "Cả hai mẫu chất lượng đều khá, chủ yếu khác chức năng."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "质量好要看材质、做工和使用需求，不能只凭价格判断。",
+              "text_vi": "Chất lượng tốt cần xét vật liệu, gia công và nhu cầu sử dụng, không chỉ dựa vào giá."
+            }
+          ],
+          "pinyin": "nǎ ge zhì liàng hǎo",
+          "meaning_vi": "Loại nào chất lượng tốt hơn?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0002",
+          "level": "must",
+          "text": "这个耐用吗？",
+          "alternatives": [
+            {
+              "text": "这个结实吗？",
+              "id": "s29_2_0002_alt01",
+              "meaning_vi": "Cái này có chắc chắn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "正常使用的话挺耐用的。",
+              "id": "s29_2_0002_reply01",
+              "meaning_vi": "Dùng đúng cách thì khá bền."
+            },
+            {
+              "text": "要看怎么用，保养得好会更耐用。",
+              "id": "s29_2_0002_reply02",
+              "meaning_vi": "Còn tùy cách dùng, giữ gìn tốt thì sẽ bền hơn."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "耐用程度因具体使用方式而异，店员的口头保证不等于保修承诺。",
+              "text_vi": "Độ bền còn tùy cách dùng; lời nhân viên nhận xét không thay thế cam kết bảo hành."
+            }
+          ],
+          "pinyin": "zhè ge nài yòng ma",
+          "meaning_vi": "Cái này có bền không?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0003",
+          "level": "must",
+          "text": "两个有什么区别？",
+          "alternatives": [
+            {
+              "text": "这两个差在哪里？",
+              "id": "s29_2_0003_alt01",
+              "meaning_vi": "Hai mẫu này khác nhau ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这款功能多一点，那款更轻。",
+              "id": "s29_2_0003_reply01",
+              "meaning_vi": "Mẫu này nhiều tính năng hơn, mẫu kia nhẹ hơn."
+            },
+            {
+              "text": "主要是材质不一样。",
+              "id": "s29_2_0003_reply02",
+              "meaning_vi": "Chủ yếu khác chất liệu."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "比较两个商品应明确功能、重量、材质或保修等具体方面。",
+              "text_vi": "Khi so hai món nên xác định khác tính năng, trọng lượng, vật liệu hay bảo hành."
+            }
+          ],
+          "pinyin": "liǎng ge yǒu shén me qū bié",
+          "meaning_vi": "Hai cái này khác nhau thế nào?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0004",
+          "level": "must",
+          "text": "哪个更轻？",
+          "alternatives": [
+            {
+              "text": "哪款比较轻？",
+              "id": "s29_2_0004_alt01",
+              "meaning_vi": "Mẫu nào nhẹ hơn?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "左边这款更轻。",
+              "id": "s29_2_0004_reply01",
+              "meaning_vi": "Mẫu bên trái nhẹ hơn."
+            },
+            {
+              "text": "两款差不多重，您可以拿起来比比。",
+              "id": "s29_2_0004_reply02",
+              "meaning_vi": "Hai mẫu nặng gần như nhau, anh/chị cầm thử để so sánh."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“更轻”比较重量，不一定表示更小或更便宜。",
+              "text_vi": "“更轻” so trọng lượng nhẹ hơn, chưa chắc nhỏ hơn hoặc rẻ hơn."
+            }
+          ],
+          "pinyin": "nǎ ge gèng qīng",
+          "meaning_vi": "Cái nào nhẹ hơn?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0005",
+          "level": "must",
+          "text": "这个为什么更贵？",
+          "alternatives": [
+            {
+              "text": "这款怎么贵一点？",
+              "id": "s29_2_0005_alt01",
+              "meaning_vi": "Sao mẫu này lại đắt hơn một chút?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这款多了一个功能，所以贵一些。",
+              "id": "s29_2_0005_reply01",
+              "meaning_vi": "Mẫu này có thêm một tính năng nên đắt hơn."
+            },
+            {
+              "text": "主要是用料更好。",
+              "id": "s29_2_0005_reply02",
+              "meaning_vi": "Chủ yếu do vật liệu tốt hơn."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“更贵”是价格比较，须询问差额和增加的功能。",
+              "text_vi": "“更贵” là giá cao hơn, nên hỏi chênh lệch và tính năng thêm."
+            }
+          ],
+          "pinyin": "zhè ge wèi shén me gèng guì",
+          "meaning_vi": "Tại sao cái này đắt hơn?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0006",
+          "level": "must",
+          "text": "哪个更适合每天用？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这款操作简单，适合每天用。",
+              "id": "s29_2_0006_reply01",
+              "meaning_vi": "Mẫu này dễ sử dụng, hợp dùng hằng ngày."
+            },
+            {
+              "text": "如果经常用，我更推荐这一款。",
+              "id": "s29_2_0006_reply02",
+              "meaning_vi": "Nếu dùng thường xuyên, tôi đề xuất mẫu này hơn."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "每天用需要考虑操作方便、舒适和维护，不只看价格。",
+              "text_vi": "Dùng hằng ngày cần xem thao tác, mức tiện và bảo trì chứ không chỉ giá."
+            }
+          ],
+          "pinyin": "nǎ ge gèng shì hé měi tiān yòng",
+          "meaning_vi": "Loại nào phù hợp dùng hằng ngày hơn?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0007",
+          "level": "must",
+          "text": "我想要质量好一点的。",
+          "alternatives": [
+            {
+              "text": "我想买质量更好的。",
+              "id": "s29_2_0007_alt01",
+              "meaning_vi": "Tôi muốn mua món chất lượng tốt hơn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那您看看这款，做工更扎实。",
+              "id": "s29_2_0007_reply01",
+              "meaning_vi": "Anh/chị xem mẫu này nhé, gia công chắc chắn hơn."
+            },
+            {
+              "text": "您更在意耐用，还是保修时间？",
+              "id": "s29_2_0007_reply02",
+              "meaning_vi": "Anh/chị coi trọng độ bền hay thời hạn bảo hành hơn?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“质量好一点”是希望更可靠，不是要求尺寸变大。",
+              "text_vi": "“质量好一点” là muốn chất lượng tin cậy hơn, không phải muốn size lớn hơn."
+            }
+          ],
+          "pinyin": "wǒ xiǎng yào zhì liàng hǎo yì diǎn de",
+          "meaning_vi": "Tôi muốn loại có chất lượng tốt hơn.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0008",
+          "level": "must",
+          "text": "哪个保修更久？",
+          "alternatives": [
+            {
+              "text": "哪款保修期更长？",
+              "id": "s29_2_0008_alt01",
+              "meaning_vi": "Mẫu nào có thời hạn bảo hành dài hơn?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这款保修两年，那款一年。",
+              "id": "s29_2_0008_reply01",
+              "meaning_vi": "Mẫu này bảo hành hai năm, mẫu kia một năm."
+            },
+            {
+              "text": "两款都保修一年。",
+              "id": "s29_2_0008_reply02",
+              "meaning_vi": "Cả hai đều bảo hành một năm."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“保修”是一定范围内的维修服务，不等于保证免费换新。",
+              "text_vi": "“保修” là sửa chữa theo điều kiện bảo hành, chưa chắc được đổi mới miễn phí."
+            }
+          ],
+          "pinyin": "nǎ ge bǎo xiū gèng jiǔ",
+          "meaning_vi": "Loại nào bảo hành lâu hơn?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0009",
+          "level": "must",
+          "text": "主要差在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "主要差在容量和材料。",
+              "id": "s29_2_0009_reply01",
+              "meaning_vi": "Khác nhau chủ yếu về dung lượng và vật liệu."
+            },
+            {
+              "text": "一个能充电，一个只能插电用。",
+              "id": "s29_2_0009_reply02",
+              "meaning_vi": "Một cái sạc pin được, cái kia chỉ dùng khi cắm điện."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“主要差在哪儿”可追问容量、材料及电源类型。",
+              "text_vi": "“主要差在哪儿” có thể hỏi dung lượng, chất liệu hoặc cách cấp điện."
+            }
+          ],
+          "pinyin": "zhǔ yào chà zài nǎr",
+          "meaning_vi": "Khác nhau chủ yếu ở đâu?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0010",
+          "level": "must",
+          "text": "哪个更省电？",
+          "alternatives": [
+            {
+              "text": "哪个耗电更少？",
+              "id": "s29_2_0010_alt01",
+              "meaning_vi": "Loại nào tiêu thụ ít điện hơn?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这款标的耗电量更低。",
+              "id": "s29_2_0010_reply01",
+              "meaning_vi": "Mức tiêu thụ điện ghi trên mẫu này thấp hơn."
+            },
+            {
+              "text": "两款耗电量差不多。",
+              "id": "s29_2_0010_reply02",
+              "meaning_vi": "Hai mẫu tiêu thụ điện gần như nhau."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "省电要看产品标注的功率/耗电量和实际使用时间。",
+              "text_vi": "Tiết kiệm điện cần đối chiếu công suất và điện năng tiêu thụ với thời gian dùng thực tế."
+            }
+          ],
+          "pinyin": "nǎ ge gèng shěng diàn",
+          "meaning_vi": "Loại nào tiết kiệm điện hơn?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0011",
+          "level": "must",
+          "text": "这个和那个哪个更耐用？",
+          "alternatives": [
+            {
+              "text": "这两款哪个更耐用？",
+              "id": "s29_2_0011_alt01",
+              "meaning_vi": "Trong hai mẫu này, mẫu nào bền hơn?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "如果经常用，我更推荐这个。",
+              "id": "s29_2_0011_reply01",
+              "meaning_vi": "Nếu dùng thường xuyên, tôi giới thiệu loại này hơn."
+            },
+            {
+              "text": "两款用料一样，耐用程度差不多。",
+              "id": "s29_2_0011_reply02",
+              "meaning_vi": "Hai mẫu cùng vật liệu nên độ bền gần như nhau."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“耐用”不能仅凭外观保证，可看材料与售后条件。",
+              "text_vi": "“耐用” không thể chỉ nhìn bề ngoài để đảm bảo; nên hỏi vật liệu và bảo hành."
+            }
+          ],
+          "pinyin": "zhè ge hé nà ge nǎ ge gèng nài yòng",
+          "meaning_vi": "Cái này và cái kia, cái nào bền hơn?",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0012",
+          "level": "listen",
+          "text": "这个质量更好。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我看看这款的做工。",
+              "id": "s29_2_0012_reply01",
+              "meaning_vi": "Vậy để tôi xem chất lượng gia công mẫu này."
+            },
+            {
+              "text": "好，这款比那款贵多少？",
+              "id": "s29_2_0012_reply02",
+              "meaning_vi": "Được, mẫu này đắt hơn mẫu kia bao nhiêu?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“质量更好”是相对判断，可要求具体依据。",
+              "text_vi": "“质量更好” là so sánh tương đối; có thể xin căn cứ cụ thể."
+            }
+          ],
+          "pinyin": "zhè ge zhì liàng gèng hǎo",
+          "meaning_vi": "Cái này chất lượng tốt hơn.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0013",
+          "level": "listen",
+          "text": "功能一样。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我选便宜一点的。",
+              "id": "s29_2_0013_reply01",
+              "meaning_vi": "Vậy tôi chọn loại rẻ hơn."
+            },
+            {
+              "text": "那保修也一样吗？",
+              "id": "s29_2_0013_reply02",
+              "meaning_vi": "Thế bảo hành cũng giống nhau à?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“功能一样”不代表品牌、保修和用料完全一致。",
+              "text_vi": "Cùng chức năng không có nghĩa cùng thương hiệu, điều kiện bảo hành hay vật liệu."
+            }
+          ],
+          "pinyin": "gōng néng yí yàng",
+          "meaning_vi": "Chức năng giống nhau.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0014",
+          "level": "listen",
+          "text": "这个保修时间长。",
+          "alternatives": [
+            {
+              "text": "这款保修期比较长。",
+              "id": "s29_2_0014_alt01",
+              "meaning_vi": "Mẫu này bảo hành khá lâu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "具体保修几年？",
+              "id": "s29_2_0014_reply01",
+              "meaning_vi": "Cụ thể bảo hành mấy năm?"
+            },
+            {
+              "text": "保修范围包括哪些？",
+              "id": "s29_2_0014_reply02",
+              "meaning_vi": "Bảo hành bao gồm những gì?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“保修时间长”不等于保修范围更广。",
+              "text_vi": "Bảo hành lâu hơn chưa chắc phạm vi bảo hành rộng hơn."
+            }
+          ],
+          "pinyin": "zhè ge bǎo xiū shí jiān cháng",
+          "meaning_vi": "Loại này có thời hạn bảo hành dài.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0015",
+          "level": "listen",
+          "text": "主要是材料不同。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那哪一种更耐用？",
+              "id": "s29_2_0015_reply01",
+              "meaning_vi": "Vậy loại nào bền hơn?"
+            },
+            {
+              "text": "可以让我摸摸看吗？",
+              "id": "s29_2_0015_reply02",
+              "meaning_vi": "Cho tôi sờ thử được không?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“材料不同”不必然意味着某一款更安全或更好。",
+              "text_vi": "Vật liệu khác chưa chắc mẫu nào an toàn hơn; phải xem tính chất và công dụng."
+            }
+          ],
+          "pinyin": "zhǔ yào shì cái liào bù tóng",
+          "meaning_vi": "Chủ yếu khác vật liệu.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0016",
+          "level": "listen",
+          "text": "这款更轻，方便携带。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那出门带着方便。",
+              "id": "s29_2_0016_reply01",
+              "meaning_vi": "Vậy mang ra ngoài tiện hơn."
+            },
+            {
+              "text": "能让我拿一下试试重量吗？",
+              "id": "s29_2_0016_reply02",
+              "meaning_vi": "Cho tôi cầm thử xem nặng nhẹ được không?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“更轻”指携带重量，不一定说明使用寿命更长。",
+              "text_vi": "“更轻” nói cân nặng khi mang theo, không khẳng định tuổi thọ dài hơn."
+            }
+          ],
+          "pinyin": "zhè kuǎn gèng qīng fāng biàn xié dài",
+          "meaning_vi": "Mẫu này nhẹ hơn, dễ mang theo.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0017",
+          "level": "listen",
+          "text": "贵的是新款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那新款多了什么功能？",
+              "id": "s29_2_0017_reply01",
+              "meaning_vi": "Vậy mẫu mới có thêm tính năng nào?"
+            },
+            {
+              "text": "旧款还在卖吗？",
+              "id": "s29_2_0017_reply02",
+              "meaning_vi": "Mẫu cũ còn bán không?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“新款”是较新的型号，不保证价格更合理。",
+              "text_vi": "“新款” chỉ mẫu ra mới hơn, không bảo đảm mua đáng tiền hơn."
+            }
+          ],
+          "pinyin": "guì de shì xīn kuǎn",
+          "meaning_vi": "Loại đắt hơn là mẫu mới.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0018",
+          "level": "listen",
+          "text": "耐用性差不多。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我按价格选吧。",
+              "id": "s29_2_0018_reply01",
+              "meaning_vi": "Vậy tôi chọn theo giá nhé."
+            },
+            {
+              "text": "那哪个保修更久？",
+              "id": "s29_2_0018_reply02",
+              "meaning_vi": "Vậy loại nào bảo hành lâu hơn?"
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“耐用性差不多”不等于存在正式寿命保证。",
+              "text_vi": "Độ bền gần bằng nhau không phải cam kết về tuổi thọ chính thức."
+            }
+          ],
+          "pinyin": "nài yòng xìng chà bù duō",
+          "meaning_vi": "Độ bền gần như nhau.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        },
+        {
+          "id": "s29_2_0019",
+          "level": "listen",
+          "text": "这款更适合每天用。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "为什么这款更适合？",
+              "id": "s29_2_0019_reply01",
+              "meaning_vi": "Tại sao mẫu này phù hợp hơn?"
+            },
+            {
+              "text": "那麻烦让我试一下。",
+              "id": "s29_2_0019_reply02",
+              "meaning_vi": "Vậy phiền cho tôi thử một chút."
+            }
+          ],
+          "lesson_id": "29.2",
+          "lesson_title": "29.2 比较质量与功能",
+          "mistakes": [
+            {
+              "text": "“适合每天用”应结合个人使用频率和需求。",
+              "text_vi": "“适合每天用” là hợp nhu cầu dùng hằng ngày, tùy cường độ và cách sử dụng."
+            }
+          ],
+          "pinyin": "zhè kuǎn gèng shì hé měi tiān yòng",
+          "meaning_vi": "Mẫu này phù hợp dùng hằng ngày hơn.",
+          "lesson_title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+        }
+      ],
+      "opening": "挑充电器或日用品时，比较两款商品的耐用性、功能、材质、耗电和保修，不只听“这个更好”就决定。",
+      "subtitle": "19张实用口语卡",
+      "title_vi": "29.2 So chất lượng, tính năng và bảo hành",
+      "subtitle_vi": "19 thẻ giao tiếp thực tế",
+      "opening_vi": "So chất liệu, độ bền, mức tiêu thụ điện, tính năng và thời hạn bảo hành để chọn đúng nhu cầu."
+    },
+    {
+      "id": "29.3",
+      "title": "29.3 试用与功能操作",
+      "phrases": [
+        {
+          "id": "s29_3_0001",
+          "level": "must",
+          "text": "可以试一下吗？",
+          "alternatives": [
+            {
+              "text": "能试一下吗？",
+              "id": "s29_3_0001_alt01",
+              "meaning_vi": "Có thể dùng thử không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，您试试这台样机。",
+              "id": "s29_3_0001_reply01",
+              "meaning_vi": "Được, anh/chị dùng thử máy trưng bày này."
+            },
+            {
+              "text": "这个还没拆封，只能试展示机。",
+              "id": "s29_3_0001_reply02",
+              "meaning_vi": "Món này chưa bóc hộp nên chỉ được thử máy trưng bày."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“试一下”是短暂体验，不表示已决定购买。",
+              "text_vi": "“试一下” là trải nghiệm ngắn, chưa phải quyết định mua."
+            }
+          ],
+          "pinyin": "kě yǐ shì yí xià ma",
+          "meaning_vi": "Tôi thử một chút được không?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0002",
+          "level": "must",
+          "text": "这个怎么开？",
+          "alternatives": [
+            {
+              "text": "这个怎么开机？",
+              "id": "s29_3_0002_alt01",
+              "meaning_vi": "Bật máy này thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按住这个电源键两秒。",
+              "id": "s29_3_0002_reply01",
+              "meaning_vi": "Nhấn giữ nút nguồn này hai giây."
+            },
+            {
+              "text": "先接上电源，再按这里。",
+              "id": "s29_3_0002_reply02",
+              "meaning_vi": "Cắm nguồn điện trước, rồi bấm ở đây."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“开机”指启动设备，与打开包装不同；依产品说明操作。",
+              "text_vi": "“开机” là bật thiết bị, khác mở hộp sản phẩm. Nên thao tác theo hướng dẫn."
+            }
+          ],
+          "pinyin": "zhè ge zěn me kāi",
+          "meaning_vi": "Cái này mở thế nào?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0003",
+          "level": "must",
+          "text": "这个功能怎么用？",
+          "alternatives": [
+            {
+              "text": "这个功能怎么操作？",
+              "id": "s29_3_0003_alt01",
+              "meaning_vi": "Thao tác tính năng này ra sao?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先打开设置，再选这个功能。",
+              "id": "s29_3_0003_reply01",
+              "meaning_vi": "Vào cài đặt trước rồi chọn tính năng này."
+            },
+            {
+              "text": "我操作一遍给您看。",
+              "id": "s29_3_0003_reply02",
+              "meaning_vi": "Để tôi làm mẫu một lần cho anh/chị xem."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“功能怎么用”可请店员现场演示，避免自行乱按。",
+              "text_vi": "“功能怎么用” hỏi cách dùng tính năng; có thể nhờ nhân viên làm mẫu để tránh thao tác sai."
+            }
+          ],
+          "pinyin": "zhè ge gōng néng zěn me yòng",
+          "meaning_vi": "Dùng tính năng này thế nào?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0004",
+          "level": "must",
+          "text": "有样品吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，展示样品就在柜台上。",
+              "id": "s29_3_0004_reply01",
+              "meaning_vi": "Có, mẫu trưng bày ngay trên quầy."
+            },
+            {
+              "text": "目前没有样品，您可以看说明书。",
+              "id": "s29_3_0004_reply02",
+              "meaning_vi": "Hiện không có mẫu, anh/chị có thể xem hướng dẫn sử dụng."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“样品”可以是陈列物，未必能够开机操作。",
+              "text_vi": "“样品” có thể chỉ là món trưng bày, chưa chắc bật hoặc thao tác được."
+            }
+          ],
+          "pinyin": "yǒu yàng pǐn ma",
+          "meaning_vi": "Có hàng mẫu không?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0005",
+          "level": "must",
+          "text": "能给我演示一下吗？",
+          "alternatives": [
+            {
+              "text": "可以给我演示一下吗？",
+              "id": "s29_3_0005_alt01",
+              "meaning_vi": "Có thể minh họa cách dùng cho tôi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我给您演示一遍。",
+              "id": "s29_3_0005_reply01",
+              "meaning_vi": "Được, tôi làm mẫu cho anh/chị xem."
+            },
+            {
+              "text": "稍等，我先把电源接上。",
+              "id": "s29_3_0005_reply02",
+              "meaning_vi": "Đợi chút, để tôi cắm nguồn điện trước."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“演示”是店员示范步骤，顾客能否操作要另问。",
+              "text_vi": "“演示” là nhân viên làm mẫu, chưa chắc khách được tự cầm sử dụng."
+            }
+          ],
+          "pinyin": "néng gěi wǒ yǎn shì yí xià ma",
+          "meaning_vi": "Làm mẫu cho tôi xem được không?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0006",
+          "level": "must",
+          "text": "电池能用多久？",
+          "alternatives": [
+            {
+              "text": "满电能用多久？",
+              "id": "s29_3_0006_alt01",
+              "meaning_vi": "Sạc đầy pin thì dùng được bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "正常使用大概八小时。",
+              "id": "s29_3_0006_reply01",
+              "meaning_vi": "Dùng bình thường được khoảng tám tiếng."
+            },
+            {
+              "text": "要看使用方式，连续使用会短一些。",
+              "id": "s29_3_0006_reply02",
+              "meaning_vi": "Tùy cách dùng, dùng liên tục thì thời lượng ngắn hơn."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“能用多久”这里问续航时间，不是电池的总使用寿命。",
+              "text_vi": "“能用多久” ở đây hỏi thời lượng pin một lần sạc, không phải tổng tuổi thọ pin."
+            }
+          ],
+          "pinyin": "diàn chí néng yòng duō jiǔ",
+          "meaning_vi": "Pin dùng được bao lâu?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0007",
+          "level": "must",
+          "text": "这个可以调声音吗？",
+          "alternatives": [
+            {
+              "text": "这个能调音量吗？",
+              "id": "s29_3_0007_alt01",
+              "meaning_vi": "Cái này chỉnh âm lượng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，按这里调大调小。",
+              "id": "s29_3_0007_reply01",
+              "meaning_vi": "Được, bấm ở đây để tăng giảm âm lượng."
+            },
+            {
+              "text": "这款音量是固定的，不能调。",
+              "id": "s29_3_0007_reply02",
+              "meaning_vi": "Mẫu này âm lượng cố định, không chỉnh được."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“调声音”应区分音量大小与音色变化。",
+              "text_vi": "“调声音” phải phân biệt chỉnh âm lượng to nhỏ với đổi chất giọng hoặc âm sắc."
+            }
+          ],
+          "pinyin": "zhè ge kě yǐ tiáo shēng yīn ma",
+          "meaning_vi": "Cái này chỉnh âm thanh được không?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0008",
+          "level": "must",
+          "text": "样品可以开机吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，这台样机已经充好电了。",
+              "id": "s29_3_0008_reply01",
+              "meaning_vi": "Được, máy trưng bày này đã sạc đầy."
+            },
+            {
+              "text": "可以，我先帮您开机。",
+              "id": "s29_3_0008_reply02",
+              "meaning_vi": "Được, để tôi bật máy giúp anh/chị trước."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“样品可以开机吗”应先获得店员许可。",
+              "text_vi": "Muốn bật máy mẫu phải hỏi phép nhân viên trước."
+            }
+          ],
+          "pinyin": "yàng pǐn kě yǐ kāi jī ma",
+          "meaning_vi": "Có bật mẫu trưng bày lên được không?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0009",
+          "level": "must",
+          "text": "这个按键是做什么的？",
+          "alternatives": [
+            {
+              "text": "这个按钮有什么用？",
+              "id": "s29_3_0009_alt01",
+              "meaning_vi": "Nút này có tác dụng gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这个是电源开关。",
+              "id": "s29_3_0009_reply01",
+              "meaning_vi": "Đây là nút nguồn."
+            },
+            {
+              "text": "这个是调节音量的。",
+              "id": "s29_3_0009_reply02",
+              "meaning_vi": "Nút này chỉnh âm lượng."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“按键”是设备按钮，按压方式以设备指示为准。",
+              "text_vi": "“按键” là nút bấm trên thiết bị, cách bấm phải theo chỉ dẫn."
+            }
+          ],
+          "pinyin": "zhè ge àn jiàn shì zuò shén me de",
+          "meaning_vi": "Nút này dùng để làm gì?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0010",
+          "level": "must",
+          "text": "可以连一下蓝牙吗？",
+          "alternatives": [
+            {
+              "text": "能试着连接蓝牙吗？",
+              "id": "s29_3_0010_alt01",
+              "meaning_vi": "Tôi thử kết nối Bluetooth được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，先打开蓝牙搜索设备。",
+              "id": "s29_3_0010_reply01",
+              "meaning_vi": "Được, bật Bluetooth lên để tìm thiết bị."
+            },
+            {
+              "text": "可以，不过这台样机要先解除原来的配对。",
+              "id": "s29_3_0010_reply02",
+              "meaning_vi": "Được, nhưng máy này cần hủy ghép đôi cũ trước."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "连接蓝牙与连接互联网不同，配对可能需取消旧连接。",
+              "text_vi": "Kết nối Bluetooth khác kết nối internet; có thể phải ngắt ghép đôi cũ trước."
+            }
+          ],
+          "pinyin": "kě yǐ lián yí xià lán yá ma",
+          "meaning_vi": "Kết nối Bluetooth thử được không?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0011",
+          "level": "must",
+          "text": "能试一下声音吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，我给您播放一段试试。",
+              "id": "s29_3_0011_reply01",
+              "meaning_vi": "Được, tôi bật một đoạn cho anh/chị nghe thử."
+            },
+            {
+              "text": "可以，您先把音量调小一点。",
+              "id": "s29_3_0011_reply02",
+              "meaning_vi": "Được, anh/chị giảm âm lượng trước một chút nhé."
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "试听时先调低音量，避免过大声响。",
+              "text_vi": "Nghe thử nên giảm âm lượng trước để tránh tiếng quá lớn."
+            }
+          ],
+          "pinyin": "néng shì yí xià shēng yīn ma",
+          "meaning_vi": "Tôi thử nghe âm thanh được không?",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0012",
+          "level": "listen",
+          "text": "可以试。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我试一下开关。",
+              "id": "s29_3_0012_reply01",
+              "meaning_vi": "Được, để tôi thử công tắc."
+            },
+            {
+              "text": "谢谢，试完放哪里？",
+              "id": "s29_3_0012_reply02",
+              "meaning_vi": "Cảm ơn, thử xong để ở đâu?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“可以试”表示允许体验，不等于允许拆封新品。",
+              "text_vi": "Được phép thử chưa có nghĩa được bóc hộp sản phẩm mới."
+            }
+          ],
+          "pinyin": "kě yǐ shì",
+          "meaning_vi": "Có thể thử.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0013",
+          "level": "listen",
+          "text": "样品在这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我看看这个样品。",
+              "id": "s29_3_0013_reply01",
+              "meaning_vi": "Cảm ơn, để tôi xem mẫu này."
+            },
+            {
+              "text": "可以拿起来试试吗？",
+              "id": "s29_3_0013_reply02",
+              "meaning_vi": "Tôi cầm lên thử được không?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“样品在这里”只说明位置，不保证样品可操作。",
+              "text_vi": "“样品在这里” chỉ vị trí mẫu, chưa chắc mẫu có thể dùng thử."
+            }
+          ],
+          "pinyin": "yàng pǐn zài zhè lǐ",
+          "meaning_vi": "Mẫu ở đây.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0014",
+          "level": "listen",
+          "text": "这个不能拆封。",
+          "alternatives": [
+            {
+              "text": "这个不能打开包装。",
+              "id": "s29_3_0014_alt01",
+              "meaning_vi": "Không được mở bao bì món này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "明白了，那我不拆封。",
+              "id": "s29_3_0014_reply01",
+              "meaning_vi": "Hiểu rồi, vậy tôi không bóc hộp."
+            },
+            {
+              "text": "有可以试用的展示机吗？",
+              "id": "s29_3_0014_reply02",
+              "meaning_vi": "Có máy trưng bày nào dùng thử được không?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“不能拆封”是不允许打开商品包装，不等于不能试展示机。",
+              "text_vi": "“不能拆封” là không được bóc niêm phong hàng mới, nhưng có thể vẫn thử máy trưng bày."
+            }
+          ],
+          "pinyin": "zhè ge bù néng chāi fēng",
+          "meaning_vi": "Món này không được bóc niêm phong.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0015",
+          "level": "listen",
+          "text": "电池大概用八小时。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "如果开大音量，也能用这么久吗？",
+              "id": "s29_3_0015_reply01",
+              "meaning_vi": "Nếu mở âm lượng lớn thì pin vẫn dùng được lâu vậy không?"
+            },
+            {
+              "text": "充满电需要多久？",
+              "id": "s29_3_0015_reply02",
+              "meaning_vi": "Sạc đầy pin mất bao lâu?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“八小时”往往是估计续航，音量与使用方式会影响时间。",
+              "text_vi": "Tám tiếng thường là ước lượng pin, âm lượng và cách dùng ảnh hưởng đến thời lượng."
+            }
+          ],
+          "pinyin": "diàn chí dà gài yòng bā xiǎo shí",
+          "meaning_vi": "Pin dùng khoảng tám tiếng.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0016",
+          "level": "listen",
+          "text": "蓝牙从这里打开。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我按这里打开蓝牙。",
+              "id": "s29_3_0016_reply01",
+              "meaning_vi": "Được, tôi bấm đây để bật Bluetooth."
+            },
+            {
+              "text": "打开以后怎么连接手机？",
+              "id": "s29_3_0016_reply02",
+              "meaning_vi": "Bật rồi thì kết nối điện thoại thế nào?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“蓝牙从这里打开”指开启蓝牙，不等于已经配对成功。",
+              "text_vi": "Bật Bluetooth chưa có nghĩa đã kết nối hoặc ghép đôi với điện thoại thành công."
+            }
+          ],
+          "pinyin": "lán yá cóng zhè lǐ dǎ kāi",
+          "meaning_vi": "Bật Bluetooth ở đây.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0017",
+          "level": "listen",
+          "text": "只能试样机。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我只试样机。",
+              "id": "s29_3_0017_reply01",
+              "meaning_vi": "Vâng, tôi chỉ thử máy trưng bày."
+            },
+            {
+              "text": "能给我拿一下样机吗？",
+              "id": "s29_3_0017_reply02",
+              "meaning_vi": "Lấy giúp tôi máy trưng bày được không?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“只能试样机”指只允许用展示设备，不能拆未售商品。",
+              "text_vi": "“只能试样机” là chỉ được dùng máy trưng bày, không tự mở hộp hàng bán."
+            }
+          ],
+          "pinyin": "zhǐ néng shì yàng jī",
+          "meaning_vi": "Chỉ được thử máy trưng bày.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0018",
+          "level": "listen",
+          "text": "这个功能需要联网。",
+          "alternatives": [
+            {
+              "text": "这个功能得联网才能用。",
+              "id": "s29_3_0018_alt01",
+              "meaning_vi": "Tính năng này phải có mạng mới dùng được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那不联网还能用哪些功能？",
+              "id": "s29_3_0018_reply01",
+              "meaning_vi": "Không có mạng thì dùng được chức năng nào?"
+            },
+            {
+              "text": "可以连手机热点试试吗？",
+              "id": "s29_3_0018_reply02",
+              "meaning_vi": "Dùng điểm phát Wi-Fi của điện thoại để thử được không?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "“需要联网”指需要互联网连接；仅有蓝牙不等于已联网。",
+              "text_vi": "“需要联网” yêu cầu internet, chỉ có Bluetooth chưa chắc có mạng."
+            }
+          ],
+          "pinyin": "zhè ge gōng néng xū yào lián wǎng",
+          "meaning_vi": "Tính năng này cần kết nối mạng.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        },
+        {
+          "id": "s29_3_0019",
+          "level": "listen",
+          "text": "试完请放回这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我试完就放回去。",
+              "id": "s29_3_0019_reply01",
+              "meaning_vi": "Vâng, thử xong tôi đặt lại."
+            },
+            {
+              "text": "请问要先关机吗？",
+              "id": "s29_3_0019_reply02",
+              "meaning_vi": "Xin hỏi có cần tắt máy trước không?"
+            }
+          ],
+          "lesson_id": "29.3",
+          "lesson_title": "29.3 试用与功能操作",
+          "mistakes": [
+            {
+              "text": "试完归还样机前要确认是否需关机。",
+              "text_vi": "Thử xong có thể cần tắt máy trước khi trả lại, nên hỏi nhân viên."
+            }
+          ],
+          "pinyin": "shì wán qǐng fàng huí zhè lǐ",
+          "meaning_vi": "Thử xong vui lòng đặt lại đây.",
+          "lesson_title_vi": "29.3 Dùng thử và thao tác tính năng"
+        }
+      ],
+      "opening": "试用电子商品时，礼貌请求开机、试听、连蓝牙或请店员演示，并听懂样机与拆封限制。",
+      "subtitle": "19张实用口语卡",
+      "title_vi": "29.3 Dùng thử và thao tác tính năng",
+      "subtitle_vi": "19 thẻ giao tiếp thực tế",
+      "opening_vi": "Hỏi có thể thử máy, bật nguồn, chỉnh âm lượng, kết nối Bluetooth hoặc internet và nhờ nhân viên làm mẫu."
+    },
+    {
+      "id": "29.4",
+      "title": "29.4 门店营业与排队",
+      "phrases": [
+        {
+          "id": "s29_4_0001",
+          "level": "must",
+          "text": "今天营业吗？",
+          "alternatives": [
+            {
+              "text": "今天开门吗？",
+              "id": "s29_4_0001_alt01",
+              "meaning_vi": "Hôm nay có mở cửa không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "今天正常营业。",
+              "id": "s29_4_0001_reply01",
+              "meaning_vi": "Hôm nay mở cửa như bình thường."
+            },
+            {
+              "text": "今天休息，明天才开。",
+              "id": "s29_4_0001_reply02",
+              "meaning_vi": "Hôm nay nghỉ, mai mới mở."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“今天营业吗”问当天开不开门，不代表此刻正在营业。",
+              "text_vi": "“今天营业吗” hỏi hôm nay cửa hàng có mở không, chưa chắc đang mở ngay lúc này."
+            }
+          ],
+          "pinyin": "jīn tiān yíng yè ma",
+          "meaning_vi": "Hôm nay cửa hàng có mở không?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0002",
+          "level": "must",
+          "text": "几点开门？",
+          "alternatives": [
+            {
+              "text": "什么时候开门？",
+              "id": "s29_4_0002_alt01",
+              "meaning_vi": "Khi nào mở cửa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "早上九点开门。",
+              "id": "s29_4_0002_reply01",
+              "meaning_vi": "Mở cửa lúc chín giờ sáng."
+            },
+            {
+              "text": "周末十点才开门。",
+              "id": "s29_4_0002_reply02",
+              "meaning_vi": "Cuối tuần mười giờ mới mở cửa."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“几点开门”问开始营业时间，周末可能不同。",
+              "text_vi": "“几点开门” hỏi giờ bắt đầu kinh doanh; cuối tuần có thể khác."
+            }
+          ],
+          "pinyin": "jǐ diǎn kāi mén",
+          "meaning_vi": "Mấy giờ mở cửa?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0003",
+          "level": "must",
+          "text": "几点关门？",
+          "alternatives": [
+            {
+              "text": "什么时候关门？",
+              "id": "s29_4_0003_alt01",
+              "meaning_vi": "Khi nào đóng cửa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "晚上九点关门。",
+              "id": "s29_4_0003_reply01",
+              "meaning_vi": "Đóng cửa lúc chín giờ tối."
+            },
+            {
+              "text": "今天提前到八点关门。",
+              "id": "s29_4_0003_reply02",
+              "meaning_vi": "Hôm nay đóng cửa sớm lúc tám giờ."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“几点关门”问结束营业时间，节假日可能调整。",
+              "text_vi": "“几点关门” hỏi giờ ngừng phục vụ; ngày lễ có thể điều chỉnh."
+            }
+          ],
+          "pinyin": "jǐ diǎn guān mén",
+          "meaning_vi": "Mấy giờ đóng cửa?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0004",
+          "level": "must",
+          "text": "在哪儿排队？",
+          "alternatives": [
+            {
+              "text": "排队要站哪边？",
+              "id": "s29_4_0004_alt01",
+              "meaning_vi": "Phải đứng xếp hàng phía nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "请从这边开始排队。",
+              "id": "s29_4_0004_reply01",
+              "meaning_vi": "Vui lòng xếp hàng bắt đầu từ bên này."
+            },
+            {
+              "text": "先去前台取号，再到这边等。",
+              "id": "s29_4_0004_reply02",
+              "meaning_vi": "Đến quầy lấy số trước rồi qua đây đợi."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“在哪儿排队”问排队位置，可能要先取号。",
+              "text_vi": "“在哪儿排队” hỏi điểm xếp hàng; có thể phải lấy số trước."
+            }
+          ],
+          "pinyin": "zài nǎr pái duì",
+          "meaning_vi": "Xếp hàng ở đâu?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0005",
+          "level": "must",
+          "text": "要取号吗？",
+          "alternatives": [
+            {
+              "text": "需要拿号吗？",
+              "id": "s29_4_0005_alt01",
+              "meaning_vi": "Cần lấy số thứ tự không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "需要，先到机器上取号。",
+              "id": "s29_4_0005_reply01",
+              "meaning_vi": "Cần, lấy số ở máy trước."
+            },
+            {
+              "text": "不用取号，直接在这里排队。",
+              "id": "s29_4_0005_reply02",
+              "meaning_vi": "Không cần lấy số, cứ xếp hàng ở đây."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“取号”是拿排队号码；不一定所有商店都需要。",
+              "text_vi": "“取号” là nhận số xếp hàng, không phải cửa hàng nào cũng bắt buộc."
+            }
+          ],
+          "pinyin": "yào qǔ hào ma",
+          "meaning_vi": "Có phải lấy số không?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0006",
+          "level": "must",
+          "text": "到我了吗？",
+          "alternatives": [
+            {
+              "text": "轮到我了吗？",
+              "id": "s29_4_0006_alt01",
+              "meaning_vi": "Đã đến lượt tôi chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还没到您，前面还有两位。",
+              "id": "s29_4_0006_reply01",
+              "meaning_vi": "Chưa tới lượt anh/chị, phía trước còn hai người."
+            },
+            {
+              "text": "到您了，请过来。",
+              "id": "s29_4_0006_reply02",
+              "meaning_vi": "Đến lượt anh/chị rồi, mời qua đây."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“到我了吗”问是否轮到自己，不是问预计剩余分钟。",
+              "text_vi": "“到我了吗” hỏi đến lượt mình chưa, không phải còn bao nhiêu phút."
+            }
+          ],
+          "pinyin": "dào wǒ le ma",
+          "meaning_vi": "Đến lượt tôi chưa?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0007",
+          "level": "must",
+          "text": "现在排到多少号了？",
+          "alternatives": [
+            {
+              "text": "现在叫到几号了？",
+              "id": "s29_4_0007_alt01",
+              "meaning_vi": "Hiện đang gọi tới số mấy?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "现在叫到三十五号。",
+              "id": "s29_4_0007_reply01",
+              "meaning_vi": "Giờ đang gọi tới số ba mươi lăm."
+            },
+            {
+              "text": "刚叫到四十号。",
+              "id": "s29_4_0007_reply02",
+              "meaning_vi": "Vừa gọi tới số bốn mươi."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“排到多少号”问当前号码，不能直接推断等待时间。",
+              "text_vi": "“排到多少号” hỏi số thứ tự hiện tại, không thể trực tiếp suy ra thời gian đợi."
+            }
+          ],
+          "pinyin": "xiàn zài pái dào duō shǎo hào le",
+          "meaning_vi": "Bây giờ tới số mấy rồi?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0008",
+          "level": "must",
+          "text": "现在营业吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "现在开着，您可以进来。",
+              "id": "s29_4_0008_reply01",
+              "meaning_vi": "Giờ đang mở, anh/chị có thể vào."
+            },
+            {
+              "text": "现在还没开门，九点才营业。",
+              "id": "s29_4_0008_reply02",
+              "meaning_vi": "Giờ chưa mở, chín giờ mới bắt đầu."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“现在营业吗”明确问当下是否开门。",
+              "text_vi": "“现在营业吗” hỏi hiện tại có đang mở cửa không."
+            }
+          ],
+          "pinyin": "xiàn zài yíng yè ma",
+          "meaning_vi": "Bây giờ cửa hàng có mở không?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0009",
+          "level": "must",
+          "text": "中午休息吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "中午不休息，一直营业。",
+              "id": "s29_4_0009_reply01",
+              "meaning_vi": "Buổi trưa không nghỉ, cửa hàng mở liên tục."
+            },
+            {
+              "text": "十二点到一点休息。",
+              "id": "s29_4_0009_reply02",
+              "meaning_vi": "Nghỉ từ mười hai giờ đến một giờ."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“中午休息吗”问午间是否暂停服务，不必然整店关闭。",
+              "text_vi": "“中午休息吗” hỏi có tạm nghỉ buổi trưa không, chưa chắc đóng cả cửa hàng."
+            }
+          ],
+          "pinyin": "zhōng wǔ xiū xi ma",
+          "meaning_vi": "Buổi trưa có nghỉ không?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0010",
+          "level": "must",
+          "text": "取号以后在哪儿等？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在那边的等候区坐着等。",
+              "id": "s29_4_0010_reply01",
+              "meaning_vi": "Ngồi đợi ở khu chờ bên kia."
+            },
+            {
+              "text": "在这里等，叫到号再过来。",
+              "id": "s29_4_0010_reply02",
+              "meaning_vi": "Đợi ở đây, được gọi số thì tới."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“取号以后”表示先拿号码再等待，勿与排队顺序混淆。",
+              "text_vi": "“取号以后” là lấy số trước rồi chờ tới lượt, đừng nhầm với xếp hàng không cần số."
+            }
+          ],
+          "pinyin": "qǔ hào yǐ hòu zài nǎr děng",
+          "meaning_vi": "Lấy số xong thì đợi ở đâu?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0011",
+          "level": "must",
+          "text": "我这个号码过了吗？",
+          "alternatives": [
+            {
+              "text": "我是不是过号了？",
+              "id": "s29_4_0011_alt01",
+              "meaning_vi": "Có phải tôi bị lỡ lượt rồi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "已经过号了，需要重新取号。",
+              "id": "s29_4_0011_reply01",
+              "meaning_vi": "Đã lỡ lượt rồi, phải lấy số mới."
+            },
+            {
+              "text": "还没到您，请再等一下。",
+              "id": "s29_4_0011_reply02",
+              "meaning_vi": "Chưa tới lượt anh/chị, đợi thêm chút."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“过号”是叫到自己的号时没及时到场，是否重新取号以门店规则为准。",
+              "text_vi": "“过号” là bị lỡ lượt do không có mặt khi gọi, có cần lấy số lại tùy nội quy."
+            }
+          ],
+          "pinyin": "wǒ zhè ge hào mǎ guò le ma",
+          "meaning_vi": "Số của tôi đã bị qua lượt chưa?",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0012",
+          "level": "listen",
+          "text": "已经关门了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我明天再来。",
+              "id": "s29_4_0012_reply01",
+              "meaning_vi": "Vậy mai tôi quay lại."
+            },
+            {
+              "text": "明天几点开门？",
+              "id": "s29_4_0012_reply02",
+              "meaning_vi": "Mai mấy giờ mở cửa?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“已经关门”说目前已停业，和永久停业不同。",
+              "text_vi": "“已经关门” là hiện cửa hàng đóng, không phải đóng cửa vĩnh viễn."
+            }
+          ],
+          "pinyin": "yǐ jīng guān mén le",
+          "meaning_vi": "Đã đóng cửa rồi.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0013",
+          "level": "listen",
+          "text": "九点开门。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我九点以后来。",
+              "id": "s29_4_0013_reply01",
+              "meaning_vi": "Được, tôi tới sau chín giờ."
+            },
+            {
+              "text": "周末也是九点开吗？",
+              "id": "s29_4_0013_reply02",
+              "meaning_vi": "Cuối tuần cũng mở lúc chín giờ à?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“九点开门”需确认是上午还是晚上，按店铺实际时段理解。",
+              "text_vi": "“九点开门” nên hiểu theo lịch cửa hàng là chín giờ sáng hay tối."
+            }
+          ],
+          "pinyin": "jiǔ diǎn kāi mén",
+          "meaning_vi": "Chín giờ mở cửa.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0014",
+          "level": "listen",
+          "text": "请先排队。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去后面排队。",
+              "id": "s29_4_0014_reply01",
+              "meaning_vi": "Được, tôi ra cuối hàng xếp."
+            },
+            {
+              "text": "要先取号吗？",
+              "id": "s29_4_0014_reply02",
+              "meaning_vi": "Có cần lấy số trước không?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“请先排队”要求依顺序等候，可能还需先领号。",
+              "text_vi": "“请先排队” là tuân theo thứ tự đến trước sau, có thể còn phải lấy số."
+            }
+          ],
+          "pinyin": "qǐng xiān pái duì",
+          "meaning_vi": "Vui lòng xếp hàng trước.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0015",
+          "level": "listen",
+          "text": "下一位。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "到我了吗？",
+              "id": "s29_4_0015_reply01",
+              "meaning_vi": "Đến lượt tôi chưa?"
+            },
+            {
+              "text": "我来了，这边可以吗？",
+              "id": "s29_4_0015_reply02",
+              "meaning_vi": "Tôi tới rồi, ở đây được không?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“下一位”呼叫下一位顾客，不代表具体号码已喊出。",
+              "text_vi": "“下一位” gọi người tiếp theo, không nhất thiết nói số thứ tự cụ thể."
+            }
+          ],
+          "pinyin": "xià yì wèi",
+          "meaning_vi": "Mời người tiếp theo.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0016",
+          "level": "listen",
+          "text": "马上到您。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我再等一会儿。",
+              "id": "s29_4_0016_reply01",
+              "meaning_vi": "Vâng, tôi đợi thêm chút."
+            },
+            {
+              "text": "我前面还有几个人？",
+              "id": "s29_4_0016_reply02",
+              "meaning_vi": "Trước tôi còn mấy người?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“马上到您”是很快轮到，不代表精确时间承诺。",
+              "text_vi": "“马上到您” là sắp tới lượt, không cam kết đúng một số phút nào."
+            }
+          ],
+          "pinyin": "mǎ shàng dào nín",
+          "meaning_vi": "Sắp đến lượt anh/chị.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0017",
+          "level": "listen",
+          "text": "过号要重新取。",
+          "alternatives": [
+            {
+              "text": "过号了得重新取号。",
+              "id": "s29_4_0017_alt01",
+              "meaning_vi": "Qua lượt rồi phải lấy số mới."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我去重新取号。",
+              "id": "s29_4_0017_reply01",
+              "meaning_vi": "Vậy tôi đi lấy số mới."
+            },
+            {
+              "text": "可以帮我看一下我的号码吗？",
+              "id": "s29_4_0017_reply02",
+              "meaning_vi": "Xem giúp số của tôi được không?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“过号重新取”是本店规定，不能推断所有门店相同。",
+              "text_vi": "“过号重新取” là quy tắc của nơi này, không phải mọi cửa hàng đều giống nhau."
+            }
+          ],
+          "pinyin": "guò hào yào chóng xīn qǔ",
+          "meaning_vi": "Lỡ lượt phải lấy số lại.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0018",
+          "level": "listen",
+          "text": "五点以后停止取号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我五点前过来。",
+              "id": "s29_4_0018_reply01",
+              "meaning_vi": "Vậy tôi tới trước năm giờ."
+            },
+            {
+              "text": "已经取到的号码还能等吗？",
+              "id": "s29_4_0018_reply02",
+              "meaning_vi": "Số đã lấy rồi thì còn được chờ tiếp không?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“五点以后停止取号”不一定是五点关门。",
+              "text_vi": "Sau năm giờ ngừng cấp số không nhất thiết là đúng năm giờ đóng cửa."
+            }
+          ],
+          "pinyin": "wǔ diǎn yǐ hòu tíng zhǐ qǔ hào",
+          "meaning_vi": "Sau năm giờ ngừng phát số.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0019",
+          "level": "listen",
+          "text": "周末正常营业。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我周末再来。",
+              "id": "s29_4_0019_reply01",
+              "meaning_vi": "Vậy cuối tuần tôi quay lại."
+            },
+            {
+              "text": "周末几点关门？",
+              "id": "s29_4_0019_reply02",
+              "meaning_vi": "Cuối tuần mấy giờ đóng cửa?"
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“周末正常营业”表示周末开门，时间仍可能不同。",
+              "text_vi": "“周末正常营业” nghĩa là cuối tuần vẫn mở, giờ có thể khác ngày thường."
+            }
+          ],
+          "pinyin": "zhōu mò zhèng cháng yíng yè",
+          "meaning_vi": "Cuối tuần vẫn mở cửa như bình thường.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        },
+        {
+          "id": "s29_4_0020",
+          "level": "listen",
+          "text": "现在叫到三十五号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我是三十六号，快到了吧？",
+              "id": "s29_4_0020_reply01",
+              "meaning_vi": "Tôi số ba mươi sáu, sắp tới lượt rồi phải không?"
+            },
+            {
+              "text": "那我再等一会儿。",
+              "id": "s29_4_0020_reply02",
+              "meaning_vi": "Vậy tôi đợi thêm chút."
+            }
+          ],
+          "lesson_id": "29.4",
+          "lesson_title": "29.4 门店营业与排队",
+          "mistakes": [
+            {
+              "text": "“叫到三十五号”只是当前叫号进度，三十六号还需等候。",
+              "text_vi": "“叫到三十五号” là đang gọi số 35, người số 36 vẫn nên đợi tới lượt."
+            }
+          ],
+          "pinyin": "xiàn zài jiào dào sān shí wǔ hào",
+          "meaning_vi": "Giờ đang gọi tới số ba mươi lăm.",
+          "lesson_title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+        }
+      ],
+      "opening": "去门店办事时，问开关门时间、午间是否营业、在哪里排队取号，听懂叫号、过号和停止取号提醒。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Hỏi lịch mở cửa, giờ nghỉ trưa, lấy số thứ tự, xếp hàng, theo dõi gọi số và xử lý khi lỡ lượt."
+    }
+  ],
+  "card_count": 77,
+  "lesson_counts": {
+    "29.1": 19,
+    "29.2": 19,
+    "29.3": 19,
+    "29.4": 20
+  },
+  "theme_title_vi": "29 Mua sắm hàng hóa thông thường"
+}
