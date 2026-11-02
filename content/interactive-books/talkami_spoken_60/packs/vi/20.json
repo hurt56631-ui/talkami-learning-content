@@ -1,0 +1,2190 @@
+{
+  "theme_id": "20",
+  "version": 1,
+  "updated_at": "2026-11-02T08:48:16.165Z",
+  "theme_title": "20 水电空调与家电故障",
+  "quality_standard": "Independent Vietnamese adaptation of theme 20 V13, preserving original Chinese, pinyin, card/nested IDs, order and level. Burmese-specific notes adapted to Vietnamese. Safety references retain caution for electricity and leaks. Vietnamese native-speaking review, audio, and App integration still pending.",
+  "source_phrase_count": 63,
+  "lessons": [
+    {
+      "id": "20.1",
+      "title": "20.1 空调温度",
+      "subtitle": "21张实用口语卡",
+      "opening": "在宿舍或办公室调空调：区分制冷、送风、风速与设定温度，学会礼貌请求调整。",
+      "phrases": [
+        {
+          "id": "s20_1_0001",
+          "level": "must",
+          "text": "开一下空调。",
+          "alternatives": [
+            {
+              "text": "把空调开一下。",
+              "id": "s20_1_0001_alt01",
+              "meaning_vi": "Bật máy lạnh giúp nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我开。",
+              "id": "s20_1_0001_reply01",
+              "meaning_vi": "Được, tôi bật."
+            },
+            {
+              "text": "现在开吗？",
+              "id": "s20_1_0001_reply02",
+              "meaning_vi": "Bật bây giờ à?"
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "kāi yí xià kōng tiáo",
+          "mistakes": [
+            {
+              "text": "“开空调”是开启设备，“关空调”是关闭；“一下”使请求比较随和，但对不熟的人可加“麻烦”。",
+              "text_vi": "“开空调” là bật máy lạnh, còn “关空调” là tắt; “一下” làm câu nhờ nghe nhẹ, với người chưa quen có thể thêm “麻烦”."
+            }
+          ],
+          "meaning_vi": "Bật điều hòa một chút.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0002",
+          "level": "must",
+          "text": "太冷了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那调高一点。",
+              "id": "s20_1_0002_reply01",
+              "meaning_vi": "Vậy tăng nhiệt độ lên chút."
+            },
+            {
+              "text": "我把风调小一点。",
+              "id": "s20_1_0002_reply02",
+              "meaning_vi": "Tôi giảm tốc độ quạt xuống một chút."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "tài lěng le",
+          "mistakes": [
+            {
+              "text": "制冷时觉得太冷，应调高设定温度或减少风量；“调低温度”通常反而更冷。",
+              "text_vi": "Khi đang làm lạnh mà thấy quá lạnh, nên tăng nhiệt độ cài đặt hoặc giảm quạt. Giảm nhiệt độ cài đặt thường khiến lạnh hơn."
+            }
+          ],
+          "meaning_vi": "Lạnh quá.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0003",
+          "level": "must",
+          "text": "太热了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那调低一点。",
+              "id": "s20_1_0003_reply01",
+              "meaning_vi": "Vậy giảm nhiệt độ xuống chút."
+            },
+            {
+              "text": "我开空调。",
+              "id": "s20_1_0003_reply02",
+              "meaning_vi": "Để tôi bật điều hòa."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "tài rè le",
+          "mistakes": [
+            {
+              "text": "空调场景里“太热了”是环境令人觉得热，常需开制冷或降低设定温度；“把温度调高”反而可能更热。",
+              "text_vi": "“太热了” nói trong phòng nóng khó chịu; ở chế độ làm lạnh thường phải giảm nhiệt độ cài đặt, không tăng lên."
+            }
+          ],
+          "meaning_vi": "Nóng quá.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0004",
+          "level": "must",
+          "text": "调高一点。",
+          "alternatives": [
+            {
+              "text": "温度调高一点。",
+              "id": "s20_1_0004_alt01",
+              "meaning_vi": "Tăng nhiệt độ lên chút."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，调到二十五度。",
+              "id": "s20_1_0004_reply01",
+              "meaning_vi": "Được, chỉnh lên 25 độ."
+            },
+            {
+              "text": "现在二十四度，要调到二十五度吗？",
+              "id": "s20_1_0004_reply02",
+              "meaning_vi": "Giờ 24 độ, có chỉnh lên 25 độ không?"
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "tiáo gāo yì diǎn",
+          "mistakes": [
+            {
+              "text": "制冷模式下“调高”通常指把设定温度数字加大，不是让空调吹得更冷。",
+              "text_vi": "“调高” trong chế độ làm lạnh thường là tăng con số nhiệt độ đã cài, không phải làm lạnh hơn."
+            }
+          ],
+          "meaning_vi": "Tăng lên một chút.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0005",
+          "level": "must",
+          "text": "空调开多少度？",
+          "alternatives": [
+            {
+              "text": "空调现在多少度？",
+              "id": "s20_1_0005_alt01",
+              "meaning_vi": "Máy lạnh hiện để bao nhiêu độ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "现在二十四度。",
+              "id": "s20_1_0005_reply01",
+              "meaning_vi": "Bây giờ là 24 độ."
+            },
+            {
+              "text": "开二十五度。",
+              "id": "s20_1_0005_reply02",
+              "meaning_vi": "Để 25 độ."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "kōng tiáo kāi duō shao dù",
+          "mistakes": [
+            {
+              "text": "“开多少度”一般问空调设定值，不能把遥控器上显示的度数直接当作实测室温。",
+              "text_vi": "“开多少度” hỏi nhiệt độ đặt trên máy lạnh; số trên điều khiển không nhất thiết là nhiệt độ thực của phòng."
+            }
+          ],
+          "meaning_vi": "Bật điều hòa ở bao nhiêu độ?",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0006",
+          "level": "must",
+          "text": "风小一点。",
+          "alternatives": [
+            {
+              "text": "风调小一点。",
+              "id": "s20_1_0006_alt01",
+              "meaning_vi": "Giảm tốc độ quạt chút."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我把风速调小。",
+              "id": "s20_1_0006_reply01",
+              "meaning_vi": "Được, tôi giảm tốc độ quạt."
+            },
+            {
+              "text": "这个风速可以吗？",
+              "id": "s20_1_0006_reply02",
+              "meaning_vi": "Mức gió này được không?"
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "fēng xiǎo yì diǎn",
+          "mistakes": [
+            {
+              "text": "“风小一点”是减小送风强度或风速，“温度低一点”是改变设定温度，两种调节不同。",
+              "text_vi": "“风小一点” là giảm tốc độ quạt/gió, khác “温度低一点” là hạ nhiệt độ cài đặt."
+            }
+          ],
+          "meaning_vi": "Cho gió nhẹ hơn chút.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0007",
+          "level": "must",
+          "text": "风口别对着我。",
+          "alternatives": [
+            {
+              "text": "别让风口对着我。",
+              "id": "s20_1_0007_alt01",
+              "meaning_vi": "Đừng để luồng gió thổi trực tiếp vào tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我调一下风口。",
+              "id": "s20_1_0007_reply01",
+              "meaning_vi": "Được, tôi chỉnh hướng cửa gió."
+            },
+            {
+              "text": "好，我把风向转开。",
+              "id": "s20_1_0007_reply02",
+              "meaning_vi": "Được, tôi đổi hướng gió đi."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "fēng kǒu bié duì zhe wǒ",
+          "mistakes": [
+            {
+              "text": "“风口别对着我”是请求调整送风方向，不是关闭空调；越南语人称应根据双方关系表达，不预设性别。",
+              "text_vi": "Yêu cầu chỉnh hướng gió đừng thổi thẳng vào người nói, không có nghĩa phải tắt máy. Tiếng Việt chọn đại từ theo quan hệ."
+            }
+          ],
+          "meaning_vi": "Đừng để cửa gió thổi thẳng vào tôi.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0008",
+          "level": "must",
+          "text": "可以关了吗？",
+          "alternatives": [
+            {
+              "text": "现在可以关了吗？",
+              "id": "s20_1_0008_alt01",
+              "meaning_vi": "Bây giờ tắt được chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，关吧。",
+              "id": "s20_1_0008_reply01",
+              "meaning_vi": "Được, tắt đi."
+            },
+            {
+              "text": "再开一会儿吧。",
+              "id": "s20_1_0008_reply02",
+              "meaning_vi": "Cứ bật thêm một lát nhé."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "kě yǐ guān le ma",
+          "mistakes": [
+            {
+              "text": "“可以关了吗”是在征求是否能关机的同意，而不是宣布已经关掉；关什么要看前文。",
+              "text_vi": "“可以关了吗” là hỏi có thể tắt chưa, không phải nói đã tắt; thiết bị nào phụ thuộc ngữ cảnh."
+            }
+          ],
+          "meaning_vi": "Tắt được chưa?",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0009",
+          "level": "must",
+          "text": "调低一点。",
+          "alternatives": [
+            {
+              "text": "温度调低一点。",
+              "id": "s20_1_0009_alt01",
+              "meaning_vi": "Giảm nhiệt độ xuống chút."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我调低一点。",
+              "id": "s20_1_0009_reply01",
+              "meaning_vi": "Được, tôi giảm xuống chút."
+            },
+            {
+              "text": "调到二十四度可以吗？",
+              "id": "s20_1_0009_reply02",
+              "meaning_vi": "Chỉnh xuống 24 độ được không?"
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "tiáo dī yì diǎn",
+          "mistakes": [
+            {
+              "text": "制冷时“调低”多半使设定温度更低，房间不一定立刻就变凉。",
+              "text_vi": "Ở chế độ làm lạnh, giảm nhiệt độ cài đặt thường làm mát hơn, nhưng phòng không lạnh ngay lập tức."
+            }
+          ],
+          "meaning_vi": "Giảm xuống một chút.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0010",
+          "level": "must",
+          "text": "能调到二十五度吗？",
+          "alternatives": [
+            {
+              "text": "可以调到二十五度吗？",
+              "id": "s20_1_0010_alt01",
+              "meaning_vi": "Có thể chỉnh điều hòa về 25 độ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s20_1_0010_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "可以，我来调。",
+              "id": "s20_1_0010_reply02",
+              "meaning_vi": "Được, để tôi chỉnh."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "néng tiáo dào èr shí wǔ dù ma",
+          "mistakes": [
+            {
+              "text": "“调到二十五度”是把目标温度设为25℃，不是保证室内当前温度恰好25℃。",
+              "text_vi": "“二十五度” là đặt mục tiêu 25°C, không bảo đảm không khí trong phòng đã đúng 25°C."
+            }
+          ],
+          "meaning_vi": "Chỉnh đến 25 độ được không?",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0011",
+          "level": "must",
+          "text": "这个是制冷模式吗？",
+          "alternatives": [
+            {
+              "text": "这是制冷模式吗？",
+              "id": "s20_1_0011_alt01",
+              "meaning_vi": "Có phải chế độ làm lạnh không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，是制冷。",
+              "id": "s20_1_0011_reply01",
+              "meaning_vi": "Đúng, đang làm lạnh."
+            },
+            {
+              "text": "不是，现在是送风。",
+              "id": "s20_1_0011_reply02",
+              "meaning_vi": "Không, hiện là chế độ quạt gió."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "zhè ge shì zhì lěng mó shì ma",
+          "mistakes": [
+            {
+              "text": "“制冷模式”会进行制冷，“送风模式”可能只是送风；看到风扇图标不代表在制冷。",
+              "text_vi": "“制冷” là làm lạnh, “送风” chỉ có thể là chạy quạt; biểu tượng quạt chưa có nghĩa đang làm lạnh."
+            }
+          ],
+          "meaning_vi": "Đây là chế độ làm lạnh à?",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0012",
+          "level": "must",
+          "text": "遥控器在哪儿？",
+          "alternatives": [
+            {
+              "text": "遥控器在哪里？",
+              "id": "s20_1_0012_alt01",
+              "meaning_vi": "Remote để đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在桌上。",
+              "id": "s20_1_0012_reply01",
+              "meaning_vi": "Trên bàn."
+            },
+            {
+              "text": "在床头柜上。",
+              "id": "s20_1_0012_reply02",
+              "meaning_vi": "Trên tủ đầu giường."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "yáo kòng qì zài nǎr",
+          "mistakes": [
+            {
+              "text": "“遥控器”是用来远程操作设备的控制器，在此特指空调遥控器，不是温度计。",
+              "text_vi": "“遥控器” ở bài này là điều khiển máy lạnh, không phải nhiệt kế."
+            }
+          ],
+          "meaning_vi": "Điều khiển từ xa ở đâu?",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0013",
+          "level": "must",
+          "text": "空调怎么调成制冷？",
+          "alternatives": [
+            {
+              "text": "怎么把空调调成制冷？",
+              "id": "s20_1_0013_alt01",
+              "meaning_vi": "Làm sao chỉnh máy lạnh sang chế độ làm mát?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按模式键切到制冷。",
+              "id": "s20_1_0013_reply01",
+              "meaning_vi": "Bấm nút chế độ để chuyển sang làm lạnh."
+            },
+            {
+              "text": "我来帮你调。",
+              "id": "s20_1_0013_reply02",
+              "meaning_vi": "Để tôi chỉnh giúp bạn."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "kōng tiáo zěn me tiáo chéng zhì lěng",
+          "mistakes": [
+            {
+              "text": "“调成制冷”是切换运行模式，不是单纯调低温度；不同品牌的模式键位置可能不同。",
+              "text_vi": "“调成制冷” là chuyển chế độ hoạt động, khác chỉ hạ nhiệt độ; nút chế độ thay đổi theo hãng."
+            }
+          ],
+          "meaning_vi": "Chuyển điều hòa sang chế độ làm lạnh thế nào?",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0014",
+          "level": "listen",
+          "text": "现在二十四度。",
+          "alternatives": [
+            {
+              "text": "现在是二十四度。",
+              "id": "s20_1_0014_alt01",
+              "meaning_vi": "Giờ đang là 24 độ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "有点冷，调高一点吧。",
+              "id": "s20_1_0014_reply01",
+              "meaning_vi": "Hơi lạnh, tăng nhiệt độ lên chút nhé."
+            },
+            {
+              "text": "这个温度可以。",
+              "id": "s20_1_0014_reply02",
+              "meaning_vi": "Nhiệt độ này được rồi."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "xiàn zài èr shí sì dù",
+          "mistakes": [
+            {
+              "text": "“现在二十四度”要结合遥控器或温度显示判断，可能是设定温度，不必然是实际室温。",
+              "text_vi": "“现在二十四度” có thể là nhiệt độ cài đặt trên remote, chưa chắc là nhiệt độ thật trong phòng."
+            }
+          ],
+          "meaning_vi": "Bây giờ là 24 độ.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0015",
+          "level": "listen",
+          "text": "别开太低。",
+          "alternatives": [
+            {
+              "text": "温度别开太低。",
+              "id": "s20_1_0015_alt01",
+              "meaning_vi": "Đừng chỉnh nhiệt độ quá thấp."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，开二十五度。",
+              "id": "s20_1_0015_reply01",
+              "meaning_vi": "Được, để 25 độ."
+            },
+            {
+              "text": "知道了，我调高一点。",
+              "id": "s20_1_0015_reply02",
+              "meaning_vi": "Biết rồi, tôi tăng lên chút."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "bié kāi tài dī",
+          "mistakes": [
+            {
+              "text": "“别开太低”是提醒设定温度别太低，通常不是禁止开空调；“低”指温度数值。",
+              "text_vi": "“别开太低” nhắc không đặt nhiệt độ thấp quá, không cấm bật điều hòa."
+            }
+          ],
+          "meaning_vi": "Đừng để nhiệt độ thấp quá.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0016",
+          "level": "listen",
+          "text": "空调不制冷。",
+          "alternatives": [
+            {
+              "text": "空调不出冷风。",
+              "id": "s20_1_0016_alt01",
+              "meaning_vi": "Máy lạnh không thổi hơi lạnh."
+            }
+          ],
+          "replies": [
+            {
+              "text": "制冷模式开了吗？",
+              "id": "s20_1_0016_reply01",
+              "meaning_vi": "Đã bật chế độ làm lạnh chưa?"
+            },
+            {
+              "text": "那联系维修师傅吧。",
+              "id": "s20_1_0016_reply02",
+              "meaning_vi": "Vậy liên hệ thợ sửa nhé."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "kōng tiáo bú zhì lěng",
+          "mistakes": [
+            {
+              "text": "“不制冷”是开机后不出冷气，不等于完全开不了；先确认模式设定，设备故障应交专业人员处理。",
+              "text_vi": "“不制冷” là máy bật mà không tạo hơi lạnh, khác hoàn toàn không khởi động được; nếu lỗi hãy nhờ thợ chuyên môn."
+            }
+          ],
+          "meaning_vi": "Điều hòa không làm lạnh.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0017",
+          "level": "listen",
+          "text": "遥控器在桌上。",
+          "alternatives": [
+            {
+              "text": "遥控器放桌上了。",
+              "id": "s20_1_0017_alt01",
+              "meaning_vi": "Đã để điều khiển lên bàn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去拿。",
+              "id": "s20_1_0017_reply01",
+              "meaning_vi": "Được, tôi đi lấy."
+            },
+            {
+              "text": "我看到了。",
+              "id": "s20_1_0017_reply02",
+              "meaning_vi": "Tôi thấy rồi."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "yáo kòng qì zài zhuō shang",
+          "mistakes": [
+            {
+              "text": "“在桌上”说明遥控器的位置；“放桌上了”侧重有人把它放在桌上的动作结果。",
+              "text_vi": "“在桌上” chỉ vị trí remote hiện tại; “放桌上了” nhấn mạnh đã đặt nó lên bàn."
+            }
+          ],
+          "meaning_vi": "Remote ở trên bàn.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0018",
+          "level": "listen",
+          "text": "温度已经调高了。",
+          "alternatives": [
+            {
+              "text": "温度调高了。",
+              "id": "s20_1_0018_alt01",
+              "meaning_vi": "Nhiệt độ được chỉnh cao lên rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，这样可以。",
+              "id": "s20_1_0018_reply01",
+              "meaning_vi": "Được, thế này ổn."
+            },
+            {
+              "text": "那先等一会儿看看。",
+              "id": "s20_1_0018_reply02",
+              "meaning_vi": "Vậy đợi một lát xem sao."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "wēn dù yǐ jīng tiáo gāo le",
+          "mistakes": [
+            {
+              "text": "“已经调高了”指遥控器设定操作完成，不意味着房间已马上变暖。",
+              "text_vi": "Tăng nhiệt độ cài đặt xong không có nghĩa phòng sẽ lập tức ấm hơn."
+            }
+          ],
+          "meaning_vi": "Đã tăng nhiệt độ lên rồi.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0019",
+          "level": "listen",
+          "text": "风速调小了。",
+          "alternatives": [
+            {
+              "text": "风速已经调小了。",
+              "id": "s20_1_0019_alt01",
+              "meaning_vi": "Tốc độ gió đã được giảm xuống."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，这样舒服一点。",
+              "id": "s20_1_0019_reply01",
+              "meaning_vi": "Được, vậy dễ chịu hơn chút."
+            },
+            {
+              "text": "谢谢。",
+              "id": "s20_1_0019_reply02",
+              "meaning_vi": "Cảm ơn."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "fēng sù tiáo xiǎo le",
+          "mistakes": [
+            {
+              "text": "“风速调小了”说风量调节完成，不是“空调温度调低了”；两种按钮不能混。",
+              "text_vi": "Giảm tốc độ quạt khác với giảm nhiệt độ cài đặt; phải dùng đúng nút chức năng."
+            }
+          ],
+          "meaning_vi": "Đã giảm tốc độ quạt rồi.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0020",
+          "level": "listen",
+          "text": "先关一会儿。",
+          "alternatives": [
+            {
+              "text": "先关一会儿吧。",
+              "id": "s20_1_0020_alt01",
+              "meaning_vi": "Tắt một lúc trước nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先关。",
+              "id": "s20_1_0020_reply01",
+              "meaning_vi": "Được, tôi tắt trước."
+            },
+            {
+              "text": "行，等会儿再开。",
+              "id": "s20_1_0020_reply02",
+              "meaning_vi": "Ừ, lát nữa bật lại."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "xiān guān yí huìr",
+          "mistakes": [
+            {
+              "text": "“先关一会儿”表示暂时关闭一小段时间，“一会儿”不是固定的五分钟。",
+              "text_vi": "“一会儿” là tạm tắt một khoảng ngắn không cố định, chưa chắc đúng năm phút."
+            }
+          ],
+          "meaning_vi": "Tắt tạm một lát.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        },
+        {
+          "id": "s20_1_0021",
+          "level": "listen",
+          "text": "风口可以调。",
+          "alternatives": [
+            {
+              "text": "风口能调。",
+              "id": "s20_1_0021_alt01",
+              "meaning_vi": "Hướng cửa gió chỉnh được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那帮我调开一点。",
+              "id": "s20_1_0021_reply01",
+              "meaning_vi": "Vậy chỉnh lệch ra một chút giúp tôi."
+            },
+            {
+              "text": "好，我自己调。",
+              "id": "s20_1_0021_reply02",
+              "meaning_vi": "Được, tôi tự chỉnh."
+            }
+          ],
+          "lesson_id": "20.1",
+          "lesson_title": "20.1 空调温度",
+          "pinyin": "fēng kǒu kě yǐ tiáo",
+          "mistakes": [
+            {
+              "text": "“风口可以调”说的是出风叶片或风向可调，不等于可以自行拆卸外壳。",
+              "text_vi": "“风口可以调” nói có thể chỉnh cánh hướng gió, không cho phép tự tháo vỏ máy."
+            }
+          ],
+          "meaning_vi": "Có thể chỉnh hướng cửa gió.",
+          "lesson_title_vi": "20.1 Điều hòa và nhiệt độ"
+        }
+      ],
+      "title_vi": "20.1 Điều hòa và nhiệt độ",
+      "subtitle_vi": "21 thẻ giao tiếp thực tế",
+      "opening_vi": "Phân biệt tăng hoặc hạ nhiệt độ cài đặt với chỉnh tốc độ quạt và hướng gió; học chuyển chế độ làm lạnh."
+    },
+    {
+      "id": "20.2",
+      "title": "20.2 停水停电",
+      "subtitle": "21张实用口语卡",
+      "opening": "停水停电时说明故障范围，询问预计恢复时间、官方通知和物业处理情况。",
+      "phrases": [
+        {
+          "id": "s20_2_0001",
+          "level": "must",
+          "text": "停电了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我也发现了。",
+              "id": "s20_2_0001_reply01",
+              "meaning_vi": "Tôi cũng thấy rồi."
+            },
+            {
+              "text": "先看看是不是整栋都停了。",
+              "id": "s20_2_0001_reply02",
+              "meaning_vi": "Kiểm tra xem cả tòa có mất điện không đã."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "tíng diàn le",
+          "mistakes": [
+            {
+              "text": "“停电了”指供电中断，不是单个灯泡不亮；如果只是灯不亮，先别判断整栋停电。",
+              "text_vi": "“停电了” là nguồn điện bị cắt, không chỉ một bóng đèn không sáng; chưa nên kết luận cả tòa mất điện."
+            }
+          ],
+          "meaning_vi": "Mất điện rồi.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0002",
+          "level": "must",
+          "text": "怎么没水了？",
+          "alternatives": [
+            {
+              "text": "怎么停水了？",
+              "id": "s20_2_0002_alt01",
+              "meaning_vi": "Sao lại mất nước?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可能停水了。",
+              "id": "s20_2_0002_reply01",
+              "meaning_vi": "Có lẽ bị cắt nước rồi."
+            },
+            {
+              "text": "我去看一下通知。",
+              "id": "s20_2_0002_reply02",
+              "meaning_vi": "Để tôi đi xem thông báo."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zěn me méi shuǐ le",
+          "mistakes": [
+            {
+              "text": "“没水了”说水龙头不出水，不一定意味着整栋楼正式停水，也可能只是家里的设备问题。",
+              "text_vi": "“没水了” chỉ nước không chảy từ vòi, chưa chắc cả tòa bị cắt nước; có thể do thiết bị trong nhà."
+            }
+          ],
+          "meaning_vi": "Sao không có nước nữa?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0003",
+          "level": "must",
+          "text": "什么时候来电？",
+          "alternatives": [
+            {
+              "text": "什么时候恢复供电？",
+              "id": "s20_2_0003_alt01",
+              "meaning_vi": "Khi nào khôi phục cấp điện?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "预计下午恢复。",
+              "id": "s20_2_0003_reply01",
+              "meaning_vi": "Dự kiến chiều sẽ có lại."
+            },
+            {
+              "text": "还不确定。",
+              "id": "s20_2_0003_reply02",
+              "meaning_vi": "Vẫn chưa chắc."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "shén me shí hou lái diàn",
+          "mistakes": [
+            {
+              "text": "“来电”在停电场景是恢复供电，不是“来电话”有人打电话；正式说法是“恢复供电”。",
+              "text_vi": "“来电” trong bối cảnh mất điện là có điện trở lại, không phải có người gọi điện thoại; cách nói trang trọng là “恢复供电”."
+            }
+          ],
+          "meaning_vi": "Khi nào có điện lại?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0004",
+          "level": "must",
+          "text": "要停多久？",
+          "alternatives": [
+            {
+              "text": "要停多长时间？",
+              "id": "s20_2_0004_alt01",
+              "meaning_vi": "Mất bao lâu mới có lại?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "大概两个小时。",
+              "id": "s20_2_0004_reply01",
+              "meaning_vi": "Khoảng hai tiếng."
+            },
+            {
+              "text": "还不知道。",
+              "id": "s20_2_0004_reply02",
+              "meaning_vi": "Vẫn chưa biết."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "yào tíng duō jiǔ",
+          "mistakes": [
+            {
+              "text": "“要停多久”问持续多长时间，没说“水/电”时要靠上下文判断对象。",
+              "text_vi": "“要停多久” hỏi mất nước hoặc điện kéo dài bao lâu, phải dựa ngữ cảnh biết đối tượng."
+            }
+          ],
+          "meaning_vi": "Sẽ bị ngừng bao lâu?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0005",
+          "level": "must",
+          "text": "有通知吗？",
+          "alternatives": [
+            {
+              "text": "有通知没有？",
+              "id": "s20_2_0005_alt01",
+              "meaning_vi": "Đã có thông báo chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，我发给你。",
+              "id": "s20_2_0005_reply01",
+              "meaning_vi": "Có, tôi gửi cho bạn."
+            },
+            {
+              "text": "还没看到通知。",
+              "id": "s20_2_0005_reply02",
+              "meaning_vi": "Tôi chưa thấy thông báo."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "yǒu tōng zhī ma",
+          "mistakes": [
+            {
+              "text": "“通知”是物业或供水供电单位发布的消息，不一定是纸质公告，也可能是群聊信息。",
+              "text_vi": "“通知” có thể là tin nhắn từ ban quản lý, công ty nước hoặc điện, không nhất thiết là giấy dán ở bảng tin."
+            }
+          ],
+          "meaning_vi": "Có thông báo không?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0006",
+          "level": "must",
+          "text": "只有我们家没电吗？",
+          "alternatives": [
+            {
+              "text": "只有我家没电吗？",
+              "id": "s20_2_0006_alt01",
+              "meaning_vi": "Chỉ nhà tôi bị mất điện à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不是，整栋都停了。",
+              "id": "s20_2_0006_reply01",
+              "meaning_vi": "Không, cả tòa đều mất điện."
+            },
+            {
+              "text": "好像只有这一层。",
+              "id": "s20_2_0006_reply02",
+              "meaning_vi": "Hình như chỉ tầng này."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zhǐ yǒu wǒ men jiā méi diàn ma",
+          "mistakes": [
+            {
+              "text": "“只有我们家”在这里强调是不是仅这一户停电，“我们家”不等于整栋宿舍。",
+              "text_vi": "“只有我们家” nói chỉ một hộ bị mất điện, không phải cả tòa."
+            }
+          ],
+          "meaning_vi": "Chỉ nhà mình mất điện thôi à?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0007",
+          "level": "must",
+          "text": "什么时候来水？",
+          "alternatives": [
+            {
+              "text": "什么时候恢复供水？",
+              "id": "s20_2_0007_alt01",
+              "meaning_vi": "Khi nào cấp nước trở lại?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "下午恢复。",
+              "id": "s20_2_0007_reply01",
+              "meaning_vi": "Chiều sẽ có lại."
+            },
+            {
+              "text": "还没通知。",
+              "id": "s20_2_0007_reply02",
+              "meaning_vi": "Chưa có thông báo."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "shén me shí hou lái shuǐ",
+          "mistakes": [
+            {
+              "text": "“来水”在停水后表示水管恢复供水，不是有人把一桶饮用水送过来。",
+              "text_vi": "“来水” là nước được cấp trở lại trong đường ống, không phải người mang nước tới giao."
+            }
+          ],
+          "meaning_vi": "Khi nào có nước lại?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0008",
+          "level": "must",
+          "text": "整层都没水吗？",
+          "alternatives": [
+            {
+              "text": "这一层都没水吗？",
+              "id": "s20_2_0008_alt01",
+              "meaning_vi": "Tầng này mất nước hết à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，这一层都停水。",
+              "id": "s20_2_0008_reply01",
+              "meaning_vi": "Đúng, tầng này đều bị mất nước."
+            },
+            {
+              "text": "不是，只有我们家。",
+              "id": "s20_2_0008_reply02",
+              "meaning_vi": "Không, chỉ nhà chúng tôi."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zhěng céng dōu méi shuǐ ma",
+          "mistakes": [
+            {
+              "text": "“整层”是同一个楼层的所有住户，不是“整栋”所有楼层；要明确报修范围。",
+              "text_vi": "“整层” là tất cả các căn trên cùng tầng, không phải cả tòa nhà nhiều tầng."
+            }
+          ],
+          "meaning_vi": "Cả tầng đều không có nước à?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0009",
+          "level": "must",
+          "text": "今天能恢复吗？",
+          "alternatives": [
+            {
+              "text": "今天可以恢复吗？",
+              "id": "s20_2_0009_alt01",
+              "meaning_vi": "Hôm nay có thể có lại không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "应该可以。",
+              "id": "s20_2_0009_reply01",
+              "meaning_vi": "Chắc là được."
+            },
+            {
+              "text": "现在还不确定。",
+              "id": "s20_2_0009_reply02",
+              "meaning_vi": "Hiện vẫn chưa chắc."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "jīn tiān néng huī fù ma",
+          "mistakes": [
+            {
+              "text": "“恢复”可指水或电重新正常供应，能否今天恢复仍是询问，不是已经确认。",
+              "text_vi": "“恢复” là nguồn cấp nước hoặc điện hoạt động lại; hỏi hôm nay có khôi phục được không, chưa khẳng định chắc chắn."
+            }
+          ],
+          "meaning_vi": "Hôm nay khôi phục được không?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0010",
+          "level": "must",
+          "text": "哪里可以看通知？",
+          "alternatives": [
+            {
+              "text": "通知在哪里看？",
+              "id": "s20_2_0010_alt01",
+              "meaning_vi": "Thông báo xem ở chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "物业群里可以看。",
+              "id": "s20_2_0010_reply01",
+              "meaning_vi": "Có thể xem trong nhóm quản lý tòa nhà."
+            },
+            {
+              "text": "大厅公告栏有通知。",
+              "id": "s20_2_0010_reply02",
+              "meaning_vi": "Có thông báo trên bảng tin ở sảnh."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "nǎ lǐ kě yǐ kàn tōng zhī",
+          "mistakes": [
+            {
+              "text": "“哪里可以看通知”问查看消息的渠道或位置，不是问“我把通知发到哪里”。",
+              "text_vi": "Hỏi có thể xem thông báo ở đâu hoặc qua kênh nào, không phải hỏi phải gửi thông báo đi đâu."
+            }
+          ],
+          "meaning_vi": "Xem thông báo ở đâu?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0011",
+          "level": "must",
+          "text": "整栋楼都停电了吗？",
+          "alternatives": [
+            {
+              "text": "整栋楼都停了吗？",
+              "id": "s20_2_0011_alt01",
+              "meaning_vi": "Cả tòa đều bị cắt điện à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，整栋都停电了。",
+              "id": "s20_2_0011_reply01",
+              "meaning_vi": "Đúng, cả tòa đều mất điện."
+            },
+            {
+              "text": "不是，只有这一层。",
+              "id": "s20_2_0011_reply02",
+              "meaning_vi": "Không, chỉ có tầng này."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zhěng dòng lóu dōu tíng diàn le ma",
+          "mistakes": [
+            {
+              "text": "“整栋楼都停电了吗”特指整栋无电，与“整栋楼都停水了吗”不同；“停”后明确对象更自然。",
+              "text_vi": "Câu này nói toàn tòa mất điện, khác câu hỏi toàn tòa mất nước; nên nói rõ điện hay nước."
+            }
+          ],
+          "meaning_vi": "Cả tòa nhà mất điện hết à?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0012",
+          "level": "must",
+          "text": "物业怎么说？",
+          "alternatives": [
+            {
+              "text": "物业那边怎么说？",
+              "id": "s20_2_0012_alt01",
+              "meaning_vi": "Phía ban quản lý nói thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "说正在维修。",
+              "id": "s20_2_0012_reply01",
+              "meaning_vi": "Họ nói đang sửa chữa."
+            },
+            {
+              "text": "说下午恢复。",
+              "id": "s20_2_0012_reply02",
+              "meaning_vi": "Họ nói chiều sẽ có lại."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "wù yè zěn me shuō",
+          "mistakes": [
+            {
+              "text": "“物业”在住宅场景指物业管理人员或服务公司，不是笼统指房产所有者。",
+              "text_vi": "“物业” là ban quản lý chung cư hoặc công ty dịch vụ tòa nhà, không nhất thiết là chủ sở hữu bất động sản."
+            }
+          ],
+          "meaning_vi": "Ban quản lý tòa nhà nói sao?",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0013",
+          "level": "listen",
+          "text": "正在维修。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概多久能好？",
+              "id": "s20_2_0013_reply01",
+              "meaning_vi": "Khoảng bao lâu nữa mới xong?"
+            },
+            {
+              "text": "好，那先等等。",
+              "id": "s20_2_0013_reply02",
+              "meaning_vi": "Được, vậy đợi trước nhé."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zhèng zài wéi xiū",
+          "mistakes": [
+            {
+              "text": "“正在维修”强调维修工作此刻在进行，不等于故障已经修好。",
+              "text_vi": "“正在维修” nghĩa là đang sửa lúc này, chưa phải đã sửa xong."
+            }
+          ],
+          "meaning_vi": "Đang sửa chữa.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0014",
+          "level": "listen",
+          "text": "下午恢复。",
+          "alternatives": [
+            {
+              "text": "下午会恢复。",
+              "id": "s20_2_0014_alt01",
+              "meaning_vi": "Chiều sẽ khôi phục."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s20_2_0014_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "大概几点？",
+              "id": "s20_2_0014_reply02",
+              "meaning_vi": "Khoảng mấy giờ?"
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "xià wǔ huī fù",
+          "mistakes": [
+            {
+              "text": "“下午恢复”没有确切时刻，也要看前文是水还是电；必要时问“大概几点”。",
+              "text_vi": "“下午恢复” chưa nêu giờ chính xác, cần xem ngữ cảnh là nước hay điện; có thể hỏi tiếp “大概几点?”."
+            }
+          ],
+          "meaning_vi": "Chiều sẽ có lại.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0015",
+          "level": "listen",
+          "text": "整栋楼都停电了。",
+          "alternatives": [
+            {
+              "text": "整栋都停电了。",
+              "id": "s20_2_0015_alt01",
+              "meaning_vi": "Toàn bộ tòa nhà đều mất điện."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那只能等通知了。",
+              "id": "s20_2_0015_reply01",
+              "meaning_vi": "Vậy chỉ còn chờ thông báo."
+            },
+            {
+              "text": "物业知道了吗？",
+              "id": "s20_2_0015_reply02",
+              "meaning_vi": "Ban quản lý đã biết chưa?"
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zhěng dòng lóu dōu tíng diàn le",
+          "mistakes": [
+            {
+              "text": "“整栋楼都停电了”指整个楼栋无电，并不自动说明邻近楼栋也停电。",
+              "text_vi": "Chỉ toàn bộ tòa đang mất điện, chưa có nghĩa các tòa lân cận cũng mất."
+            }
+          ],
+          "meaning_vi": "Cả tòa nhà mất điện rồi.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0016",
+          "level": "listen",
+          "text": "先等等。",
+          "alternatives": [
+            {
+              "text": "先等一下。",
+              "id": "s20_2_0016_alt01",
+              "meaning_vi": "Đợi một chút trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我等一下。",
+              "id": "s20_2_0016_reply01",
+              "meaning_vi": "Được, tôi đợi một chút."
+            },
+            {
+              "text": "有消息告诉我一声。",
+              "id": "s20_2_0016_reply02",
+              "meaning_vi": "Có tin mới thì báo tôi một tiếng."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "xiān děng deng",
+          "mistakes": [
+            {
+              "text": "“先等等”是请人暂时等候，并不承诺具体恢复时间；询问停水停电情况可追问“预计多久”。",
+              "text_vi": "“先等等” bảo chờ tạm thời, không bảo đảm giờ khôi phục cụ thể."
+            }
+          ],
+          "meaning_vi": "Đợi chút đã.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0017",
+          "level": "listen",
+          "text": "预计两小时后恢复。",
+          "alternatives": [
+            {
+              "text": "预计两个小时后恢复。",
+              "id": "s20_2_0017_alt01",
+              "meaning_vi": "Dự kiến sẽ khôi phục sau hai giờ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s20_2_0017_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "两小时以后再看看。",
+              "id": "s20_2_0017_reply02",
+              "meaning_vi": "Hai tiếng nữa kiểm tra lại."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "yù jì liǎng xiǎo shí hòu huī fù",
+          "mistakes": [
+            {
+              "text": "“预计”表示预测而非保证；“两小时后”指从约定的起点再过两小时，不等于“两小时以内”。",
+              "text_vi": "“预计” nghĩa là dự kiến, không bảo đảm; “两小时后” là sau hai tiếng kể từ mốc đang tính, không đồng nghĩa trong vòng hai tiếng."
+            }
+          ],
+          "meaning_vi": "Dự kiến hai tiếng nữa có lại.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0018",
+          "level": "listen",
+          "text": "只有这一层停水。",
+          "alternatives": [
+            {
+              "text": "只有这层停水。",
+              "id": "s20_2_0018_alt01",
+              "meaning_vi": "Chỉ mất nước ở tầng này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我去问一下物业。",
+              "id": "s20_2_0018_reply01",
+              "meaning_vi": "Vậy tôi đi hỏi ban quản lý."
+            },
+            {
+              "text": "什么时候恢复？",
+              "id": "s20_2_0018_reply02",
+              "meaning_vi": "Khi nào có lại?"
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zhǐ yǒu zhè yì céng tíng shuǐ",
+          "mistakes": [
+            {
+              "text": "“只有这一层停水”只限这个楼层，不代表“只有我们这一户没水”。",
+              "text_vi": "Mất nước chỉ ở tầng này không có nghĩa chỉ một nhà bị mất."
+            }
+          ],
+          "meaning_vi": "Chỉ tầng này bị cắt nước.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0019",
+          "level": "listen",
+          "text": "已经通知物业了。",
+          "alternatives": [
+            {
+              "text": "已经跟物业说了。",
+              "id": "s20_2_0019_alt01",
+              "meaning_vi": "Đã nói với ban quản lý rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那等消息。",
+              "id": "s20_2_0019_reply01",
+              "meaning_vi": "Được, vậy chờ tin."
+            },
+            {
+              "text": "物业怎么说？",
+              "id": "s20_2_0019_reply02",
+              "meaning_vi": "Ban quản lý tòa nhà nói sao?"
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "yǐ jīng tōng zhī wù yè le",
+          "mistakes": [
+            {
+              "text": "“已经通知物业了”只是表示报修消息已送达，不代表修理人员已经到场。",
+              "text_vi": "“已经通知物业” nghĩa là đã báo cho ban quản lý, chưa chắc có thợ đến sửa."
+            }
+          ],
+          "meaning_vi": "Đã báo ban quản lý rồi.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0020",
+          "level": "listen",
+          "text": "已经派人检查了。",
+          "alternatives": [
+            {
+              "text": "已经叫人来检查了。",
+              "id": "s20_2_0020_alt01",
+              "meaning_vi": "Đã gọi người đến kiểm tra."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那等检查结果。",
+              "id": "s20_2_0020_reply01",
+              "meaning_vi": "Được, vậy đợi kết quả kiểm tra."
+            },
+            {
+              "text": "大概多久有结果？",
+              "id": "s20_2_0020_reply02",
+              "meaning_vi": "Khoảng bao lâu có kết quả?"
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "yǐ jīng pài rén jiǎn chá le",
+          "mistakes": [
+            {
+              "text": "“已经派人检查了”表示已安排人去查问题，不等于检查结果出来或故障已修复。",
+              "text_vi": "“已经派人检查” nói đã cử người đi kiểm tra, chưa có kết luận hay sửa xong."
+            }
+          ],
+          "meaning_vi": "Đã cử người kiểm tra.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        },
+        {
+          "id": "s20_2_0021",
+          "level": "listen",
+          "text": "只是临时停电。",
+          "alternatives": [
+            {
+              "text": "只是暂时停电。",
+              "id": "s20_2_0021_alt01",
+              "meaning_vi": "Chỉ tạm ngừng điện."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，大概多久恢复？",
+              "id": "s20_2_0021_reply01",
+              "meaning_vi": "Được, khoảng bao lâu có lại?"
+            },
+            {
+              "text": "那先等等。",
+              "id": "s20_2_0021_reply02",
+              "meaning_vi": "Vậy đợi chút đã."
+            }
+          ],
+          "lesson_id": "20.2",
+          "lesson_title": "20.2 停水停电",
+          "pinyin": "zhǐ shì lín shí tíng diàn",
+          "mistakes": [
+            {
+              "text": "“临时停电”说明不是长期断电，却没有承诺具体恢复时间；别擅自推测几分钟就来电。",
+              "text_vi": "“临时停电” là cắt điện tạm thời, không có lời hứa mấy phút sẽ có lại."
+            }
+          ],
+          "meaning_vi": "Chỉ mất điện tạm thời thôi.",
+          "lesson_title_vi": "20.2 Mất điện, mất nước"
+        }
+      ],
+      "title_vi": "20.2 Mất điện, mất nước",
+      "subtitle_vi": "21 thẻ giao tiếp thực tế",
+      "opening_vi": "Hỏi mất điện hay nước ở phạm vi nào, xem thông báo từ ban quản lý và thời gian dự kiến khôi phục."
+    },
+    {
+      "id": "20.3",
+      "title": "20.3 家电故障",
+      "subtitle": "20张实用口语卡",
+      "opening": "学会向维修人员描述家电没反应、漏水或不制冷，区分故障现象与原因并注意用电安全。",
+      "phrases": [
+        {
+          "id": "s20_3_0001",
+          "level": "must",
+          "text": "洗衣机坏了。",
+          "alternatives": [
+            {
+              "text": "洗衣机出问题了。",
+              "id": "s20_3_0001_alt01",
+              "meaning_vi": "Máy giặt gặp trục trặc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪里出问题了？",
+              "id": "s20_3_0001_reply01",
+              "meaning_vi": "Có vấn đề ở chỗ nào?"
+            },
+            {
+              "text": "先别用了。",
+              "id": "s20_3_0001_reply02",
+              "meaning_vi": "Đừng dùng nữa trước đã."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "xǐ yī jī huài le",
+          "mistakes": [
+            {
+              "text": "“洗衣机坏了”是一般性判断，不表示已经找到坏的零件；情况不确定可说“洗衣机出问题了”。",
+              "text_vi": "“洗衣机坏了” là nhận định chung máy giặt hỏng, chưa xác định linh kiện nào; chưa chắc thì nói “出问题了”."
+            }
+          ],
+          "meaning_vi": "Máy giặt hỏng rồi.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0002",
+          "level": "must",
+          "text": "热水器没反应。",
+          "alternatives": [
+            {
+              "text": "热水器没有反应。",
+              "id": "s20_3_0002_alt01",
+              "meaning_vi": "Máy nước nóng không có phản ứng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别反复开机，联系维修师傅。",
+              "id": "s20_3_0002_reply01",
+              "meaning_vi": "Đừng bật đi bật lại, hãy liên hệ thợ sửa."
+            },
+            {
+              "text": "别再开了，找人来看。",
+              "id": "s20_3_0002_reply02",
+              "meaning_vi": "Đừng bật nữa, gọi người đến xem."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "rè shuǐ qì méi fǎn yìng",
+          "mistakes": [
+            {
+              "text": "“没反应”表示按开关或操作后没有显示或启动反应，不等于“热水器不出热水”；不要自行拆电器。",
+              "text_vi": "“没反应” là bấm nút mà máy không hiện hay chạy, khác trường hợp máy chạy nhưng không có nước nóng; không tự tháo máy."
+            }
+          ],
+          "meaning_vi": "Bình nóng lạnh không phản hồi.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0003",
+          "level": "must",
+          "text": "灯不亮。",
+          "alternatives": [
+            {
+              "text": "灯不亮了。",
+              "id": "s20_3_0003_alt01",
+              "meaning_vi": "Đèn không sáng nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "是不是灯泡坏了？",
+              "id": "s20_3_0003_reply01",
+              "meaning_vi": "Có phải bóng đèn bị hỏng không?"
+            },
+            {
+              "text": "先看看有没有电。",
+              "id": "s20_3_0003_reply02",
+              "meaning_vi": "Kiểm tra xem có điện không đã."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "dēng bú liàng",
+          "mistakes": [
+            {
+              "text": "“灯不亮”只说明这盏灯不发光，不能据此断定整栋楼停电；也可能是灯具故障。",
+              "text_vi": "Một bóng đèn không sáng chưa đủ kết luận cả tòa mất điện; có thể do bóng hoặc đèn hỏng."
+            }
+          ],
+          "meaning_vi": "Đèn không sáng.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0004",
+          "level": "must",
+          "text": "冰箱不制冷。",
+          "alternatives": [
+            {
+              "text": "冰箱不冷了。",
+              "id": "s20_3_0004_alt01",
+              "meaning_vi": "Tủ lạnh không còn lạnh."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别总开冰箱门。",
+              "id": "s20_3_0004_reply01",
+              "meaning_vi": "Đừng mở cửa tủ lạnh liên tục."
+            },
+            {
+              "text": "找师傅检查一下。",
+              "id": "s20_3_0004_reply02",
+              "meaning_vi": "Gọi thợ kiểm tra."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "bīng xiāng bú zhì lěng",
+          "mistakes": [
+            {
+              "text": "“冰箱不制冷”是冷却功能出现问题，不一定是完全没通电；易坏食物不宜长期放在不冷的冰箱里。",
+              "text_vi": "Tủ lạnh không làm lạnh có thể do hệ thống lạnh lỗi, chưa chắc mất điện; thực phẩm dễ hỏng không nên để lâu trong tủ mất lạnh."
+            }
+          ],
+          "meaning_vi": "Tủ lạnh không làm lạnh.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0005",
+          "level": "must",
+          "text": "这里漏水。",
+          "alternatives": [
+            {
+              "text": "这里在漏水。",
+              "id": "s20_3_0005_alt01",
+              "meaning_vi": "Ở đây đang bị rò nước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先把水关掉。",
+              "id": "s20_3_0005_reply01",
+              "meaning_vi": "Khóa nước trước."
+            },
+            {
+              "text": "我找人来看。",
+              "id": "s20_3_0005_reply02",
+              "meaning_vi": "Tôi gọi người đến xem."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "zhè lǐ lòu shuǐ",
+          "mistakes": [
+            {
+              "text": "“漏水”是水从管道或设备不该漏的地方流出，附近有电器或插座时不要碰湿的电源设备。",
+              "text_vi": "“漏水” là nước chảy ra nơi không nên chảy. Gần ổ điện hoặc thiết bị điện đang ướt thì đừng chạm vào."
+            }
+          ],
+          "meaning_vi": "Chỗ này rò nước.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0006",
+          "level": "must",
+          "text": "能找人来看一下吗？",
+          "alternatives": [
+            {
+              "text": "能叫人来看看吗？",
+              "id": "s20_3_0006_alt01",
+              "meaning_vi": "Có gọi ai đến xem giúp được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我联系师傅。",
+              "id": "s20_3_0006_reply01",
+              "meaning_vi": "Được, tôi liên hệ thợ."
+            },
+            {
+              "text": "可以，我叫人来看看。",
+              "id": "s20_3_0006_reply02",
+              "meaning_vi": "Được, tôi gọi người đến kiểm tra."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "néng zhǎo rén lái kàn yí xià ma",
+          "mistakes": [
+            {
+              "text": "“找人来看一下”是请求安排人检查状况，不等于保证当天修好；维修时间要另行约定。",
+              "text_vi": "Gọi người đến xem là nhờ kiểm tra trước, không bảo đảm sửa xong ngay trong hôm nay."
+            }
+          ],
+          "meaning_vi": "Có thể nhờ người đến kiểm tra không?",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0007",
+          "level": "must",
+          "text": "冰箱一直响。",
+          "alternatives": [
+            {
+              "text": "冰箱一直有声音。",
+              "id": "s20_3_0007_alt01",
+              "meaning_vi": "Tủ lạnh liên tục phát ra tiếng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先听听是什么声音。",
+              "id": "s20_3_0007_reply01",
+              "meaning_vi": "Nghe thử đó là tiếng gì trước."
+            },
+            {
+              "text": "先看看门有没有关好。",
+              "id": "s20_3_0007_reply02",
+              "meaning_vi": "Kiểm tra cửa đã đóng kín chưa."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "bīng xiāng yì zhí xiǎng",
+          "mistakes": [
+            {
+              "text": "冰箱正常运行也会有一定声音；“一直响”要结合是否异常、是否持续报警，不能听见声就认定坏了。",
+              "text_vi": "Tủ lạnh có thể phát tiếng bình thường; phải xem tiếng bất thường hoặc báo động chứ không cứ nghe tiếng là máy hỏng."
+            }
+          ],
+          "meaning_vi": "Tủ lạnh cứ kêu suốt.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0008",
+          "level": "must",
+          "text": "洗衣机不转了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先别用了，找师傅检查。",
+              "id": "s20_3_0008_reply01",
+              "meaning_vi": "Ngừng dùng và gọi thợ kiểm tra."
+            },
+            {
+              "text": "可能是机器故障。",
+              "id": "s20_3_0008_reply02",
+              "meaning_vi": "Có thể máy gặp lỗi."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "xǐ yī jī bú zhuàn le",
+          "mistakes": [
+            {
+              "text": "“不转了”在这里指洗衣机内桶或滚筒不再转动，和“门打不开”不是同一种故障；不要强行转动机器。",
+              "text_vi": "“不转了” nói lồng giặt không quay nữa, khác lỗi cửa không mở được; không cố xoay máy bằng sức."
+            }
+          ],
+          "meaning_vi": "Máy giặt không quay nữa.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0009",
+          "level": "must",
+          "text": "热水器不出热水。",
+          "alternatives": [
+            {
+              "text": "热水器没有热水。",
+              "id": "s20_3_0009_alt01",
+              "meaning_vi": "Bình nước nóng không có nước nóng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别用了，我找人检查。",
+              "id": "s20_3_0009_reply01",
+              "meaning_vi": "Đừng dùng vội, tôi gọi người kiểm tra."
+            },
+            {
+              "text": "可能需要维修。",
+              "id": "s20_3_0009_reply02",
+              "meaning_vi": "Có lẽ cần sửa chữa."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "rè shuǐ qì bù chū rè shuǐ",
+          "mistakes": [
+            {
+              "text": "“不出热水”表示有设备却得不到热水，不必然表示电源完全坏；不可自行打开热水器外壳排查。",
+              "text_vi": "“不出热水” là thiết bị không cung cấp nước nóng, chưa chắc mất điện hoàn toàn; không tự mở vỏ máy."
+            }
+          ],
+          "meaning_vi": "Máy nước nóng không có nước nóng chảy ra.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0010",
+          "level": "must",
+          "text": "这里一直漏水。",
+          "alternatives": [
+            {
+              "text": "这里一直在漏水。",
+              "id": "s20_3_0010_alt01",
+              "meaning_vi": "Ở đây cứ bị rò nước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先关水。",
+              "id": "s20_3_0010_reply01",
+              "meaning_vi": "Khóa nước trước."
+            },
+            {
+              "text": "要尽快找人维修。",
+              "id": "s20_3_0010_reply02",
+              "meaning_vi": "Cần gọi người đến sửa càng sớm càng tốt."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "zhè lǐ yì zhí lòu shuǐ",
+          "mistakes": [
+            {
+              "text": "“一直漏水”强调持续发生，比单说“这里漏水”更突出紧急程度；能安全操作时才关水阀。",
+              "text_vi": "“一直漏水” nhấn mạnh nước rò liên tục, khẩn cấp hơn chỉ nói rò nước; chỉ khóa van nếu có thể làm an toàn."
+            }
+          ],
+          "meaning_vi": "Chỗ này bị rò nước liên tục.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0011",
+          "level": "must",
+          "text": "插上电也没反应。",
+          "alternatives": [
+            {
+              "text": "接上电也没反应。",
+              "id": "s20_3_0011_alt01",
+              "meaning_vi": "Nối nguồn điện rồi vẫn không chạy."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那先别用了。",
+              "id": "s20_3_0011_reply01",
+              "meaning_vi": "Vậy ngừng dùng trước đã."
+            },
+            {
+              "text": "可能是线路问题。",
+              "id": "s20_3_0011_reply02",
+              "meaning_vi": "Có lẽ dây điện có vấn đề."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "chā shàng diàn yě méi fǎn yìng",
+          "mistakes": [
+            {
+              "text": "“插上电也没反应”只报告插电后无反应，不是让别人反复插拔或触碰可能带电、潮湿的插座。",
+              "text_vi": "Cắm điện không chạy là mô tả tình trạng, không phải hướng dẫn cắm rút liên tục hay chạm ổ cắm ẩm ướt."
+            }
+          ],
+          "meaning_vi": "Cắm điện vào cũng không có phản ứng.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0012",
+          "level": "must",
+          "text": "我先把电源关了。",
+          "alternatives": [
+            {
+              "text": "我先关掉电源。",
+              "id": "s20_3_0012_alt01",
+              "meaning_vi": "Để tôi ngắt nguồn điện trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，先断电比较安全。",
+              "id": "s20_3_0012_reply01",
+              "meaning_vi": "Đúng, ngắt điện trước thì an toàn hơn."
+            },
+            {
+              "text": "好，先别再开机了。",
+              "id": "s20_3_0012_reply02",
+              "meaning_vi": "Được, đừng bật máy lại vội."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "wǒ xiān bǎ diàn yuán guān le",
+          "mistakes": [
+            {
+              "text": "“把电源关了”是停止或切断供电；发现漏水、湿手、冒烟或裸露电线时不要贸然碰触设备，应远离危险并请专业人员处理。",
+              "text_vi": "Tắt nguồn điện chỉ an toàn nếu thực hiện được mà không đụng vùng ẩm ướt, khói hoặc dây hở; nếu nguy hiểm hãy tránh xa và gọi người có chuyên môn."
+            }
+          ],
+          "meaning_vi": "Tôi tắt nguồn điện trước.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0013",
+          "level": "listen",
+          "text": "先断电。",
+          "alternatives": [
+            {
+              "text": "先把电断了。",
+              "id": "s20_3_0013_alt01",
+              "meaning_vi": "Cắt nguồn điện trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，安全的话我来断电。",
+              "id": "s20_3_0013_reply01",
+              "meaning_vi": "Được, nếu an toàn tôi sẽ ngắt điện."
+            },
+            {
+              "text": "已经断电了。",
+              "id": "s20_3_0013_reply02",
+              "meaning_vi": "Đã ngắt điện rồi."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "xiān duàn diàn",
+          "mistakes": [
+            {
+              "text": "“断电”是切断电力来源，不等于用遥控器进入待机；必须确认操作安全，必要时求助专业人员。",
+              "text_vi": "“断电” là ngắt nguồn cung cấp điện, không chỉ bấm nút chờ trên remote; chỉ thao tác khi thật sự an toàn."
+            }
+          ],
+          "meaning_vi": "Ngắt điện trước.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0014",
+          "level": "listen",
+          "text": "别再用了。",
+          "alternatives": [
+            {
+              "text": "先别用了。",
+              "id": "s20_3_0014_alt01",
+              "meaning_vi": "Đừng dùng nữa trước đã."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先不用。",
+              "id": "s20_3_0014_reply01",
+              "meaning_vi": "Được, tôi ngừng dùng trước."
+            },
+            {
+              "text": "知道了。",
+              "id": "s20_3_0014_reply02",
+              "meaning_vi": "Biết rồi."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "bié zài yòng le",
+          "mistakes": [
+            {
+              "text": "“别再用了”要求停止继续使用，不等于设备已经彻底断电；涉及漏电或潮湿要离开危险位置并找合格人员。",
+              "text_vi": "Ngừng sử dụng không tự động nghĩa đã ngắt hoàn toàn nguồn điện; khi có rò điện hoặc ẩm ướt hãy tránh xa và gọi thợ."
+            }
+          ],
+          "meaning_vi": "Đừng dùng nữa.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0015",
+          "level": "listen",
+          "text": "可能要换新的。",
+          "alternatives": [
+            {
+              "text": "可能得换新的。",
+              "id": "s20_3_0015_alt01",
+              "meaning_vi": "Có thể cần đổi cái mới."
+            }
+          ],
+          "replies": [
+            {
+              "text": "是整台都要换吗？",
+              "id": "s20_3_0015_reply01",
+              "meaning_vi": "Có phải thay cả máy không?"
+            },
+            {
+              "text": "先让师傅检查一下吧。",
+              "id": "s20_3_0015_reply02",
+              "meaning_vi": "Để thợ kiểm tra trước nhé."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "kě néng yào huàn xīn de",
+          "mistakes": [
+            {
+              "text": "“可能”表示还没有确认必须更换；“换新的”可能指整台机器或某个部件，应追问清楚。",
+              "text_vi": "“可能” nghĩa là chưa chắc phải thay; đồ mới có thể là cả máy hoặc một bộ phận, cần xác nhận."
+            }
+          ],
+          "meaning_vi": "Có lẽ phải thay cái mới.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0017",
+          "level": "listen",
+          "text": "先把水关掉。",
+          "alternatives": [
+            {
+              "text": "先关掉水。",
+              "id": "s20_3_0017_alt01",
+              "meaning_vi": "Khóa nguồn nước trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先找安全位置关水。",
+              "id": "s20_3_0017_reply01",
+              "meaning_vi": "Được, tôi tìm chỗ an toàn để khóa nước."
+            },
+            {
+              "text": "阀门在哪里？",
+              "id": "s20_3_0017_reply02",
+              "meaning_vi": "Van nước ở đâu?"
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "xiān bǎ shuǐ guān diào",
+          "mistakes": [
+            {
+              "text": "“把水关掉”通常是关闭对应供水阀，不是把漏水处的电器电源打开；不知道阀门位置时联系管理人员。",
+              "text_vi": "“把水关掉” thường là khóa van nước phù hợp; không biết vị trí thì hỏi ban quản lý."
+            }
+          ],
+          "meaning_vi": "Khóa nước trước.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0018",
+          "level": "listen",
+          "text": "需要换零件。",
+          "alternatives": [
+            {
+              "text": "要换零件。",
+              "id": "s20_3_0018_alt01",
+              "meaning_vi": "Phải thay phụ tùng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "什么零件？",
+              "id": "s20_3_0018_reply01",
+              "meaning_vi": "Linh kiện gì?"
+            },
+            {
+              "text": "今天能换吗？",
+              "id": "s20_3_0018_reply02",
+              "meaning_vi": "Hôm nay thay được không?"
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "xū yào huàn líng jiàn",
+          "mistakes": [
+            {
+              "text": "“零件”是机器的组成部件；“需要换零件”不表示一定要整台机器换新。",
+              "text_vi": "“零件” là bộ phận máy; cần thay linh kiện không đồng nghĩa phải thay cả máy."
+            }
+          ],
+          "meaning_vi": "Cần thay linh kiện.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0019",
+          "level": "listen",
+          "text": "师傅会先检查一下。",
+          "alternatives": [
+            {
+              "text": "师傅先检查一下。",
+              "id": "s20_3_0019_alt01",
+              "meaning_vi": "Để thợ kiểm tra trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，请检查后告诉我。",
+              "id": "s20_3_0019_reply01",
+              "meaning_vi": "Được, kiểm tra xong hãy báo tôi."
+            },
+            {
+              "text": "大概什么时候检查？",
+              "id": "s20_3_0019_reply02",
+              "meaning_vi": "Khoảng khi nào kiểm tra?"
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "shī fu huì xiān jiǎn chá yí xià",
+          "mistakes": [
+            {
+              "text": "“师傅”在这类场景指有技术经验的维修人员，“先检查”只是先查看问题，不等于已经修好。",
+              "text_vi": "“师傅” trong bài là người sửa có chuyên môn; kiểm tra trước không có nghĩa đã sửa xong."
+            }
+          ],
+          "meaning_vi": "Thợ sẽ kiểm tra trước.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0020",
+          "level": "listen",
+          "text": "先不要开机。",
+          "alternatives": [
+            {
+              "text": "先别开机。",
+              "id": "s20_3_0020_alt01",
+              "meaning_vi": "Đừng khởi động máy vội."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我不开。",
+              "id": "s20_3_0020_reply01",
+              "meaning_vi": "Được, tôi không bật."
+            },
+            {
+              "text": "知道了。",
+              "id": "s20_3_0020_reply02",
+              "meaning_vi": "Biết rồi."
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "xiān bú yào kāi jī",
+          "mistakes": [
+            {
+              "text": "“先不要开机”是暂时不要启动设备，故障未排除前不应为了试一试就反复通电。",
+              "text_vi": "“先不要开机” nghĩa là chưa được khởi động; khi lỗi chưa được xử lý không nên bật đi bật lại."
+            }
+          ],
+          "meaning_vi": "Trước mắt đừng bật máy.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        },
+        {
+          "id": "s20_3_0021",
+          "level": "listen",
+          "text": "可能是线路问题。",
+          "alternatives": [
+            {
+              "text": "可能是电路问题。",
+              "id": "s20_3_0021_alt01",
+              "meaning_vi": "Có thể mạch điện có vấn đề."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那先断电吧。",
+              "id": "s20_3_0021_reply01",
+              "meaning_vi": "Vậy ngắt điện trước nhé."
+            },
+            {
+              "text": "要找电工检查吗？",
+              "id": "s20_3_0021_reply02",
+              "meaning_vi": "Có cần gọi thợ điện kiểm tra không?"
+            }
+          ],
+          "lesson_id": "20.3",
+          "lesson_title": "20.3 家电故障",
+          "pinyin": "kě néng shì xiàn lù wèn tí",
+          "mistakes": [
+            {
+              "text": "“可能是线路问题”只是可能原因，不等于电工已确认故障；线路和设备内部问题应由专业人员判断。",
+              "text_vi": "“可能是线路问题” chỉ là suy đoán, chưa có kết luận của thợ điện; nên để người có chuyên môn kiểm tra."
+            }
+          ],
+          "meaning_vi": "Có lẽ dây điện có vấn đề.",
+          "lesson_title_vi": "20.3 Sự cố thiết bị gia dụng"
+        }
+      ],
+      "title_vi": "20.3 Sự cố thiết bị gia dụng",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Báo sự cố máy giặt, bình nước nóng, tủ lạnh và rò nước; khi điện, nước có nguy cơ gây nguy hiểm phải tránh xa và nhờ thợ có chuyên môn."
+    }
+  ],
+  "card_count": 62,
+  "lesson_counts": {
+    "20.1": 21,
+    "20.2": 21,
+    "20.3": 20
+  },
+  "theme_title_vi": "20 Điện nước, điều hòa và hỏng thiết bị"
+}
