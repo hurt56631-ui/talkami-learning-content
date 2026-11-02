@@ -38,7 +38,7 @@
             }
           ],
           "lesson_title_vi": "35.1 Hỏi đường và hướng đi",
-          "meaning_vi": "Cho tôi hỏi đi thế nào ạ?"
+          "meaning_vi": "Xin hỏi, tôi phải đi đường nào ạ?"
         },
         {
           "id": "s35_1_0002",
@@ -68,7 +68,7 @@
           "pinyin": "qù dì tiě zhàn wǎng nǎ biān zǒu",
           "mistakes": [
             {
-              "text": "“哪边”询问行进方向，可以是向左、向右或直走；越南语不能机械地固定译成“往左边”。",
+              "text": "“哪边”在问行进方向，可以是左、右或直走；缅语不要机械译成“往左边”。",
               "text_vi": "“哪边” hỏi hướng đi, có thể là trái, phải hoặc đi thẳng; không mặc định là “bên trái”."
             }
           ],
@@ -375,7 +375,7 @@
             {
               "text": "前面有岔路吗？",
               "id": "s35_1_0011_reply02",
-              "meaning_vi": "Phía trước có ngã ba không?"
+              "meaning_vi": "Phía trước có chỗ rẽ nào không?"
             }
           ],
           "lesson_id": "35.1",
@@ -2665,8 +2665,8 @@
       "subtitle_vi": "18 thẻ giao tiếp thực tế"
     }
   ],
-  "version": 2,
-  "updated_at": "2026-11-02T16:29:34.804Z",
+  "version": 3,
+  "updated_at": "2026-11-02T22:00:00Z",
   "theme_title": "35 问路导航",
   "source_phrase_count": 75,
   "card_count": 75,
@@ -2676,6 +2676,6 @@
     "35.3": 18,
     "35.4": 18
   },
-  "quality_standard": "Vietnamese localization of theme 35 from Chinese. All 75 main and 224 nested expressions with 75 Vietnamese usage notes preserved. Direction, distance/time, landmark and safe route distinctions reviewed. Chinese, pinyin, IDs, levels and order unchanged. Native editor, audio and app runtime final QA pending. | V2 Vietnamese semantic/naturalness review and cross-card consistency corrections.",
+  "quality_standard": "Vietnamese localization of theme 35 from Chinese. All 75 main and 224 nested expressions with 75 Vietnamese usage notes preserved. Direction, distance/time, landmark and safe route distinctions reviewed. Chinese, pinyin, IDs, levels and order unchanged. Native editor, audio and app runtime final QA pending. | V2 Vietnamese semantic/naturalness review and cross-card consistency corrections. | Rechecked against Chinese source; corrected natural Vietnamese and restored original Chinese teaching notes.",
   "theme_title_vi": "35 Hỏi đường và chỉ đường"
 }
