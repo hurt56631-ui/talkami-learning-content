@@ -1,9 +1,9 @@
 {
   "theme_id": "12",
-  "version": 1,
-  "updated_at": "2026-11-02T08:27:38.361Z",
+  "version": 2,
+  "updated_at": "2026-11-02T15:58:44.656Z",
   "theme_title": "12 家庭朋友",
-  "quality_standard": "Vietnamese independent adaptation of source theme 12 V12; all Chinese, pinyin, stable card and nested IDs, levels and order preserved. Source Burmese learner references replaced with Vietnamese usage notes. Native-speaker final check and spoken/audio App testing pending.",
+  "quality_standard": "Vietnamese independent adaptation of source theme 12 V12; all Chinese, pinyin, stable card and nested IDs, levels and order preserved. Source Burmese learner references replaced with Vietnamese usage notes. Native-speaker final check and spoken/audio App testing pending. | Vietnamese semantic/naturalness QA 2026-11-02: targeted fixes; Mandarin, IDs and pinyin unchanged.",
   "source_phrase_count": 97,
   "lessons": [
     {
@@ -475,7 +475,7 @@
             {
               "text": "我是家里的独生子。",
               "id": "s12_1_0014_alt01",
-              "meaning_vi": "Tôi là con trai duy nhất trong gia đình."
+              "meaning_vi": "Tôi là con một trong nhà (con trai)."
             }
           ],
           "replies": [
@@ -496,10 +496,10 @@
           "mistakes": [
             {
               "text": "“独生子”只指男性，女性应说“独生女”；“独生子女”是中性说法，翻译时不能抹掉性别差异。",
-              "text_vi": "“独生子” chỉ con trai duy nhất; con gái duy nhất nói “独生女”, còn “独生子女” có thể dùng cho cả hai giới. Tiếng Việt phải giữ đúng nghĩa giới tính trong ví dụ."
+              "text_vi": "“独生子” chỉ con trai là con một, không có anh chị em; “独生女” chỉ con gái là con một. “独生子女” dùng chung cho cả hai giới."
             }
           ],
-          "meaning_vi": "Tôi là con trai duy nhất trong nhà.",
+          "meaning_vi": "Tôi là con một (con trai).",
           "lesson_title_vi": "12.1 Thành viên gia đình"
         },
         {
