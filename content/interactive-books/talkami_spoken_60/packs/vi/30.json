@@ -1,0 +1,2054 @@
+{
+  "theme_id": "30",
+  "version": 1,
+  "updated_at": "2026-11-02T16:00:00Z",
+  "theme_title": "30 价格优惠",
+  "quality_standard": "Vietnamese adaptation of theme 30. Original Mandarin examples, pinyin, stable IDs, levels, order, alternatives and replies preserved; 59 learner notes localized for Vietnamese speakers. Structural and translation coverage QA performed; native Vietnamese editorial review, audio and app integration checks pending.",
+  "source_phrase_count": 64,
+  "lessons": [
+    {
+      "id": "30.1",
+      "title": "30.1 询问价格与计价",
+      "phrases": [
+        {
+          "id": "s30_1_0001",
+          "level": "must",
+          "text": "多少钱一斤？",
+          "alternatives": [
+            {
+              "text": "这个一斤卖多少钱？",
+              "id": "s30_1_0001_alt01",
+              "meaning_vi": "Mặt hàng này giá bao nhiêu cho 500 gam?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一斤九块八。",
+              "id": "s30_1_0001_reply01",
+              "meaning_vi": "Nửa ký chín tệ tám hào."
+            },
+            {
+              "text": "今天十块一斤。",
+              "id": "s30_1_0001_reply02",
+              "meaning_vi": "Hôm nay mười tệ nửa ký."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "在中国，一斤是500克；不要与越南常用的1公斤（1000克）混淆。",
+              "text_vi": "Ở Trung Quốc, một 斤 bằng 500 g; đừng nhầm với 1 kg (1.000 g) thường dùng tại Việt Nam."
+            }
+          ],
+          "pinyin": "duō shǎo qián yì jīn",
+          "meaning_vi": "Nửa ký bao nhiêu tiền?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0002",
+          "level": "must",
+          "text": "这个价格对吗？",
+          "alternatives": [
+            {
+              "text": "麻烦帮我核对一下价格。",
+              "id": "s30_1_0002_alt01",
+              "meaning_vi": "Phiền kiểm tra lại giá giúp tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，就是这个价。",
+              "id": "s30_1_0002_reply01",
+              "meaning_vi": "Đúng, giá là như vậy."
+            },
+            {
+              "text": "我再帮您核对一下。",
+              "id": "s30_1_0002_reply02",
+              "meaning_vi": "Để tôi kiểm tra lại cho anh/chị."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "标价与实付价可能不同，应核对结账金额。",
+              "text_vi": "Giá niêm yết có thể khác số tiền thực trả; hãy kiểm tra tổng tiền khi thanh toán."
+            }
+          ],
+          "pinyin": "zhè ge jià gé duì ma",
+          "meaning_vi": "Giá này đúng không?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0003",
+          "level": "must",
+          "text": "就按标价卖吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，按标价卖。",
+              "id": "s30_1_0003_reply01",
+              "meaning_vi": "Đúng, bán theo giá niêm yết."
+            },
+            {
+              "text": "结账时还会再打折。",
+              "id": "s30_1_0003_reply02",
+              "meaning_vi": "Khi thanh toán sẽ được giảm thêm."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“按标价”是按标签价格出售，结账优惠须另确认。",
+              "text_vi": "“按标价” nghĩa là bán theo giá trên nhãn; cần xác nhận riêng về ưu đãi khi thanh toán."
+            }
+          ],
+          "pinyin": "jiù àn biāo jià mài ma",
+          "meaning_vi": "Bán đúng giá niêm yết à?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0004",
+          "level": "must",
+          "text": "运费算在里面吗？",
+          "alternatives": [
+            {
+              "text": "这个价包含运费吗？",
+              "id": "s30_1_0004_alt01",
+              "meaning_vi": "Giá này có gồm phí giao hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "包邮，不用另付运费。",
+              "id": "s30_1_0004_reply01",
+              "meaning_vi": "Miễn phí giao hàng, không phải trả thêm."
+            },
+            {
+              "text": "不包邮，运费另算。",
+              "id": "s30_1_0004_reply02",
+              "meaning_vi": "Không miễn phí giao hàng, phí tính riêng."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "包邮说明运费由商家承担，不等于其他费用全免。",
+              "text_vi": "“包邮” nghĩa là người bán chịu phí vận chuyển, không có nghĩa mọi khoản phí khác đều được miễn."
+            }
+          ],
+          "pinyin": "yùn fèi suàn zài lǐ miàn ma",
+          "meaning_vi": "Phí vận chuyển đã tính trong đó chưa?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0005",
+          "level": "must",
+          "text": "这个价包安装吗？",
+          "alternatives": [
+            {
+              "text": "包安装吗？",
+              "id": "s30_1_0005_alt01",
+              "meaning_vi": "Có bao gồm lắp đặt không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "包安装，不另外收费。",
+              "id": "s30_1_0005_reply01",
+              "meaning_vi": "Có lắp đặt, không thu thêm phí."
+            },
+            {
+              "text": "不包，安装费要另付。",
+              "id": "s30_1_0005_reply02",
+              "meaning_vi": "Không bao gồm, phí lắp đặt trả riêng."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“包安装”指包含安装服务，安装范围须确认。",
+              "text_vi": "“包安装” nghĩa là có kèm dịch vụ lắp đặt; cần hỏi rõ phạm vi lắp đặt."
+            }
+          ],
+          "pinyin": "zhè ge jià bāo ān zhuāng ma",
+          "meaning_vi": "Giá này có bao gồm lắp đặt không?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0006",
+          "level": "must",
+          "text": "押金还要另外交吗？",
+          "alternatives": [
+            {
+              "text": "押金要另付吗？",
+              "id": "s30_1_0006_alt01",
+              "meaning_vi": "Tiền cọc phải trả thêm à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，押金还得另外交五十。",
+              "id": "s30_1_0006_reply01",
+              "meaning_vi": "Có, phải nộp thêm năm mươi tệ tiền cọc."
+            },
+            {
+              "text": "不用了，押金已经包含在里面。",
+              "id": "s30_1_0006_reply02",
+              "meaning_vi": "Không cần, tiền cọc đã gồm trong giá."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“押金”通常在符合约定条件后可退，和预付货款或“定金”不同。",
+              "text_vi": "“押金” thường có thể được hoàn lại khi đáp ứng điều kiện đã thỏa thuận, khác tiền trả trước hoặc tiền đặt mua hàng “定金”."
+            }
+          ],
+          "pinyin": "yā jīn hái yào lìng wài jiāo ma",
+          "meaning_vi": "Còn phải nộp tiền đặt cọc riêng không?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0007",
+          "level": "must",
+          "text": "这个套餐多少钱？",
+          "alternatives": [
+            {
+              "text": "这一套多少钱？",
+              "id": "s30_1_0007_alt01",
+              "meaning_vi": "Cả bộ này bao nhiêu tiền?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这一套一百二。",
+              "id": "s30_1_0007_reply01",
+              "meaning_vi": "Bộ này một trăm hai mươi tệ."
+            },
+            {
+              "text": "现在搞活动，一套九十九。",
+              "id": "s30_1_0007_reply02",
+              "meaning_vi": "Đang khuyến mãi, mỗi bộ chín mươi chín tệ."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "套餐价应确认具体包含哪些商品或服务。",
+              "text_vi": "Với giá theo gói, cần xác nhận gói bao gồm những hàng hóa hay dịch vụ nào."
+            }
+          ],
+          "pinyin": "zhè ge tào cān duō shǎo qián",
+          "meaning_vi": "Bộ combo này bao nhiêu tiền?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0008",
+          "level": "must",
+          "text": "买两个一共多少钱？",
+          "alternatives": [
+            {
+              "text": "两个一起多少钱？",
+              "id": "s30_1_0008_alt01",
+              "meaning_vi": "Hai cái mua cùng nhau bao nhiêu tiền?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "两个一共七十块。",
+              "id": "s30_1_0008_reply01",
+              "meaning_vi": "Hai cái tổng cộng bảy mươi tệ."
+            },
+            {
+              "text": "买两个算六十块。",
+              "id": "s30_1_0008_reply02",
+              "meaning_vi": "Mua hai cái tính sáu mươi tệ."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“一共”问的是全部要付的总价，不是每件单价。",
+              "text_vi": "“一共” hỏi tổng số tiền phải trả, không phải giá của từng món."
+            }
+          ],
+          "pinyin": "mǎi liǎng ge yí gòng duō shǎo qián",
+          "meaning_vi": "Mua hai cái tổng cộng bao nhiêu tiền?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0009",
+          "level": "must",
+          "text": "一件多少钱？",
+          "alternatives": [
+            {
+              "text": "单买一件多少钱？",
+              "id": "s30_1_0009_alt01",
+              "meaning_vi": "Mua lẻ một món bao nhiêu tiền?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一件三十九。",
+              "id": "s30_1_0009_reply01",
+              "meaning_vi": "Mỗi món ba mươi chín tệ."
+            },
+            {
+              "text": "单买一件四十五。",
+              "id": "s30_1_0009_reply02",
+              "meaning_vi": "Mua lẻ một món là bốn mươi lăm tệ."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“一件”按件计算，不是按重量计价。",
+              "text_vi": "“一件” tính theo từng món hoặc chiếc, không phải theo trọng lượng."
+            }
+          ],
+          "pinyin": "yí jiàn duō shǎo qián",
+          "meaning_vi": "Một món bao nhiêu tiền?",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0010",
+          "level": "listen",
+          "text": "按斤算。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，按斤算。",
+              "id": "s30_1_0010_reply01",
+              "meaning_vi": "Đúng, tính theo mỗi 500 gam."
+            },
+            {
+              "text": "那一斤多少钱？",
+              "id": "s30_1_0010_reply02",
+              "meaning_vi": "Vậy nửa ký bao nhiêu?"
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "按斤计算时中国一斤为500克。",
+              "text_vi": "Ở Trung Quốc, một 斤 bằng 500 g; hãy quy đổi đúng khi tính tiền."
+            }
+          ],
+          "pinyin": "àn jīn suàn",
+          "meaning_vi": "Tính theo cân Trung Quốc (500 gam).",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0011",
+          "level": "listen",
+          "text": "就是标价。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那结账也是这个价吧？",
+              "id": "s30_1_0011_reply01",
+              "meaning_vi": "Vậy lúc thanh toán cũng giá này chứ?"
+            },
+            {
+              "text": "好的，我就要这个。",
+              "id": "s30_1_0011_reply02",
+              "meaning_vi": "Được, tôi lấy món này."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“标价”是标签上的价格，不保证含配送安装费用。",
+              "text_vi": "“标价” là giá trên nhãn, chưa chắc đã gồm phí giao hàng hoặc phí lắp đặt."
+            }
+          ],
+          "pinyin": "jiù shì biāo jià",
+          "meaning_vi": "Chính là giá niêm yết.",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0012",
+          "level": "listen",
+          "text": "结账时有优惠。",
+          "alternatives": [
+            {
+              "text": "结账还能打折。",
+              "id": "s30_1_0012_alt01",
+              "meaning_vi": "Thanh toán còn được giảm nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那能便宜多少？",
+              "id": "s30_1_0012_reply01",
+              "meaning_vi": "Vậy giảm được bao nhiêu?"
+            },
+            {
+              "text": "需要出示会员码吗？",
+              "id": "s30_1_0012_reply02",
+              "meaning_vi": "Có cần đưa mã thành viên không?"
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“结账时有优惠”不是商品标签已写折后价。",
+              "text_vi": "“结账时有优惠” nghĩa là được giảm khi thanh toán, không có nghĩa giá trên nhãn đã là giá sau giảm."
+            }
+          ],
+          "pinyin": "jié zhàng shí yǒu yōu huì",
+          "meaning_vi": "Khi thanh toán có giảm giá.",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0013",
+          "level": "listen",
+          "text": "一套一百二。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这一套都包括什么？",
+              "id": "s30_1_0013_reply01",
+              "meaning_vi": "Bộ này gồm những gì?"
+            },
+            {
+              "text": "能不能便宜一点？",
+              "id": "s30_1_0013_reply02",
+              "meaning_vi": "Bớt một chút được không?"
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "口语中的“一百二”通常指120元，不是102元。",
+              "text_vi": "Trong khẩu ngữ, “一百二” thường là 120 tệ, không phải 102 tệ."
+            }
+          ],
+          "pinyin": "yí tào yì bǎi èr",
+          "meaning_vi": "Một bộ một trăm hai mươi tệ.",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0014",
+          "level": "listen",
+          "text": "安装另外收费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那安装费多少钱？",
+              "id": "s30_1_0014_reply01",
+              "meaning_vi": "Vậy phí lắp đặt bao nhiêu tiền?"
+            },
+            {
+              "text": "我自己装可以吗？",
+              "id": "s30_1_0014_reply02",
+              "meaning_vi": "Tôi tự lắp được không?"
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "安装另收费时，应确认安装费和材料费。",
+              "text_vi": "Nếu tính phí lắp đặt riêng, nên hỏi rõ cả tiền công và vật tư."
+            }
+          ],
+          "pinyin": "ān zhuāng lìng wài shōu fèi",
+          "meaning_vi": "Lắp đặt tính phí riêng.",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0015",
+          "level": "listen",
+          "text": "这个按件卖。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那一件多少钱？",
+              "id": "s30_1_0015_reply01",
+              "meaning_vi": "Vậy một món giá bao nhiêu?"
+            },
+            {
+              "text": "买两件有优惠吗？",
+              "id": "s30_1_0015_reply02",
+              "meaning_vi": "Mua hai món có giảm không?"
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“按件卖”不同于按斤或按套销售。",
+              "text_vi": "“按件卖” là bán theo từng món, khác bán theo cân hoặc theo bộ."
+            }
+          ],
+          "pinyin": "zhè ge àn jiàn mài",
+          "meaning_vi": "Món này tính theo từng cái.",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0016",
+          "level": "listen",
+          "text": "这个是单价。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那两件一共多少钱？",
+              "id": "s30_1_0016_reply01",
+              "meaning_vi": "Vậy hai món tổng cộng bao nhiêu?"
+            },
+            {
+              "text": "哦，原来不是总价啊。",
+              "id": "s30_1_0016_reply02",
+              "meaning_vi": "À, hóa ra không phải tổng giá."
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“单价”是一件的价格；购买多件要另外计算总价。",
+              "text_vi": "“单价” là giá một món; mua nhiều món phải tính tổng tiền riêng."
+            }
+          ],
+          "pinyin": "zhè ge shì dān jià",
+          "meaning_vi": "Đây là đơn giá.",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        },
+        {
+          "id": "s30_1_0017",
+          "level": "listen",
+          "text": "运费另外算。",
+          "alternatives": [
+            {
+              "text": "邮费要另付。",
+              "id": "s30_1_0017_alt01",
+              "meaning_vi": "Phí gửi hàng phải trả thêm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "运费还要加多少钱？",
+              "id": "s30_1_0017_reply01",
+              "meaning_vi": "Phải cộng thêm bao nhiêu phí vận chuyển?"
+            },
+            {
+              "text": "满多少钱能免运费？",
+              "id": "s30_1_0017_reply02",
+              "meaning_vi": "Mua đủ bao nhiêu thì được miễn phí giao hàng?"
+            }
+          ],
+          "lesson_id": "30.1",
+          "lesson_title": "30.1 询问价格与计价",
+          "mistakes": [
+            {
+              "text": "“运费另外算”表示商品标价不含运费。",
+              "text_vi": "“运费另外算” nghĩa là giá niêm yết chưa bao gồm phí vận chuyển."
+            }
+          ],
+          "pinyin": "yùn fèi lìng wài suàn",
+          "meaning_vi": "Phí vận chuyển tính riêng.",
+          "lesson_title_vi": "30.1 Hỏi giá và cách tính tiền"
+        }
+      ],
+      "opening": "问价格时分清单价和总价，也要确认按斤、按件计算，以及配送、安装和押金是否另收。",
+      "subtitle": "17张实用口语卡",
+      "title_vi": "30.1 Hỏi giá và cách tính tiền",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế",
+      "opening_vi": "Khi hỏi giá, cần phân biệt đơn giá và tổng tiền, xác nhận hàng tính theo 500 g hay theo từng món, đồng thời hỏi rõ phí giao hàng, lắp đặt và tiền đặt cọc có tính riêng không."
+    },
+    {
+      "id": "30.2",
+      "title": "30.2 促销、会员与优惠券",
+      "phrases": [
+        {
+          "id": "s30_2_0001",
+          "level": "must",
+          "text": "这个打折吗？",
+          "alternatives": [
+            {
+              "text": "这个有折扣吗？",
+              "id": "s30_2_0001_alt01",
+              "meaning_vi": "Món này có khuyến mãi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "打八折。",
+              "id": "s30_2_0001_reply01",
+              "meaning_vi": "Giá còn 80% so với ban đầu."
+            },
+            {
+              "text": "这款不参加打折。",
+              "id": "s30_2_0001_reply02",
+              "meaning_vi": "Mẫu này không áp dụng giảm giá."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "“八折”是付原价的80%，也就是优惠20%；“九折”是优惠10%。",
+              "text_vi": "“八折” nghĩa là trả 80% giá gốc, tức giảm 20%; “九折” là giảm 10%."
+            }
+          ],
+          "pinyin": "zhè ge dǎ zhé ma",
+          "meaning_vi": "Món này có giảm giá không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0002",
+          "level": "must",
+          "text": "现在有优惠吗？",
+          "alternatives": [
+            {
+              "text": "现在有什么优惠吗？",
+              "id": "s30_2_0002_alt01",
+              "meaning_vi": "Giờ có ưu đãi nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，满一百减十块。",
+              "id": "s30_2_0002_reply01",
+              "meaning_vi": "Có, mua đủ một trăm tệ giảm mười tệ."
+            },
+            {
+              "text": "今天没有优惠活动。",
+              "id": "s30_2_0002_reply02",
+              "meaning_vi": "Hôm nay không có chương trình khuyến mãi."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "“满100减10”是达到门槛减10元，不是打九折。",
+              "text_vi": "“满100减10” là hóa đơn đủ 100 tệ thì giảm 10 tệ, không phải giảm đồng loạt 10%."
+            }
+          ],
+          "pinyin": "xiàn zài yǒu yōu huì ma",
+          "meaning_vi": "Hiện có khuyến mãi không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0003",
+          "level": "must",
+          "text": "活动到什么时候？",
+          "alternatives": [
+            {
+              "text": "优惠到哪天？",
+              "id": "s30_2_0003_alt01",
+              "meaning_vi": "Khuyến mãi đến ngày nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "到这个星期天结束。",
+              "id": "s30_2_0003_reply01",
+              "meaning_vi": "Kết thúc vào Chủ nhật tuần này."
+            },
+            {
+              "text": "今天是最后一天。",
+              "id": "s30_2_0003_reply02",
+              "meaning_vi": "Hôm nay là ngày cuối."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "要确认活动截止日期及当天结束时间。",
+              "text_vi": "Nên hỏi rõ ngày kết thúc khuyến mãi và giờ hết hạn trong ngày cuối."
+            }
+          ],
+          "pinyin": "huó dòng dào shén me shí hou",
+          "meaning_vi": "Chương trình kéo dài đến khi nào?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0004",
+          "level": "must",
+          "text": "满多少减多少？",
+          "alternatives": [
+            {
+              "text": "这次满减怎么减？",
+              "id": "s30_2_0004_alt01",
+              "meaning_vi": "Ưu đãi giảm theo mức chi tiêu lần này tính thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "满两百减三十。",
+              "id": "s30_2_0004_reply01",
+              "meaning_vi": "Mua đủ hai trăm tệ giảm ba mươi tệ."
+            },
+            {
+              "text": "满一百减十，部分商品不参加。",
+              "id": "s30_2_0004_reply02",
+              "meaning_vi": "Mua đủ một trăm giảm mười, một số món không áp dụng."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "“满200减30”是消费满200元减30元，不是打七折或减30%。",
+              "text_vi": "“满200减30” là mua đủ 200 tệ được trừ 30 tệ, không phải giảm 30%."
+            }
+          ],
+          "pinyin": "mǎn duō shǎo jiǎn duō shǎo",
+          "meaning_vi": "Mua đủ bao nhiêu thì giảm bao nhiêu?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0005",
+          "level": "must",
+          "text": "有会员价吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，会员便宜五块。",
+              "id": "s30_2_0005_reply01",
+              "meaning_vi": "Có, thành viên rẻ hơn năm tệ."
+            },
+            {
+              "text": "没有，会员和普通顾客一个价。",
+              "id": "s30_2_0005_reply02",
+              "meaning_vi": "Không, thành viên và khách thường cùng giá."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "会员价只适用于满足会员条件的人。",
+              "text_vi": "Giá thành viên chỉ áp dụng cho người đáp ứng điều kiện của chương trình."
+            }
+          ],
+          "pinyin": "yǒu huì yuán jià ma",
+          "meaning_vi": "Có giá thành viên không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0006",
+          "level": "must",
+          "text": "我有优惠券。",
+          "alternatives": [
+            {
+              "text": "我有张优惠券。",
+              "id": "s30_2_0006_alt01",
+              "meaning_vi": "Tôi có một phiếu giảm giá."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您打开给我看一下。",
+              "id": "s30_2_0006_reply01",
+              "meaning_vi": "Anh/chị mở ra cho tôi xem nhé."
+            },
+            {
+              "text": "好的，我帮您看看能不能用。",
+              "id": "s30_2_0006_reply02",
+              "meaning_vi": "Vâng, tôi kiểm tra xem anh/chị dùng được không."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "优惠券要核对有效期、门槛和适用品类。",
+              "text_vi": "Cần kiểm tra hạn sử dụng, mức mua tối thiểu và loại hàng áp dụng của phiếu giảm giá."
+            }
+          ],
+          "pinyin": "wǒ yǒu yōu huì quàn",
+          "meaning_vi": "Tôi có phiếu giảm giá.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0007",
+          "level": "must",
+          "text": "这个券能用吗？",
+          "alternatives": [
+            {
+              "text": "这张优惠券可以用吗？",
+              "id": "s30_2_0007_alt01",
+              "meaning_vi": "Phiếu giảm giá này còn dùng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，结账时出示就行。",
+              "id": "s30_2_0007_reply01",
+              "meaning_vi": "Được, chỉ cần đưa ra lúc thanh toán."
+            },
+            {
+              "text": "不好意思，这张券已经过期了。",
+              "id": "s30_2_0007_reply02",
+              "meaning_vi": "Xin lỗi, phiếu này đã hết hạn."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "优惠券可能限制日期、最低消费和适用商品。",
+              "text_vi": "Phiếu giảm giá có thể bị giới hạn về ngày sử dụng, giá trị đơn hàng và loại sản phẩm."
+            }
+          ],
+          "pinyin": "zhè ge quàn néng yòng ma",
+          "meaning_vi": "Phiếu này dùng được không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0008",
+          "level": "must",
+          "text": "积分能用吗？",
+          "alternatives": [
+            {
+              "text": "积分可以抵钱吗？",
+              "id": "s30_2_0008_alt01",
+              "meaning_vi": "Điểm tích lũy đổi trừ tiền được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，积分能抵五块钱。",
+              "id": "s30_2_0008_reply01",
+              "meaning_vi": "Được, điểm tích lũy trừ được năm tệ."
+            },
+            {
+              "text": "这个商品不能用积分。",
+              "id": "s30_2_0008_reply02",
+              "meaning_vi": "Món này không được dùng điểm."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "积分抵扣金额要依商家规则，积分不必然等于现金。",
+              "text_vi": "Điểm tích lũy được quy đổi theo quy định của cửa hàng, không mặc nhiên tương đương tiền mặt."
+            }
+          ],
+          "pinyin": "jī fēn néng yòng ma",
+          "meaning_vi": "Có dùng điểm tích lũy được không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0009",
+          "level": "must",
+          "text": "第二件有优惠吗？",
+          "alternatives": [
+            {
+              "text": "买第二件有折扣吗？",
+              "id": "s30_2_0009_alt01",
+              "meaning_vi": "Mua món thứ hai có ưu đãi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，第二件半价。",
+              "id": "s30_2_0009_reply01",
+              "meaning_vi": "Có, món thứ hai giảm còn nửa giá."
+            },
+            {
+              "text": "没有，两件都是原价。",
+              "id": "s30_2_0009_reply02",
+              "meaning_vi": "Không, cả hai món đều giá gốc."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "第二件半价通常仅第二件半价，而非两件都半价。",
+              "text_vi": "“第二件半价” thường chỉ giảm 50% món thứ hai, không phải cả hai món đều nửa giá."
+            }
+          ],
+          "pinyin": "dì èr jiàn yǒu yōu huì ma",
+          "meaning_vi": "Món thứ hai có giảm giá không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0010",
+          "level": "must",
+          "text": "这是特价吗？",
+          "alternatives": [
+            {
+              "text": "这是促销价吗？",
+              "id": "s30_2_0010_alt01",
+              "meaning_vi": "Đây là giá khuyến mãi à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，这个是促销价。",
+              "id": "s30_2_0010_reply01",
+              "meaning_vi": "Đúng, đây là giá khuyến mãi."
+            },
+            {
+              "text": "不是，这个是原价。",
+              "id": "s30_2_0010_reply02",
+              "meaning_vi": "Không, đây là giá gốc."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "特价是促销价格，需确认是否还能叠加优惠。",
+              "text_vi": "“特价” là giá khuyến mãi; nên hỏi có được dùng chung với ưu đãi khác không."
+            }
+          ],
+          "pinyin": "zhè shì tè jià ma",
+          "meaning_vi": "Đây là giá đặc biệt à?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0011",
+          "level": "must",
+          "text": "优惠券能和满减一起用吗？",
+          "alternatives": [
+            {
+              "text": "这个券能叠加满减吗？",
+              "id": "s30_2_0011_alt01",
+              "meaning_vi": "Phiếu này cộng dồn với ưu đãi theo mức chi tiêu được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，这两种优惠能一起用。",
+              "id": "s30_2_0011_reply01",
+              "meaning_vi": "Được, có thể áp dụng cả hai loại ưu đãi."
+            },
+            {
+              "text": "不行，只能选一种优惠。",
+              "id": "s30_2_0011_reply02",
+              "meaning_vi": "Không, chỉ được chọn một ưu đãi."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "“一起用/叠加”是两种优惠同时生效；实际能否叠加要按店铺规则确认。",
+              "text_vi": "“一起用” hoặc “叠加” là áp dụng hai ưu đãi cùng lúc; cần xác nhận cửa hàng có cho phép không."
+            }
+          ],
+          "pinyin": "yōu huì quàn néng hé mǎn jiǎn yì qǐ yòng ma",
+          "meaning_vi": "Có dùng phiếu giảm giá cùng ưu đãi đủ mức mua không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0012",
+          "level": "must",
+          "text": "网上和店里的优惠一样吗？",
+          "alternatives": [
+            {
+              "text": "网上和实体店优惠一样吗？",
+              "id": "s30_2_0012_alt01",
+              "meaning_vi": "Ưu đãi online và cửa hàng có giống không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一样，网上和店里都是这个价。",
+              "id": "s30_2_0012_reply01",
+              "meaning_vi": "Có, giá online và tại cửa hàng giống nhau."
+            },
+            {
+              "text": "不一样，网上有专属优惠。",
+              "id": "s30_2_0012_reply02",
+              "meaning_vi": "Không, trên mạng có ưu đãi riêng."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "网络专属优惠未必适用于实体门店。",
+              "text_vi": "Ưu đãi riêng trên mạng chưa chắc được áp dụng tại cửa hàng trực tiếp."
+            }
+          ],
+          "pinyin": "wǎng shàng hé diàn lǐ de yōu huì yí yàng ma",
+          "meaning_vi": "Khuyến mãi trên mạng và tại quán có giống nhau không?",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0013",
+          "level": "listen",
+          "text": "现在八折。",
+          "alternatives": [
+            {
+              "text": "现在打八折。",
+              "id": "s30_2_0013_alt01",
+              "meaning_vi": "Hiện giảm giá 20%."
+            }
+          ],
+          "replies": [
+            {
+              "text": "原价一百，打折后就是八十，对吧？",
+              "id": "s30_2_0013_reply01",
+              "meaning_vi": "Giá gốc một trăm, giảm xong còn tám mươi, đúng không?"
+            },
+            {
+              "text": "八折后这件多少钱？",
+              "id": "s30_2_0013_reply02",
+              "meaning_vi": "Giảm 20% rồi món này bao nhiêu?"
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "八折是付原价80%，优惠20%。",
+              "text_vi": "“八折” nghĩa là trả 80% giá gốc, tức giảm 20%."
+            }
+          ],
+          "pinyin": "xiàn zài bā zhé",
+          "meaning_vi": "Hiện giá còn 80%.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0014",
+          "level": "listen",
+          "text": "满二百减三十。",
+          "alternatives": [
+            {
+              "text": "买满两百减三十。",
+              "id": "s30_2_0014_alt01",
+              "meaning_vi": "Mua đủ hai trăm tệ được giảm ba mươi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那买满两百，实付一百七，对吗？",
+              "id": "s30_2_0014_reply01",
+              "meaning_vi": "Vậy mua đủ hai trăm, thực trả một trăm bảy mươi, đúng không?"
+            },
+            {
+              "text": "不满两百能用这个优惠吗？",
+              "id": "s30_2_0014_reply02",
+              "meaning_vi": "Chưa đủ hai trăm có dùng ưu đãi này được không?"
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "满200减30后，符合条件的200元订单实付170元。",
+              "text_vi": "Với hóa đơn đủ 200 tệ, chương trình “满200减30” giảm 30 tệ còn trả 170 tệ."
+            }
+          ],
+          "pinyin": "mǎn èr bǎi jiǎn sān shí",
+          "meaning_vi": "Mua đủ hai trăm giảm ba mươi.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0015",
+          "level": "listen",
+          "text": "这是会员价。",
+          "alternatives": [
+            {
+              "text": "这是会员专享价。",
+              "id": "s30_2_0015_alt01",
+              "meaning_vi": "Đây là giá dành riêng cho thành viên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "不是会员能用这个价吗？",
+              "id": "s30_2_0015_reply01",
+              "meaning_vi": "Không phải thành viên dùng giá này được không?"
+            },
+            {
+              "text": "报会员手机号就可以吗？",
+              "id": "s30_2_0015_reply02",
+              "meaning_vi": "Chỉ cần cung cấp số điện thoại đăng ký thành viên à?"
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "会员专享价可能需要会员账号验证。",
+              "text_vi": "Giá dành riêng cho thành viên có thể yêu cầu xác thực tài khoản."
+            }
+          ],
+          "pinyin": "zhè shì huì yuán jià",
+          "meaning_vi": "Đây là giá thành viên.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0016",
+          "level": "listen",
+          "text": "今天最后一天。",
+          "alternatives": [
+            {
+              "text": "活动今天结束。",
+              "id": "s30_2_0016_alt01",
+              "meaning_vi": "Chương trình kết thúc hôm nay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那今天几点结束？",
+              "id": "s30_2_0016_reply01",
+              "meaning_vi": "Vậy hôm nay mấy giờ kết thúc?"
+            },
+            {
+              "text": "好的，那我今天就买。",
+              "id": "s30_2_0016_reply02",
+              "meaning_vi": "Được, vậy hôm nay tôi mua."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "今天最后一天要确认截止时点。",
+              "text_vi": "“Hôm nay là ngày cuối” vẫn cần hỏi rõ thời điểm kết thúc trong ngày."
+            }
+          ],
+          "pinyin": "jīn tiān zuì hòu yì tiān",
+          "meaning_vi": "Hôm nay là ngày cuối.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0017",
+          "level": "listen",
+          "text": "第二件半价。",
+          "alternatives": [
+            {
+              "text": "第二件打五折。",
+              "id": "s30_2_0017_alt01",
+              "meaning_vi": "Món thứ hai tính 50% giá gốc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "要买一样的才算吗？",
+              "id": "s30_2_0017_reply01",
+              "meaning_vi": "Phải mua hai món giống hệt nhau mới được à?"
+            },
+            {
+              "text": "两件一起要付多少钱？",
+              "id": "s30_2_0017_reply02",
+              "meaning_vi": "Hai món mua chung phải trả bao nhiêu?"
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "“第二件半价”通常仅第二件半价，不是两件都半价；以活动细则为准。",
+              "text_vi": "“第二件半价” thường chỉ món thứ hai giảm một nửa; phải xem điều kiện cụ thể."
+            }
+          ],
+          "pinyin": "dì èr jiàn bàn jià",
+          "meaning_vi": "Món thứ hai còn nửa giá.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0018",
+          "level": "listen",
+          "text": "不能和其他优惠一起用。",
+          "alternatives": [
+            {
+              "text": "优惠不能叠加。",
+              "id": "s30_2_0018_alt01",
+              "meaning_vi": "Không được cộng dồn khuyến mãi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那哪个优惠更划算？",
+              "id": "s30_2_0018_reply01",
+              "meaning_vi": "Vậy ưu đãi nào có lợi hơn?"
+            },
+            {
+              "text": "好，那我就用这张券。",
+              "id": "s30_2_0018_reply02",
+              "meaning_vi": "Được, vậy tôi dùng phiếu này."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "“不能叠加”表示只能选择一种优惠。",
+              "text_vi": "“不能叠加” nghĩa là không dùng đồng thời các ưu đãi, chỉ chọn một loại."
+            }
+          ],
+          "pinyin": "bù néng hé qí tā yōu huì yì qǐ yòng",
+          "meaning_vi": "Không dùng cùng ưu đãi khác được.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0019",
+          "level": "listen",
+          "text": "只有会员才能参加。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "现在办会员来得及吗？",
+              "id": "s30_2_0019_reply01",
+              "meaning_vi": "Bây giờ đăng ký thành viên còn kịp không?"
+            },
+            {
+              "text": "不办会员就不能参加吗？",
+              "id": "s30_2_0019_reply02",
+              "meaning_vi": "Không đăng ký thành viên thì không được tham gia à?"
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "仅会员参加，不表示付费成为会员就一定立刻生效。",
+              "text_vi": "Chỉ dành cho thành viên không có nghĩa đăng ký hoặc trả phí là được áp dụng ngay lập tức."
+            }
+          ],
+          "pinyin": "zhǐ yǒu huì yuán cái néng cān jiā",
+          "meaning_vi": "Chỉ thành viên mới được tham gia.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0020",
+          "level": "listen",
+          "text": "特价商品不参加活动。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那这件还能用优惠券吗？",
+              "id": "s30_2_0020_reply01",
+              "meaning_vi": "Vậy món này còn dùng phiếu giảm giá được không?"
+            },
+            {
+              "text": "好，我看看参加活动的商品。",
+              "id": "s30_2_0020_reply02",
+              "meaning_vi": "Được, tôi xem hàng tham gia chương trình."
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "特价商品不参加活动，要核对是否仍可用券。",
+              "text_vi": "Hàng đặc giá có thể không tham gia chương trình; hãy hỏi có dùng phiếu giảm giá được không."
+            }
+          ],
+          "pinyin": "tè jià shāng pǐn bù cān jiā huó dòng",
+          "meaning_vi": "Hàng đặc biệt giảm giá không được áp dụng chương trình.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0021",
+          "level": "listen",
+          "text": "报手机号就行。",
+          "alternatives": [
+            {
+              "text": "报会员手机号就行。",
+              "id": "s30_2_0021_alt01",
+              "meaning_vi": "Chỉ cần báo số điện thoại hội viên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "是报会员绑定的手机号吗？",
+              "id": "s30_2_0021_reply01",
+              "meaning_vi": "Có phải số điện thoại liên kết tài khoản thành viên không?"
+            },
+            {
+              "text": "可以扫会员码吗？",
+              "id": "s30_2_0021_reply02",
+              "meaning_vi": "Quét mã thành viên được không?"
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "报会员手机号是为了识别会员；不要把短信验证码当作手机号报给店员。",
+              "text_vi": "Số điện thoại thành viên dùng để nhận diện tài khoản; đừng đọc mã xác thực SMS cho nhân viên như thể đó là số điện thoại."
+            }
+          ],
+          "pinyin": "bào shǒu jī hào jiù xíng",
+          "meaning_vi": "Chỉ cần báo số điện thoại.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        },
+        {
+          "id": "s30_2_0022",
+          "level": "listen",
+          "text": "新会员减十元。",
+          "alternatives": [
+            {
+              "text": "新办会员减十块。",
+              "id": "s30_2_0022_alt01",
+              "meaning_vi": "Đăng ký thành viên mới giảm mười tệ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "现在注册就能减十元吗？",
+              "id": "s30_2_0022_reply01",
+              "meaning_vi": "Đăng ký ngay bây giờ được giảm mười tệ à?"
+            },
+            {
+              "text": "有最低消费要求吗？",
+              "id": "s30_2_0022_reply02",
+              "meaning_vi": "Có yêu cầu mức mua tối thiểu không?"
+            }
+          ],
+          "lesson_id": "30.2",
+          "lesson_title": "30.2 促销、会员与优惠券",
+          "mistakes": [
+            {
+              "text": "新会员减10元须核实注册条件与最低消费。",
+              "text_vi": "Ưu đãi giảm 10 tệ cho thành viên mới có thể yêu cầu điều kiện đăng ký và mức chi tiêu tối thiểu."
+            }
+          ],
+          "pinyin": "xīn huì yuán jiǎn shí yuán",
+          "meaning_vi": "Thành viên mới được giảm mười tệ.",
+          "lesson_title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+        }
+      ],
+      "opening": "遇到八折、满减、第二件半价或会员优惠时，问清实际付多少钱、优惠能否叠加及活动截止时间。",
+      "subtitle": "22张实用口语卡",
+      "title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá",
+      "subtitle_vi": "22 thẻ giao tiếp thực tế",
+      "opening_vi": "Khi gặp giảm giá 20%, giảm tiền theo hóa đơn, món thứ hai nửa giá hoặc ưu đãi thành viên, hãy hỏi rõ số tiền thực trả, các ưu đãi có cộng dồn được không và chương trình kết thúc lúc nào."
+    },
+    {
+      "id": "30.3",
+      "title": "30.3 议价",
+      "phrases": [
+        {
+          "id": "s30_3_0001",
+          "level": "must",
+          "text": "能便宜一点吗？",
+          "alternatives": [
+            {
+              "text": "可以便宜一点吗？",
+              "id": "s30_3_0001_alt01",
+              "meaning_vi": "Có thể giảm giá chút không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，给您便宜十块。",
+              "id": "s30_3_0001_reply01",
+              "meaning_vi": "Được, tôi giảm cho anh/chị mười tệ."
+            },
+            {
+              "text": "不好意思，这个已经是实价了。",
+              "id": "s30_3_0001_reply02",
+              "meaning_vi": "Xin lỗi, đây đã là giá bán cố định."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“便宜一点”是礼貌议价，不等于店员必须接受。",
+              "text_vi": "“便宜一点” là cách lịch sự để xin giảm giá, không có nghĩa người bán buộc phải đồng ý."
+            }
+          ],
+          "pinyin": "néng pián yi yì diǎn ma",
+          "meaning_vi": "Bớt giá một chút được không?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0002",
+          "level": "must",
+          "text": "最低多少钱？",
+          "alternatives": [
+            {
+              "text": "最低能多少？",
+              "id": "s30_3_0002_alt01",
+              "meaning_vi": "Giảm thấp nhất còn bao nhiêu?"
+            },
+            {
+              "text": "最低能卖多少？",
+              "id": "s30_3_0002_alt02",
+              "meaning_vi": "Bán thấp nhất bao nhiêu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "最低九十，不能再少了。",
+              "id": "s30_3_0002_reply01",
+              "meaning_vi": "Thấp nhất chín mươi tệ, không bớt thêm."
+            },
+            {
+              "text": "给您算八十五吧。",
+              "id": "s30_3_0002_reply02",
+              "meaning_vi": "Tính cho anh/chị tám mươi lăm tệ nhé."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“最低价”应确认是否含运费和附加费用。",
+              "text_vi": "Khi hỏi giá thấp nhất, cần xác nhận giá đó đã bao gồm vận chuyển và các phí khác chưa."
+            }
+          ],
+          "pinyin": "zuì dī duō shǎo qián",
+          "meaning_vi": "Giá thấp nhất là bao nhiêu?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0003",
+          "level": "must",
+          "text": "能不能抹个零？",
+          "alternatives": [
+            {
+              "text": "零头能抹掉吗？",
+              "id": "s30_3_0003_alt01",
+              "meaning_vi": "Có thể bỏ phần lẻ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，一百零八算您一百。",
+              "id": "s30_3_0003_reply01",
+              "meaning_vi": "Được, một trăm lẻ tám tính tròn một trăm."
+            },
+            {
+              "text": "不好意思，零头也不能去。",
+              "id": "s30_3_0003_reply02",
+              "meaning_vi": "Xin lỗi, phần lẻ cũng không bớt được."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“抹零”一般是去掉零头或把金额凑整，不一定直接大幅降价。",
+              "text_vi": "“抹零” thường là bỏ số tiền lẻ hoặc làm tròn tổng tiền, không nhất thiết giảm mạnh."
+            }
+          ],
+          "pinyin": "néng bu néng mǒ ge líng",
+          "meaning_vi": "Bỏ tiền lẻ đi được không?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0004",
+          "level": "must",
+          "text": "再便宜一点吧。",
+          "alternatives": [
+            {
+              "text": "少一点吧。",
+              "id": "s30_3_0004_alt01",
+              "meaning_vi": "Giảm thêm chút nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那再给您少五块。",
+              "id": "s30_3_0004_reply01",
+              "meaning_vi": "Vậy giảm thêm năm tệ cho anh/chị."
+            },
+            {
+              "text": "这个真的没法再便宜了。",
+              "id": "s30_3_0004_reply02",
+              "meaning_vi": "Món này thật sự không thể bớt thêm."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“再便宜一点”表示在当前报价基础上进一步降价。",
+              "text_vi": "“再便宜一点” là xin giảm thêm so với giá đang được báo."
+            }
+          ],
+          "pinyin": "zài pián yi yì diǎn ba",
+          "meaning_vi": "Bớt thêm một chút nhé.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0005",
+          "level": "must",
+          "text": "两件一起算多少钱？",
+          "alternatives": [
+            {
+              "text": "两件一起买多少钱？",
+              "id": "s30_3_0005_alt01",
+              "meaning_vi": "Mua chung hai món giá bao nhiêu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "两件一共一百五。",
+              "id": "s30_3_0005_reply01",
+              "meaning_vi": "Hai món tổng cộng một trăm năm mươi tệ."
+            },
+            {
+              "text": "两件一起买，算您一百四。",
+              "id": "s30_3_0005_reply02",
+              "meaning_vi": "Mua chung hai món tính anh/chị một trăm bốn mươi tệ."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "两件一起多少钱问合计价格，不是每件单价。",
+              "text_vi": "Hỏi giá hai món mua chung là hỏi tổng tiền, không phải đơn giá."
+            }
+          ],
+          "pinyin": "liǎng jiàn yì qǐ suàn duō shǎo qián",
+          "meaning_vi": "Mua hai món cùng lúc tính bao nhiêu?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0006",
+          "level": "must",
+          "text": "多买几件能优惠多少？",
+          "alternatives": [
+            {
+              "text": "多买点能便宜吗？",
+              "id": "s30_3_0006_alt01",
+              "meaning_vi": "Mua nhiều hơn có bớt giá không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "买三件减二十。",
+              "id": "s30_3_0006_reply01",
+              "meaning_vi": "Mua ba món giảm hai mươi tệ."
+            },
+            {
+              "text": "买五件可以打九折。",
+              "id": "s30_3_0006_reply02",
+              "meaning_vi": "Mua năm món được giảm 10%."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "多买几件的优惠须看最低件数与实际折扣。",
+              "text_vi": "Ưu đãi khi mua nhiều cần kiểm tra số lượng tối thiểu và mức giảm thực tế."
+            }
+          ],
+          "pinyin": "duō mǎi jǐ jiàn néng yōu huì duō shǎo",
+          "meaning_vi": "Mua thêm vài món thì giảm bao nhiêu?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0007",
+          "level": "must",
+          "text": "这个价能包邮吗？",
+          "alternatives": [
+            {
+              "text": "这个价能不能包邮？",
+              "id": "s30_3_0007_alt01",
+              "meaning_vi": "Với giá này có được miễn phí vận chuyển không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，这个价包邮。",
+              "id": "s30_3_0007_reply01",
+              "meaning_vi": "Được, giá này gồm giao hàng miễn phí."
+            },
+            {
+              "text": "这个价不包邮，还要加八块运费。",
+              "id": "s30_3_0007_reply02",
+              "meaning_vi": "Giá này chưa bao gồm vận chuyển, phải trả thêm tám tệ."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“包邮”表示卖家承担运费；不等于安装费或其他附加费用全免。",
+              "text_vi": "“包邮” là người bán chịu phí vận chuyển, không có nghĩa miễn phí lắp đặt hay phụ phí khác."
+            }
+          ],
+          "pinyin": "zhè ge jià néng bāo yóu ma",
+          "meaning_vi": "Giá này có miễn phí giao hàng không?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0008",
+          "level": "must",
+          "text": "这个价还能商量吗？",
+          "alternatives": [
+            {
+              "text": "这个价还有商量的余地吗？",
+              "id": "s30_3_0008_alt01",
+              "meaning_vi": "Giá này còn có thể bàn thêm không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以商量，您想多少钱？",
+              "id": "s30_3_0008_reply01",
+              "meaning_vi": "Thương lượng được, anh/chị muốn giá bao nhiêu?"
+            },
+            {
+              "text": "不好意思，这已经是最低价了。",
+              "id": "s30_3_0008_reply02",
+              "meaning_vi": "Xin lỗi, đây đã là giá thấp nhất."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“还能商量吗”询问能否继续协商，不能强迫议价。",
+              "text_vi": "“还能商量吗” là hỏi có thể thương lượng thêm không; không thể ép người bán giảm giá."
+            }
+          ],
+          "pinyin": "zhè ge jià hái néng shāng liang ma",
+          "meaning_vi": "Giá này còn thương lượng được không?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0009",
+          "level": "must",
+          "text": "两件按这个价可以吗？",
+          "alternatives": [
+            {
+              "text": "两件这个价行吗？",
+              "id": "s30_3_0009_alt01",
+              "meaning_vi": "Hai món giá này được chứ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "行，两件就按您说的价。",
+              "id": "s30_3_0009_reply01",
+              "meaning_vi": "Được, hai món tính theo giá anh/chị nói."
+            },
+            {
+              "text": "这个价不行，两件最低一百二。",
+              "id": "s30_3_0009_reply02",
+              "meaning_vi": "Giá đó không được, hai món ít nhất một trăm hai mươi tệ."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“两件这个价”要澄清所报价是两件合计还是单件。",
+              "text_vi": "Với “两件这个价”, hãy hỏi rõ đó là giá chung cho hai món hay giá từng món."
+            }
+          ],
+          "pinyin": "liǎng jiàn àn zhè ge jià kě yǐ ma",
+          "meaning_vi": "Hai món tính theo giá này được không?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0010",
+          "level": "must",
+          "text": "我买三个能便宜多少？",
+          "alternatives": [
+            {
+              "text": "买三个能优惠多少？",
+              "id": "s30_3_0010_alt01",
+              "meaning_vi": "Mua ba cái được giảm bao nhiêu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "买三个可以少十五块。",
+              "id": "s30_3_0010_reply01",
+              "meaning_vi": "Mua ba cái giảm mười lăm tệ."
+            },
+            {
+              "text": "三个可以打九折。",
+              "id": "s30_3_0010_reply02",
+              "meaning_vi": "Ba cái được giảm 10%."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "三件减15是总价减15，不是每件减15。",
+              "text_vi": "Giảm 15 tệ khi mua ba món là giảm 15 tệ trên tổng hóa đơn, không phải mỗi món."
+            }
+          ],
+          "pinyin": "wǒ mǎi sān ge néng pián yi duō shǎo",
+          "meaning_vi": "Tôi mua ba cái thì giảm bao nhiêu?",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0011",
+          "level": "must",
+          "text": "按这个价我就拿了。",
+          "alternatives": [
+            {
+              "text": "这个价行我就买了。",
+              "id": "s30_3_0011_alt01",
+              "meaning_vi": "Nếu giá này được thì tôi mua."
+            }
+          ],
+          "replies": [
+            {
+              "text": "行，就这个价给您。",
+              "id": "s30_3_0011_reply01",
+              "meaning_vi": "Được, bán cho anh/chị giá này."
+            },
+            {
+              "text": "这个价确实做不了。",
+              "id": "s30_3_0011_reply02",
+              "meaning_vi": "Giá này thật sự không bán được."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“这个价我就拿”表示有条件成交，需确认卖方接受。",
+              "text_vi": "“这个价我就拿” thể hiện sẵn sàng mua nếu người bán đồng ý mức giá đó."
+            }
+          ],
+          "pinyin": "àn zhè ge jià wǒ jiù ná le",
+          "meaning_vi": "Giá này được thì tôi lấy.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0012",
+          "level": "listen",
+          "text": "已经最低了。",
+          "alternatives": [
+            {
+              "text": "不能再便宜了。",
+              "id": "s30_3_0012_alt01",
+              "meaning_vi": "Không thể rẻ hơn nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那就按这个价买吧。",
+              "id": "s30_3_0012_reply01",
+              "meaning_vi": "Vậy mua theo giá này nhé."
+            },
+            {
+              "text": "好吧，我再看看别的。",
+              "id": "s30_3_0012_reply02",
+              "meaning_vi": "Thôi được, để tôi xem món khác."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“已经最低了”是卖方表示不再让价，可选择不买。",
+              "text_vi": "“已经最低了” là người bán nói không giảm thêm; người mua vẫn có thể không mua."
+            }
+          ],
+          "pinyin": "yǐ jīng zuì dī le",
+          "meaning_vi": "Đã là giá thấp nhất rồi.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0013",
+          "level": "listen",
+          "text": "可以少十块。",
+          "alternatives": [
+            {
+              "text": "给你便宜十块。",
+              "id": "s30_3_0013_alt01",
+              "meaning_vi": "Giảm cho bạn mười tệ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那给我拿一个。",
+              "id": "s30_3_0013_reply01",
+              "meaning_vi": "Được, vậy lấy cho tôi một cái."
+            },
+            {
+              "text": "还能再少五块吗？",
+              "id": "s30_3_0013_reply02",
+              "meaning_vi": "Có thể giảm thêm năm tệ không?"
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“少十块”是减10元，不是打九折。",
+              "text_vi": "“少十块” nghĩa là bớt 10 tệ, không phải giảm 10% giá."
+            }
+          ],
+          "pinyin": "kě yǐ shǎo shí kuài",
+          "meaning_vi": "Có thể bớt mười tệ.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0014",
+          "level": "listen",
+          "text": "这个不能讲价。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "明白了，那我再看看。",
+              "id": "s30_3_0014_reply01",
+              "meaning_vi": "Hiểu rồi, vậy để tôi xem thêm."
+            },
+            {
+              "text": "那有特价款吗？",
+              "id": "s30_3_0014_reply02",
+              "meaning_vi": "Vậy có mẫu giá đặc biệt không?"
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "超市和明码标价的连锁店通常不议价；小店或市场更常见讲价。",
+              "text_vi": "Siêu thị và chuỗi cửa hàng niêm yết giá thường không mặc cả; chợ và cửa hàng nhỏ dễ thương lượng hơn."
+            }
+          ],
+          "pinyin": "zhè ge bù néng jiǎng jià",
+          "meaning_vi": "Món này không mặc cả được.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0015",
+          "level": "listen",
+          "text": "买两件给你优惠。",
+          "alternatives": [
+            {
+              "text": "买两件给你打折。",
+              "id": "s30_3_0015_alt01",
+              "meaning_vi": "Mua hai món được giảm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那两件一共多少钱？",
+              "id": "s30_3_0015_reply01",
+              "meaning_vi": "Vậy hai món tổng cộng bao nhiêu?"
+            },
+            {
+              "text": "能优惠多少？",
+              "id": "s30_3_0015_reply02",
+              "meaning_vi": "Có thể giảm bao nhiêu?"
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“买两件给你优惠”须追问优惠后的总价。",
+              "text_vi": "Với lời đề nghị ưu đãi khi mua hai món, nên hỏi tiếp tổng tiền sau giảm."
+            }
+          ],
+          "pinyin": "mǎi liǎng jiàn gěi nǐ yōu huì",
+          "meaning_vi": "Mua hai món tôi giảm giá cho bạn.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0016",
+          "level": "listen",
+          "text": "多买几件还能便宜。",
+          "alternatives": [
+            {
+              "text": "买得多还能便宜。",
+              "id": "s30_3_0016_alt01",
+              "meaning_vi": "Mua nhiều sẽ được bớt giá."
+            }
+          ],
+          "replies": [
+            {
+              "text": "买三件能便宜多少？",
+              "id": "s30_3_0016_reply01",
+              "meaning_vi": "Mua ba món giảm được bao nhiêu?"
+            },
+            {
+              "text": "那我再拿一件，一起怎么算？",
+              "id": "s30_3_0016_reply02",
+              "meaning_vi": "Vậy tôi lấy thêm một món, tính gộp thế nào?"
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "多买更便宜可能有数量门槛，并非买得越多一定越划算。",
+              "text_vi": "Ưu đãi mua nhiều có thể có mức số lượng tối thiểu; mua càng nhiều chưa chắc càng có lợi."
+            }
+          ],
+          "pinyin": "duō mǎi jǐ jiàn hái néng pián yi",
+          "meaning_vi": "Mua thêm vài món nữa còn được giảm.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0017",
+          "level": "listen",
+          "text": "这个价格不能再少了。",
+          "alternatives": [
+            {
+              "text": "实在不能再降了。",
+              "id": "s30_3_0017_alt01",
+              "meaning_vi": "Thật sự không bớt được nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那就这个价。",
+              "id": "s30_3_0017_reply01",
+              "meaning_vi": "Được, vậy chốt giá này."
+            },
+            {
+              "text": "那我先不买了，谢谢。",
+              "id": "s30_3_0017_reply02",
+              "meaning_vi": "Vậy tôi chưa mua nữa, cảm ơn."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“不能再少”仅指卖方当前不再降价。",
+              "text_vi": "“不能再少” chỉ có nghĩa người bán hiện không đồng ý giảm thêm."
+            }
+          ],
+          "pinyin": "zhè ge jià gé bù néng zài shǎo le",
+          "meaning_vi": "Giá này không giảm thêm được nữa.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0018",
+          "level": "listen",
+          "text": "买三件给你抹个零。",
+          "alternatives": [
+            {
+              "text": "给你把零头抹了。",
+              "id": "s30_3_0018_alt01",
+              "meaning_vi": "Tôi bỏ tiền lẻ cho bạn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那抹完一共多少钱？",
+              "id": "s30_3_0018_reply01",
+              "meaning_vi": "Vậy bỏ lẻ rồi tổng cộng bao nhiêu?"
+            },
+            {
+              "text": "行，那我要三件。",
+              "id": "s30_3_0018_reply02",
+              "meaning_vi": "Được, vậy tôi lấy ba món."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "听到“抹零”后，最好再确认最终实付总价。",
+              "text_vi": "Nghe “抹零” thì nên xác nhận lại tổng tiền cuối cùng cần trả."
+            }
+          ],
+          "pinyin": "mǎi sān jiàn gěi nǐ mǒ ge líng",
+          "meaning_vi": "Mua ba món tôi bỏ phần lẻ cho bạn.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0019",
+          "level": "listen",
+          "text": "真的不能再少了。",
+          "alternatives": [
+            {
+              "text": "真的降不了价了。",
+              "id": "s30_3_0019_alt01",
+              "meaning_vi": "Thật sự không thể hạ giá nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我再考虑一下。",
+              "id": "s30_3_0019_reply01",
+              "meaning_vi": "Được, để tôi cân nhắc thêm."
+            },
+            {
+              "text": "行，就按这个价吧。",
+              "id": "s30_3_0019_reply02",
+              "meaning_vi": "Ừ, cứ theo giá này."
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "“真的不能再少”是明确拒绝继续降价，可礼貌结束。",
+              "text_vi": "“真的不能再少” là lời từ chối giảm thêm dứt khoát; có thể lịch sự kết thúc trao đổi."
+            }
+          ],
+          "pinyin": "zhēn de bù néng zài shǎo le",
+          "meaning_vi": "Thật sự không thể giảm thêm.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        },
+        {
+          "id": "s30_3_0020",
+          "level": "listen",
+          "text": "可以给你包邮。",
+          "alternatives": [
+            {
+              "text": "运费我给你免了。",
+              "id": "s30_3_0020_alt01",
+              "meaning_vi": "Tôi miễn phí vận chuyển cho bạn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我就买了。",
+              "id": "s30_3_0020_reply01",
+              "meaning_vi": "Vậy tôi mua nhé."
+            },
+            {
+              "text": "大概几天能送到？",
+              "id": "s30_3_0020_reply02",
+              "meaning_vi": "Khoảng mấy ngày thì giao tới?"
+            }
+          ],
+          "lesson_id": "30.3",
+          "lesson_title": "30.3 议价",
+          "mistakes": [
+            {
+              "text": "包邮是卖方承担运费，需确认配送范围与时间。",
+              "text_vi": "Miễn phí vận chuyển nghĩa là người bán chịu phí giao hàng; nên xác nhận khu vực áp dụng và thời gian giao."
+            }
+          ],
+          "pinyin": "kě yǐ gěi nǐ bāo yóu",
+          "meaning_vi": "Có thể miễn phí giao hàng cho bạn.",
+          "lesson_title_vi": "30.3 Mặc cả"
+        }
+      ],
+      "opening": "在可以议价的摊位或小店，练习礼貌询问最低价、抹零和多件优惠，并听懂“不能再少了”；明码标价的商店不一定能砍价。",
+      "subtitle": "20张实用口语卡",
+      "title_vi": "30.3 Mặc cả",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Ở chợ hoặc cửa hàng nhỏ có thể thương lượng giá, hãy tập hỏi mức giá thấp nhất, xin làm tròn số tiền và hỏi ưu đãi khi mua nhiều; đồng thời hiểu lời từ chối giảm giá. Siêu thị niêm yết giá thường không mặc cả."
+    }
+  ],
+  "card_count": 59,
+  "lesson_counts": {
+    "30.1": 17,
+    "30.2": 22,
+    "30.3": 20
+  },
+  "theme_title_vi": "30 Giá cả và khuyến mãi"
+}
