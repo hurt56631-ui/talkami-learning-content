@@ -1,0 +1,1603 @@
+{
+  "theme_id": "31",
+  "version": 1,
+  "updated_at": "2026-11-02T16:17:07.355Z",
+  "theme_title": "31 付款扫码",
+  "quality_standard": "Vietnamese adaptation from Chinese source 31 (57 main cards, all alternative/reply expressions and usage notes). Chinese, pinyin, IDs, order and levels preserved; terms for payment QR codes, cash and duplicate transactions localized. Structural QA passed; native-speaker, app and audio QA pending.",
+  "source_phrase_count": 60,
+  "lessons": [
+    {
+      "id": "31.1",
+      "title": "31.1 手机扫码支付",
+      "phrases": [
+        {
+          "id": "s31_1_0001",
+          "level": "must",
+          "text": "微信可以吗？",
+          "alternatives": [
+            {
+              "text": "可以用微信吗？",
+              "id": "s31_1_0001_alt01",
+              "meaning_vi": "Có thể thanh toán qua WeChat không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，扫这个码。",
+              "id": "s31_1_0001_reply01",
+              "meaning_vi": "Được, bạn quét mã này nhé."
+            },
+            {
+              "text": "不好意思，只收现金。",
+              "id": "s31_1_0001_reply02",
+              "meaning_vi": "Xin lỗi, bên tôi chỉ nhận tiền mặt."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "微信支付与支付宝是中国常见的不同支付方式；先确认商家接受哪一种。",
+              "text_vi": "WeChat Pay và Alipay là hai phương thức thanh toán khác nhau ở Trung Quốc. Hãy hỏi cửa hàng chấp nhận phương thức nào."
+            }
+          ],
+          "pinyin": "wēi xìn kě yǐ ma",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Thanh toán bằng WeChat được không?"
+        },
+        {
+          "id": "s31_1_0002",
+          "level": "must",
+          "text": "我扫这个收款码吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，扫这个就行。",
+              "id": "s31_1_0002_reply01",
+              "meaning_vi": "Đúng rồi, cứ quét mã này là được."
+            },
+            {
+              "text": "不用，我扫您的付款码。",
+              "id": "s31_1_0002_reply02",
+              "meaning_vi": "Không cần, để tôi quét mã thanh toán của anh/chị."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "顾客扫商家的收款码，或商家扫顾客的付款码，是两种不同操作；看清该由谁扫码。",
+              "text_vi": "Khách quét mã nhận tiền của cửa hàng hoặc cửa hàng quét mã thanh toán của khách là hai thao tác khác nhau; cần xác định ai là người quét."
+            }
+          ],
+          "pinyin": "wǒ sǎo zhè ge shōu kuǎn mǎ ma",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Tôi quét mã nhận tiền này phải không?"
+        },
+        {
+          "id": "s31_1_0003",
+          "level": "must",
+          "text": "扫我的付款码吧。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，您把码打开。",
+              "id": "s31_1_0003_reply01",
+              "meaning_vi": "Vâng, anh/chị mở mã lên nhé."
+            },
+            {
+              "text": "稍等，我扫一下。",
+              "id": "s31_1_0003_reply02",
+              "meaning_vi": "Chờ chút, tôi quét ngay."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "付款码是用于扣款的动态码，不要截图发给陌生人；只在确认商家身份后展示。",
+              "text_vi": "Mã thanh toán là mã động dùng để trừ tiền. Không gửi ảnh chụp mã cho người lạ; chỉ đưa mã khi đã xác minh người nhận thanh toán."
+            }
+          ],
+          "pinyin": "sǎo wǒ de fù kuǎn mǎ ba",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Quét mã thanh toán của tôi nhé."
+        },
+        {
+          "id": "s31_1_0004",
+          "level": "must",
+          "text": "付款码在哪里？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "微信里点“收付款”。",
+              "id": "s31_1_0004_reply01",
+              "meaning_vi": "Trong WeChat, chọn mục “Thu và thanh toán”."
+            },
+            {
+              "text": "支付宝里点“付钱”。",
+              "id": "s31_1_0004_reply02",
+              "meaning_vi": "Trong Alipay, chọn mục “Thanh toán”."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "手机软件的菜单名称会随语言和版本变化；要找的是用于商家扫码的付款码，不是收款码。",
+              "text_vi": "Tên mục trên ứng dụng có thể khác tùy ngôn ngữ và phiên bản. Hãy tìm mã thanh toán để nhân viên quét, đừng nhầm với mã nhận tiền."
+            }
+          ],
+          "pinyin": "fù kuǎn mǎ zài nǎ lǐ",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Mã thanh toán ở đâu?"
+        },
+        {
+          "id": "s31_1_0005",
+          "level": "must",
+          "text": "要出示付款码吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，您打开付款码。",
+              "id": "s31_1_0005_reply01",
+              "meaning_vi": "Có, anh/chị mở mã thanh toán nhé."
+            },
+            {
+              "text": "不用，您扫这个码。",
+              "id": "s31_1_0005_reply02",
+              "meaning_vi": "Không cần, anh/chị quét mã này."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "“付款码”是顾客出示给商家扫描的动态码；“收款码”是商家展示、让顾客扫描的码。不要把个人付款码截图随意发给别人。",
+              "text_vi": "“付款码” là mã khách đưa để cửa hàng quét; “收款码” là mã cửa hàng đưa để khách quét. Không tùy tiện gửi ảnh mã thanh toán cá nhân."
+            }
+          ],
+          "pinyin": "yào chū shì fù kuǎn mǎ ma",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Có cần đưa mã thanh toán ra không?"
+        },
+        {
+          "id": "s31_1_0006",
+          "level": "must",
+          "text": "我已经付了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "收到了，谢谢。",
+              "id": "s31_1_0006_reply01",
+              "meaning_vi": "Nhận được tiền rồi, cảm ơn anh/chị."
+            },
+            {
+              "text": "还没显示，我查一下。",
+              "id": "s31_1_0006_reply02",
+              "meaning_vi": "Chưa thấy hiện lên, để tôi kiểm tra."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "“我已经付了”表示付款方已操作，不代表商家一定到账；未确认时不要再按一次付款。",
+              "text_vi": "“Tôi đã thanh toán” nói rằng người mua đã thao tác, chưa chắc cửa hàng đã nhận được tiền. Đừng bấm trả thêm khi chưa xác nhận."
+            }
+          ],
+          "pinyin": "wǒ yǐ jīng fù le",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Tôi thanh toán rồi."
+        },
+        {
+          "id": "s31_1_0007",
+          "level": "must",
+          "text": "钱收到了吗？",
+          "alternatives": [
+            {
+              "text": "你那边到账了吗？",
+              "id": "s31_1_0007_alt01",
+              "meaning_vi": "Bên anh/chị đã nhận được tiền chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "收到了，到账了。",
+              "id": "s31_1_0007_reply01",
+              "meaning_vi": "Nhận được rồi, tiền vào tài khoản rồi."
+            },
+            {
+              "text": "还没显示，等一下。",
+              "id": "s31_1_0007_reply02",
+              "meaning_vi": "Vẫn chưa thấy hiện lên, đợi chút nhé."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "“收到了”问商家是否实际收到钱，不是单问买家是否看到扣款提示。",
+              "text_vi": "Câu này hỏi cửa hàng đã thực sự nhận tiền chưa, không chỉ hỏi người mua có thấy thông báo trừ tiền hay không."
+            }
+          ],
+          "pinyin": "qián shōu dào le ma",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Anh/chị nhận được tiền chưa?"
+        },
+        {
+          "id": "s31_1_0008",
+          "level": "must",
+          "text": "支付宝可以吗？",
+          "alternatives": [
+            {
+              "text": "可以用支付宝吗？",
+              "id": "s31_1_0008_alt01",
+              "meaning_vi": "Có thể dùng Alipay để thanh toán không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，用支付宝扫。",
+              "id": "s31_1_0008_reply01",
+              "meaning_vi": "Được, dùng Alipay quét mã nhé."
+            },
+            {
+              "text": "不好意思，只能用微信。",
+              "id": "s31_1_0008_reply02",
+              "meaning_vi": "Xin lỗi, bên tôi chỉ nhận WeChat Pay."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "zhī fù bǎo kě yǐ ma",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Thanh toán bằng Alipay được không?"
+        },
+        {
+          "id": "s31_1_0009",
+          "level": "must",
+          "text": "我用支付宝付。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，扫这边。",
+              "id": "s31_1_0009_reply01",
+              "meaning_vi": "Vâng, quét mã bên này nhé."
+            },
+            {
+              "text": "好，请打开付款码。",
+              "id": "s31_1_0009_reply02",
+              "meaning_vi": "Vâng, vui lòng mở mã thanh toán."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "wǒ yòng zhī fù bǎo fù",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Tôi thanh toán bằng Alipay."
+        },
+        {
+          "id": "s31_1_0010",
+          "level": "must",
+          "text": "微信支付宝都能用吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "都可以，您随便选。",
+              "id": "s31_1_0010_reply01",
+              "meaning_vi": "Cả hai đều được, anh/chị chọn cách nào cũng được."
+            },
+            {
+              "text": "这里只能用支付宝。",
+              "id": "s31_1_0010_reply02",
+              "meaning_vi": "Ở đây chỉ thanh toán bằng Alipay được thôi."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "wēi xìn zhī fù bǎo dōu néng yòng ma",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Có nhận cả WeChat Pay và Alipay không?"
+        },
+        {
+          "id": "s31_1_0011",
+          "level": "must",
+          "text": "这里显示五十八元。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，一共五十八。",
+              "id": "s31_1_0011_reply01",
+              "meaning_vi": "Đúng, tổng cộng 58 tệ."
+            },
+            {
+              "text": "不对，我再核对一下。",
+              "id": "s31_1_0011_reply02",
+              "meaning_vi": "Không đúng rồi, để tôi kiểm tra lại."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "扫码支付前先核对页面金额和商家名称；发现不符应暂停付款。",
+              "text_vi": "Trước khi quét mã trả tiền, hãy kiểm tra số tiền và tên người nhận; nếu không khớp thì dừng thanh toán."
+            }
+          ],
+          "pinyin": "zhè lǐ xiǎn shì wǔ shí bā yuán",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Ở đây hiển thị 58 tệ."
+        },
+        {
+          "id": "s31_1_0012",
+          "level": "listen",
+          "text": "扫这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我扫一下。",
+              "id": "s31_1_0012_reply01",
+              "meaning_vi": "Vâng, để tôi quét."
+            },
+            {
+              "text": "这个码扫不出来。",
+              "id": "s31_1_0012_reply02",
+              "meaning_vi": "Mã này quét không được."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "sǎo zhè lǐ",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Quét ở đây."
+        },
+        {
+          "id": "s31_1_0013",
+          "level": "listen",
+          "text": "出示付款码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我打开了。",
+              "id": "s31_1_0013_reply01",
+              "meaning_vi": "Được, tôi mở rồi."
+            },
+            {
+              "text": "等一下，我找找。",
+              "id": "s31_1_0013_reply02",
+              "meaning_vi": "Đợi chút, để tôi tìm."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "chū shì fù kuǎn mǎ",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Vui lòng đưa mã thanh toán ra."
+        },
+        {
+          "id": "s31_1_0014",
+          "level": "listen",
+          "text": "一共五十八元。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在付。",
+              "id": "s31_1_0014_reply01",
+              "meaning_vi": "Được, tôi thanh toán ngay."
+            },
+            {
+              "text": "能扫码付吗？",
+              "id": "s31_1_0014_reply02",
+              "meaning_vi": "Thanh toán bằng cách quét mã được không?"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "yí gòng wǔ shí bā yuán",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Tổng cộng 58 tệ."
+        },
+        {
+          "id": "s31_1_0015",
+          "level": "listen",
+          "text": "已经收到了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我先走了。",
+              "id": "s31_1_0015_reply01",
+              "meaning_vi": "Được rồi, vậy tôi đi trước nhé."
+            },
+            {
+              "text": "能给我小票吗？",
+              "id": "s31_1_0015_reply02",
+              "meaning_vi": "Cho tôi xin biên lai được không?"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "yǐ jīng shōu dào le",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Đã nhận được tiền rồi."
+        },
+        {
+          "id": "s31_1_0016",
+          "level": "listen",
+          "text": "微信支付宝都可以。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我用微信。",
+              "id": "s31_1_0016_reply01",
+              "meaning_vi": "Vậy tôi dùng WeChat Pay."
+            },
+            {
+              "text": "我用支付宝付。",
+              "id": "s31_1_0016_reply02",
+              "meaning_vi": "Tôi thanh toán bằng Alipay."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "wēi xìn zhī fù bǎo dōu kě yǐ",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Nhận cả WeChat Pay lẫn Alipay."
+        },
+        {
+          "id": "s31_1_0017",
+          "level": "listen",
+          "text": "请确认金额。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，是五十八元。",
+              "id": "s31_1_0017_reply01",
+              "meaning_vi": "Đúng rồi, 58 tệ."
+            },
+            {
+              "text": "金额不对，麻烦看下。",
+              "id": "s31_1_0017_reply02",
+              "meaning_vi": "Số tiền không đúng, phiền anh/chị kiểm tra lại."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "“请确认金额”是付款前确认应付数额，不是告诉顾客支付已经成功。",
+              "text_vi": "“请确认金额” yêu cầu kiểm tra số tiền trước khi trả, không có nghĩa thanh toán đã thành công."
+            }
+          ],
+          "pinyin": "qǐng què rèn jīn é",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Vui lòng kiểm tra lại số tiền."
+        },
+        {
+          "id": "s31_1_0018",
+          "level": "listen",
+          "text": "支付成功。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "钱收到了吧？",
+              "id": "s31_1_0018_reply01",
+              "meaning_vi": "Anh/chị nhận được tiền rồi chứ?"
+            },
+            {
+              "text": "好，麻烦给我小票。",
+              "id": "s31_1_0018_reply02",
+              "meaning_vi": "Vâng, cho tôi xin biên lai nhé."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [
+            {
+              "text": "付款页面显示成功后，商家收款通知可能有延迟；必要时凭真实交易记录核对，不要盲目重付。",
+              "text_vi": "Dù màn hình báo thanh toán thành công, thông báo nhận tiền của cửa hàng có thể đến chậm. Hãy đối chiếu giao dịch thật, đừng trả trùng."
+            }
+          ],
+          "pinyin": "zhī fù chéng gōng",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Thanh toán thành công."
+        },
+        {
+          "id": "s31_1_0019",
+          "level": "listen",
+          "text": "请打开付款码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，打开了。",
+              "id": "s31_1_0019_reply01",
+              "meaning_vi": "Vâng, tôi mở rồi."
+            },
+            {
+              "text": "等一下，手机有点卡。",
+              "id": "s31_1_0019_reply02",
+              "meaning_vi": "Chờ chút, điện thoại hơi đơ."
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "qǐng dǎ kāi fù kuǎn mǎ",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Vui lòng mở mã thanh toán."
+        },
+        {
+          "id": "s31_1_0020",
+          "level": "listen",
+          "text": "扫桌上的收款码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我扫一下。",
+              "id": "s31_1_0020_reply01",
+              "meaning_vi": "Vâng, để tôi quét."
+            },
+            {
+              "text": "扫不出来，能帮我吗？",
+              "id": "s31_1_0020_reply02",
+              "meaning_vi": "Tôi quét không được, giúp tôi với nhé?"
+            }
+          ],
+          "lesson_id": "31.1",
+          "lesson_title": "31.1 手机扫码支付",
+          "mistakes": [],
+          "pinyin": "sǎo zhuō shàng de shōu kuǎn mǎ",
+          "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+          "meaning_vi": "Quét mã nhận tiền trên bàn nhé."
+        }
+      ],
+      "opening": "这一课练在中国使用微信、支付宝扫码付钱，分清“我扫商家”和“商家扫我”，付款前核对金额。",
+      "subtitle": "20张高频卡 · 11必说 + 9必听",
+      "title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
+      "opening_vi": "Bài này luyện thanh toán bằng WeChat Pay và Alipay ở Trung Quốc, phân biệt khách quét mã của cửa hàng với nhân viên quét mã của khách; luôn kiểm tra số tiền trước khi trả.",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "31.2",
+      "title": "31.2 现金与找零",
+      "phrases": [
+        {
+          "id": "s31_2_0001",
+          "level": "must",
+          "text": "可以付现金吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，现金也收。",
+              "id": "s31_2_0001_reply01",
+              "meaning_vi": "Được, bên tôi cũng nhận tiền mặt."
+            },
+            {
+              "text": "可以，尽量给零钱。",
+              "id": "s31_2_0001_reply02",
+              "meaning_vi": "Được, nếu có thì đưa tiền lẻ giúp nhé."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "kě yǐ fù xiàn jīn ma",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Trả bằng tiền mặt được không?"
+        },
+        {
+          "id": "s31_2_0002",
+          "level": "must",
+          "text": "我只有一张一百的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没事，我能找开。",
+              "id": "s31_2_0002_reply01",
+              "meaning_vi": "Không sao, tôi có tiền thối."
+            },
+            {
+              "text": "我这找不开，能扫码吗？",
+              "id": "s31_2_0002_reply02",
+              "meaning_vi": "Tôi không đủ tiền lẻ để thối, bạn quét mã thanh toán được không?"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“一张一百的”省略了“元的纸币”，是面值100元的一张钞票，不是100张。",
+              "text_vi": "“一张一百的” là cách nói tắt của một tờ tiền mệnh giá 100 tệ, không phải 100 tờ."
+            }
+          ],
+          "pinyin": "wǒ zhǐ yǒu yì zhāng yì bǎi de",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Tôi chỉ có một tờ 100 tệ."
+        },
+        {
+          "id": "s31_2_0003",
+          "level": "must",
+          "text": "有零钱吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，我给您换。",
+              "id": "s31_2_0003_reply01",
+              "meaning_vi": "Có, để tôi đổi cho anh/chị."
+            },
+            {
+              "text": "暂时没零钱了。",
+              "id": "s31_2_0003_reply02",
+              "meaning_vi": "Hiện giờ hết tiền lẻ rồi."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "yǒu líng qián ma",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Có tiền lẻ không?"
+        },
+        {
+          "id": "s31_2_0004",
+          "level": "must",
+          "text": "一百能找开吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能，我给您找开。",
+              "id": "s31_2_0004_reply01",
+              "meaning_vi": "Được, tôi thối tiền cho anh/chị."
+            },
+            {
+              "text": "现在找不开，能扫码吗？",
+              "id": "s31_2_0004_reply02",
+              "meaning_vi": "Giờ tôi không có tiền thối, quét mã được không?"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“找开”是能不能给大额纸币找零；不等于商品“打开”或把钱撕开。",
+              "text_vi": "“找开” nghĩa là có tiền lẻ để thối khi khách đưa tờ tiền lớn; không phải mở hàng hóa hay xé tiền."
+            }
+          ],
+          "pinyin": "yì bǎi néng zhǎo kāi ma",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Tờ 100 tệ có thối được không?"
+        },
+        {
+          "id": "s31_2_0005",
+          "level": "must",
+          "text": "应该找我多少？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "找您三十二。",
+              "id": "s31_2_0005_reply01",
+              "meaning_vi": "Thối lại anh/chị 32 tệ."
+            },
+            {
+              "text": "一共七十，找您三十。",
+              "id": "s31_2_0005_reply02",
+              "meaning_vi": "Tổng cộng 70 tệ, thối lại anh/chị 30 tệ."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“找我多少”问应退的零钱：付款金额减去商品总价，不能把找零误认为商品价格。",
+              "text_vi": "Tiền thối bằng số tiền khách đưa trừ tổng giá hàng. “找我多少” hỏi tiền được trả lại, không phải giá món hàng."
+            }
+          ],
+          "pinyin": "yīng gāi zhǎo wǒ duō shǎo",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Anh/chị phải thối lại tôi bao nhiêu?"
+        },
+        {
+          "id": "s31_2_0006",
+          "level": "must",
+          "text": "好像找错了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我再数一遍。",
+              "id": "s31_2_0006_reply01",
+              "meaning_vi": "Để tôi đếm lại."
+            },
+            {
+              "text": "不好意思，少找您了。",
+              "id": "s31_2_0006_reply02",
+              "meaning_vi": "Xin lỗi, tôi thối thiếu tiền cho anh/chị."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“好像找错了”是礼貌地表示零钱可能找错，先与收银员一起核对金额；“少找”与“多找”方向相反。",
+              "text_vi": "“Hình như thối nhầm” là lời nhắc lịch sự để cùng kiểm tra tiền. “少找” là thối thiếu, “多找” là thối thừa."
+            }
+          ],
+          "pinyin": "hǎo xiàng zhǎo cuò le",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Hình như thối tiền nhầm rồi."
+        },
+        {
+          "id": "s31_2_0007",
+          "level": "must",
+          "text": "能给我纸币吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有纸币，给您换。",
+              "id": "s31_2_0007_reply01",
+              "meaning_vi": "Có tiền giấy, tôi đổi cho anh/chị."
+            },
+            {
+              "text": "只有硬币，可以吗？",
+              "id": "s31_2_0007_reply02",
+              "meaning_vi": "Chỉ còn tiền xu, có được không?"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“纸币”是纸钞，“硬币”是硬币；这里是在选找零的形式，不是问能不能用纸付款。",
+              "text_vi": "“纸币” là tiền giấy, “硬币” là tiền xu. Ở đây hỏi loại tiền thối lại, không phải có dùng giấy để trả tiền hay không."
+            }
+          ],
+          "pinyin": "néng gěi wǒ zhǐ bì ma",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Cho tôi nhận tiền giấy được không?"
+        },
+        {
+          "id": "s31_2_0008",
+          "level": "must",
+          "text": "我没有零钱。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没关系，我找给您。",
+              "id": "s31_2_0008_reply01",
+              "meaning_vi": "Không sao, tôi thối tiền cho anh/chị."
+            },
+            {
+              "text": "那能扫码付吗？",
+              "id": "s31_2_0008_reply02",
+              "meaning_vi": "Vậy quét mã thanh toán được không?"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "wǒ méi yǒu líng qián",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Tôi không có tiền lẻ."
+        },
+        {
+          "id": "s31_2_0009",
+          "level": "must",
+          "text": "好像少找十块。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我再核对一下。",
+              "id": "s31_2_0009_reply01",
+              "meaning_vi": "Để tôi kiểm tra lại."
+            },
+            {
+              "text": "您说得对，补您十块。",
+              "id": "s31_2_0009_reply02",
+              "meaning_vi": "Anh/chị nói đúng, tôi trả thêm 10 tệ."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "对找零有疑问时先核对金额和现金。",
+              "text_vi": "Khi nghi tiền thối thiếu, nên cùng nhân viên kiểm tra lại hóa đơn và số tiền mặt."
+            }
+          ],
+          "pinyin": "hǎo xiàng shǎo zhǎo shí kuài",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Hình như còn thiếu 10 tệ tiền thối."
+        },
+        {
+          "id": "s31_2_0010",
+          "level": "must",
+          "text": "我数一下零钱。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，您慢慢数。",
+              "id": "s31_2_0010_reply01",
+              "meaning_vi": "Vâng, anh/chị cứ đếm từ từ."
+            },
+            {
+              "text": "行，有问题告诉我。",
+              "id": "s31_2_0010_reply02",
+              "meaning_vi": "Được, có gì chưa đúng thì báo tôi."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "wǒ shǔ yí xià líng qián",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Để tôi đếm lại tiền thừa."
+        },
+        {
+          "id": "s31_2_0011",
+          "level": "must",
+          "text": "不用找了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢您。",
+              "id": "s31_2_0011_reply01",
+              "meaning_vi": "Vâng, cảm ơn anh/chị."
+            },
+            {
+              "text": "还是找给您吧，别客气。",
+              "id": "s31_2_0011_reply02",
+              "meaning_vi": "Tôi cứ thối lại cho anh/chị nhé, đừng ngại."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“不用找了”表示自愿放弃找零。中国日常商店通常不要求付小费，只有确定不要找零时才这样说。",
+              "text_vi": "“不用找了” nghĩa là tự nguyện không nhận tiền thừa. Chỉ nói khi thực sự muốn bỏ tiền thối; cửa hàng thông thường ở Trung Quốc không bắt buộc tiền tip."
+            }
+          ],
+          "pinyin": "bú yòng zhǎo le",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Không cần thối lại đâu."
+        },
+        {
+          "id": "s31_2_0012",
+          "level": "listen",
+          "text": "可以付现金。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我给您一百。",
+              "id": "s31_2_0012_reply01",
+              "meaning_vi": "Vậy tôi gửi anh/chị 100 tệ."
+            },
+            {
+              "text": "好的，麻烦找零。",
+              "id": "s31_2_0012_reply02",
+              "meaning_vi": "Vâng, phiền anh/chị thối tiền giúp."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "kě yǐ fù xiàn jīn",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Có thể trả bằng tiền mặt."
+        },
+        {
+          "id": "s31_2_0013",
+          "level": "listen",
+          "text": "没有零钱。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我用手机付。",
+              "id": "s31_2_0013_reply01",
+              "meaning_vi": "Vậy tôi trả bằng điện thoại."
+            },
+            {
+              "text": "我找找有没有零钱。",
+              "id": "s31_2_0013_reply02",
+              "meaning_vi": "Để tôi tìm xem có tiền lẻ không."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "méi yǒu líng qián",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Không có tiền lẻ."
+        },
+        {
+          "id": "s31_2_0014",
+          "level": "listen",
+          "text": "找您三十二。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我数一下，谢谢。",
+              "id": "s31_2_0014_reply01",
+              "meaning_vi": "Để tôi đếm lại, cảm ơn."
+            },
+            {
+              "text": "好，正好三十二。",
+              "id": "s31_2_0014_reply02",
+              "meaning_vi": "Đúng rồi, vừa đủ 32 tệ."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "zhǎo nín sān shí èr",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Thối lại anh/chị 32 tệ."
+        },
+        {
+          "id": "s31_2_0015",
+          "level": "listen",
+          "text": "您数一下。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我数数。",
+              "id": "s31_2_0015_reply01",
+              "meaning_vi": "Được, để tôi đếm."
+            },
+            {
+              "text": "嗯，数目对了。",
+              "id": "s31_2_0015_reply02",
+              "meaning_vi": "Ừ, đủ số tiền rồi."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "nín shǔ yí xià",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Anh/chị đếm lại giúp nhé."
+        },
+        {
+          "id": "s31_2_0016",
+          "level": "listen",
+          "text": "一百可以找开。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那给您一百。",
+              "id": "s31_2_0016_reply01",
+              "meaning_vi": "Vậy tôi đưa anh/chị 100 tệ."
+            },
+            {
+              "text": "好，麻烦找零钱。",
+              "id": "s31_2_0016_reply02",
+              "meaning_vi": "Vâng, thối lại tiền giúp tôi nhé."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "yì bǎi kě yǐ zhǎo kāi",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Tờ 100 tệ thối được."
+        },
+        {
+          "id": "s31_2_0017",
+          "level": "listen",
+          "text": "麻烦换小一点的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我找找。",
+              "id": "s31_2_0017_reply01",
+              "meaning_vi": "Được, để tôi tìm."
+            },
+            {
+              "text": "没有小面额，能扫码吗？",
+              "id": "s31_2_0017_reply02",
+              "meaning_vi": "Không có tiền mệnh giá nhỏ, quét mã được không?"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“小一点的”指面值更小的钞票，不是纸币的物理尺寸更小，也不是减少商品数量。",
+              "text_vi": "“小一点的” chỉ tờ tiền mệnh giá nhỏ hơn, không phải tờ giấy nhỏ hay mua ít hàng hơn."
+            }
+          ],
+          "pinyin": "má fan huàn xiǎo yì diǎn de",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Phiền đổi sang tiền có mệnh giá nhỏ hơn."
+        },
+        {
+          "id": "s31_2_0018",
+          "level": "listen",
+          "text": "这是找您的钱。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我数一下。",
+              "id": "s31_2_0018_reply01",
+              "meaning_vi": "Cảm ơn, để tôi đếm lại."
+            },
+            {
+              "text": "好，零钱正好。",
+              "id": "s31_2_0018_reply02",
+              "meaning_vi": "Được rồi, tiền thối đủ."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "zhè shì zhǎo nín de qián",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Đây là tiền thối lại cho anh/chị."
+        },
+        {
+          "id": "s31_2_0019",
+          "level": "listen",
+          "text": "找您二十七块五。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢您。",
+              "id": "s31_2_0019_reply01",
+              "meaning_vi": "Vâng, cảm ơn anh/chị."
+            },
+            {
+              "text": "我数数，二十七块五。",
+              "id": "s31_2_0019_reply02",
+              "meaning_vi": "Để tôi đếm: 27 tệ 5 hào."
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [
+            {
+              "text": "“二十七块五”就是27.5元，末尾的“五”指五角，不是再加五元。",
+              "text_vi": "“二十七块五” là 27,5 tệ; chữ “五” cuối chỉ 5 hào, không phải thêm 5 tệ."
+            }
+          ],
+          "pinyin": "zhǎo nín èr shí qī kuài wǔ",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Thối lại anh/chị 27 tệ 5 hào."
+        },
+        {
+          "id": "s31_2_0020",
+          "level": "listen",
+          "text": "麻烦尽量给零钱。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，我给您零钱。",
+              "id": "s31_2_0020_reply01",
+              "meaning_vi": "Có, tôi đưa tiền lẻ cho anh/chị."
+            },
+            {
+              "text": "只有整钱，能找开吗？",
+              "id": "s31_2_0020_reply02",
+              "meaning_vi": "Tôi chỉ có tờ tiền lớn, anh/chị có thối được không?"
+            }
+          ],
+          "lesson_id": "31.2",
+          "lesson_title": "31.2 现金与找零",
+          "mistakes": [],
+          "pinyin": "má fan jǐn liàng gěi líng qián",
+          "lesson_title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+          "meaning_vi": "Nếu có thể, phiền anh/chị đưa tiền lẻ giúp."
+        }
+      ],
+      "opening": "这一课练现金付款、百元钞票找零、少找钱和核对实收金额，听懂“块五”等口头金额。",
+      "subtitle": "20张高频卡 · 11必说 + 9必听",
+      "title_vi": "31.2 Trả tiền mặt và nhận tiền thừa",
+      "opening_vi": "Luyện thanh toán bằng tiền mặt, thối tiền từ tờ 100 tệ, kiểm tra trường hợp thối thiếu hoặc thừa; nghe hiểu cách nói tiền như “块五”.",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "31.3",
+      "title": "31.3 支付异常",
+      "phrases": [
+        {
+          "id": "s31_3_0001",
+          "level": "must",
+          "text": "付款失败了。",
+          "alternatives": [
+            {
+              "text": "付款没成功。",
+              "id": "s31_3_0001_alt01",
+              "meaning_vi": "Thanh toán chưa thành công."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先查记录，别急着再付。",
+              "id": "s31_3_0001_reply01",
+              "meaning_vi": "Kiểm tra lịch sử giao dịch trước, đừng vội trả lại."
+            },
+            {
+              "text": "可能是网络问题，稍等。",
+              "id": "s31_3_0001_reply02",
+              "meaning_vi": "Có thể do mạng, đợi chút nhé."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "支付失败的提示不保证银行账户一定未扣钱，应先查付款记录再决定是否重试。",
+              "text_vi": "Ứng dụng báo thất bại chưa chắc tài khoản không bị trừ tiền; cần kiểm tra giao dịch trước khi thử lại."
+            }
+          ],
+          "pinyin": "fù kuǎn shī bài le",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Thanh toán thất bại rồi."
+        },
+        {
+          "id": "s31_3_0002",
+          "level": "must",
+          "text": "我这边扣钱了。",
+          "alternatives": [
+            {
+              "text": "我这边已经扣款了。",
+              "id": "s31_3_0002_alt01",
+              "meaning_vi": "Bên tôi đã bị trừ tiền rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别再付，我查一下。",
+              "id": "s31_3_0002_reply01",
+              "meaning_vi": "Đừng thanh toán thêm vội, để tôi kiểm tra."
+            },
+            {
+              "text": "把付款记录给我看下。",
+              "id": "s31_3_0002_reply02",
+              "meaning_vi": "Cho tôi xem lịch sử thanh toán nhé."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "已扣款时先查记录，别重复付款。",
+              "text_vi": "Nếu tiền đã bị trừ, trước tiên hãy kiểm tra lịch sử giao dịch; đừng trả lần hai."
+            }
+          ],
+          "pinyin": "wǒ zhè biān kòu qián le",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Tài khoản tôi bị trừ tiền rồi."
+        },
+        {
+          "id": "s31_3_0003",
+          "level": "must",
+          "text": "是不是付了两次？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮您查下记录。",
+              "id": "s31_3_0003_reply01",
+              "meaning_vi": "Để tôi kiểm tra giao dịch giúp anh/chị."
+            },
+            {
+              "text": "好像扣了两笔，先别付了。",
+              "id": "s31_3_0003_reply02",
+              "meaning_vi": "Hình như bị trừ hai lần, đừng trả thêm nữa."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "怀疑扣了两笔时分别核对两条交易状态，并保存交易编号；必要时联系商家及支付平台。",
+              "text_vi": "Nếu nghi bị trừ hai lần, hãy đối chiếu từng giao dịch, giữ mã giao dịch và liên hệ người bán hoặc nền tảng thanh toán khi cần."
+            }
+          ],
+          "pinyin": "shì bú shì fù le liǎng cì",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Có phải tôi đã trả hai lần không?"
+        },
+        {
+          "id": "s31_3_0004",
+          "level": "must",
+          "text": "我先查下账单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，您先查。",
+              "id": "s31_3_0004_reply01",
+              "meaning_vi": "Vâng, anh/chị kiểm tra trước đi."
+            },
+            {
+              "text": "需要的话我也查一下。",
+              "id": "s31_3_0004_reply02",
+              "meaning_vi": "Nếu cần, tôi cũng kiểm tra."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [],
+          "pinyin": "wǒ xiān chá xià zhàng dān",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Để tôi kiểm tra sao kê trước."
+        },
+        {
+          "id": "s31_3_0005",
+          "level": "must",
+          "text": "网络不太好。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先别重付，等会儿再查。",
+              "id": "s31_3_0005_reply01",
+              "meaning_vi": "Đừng trả lại vội, lát nữa kiểm tra tiếp."
+            },
+            {
+              "text": "可以连上网再看记录。",
+              "id": "s31_3_0005_reply02",
+              "meaning_vi": "Có mạng rồi thì xem lại giao dịch."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "网络卡顿会使付款结果延迟显示；先确认账单，不要一遍遍点击支付。",
+              "text_vi": "Mạng chập chờn có thể khiến kết quả thanh toán hiện muộn. Kiểm tra sao kê, đừng liên tục nhấn trả tiền."
+            }
+          ],
+          "pinyin": "wǎng luò bú tài hǎo",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Mạng hơi yếu."
+        },
+        {
+          "id": "s31_3_0006",
+          "level": "must",
+          "text": "能查下付款记录吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，您稍等一下。",
+              "id": "s31_3_0006_reply01",
+              "meaning_vi": "Được, anh/chị đợi chút."
+            },
+            {
+              "text": "行，把订单号给我看下。",
+              "id": "s31_3_0006_reply02",
+              "meaning_vi": "Được, cho tôi xem mã đơn hàng nhé."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "核对付款记录可以展示订单号或交易记录；不要把支付密码、验证码交给店员。",
+              "text_vi": "Có thể đưa mã đơn hàng hay lịch sử giao dịch để đối chiếu, nhưng không đưa mật khẩu hoặc mã OTP cho nhân viên."
+            }
+          ],
+          "pinyin": "néng chá xià fù kuǎn jì lù ma",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Kiểm tra lịch sử thanh toán giúp tôi được không?"
+        },
+        {
+          "id": "s31_3_0007",
+          "level": "must",
+          "text": "能换个方式付吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，现金也行。",
+              "id": "s31_3_0007_reply01",
+              "meaning_vi": "Được, trả tiền mặt cũng được."
+            },
+            {
+              "text": "先确认没扣款，再换吧。",
+              "id": "s31_3_0007_reply02",
+              "meaning_vi": "Xác nhận chưa bị trừ tiền rồi hãy đổi cách thanh toán."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "未确认上次付款状态前，不要换方式再次付钱。",
+              "text_vi": "Trước khi đổi cách trả tiền, cần xác minh giao dịch trước đó đã bị trừ tiền hay chưa."
+            }
+          ],
+          "pinyin": "néng huàn ge fāng shì fù ma",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Tôi đổi sang cách thanh toán khác được không?"
+        },
+        {
+          "id": "s31_3_0008",
+          "level": "must",
+          "text": "订单显示未付款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "您先看看扣款记录。",
+              "id": "s31_3_0008_reply01",
+              "meaning_vi": "Anh/chị kiểm tra lịch sử trừ tiền trước nhé."
+            },
+            {
+              "text": "别重复付，我再核对下。",
+              "id": "s31_3_0008_reply02",
+              "meaning_vi": "Đừng thanh toán lần nữa, để tôi đối chiếu lại."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "“订单显示未付款”是系统显示的订单状态，不等于实际资金必定未扣；要对照支付记录。",
+              "text_vi": "“Đơn hàng chưa thanh toán” là trạng thái hiển thị trên hệ thống, chưa khẳng định tiền trong tài khoản không bị trừ; hãy đối chiếu giao dịch."
+            }
+          ],
+          "pinyin": "dìng dān xiǎn shì wèi fù kuǎn",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Đơn hàng hiển thị chưa thanh toán."
+        },
+        {
+          "id": "s31_3_0009",
+          "level": "must",
+          "text": "我再刷新一下。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，看看状态变了没。",
+              "id": "s31_3_0009_reply01",
+              "meaning_vi": "Ừ, xem trạng thái có thay đổi chưa."
+            },
+            {
+              "text": "刷新前先查下扣款。",
+              "id": "s31_3_0009_reply02",
+              "meaning_vi": "Trước khi tải lại, hãy kiểm tra tiền đã bị trừ chưa."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "“刷新”只是更新页面显示，不是重新提交付款；不要把刷新和再次付款混为一谈。",
+              "text_vi": "“刷新” chỉ làm mới trang, không phải gửi lại lệnh thanh toán. Đừng nhầm tải lại trang với trả thêm tiền."
+            }
+          ],
+          "pinyin": "wǒ zài shuā xīn yí xià",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Để tôi tải lại trang."
+        },
+        {
+          "id": "s31_3_0010",
+          "level": "listen",
+          "text": "系统还没显示付款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可我这边已经扣钱了。",
+              "id": "s31_3_0010_reply01",
+              "meaning_vi": "Nhưng tài khoản tôi đã bị trừ tiền rồi."
+            },
+            {
+              "text": "那先帮我查下记录。",
+              "id": "s31_3_0010_reply02",
+              "meaning_vi": "Vậy kiểm tra giao dịch giúp tôi trước nhé."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "“系统还没显示付款”不代表一定没扣款；如果自己的账户已扣钱，应核对支付记录与商家到账状态，未确认前不要重复付。",
+              "text_vi": "Hệ thống chưa ghi nhận thanh toán không có nghĩa tiền chưa bị trừ. Cần so sánh lịch sử giao dịch và tiền cửa hàng đã nhận, tránh trả trùng."
+            }
+          ],
+          "pinyin": "xì tǒng hái méi xiǎn shì fù kuǎn",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Hệ thống vẫn chưa ghi nhận thanh toán."
+        },
+        {
+          "id": "s31_3_0011",
+          "level": "listen",
+          "text": "先别重复付款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先查下账单。",
+              "id": "s31_3_0011_reply01",
+              "meaning_vi": "Được, tôi kiểm tra sao kê trước."
+            },
+            {
+              "text": "明白，等确认后再说。",
+              "id": "s31_3_0011_reply02",
+              "meaning_vi": "Hiểu rồi, đợi xác nhận xong hãy tính."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [],
+          "pinyin": "xiān bié chóng fù fù kuǎn",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Đừng thanh toán trùng nhé."
+        },
+        {
+          "id": "s31_3_0012",
+          "level": "listen",
+          "text": "等会儿再刷新。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等一下。",
+              "id": "s31_3_0012_reply01",
+              "meaning_vi": "Được, tôi đợi chút."
+            },
+            {
+              "text": "刷新前我先查扣款。",
+              "id": "s31_3_0012_reply02",
+              "meaning_vi": "Trước khi tải lại, tôi kiểm tra tiền bị trừ trước."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [],
+          "pinyin": "děng huìr zài shuā xīn",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Lát nữa hãy tải lại trang."
+        },
+        {
+          "id": "s31_3_0013",
+          "level": "listen",
+          "text": "可以换个方式付。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我用现金吧。",
+              "id": "s31_3_0013_reply01",
+              "meaning_vi": "Vậy tôi trả bằng tiền mặt."
+            },
+            {
+              "text": "先确认刚才没扣款吧。",
+              "id": "s31_3_0013_reply02",
+              "meaning_vi": "Xác nhận lần vừa rồi chưa trừ tiền đã nhé."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "“换个方式付”仅是另一种支付办法；如果上一次扫码结果未确认，应先查是否扣款，以免重复支付。",
+              "text_vi": "Đổi phương thức thanh toán có thể gây trả trùng nếu giao dịch trước chưa rõ trạng thái. Hãy kiểm tra tiền bị trừ trước."
+            }
+          ],
+          "pinyin": "kě yǐ huàn ge fāng shì fù",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Có thể đổi cách thanh toán."
+        },
+        {
+          "id": "s31_3_0014",
+          "level": "listen",
+          "text": "系统有点延迟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我等会儿再查。",
+              "id": "s31_3_0014_reply01",
+              "meaning_vi": "Vậy lát nữa tôi kiểm tra lại."
+            },
+            {
+              "text": "我这边扣款了，先帮我查下。",
+              "id": "s31_3_0014_reply02",
+              "meaning_vi": "Tài khoản tôi đã bị trừ tiền, kiểm tra giúp tôi trước nhé."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [],
+          "pinyin": "xì tǒng yǒu diǎn yán chí",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Hệ thống hơi chậm cập nhật."
+        },
+        {
+          "id": "s31_3_0015",
+          "level": "listen",
+          "text": "先别再付钱。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先看下记录。",
+              "id": "s31_3_0015_reply01",
+              "meaning_vi": "Được, tôi xem lại giao dịch trước."
+            },
+            {
+              "text": "那麻烦您帮我核对。",
+              "id": "s31_3_0015_reply02",
+              "meaning_vi": "Vậy phiền anh/chị đối chiếu giúp tôi."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [],
+          "pinyin": "xiān bié zài fù qián",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Đừng trả thêm tiền vội."
+        },
+        {
+          "id": "s31_3_0016",
+          "level": "listen",
+          "text": "我帮您查下订单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，麻烦您了。",
+              "id": "s31_3_0016_reply01",
+              "meaning_vi": "Vâng, cảm ơn anh/chị."
+            },
+            {
+              "text": "我这边有付款截图。",
+              "id": "s31_3_0016_reply02",
+              "meaning_vi": "Tôi có ảnh chụp màn hình thanh toán."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "付款截图可辅助核对，但截图不等于实际到账；应以可靠的订单记录和收款流水确认。",
+              "text_vi": "Ảnh chụp màn hình hỗ trợ đối chiếu nhưng không chứng minh cửa hàng đã nhận tiền; cần xác minh bằng giao dịch và tài khoản nhận."
+            }
+          ],
+          "pinyin": "wǒ bāng nín chá xià dìng dān",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Để tôi kiểm tra đơn hàng giúp anh/chị."
+        },
+        {
+          "id": "s31_3_0017",
+          "level": "listen",
+          "text": "这单还没支付成功。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可我这边已经扣钱了。",
+              "id": "s31_3_0017_reply01",
+              "meaning_vi": "Nhưng tài khoản tôi đã bị trừ tiền rồi."
+            },
+            {
+              "text": "那先核对扣款记录吧。",
+              "id": "s31_3_0017_reply02",
+              "meaning_vi": "Vậy đối chiếu lịch sử trừ tiền trước nhé."
+            }
+          ],
+          "lesson_id": "31.3",
+          "lesson_title": "31.3 支付异常",
+          "mistakes": [
+            {
+              "text": "订单没显示成功但付款方已扣款时，应保留交易记录，请商家核对，不要立即再次支付。",
+              "text_vi": "Nếu đơn chưa hiện thành công nhưng tài khoản đã bị trừ, hãy giữ lại giao dịch và nhờ cửa hàng kiểm tra; đừng trả tiếp ngay."
+            }
+          ],
+          "pinyin": "zhè dān hái méi zhī fù chéng gōng",
+          "lesson_title_vi": "31.3 Sự cố khi thanh toán",
+          "meaning_vi": "Đơn này vẫn chưa thanh toán thành công."
+        }
+      ],
+      "opening": "这一课练付款失败、钱已扣但店里没收到时怎样说明和核对；未确认前不要重复付款。",
+      "subtitle": "17张高频卡 · 9必说 + 8必听",
+      "title_vi": "31.3 Sự cố khi thanh toán",
+      "opening_vi": "Luyện báo lỗi thanh toán, trường hợp tài khoản đã bị trừ tiền nhưng cửa hàng chưa nhận được; luôn kiểm tra lịch sử giao dịch trước khi trả lần nữa.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    }
+  ],
+  "card_count": 57,
+  "lesson_counts": {
+    "31.1": 20,
+    "31.2": 20,
+    "31.3": 17
+  },
+  "theme_title_vi": "31 Thanh toán và quét mã"
+}
