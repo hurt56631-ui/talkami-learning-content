@@ -1,0 +1,2392 @@
+{
+  "theme_id": "37",
+  "lessons": [
+    {
+      "id": "37.1",
+      "title": "37.1 叫车定位",
+      "phrases": [
+        {
+          "id": "s37_1_0001",
+          "level": "must",
+          "text": "我已经叫车了。",
+          "alternatives": [
+            {
+              "text": "我在App上叫了车。",
+              "id": "s37_1_0001_alt01",
+              "meaning_vi": "Tôi đã đặt xe trên ứng dụng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，注意看上车点。",
+              "id": "s37_1_0001_reply01",
+              "meaning_vi": "Được, nhớ xem điểm đón xe."
+            },
+            {
+              "text": "司机接单后再确认位置。",
+              "id": "s37_1_0001_reply02",
+              "meaning_vi": "Tài xế nhận chuyến rồi thì xác nhận lại vị trí."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "wǒ yǐ jīng jiào chē le",
+          "mistakes": [
+            {
+              "text": "“叫车了”说明已发起叫车或下单，不一定有司机接单；是否成功匹配、车是否已到，要再看App状态。",
+              "text_vi": "Đặt xe chưa chắc đã có tài xế nhận hoặc tới nơi; cần xem trạng thái trên ứng dụng."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tôi đã gọi xe rồi."
+        },
+        {
+          "id": "s37_1_0002",
+          "level": "must",
+          "text": "上车点在哪儿？",
+          "alternatives": [
+            {
+              "text": "在哪里上车？",
+              "id": "s37_1_0002_alt01",
+              "meaning_vi": "Đón xe ở chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "你在前面路口旁边上车。",
+              "id": "s37_1_0002_reply01",
+              "meaning_vi": "Bạn lên xe gần ngã rẽ phía trước."
+            },
+            {
+              "text": "看订单里标出的上车点。",
+              "id": "s37_1_0002_reply02",
+              "meaning_vi": "Xem điểm đón ghi trong đơn đặt xe."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "shàng chē diǎn zài nǎr",
+          "mistakes": [
+            {
+              "text": "“上车点”是乘客上车的位置，不一定就是你当前定位点，更不一定是订单上的目的地。",
+              "text_vi": "Điểm đón khách có thể khác chỗ bạn đang đứng hoặc điểm đến, phải xem trong đơn."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Điểm đón xe ở đâu?"
+        },
+        {
+          "id": "s37_1_0003",
+          "level": "must",
+          "text": "定位对吗？",
+          "alternatives": [
+            {
+              "text": "接我的位置对吗？",
+              "id": "s37_1_0003_alt01",
+              "meaning_vi": "Vị trí đón tôi đúng chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，我就在定位显示的地方。",
+              "id": "s37_1_0003_reply01",
+              "meaning_vi": "Đúng, tôi đang ở chỗ hiển thị trên bản đồ."
+            },
+            {
+              "text": "不对，我重新发一下位置。",
+              "id": "s37_1_0003_reply02",
+              "meaning_vi": "Chưa đúng, để tôi gửi lại vị trí."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "dìng wèi duì ma",
+          "mistakes": [
+            {
+              "text": "“定位”这里是接人的地图位置，可能不同于乘客的实时位置和行程目的地；位置不符时通过平台核对并联系司机。",
+              "text_vi": "Định vị này là địa điểm đón, có thể khác vị trí thực tế và điểm đến; sai thì sửa trên ứng dụng và báo tài xế."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Vị trí định vị đúng chưa?"
+        },
+        {
+          "id": "s37_1_0004",
+          "level": "must",
+          "text": "车牌尾号是多少？",
+          "alternatives": [
+            {
+              "text": "车牌最后几位是多少？",
+              "id": "s37_1_0004_alt01",
+              "meaning_vi": "Mấy chữ số cuối của biển số là gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "车牌尾号是六七八九。",
+              "id": "s37_1_0004_reply01",
+              "meaning_vi": "Bốn số cuối là 6789."
+            },
+            {
+              "text": "我看一下订单里的完整车牌。",
+              "id": "s37_1_0004_reply02",
+              "meaning_vi": "Để tôi xem đầy đủ biển số trong đơn."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "chē pái wěi hào shì duō shǎo",
+          "mistakes": [
+            {
+              "text": "“尾号”是号码末尾几位，不等于完整车牌；应核对App显示的车牌、车型和其他识别信息。",
+              "text_vi": "“尾号” là mấy số cuối, khác toàn bộ biển xe; vẫn phải kiểm tra biển số, loại xe và thông tin trong ứng dụng."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Mấy số cuối biển số xe là gì?"
+        },
+        {
+          "id": "s37_1_0005",
+          "level": "must",
+          "text": "司机到哪儿了？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我马上到。",
+              "id": "s37_1_0005_reply01",
+              "meaning_vi": "Tôi sắp đến rồi."
+            },
+            {
+              "text": "我在马路对面。",
+              "id": "s37_1_0005_reply02",
+              "meaning_vi": "Tôi đang ở bên kia đường."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "sī jī dào nǎr le",
+          "mistakes": [
+            {
+              "text": "“到哪儿了”是问当前进度或位置，不是在问最终目的地；司机可用路口、门牌等标志回答。",
+              "text_vi": "“Đến đâu rồi?” hỏi vị trí hiện tại của tài xế, không phải điểm đến cuối cùng."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tài xế đi tới đâu rồi?"
+        },
+        {
+          "id": "s37_1_0006",
+          "level": "must",
+          "text": "我在东门等你。",
+          "alternatives": [
+            {
+              "text": "我在东门这边等。",
+              "id": "s37_1_0006_alt01",
+              "meaning_vi": "Tôi đứng đợi ở phía cổng Đông."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我往东门开。",
+              "id": "s37_1_0006_reply01",
+              "meaning_vi": "Được, tôi lái tới cổng Đông."
+            },
+            {
+              "text": "到了东门我再打电话。",
+              "id": "s37_1_0006_reply02",
+              "meaning_vi": "Tới cổng Đông tôi gọi lại."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "wǒ zài dōng mén děng nǐ",
+          "mistakes": [
+            {
+              "text": "“东门”是东侧大门，不是站在门朝向东方的一边；和“西门”区分，最好对照现场大门名称。",
+              "text_vi": "Cổng Đông là cổng phía Đông, khác cổng Tây; nên dựa vào biển tên cổng."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tôi đợi bạn ở cổng Đông."
+        },
+        {
+          "id": "s37_1_0007",
+          "level": "must",
+          "text": "怎么联系司机？",
+          "alternatives": [
+            {
+              "text": "怎么联系刚才的司机？",
+              "id": "s37_1_0007_alt01",
+              "meaning_vi": "Liên hệ tài xế vừa rồi bằng cách nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以在订单页面联系司机。",
+              "id": "s37_1_0007_reply01",
+              "meaning_vi": "Bạn có thể liên hệ trong trang chi tiết chuyến đi."
+            },
+            {
+              "text": "找不到联系入口的话，可以联系平台客服。",
+              "id": "s37_1_0007_reply02",
+              "meaning_vi": "Không thấy nút liên hệ thì hỏi bộ phận hỗ trợ của nền tảng."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "zěn me lián xì sī jī",
+          "mistakes": [
+            {
+              "text": "“联系司机”是沟通，不等于可以向陌生人公开手机号；优先用订单内的联系功能，已完成行程的联系入口可能不同。",
+              "text_vi": "Ưu tiên liên hệ tài xế qua đơn trên ứng dụng, không cần đưa số điện thoại riêng cho người lạ."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Liên hệ tài xế thế nào?"
+        },
+        {
+          "id": "s37_1_0008",
+          "level": "must",
+          "text": "你能开到门口吗？",
+          "alternatives": [
+            {
+              "text": "可以到大门口接我吗？",
+              "id": "s37_1_0008_alt01",
+              "meaning_vi": "Bạn đến cổng chính đón tôi được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我开到门口附近。",
+              "id": "s37_1_0008_reply01",
+              "meaning_vi": "Được, tôi lái đến gần cổng."
+            },
+            {
+              "text": "门口禁止停车，我在前面上车点等你。",
+              "id": "s37_1_0008_reply02",
+              "meaning_vi": "Cổng cấm dừng xe, tôi đợi ở điểm đón phía trước."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "nǐ néng kāi dào mén kǒu ma",
+          "mistakes": [
+            {
+              "text": "“能开到门口吗”是请求开车接近门口，不表示一定允许停车；不能要求司机违规停靠或逆行。",
+              "text_vi": "Lái xe tới cổng chưa chắc được phép dừng ở đó; không yêu cầu tài xế dừng trái phép hoặc đi ngược chiều."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Bạn lái xe tới cổng được không?"
+        },
+        {
+          "id": "s37_1_0009",
+          "level": "must",
+          "text": "我在东门，不是西门。",
+          "alternatives": [
+            {
+              "text": "别去西门，我在东门。",
+              "id": "s37_1_0009_alt01",
+              "meaning_vi": "Đừng đến cổng Tây, tôi ở cổng Đông."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去东门。",
+              "id": "s37_1_0009_reply01",
+              "meaning_vi": "Được, tôi tới cổng Đông."
+            },
+            {
+              "text": "东门附近有没有明显的标志？",
+              "id": "s37_1_0009_reply02",
+              "meaning_vi": "Gần cổng Đông có dấu hiệu dễ nhận biết nào không?"
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "wǒ zài dōng mén bú shì xī mén",
+          "mistakes": [
+            {
+              "text": "“不是西门”是纠正位置，并非说这里没有西门；东门西门属于不同的接驾地点。",
+              "text_vi": "“Không phải cổng Tây” là sửa địa điểm hẹn, không phải khu đó không có cổng Tây."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tôi ở cổng Đông, không phải cổng Tây."
+        },
+        {
+          "id": "s37_1_0010",
+          "level": "must",
+          "text": "我在指定上车点。",
+          "alternatives": [
+            {
+              "text": "我已经到上车点了。",
+              "id": "s37_1_0010_alt01",
+              "meaning_vi": "Tôi đã tới điểm đón xe rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我马上到上车点。",
+              "id": "s37_1_0010_reply01",
+              "meaning_vi": "Được, tôi sắp đến điểm đón."
+            },
+            {
+              "text": "上车点旁边有没有停车区标志？",
+              "id": "s37_1_0010_reply02",
+              "meaning_vi": "Gần điểm đón có biển khu vực dừng xe không?"
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "wǒ zài zhǐ dìng shàng chē diǎn",
+          "mistakes": [
+            {
+              "text": "“指定”意味着App或场站要求的特定位置，不是任意路边；如果司机不在同一位置，应核实标志编号。",
+              "text_vi": "“Điểm đón chỉ định” là vị trí được ứng dụng hoặc bến quy định, không phải chỗ ven đường bất kỳ."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tôi đang ở điểm đón quy định."
+        },
+        {
+          "id": "s37_1_0011",
+          "level": "must",
+          "text": "我在路口等你。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我往路口开。",
+              "id": "s37_1_0011_reply01",
+              "meaning_vi": "Được, tôi đang lái về phía ngã rẽ."
+            },
+            {
+              "text": "那里能安全停车吗？",
+              "id": "s37_1_0011_reply02",
+              "meaning_vi": "Ở đó có dừng xe an toàn được không?"
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "wǒ zài lù kǒu děng nǐ",
+          "mistakes": [
+            {
+              "text": "“路口”是道路交汇处，不等于路中央；等车要站在人行道或允许候车的安全位置。",
+              "text_vi": "Đứng đợi gần ngã rẽ phải ở vỉa hè hay chỗ an toàn, không đứng giữa đường."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tôi đợi bạn ở gần ngã rẽ."
+        },
+        {
+          "id": "s37_1_0012",
+          "level": "listen",
+          "text": "请到指定上车点。",
+          "alternatives": [
+            {
+              "text": "请到App显示的上车位置。",
+              "id": "s37_1_0012_alt01",
+              "meaning_vi": "Vui lòng tới vị trí đón hiển thị trên ứng dụng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我现在过去。",
+              "id": "s37_1_0012_reply01",
+              "meaning_vi": "Được, tôi tới ngay."
+            },
+            {
+              "text": "上车点远吗？",
+              "id": "s37_1_0012_reply02",
+              "meaning_vi": "Điểm đón có xa không?"
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "qǐng dào zhǐ dìng shàng chē diǎn",
+          "mistakes": [
+            {
+              "text": "“请到”是礼貌地要求到某处；“上车点”与下车目的地不同，不要要求司机在禁停路段接人。",
+              "text_vi": "“Vui lòng tới” là yêu cầu lịch sự; điểm đón khác điểm đến và phải là nơi dừng xe hợp lệ."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Vui lòng đến điểm đón đã chỉ định."
+        },
+        {
+          "id": "s37_1_0013",
+          "level": "listen",
+          "text": "不能在这里停车。",
+          "alternatives": [
+            {
+              "text": "这里不让停。",
+              "id": "s37_1_0013_alt01",
+              "meaning_vi": "Chỗ này cấm dừng xe."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我去前面的上车点。",
+              "id": "s37_1_0013_reply01",
+              "meaning_vi": "Vậy tôi tới điểm đón phía trước."
+            },
+            {
+              "text": "我去前面可以停车的位置等。",
+              "id": "s37_1_0013_reply02",
+              "meaning_vi": "Tôi đợi ở chỗ phía trước được phép dừng xe."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "bù néng zài zhè li tíng chē",
+          "mistakes": [
+            {
+              "text": "“不能在这里停车”可因禁停标志、道路安全或场站管理；不是司机不想接单，应该找合法停车点。",
+              "text_vi": "Cấm dừng do luật, an toàn hoặc quy định bến; cần tìm điểm dừng hợp pháp."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Không được dừng xe ở đây."
+        },
+        {
+          "id": "s37_1_0014",
+          "level": "listen",
+          "text": "我开双闪。",
+          "alternatives": [
+            {
+              "text": "我把双闪打开了。",
+              "id": "s37_1_0014_alt01",
+              "meaning_vi": "Tôi đã bật đèn cảnh báo hai bên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我找开双闪的车。",
+              "id": "s37_1_0014_reply01",
+              "meaning_vi": "Được, tôi sẽ tìm xe đang bật đèn cảnh báo."
+            },
+            {
+              "text": "车牌尾号是多少？",
+              "id": "s37_1_0014_reply02",
+              "meaning_vi": "Bốn số cuối biển số là gì?"
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "wǒ kāi shuāng shǎn",
+          "mistakes": [
+            {
+              "text": "“双闪”是车辆两侧转向灯同时闪烁，用于辨认车辆时还须核对车牌；开双闪并不使禁停位置变成合法停车点。",
+              "text_vi": "“双闪” là đèn cảnh báo hai bên cùng nháy. Vẫn phải kiểm tra biển số; bật đèn không cho phép dừng ở nơi cấm."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tôi bật đèn cảnh báo khẩn cấp nhé."
+        },
+        {
+          "id": "s37_1_0015",
+          "level": "listen",
+          "text": "我在马路对面。",
+          "alternatives": [
+            {
+              "text": "车在路对面。",
+              "id": "s37_1_0015_alt01",
+              "meaning_vi": "Xe ở phía đối diện đường."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去找安全的过街位置。",
+              "id": "s37_1_0015_reply01",
+              "meaning_vi": "Được, tôi tìm chỗ sang đường an toàn."
+            },
+            {
+              "text": "我看见对面的车了。",
+              "id": "s37_1_0015_reply02",
+              "meaning_vi": "Tôi nhìn thấy xe bên kia rồi."
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "wǒ zài mǎ lù duì miàn",
+          "mistakes": [
+            {
+              "text": "“马路对面”是跨过道路的另一侧，不等于旁边一辆车；过街须走合法过街处。",
+              "text_vi": "Bên kia đường là phía đối diện, sang đường ở nơi được phép."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Tôi ở bên kia đường."
+        },
+        {
+          "id": "s37_1_0016",
+          "level": "listen",
+          "text": "请往前走一点。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我往前走一点。",
+              "id": "s37_1_0016_reply01",
+              "meaning_vi": "Được, tôi đi lên chút."
+            },
+            {
+              "text": "走到路口可以吗？",
+              "id": "s37_1_0016_reply02",
+              "meaning_vi": "Đi tới ngã rẽ được không?"
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "qǐng wǎng qián zǒu yì diǎn",
+          "mistakes": [
+            {
+              "text": "“往前走一点”是按你当前面朝的方向前行一小段，不是让车随便前开；路边行走仍要注意车辆。",
+              "text_vi": "“Đi lên phía trước chút” chỉ di chuyển theo hướng mình đang đối mặt, không khuyến khích đi giữa dòng xe."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Phiền bạn đi lên phía trước một chút."
+        },
+        {
+          "id": "s37_1_0017",
+          "level": "listen",
+          "text": "车牌尾号是六七八九。",
+          "alternatives": [
+            {
+              "text": "车牌后四位是六七八九。",
+              "id": "s37_1_0017_alt01",
+              "meaning_vi": "Bốn chữ số cuối biển xe là 6789."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我先核对完整车牌。",
+              "id": "s37_1_0017_reply01",
+              "meaning_vi": "Vâng, tôi kiểm tra cả biển số trước."
+            },
+            {
+              "text": "找到了，是这辆车吗？",
+              "id": "s37_1_0017_reply02",
+              "meaning_vi": "Tìm thấy rồi, có phải xe này không?"
+            }
+          ],
+          "lesson_id": "37.1",
+          "lesson_title": "37.1 叫车定位",
+          "pinyin": "chē pái wěi hào shì liù qī bā jiǔ",
+          "mistakes": [
+            {
+              "text": "“六七八九”在报号码时一个数字一个数字念，不读作整数“六千七百八十九”；车牌尾号不能替代完整核对。",
+              "text_vi": "Khi đọc biển số “六七八九” đọc từng số 6-7-8-9, không đọc như số 6789; vẫn kiểm tra đầy đủ biển."
+            }
+          ],
+          "lesson_title_vi": "37.1 Gọi xe và xác định điểm đón",
+          "meaning_vi": "Bốn số cuối biển số là 6789."
+        }
+      ],
+      "opening": "练习用网约车App叫车、确认接驾点、车辆和司机位置；叫车成功不等于司机已经到达，指定接人点须允许停车。",
+      "subtitle": "17张实用口语卡 · 11必说 + 6必听",
+      "title_vi": "37.1 Gọi xe và xác định điểm đón",
+      "opening_vi": "Luyện đặt xe qua ứng dụng, tìm điểm đón và vị trí tài xế, đối chiếu xe. Đặt thành công chưa có nghĩa tài xế đã tới, phải đón ở chỗ được dừng xe.",
+      "subtitle_vi": "17 thẻ giao tiếp"
+    },
+    {
+      "id": "37.2",
+      "title": "37.2 上车确认",
+      "phrases": [
+        {
+          "id": "s37_2_0001",
+          "level": "must",
+          "text": "师傅，是去火车站吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，去火车站。",
+              "id": "s37_2_0001_reply01",
+              "meaning_vi": "Đúng, đi ga tàu hỏa."
+            },
+            {
+              "text": "火车站有几个入口，你去哪个？",
+              "id": "s37_2_0001_reply02",
+              "meaning_vi": "Ga tàu hỏa có mấy lối vào, bạn đến cửa nào?"
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "shī fu shì qù huǒ chē zhàn ma",
+          "mistakes": [
+            {
+              "text": "“师傅”在大陆普通话称呼司机时常读shīfu，第二字轻声，是礼貌称呼；但只核对目的地还不够，上车前仍须核对车牌和订单。",
+              "text_vi": "“师傅” là cách gọi tài xế lịch sự trong tiếng Trung, đọc shīfu (âm thứ hai nhẹ); ngoài điểm đến vẫn phải kiểm tra đơn và biển số."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Anh tài xế ơi, xe đi ga tàu hỏa phải không?"
+        },
+        {
+          "id": "s37_2_0002",
+          "level": "must",
+          "text": "这是我叫的车吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，你再核对一下车牌。",
+              "id": "s37_2_0002_reply01",
+              "meaning_vi": "Đúng, bạn kiểm tra lại biển số nhé."
+            },
+            {
+              "text": "不是，你叫的车在后面。",
+              "id": "s37_2_0002_reply02",
+              "meaning_vi": "Không phải, xe bạn đặt ở phía sau."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "zhè shì wǒ jiào de chē ma",
+          "mistakes": [
+            {
+              "text": "不能只凭车型或司机口头答复判断车辆是否匹配。上车前核对App显示的完整车牌、车型及订单信息。",
+              "text_vi": "Đừng chỉ dựa vào mẫu xe hoặc tài xế nói đúng; đối chiếu biển số đầy đủ, loại xe và đơn trước khi lên."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Có phải xe tôi đặt không?"
+        },
+        {
+          "id": "s37_2_0003",
+          "level": "must",
+          "text": "手机尾号是幺二三四。",
+          "alternatives": [
+            {
+              "text": "手机号后四位是幺二三四。",
+              "id": "s37_2_0003_alt01",
+              "meaning_vi": "Bốn chữ số cuối số điện thoại là 1234."
+            }
+          ],
+          "replies": [
+            {
+              "text": "尾号对上了，是这个订单。",
+              "id": "s37_2_0003_reply01",
+              "meaning_vi": "Khớp rồi, đúng đơn này."
+            },
+            {
+              "text": "还要核对车牌号吗？",
+              "id": "s37_2_0003_reply02",
+              "meaning_vi": "Có cần kiểm tra biển số nữa không?"
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "shǒu jī wěi hào shì yāo èr sān sì",
+          "mistakes": [
+            {
+              "text": "电话、编号里的“幺”常读yāo，表示数字1；不是“妖怪”的意思，且报尾号通常不需要泄露整个手机号。",
+              "text_vi": "Trong chuỗi số điện thoại, “幺” đọc yāo để chỉ số 1; không cần đọc toàn bộ số điện thoại khi được hỏi bốn số cuối."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Bốn số cuối điện thoại là 1234."
+        },
+        {
+          "id": "s37_2_0004",
+          "level": "must",
+          "text": "目的地没错吧？",
+          "alternatives": [
+            {
+              "text": "目的地是这个地址，对吗？",
+              "id": "s37_2_0004_alt01",
+              "meaning_vi": "Địa chỉ điểm đến là đây, đúng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，目的地是火车站。",
+              "id": "s37_2_0004_reply01",
+              "meaning_vi": "Đúng, điểm đến là ga tàu hỏa."
+            },
+            {
+              "text": "不对，应该去汽车站。",
+              "id": "s37_2_0004_reply02",
+              "meaning_vi": "Không, phải là bến xe khách."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "mù dì dì méi cuò ba",
+          "mistakes": [
+            {
+              "text": "“没错吧”是期待确认的问法，但对方也可以说“不对”；目的地如果确实错误，要先在订单里按规则更改。",
+              "text_vi": "“没错吧” là hỏi để xác nhận; nếu điểm đến sai cần sửa trong ứng dụng, không mặc định câu trả lời là đúng."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Điểm đến đúng rồi chứ?"
+        },
+        {
+          "id": "s37_2_0005",
+          "level": "must",
+          "text": "后备箱能放行李吗？",
+          "alternatives": [
+            {
+              "text": "后备箱放得下行李吗？",
+              "id": "s37_2_0005_alt01",
+              "meaning_vi": "Cốp xe có đủ chỗ để hành lý không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，放后备箱吧。",
+              "id": "s37_2_0005_reply01",
+              "meaning_vi": "Được, để vào cốp nhé."
+            },
+            {
+              "text": "可以，我帮你打开后备箱。",
+              "id": "s37_2_0005_reply02",
+              "meaning_vi": "Được, tôi mở cốp giúp bạn."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "hòu bèi xiāng néng fàng xíng lǐ ma",
+          "mistakes": [
+            {
+              "text": "“后备箱”是汽车储物厢，不是车内后排座位；贵重物品和证件最好随身保管。",
+              "text_vi": "“后备箱” là cốp xe, khác ghế sau; giấy tờ và đồ có giá trị nên mang theo."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Có thể để hành lý trong cốp xe không?"
+        },
+        {
+          "id": "s37_2_0006",
+          "level": "must",
+          "text": "可以出发了。",
+          "alternatives": [
+            {
+              "text": "我准备好了，可以走了。",
+              "id": "s37_2_0006_alt01",
+              "meaning_vi": "Tôi sẵn sàng rồi, mình đi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我们出发。",
+              "id": "s37_2_0006_reply01",
+              "meaning_vi": "Được, chúng ta đi thôi."
+            },
+            {
+              "text": "好，麻烦先系好安全带。",
+              "id": "s37_2_0006_reply02",
+              "meaning_vi": "Được, vui lòng thắt dây an toàn trước."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "kě yǐ chū fā le",
+          "mistakes": [
+            {
+              "text": "“可以出发了”是乘客表示已准备好，不等于要求司机立刻冒险起步；仍要系安全带并确认车门关好。",
+              "text_vi": "“Có thể đi rồi” nghĩa hành khách sẵn sàng, vẫn phải đóng cửa và thắt dây an toàn trước."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Có thể khởi hành rồi."
+        },
+        {
+          "id": "s37_2_0007",
+          "level": "must",
+          "text": "师傅，是这个订单吗？",
+          "alternatives": [
+            {
+              "text": "您接的是这笔订单吗？",
+              "id": "s37_2_0007_alt01",
+              "meaning_vi": "Anh nhận chuyến này đúng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，是这个订单。",
+              "id": "s37_2_0007_reply01",
+              "meaning_vi": "Đúng, là chuyến này."
+            },
+            {
+              "text": "不是这单，你先核对一下车牌。",
+              "id": "s37_2_0007_reply02",
+              "meaning_vi": "Không phải chuyến này, bạn kiểm tra biển số trước."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "shī fu shì zhè ge dìng dān ma",
+          "mistakes": [
+            {
+              "text": "“这个订单”指当前网约车App上的叫车订单；它不是外卖或购物订单，此处司机要核对乘客信息。",
+              "text_vi": "“Đơn này” là chuyến xe đang đặt, không phải đơn mua hàng hay giao đồ ăn."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Anh tài xế ơi, có đúng đơn này không?"
+        },
+        {
+          "id": "s37_2_0008",
+          "level": "must",
+          "text": "车牌号对吗？",
+          "alternatives": [
+            {
+              "text": "请核对一下车牌号。",
+              "id": "s37_2_0008_alt01",
+              "meaning_vi": "Vui lòng kiểm tra lại biển số."
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，车牌号和订单一致。",
+              "id": "s37_2_0008_reply01",
+              "meaning_vi": "Đúng, biển số khớp với đơn."
+            },
+            {
+              "text": "号码不一致，先不要上车。",
+              "id": "s37_2_0008_reply02",
+              "meaning_vi": "Biển số không khớp thì đừng lên xe."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "chē pái hào duì ma",
+          "mistakes": [
+            {
+              "text": "“车牌号对吗”重点是核对汽车登记标识；若与App不符，不要只凭司机口头确认就忽略差异。",
+              "text_vi": "Biển số không khớp với ứng dụng thì đừng lên xe chỉ vì tài xế bảo đúng."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Biển số xe có đúng không?"
+        },
+        {
+          "id": "s37_2_0009",
+          "level": "must",
+          "text": "行李要放后备箱吗？",
+          "alternatives": [
+            {
+              "text": "大件行李要放后面吗？",
+              "id": "s37_2_0009_alt01",
+              "meaning_vi": "Hành lý lớn có phải để phía sau không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "大件行李放后备箱吧。",
+              "id": "s37_2_0009_reply01",
+              "meaning_vi": "Hành lý lớn cho vào cốp nhé."
+            },
+            {
+              "text": "小件行李可以随身拿着。",
+              "id": "s37_2_0009_reply02",
+              "meaning_vi": "Đồ nhỏ có thể mang theo bên người."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "xíng lǐ yào fàng hòu bèi xiāng ma",
+          "mistakes": [
+            {
+              "text": "“要放……吗”是询问需不需要，不是请求“能放得下吗”；小件随身物品与大件行李可分别处理。",
+              "text_vi": "Hỏi có cần cho hành lý vào cốp, khác hỏi cốp có đủ chỗ không; đồ nhỏ có thể mang theo người."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Hành lý có cần để trong cốp không?"
+        },
+        {
+          "id": "s37_2_0010",
+          "level": "must",
+          "text": "麻烦确认一下目的地。",
+          "alternatives": [
+            {
+              "text": "请再核对一下终点。",
+              "id": "s37_2_0010_alt01",
+              "meaning_vi": "Vui lòng kiểm tra lại điểm cuối."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，目的地是火车站。",
+              "id": "s37_2_0010_reply01",
+              "meaning_vi": "Vâng, điểm đến là ga tàu hỏa."
+            },
+            {
+              "text": "目的地应该是火车站东广场，对吗？",
+              "id": "s37_2_0010_reply02",
+              "meaning_vi": "Phải tới quảng trường phía Đông ga tàu hỏa, đúng không?"
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "má fan què rèn yí xià mù dì dì",
+          "mistakes": [
+            {
+              "text": "“麻烦……一下”是礼貌请求，不是说事情真的很麻烦；“确认目的地”是核对终点而不是更改终点。",
+              "text_vi": "“麻烦……一下” là cách nhờ lịch sự; xác nhận điểm đến khác việc đổi điểm đến."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Phiền xác nhận lại điểm đến."
+        },
+        {
+          "id": "s37_2_0011",
+          "level": "listen",
+          "text": "对，是这个订单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我上车了。",
+              "id": "s37_2_0011_reply01",
+              "meaning_vi": "Được, vậy tôi lên xe nhé."
+            },
+            {
+              "text": "我先把行李放好再上车。",
+              "id": "s37_2_0011_reply02",
+              "meaning_vi": "Để tôi cất hành lý rồi lên xe."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "duì shì zhè ge dìng dān",
+          "mistakes": [
+            {
+              "text": "“对”是确认，“这个订单”指当前行程；即使订单一致，上车后也应系好安全带。",
+              "text_vi": "Tài xế xác nhận đơn đúng vẫn phải thắt dây an toàn khi lên xe."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Đúng, là chuyến này."
+        },
+        {
+          "id": "s37_2_0012",
+          "level": "listen",
+          "text": "麻烦系安全带。",
+          "alternatives": [
+            {
+              "text": "请把安全带系好。",
+              "id": "s37_2_0012_alt01",
+              "meaning_vi": "Nhớ thắt dây an toàn nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我把安全带系好。",
+              "id": "s37_2_0012_reply01",
+              "meaning_vi": "Vâng, tôi thắt dây an toàn."
+            },
+            {
+              "text": "系好了，可以出发了。",
+              "id": "s37_2_0012_reply02",
+              "meaning_vi": "Thắt rồi, xuất phát được rồi."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "má fan jì ān quán dài",
+          "mistakes": [
+            {
+              "text": "“系”在“系安全带”中读jì还是xì？在现代普通话此处读jì（系上、系好），不是系数的xì；需把词义和读音一起记。",
+              "text_vi": "“系安全带” nghĩa là thắt dây an toàn; “系” trong cách nói này đọc jì, không phải xì."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Vui lòng thắt dây an toàn."
+        },
+        {
+          "id": "s37_2_0013",
+          "level": "listen",
+          "text": "目的地是火车站，对吧？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，是火车站。",
+              "id": "s37_2_0013_reply01",
+              "meaning_vi": "Đúng, là ga tàu hỏa."
+            },
+            {
+              "text": "不是，我要去汽车站。",
+              "id": "s37_2_0013_reply02",
+              "meaning_vi": "Không, tôi muốn tới bến xe khách."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "mù dì dì shì huǒ chē zhàn duì ba",
+          "mistakes": [
+            {
+              "text": "“对吧”用于向对方确认自己所说的信息，不是要求一定回答“对”；地址不对要及时说明。",
+              "text_vi": "“对吧” là nhờ xác nhận, không buộc đối phương phải trả lời có; điểm đến sai cần nói ngay."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Điểm đến là ga tàu hỏa, đúng chứ?"
+        },
+        {
+          "id": "s37_2_0014",
+          "level": "listen",
+          "text": "请确认手机尾号。",
+          "alternatives": [
+            {
+              "text": "麻烦核对手机末四位。",
+              "id": "s37_2_0014_alt01",
+              "meaning_vi": "Phiền kiểm tra bốn số cuối điện thoại."
+            }
+          ],
+          "replies": [
+            {
+              "text": "尾号是幺二三四。",
+              "id": "s37_2_0014_reply01",
+              "meaning_vi": "Bốn số cuối là 1234."
+            },
+            {
+              "text": "好，我报一下后四位。",
+              "id": "s37_2_0014_reply02",
+              "meaning_vi": "Được, tôi đọc bốn số cuối."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "qǐng què rèn shǒu jī wěi hào",
+          "mistakes": [
+            {
+              "text": "“尾号”是号码末尾的几位；“请确认”可能是请你报出数字，不要只回答“对”却不提供被要求的末位数字。",
+              "text_vi": "“尾号” chỉ vài chữ số cuối; nếu được yêu cầu đọc số thì đọc rõ, không chỉ nói “đúng”."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Vui lòng xác nhận các số cuối điện thoại."
+        },
+        {
+          "id": "s37_2_0015",
+          "level": "listen",
+          "text": "这不是你的订单。",
+          "alternatives": [
+            {
+              "text": "这单不是你的。",
+              "id": "s37_2_0015_alt01",
+              "meaning_vi": "Chuyến này không phải của bạn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我再核对一下车牌。",
+              "id": "s37_2_0015_reply01",
+              "meaning_vi": "Được, tôi kiểm tra lại biển số."
+            },
+            {
+              "text": "知道了，我去找自己的车。",
+              "id": "s37_2_0015_reply02",
+              "meaning_vi": "Hiểu rồi, tôi đi tìm xe mình đặt."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "zhè bú shì nǐ de dìng dān",
+          "mistakes": [
+            {
+              "text": "“这不是你的订单”表示当前司机的行程和乘客订单不匹配，不代表自己的叫车订单已取消；应重新核对车辆，不要上错车。",
+              "text_vi": "Đơn không khớp không có nghĩa chuyến đã bị hủy; phải tìm lại đúng xe, không lên nhầm."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Đây không phải chuyến xe của bạn."
+        },
+        {
+          "id": "s37_2_0016",
+          "level": "listen",
+          "text": "上车后关好车门。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我把车门关好。",
+              "id": "s37_2_0016_reply01",
+              "meaning_vi": "Được, tôi sẽ đóng cửa cẩn thận."
+            },
+            {
+              "text": "车门关好了，可以出发。",
+              "id": "s37_2_0016_reply02",
+              "meaning_vi": "Đã đóng cửa, có thể xuất phát."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "shàng chē hòu guān hǎo chē mén",
+          "mistakes": [
+            {
+              "text": "“关好”是关严、确认已经关牢，不只是随手碰一下车门；仍需坐稳系安全带。",
+              "text_vi": "“关好” là đóng cửa chắc chắn, không chỉ khép hờ; ngồi vững rồi thắt dây."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Lên xe rồi nhớ đóng cửa kỹ."
+        },
+        {
+          "id": "s37_2_0017",
+          "level": "listen",
+          "text": "我按导航走。",
+          "alternatives": [
+            {
+              "text": "我照着导航开。",
+              "id": "s37_2_0017_alt01",
+              "meaning_vi": "Tôi sẽ chạy theo ứng dụng dẫn đường."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，按导航走就行。",
+              "id": "s37_2_0017_reply01",
+              "meaning_vi": "Được, cứ theo bản đồ nhé."
+            },
+            {
+              "text": "路口前面有施工，请注意标志。",
+              "id": "s37_2_0017_reply02",
+              "meaning_vi": "Phía trước ngã rẽ đang thi công, nhớ chú ý biển báo."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "wǒ àn dǎo háng zǒu",
+          "mistakes": [
+            {
+              "text": "“按导航走”是参考导航路线，不是忽视道路实际封闭、限行或安全标志；实际驾驶应遵守交通规则。",
+              "text_vi": "Đi theo bản đồ vẫn phải tuân thủ biển báo, đường cấm và an toàn thực tế."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Tôi lái theo chỉ dẫn bản đồ."
+        },
+        {
+          "id": "s37_2_0018",
+          "level": "listen",
+          "text": "行李放后备箱吧。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我把行李放进去。",
+              "id": "s37_2_0018_reply01",
+              "meaning_vi": "Được, tôi cho hành lý vào."
+            },
+            {
+              "text": "证件和贵重物品我随身拿着。",
+              "id": "s37_2_0018_reply02",
+              "meaning_vi": "Giấy tờ và đồ quý tôi sẽ mang theo."
+            }
+          ],
+          "lesson_id": "37.2",
+          "lesson_title": "37.2 上车确认",
+          "pinyin": "xíng lǐ fàng hòu bèi xiāng ba",
+          "mistakes": [
+            {
+              "text": "“吧”在这里使建议语气更柔和，不是命令；后备箱是否有空间、物品能否放入须现场确认。",
+              "text_vi": "“吧” làm lời đề nghị nhẹ hơn; kiểm tra cốp đủ chỗ trước khi cho hành lý vào."
+            }
+          ],
+          "lesson_title_vi": "37.2 Xác nhận trước khi lên xe",
+          "meaning_vi": "Để hành lý vào cốp nhé."
+        }
+      ],
+      "opening": "练习与司机核对车牌、订单、目的地、手机号尾号及后备箱行李；不匹配的车不要上，系好安全带再出发。",
+      "subtitle": "18张实用口语卡 · 10必说 + 8必听",
+      "title_vi": "37.2 Xác nhận trước khi lên xe",
+      "opening_vi": "Kiểm tra biển số, đơn đặt xe, điểm đến, số cuối điện thoại và cốp hành lý. Không lên xe không khớp thông tin, nhớ thắt dây an toàn.",
+      "subtitle_vi": "18 thẻ giao tiếp"
+    },
+    {
+      "id": "37.3",
+      "title": "37.3 路线目的地",
+      "phrases": [
+        {
+          "id": "s37_3_0001",
+          "level": "must",
+          "text": "按导航走就行。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我按导航走。",
+              "id": "s37_3_0001_reply01",
+              "meaning_vi": "Được, tôi đi theo bản đồ."
+            },
+            {
+              "text": "如果前面封路，麻烦提前告诉我。",
+              "id": "s37_3_0001_reply02",
+              "meaning_vi": "Nếu phía trước đóng đường thì báo tôi trước nhé."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "àn dǎo háng zǒu jiù xíng",
+          "mistakes": [
+            {
+              "text": "“按导航走”是沿地图建议路线走，不等于不看道路标志；“就行”表示这样就可以，不是让司机违规行驶。",
+              "text_vi": "Theo chỉ dẫn không phải bỏ qua biển giao thông; “就行” là như thế được, không phải đi sai luật."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Cứ đi theo bản đồ là được."
+        },
+        {
+          "id": "s37_3_0002",
+          "level": "must",
+          "text": "可以走快一点的路吗？",
+          "alternatives": [
+            {
+              "text": "有没有更快一点的路线？",
+              "id": "s37_3_0002_alt01",
+              "meaning_vi": "Có đường nào đi nhanh hơn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我看一下哪条路更快。",
+              "id": "s37_3_0002_reply01",
+              "meaning_vi": "Được, để tôi xem đường nào nhanh hơn."
+            },
+            {
+              "text": "现在这条路线最快，还是按导航走吧。",
+              "id": "s37_3_0002_reply02",
+              "meaning_vi": "Đường này hiện nhanh nhất, cứ theo bản đồ nhé."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "kě yǐ zǒu kuài yì diǎn de lù ma",
+          "mistakes": [
+            {
+              "text": "“快一点的路”是想找更省时间的路线，并不是要求司机超速或违反交通规则；若新路线增加高速费应先问清。",
+              "text_vi": "“Đường nhanh hơn” hỏi tuyến tiết kiệm thời gian, không đòi chạy quá tốc độ; hỏi thêm phí cao tốc nếu có."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Có thể chọn tuyến đường nhanh hơn không?"
+        },
+        {
+          "id": "s37_3_0003",
+          "level": "must",
+          "text": "前面堵吗？",
+          "alternatives": [
+            {
+              "text": "前面堵不堵车？",
+              "id": "s37_3_0003_alt01",
+              "meaning_vi": "Phía trước có kẹt xe không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有点堵，可能会慢一些。",
+              "id": "s37_3_0003_reply01",
+              "meaning_vi": "Hơi kẹt, có thể đi chậm hơn."
+            },
+            {
+              "text": "现在还好，不太堵。",
+              "id": "s37_3_0003_reply02",
+              "meaning_vi": "Hiện còn ổn, không kẹt lắm."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "qián miàn dǔ ma",
+          "mistakes": [
+            {
+              "text": "“前面堵吗”问前方路段是否拥堵，不是问路被彻底封死；“堵车”和“封路”有区别。",
+              "text_vi": "“堵车” là kẹt xe, khác đường bị đóng hoàn toàn."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Đường phía trước có kẹt xe không?"
+        },
+        {
+          "id": "s37_3_0004",
+          "level": "must",
+          "text": "不用走高速。",
+          "alternatives": [
+            {
+              "text": "别走高速了。",
+              "id": "s37_3_0004_alt01",
+              "meaning_vi": "Đừng đi cao tốc nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，不走高速。",
+              "id": "s37_3_0004_reply01",
+              "meaning_vi": "Được, không đi cao tốc."
+            },
+            {
+              "text": "好，我走普通路。",
+              "id": "s37_3_0004_reply02",
+              "meaning_vi": "Vâng, tôi đi đường thường."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "bú yòng zǒu gāo sù",
+          "mistakes": [
+            {
+              "text": "“不用走高速”是表达不必选高速路线，不代表普通道路一定更快；可先确认车费和道路合法性。",
+              "text_vi": "Không đi cao tốc chưa chắc đi đường thường nhanh hơn; nên hỏi lộ trình và cước."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Không cần đi cao tốc."
+        },
+        {
+          "id": "s37_3_0005",
+          "level": "must",
+          "text": "到东门就行。",
+          "alternatives": [
+            {
+              "text": "送到东门就可以。",
+              "id": "s37_3_0005_alt01",
+              "meaning_vi": "Đưa tôi tới cổng Đông là được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，到东门附近我找地方停。",
+              "id": "s37_3_0005_reply01",
+              "meaning_vi": "Được, gần cổng Đông tôi sẽ tìm chỗ dừng."
+            },
+            {
+              "text": "好，到东门附近我先看能不能停车。",
+              "id": "s37_3_0005_reply02",
+              "meaning_vi": "Được, tới gần đó tôi xem có được dừng không."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "dào dōng mén jiù xíng",
+          "mistakes": [
+            {
+              "text": "“到东门就行”是终点位置要求，不表示汽车可以在东门正前方违规停车；“东”是方位东侧。",
+              "text_vi": "Cổng Đông là nơi muốn tới, không có nghĩa được dừng xe ngay trước cổng cấm."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Chỉ cần tới cổng Đông thôi."
+        },
+        {
+          "id": "s37_3_0006",
+          "level": "must",
+          "text": "前面靠边停就行。",
+          "alternatives": [
+            {
+              "text": "前面能停车的地方靠边停。",
+              "id": "s37_3_0006_alt01",
+              "meaning_vi": "Phía trước tìm chỗ được dừng rồi tấp vào lề."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我找安全能停的地方靠边。",
+              "id": "s37_3_0006_reply01",
+              "meaning_vi": "Được, tôi tìm chỗ an toàn để tấp vào."
+            },
+            {
+              "text": "前面不能停，我再往前一点。",
+              "id": "s37_3_0006_reply02",
+              "meaning_vi": "Phía trước cấm dừng, tôi đi thêm một đoạn."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "qián miàn kào biān tíng jiù xíng",
+          "mistakes": [
+            {
+              "text": "“靠边停”是安全驶向道路边缘并停车，绝不是在高速、路口或禁停区马上急刹停车。",
+              "text_vi": "“靠边停” là tấp vào lề và dừng an toàn, không dừng đột ngột ở cao tốc hay đường cấm."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Phía trước tấp vào lề cho tôi xuống nhé."
+        },
+        {
+          "id": "s37_3_0007",
+          "level": "must",
+          "text": "高速费我来付。",
+          "alternatives": [
+            {
+              "text": "过路费我来承担。",
+              "id": "s37_3_0007_alt01",
+              "meaning_vi": "Tôi chịu phí cầu đường."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，如果有高速费，按实际费用结算。",
+              "id": "s37_3_0007_reply01",
+              "meaning_vi": "Được, nếu có phí thì tính theo thực tế."
+            },
+            {
+              "text": "好的，先看看订单有没有包含过路费。",
+              "id": "s37_3_0007_reply02",
+              "meaning_vi": "Vâng, hãy kiểm tra phí đường đã bao gồm trong đơn chưa."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "gāo sù fèi wǒ lái fù",
+          "mistakes": [
+            {
+              "text": "“高速费我来付”是乘客承诺承担通行费，未必现场付现金；先查看行程账单是否已包含，避免同一笔过路费重复支付。",
+              "text_vi": "Người ngồi xe chịu phí cầu đường chưa chắc trả tiền mặt; kiểm tra phí đã có trong hóa đơn để tránh trả hai lần."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Tôi sẽ trả phí cao tốc."
+        },
+        {
+          "id": "s37_3_0008",
+          "level": "must",
+          "text": "走这条路可以吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，这条路现在能走。",
+              "id": "s37_3_0008_reply01",
+              "meaning_vi": "Được, đường này hiện đi được."
+            },
+            {
+              "text": "不行，前面封路了。",
+              "id": "s37_3_0008_reply02",
+              "meaning_vi": "Không, phía trước đang đóng đường."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "zǒu zhè tiáo lù kě yǐ ma",
+          "mistakes": [
+            {
+              "text": "“走这条路可以吗”可表示路线是否允许或是否合适，不等于保证这条路开放；以道路指示和司机判断为准。",
+              "text_vi": "Hỏi có đi đường này được không có thể là hợp lệ hay thuận tiện; vẫn theo biển báo thực tế."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Đi đường này được không?"
+        },
+        {
+          "id": "s37_3_0009",
+          "level": "must",
+          "text": "不用绕路吧？",
+          "alternatives": [
+            {
+              "text": "应该不用绕远吧？",
+              "id": "s37_3_0009_alt01",
+              "meaning_vi": "Chắc không cần đi vòng xa chứ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不绕，按正常路线走。",
+              "id": "s37_3_0009_reply01",
+              "meaning_vi": "Không vòng, cứ đi đường bình thường."
+            },
+            {
+              "text": "前面临时封路，可能需要绕一小段。",
+              "id": "s37_3_0009_reply02",
+              "meaning_vi": "Phía trước tạm đóng đường, có thể phải vòng một đoạn."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "bú yòng rào lù ba",
+          "mistakes": [
+            {
+              "text": "“绕路”是绕开直接路线，可能因交通管制或拥堵而合理；不能仅凭路线比直线远就认定司机故意绕路。",
+              "text_vi": "Đi vòng có thể do đường cấm hoặc kẹt; không phải cứ xa hơn đường thẳng là tài xế cố tình vòng."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Không cần đi đường vòng chứ?"
+        },
+        {
+          "id": "s37_3_0010",
+          "level": "must",
+          "text": "快到的时候告诉我一声。",
+          "alternatives": [
+            {
+              "text": "快到了请提醒我。",
+              "id": "s37_3_0010_alt01",
+              "meaning_vi": "Gần tới thì nhắc tôi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，快到的时候提醒你。",
+              "id": "s37_3_0010_reply01",
+              "meaning_vi": "Được, gần tới tôi sẽ báo."
+            },
+            {
+              "text": "好，大概还有五分钟就到了。",
+              "id": "s37_3_0010_reply02",
+              "meaning_vi": "Vâng, còn khoảng năm phút nữa."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "kuài dào de shí hou gào su wǒ yì shēng",
+          "mistakes": [
+            {
+              "text": "“告诉我一声”是轻声提醒一次的礼貌请求，不是让司机持续报站；“快到”是接近目的地而非已经到达。",
+              "text_vi": "“Báo một tiếng” là nhắc ngắn khi gần đến, không phải báo liên tục; gần tới chưa phải đã tới."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Sắp đến nơi thì báo tôi một tiếng nhé."
+        },
+        {
+          "id": "s37_3_0011",
+          "level": "listen",
+          "text": "这条路堵。",
+          "alternatives": [
+            {
+              "text": "这边有点堵车。",
+              "id": "s37_3_0011_alt01",
+              "meaning_vi": "Đoạn này hơi kẹt xe."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那看看有没有更快的路。",
+              "id": "s37_3_0011_reply01",
+              "meaning_vi": "Vậy thử xem có đường nào nhanh hơn."
+            },
+            {
+              "text": "好，按实际路况走。",
+              "id": "s37_3_0011_reply02",
+              "meaning_vi": "Được, cứ theo tình hình giao thông nhé."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "zhè tiáo lù dǔ",
+          "mistakes": [
+            {
+              "text": "“这条路堵”是说当前路段车多、行车缓慢，不一定封闭；也不表示所有时段都会堵。",
+              "text_vi": "“Đường này kẹt” là hiện chạy chậm, không chắc bị đóng hoặc lúc nào cũng kẹt."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Đường này kẹt xe."
+        },
+        {
+          "id": "s37_3_0012",
+          "level": "listen",
+          "text": "这段高速要收费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "明白了，费用会显示在订单里吗？",
+              "id": "s37_3_0012_reply01",
+              "meaning_vi": "Hiểu rồi, khoản đó có hiện trong hóa đơn chuyến đi không?"
+            },
+            {
+              "text": "不走高速的话，要多花多久？",
+              "id": "s37_3_0012_reply02",
+              "meaning_vi": "Nếu không đi cao tốc thì lâu thêm bao nhiêu?"
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "zhè duàn gāo sù yào shōu fèi",
+          "mistakes": [
+            {
+              "text": "“这段高速”只指当前这一段收费路，不是全部高速路都按相同标准收费；具体费用按实际和订单规则。",
+              "text_vi": "“Đoạn cao tốc này” chỉ đoạn đang nói, không có nghĩa mọi cao tốc cùng mức phí."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Đoạn cao tốc này có thu phí."
+        },
+        {
+          "id": "s37_3_0013",
+          "level": "listen",
+          "text": "前面不能停车。",
+          "alternatives": [
+            {
+              "text": "前面是禁停路段。",
+              "id": "s37_3_0013_alt01",
+              "meaning_vi": "Phía trước là đoạn đường cấm dừng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那往前一点找能停的地方吧。",
+              "id": "s37_3_0013_reply01",
+              "meaning_vi": "Vậy đi lên chút tìm chỗ dừng được nhé."
+            },
+            {
+              "text": "好，能安全停车的地方停。",
+              "id": "s37_3_0013_reply02",
+              "meaning_vi": "Được, chỗ nào dừng an toàn thì dừng."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "qián miàn bù néng tíng chē",
+          "mistakes": [
+            {
+              "text": "“不能停车”针对车辆在该处停靠，不等于乘客不能在附近步行；司机应找合法安全的下车点。",
+              "text_vi": "Không được dừng xe ở đây không cấm hành khách đi bộ gần đó; hãy tìm chỗ xuống hợp pháp."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Phía trước không được dừng xe."
+        },
+        {
+          "id": "s37_3_0014",
+          "level": "listen",
+          "text": "我走另一条路。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，按路况走就行。",
+              "id": "s37_3_0014_reply01",
+              "meaning_vi": "Được, đi theo tình hình giao thông là được."
+            },
+            {
+              "text": "可以，别绕太远。",
+              "id": "s37_3_0014_reply02",
+              "meaning_vi": "Được, nhưng đừng đi vòng quá xa nhé."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "wǒ zǒu lìng yì tiáo lù",
+          "mistakes": [
+            {
+              "text": "“另一条路”是不沿原先路线，和“反方向”回头走并不相同；换路也应遵守道路限制。",
+              "text_vi": "Đi đường khác không có nghĩa đi ngược chiều; vẫn tuân thủ biển cấm."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Tôi sẽ đi đường khác."
+        },
+        {
+          "id": "s37_3_0015",
+          "level": "listen",
+          "text": "导航建议走高速。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "如果更快，可以走高速。",
+              "id": "s37_3_0015_reply01",
+              "meaning_vi": "Nếu nhanh hơn thì đi cao tốc cũng được."
+            },
+            {
+              "text": "走高速会另外收费吗？",
+              "id": "s37_3_0015_reply02",
+              "meaning_vi": "Đi cao tốc có phải trả thêm phí không?"
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "dǎo háng jiàn yì zǒu gāo sù",
+          "mistakes": [
+            {
+              "text": "“建议”是推荐不是强制要求；高速可能额外收费，乘客可先询问费用和可替代路线。",
+              "text_vi": "Bản đồ đề xuất cao tốc chứ không ép phải đi; có thể hỏi phí và đường khác."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Bản đồ đề xuất đi cao tốc."
+        },
+        {
+          "id": "s37_3_0016",
+          "level": "listen",
+          "text": "东门进不去。",
+          "alternatives": [
+            {
+              "text": "车不能从东门进去。",
+              "id": "s37_3_0016_alt01",
+              "meaning_vi": "Ô tô không đi vào được từ cổng Đông."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那在附近能停的地方停吧。",
+              "id": "s37_3_0016_reply01",
+              "meaning_vi": "Vậy dừng ở chỗ gần đó được phép dừng."
+            },
+            {
+              "text": "我可以从东门走进去。",
+              "id": "s37_3_0016_reply02",
+              "meaning_vi": "Tôi có thể đi bộ vào từ cổng Đông."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "dōng mén jìn bu qù",
+          "mistakes": [
+            {
+              "text": "“东门进不去”在乘车情境通常是汽车不能驶入东门，不一定行人也不能从东门进入；可找允许下客处。",
+              "text_vi": "Xe không vào được cổng Đông không có nghĩa người đi bộ cũng không được vào; có thể xuống chỗ an toàn gần đó."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Xe không vào được cổng Đông."
+        },
+        {
+          "id": "s37_3_0017",
+          "level": "listen",
+          "text": "到地方我提醒你。",
+          "alternatives": [
+            {
+              "text": "快到了我会提醒你。",
+              "id": "s37_3_0017_alt01",
+              "meaning_vi": "Gần tới tôi sẽ báo bạn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢你提醒我。",
+              "id": "s37_3_0017_reply01",
+              "meaning_vi": "Được, cảm ơn bạn đã nhắc."
+            },
+            {
+              "text": "车停稳了我再下车。",
+              "id": "s37_3_0017_reply02",
+              "meaning_vi": "Xe dừng hẳn rồi tôi mới xuống."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "dào dì fang wǒ tí xǐng nǐ",
+          "mistakes": [
+            {
+              "text": "“到地方”指双方约定的目的地，不是随便某个地方；“我提醒你”表示司机负责发出提醒。",
+              "text_vi": "“Tới nơi” là điểm đến đã thỏa thuận; lời nhắc là tài xế sẽ báo khi gần tới."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Tới nơi tôi sẽ nhắc bạn."
+        },
+        {
+          "id": "s37_3_0018",
+          "level": "listen",
+          "text": "前面正在堵车。",
+          "alternatives": [
+            {
+              "text": "前面现在堵着呢。",
+              "id": "s37_3_0018_alt01",
+              "meaning_vi": "Phía trước hiện bị ùn xe."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那看看能不能换一条路。",
+              "id": "s37_3_0018_reply01",
+              "meaning_vi": "Vậy xem có đổi đường được không."
+            },
+            {
+              "text": "没关系，按导航走吧。",
+              "id": "s37_3_0018_reply02",
+              "meaning_vi": "Không sao, cứ theo bản đồ nhé."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "qián miàn zhèng zài dǔ chē",
+          "mistakes": [
+            {
+              "text": "“正在”强调现在这一刻持续发生，不等于整天都堵；“堵车”与汽车本身故障不同。",
+              "text_vi": "“正在” là đang xảy ra lúc này; kẹt xe khác xe bị hỏng máy."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Phía trước đang kẹt xe."
+        },
+        {
+          "id": "s37_3_0019",
+          "level": "listen",
+          "text": "马上到东门了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，到了能停车的地方再停。",
+              "id": "s37_3_0019_reply01",
+              "meaning_vi": "Được, đến chỗ nào được phép dừng thì dừng."
+            },
+            {
+              "text": "麻烦找个安全的地方停车。",
+              "id": "s37_3_0019_reply02",
+              "meaning_vi": "Phiền tìm chỗ dừng xe an toàn."
+            }
+          ],
+          "lesson_id": "37.3",
+          "lesson_title": "37.3 路线目的地",
+          "pinyin": "mǎ shàng dào dōng mén le",
+          "mistakes": [
+            {
+              "text": "“马上到”在此表示很快将到达，不是已经可以打开车门；要等车辆安全停稳再下车。",
+              "text_vi": "“Sắp đến” chưa phải đã dừng xe, hãy đợi xe đứng yên mới mở cửa."
+            }
+          ],
+          "lesson_title_vi": "37.3 Tuyến đường và điểm đến",
+          "meaning_vi": "Sắp tới cổng Đông rồi."
+        }
+      ],
+      "opening": "练习讨论导航、堵车、高速和过路费、下客位置；“走快一点的路”不是要求超速，过路费先核对账单。",
+      "subtitle": "19张实用口语卡 · 10必说 + 9必听",
+      "title_vi": "37.3 Tuyến đường và điểm đến",
+      "opening_vi": "Trao đổi về đường đi, kẹt xe, cao tốc, phí cầu đường và nơi xuống an toàn. Đường nhanh hơn không có nghĩa chạy quá tốc độ.",
+      "subtitle_vi": "19 thẻ giao tiếp"
+    },
+    {
+      "id": "37.4",
+      "title": "37.4 下车付款遗失",
+      "phrases": [
+        {
+          "id": "s37_4_0001",
+          "level": "must",
+          "text": "这里下就行。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我找个允许停车的地方靠边。",
+              "id": "s37_4_0001_reply01",
+              "meaning_vi": "Được, tôi tìm chỗ được phép dừng rồi tấp vào."
+            },
+            {
+              "text": "前面禁停，我再往前一点停。",
+              "id": "s37_4_0001_reply02",
+              "meaning_vi": "Phía trước cấm dừng, tôi đi thêm một đoạn."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "zhè li xià jiù xíng",
+          "mistakes": [
+            {
+              "text": "“这里下”是希望在这里下车，不代表可以在行驶中开门；车停稳且下车安全时再打开车门。",
+              "text_vi": "Xin xuống ở đây chưa có nghĩa được mở cửa khi xe chạy; chỉ xuống khi xe đã dừng an toàn."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Cho tôi xuống ở đây là được."
+        },
+        {
+          "id": "s37_4_0002",
+          "level": "must",
+          "text": "车费可以开发票吗？",
+          "alternatives": [
+            {
+              "text": "车费能开电子发票吗？",
+              "id": "s37_4_0002_alt01",
+              "meaning_vi": "Có xuất hóa đơn điện tử tiền xe được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "如果平台支持，可以在订单里申请发票。",
+              "id": "s37_4_0002_reply01",
+              "meaning_vi": "Nếu nền tảng hỗ trợ thì có thể yêu cầu trong đơn."
+            },
+            {
+              "text": "电子发票一般从哪儿申请？",
+              "id": "s37_4_0002_reply02",
+              "meaning_vi": "Thường xin hóa đơn điện tử ở đâu?"
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "chē fèi kě yǐ kāi fā piào ma",
+          "mistakes": [
+            {
+              "text": "“发票”在中国是用于记账或报销的正式票据，不完全等于随手给的收据；网约车是否可开取决于平台和订单类型。",
+              "text_vi": "“发票” là chứng từ thuế chính thức của Trung Quốc, khác biên lai thường; việc phát hành tùy nền tảng và loại chuyến."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Có xuất hóa đơn tiền xe được không?"
+        },
+        {
+          "id": "s37_4_0003",
+          "level": "must",
+          "text": "后备箱里还有我的东西。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我把后备箱打开。",
+              "id": "s37_4_0003_reply01",
+              "meaning_vi": "Được, tôi mở cốp nhé."
+            },
+            {
+              "text": "别急，你先检查一下东西。",
+              "id": "s37_4_0003_reply02",
+              "meaning_vi": "Đừng vội, bạn kiểm tra đồ đạc trước đi."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "hòu bèi xiāng lǐ hái yǒu wǒ de dōng xi",
+          "mistakes": [
+            {
+              "text": "“还有我的东西”表示自己的物品仍在里面，不是说要往里面再放物品；先取齐再请司机关箱。",
+              "text_vi": "“Vẫn còn đồ của tôi” là đồ chưa lấy trong cốp, không phải muốn bỏ thêm đồ vào."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Trong cốp vẫn còn đồ của tôi."
+        },
+        {
+          "id": "s37_4_0004",
+          "level": "must",
+          "text": "我手机落车上了。",
+          "alternatives": [
+            {
+              "text": "我把手机忘在车里了。",
+              "id": "s37_4_0004_alt01",
+              "meaning_vi": "Tôi bỏ quên điện thoại trong xe rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先借个电话联系平台客服，说明行程信息。",
+              "id": "s37_4_0004_reply01",
+              "meaning_vi": "Mượn điện thoại gọi hỗ trợ của nền tảng và nói thông tin chuyến đi trước nhé."
+            },
+            {
+              "text": "也可以请朋友帮你联系司机。",
+              "id": "s37_4_0004_reply02",
+              "meaning_vi": "Bạn cũng có thể nhờ bạn bè liên hệ tài xế."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "wǒ shǒu jī là chē shang le",
+          "mistakes": [
+            {
+              "text": "手机丢在车上时，不能假定乘客还能用这部手机打开订单；可借电话或其他设备，通过平台官方客服、行程记录联系司机，谨防假冒寻物收费。",
+              "text_vi": "Mất điện thoại trong xe thì mượn máy khác để liên hệ hỗ trợ chính thức hoặc tra chuyến; cẩn thận yêu cầu chuyển tiền tìm đồ giả mạo."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Tôi để quên điện thoại trên xe."
+        },
+        {
+          "id": "s37_4_0005",
+          "level": "must",
+          "text": "后备箱帮我开一下。",
+          "alternatives": [
+            {
+              "text": "麻烦打开一下后备箱。",
+              "id": "s37_4_0005_alt01",
+              "meaning_vi": "Phiền mở cốp xe giúp tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我帮你打开。",
+              "id": "s37_4_0005_reply01",
+              "meaning_vi": "Được, tôi mở cho bạn."
+            },
+            {
+              "text": "已经打开了，你拿行李吧。",
+              "id": "s37_4_0005_reply02",
+              "meaning_vi": "Mở rồi, bạn lấy hành lý nhé."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "hòu bèi xiāng bāng wǒ kāi yí xià",
+          "mistakes": [
+            {
+              "text": "“帮我……一下”是礼貌请求帮忙，不一定要求司机搬行李；“后备箱”不是后排车门。",
+              "text_vi": "Nhờ mở cốp không có nghĩa nhờ tài xế xách hộ đồ; cốp khác cửa ghế sau."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Mở cốp giúp tôi với."
+        },
+        {
+          "id": "s37_4_0006",
+          "level": "must",
+          "text": "我把包落在后座了。",
+          "alternatives": [
+            {
+              "text": "包忘在车后座了。",
+              "id": "s37_4_0006_alt01",
+              "meaning_vi": "Túi của tôi bị bỏ quên trên ghế sau."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先在订单里找联系司机或遗失物品的入口。",
+              "id": "s37_4_0006_reply01",
+              "meaning_vi": "Vào đơn tìm mục liên hệ tài xế hoặc báo đồ thất lạc trước."
+            },
+            {
+              "text": "先记下行程时间和车牌，再联系客服。",
+              "id": "s37_4_0006_reply02",
+              "meaning_vi": "Ghi lại giờ đi và biển số rồi liên hệ hỗ trợ."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "wǒ bǎ bāo là zài hòu zuò le",
+          "mistakes": [
+            {
+              "text": "“落在后座”表示把包忘在汽车后排座位上，此义“落”读là（不是luò）；“后座”与后备箱是两个不同位置，申报失物时要说清楚。",
+              "text_vi": "“落” ở đây đọc là là, nghĩa bỏ quên; ghế sau khác cốp, khi báo mất phải nêu đúng vị trí."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Tôi để quên túi ở ghế sau."
+        },
+        {
+          "id": "s37_4_0007",
+          "level": "must",
+          "text": "车费是自动扣的吗？",
+          "alternatives": [
+            {
+              "text": "车费会自动扣款吗？",
+              "id": "s37_4_0007_alt01",
+              "meaning_vi": "Cước xe có tự động bị trừ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要看你选择的支付方式。",
+              "id": "s37_4_0007_reply01",
+              "meaning_vi": "Còn tùy cách thanh toán bạn đã chọn."
+            },
+            {
+              "text": "先看账单，没扣款再按页面提示付款。",
+              "id": "s37_4_0007_reply02",
+              "meaning_vi": "Kiểm tra hóa đơn trước, nếu chưa trừ thì trả theo hướng dẫn."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "chē fèi shì zì dòng kòu de ma",
+          "mistakes": [
+            {
+              "text": "“自动扣款”是根据已选择的支付设置由平台扣费；若订单显示待支付但账户似已扣款，应先核对流水，不要立刻再付一次。",
+              "text_vi": "Tự động trừ tiền tùy phương thức cài đặt; nếu tài khoản đã trừ mà đơn chưa cập nhật thì phải tra trước khi trả lại."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Tiền xe được tự động trừ à?"
+        },
+        {
+          "id": "s37_4_0008",
+          "level": "must",
+          "text": "遗失物品在哪里申报？",
+          "alternatives": [
+            {
+              "text": "丢东西要在哪里登记？",
+              "id": "s37_4_0008_alt01",
+              "meaning_vi": "Đăng ký đồ thất lạc ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先在订单页面找遗失物品入口。",
+              "id": "s37_4_0008_reply01",
+              "meaning_vi": "Trong đơn tìm mục đồ thất lạc trước."
+            },
+            {
+              "text": "需要提供哪一趟行程的订单号？",
+              "id": "s37_4_0008_reply02",
+              "meaning_vi": "Bạn có mã đơn của chuyến nào?"
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "yí shī wù pǐn zài nǎ li shēn bào",
+          "mistakes": [
+            {
+              "text": "“申报”是向平台登记遗失情况，不表示物品已经找回；要提供行程信息但避免公开个人敏感资料。",
+              "text_vi": "“申报” là khai báo mất đồ trên nền tảng, chưa có nghĩa đã tìm được; không công khai thông tin riêng không cần thiết."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Báo mất đồ ở đâu?"
+        },
+        {
+          "id": "s37_4_0009",
+          "level": "listen",
+          "text": "已经到了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我在这里下。",
+              "id": "s37_4_0009_reply01",
+              "meaning_vi": "Được, tôi xuống ở đây."
+            },
+            {
+              "text": "车停稳了我再开门。",
+              "id": "s37_4_0009_reply02",
+              "meaning_vi": "Xe dừng hẳn rồi tôi mới mở cửa."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "yǐ jīng dào le",
+          "mistakes": [
+            {
+              "text": "“已经到了”表示车辆或行程到达约定地点，不代表可以不看交通情况马上下车。",
+              "text_vi": "“Đã tới nơi” không có nghĩa được xuống ngay khi xe chưa dừng hoặc không an toàn."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Đã tới nơi rồi."
+        },
+        {
+          "id": "s37_4_0010",
+          "level": "listen",
+          "text": "请带好随身物品。",
+          "alternatives": [
+            {
+              "text": "别忘了随身带的东西。",
+              "id": "s37_4_0010_alt01",
+              "meaning_vi": "Đừng quên đồ mang theo nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我检查一下东西。",
+              "id": "s37_4_0010_reply01",
+              "meaning_vi": "Được, để tôi kiểm tra đồ."
+            },
+            {
+              "text": "知道了，谢谢提醒。",
+              "id": "s37_4_0010_reply02",
+              "meaning_vi": "Hiểu rồi, cảm ơn đã nhắc."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "qǐng dài hǎo suí shēn wù pǐn",
+          "mistakes": [
+            {
+              "text": "“随身物品”是自己随身携带的物品，不只是大行李；“带好”包含检查是否拿齐。",
+              "text_vi": "Đồ mang theo người bao gồm cả vật dụng nhỏ, không chỉ vali; kiểm tra đã lấy đủ."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Nhớ mang đủ đồ cá nhân."
+        },
+        {
+          "id": "s37_4_0011",
+          "level": "listen",
+          "text": "可以在订单里找开票入口。",
+          "alternatives": [
+            {
+              "text": "在行程订单里找发票申请入口。",
+              "id": "s37_4_0011_alt01",
+              "meaning_vi": "Vào đơn hành trình tìm mục yêu cầu hóa đơn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去订单里看一下。",
+              "id": "s37_4_0011_reply01",
+              "meaning_vi": "Được, tôi vào đơn xem."
+            },
+            {
+              "text": "找不到开票入口，可以联系客服吗？",
+              "id": "s37_4_0011_reply02",
+              "meaning_vi": "Nếu không thấy mục hóa đơn thì liên hệ hỗ trợ được không?"
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "kě yǐ zài dìng dān lǐ zhǎo kāi piào rù kǒu",
+          "mistakes": [
+            {
+              "text": "“开票入口”是App里申请发票的功能页面，不是汽车的入口；若没有入口，可能需向平台客服询问。",
+              "text_vi": "Mục yêu cầu hóa đơn là chức năng trong ứng dụng, không phải cửa xe; không thấy thì hỏi hỗ trợ."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Có thể tìm mục xuất hóa đơn trong đơn chuyến đi."
+        },
+        {
+          "id": "s37_4_0012",
+          "level": "listen",
+          "text": "可以先在订单里找联系司机的入口。",
+          "alternatives": [
+            {
+              "text": "先在订单里找司机联系方式。",
+              "id": "s37_4_0012_alt01",
+              "meaning_vi": "Vào đơn tìm thông tin liên hệ tài xế trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先联系司机。",
+              "id": "s37_4_0012_reply01",
+              "meaning_vi": "Được, tôi sẽ liên hệ tài xế."
+            },
+            {
+              "text": "如果手机也丢了，可以借别人的电话联系客服吗？",
+              "id": "s37_4_0012_reply02",
+              "meaning_vi": "Nếu mất cả điện thoại, tôi mượn điện thoại người khác để gọi hỗ trợ được không?"
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "kě yǐ xiān zài dìng dān lǐ zhǎo lián xì sī jī de rù kǒu",
+          "mistakes": [
+            {
+              "text": "“联系司机的入口”是订单里的沟通渠道，不是用身份证号码私下找人；如手机丢失可借另一台设备联系平台。",
+              "text_vi": "Nên liên hệ tài xế qua kênh trong đơn, không tự tìm người bằng giấy tờ; mất máy thì mượn thiết bị khác."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Trước tiên có thể tìm mục liên hệ tài xế trong đơn."
+        },
+        {
+          "id": "s37_4_0013",
+          "level": "listen",
+          "text": "后备箱已经打开。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我拿一下行李。",
+              "id": "s37_4_0013_reply01",
+              "meaning_vi": "Được, tôi lấy hành lý."
+            },
+            {
+              "text": "谢谢，我看一下有没有东西。",
+              "id": "s37_4_0013_reply02",
+              "meaning_vi": "Cảm ơn, để tôi xem còn thiếu gì không."
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "hòu bèi xiāng yǐ jīng dǎ kāi",
+          "mistakes": [
+            {
+              "text": "“已经打开”强调现在处于打开状态，不是说刚才开过又关上了；取物时注意来往车辆。",
+              "text_vi": "“Đã mở” nghĩa là cốp đang mở, không phải vừa mở rồi đóng; để ý xe qua lại khi lấy đồ."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Cốp xe đã mở rồi."
+        },
+        {
+          "id": "s37_4_0014",
+          "level": "listen",
+          "text": "可以先在平台里找遗失物品入口。",
+          "alternatives": [
+            {
+              "text": "可以先通过平台报失物。",
+              "id": "s37_4_0014_alt01",
+              "meaning_vi": "Có thể báo mất đồ qua ứng dụng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去登记丢失的物品。",
+              "id": "s37_4_0014_reply01",
+              "meaning_vi": "Được, tôi sẽ đăng ký món bị mất."
+            },
+            {
+              "text": "需要提供哪一趟行程信息？",
+              "id": "s37_4_0014_reply02",
+              "meaning_vi": "Cần cung cấp thông tin chuyến đi nào?"
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "kě yǐ xiān zài píng tái lǐ zhǎo yí shī wù pǐn rù kǒu",
+          "mistakes": [
+            {
+              "text": "“可以先……”是建议的第一步，不代表所有App都有同名入口；找不到时可使用官方客服渠道。",
+              "text_vi": "Có thể tìm mục đồ thất lạc trong ứng dụng, nhưng tên mục tùy nền tảng; không thấy thì liên hệ hỗ trợ."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Bạn có thể tìm mục báo đồ thất lạc trên nền tảng trước."
+        },
+        {
+          "id": "s37_4_0015",
+          "level": "listen",
+          "text": "电子发票要看平台是否支持。",
+          "alternatives": [
+            {
+              "text": "能否开电子发票取决于平台。",
+              "id": "s37_4_0015_alt01",
+              "meaning_vi": "Việc xuất hóa đơn điện tử phụ thuộc nền tảng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去订单里看一下。",
+              "id": "s37_4_0015_reply01",
+              "meaning_vi": "Được, tôi vào đơn xem."
+            },
+            {
+              "text": "如果平台不支持，能提供其他乘车凭证吗？",
+              "id": "s37_4_0015_reply02",
+              "meaning_vi": "Nếu nền tảng không hỗ trợ, có giấy tờ đi xe khác không?"
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "diàn zi fā piào yào kàn píng tái shì fǒu zhī chí",
+          "mistakes": [
+            {
+              "text": "“是否支持”是能不能提供这项功能，不是“支持你个人”；电子发票不是聊天截图或普通订单页面。",
+              "text_vi": "“Có hỗ trợ” là nền tảng có chức năng xuất hóa đơn không, không có nghĩa ủng hộ cá nhân; ảnh đơn không thay cho hóa đơn."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Có hóa đơn điện tử hay không tùy nền tảng."
+        },
+        {
+          "id": "s37_4_0016",
+          "level": "listen",
+          "text": "我帮你联系司机。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢你帮忙联系。",
+              "id": "s37_4_0016_reply01",
+              "meaning_vi": "Được, cảm ơn bạn giúp liên hệ."
+            },
+            {
+              "text": "如果司机没接，能帮我联系平台客服吗？",
+              "id": "s37_4_0016_reply02",
+              "meaning_vi": "Nếu tài xế không nghe máy, giúp tôi gọi bộ phận hỗ trợ được không?"
+            }
+          ],
+          "lesson_id": "37.4",
+          "lesson_title": "37.4 下车付款遗失",
+          "pinyin": "wǒ bāng nǐ lián xì sī jī",
+          "mistakes": [
+            {
+              "text": "“帮你联系司机”只承诺协助联系，不保证司机已经接电话或物品已找回；可以等待平台后续回复。",
+              "text_vi": "Giúp liên hệ tài xế không cam kết tài xế đã nghe máy hoặc tìm thấy đồ; cần chờ thông báo tiếp."
+            }
+          ],
+          "lesson_title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+          "meaning_vi": "Để tôi giúp bạn liên hệ tài xế."
+        }
+      ],
+      "opening": "练习安全下车、核对扣费、申请发票和找回遗落车内物品；手机丢在车里时用别的设备或电话联系官方客服。",
+      "subtitle": "16张实用口语卡 · 8必说 + 8必听",
+      "title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc",
+      "opening_vi": "Luyện xuống xe an toàn, kiểm tra cước, xin hóa đơn và tìm đồ quên trên xe; mất điện thoại thì liên hệ hỗ trợ bằng thiết bị khác.",
+      "subtitle_vi": "16 thẻ giao tiếp"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T22:45:00Z",
+  "theme_title": "37 打车网约车",
+  "source_phrase_count": 76,
+  "card_count": 70,
+  "lesson_counts": {
+    "37.1": 17,
+    "37.2": 18,
+    "37.3": 19,
+    "37.4": 16
+  },
+  "quality_standard": "Vietnamese translation of Chinese theme 37: 70 main expressions and 190 alternative/reply expressions plus 70 localized teaching notes. Stable source text, pinyin, IDs retained. Pickup legality, driver verification, tolls and lost property semantic QA. Native proofreading and runtime/audio final QA pending.",
+  "theme_title_vi": "37 Taxi và xe công nghệ"
+}
