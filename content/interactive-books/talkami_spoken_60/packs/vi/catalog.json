@@ -3,7 +3,7 @@
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 1510,
+  "item_count": 2189,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -800,13 +800,365 @@
           "title_vi": "20 Điện nước, điều hòa và hỏng thiết bị"
         }
       ]
+    },
+    {
+      "zone_id": 3,
+      "title": "吃饭餐饮",
+      "title_vi": "Ăn uống và nhà hàng",
+      "themes": [
+        {
+          "theme_id": "21",
+          "title": "食物口味",
+          "status": "available",
+          "free": false,
+          "phrase_count": 90,
+          "lessons": [
+            {
+              "id": "21.1",
+              "title": "21.1 吃饭喝水基本需求",
+              "count": 23,
+              "title_vi": "21.1 Nhu cầu ăn uống cơ bản"
+            },
+            {
+              "id": "21.2",
+              "title": "21.2 辣甜咸与口味调整",
+              "count": 24,
+              "title_vi": "21.2 Độ cay, ngọt, mặn và điều chỉnh hương vị"
+            },
+            {
+              "id": "21.3",
+              "title": "21.3 忌口与过敏",
+              "count": 22,
+              "title_vi": "21.3 Kiêng ăn và dị ứng thực phẩm"
+            },
+            {
+              "id": "21.4",
+              "title": "21.4 询问推荐与点菜建议",
+              "count": 21,
+              "title_vi": "21.4 Hỏi món ngon và gợi ý gọi món"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/21.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "21 Món ăn và khẩu vị"
+        },
+        {
+          "theme_id": "22",
+          "title": "早餐小吃",
+          "status": "available",
+          "free": false,
+          "phrase_count": 63,
+          "lessons": [
+            {
+              "id": "22.1",
+              "title": "22.1 早餐店点单",
+              "count": 19,
+              "title_vi": "22.1 Gọi món ở quán ăn sáng"
+            },
+            {
+              "id": "22.2",
+              "title": "22.2 小吃摊点单与加减料",
+              "count": 23,
+              "title_vi": "22.2 Gọi món ăn vặt và thêm bớt nguyên liệu"
+            },
+            {
+              "id": "22.3",
+              "title": "22.3 打包带走与取餐",
+              "count": 21,
+              "title_vi": "22.3 Ăn tại chỗ, mang về và nhận món"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/22.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "22 Bữa sáng và món ăn vặt"
+        },
+        {
+          "theme_id": "23",
+          "title": "餐厅点餐",
+          "status": "available",
+          "free": false,
+          "phrase_count": 60,
+          "lessons": [
+            {
+              "id": "23.1",
+              "title": "23.1 入店排队找座",
+              "count": 23,
+              "title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+            },
+            {
+              "id": "23.2",
+              "title": "23.2 看菜单与问菜",
+              "count": 18,
+              "title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+            },
+            {
+              "id": "23.3",
+              "title": "23.3 点菜、主食与追加",
+              "count": 19,
+              "title_vi": "23.3 Gọi món, cơm và gọi thêm"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/23.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "23 Gọi món ở nhà hàng"
+        },
+        {
+          "theme_id": "24",
+          "title": "餐厅用餐",
+          "status": "available",
+          "free": false,
+          "phrase_count": 58,
+          "lessons": [
+            {
+              "id": "24.1",
+              "title": "24.1 催菜与上菜进度",
+              "count": 20,
+              "title_vi": "24.1 Nhắc món và hỏi tiến độ phục vụ"
+            },
+            {
+              "id": "24.2",
+              "title": "24.2 加水餐具与用餐请求",
+              "count": 18,
+              "title_vi": "24.2 Xin thêm nước, đũa, thìa và dụng cụ ăn"
+            },
+            {
+              "id": "24.3",
+              "title": "24.3 菜品反馈、换菜与投诉",
+              "count": 20,
+              "title_vi": "24.3 Góp ý, đổi món và khiếu nại"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/24.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "24 Dùng bữa tại nhà hàng"
+        },
+        {
+          "theme_id": "25",
+          "title": "餐厅结账",
+          "status": "available",
+          "free": false,
+          "phrase_count": 62,
+          "lessons": [
+            {
+              "id": "25.1",
+              "title": "25.1 买单与核对账单",
+              "count": 21,
+              "title_vi": "25.1 Thanh toán và kiểm tra hóa đơn tính tiền"
+            },
+            {
+              "id": "25.2",
+              "title": "25.2 AA与请客",
+              "count": 22,
+              "title_vi": "25.2 Chia tiền và mời bạn bè"
+            },
+            {
+              "id": "25.3",
+              "title": "25.3 开发票与填写抬头",
+              "count": 19,
+              "title_vi": "25.3 Xuất hóa đơn điện tử và thông tin công ty"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/25.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "25 Thanh toán tại nhà hàng"
+        },
+        {
+          "theme_id": "26",
+          "title": "咖啡奶茶",
+          "status": "available",
+          "free": false,
+          "phrase_count": 64,
+          "lessons": [
+            {
+              "id": "26.1",
+              "title": "26.1 咖啡点单：品类杯型冷热",
+              "count": 21,
+              "title_vi": "26.1 Gọi cà phê và chọn cỡ, nóng lạnh"
+            },
+            {
+              "id": "26.2",
+              "title": "26.2 奶茶点单：甜度冰量加料",
+              "count": 23,
+              "title_vi": "26.2 Gọi trà sữa, chỉnh đường đá và topping"
+            },
+            {
+              "id": "26.3",
+              "title": "26.3 堂食外带与取餐",
+              "count": 20,
+              "title_vi": "26.3 Uống tại quán, mang đi và nhận đồ"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/26.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "26 Cà phê và trà sữa"
+        }
+      ]
+    },
+    {
+      "zone_id": 4,
+      "title": "购物消费",
+      "title_vi": "Mua sắm và chi tiêu",
+      "themes": [
+        {
+          "theme_id": "27",
+          "title": "超市便利店",
+          "status": "available",
+          "free": false,
+          "phrase_count": 82,
+          "lessons": [
+            {
+              "id": "27.1",
+              "title": "27.1 寻找商品",
+              "count": 21,
+              "title_vi": "27.1 Tìm hàng trong siêu thị"
+            },
+            {
+              "id": "27.2",
+              "title": "27.2 生鲜称重",
+              "count": 20,
+              "title_vi": "27.2 Chọn, cân và dán nhãn rau quả"
+            },
+            {
+              "id": "27.3",
+              "title": "27.3 日期保质期",
+              "count": 21,
+              "title_vi": "27.3 Ngày sản xuất và hạn sử dụng"
+            },
+            {
+              "id": "27.4",
+              "title": "27.4 自助结账",
+              "count": 20,
+              "title_vi": "27.4 Tự thanh toán tại siêu thị"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/27.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "27 Siêu thị và cửa hàng tiện lợi"
+        },
+        {
+          "theme_id": "28",
+          "title": "服装鞋店",
+          "status": "available",
+          "free": false,
+          "phrase_count": 64,
+          "lessons": [
+            {
+              "id": "28.1",
+              "title": "28.1 颜色款式",
+              "count": 20,
+              "title_vi": "28.1 Màu sắc, kiểu dáng và chất liệu"
+            },
+            {
+              "id": "28.2",
+              "title": "28.2 尺码试穿与合身反馈",
+              "count": 23,
+              "title_vi": "28.2 Chọn size, thử và nhận xét độ vừa"
+            },
+            {
+              "id": "28.3",
+              "title": "28.3 换码与查库存",
+              "count": 21,
+              "title_vi": "28.3 Đổi size và kiểm tra hàng tồn"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/28.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "28 Mua quần áo và giày dép"
+        },
+        {
+          "theme_id": "29",
+          "title": "一般商品购物",
+          "status": "available",
+          "free": false,
+          "phrase_count": 77,
+          "lessons": [
+            {
+              "id": "29.1",
+              "title": "29.1 询问有无与型号",
+              "count": 19,
+              "title_vi": "29.1 Hỏi có hàng và mã sản phẩm"
+            },
+            {
+              "id": "29.2",
+              "title": "29.2 比较质量与功能",
+              "count": 19,
+              "title_vi": "29.2 So chất lượng, tính năng và bảo hành"
+            },
+            {
+              "id": "29.3",
+              "title": "29.3 试用与功能操作",
+              "count": 19,
+              "title_vi": "29.3 Dùng thử và thao tác tính năng"
+            },
+            {
+              "id": "29.4",
+              "title": "29.4 门店营业与排队",
+              "count": 20,
+              "title_vi": "29.4 Giờ mở cửa, xếp hàng và lấy số"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/29.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "29 Mua sắm hàng hóa thông thường"
+        },
+        {
+          "theme_id": "30",
+          "title": "价格优惠",
+          "status": "available",
+          "free": false,
+          "phrase_count": 59,
+          "lessons": [
+            {
+              "id": "30.1",
+              "title": "30.1 询问价格与计价",
+              "count": 17,
+              "title_vi": "30.1 Hỏi giá và cách tính tiền"
+            },
+            {
+              "id": "30.2",
+              "title": "30.2 促销、会员与优惠券",
+              "count": 22,
+              "title_vi": "30.2 Khuyến mãi, thành viên và phiếu giảm giá"
+            },
+            {
+              "id": "30.3",
+              "title": "30.3 议价",
+              "count": 20,
+              "title_vi": "30.3 Mặc cả"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/30.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "30 Giá cả và khuyến mãi"
+        }
+      ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-20-v2-20261102",
-  "source_status": "Vietnamese themes 01-20 independently translated and structurally checked; themes 21-60 not yet translated. Vietnamese native-speaking editor final review, Mandarin audio playback and app integration still pending.",
+  "revision": "spoken-vi-themes01-30-v3-20261102",
+  "source_status": "Vietnamese themes 01-30 published; 31-60 not yet translated. Chinese examples, IDs and pinyin retained; structural QA performed. Vietnamese native editor review, Mandarin audio and app integration still pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:51:01.874Z",
+  "updated_at": "2026-11-02T16:14:00Z",
   "packs_base_path": "packs/vi/"
 }
