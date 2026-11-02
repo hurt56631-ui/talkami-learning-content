@@ -1,9 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 729,
+  "item_count": 1510,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -394,13 +394,419 @@
           "title_vi": "10 Thời gian và số lượng"
         }
       ]
+    },
+    {
+      "zone_id": 1,
+      "title": "日常交往",
+      "title_vi": "Giao tiếp và quan hệ xã hội",
+      "themes": [
+        {
+          "theme_id": "11",
+          "title": "个人信息",
+          "status": "available",
+          "free": false,
+          "phrase_count": 103,
+          "lessons": [
+            {
+              "id": "11.1",
+              "title": "11.1 姓名年龄",
+              "count": 21,
+              "title_vi": "11.1 Họ tên và tuổi"
+            },
+            {
+              "id": "11.2",
+              "title": "11.2 国籍家乡",
+              "count": 20,
+              "title_vi": "11.2 Quốc tịch và quê quán"
+            },
+            {
+              "id": "11.3",
+              "title": "11.3 住在哪里和居住情况",
+              "count": 23,
+              "title_vi": "11.3 Nơi ở và tình hình sinh sống"
+            },
+            {
+              "id": "11.4",
+              "title": "11.4 工作情况",
+              "count": 21,
+              "title_vi": "11.4 Công việc"
+            },
+            {
+              "id": "11.5",
+              "title": "11.5 联系方式",
+              "count": 18,
+              "title_vi": "11.5 Thông tin liên lạc"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 5,
+          "data_url": "packs/vi/11.json",
+          "data_version": 1,
+          "title_vi": "11 Thông tin cá nhân"
+        },
+        {
+          "theme_id": "12",
+          "title": "家庭朋友",
+          "status": "available",
+          "free": false,
+          "phrase_count": 89,
+          "lessons": [
+            {
+              "id": "12.1",
+              "title": "12.1 家庭成员",
+              "count": 21,
+              "title_vi": "12.1 Thành viên gia đình"
+            },
+            {
+              "id": "12.2",
+              "title": "12.2 介绍朋友同事",
+              "count": 19,
+              "title_vi": "12.2 Giới thiệu bạn bè và đồng nghiệp"
+            },
+            {
+              "id": "12.3",
+              "title": "12.3 关系和称呼",
+              "count": 14,
+              "title_vi": "12.3 Quan hệ và cách xưng hô"
+            },
+            {
+              "id": "12.4",
+              "title": "12.4 关心家人朋友",
+              "count": 18,
+              "title_vi": "12.4 Hỏi thăm gia đình, bạn bè"
+            },
+            {
+              "id": "12.5",
+              "title": "12.5 兴趣爱好和熟人聊天",
+              "count": 17,
+              "title_vi": "12.5 Sở thích và trò chuyện với người quen"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 5,
+          "data_url": "packs/vi/12.json",
+          "data_version": 1,
+          "title_vi": "12 Gia đình và bạn bè"
+        },
+        {
+          "theme_id": "13",
+          "title": "约时间见面",
+          "status": "available",
+          "free": false,
+          "phrase_count": 73,
+          "lessons": [
+            {
+              "id": "13.1",
+              "title": "13.1 邀请并商量时间",
+              "count": 18,
+              "title_vi": "13.1 Mời gặp và thương lượng thời gian"
+            },
+            {
+              "id": "13.2",
+              "title": "13.2 约定地点",
+              "count": 17,
+              "title_vi": "13.2 Thống nhất địa điểm gặp"
+            },
+            {
+              "id": "13.3",
+              "title": "13.3 见面前确认",
+              "count": 17,
+              "title_vi": "13.3 Xác nhận trước khi gặp"
+            },
+            {
+              "id": "13.4",
+              "title": "13.4 到达碰面和接送",
+              "count": 21,
+              "title_vi": "13.4 Đến nơi, gặp nhau và đưa đón"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/13.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "13 Hẹn giờ gặp mặt"
+        },
+        {
+          "theme_id": "14",
+          "title": "等人改约",
+          "status": "available",
+          "free": false,
+          "phrase_count": 66,
+          "lessons": [
+            {
+              "id": "14.1",
+              "title": "14.1 询问到哪儿",
+              "count": 18,
+              "title_vi": "14.1 Hỏi người hẹn đang ở đâu"
+            },
+            {
+              "id": "14.2",
+              "title": "14.2 迟到说明",
+              "count": 15,
+              "title_vi": "14.2 Giải thích việc đến trễ"
+            },
+            {
+              "id": "14.3",
+              "title": "14.3 修改时间",
+              "count": 19,
+              "title_vi": "14.3 Điều chỉnh giờ hẹn"
+            },
+            {
+              "id": "14.4",
+              "title": "14.4 取消改天",
+              "count": 14,
+              "title_vi": "14.4 Hủy hẹn và hẹn dịp khác"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/14.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "14 Chờ người và đổi lịch hẹn"
+        },
+        {
+          "theme_id": "15",
+          "title": "找东西",
+          "status": "available",
+          "free": false,
+          "phrase_count": 72,
+          "lessons": [
+            {
+              "id": "15.1",
+              "title": "15.1 询问物品位置",
+              "count": 17,
+              "title_vi": "15.1 Hỏi đồ để ở đâu"
+            },
+            {
+              "id": "15.2",
+              "title": "15.2 丢失遗忘",
+              "count": 19,
+              "title_vi": "15.2 Mất đồ và bỏ quên đồ"
+            },
+            {
+              "id": "15.3",
+              "title": "15.3 询问是否看见或拿过",
+              "count": 17,
+              "title_vi": "15.3 Hỏi ai từng thấy hoặc cầm đồ"
+            },
+            {
+              "id": "15.4",
+              "title": "15.4 失物招领",
+              "count": 19,
+              "title_vi": "15.4 Khai báo và nhận đồ thất lạc"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/15.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "15 Tìm đồ đạc thất lạc"
+        },
+        {
+          "theme_id": "16",
+          "title": "借还拿放",
+          "status": "available",
+          "free": false,
+          "phrase_count": 74,
+          "lessons": [
+            {
+              "id": "16.1",
+              "title": "16.1 借东西",
+              "count": 18,
+              "title_vi": "16.1 Mượn đồ"
+            },
+            {
+              "id": "16.2",
+              "title": "16.2 归还物品",
+              "count": 19,
+              "title_vi": "16.2 Trả lại đồ mượn"
+            },
+            {
+              "id": "16.3",
+              "title": "16.3 拿递物品",
+              "count": 17,
+              "title_vi": "16.3 Lấy và đưa đồ"
+            },
+            {
+              "id": "16.4",
+              "title": "16.4 放置收纳",
+              "count": 20,
+              "title_vi": "16.4 Cất đồ và sắp xếp"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/16.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "16 Mượn trả, lấy và cất đồ"
+        }
+      ]
+    },
+    {
+      "zone_id": 2,
+      "title": "居家生活",
+      "title_vi": "Sinh hoạt gia đình",
+      "themes": [
+        {
+          "theme_id": "17",
+          "title": "起居作息",
+          "status": "available",
+          "free": false,
+          "phrase_count": 72,
+          "lessons": [
+            {
+              "id": "17.1",
+              "title": "17.1 起床睡觉",
+              "count": 19,
+              "title_vi": "17.1 Thức dậy và đi ngủ"
+            },
+            {
+              "id": "17.2",
+              "title": "17.2 洗漱洗澡",
+              "count": 20,
+              "title_vi": "17.2 Vệ sinh cá nhân và tắm rửa"
+            },
+            {
+              "id": "17.3",
+              "title": "17.3 天气与穿衣",
+              "count": 19,
+              "title_vi": "17.3 Thời tiết và cách mặc đồ"
+            },
+            {
+              "id": "17.4",
+              "title": "17.4 日常休息",
+              "count": 14,
+              "title_vi": "17.4 Nghỉ ngơi hằng ngày"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/17.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "17 Sinh hoạt hằng ngày"
+        },
+        {
+          "theme_id": "18",
+          "title": "家务做饭",
+          "status": "available",
+          "free": false,
+          "phrase_count": 93,
+          "lessons": [
+            {
+              "id": "18.1",
+              "title": "18.1 打扫房间",
+              "count": 19,
+              "title_vi": "18.1 Dọn dẹp phòng"
+            },
+            {
+              "id": "18.2",
+              "title": "18.2 洗衣晾衣",
+              "count": 19,
+              "title_vi": "18.2 Giặt và phơi quần áo"
+            },
+            {
+              "id": "18.3",
+              "title": "18.3 做饭备菜",
+              "count": 19,
+              "title_vi": "18.3 Nấu cơm và sơ chế nguyên liệu"
+            },
+            {
+              "id": "18.4",
+              "title": "18.4 洗碗和收拾厨房",
+              "count": 20,
+              "title_vi": "18.4 Rửa bát và dọn bếp"
+            },
+            {
+              "id": "18.5",
+              "title": "18.5 收纳整理",
+              "count": 16,
+              "title_vi": "18.5 Sắp xếp và cất giữ đồ"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/18.json",
+          "data_version": 1,
+          "lesson_count": 5,
+          "title_vi": "18 Việc nhà và nấu ăn"
+        },
+        {
+          "theme_id": "19",
+          "title": "楼宇出入与公共设施",
+          "status": "available",
+          "free": false,
+          "phrase_count": 77,
+          "lessons": [
+            {
+              "id": "19.1",
+              "title": "19.1 门锁钥匙",
+              "count": 20,
+              "title_vi": "19.1 Khóa cửa và chìa khóa"
+            },
+            {
+              "id": "19.2",
+              "title": "19.2 门禁进出",
+              "count": 20,
+              "title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+            },
+            {
+              "id": "19.3",
+              "title": "19.3 电梯楼层与楼栋",
+              "count": 19,
+              "title_vi": "19.3 Thang máy, tầng và tòa nhà"
+            },
+            {
+              "id": "19.4",
+              "title": "19.4 公共卫生间",
+              "count": 18,
+              "title_vi": "19.4 Nhà vệ sinh công cộng"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/19.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "19 Ra vào tòa nhà và tiện ích công cộng"
+        },
+        {
+          "theme_id": "20",
+          "title": "水电空调与家电故障",
+          "status": "available",
+          "free": false,
+          "phrase_count": 62,
+          "lessons": [
+            {
+              "id": "20.1",
+              "title": "20.1 空调温度",
+              "count": 21,
+              "title_vi": "20.1 Điều hòa và nhiệt độ"
+            },
+            {
+              "id": "20.2",
+              "title": "20.2 停水停电",
+              "count": 21,
+              "title_vi": "20.2 Mất điện, mất nước"
+            },
+            {
+              "id": "20.3",
+              "title": "20.3 家电故障",
+              "count": 20,
+              "title_vi": "20.3 Sự cố thiết bị gia dụng"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/20.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "20 Điện nước, điều hòa và hỏng thiết bị"
+        }
+      ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-10-intermediate-20261102",
-  "source_status": "Themes 01-10 indexed; themes 11-20 already translated and will be indexed in next catalog update. Vietnamese native review pending.",
+  "revision": "spoken-vi-themes01-20-v2-20261102",
+  "source_status": "Vietnamese themes 01-20 independently translated and structurally checked; themes 21-60 not yet translated. Vietnamese native-speaking editor final review, Mandarin audio playback and app integration still pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:50:10.309Z",
+  "updated_at": "2026-11-02T08:51:01.874Z",
   "packs_base_path": "packs/vi/"
 }
