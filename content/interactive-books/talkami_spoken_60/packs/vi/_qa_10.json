@@ -1,0 +1,34 @@
+{
+  "audit_version": 1,
+  "checked_date": "2026-11-02",
+  "theme_id": "10",
+  "source_path": "content/interactive-books/talkami_spoken_60/packs/10.json",
+  "vietnamese_path": "content/interactive-books/talkami_spoken_60/packs/vi/10.json",
+  "source_blob_sha": "9c5f2832d6abc99d09cf0f379e8a2364ad795165",
+  "translation_blob_sha": "bb6f20ef8cbcb1138a194b396a00baf4d109300a",
+  "source_version": 12,
+  "translation_version": 1,
+  "course_structure": {
+    "lessons": 6,
+    "main_cards": 141,
+    "alternative_and_reply_lines": 338,
+    "vietnamese_explanation_notes": 95
+  },
+  "checks": {
+    "file_valid_json": true,
+    "original_theme_card_and_nested_ids_preserved": true,
+    "original_chinese_pinyin_level_order_preserved": true,
+    "translation_fields_all_filled": true,
+    "burmese_script_and_fields_absent": true,
+    "vietnamese_lesson_labels_present": true,
+    "structure_and_coverage_passed": true
+  },
+  "status": "PASS_STRUCTURE_AND_COVERAGE",
+  "errors": [],
+  "untranslated_count": 0,
+  "limits": [
+    "Vietnamese native-speaker final linguistic approval not performed",
+    "Native Mandarin audio and pronunciation playback not tested",
+    "Front-end integration and runtime loading not tested"
+  ]
+}
