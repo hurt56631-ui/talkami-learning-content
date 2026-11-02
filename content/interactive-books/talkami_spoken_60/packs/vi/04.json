@@ -1,0 +1,2549 @@
+{
+  "theme_id": "04",
+  "version": 1,
+  "updated_at": "2026-11-02T07:55:36.606Z",
+  "theme_title": "04 提问确认",
+  "quality_standard": "Vietnamese independent adaptation V1 from original theme 04 V12. All source Chinese main/alt/reply texts, IDs, pinyin, lesson sequence and levels retained. Vietnamese learning explanations replace Burmese instructions. No unverified Vietnamese phonetic approximation. Native Vietnamese linguistic review and real audio verification pending.",
+  "lessons": [
+    {
+      "id": "04.1",
+      "title": "04.1 问名称和用途",
+      "subtitle": "15张高频卡 · 10必说 + 5必听",
+      "opening": "这一课分清“这是什么、叫什么、干什么用、怎么用”，再练型号、差别和使用前确认。",
+      "phrases": [
+        {
+          "id": "s04_01_0001",
+          "level": "must",
+          "text": "这是什么？",
+          "alternatives": [
+            {
+              "text": "这是啥？",
+              "id": "s04_01_0001_alt01",
+              "meaning_vi": "Cái gì đây?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这是充电器。",
+              "id": "s04_01_0001_reply01",
+              "meaning_vi": "Đây là bộ sạc."
+            },
+            {
+              "text": "这是转换头。",
+              "id": "s04_01_0001_reply02",
+              "meaning_vi": "Đây là đầu chuyển đổi."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“这是什么”问东西是什么；“叫什么”着重问名称。“这是啥”较随意，适合熟人。",
+              "text_vi": "“这是什么” hỏi đây là vật gì, còn “叫什么” hỏi tên gọi. “这是啥” thân mật và xuề xòa hơn, hợp khi nói với người quen."
+            }
+          ],
+          "pinyin": "zhè shì shén me",
+          "meaning_vi": "Đây là cái gì?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0002",
+          "level": "must",
+          "text": "这个叫什么？",
+          "alternatives": [
+            {
+              "text": "这个叫什么名字？",
+              "id": "s04_01_0002_alt01",
+              "meaning_vi": "Cái này tên là gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这个叫转换头。",
+              "id": "s04_01_0002_reply01",
+              "meaning_vi": "Cái này gọi là đầu chuyển đổi."
+            },
+            {
+              "text": "我也不知道叫什么。",
+              "id": "s04_01_0002_reply02",
+              "meaning_vi": "Tôi cũng không biết nó gọi là gì."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“叫什么”是问名字，不是问“为什么这样叫”；越南语口语可直接说“Cái này gọi là gì?”。问用途才说“干什么用的”。",
+              "text_vi": "“叫什么” hỏi tên của vật, không hỏi tại sao có tên ấy. Muốn hỏi công dụng thì dùng “干什么用的”."
+            }
+          ],
+          "pinyin": "zhè ge jiào shén me",
+          "meaning_vi": "Cái này gọi là gì?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0003",
+          "level": "must",
+          "text": "这是干什么的？",
+          "alternatives": [
+            {
+              "text": "这个是干什么用的？",
+              "id": "s04_01_0003_alt01",
+              "meaning_vi": "Cái này có công dụng gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这个是用来充电的。",
+              "id": "s04_01_0003_reply01",
+              "meaning_vi": "Cái này dùng để sạc pin."
+            },
+            {
+              "text": "这个是用来开门的。",
+              "id": "s04_01_0003_reply02",
+              "meaning_vi": "Cái này dùng để mở cửa."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "这里的“干什么”是问物品的用途，不是在问“你现在干什么”；知道用途也不等于会操作。",
+              "text_vi": "“干什么” ở đây hỏi công dụng của vật, không phải hỏi người khác đang làm gì. Biết công dụng chưa chắc đã biết sử dụng."
+            }
+          ],
+          "pinyin": "zhè shì gàn shén me de",
+          "meaning_vi": "Cái này dùng để làm gì?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0004",
+          "level": "must",
+          "text": "这个怎么用？",
+          "alternatives": [
+            {
+              "text": "这个怎么使用？",
+              "id": "s04_01_0004_alt01",
+              "meaning_vi": "Sử dụng cái này như thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先打开这个。",
+              "id": "s04_01_0004_reply01",
+              "meaning_vi": "Mở cái này trước."
+            },
+            {
+              "text": "按这里就可以。",
+              "id": "s04_01_0004_reply02",
+              "meaning_vi": "Chỉ cần bấm vào đây là được."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“怎么用”是问具体操作方法；不熟悉的机器，应先请人说明，不要随意按按钮。",
+              "text_vi": "“怎么用” hỏi cách thao tác cụ thể. Với máy móc chưa quen, nên hỏi hướng dẫn trước thay vì tự ý bấm nút."
+            }
+          ],
+          "pinyin": "zhè ge zěn me yòng",
+          "meaning_vi": "Cái này dùng thế nào?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0005",
+          "level": "must",
+          "text": "这个用中文怎么说？",
+          "alternatives": [
+            {
+              "text": "中文怎么说？",
+              "id": "s04_01_0005_alt01",
+              "meaning_vi": "Tiếng Trung nói thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "中文叫“充电器”。",
+              "id": "s04_01_0005_reply01",
+              "meaning_vi": "Tiếng Trung gọi là “充电器”."
+            },
+            {
+              "text": "我也不知道中文叫什么。",
+              "id": "s04_01_0005_reply02",
+              "meaning_vi": "Tôi cũng không biết tiếng Trung gọi nó là gì."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“用中文怎么说”问汉语词语，不是问怎么操作；新词没听清可以请对方写出来。",
+              "text_vi": "“用中文怎么说” hỏi tên gọi bằng tiếng Trung, không hỏi cách dùng. Không nghe rõ tên từ mới có thể nhờ viết ra."
+            }
+          ],
+          "pinyin": "zhè ge yòng zhōng wén zěn me shuō",
+          "meaning_vi": "Cái này nói bằng tiếng Trung thế nào?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0006",
+          "level": "must",
+          "text": "这是哪一种？",
+          "alternatives": [
+            {
+              "text": "这是哪种？",
+              "id": "s04_01_0006_alt01",
+              "meaning_vi": "Cái này là loại gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这是新版的。",
+              "id": "s04_01_0006_reply01",
+              "meaning_vi": "Đây là phiên bản mới."
+            },
+            {
+              "text": "这是普通款。",
+              "id": "s04_01_0006_reply02",
+              "meaning_vi": "Đây là loại thường."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“哪一种”先要有可区分的类别；想知道准确型号可问“这是什么型号”。",
+              "text_vi": "“哪一种” là hỏi loại nào trong các loại khác nhau; nếu cần đúng mẫu mã, hãy hỏi “这是什么型号？”."
+            }
+          ],
+          "pinyin": "zhè shì nǎ yì zhǒng",
+          "meaning_vi": "Đây là loại nào?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0007",
+          "level": "must",
+          "text": "这个和那个有什么区别？",
+          "alternatives": [
+            {
+              "text": "这个跟那个有什么区别？",
+              "id": "s04_01_0007_alt01",
+              "meaning_vi": "Cái này và cái kia khác nhau thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这个功能多一点。",
+              "id": "s04_01_0007_reply01",
+              "meaning_vi": "Cái này có nhiều tính năng hơn một chút."
+            },
+            {
+              "text": "这两个差不多。",
+              "id": "s04_01_0007_reply02",
+              "meaning_vi": "Hai cái này gần như nhau."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“有什么区别”是问不同点，不等于问哪个更好；要选择时可接“哪个更合适”。",
+              "text_vi": "“有什么区别” hỏi điểm khác nhau, không tự động hỏi cái nào tốt hơn; khi lựa chọn có thể hỏi tiếp “哪个更合适？”."
+            }
+          ],
+          "pinyin": "zhè ge hé nà ge yǒu shén me qū bié",
+          "meaning_vi": "Cái này khác cái kia ở điểm nào?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0008",
+          "level": "must",
+          "text": "这个能直接用吗？",
+          "alternatives": [
+            {
+              "text": "这个可以直接用吗？",
+              "id": "s04_01_0008_alt01",
+              "meaning_vi": "Cái này dùng trực tiếp được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，直接用就行。",
+              "id": "s04_01_0008_reply01",
+              "meaning_vi": "Được, dùng ngay là được."
+            },
+            {
+              "text": "不能，要先设置一下。",
+              "id": "s04_01_0008_reply02",
+              "meaning_vi": "Không được, phải cài đặt trước."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“直接用”是无需额外设置就能用；越南语可自然说“dùng ngay”。操作机器仍要遵守安全规定。",
+              "text_vi": "“直接用” nghĩa là có dùng ngay mà không cần cài đặt thêm không. Nếu liên quan đến máy móc, vẫn phải tuân thủ hướng dẫn an toàn."
+            }
+          ],
+          "pinyin": "zhè ge néng zhí jiē yòng ma",
+          "meaning_vi": "Cái này có dùng ngay được không?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0009",
+          "level": "must",
+          "text": "这个按钮是干什么的？",
+          "alternatives": [
+            {
+              "text": "这个按钮有什么用？",
+              "id": "s04_01_0009_alt01",
+              "meaning_vi": "Nút này có tác dụng gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这个是启动键。",
+              "id": "s04_01_0009_reply01",
+              "meaning_vi": "Đây là nút khởi động."
+            },
+            {
+              "text": "按这个可以关机。",
+              "id": "s04_01_0009_reply02",
+              "meaning_vi": "Bấm nút này là tắt máy được."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "问按钮用途不是请你马上按；不清楚安全作用的按钮不能随便试按。",
+              "text_vi": "Hỏi công dụng của nút bấm không có nghĩa nhờ bấm ngay; với nút có thể gây nguy hiểm thì không tự ý thử."
+            }
+          ],
+          "pinyin": "zhè ge àn niǔ shì gàn shén me de",
+          "meaning_vi": "Nút này dùng để làm gì?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0010",
+          "level": "must",
+          "text": "这两个一样吗？",
+          "alternatives": [
+            {
+              "text": "这两个是一样的吗？",
+              "id": "s04_01_0010_alt01",
+              "meaning_vi": "Hai cái này có giống nhau không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一样。",
+              "id": "s04_01_0010_reply01",
+              "meaning_vi": "Giống nhau."
+            },
+            {
+              "text": "不一样，这个大一点。",
+              "id": "s04_01_0010_reply02",
+              "meaning_vi": "Không giống, cái này lớn hơn một chút."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“看起来一样”不代表规格相同；精密零件不能单靠外观判断。",
+              "text_vi": "Hai vật nhìn giống nhau chưa chắc cùng thông số; với linh kiện chính xác phải kiểm tra mã và quy cách."
+            }
+          ],
+          "pinyin": "zhè liǎng ge yí yàng ma",
+          "meaning_vi": "Hai cái này giống nhau không?",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0011",
+          "level": "listen",
+          "text": "这个不能直接用。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那要先做什么？",
+              "id": "s04_01_0011_reply01",
+              "meaning_vi": "Vậy phải làm gì trước?"
+            },
+            {
+              "text": "要先设置吗？",
+              "id": "s04_01_0011_reply02",
+              "meaning_vi": "Có cần cài đặt trước không?"
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“不能直接用”只说明还需要设置、检查或其他准备，不等于这件东西永远不能用。先问“要先做什么？”再操作。",
+              "text_vi": "“不能直接用” chỉ nói phải cài đặt, kiểm tra hoặc chuẩn bị trước, không có nghĩa món này vĩnh viễn không dùng được."
+            }
+          ],
+          "pinyin": "zhè ge bù néng zhí jiē yòng",
+          "meaning_vi": "Cái này không thể dùng ngay.",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0012",
+          "level": "listen",
+          "text": "先打开这个。",
+          "alternatives": [
+            {
+              "text": "先把这个打开。",
+              "id": "s04_01_0012_alt01",
+              "meaning_vi": "Mở cái này ra trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，然后呢？",
+              "id": "s04_01_0012_reply01",
+              "meaning_vi": "Được, rồi sao nữa?"
+            },
+            {
+              "text": "这个吗？",
+              "id": "s04_01_0012_reply02",
+              "meaning_vi": "Cái này à?"
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“打开”可指打开门、文件或开启设备；具体动作要看所指对象。",
+              "text_vi": "“打开” có thể là mở cửa, mở tài liệu hoặc bật thiết bị; phải dựa vào vật đang được chỉ."
+            }
+          ],
+          "pinyin": "xiān dǎ kāi zhè ge",
+          "meaning_vi": "Mở cái này trước.",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0013",
+          "level": "listen",
+          "text": "按这里。",
+          "alternatives": [
+            {
+              "text": "按这儿。",
+              "id": "s04_01_0013_alt01",
+              "meaning_vi": "Ấn ở đây."
+            }
+          ],
+          "replies": [
+            {
+              "text": "这里吗？",
+              "id": "s04_01_0013_reply01",
+              "meaning_vi": "Ở đây à?"
+            },
+            {
+              "text": "好。",
+              "id": "s04_01_0013_reply02",
+              "meaning_vi": "Được."
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "这里“按”是按按钮或点屏幕，不是“把东西放在这里”。",
+              "text_vi": "“按” ở đây là bấm nút hoặc chạm màn hình, không phải đặt món đồ xuống chỗ ấy."
+            }
+          ],
+          "pinyin": "àn zhè lǐ",
+          "meaning_vi": "Bấm vào đây.",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0014",
+          "level": "listen",
+          "text": "用这个就行。",
+          "alternatives": [
+            {
+              "text": "用这个就可以。",
+              "id": "s04_01_0014_alt01",
+              "meaning_vi": "Chỉ cần dùng cái này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，知道了。",
+              "id": "s04_01_0014_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "这个对吧？",
+              "id": "s04_01_0014_reply02",
+              "meaning_vi": "Đúng cái này phải không?"
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“就行”表示已经足够，不一定说明别的工具都不能用。",
+              "text_vi": "“就行” nghĩa là như thế đã đủ, không nhất thiết các dụng cụ khác đều không dùng được."
+            }
+          ],
+          "pinyin": "yòng zhè ge jiù xíng",
+          "meaning_vi": "Dùng cái này là được.",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        },
+        {
+          "id": "s04_01_0015",
+          "level": "listen",
+          "text": "这两个不一样。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "哪里不一样？",
+              "id": "s04_01_0015_reply01",
+              "meaning_vi": "Khác nhau chỗ nào?"
+            },
+            {
+              "text": "那我该用哪个？",
+              "id": "s04_01_0015_reply02",
+              "meaning_vi": "Vậy tôi nên dùng cái nào?"
+            }
+          ],
+          "lesson_id": "04.1",
+          "lesson_title": "04.1 问名称和用途",
+          "mistakes": [
+            {
+              "text": "“不一样”只说明两个东西有差别，不代表绝对不能互相替代；零件和工具要再核对型号、规格，别光凭外观判断。",
+              "text_vi": "“不一样” chỉ ra hai món có điểm khác, không có nghĩa chúng tuyệt đối không thay thế nhau. Với linh kiện phải kiểm tra mẫu mã và thông số."
+            }
+          ],
+          "pinyin": "zhè liǎng ge bù yí yàng",
+          "meaning_vi": "Hai cái này không giống nhau.",
+          "lesson_title_vi": "04.1 Hỏi tên gọi và công dụng"
+        }
+      ],
+      "title_vi": "04.1 Hỏi tên gọi và công dụng",
+      "subtitle_vi": "15 thẻ thông dụng · 10 câu cần nói + 5 câu cần nghe",
+      "opening_vi": "Phân biệt các câu hỏi “这是什麽”, “叫什么”, “干什么用” và “怎么用”; học thêm cách hỏi kiểu mẫu, sự khác nhau và xác nhận trước khi sử dụng."
+    },
+    {
+      "id": "04.2",
+      "title": "04.2 问地点",
+      "subtitle": "24张高频卡 · 14必说 + 10必听",
+      "opening": "这一课练问方向、距离、楼层与入口，也听懂别人最常用的指路短句。",
+      "phrases": [
+        {
+          "id": "s04_02_0001",
+          "level": "must",
+          "text": "厕所在哪儿？",
+          "alternatives": [
+            {
+              "text": "洗手间在哪儿？",
+              "id": "s04_02_0001_alt01",
+              "meaning_vi": "Nhà vệ sinh ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "前面左转。",
+              "id": "s04_02_0001_reply01",
+              "meaning_vi": "Phía trước rẽ trái."
+            },
+            {
+              "text": "二楼，坐电梯上去。",
+              "id": "s04_02_0001_reply02",
+              "meaning_vi": "Tầng hai, đi thang máy lên."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“厕所”“洗手间”都常指厕所，“洗手间”较客气；“哪儿”nǎr 的 r 是儿化音，不应当成另一独立音节。",
+              "text_vi": "“厕所” và “洗手间” đều là nhà vệ sinh; “洗手间” lịch sự hơn. Chữ “儿” trong “哪儿” (nǎr) là âm nhi hóa, không phải âm tiết riêng."
+            }
+          ],
+          "pinyin": "cè suǒ zài nǎr",
+          "meaning_vi": "Nhà vệ sinh ở đâu?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0002",
+          "level": "must",
+          "text": "往哪边走？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "往前走。",
+              "id": "s04_02_0002_reply01",
+              "meaning_vi": "Đi về phía trước."
+            },
+            {
+              "text": "往右边走。",
+              "id": "s04_02_0002_reply02",
+              "meaning_vi": "Đi về bên phải."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“哪边”是问哪个方向，不是固定指左边；对方可能回答“往右走”。",
+              "text_vi": "“哪边” hỏi hướng nào, không mặc định là bên trái; có thể được chỉ sang phải."
+            }
+          ],
+          "pinyin": "wǎng nǎ biān zǒu",
+          "meaning_vi": "Đi về hướng nào?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0003",
+          "level": "must",
+          "text": "从这里怎么走？",
+          "alternatives": [
+            {
+              "text": "从这儿怎么走？",
+              "id": "s04_02_0003_alt01",
+              "meaning_vi": "Đi từ đây như thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一直往前走。",
+              "id": "s04_02_0003_reply01",
+              "meaning_vi": "Cứ đi thẳng."
+            },
+            {
+              "text": "先下楼，再往右走。",
+              "id": "s04_02_0003_reply02",
+              "meaning_vi": "Xuống lầu trước, rồi rẽ phải."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“从这里”是从现在站的位置出发；对方不知道目的地时，这句问法不够完整。",
+              "text_vi": "“从这里” là bắt đầu từ vị trí đang đứng. Nếu người nghe không biết bạn muốn tới đâu thì câu hỏi này chưa đủ."
+            }
+          ],
+          "pinyin": "cóng zhè lǐ zěn me zǒu",
+          "meaning_vi": "Từ đây đi thế nào?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0004",
+          "level": "must",
+          "text": "在这边吗？",
+          "alternatives": [
+            {
+              "text": "是在这边吗？",
+              "id": "s04_02_0004_alt01",
+              "meaning_vi": "Có phải ở phía này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，就这边。",
+              "id": "s04_02_0004_reply01",
+              "meaning_vi": "Đúng, phía này đây."
+            },
+            {
+              "text": "不是，在那边。",
+              "id": "s04_02_0004_reply02",
+              "meaning_vi": "Không, ở phía kia."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“这边”要结合说话人所在位置或手势判断；不能只按自己面对的左右判断。",
+              "text_vi": "“这边” tùy vị trí người nói hoặc hướng tay chỉ; đừng tự đoán trái phải theo hướng mình đang nhìn."
+            }
+          ],
+          "pinyin": "zài zhè biān ma",
+          "meaning_vi": "Ở phía này à?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0005",
+          "level": "must",
+          "text": "楼上还是楼下？",
+          "alternatives": [
+            {
+              "text": "在楼上还是楼下？",
+              "id": "s04_02_0005_alt01",
+              "meaning_vi": "Ở tầng trên hay tầng dưới?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在楼上。",
+              "id": "s04_02_0005_reply01",
+              "meaning_vi": "Ở tầng trên."
+            },
+            {
+              "text": "在楼下。",
+              "id": "s04_02_0005_reply02",
+              "meaning_vi": "Ở tầng dưới."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“楼上、楼下”以现在所在楼层为参照，不一定只差一层；可追问“几楼”。",
+              "text_vi": "“楼上/楼下” xét theo tầng đang đứng, không nhất thiết chỉ cách một tầng. Không rõ thì hỏi thêm “几楼？”."
+            }
+          ],
+          "pinyin": "lóu shàng hái shi lóu xià",
+          "meaning_vi": "Trên lầu hay dưới lầu?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0006",
+          "level": "must",
+          "text": "附近有吗？",
+          "alternatives": [
+            {
+              "text": "这附近有吗？",
+              "id": "s04_02_0006_alt01",
+              "meaning_vi": "Quanh đây có không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，就在前面。",
+              "id": "s04_02_0006_reply01",
+              "meaning_vi": "Có, ngay phía trước."
+            },
+            {
+              "text": "附近没有，要走远一点。",
+              "id": "s04_02_0006_reply02",
+              "meaning_vi": "Gần đây không có, phải đi xa hơn một chút."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“附近有吗”省略了要找的东西或地方；对方不知道前面的话题时会听不懂。",
+              "text_vi": "“附近有吗？” lược bỏ thứ đang tìm. Nếu người nghe không biết chủ đề trước đó sẽ không hiểu bạn hỏi gì."
+            }
+          ],
+          "pinyin": "fù jìn yǒu ma",
+          "meaning_vi": "Gần đây có không?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0007",
+          "level": "must",
+          "text": "离这里远吗？",
+          "alternatives": [
+            {
+              "text": "离这儿远吗？",
+              "id": "s04_02_0007_alt01",
+              "meaning_vi": "Có xa đây không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不远，走五分钟。",
+              "id": "s04_02_0007_reply01",
+              "meaning_vi": "Không xa, đi bộ năm phút."
+            },
+            {
+              "text": "有点远，最好坐车。",
+              "id": "s04_02_0007_reply02",
+              "meaning_vi": "Hơi xa, tốt nhất nên đi xe."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "步行五分钟和坐车五分钟不同；问远近后最好确认对方说的是哪种交通方式。",
+              "text_vi": "Đi bộ năm phút khác đi xe năm phút. Sau khi hỏi xa gần, nên xác nhận họ đang nói phương tiện nào."
+            }
+          ],
+          "pinyin": "lí zhè lǐ yuǎn ma",
+          "meaning_vi": "Có xa chỗ này không?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0008",
+          "level": "must",
+          "text": "从哪个门进去？",
+          "alternatives": [
+            {
+              "text": "从哪扇门进去？",
+              "id": "s04_02_0008_alt01",
+              "meaning_vi": "Đi vào qua cửa nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "从正门进去。",
+              "id": "s04_02_0008_reply01",
+              "meaning_vi": "Vào bằng cửa chính."
+            },
+            {
+              "text": "从后门进去。",
+              "id": "s04_02_0008_reply02",
+              "meaning_vi": "Vào bằng cửa sau."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“从哪个门进去”是几个门中选一个；找不到任何入口，应问“入口在哪儿”。",
+              "text_vi": "“从哪个门进去” là chọn một cửa trong nhiều cửa; nếu không biết lối vào ở đâu, hãy hỏi “入口在哪儿？”."
+            }
+          ],
+          "pinyin": "cóng nǎ ge mén jìn qù",
+          "meaning_vi": "Vào bằng cửa nào?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0009",
+          "level": "must",
+          "text": "入口在哪儿？",
+          "alternatives": [
+            {
+              "text": "入口在哪里？",
+              "id": "s04_02_0009_alt01",
+              "meaning_vi": "Cửa vào nằm ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "入口在前面。",
+              "id": "s04_02_0009_reply01",
+              "meaning_vi": "Lối vào ở phía trước."
+            },
+            {
+              "text": "从右边进去。",
+              "id": "s04_02_0009_reply02",
+              "meaning_vi": "Đi vào từ bên phải."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“入口”是进去的门，“出口”是出来的门；大型车站应看清标志。",
+              "text_vi": "“入口” là lối vào, “出口” là lối ra. Ở ga lớn nên xem kỹ biển chỉ dẫn."
+            }
+          ],
+          "pinyin": "rù kǒu zài nǎr",
+          "meaning_vi": "Lối vào ở đâu?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0010",
+          "level": "must",
+          "text": "哪个出口近？",
+          "alternatives": [
+            {
+              "text": "哪个出口更近？",
+              "id": "s04_02_0010_alt01",
+              "meaning_vi": "Cửa ra nào gần hơn?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "A口近一点。",
+              "id": "s04_02_0010_reply01",
+              "meaning_vi": "Cửa A gần hơn một chút."
+            },
+            {
+              "text": "两个都差不多。",
+              "id": "s04_02_0010_reply02",
+              "meaning_vi": "Cả hai đều gần như nhau."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "比较的是出口到目的地的远近；问前先说明要去哪里。",
+              "text_vi": "Đang so sánh lối ra nào gần điểm đến hơn; hãy nói rõ mình muốn đi đâu trước khi hỏi."
+            }
+          ],
+          "pinyin": "nǎ ge chū kǒu jìn",
+          "meaning_vi": "Lối ra nào gần hơn?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0011",
+          "level": "must",
+          "text": "要上楼吗？",
+          "alternatives": [
+            {
+              "text": "要到楼上吗？",
+              "id": "s04_02_0011_alt01",
+              "meaning_vi": "Có cần lên tầng trên không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，在三楼。",
+              "id": "s04_02_0011_reply01",
+              "meaning_vi": "Có, ở tầng ba."
+            },
+            {
+              "text": "不用，就在一楼。",
+              "id": "s04_02_0011_reply02",
+              "meaning_vi": "Không cần, ngay tầng một."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "中国的“一楼”通常指地面入口层；各国和建筑可能有不同的楼层习惯，数楼层时要看实际标识。",
+              "text_vi": "Ở Trung Quốc, “一楼” thông thường là tầng mặt đất. Cách gọi tầng ở các tòa nhà có thể khác nhau, nên xem biển số tầng thực tế."
+            }
+          ],
+          "pinyin": "yào shàng lóu ma",
+          "meaning_vi": "Có phải lên lầu không?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0012",
+          "level": "must",
+          "text": "电梯在哪儿？",
+          "alternatives": [
+            {
+              "text": "电梯在哪里？",
+              "id": "s04_02_0012_alt01",
+              "meaning_vi": "Thang máy nằm ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "就在前面。",
+              "id": "s04_02_0012_reply01",
+              "meaning_vi": "Ngay phía trước."
+            },
+            {
+              "text": "右边就是。",
+              "id": "s04_02_0012_reply02",
+              "meaning_vi": "Ngay bên phải đấy."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“电梯”常指升降电梯；商场里带台阶的自动扶梯通常叫“扶梯”。",
+              "text_vi": "“电梯” thường là thang máy; ở trung tâm thương mại, thang cuốn thường gọi “扶梯”."
+            }
+          ],
+          "pinyin": "diàn tī zài nǎr",
+          "meaning_vi": "Thang máy ở đâu?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0013",
+          "level": "must",
+          "text": "地铁口在哪边？",
+          "alternatives": [
+            {
+              "text": "地铁口在哪儿？",
+              "id": "s04_02_0013_alt01",
+              "meaning_vi": "Cửa vào ga tàu điện ngầm ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在马路对面。",
+              "id": "s04_02_0013_reply01",
+              "meaning_vi": "Ở bên kia đường."
+            },
+            {
+              "text": "往前走一点就到了。",
+              "id": "s04_02_0013_reply02",
+              "meaning_vi": "Đi thêm một chút là tới."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“地铁口”是地铁站的出入口，不是站台；还需要按指示牌进站。",
+              "text_vi": "“地铁口” là cửa ra vào ga tàu điện ngầm, không phải sân ga; vào ga rồi vẫn cần theo biển chỉ dẫn."
+            }
+          ],
+          "pinyin": "dì tiě kǒu zài nǎ biān",
+          "meaning_vi": "Lối vào tàu điện ngầm ở hướng nào?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0014",
+          "level": "must",
+          "text": "我是不是走错了？",
+          "alternatives": [
+            {
+              "text": "我走错了吗？",
+              "id": "s04_02_0014_alt01",
+              "meaning_vi": "Tôi đi nhầm đường à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "没有，继续往前走。",
+              "id": "s04_02_0014_reply01",
+              "meaning_vi": "Không, cứ đi thẳng tiếp."
+            },
+            {
+              "text": "对，你走反了。",
+              "id": "s04_02_0014_reply02",
+              "meaning_vi": "Đúng, bạn đi ngược hướng rồi."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“走错了”指方向或路线错；“走过头了”专指已经超过目的地。",
+              "text_vi": "“走错了” nghĩa là đi sai hướng hoặc đường; “走过头了” là đi quá điểm cần đến."
+            }
+          ],
+          "pinyin": "wǒ shì bu shì zǒu cuò le",
+          "meaning_vi": "Có phải tôi đi sai đường rồi không?",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0015",
+          "level": "listen",
+          "text": "在那边。",
+          "alternatives": [
+            {
+              "text": "在那儿。",
+              "id": "s04_02_0015_alt01",
+              "meaning_vi": "Ở đằng kia."
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪边？",
+              "id": "s04_02_0015_reply01",
+              "meaning_vi": "Phía nào?"
+            },
+            {
+              "text": "好，看到了。",
+              "id": "s04_02_0015_reply02",
+              "meaning_vi": "Được, thấy rồi."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“那边”常依靠手势来判断；看不清指向时可追问“哪边”。",
+              "text_vi": "“那边” thường phụ thuộc vào động tác chỉ tay. Không nhìn rõ hướng thì hỏi lại “哪边？”."
+            }
+          ],
+          "pinyin": "zài nà biān",
+          "meaning_vi": "Ở phía kia.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0016",
+          "level": "listen",
+          "text": "就在旁边。",
+          "alternatives": [
+            {
+              "text": "就在边上。",
+              "id": "s04_02_0016_alt01",
+              "meaning_vi": "Ở ngay bên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "这边吗？",
+              "id": "s04_02_0016_reply01",
+              "meaning_vi": "Phía này à?"
+            },
+            {
+              "text": "好，谢谢。",
+              "id": "s04_02_0016_reply02",
+              "meaning_vi": "Được, cảm ơn."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“旁边”是参照某人或某物的旁边，不一定是自己身体旁边；找不到可追问“在哪个旁边”。",
+              "text_vi": "“旁边” là bên cạnh một người hoặc vật mốc, không nhất thiết ngay cạnh mình; chưa thấy thì hỏi bên cạnh cái gì."
+            }
+          ],
+          "pinyin": "jiù zài páng biān",
+          "meaning_vi": "Ngay bên cạnh.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0017",
+          "level": "listen",
+          "text": "往里面走。",
+          "alternatives": [
+            {
+              "text": "往里走。",
+              "id": "s04_02_0017_alt01",
+              "meaning_vi": "Đi vào trong."
+            }
+          ],
+          "replies": [
+            {
+              "text": "一直往里吗？",
+              "id": "s04_02_0017_reply01",
+              "meaning_vi": "Cứ đi thẳng vào trong à?"
+            },
+            {
+              "text": "好。",
+              "id": "s04_02_0017_reply02",
+              "meaning_vi": "Được."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“往里面”是向建筑深处走，不代表遇到岔路也一直直走。",
+              "text_vi": "“往里面走” là đi vào sâu hơn bên trong tòa nhà, không có nghĩa gặp ngã rẽ vẫn cứ đi thẳng."
+            }
+          ],
+          "pinyin": "wǎng lǐ miàn zǒu",
+          "meaning_vi": "Đi vào bên trong.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0018",
+          "level": "listen",
+          "text": "前面左转。",
+          "alternatives": [
+            {
+              "text": "到前面左转。",
+              "id": "s04_02_0018_alt01",
+              "meaning_vi": "Đến phía trước thì rẽ trái."
+            }
+          ],
+          "replies": [
+            {
+              "text": "第一个路口吗？",
+              "id": "s04_02_0018_reply01",
+              "meaning_vi": "Ngã rẽ đầu tiên à?"
+            },
+            {
+              "text": "好，谢谢。",
+              "id": "s04_02_0018_reply02",
+              "meaning_vi": "Được, cảm ơn."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“前面左转”不是原地立刻左转；可以问“第一个路口吗”。",
+              "text_vi": "“前面左转” là đi đến phía trước rồi mới rẽ trái, không phải rẽ ngay tại chỗ."
+            }
+          ],
+          "pinyin": "qián miàn zuǒ zhuǎn",
+          "meaning_vi": "Phía trước rẽ trái.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0019",
+          "level": "listen",
+          "text": "出门右转。",
+          "alternatives": [
+            {
+              "text": "出去右转。",
+              "id": "s04_02_0019_alt01",
+              "meaning_vi": "Ra ngoài rồi rẽ phải."
+            }
+          ],
+          "replies": [
+            {
+              "text": "出去就右转吗？",
+              "id": "s04_02_0019_reply01",
+              "meaning_vi": "Vừa ra ngoài là rẽ phải à?"
+            },
+            {
+              "text": "知道了，谢谢。",
+              "id": "s04_02_0019_reply02",
+              "meaning_vi": "Tôi biết rồi, cảm ơn."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“右转”以出门后面对的方向为准，不是站在屋里随便猜左右。",
+              "text_vi": "“右转” được xác định theo hướng bạn quay mặt khi bước ra cửa, không phải tùy tiện đoán bên trái hay phải từ trong phòng."
+            }
+          ],
+          "pinyin": "chū mén yòu zhuǎn",
+          "meaning_vi": "Ra khỏi cửa thì rẽ phải.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0020",
+          "level": "listen",
+          "text": "在楼上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要坐电梯吗？",
+              "id": "s04_02_0020_reply01",
+              "meaning_vi": "Có cần đi thang máy không?"
+            },
+            {
+              "text": "几楼？",
+              "id": "s04_02_0020_reply02",
+              "meaning_vi": "Tầng mấy?"
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“楼上”没说具体楼层；不知道要到几楼就追问“几楼”。",
+              "text_vi": "“楼上” chưa cho biết tầng cụ thể; có thể hỏi thêm “几楼？”."
+            }
+          ],
+          "pinyin": "zài lóu shàng",
+          "meaning_vi": "Ở tầng trên.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0021",
+          "level": "listen",
+          "text": "在楼下。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "下一层吗？",
+              "id": "s04_02_0021_reply01",
+              "meaning_vi": "Xuống một tầng à?"
+            },
+            {
+              "text": "好，我下去看看。",
+              "id": "s04_02_0021_reply02",
+              "meaning_vi": "Được, tôi xuống xem thử."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“楼下”指比现在所在楼层更低的位置，不一定只下一层；不知道具体楼层可以问“几楼”。",
+              "text_vi": "“楼下” là tầng thấp hơn chỗ hiện tại, không nhất thiết chỉ xuống đúng một tầng."
+            }
+          ],
+          "pinyin": "zài lóu xià",
+          "meaning_vi": "Ở tầng dưới.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0022",
+          "level": "listen",
+          "text": "坐电梯上去。",
+          "alternatives": [
+            {
+              "text": "坐电梯上楼。",
+              "id": "s04_02_0022_alt01",
+              "meaning_vi": "Lên lầu bằng thang máy."
+            }
+          ],
+          "replies": [
+            {
+              "text": "到几楼？",
+              "id": "s04_02_0022_reply01",
+              "meaning_vi": "Lên tầng mấy?"
+            },
+            {
+              "text": "好。",
+              "id": "s04_02_0022_reply02",
+              "meaning_vi": "Được."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“坐电梯”是乘升降电梯；如果是自动扶梯，中文常叫“扶梯”，不宜一律理解成同一种电梯。",
+              "text_vi": "“坐电梯” là đi thang máy; nếu là thang cuốn, tiếng Trung thường gọi “扶梯”, không nên gộp làm một."
+            }
+          ],
+          "pinyin": "zuò diàn tī shàng qù",
+          "meaning_vi": "Đi thang máy lên.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0023",
+          "level": "listen",
+          "text": "走五分钟就到。",
+          "alternatives": [
+            {
+              "text": "走五分钟就到了。",
+              "id": "s04_02_0023_alt01",
+              "meaning_vi": "Đi bộ năm phút là đến rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "不远啊。",
+              "id": "s04_02_0023_reply01",
+              "meaning_vi": "Không xa nhỉ."
+            },
+            {
+              "text": "好，谢谢。",
+              "id": "s04_02_0023_reply02",
+              "meaning_vi": "Được, cảm ơn."
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“走五分钟”一般是估计，不保证精确五分钟；陌生路线要留余量。",
+              "text_vi": "“走五分钟” thường là ước lượng thời gian đi bộ, không bảo đảm đúng năm phút; nên dự trù thêm nếu chưa quen đường."
+            }
+          ],
+          "pinyin": "zǒu wǔ fēn zhōng jiù dào",
+          "meaning_vi": "Đi bộ năm phút là tới.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        },
+        {
+          "id": "s04_02_0024",
+          "level": "listen",
+          "text": "你走过头了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我往回走吗？",
+              "id": "s04_02_0024_reply01",
+              "meaning_vi": "Vậy tôi quay lại à?"
+            },
+            {
+              "text": "要往回走多远？",
+              "id": "s04_02_0024_reply02",
+              "meaning_vi": "Phải đi ngược lại bao xa?"
+            }
+          ],
+          "lesson_id": "04.2",
+          "lesson_title": "04.2 问地点",
+          "mistakes": [
+            {
+              "text": "“走过头了”是超过目的地，不一定整条路线走错；可以问要往回走多远。",
+              "text_vi": "“走过头了” là đã đi qua điểm đến, chưa chắc đi sai cả tuyến. Có thể hỏi cần quay lại bao xa."
+            }
+          ],
+          "pinyin": "nǐ zǒu guò tóu le",
+          "meaning_vi": "Bạn đi quá chỗ rồi.",
+          "lesson_title_vi": "04.2 Hỏi địa điểm và đường đi"
+        }
+      ],
+      "title_vi": "04.2 Hỏi địa điểm và đường đi",
+      "subtitle_vi": "24 thẻ thông dụng · 14 câu cần nói + 10 câu cần nghe",
+      "opening_vi": "Luyện hỏi hướng đi, khoảng cách, số tầng, lối vào và hiểu các chỉ dẫn ngắn thường gặp."
+    },
+    {
+      "id": "04.3",
+      "title": "04.3 问人物、负责人和归属",
+      "subtitle": "17张高频卡 · 9必说 + 8必听",
+      "opening": "这一课分清“谁的东西、谁负责、谁能处理”，学会找对人、交对东西。",
+      "phrases": [
+        {
+          "id": "s04_03_0001",
+          "level": "must",
+          "text": "他是谁？",
+          "alternatives": [
+            {
+              "text": "他是哪位？",
+              "id": "s04_03_0001_alt01",
+              "meaning_vi": "Anh ấy là người nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "他是我们主管。",
+              "id": "s04_03_0001_reply01",
+              "meaning_vi": "Anh ấy là quản lý của chúng tôi."
+            },
+            {
+              "text": "他是新来的同事。",
+              "id": "s04_03_0001_reply02",
+              "meaning_vi": "Anh ấy là đồng nghiệp mới."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“他是谁”是问第三个人身份；当着本人指着问可能不礼貌。",
+              "text_vi": "“他是谁？” hỏi về người thứ ba. Chỉ thẳng vào mặt người ấy rồi hỏi có thể bất lịch sự."
+            }
+          ],
+          "pinyin": "tā shì shéi",
+          "meaning_vi": "Anh ấy là ai?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0002",
+          "level": "must",
+          "text": "这是谁的？",
+          "alternatives": [
+            {
+              "text": "这是谁的东西？",
+              "id": "s04_03_0002_alt01",
+              "meaning_vi": "Đồ này là của ai?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这是我的。",
+              "id": "s04_03_0002_reply01",
+              "meaning_vi": "Đây là của tôi."
+            },
+            {
+              "text": "不知道，不是我的。",
+              "id": "s04_03_0002_reply02",
+              "meaning_vi": "Không biết, không phải của tôi."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“谁的”问物品所有者；“谁负责”问工作归谁管，不一样。",
+              "text_vi": "“谁的” hỏi ai sở hữu đồ vật; “谁负责” hỏi ai chịu trách nhiệm công việc. Hai câu khác nhau."
+            }
+          ],
+          "pinyin": "zhè shì shéi de",
+          "meaning_vi": "Cái này của ai?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0003",
+          "level": "must",
+          "text": "是你的吗？",
+          "alternatives": [
+            {
+              "text": "这是你的吗？",
+              "id": "s04_03_0003_alt01",
+              "meaning_vi": "Đây là đồ của bạn à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "是我的。",
+              "id": "s04_03_0003_reply01",
+              "meaning_vi": "Là của tôi."
+            },
+            {
+              "text": "不是我的。",
+              "id": "s04_03_0003_reply02",
+              "meaning_vi": "Không phải của tôi."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“你”在越南语中没有固定译法；同辈可用合适称谓，对年长者或上级应更尊敬。",
+              "text_vi": "“你” không luôn dịch thành “bạn”: cách xưng hô tiếng Việt tùy tuổi và quan hệ, nhất là với người lớn tuổi."
+            }
+          ],
+          "pinyin": "shì nǐ de ma",
+          "meaning_vi": "Của bạn à?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0004",
+          "level": "must",
+          "text": "主管是哪位？",
+          "alternatives": [
+            {
+              "text": "哪位是主管？",
+              "id": "s04_03_0004_alt01",
+              "meaning_vi": "Người nào là quản lý?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "穿蓝衣服的那位。",
+              "id": "s04_03_0004_reply01",
+              "meaning_vi": "Người mặc áo màu xanh ấy."
+            },
+            {
+              "text": "那位就是主管。",
+              "id": "s04_03_0004_reply02",
+              "meaning_vi": "Người đó chính là quản lý."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“哪位”比“谁”更客气，找主管、老师或长辈时很合适。",
+              "text_vi": "“哪位” lịch sự hơn “谁”, phù hợp khi tìm người quản lý, thầy cô hoặc người lớn tuổi."
+            }
+          ],
+          "pinyin": "zhǔ guǎn shì nǎ wèi",
+          "meaning_vi": "Ai là quản lý?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0005",
+          "level": "must",
+          "text": "谁负责这个？",
+          "alternatives": [
+            {
+              "text": "这个归谁管？",
+              "id": "s04_03_0005_alt01",
+              "meaning_vi": "Việc này do ai quản lý?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "小李负责。",
+              "id": "s04_03_0005_reply01",
+              "meaning_vi": "Tiểu Lý phụ trách."
+            },
+            {
+              "text": "这事不是我负责的，我帮你问问。",
+              "id": "s04_03_0005_reply02",
+              "meaning_vi": "Việc này không phải tôi phụ trách, để tôi hỏi giúp bạn."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“负责”是承担职责，不一定是本人亲自修理；负责人可能安排别人处理。",
+              "text_vi": "“负责” là chịu trách nhiệm, không nhất thiết tự tay sửa chữa. Người phụ trách có thể giao người khác xử lý."
+            }
+          ],
+          "pinyin": "shéi fù zé zhè ge",
+          "meaning_vi": "Ai phụ trách việc này?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0006",
+          "level": "must",
+          "text": "我该找谁？",
+          "alternatives": [
+            {
+              "text": "我应该找谁？",
+              "id": "s04_03_0006_alt01",
+              "meaning_vi": "Tôi cần gặp ai?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "你找经理。",
+              "id": "s04_03_0006_reply01",
+              "meaning_vi": "Bạn tìm quản lý nhé."
+            },
+            {
+              "text": "你找前台问一下。",
+              "id": "s04_03_0006_reply02",
+              "meaning_vi": "Bạn hỏi ở quầy lễ tân nhé."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“我该找谁”是在问谁能帮你办事，不只是在问一个人的当前位置。",
+              "text_vi": "“我该找谁？” hỏi ai là người cần liên hệ để giải quyết việc, không đơn thuần hỏi họ đang đứng ở đâu."
+            }
+          ],
+          "pinyin": "wǒ gāi zhǎo shéi",
+          "meaning_vi": "Tôi nên tìm ai?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0007",
+          "level": "must",
+          "text": "经理在吗？",
+          "alternatives": [
+            {
+              "text": "经理在不在？",
+              "id": "s04_03_0007_alt01",
+              "meaning_vi": "Quản lý có ở đây không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在，我帮你叫他。",
+              "id": "s04_03_0007_reply01",
+              "meaning_vi": "Có, để tôi gọi anh ấy cho bạn."
+            },
+            {
+              "text": "不在，下午回来。",
+              "id": "s04_03_0007_reply02",
+              "meaning_vi": "Không có, chiều anh ấy mới về."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“在吗”问人在不在，不等于他现在有空；经理在也可能正在开会。",
+              "text_vi": "“在吗” hỏi người đó có mặt không, không có nghĩa họ đang rảnh; quản lý có thể đang họp."
+            }
+          ],
+          "pinyin": "jīng lǐ zài ma",
+          "meaning_vi": "Quản lý có ở đây không?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0008",
+          "level": "must",
+          "text": "这个要交给谁？",
+          "alternatives": [
+            {
+              "text": "这个交给谁？",
+              "id": "s04_03_0008_alt01",
+              "meaning_vi": "Cái này giao cho ai?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "交给前台。",
+              "id": "s04_03_0008_reply01",
+              "meaning_vi": "Đưa cho lễ tân."
+            },
+            {
+              "text": "给王主管。",
+              "id": "s04_03_0008_reply02",
+              "meaning_vi": "Đưa cho quản lý Vương."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“交给”是把文件或东西正式交到接收人那里，不是只口头告知。",
+              "text_vi": "“交给” nghĩa là bàn giao giấy tờ hoặc đồ vật cho người tiếp nhận, không chỉ thông báo miệng."
+            }
+          ],
+          "pinyin": "zhè ge yào jiāo gěi shéi",
+          "meaning_vi": "Cái này cần đưa cho ai?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0009",
+          "level": "must",
+          "text": "谁能处理这个？",
+          "alternatives": [
+            {
+              "text": "这个谁能处理？",
+              "id": "s04_03_0009_alt01",
+              "meaning_vi": "Việc này ai có thể xử lý?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "经理能处理。",
+              "id": "s04_03_0009_reply01",
+              "meaning_vi": "Quản lý xử lý được."
+            },
+            {
+              "text": "这个要找技术人员。",
+              "id": "s04_03_0009_reply02",
+              "meaning_vi": "Việc này phải tìm nhân viên kỹ thuật."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“谁能处理”重解决能力；“谁负责”重工作归属，两个人可能不同。",
+              "text_vi": "“谁能处理” hỏi ai có khả năng xử lý, còn “谁负责” hỏi nhiệm vụ thuộc ai; có thể là hai người khác nhau."
+            }
+          ],
+          "pinyin": "shéi néng chǔ lǐ zhè ge",
+          "meaning_vi": "Ai xử lý được việc này?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0010",
+          "level": "listen",
+          "text": "找谁？",
+          "alternatives": [
+            {
+              "text": "你找谁？",
+              "id": "s04_03_0010_alt01",
+              "meaning_vi": "Bạn tìm ai?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我找王经理。",
+              "id": "s04_03_0010_reply01",
+              "meaning_vi": "Tôi tìm quản lý Vương."
+            },
+            {
+              "text": "我找主管。",
+              "id": "s04_03_0010_reply02",
+              "meaning_vi": "Tôi tìm người quản lý."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“找谁”很简短；主动接待陌生访客时说“请问您找谁”更客气。",
+              "text_vi": "“找谁？” quá ngắn có thể hơi cộc; khi tiếp khách nên hỏi “请问您找谁？” lịch sự hơn."
+            }
+          ],
+          "pinyin": "zhǎo shéi",
+          "meaning_vi": "Tìm ai?",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0011",
+          "level": "listen",
+          "text": "这是我的。",
+          "alternatives": [
+            {
+              "text": "这个是我的。",
+              "id": "s04_03_0011_alt01",
+              "meaning_vi": "Cái này là của tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，给你。",
+              "id": "s04_03_0011_reply01",
+              "meaning_vi": "Được, của bạn đây."
+            },
+            {
+              "text": "那你拿好。",
+              "id": "s04_03_0011_reply02",
+              "meaning_vi": "Vậy bạn cầm cho chắc nhé."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“这是我的”强调物品归自己所有，不是在说自己负责这项工作；越南语中自称应结合场景和人物关系。",
+              "text_vi": "“这是我的” khẳng định đồ vật thuộc sở hữu của mình, không phải mình phụ trách công việc đó. Tiếng Việt dùng cách xưng hô phù hợp ngữ cảnh."
+            }
+          ],
+          "pinyin": "zhè shì wǒ de",
+          "meaning_vi": "Đây là của tôi.",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0012",
+          "level": "listen",
+          "text": "不是我的。",
+          "alternatives": [
+            {
+              "text": "这个不是我的。",
+              "id": "s04_03_0012_alt01",
+              "meaning_vi": "Cái này không phải của tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那是谁的？",
+              "id": "s04_03_0012_reply01",
+              "meaning_vi": "Vậy là của ai?"
+            },
+            {
+              "text": "好，我再问问。",
+              "id": "s04_03_0012_reply02",
+              "meaning_vi": "Được, tôi hỏi lại xem."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“不是我的”只说明这不是自己的东西，不代表知道主人是谁。",
+              "text_vi": "“不是我的” chỉ nói đồ không phải của mình, không có nghĩa mình biết chủ là ai."
+            }
+          ],
+          "pinyin": "bú shì wǒ de",
+          "meaning_vi": "Không phải của tôi.",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0013",
+          "level": "listen",
+          "text": "他负责。",
+          "alternatives": [
+            {
+              "text": "这个他负责。",
+              "id": "s04_03_0013_alt01",
+              "meaning_vi": "Việc này anh ấy phụ trách."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去找他。",
+              "id": "s04_03_0013_reply01",
+              "meaning_vi": "Được, tôi đi tìm anh ấy."
+            },
+            {
+              "text": "他在哪儿？",
+              "id": "s04_03_0013_reply02",
+              "meaning_vi": "Anh ấy ở đâu?"
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“他负责”表示那个人承担责任，并不一定是他亲手做；注意与“他是谁”区分。",
+              "text_vi": "“他负责” nói người ấy chịu trách nhiệm, không nhất thiết tự tay làm; đừng nhầm với “他是谁”."
+            }
+          ],
+          "pinyin": "tā fù zé",
+          "meaning_vi": "Anh ấy phụ trách.",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0014",
+          "level": "listen",
+          "text": "你找经理。",
+          "alternatives": [
+            {
+              "text": "去找经理。",
+              "id": "s04_03_0014_alt01",
+              "meaning_vi": "Đi tìm quản lý đi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "经理在哪儿？",
+              "id": "s04_03_0014_reply01",
+              "meaning_vi": "Quản lý ở đâu?"
+            },
+            {
+              "text": "好，谢谢。",
+              "id": "s04_03_0014_reply02",
+              "meaning_vi": "Được, cảm ơn."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“你找经理”不等于经理就在眼前；不知位置可接着问“经理在哪儿”。",
+              "text_vi": "“你找经理” không có nghĩa quản lý đang ngay trước mặt. Chưa biết vị trí thì hỏi “经理在哪儿？”."
+            }
+          ],
+          "pinyin": "nǐ zhǎo jīng lǐ",
+          "meaning_vi": "Bạn tìm quản lý nhé.",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0015",
+          "level": "listen",
+          "text": "交给前台。",
+          "alternatives": [
+            {
+              "text": "给前台就行。",
+              "id": "s04_03_0015_alt01",
+              "meaning_vi": "Chỉ cần đưa cho lễ tân."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我拿过去。",
+              "id": "s04_03_0015_reply01",
+              "meaning_vi": "Được, tôi mang qua đó."
+            },
+            {
+              "text": "前台在哪儿？",
+              "id": "s04_03_0015_reply02",
+              "meaning_vi": "Quầy lễ tân ở đâu?"
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“前台”是接待处或那里工作的工作人员，不是随便一张靠前的桌子。",
+              "text_vi": "“前台” là quầy tiếp tân hoặc nhân viên lễ tân, không phải bất kỳ chiếc bàn nào ở phía trước."
+            }
+          ],
+          "pinyin": "jiāo gěi qián tái",
+          "meaning_vi": "Đưa cho lễ tân.",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0016",
+          "level": "listen",
+          "text": "不是我负责的。",
+          "alternatives": [
+            {
+              "text": "这个不是我负责的。",
+              "id": "s04_03_0016_alt01",
+              "meaning_vi": "Việc này không do tôi phụ trách."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我该找谁？",
+              "id": "s04_03_0016_reply01",
+              "meaning_vi": "Vậy tôi nên tìm ai?"
+            },
+            {
+              "text": "谁负责这个？",
+              "id": "s04_03_0016_reply02",
+              "meaning_vi": "Ai phụ trách việc này?"
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "单独说容易像推卸责任；工作中如果知道谁负责，最好顺便告诉对方。",
+              "text_vi": "Chỉ đáp “不是我负责的” có thể nghe như đùn đẩy trách nhiệm; nếu biết người phụ trách, nên chỉ giúp."
+            }
+          ],
+          "pinyin": "bú shì wǒ fù zé de",
+          "meaning_vi": "Không phải tôi phụ trách.",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        },
+        {
+          "id": "s04_03_0017",
+          "level": "listen",
+          "text": "负责人今天不在。",
+          "alternatives": [
+            {
+              "text": "今天负责人不在。",
+              "id": "s04_03_0017_alt01",
+              "meaning_vi": "Hôm nay người phụ trách không có mặt."
+            }
+          ],
+          "replies": [
+            {
+              "text": "什么时候回来？",
+              "id": "s04_03_0017_reply01",
+              "meaning_vi": "Khi nào quay lại?"
+            },
+            {
+              "text": "那我明天再来。",
+              "id": "s04_03_0017_reply02",
+              "meaning_vi": "Vậy ngày mai tôi quay lại."
+            }
+          ],
+          "lesson_id": "04.3",
+          "lesson_title": "04.3 问人物、负责人和归属",
+          "mistakes": [
+            {
+              "text": "“今天不在”可能是外出办事，不一定请假；可以问何时回来或谁能代收。",
+              "text_vi": "“今天不在” có thể là ra ngoài làm việc, không nhất thiết đang nghỉ phép. Có thể hỏi khi nào về hoặc ai nhận thay."
+            }
+          ],
+          "pinyin": "fù zé rén jīn tiān bú zài",
+          "meaning_vi": "Người phụ trách hôm nay vắng mặt.",
+          "lesson_title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+        }
+      ],
+      "title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai",
+      "subtitle_vi": "17 thẻ thông dụng · 9 câu cần nói + 8 câu cần nghe",
+      "opening_vi": "Phân biệt “đồ của ai”, “ai phụ trách” và “ai giải quyết được”, để tìm đúng người và giao đúng đồ."
+    },
+    {
+      "id": "04.4",
+      "title": "04.4 确认事实和信息",
+      "subtitle": "17张高频卡 · 11必说 + 6必听",
+      "opening": "这一课练时间、地点、数量、意思和做法的二次确认，分清“对、不是、不对、不可以”。",
+      "phrases": [
+        {
+          "id": "s04_04_0001",
+          "level": "must",
+          "text": "是这个吗？",
+          "alternatives": [
+            {
+              "text": "是不是这个？",
+              "id": "s04_04_0001_alt01",
+              "meaning_vi": "Có phải cái này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，就是这个。",
+              "id": "s04_04_0001_reply01",
+              "meaning_vi": "Đúng rồi, chính cái này."
+            },
+            {
+              "text": "不是，是旁边那个。",
+              "id": "s04_04_0001_reply02",
+              "meaning_vi": "Không, là cái bên cạnh."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“是这个吗”是核对哪一个东西；“这样对吗”才是核对做法是否正确。",
+              "text_vi": "“是这个吗” là xác nhận chọn đúng vật chưa; “这样对吗” mới hỏi cách làm đã đúng chưa."
+            }
+          ],
+          "pinyin": "shì zhè ge ma",
+          "meaning_vi": "Là cái này à?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0002",
+          "level": "must",
+          "text": "这样对吗？",
+          "alternatives": [
+            {
+              "text": "这样做对吗？",
+              "id": "s04_04_0002_alt01",
+              "meaning_vi": "Làm như vậy đúng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，这样就行。",
+              "id": "s04_04_0002_reply01",
+              "meaning_vi": "Đúng, làm như thế là được."
+            },
+            {
+              "text": "不对，要反过来。",
+              "id": "s04_04_0002_reply02",
+              "meaning_vi": "Không đúng, phải làm ngược lại."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“这样对吗”问正确性；“可以吗”通常问能不能做或是否允许，不可随便互换。",
+              "text_vi": "“这样对吗” hỏi đúng sai; “可以吗” hỏi có được phép làm hoặc làm được không, không nên dùng lẫn."
+            }
+          ],
+          "pinyin": "zhè yàng duì ma",
+          "meaning_vi": "Như thế này đúng không?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0003",
+          "level": "must",
+          "text": "可以吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s04_04_0003_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "不可以。",
+              "id": "s04_04_0003_reply02",
+              "meaning_vi": "Không được."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“可以吗”一般是在问能不能做、是否允许；它和问正确性的“对吗”不同。中文单独一句“可以吗”需要前文语境。",
+              "text_vi": "“可以吗” thường hỏi có được làm hoặc có được phép không, khác “对吗” hỏi đúng không. Câu này cần ngữ cảnh trước đó."
+            }
+          ],
+          "pinyin": "kě yǐ ma",
+          "meaning_vi": "Được không?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0004",
+          "level": "must",
+          "text": "确定吗？",
+          "alternatives": [
+            {
+              "text": "你确定吗？",
+              "id": "s04_04_0004_alt01",
+              "meaning_vi": "Bạn chắc chắn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "确定。",
+              "id": "s04_04_0004_reply01",
+              "meaning_vi": "Chắc chắn."
+            },
+            {
+              "text": "我再确认一下。",
+              "id": "s04_04_0004_reply02",
+              "meaning_vi": "Để tôi xác nhận lại."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“你确定吗”语气重时可能像质疑对方；只是核实时说“我再确认一下”更柔和。",
+              "text_vi": "“你确定吗” nói nặng giọng có thể thành nghi ngờ người kia; chỉ muốn xác minh thì “我再确认一下” mềm hơn."
+            }
+          ],
+          "pinyin": "què dìng ma",
+          "meaning_vi": "Chắc chắn chứ?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0005",
+          "level": "must",
+          "text": "时间是三点，对吗？",
+          "alternatives": [
+            {
+              "text": "是三点，对吗？",
+              "id": "s04_04_0005_alt01",
+              "meaning_vi": "Ba giờ phải không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，三点。",
+              "id": "s04_04_0005_reply01",
+              "meaning_vi": "Đúng, ba giờ."
+            },
+            {
+              "text": "不是，改成四点了。",
+              "id": "s04_04_0005_reply02",
+              "meaning_vi": "Không, đổi sang bốn giờ rồi."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "只说“三点”可能不清楚是上午还是下午；重要约会应确认具体时段。",
+              "text_vi": "Chỉ nói “三点” chưa rõ ba giờ sáng hay chiều. Hẹn việc quan trọng cần xác nhận cụ thể."
+            }
+          ],
+          "pinyin": "shí jiān shì sān diǎn, duì ma",
+          "meaning_vi": "Là ba giờ, đúng không?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0006",
+          "level": "must",
+          "text": "时间没变吧？",
+          "alternatives": [
+            {
+              "text": "时间没改吧？",
+              "id": "s04_04_0006_alt01",
+              "meaning_vi": "Chưa đổi giờ phải không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "没变，还是三点。",
+              "id": "s04_04_0006_reply01",
+              "meaning_vi": "Không đổi, vẫn ba giờ."
+            },
+            {
+              "text": "变了，改到四点。",
+              "id": "s04_04_0006_reply02",
+              "meaning_vi": "Đổi rồi, sang bốn giờ."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "句尾“吧”带有“应该没变”的预期，并不代表已经确认；对方可能回答“变了”。",
+              "text_vi": "Trợ từ “吧” tạo sắc thái dự đoán giờ chưa đổi, nhưng không phải đã xác nhận chắc chắn; đối phương vẫn có thể đáp “đã đổi rồi”."
+            }
+          ],
+          "pinyin": "shí jiān méi biàn ba",
+          "meaning_vi": "Giờ không thay đổi chứ?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0007",
+          "level": "must",
+          "text": "你的意思是先等一下吗？",
+          "alternatives": [
+            {
+              "text": "你的意思是先等吗？",
+              "id": "s04_04_0007_alt01",
+              "meaning_vi": "Ý bạn là đợi trước à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，先等一下。",
+              "id": "s04_04_0007_reply01",
+              "meaning_vi": "Đúng, đợi một chút đã."
+            },
+            {
+              "text": "不是，我的意思是先走。",
+              "id": "s04_04_0007_reply02",
+              "meaning_vi": "Không, ý tôi là đi trước."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“你的意思是……”是在复述核对，不代表你同意或替对方作决定；工作指示不清时应问明白。",
+              "text_vi": "“你的意思是……” là nhắc lại để xác nhận cách hiểu, không có nghĩa đã đồng ý hoặc tự quyết thay người kia."
+            }
+          ],
+          "pinyin": "nǐ de yì si shì xiān děng yí xià ma",
+          "meaning_vi": "Ý bạn là đợi một chút trước phải không?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0008",
+          "level": "must",
+          "text": "今天不上班，对吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，今天休息。",
+              "id": "s04_04_0008_reply01",
+              "meaning_vi": "Đúng, hôm nay nghỉ."
+            },
+            {
+              "text": "不是，今天正常上班。",
+              "id": "s04_04_0008_reply02",
+              "meaning_vi": "Không, hôm nay vẫn đi làm bình thường."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“今天不上班”可能是某个人休息，也可能是整组停工；不能自动当作所有人放假。",
+              "text_vi": "“今天不上班” có thể nói một người được nghỉ hoặc cả nhóm ngừng làm, không mặc nhiên tất cả được nghỉ."
+            }
+          ],
+          "pinyin": "jīn tiān bú shàng bān, duì ma",
+          "meaning_vi": "Hôm nay không đi làm, đúng không?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0009",
+          "level": "must",
+          "text": "我们在门口见，对吧？",
+          "alternatives": [
+            {
+              "text": "我们门口见，对吧？",
+              "id": "s04_04_0009_alt01",
+              "meaning_vi": "Gặp nhau ở cửa, phải không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，门口见。",
+              "id": "s04_04_0009_reply01",
+              "meaning_vi": "Đúng, gặp nhau ở cửa."
+            },
+            {
+              "text": "不是，在地铁口见。",
+              "id": "s04_04_0009_reply02",
+              "meaning_vi": "Không, gặp ở cửa ga tàu điện ngầm."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "商场往往有多个“门口”；最好说清东门、西门或几号出口，避免双方等错位置。",
+              "text_vi": "Trung tâm thương mại có thể có nhiều cửa. Nên nói rõ cửa Đông/Tây hoặc số lối ra để tránh chờ nhầm."
+            }
+          ],
+          "pinyin": "wǒ men zài mén kǒu jiàn, duì ba",
+          "meaning_vi": "Chúng ta gặp nhau ở cửa nhé, đúng không?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0010",
+          "level": "must",
+          "text": "你说的是明天吗？",
+          "alternatives": [
+            {
+              "text": "你是说明天吗？",
+              "id": "s04_04_0010_alt01",
+              "meaning_vi": "Ý bạn là ngày mai à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，明天。",
+              "id": "s04_04_0010_reply01",
+              "meaning_vi": "Đúng, ngày mai."
+            },
+            {
+              "text": "不是，是后天。",
+              "id": "s04_04_0010_reply02",
+              "meaning_vi": "Không, là ngày kia."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“明天”是下一天，“后天”是再下一天；重要日期最好用具体月日再次核实。",
+              "text_vi": "“明天” là ngày mai, “后天” là ngày kia. Với ngày quan trọng nên xác nhận thêm ngày tháng cụ thể."
+            }
+          ],
+          "pinyin": "nǐ shuō de shì míng tiān ma",
+          "meaning_vi": "Bạn nói ngày mai à?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0011",
+          "level": "must",
+          "text": "一共五个，对吗？",
+          "alternatives": [
+            {
+              "text": "总共五个，对吗？",
+              "id": "s04_04_0011_alt01",
+              "meaning_vi": "Có tất cả năm cái, đúng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，一共五个。",
+              "id": "s04_04_0011_reply01",
+              "meaning_vi": "Đúng, tổng cộng năm cái."
+            },
+            {
+              "text": "不对，一共六个。",
+              "id": "s04_04_0011_reply02",
+              "meaning_vi": "Không đúng, tổng cộng sáu cái."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“一共”是合计；“个”是常用量词，但票、瓶装水等物品还会用其他量词。",
+              "text_vi": "“一共” nghĩa là tổng cộng. “个” là lượng từ phổ biến, nhưng vé, chai nước và các đồ khác có thể dùng lượng từ riêng."
+            }
+          ],
+          "pinyin": "yí gòng wǔ ge, duì ma",
+          "meaning_vi": "Tổng cộng năm cái, đúng không?",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0012",
+          "level": "listen",
+          "text": "对。",
+          "alternatives": [
+            {
+              "text": "没错。",
+              "id": "s04_04_0012_alt01",
+              "meaning_vi": "Chính xác."
+            },
+            {
+              "text": "是的。",
+              "id": "s04_04_0012_alt02",
+              "meaning_vi": "Vâng, đúng vậy."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，知道了。",
+              "id": "s04_04_0012_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "行，那就这样。",
+              "id": "s04_04_0012_reply02",
+              "meaning_vi": "Ừ, vậy nhé."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "这里“对”是肯定事实；回答是否允许的“可以”不同，不能以为“对”就是批准去做。",
+              "text_vi": "“对” ở đây xác nhận một sự thật, khác “可以” là cho phép hoặc chấp thuận. Đừng hiểu “对” là đồng ý cho làm."
+            }
+          ],
+          "pinyin": "duì",
+          "meaning_vi": "Đúng.",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0013",
+          "level": "listen",
+          "text": "不是。",
+          "alternatives": [
+            {
+              "text": "不是的。",
+              "id": "s04_04_0013_alt01",
+              "meaning_vi": "Không phải đâu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那是什么？",
+              "id": "s04_04_0013_reply01",
+              "meaning_vi": "Vậy đó là cái gì?"
+            },
+            {
+              "text": "那是哪个？",
+              "id": "s04_04_0013_reply02",
+              "meaning_vi": "Vậy là cái nào?"
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“不是”常否定对象、身份；“不对”常表示信息或做法错误，不能不分场景地替换。",
+              "text_vi": "“不是” thường phủ định người hoặc vật; “不对” thường chỉ thông tin hoặc cách làm sai, không thay thế tùy tiện."
+            }
+          ],
+          "pinyin": "bú shì",
+          "meaning_vi": "Không phải.",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0014",
+          "level": "listen",
+          "text": "不对。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "哪里不对？",
+              "id": "s04_04_0014_reply01",
+              "meaning_vi": "Sai chỗ nào?"
+            },
+            {
+              "text": "那应该怎么做？",
+              "id": "s04_04_0014_reply02",
+              "meaning_vi": "Vậy phải làm thế nào?"
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“不对”是在指出信息或方法有错，有时语气直接；对同事可以接着具体说明哪里错，避免只说“不对”。",
+              "text_vi": "“不对” chỉ ra thông tin hoặc cách làm sai, nghe có thể hơi thẳng. Với đồng nghiệp, nên nói rõ sai chỗ nào."
+            }
+          ],
+          "pinyin": "bú duì",
+          "meaning_vi": "Không đúng.",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0015",
+          "level": "listen",
+          "text": "不可以。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "为什么？",
+              "id": "s04_04_0015_reply01",
+              "meaning_vi": "Tại sao?"
+            },
+            {
+              "text": "那怎么办？",
+              "id": "s04_04_0015_reply02",
+              "meaning_vi": "Vậy phải làm sao?"
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“不可以”是否定许可或可行性，不是“不是”（对象不对）或“不对”（做法有错）。",
+              "text_vi": "“不可以” là không được phép hoặc không khả thi, khác “不是” (không phải vật/người ấy) và “不对” (sai)."
+            }
+          ],
+          "pinyin": "bù kě yǐ",
+          "meaning_vi": "Không được.",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0016",
+          "level": "listen",
+          "text": "确定。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那就这样。",
+              "id": "s04_04_0016_reply01",
+              "meaning_vi": "Được, cứ thế nhé."
+            },
+            {
+              "text": "行，我知道了。",
+              "id": "s04_04_0016_reply02",
+              "meaning_vi": "Ừ, tôi biết rồi."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“确定”表示说话人有把握；没查清楚时应说“我再确认一下”，不要随便保证。",
+              "text_vi": "“确定” nghĩa là chắc chắn. Chưa kiểm tra rõ thì hãy nói “我再确认一下” chứ đừng cam đoan."
+            }
+          ],
+          "pinyin": "què dìng",
+          "meaning_vi": "Chắc chắn.",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        },
+        {
+          "id": "s04_04_0017",
+          "level": "listen",
+          "text": "不是这个意思。",
+          "alternatives": [
+            {
+              "text": "我不是这个意思。",
+              "id": "s04_04_0017_alt01",
+              "meaning_vi": "Ý tôi không phải như vậy."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那是什么意思？",
+              "id": "s04_04_0017_reply01",
+              "meaning_vi": "Vậy nghĩa là gì?"
+            },
+            {
+              "text": "好，你再解释一下。",
+              "id": "s04_04_0017_reply02",
+              "meaning_vi": "Được, bạn giải thích thêm một chút nhé."
+            }
+          ],
+          "lesson_id": "04.4",
+          "lesson_title": "04.4 确认事实和信息",
+          "mistakes": [
+            {
+              "text": "“不是这个意思”纠正对方对话语的理解，不一定否定事实；最好接着说“我的意思是……”。",
+              "text_vi": "“不是这个意思” sửa cách người khác hiểu lời mình, không nhất thiết phủ định sự thật. Nên nói tiếp “我的意思是……”."
+            }
+          ],
+          "pinyin": "bú shì zhè ge yì si",
+          "meaning_vi": "Không phải ý đó.",
+          "lesson_title_vi": "04.4 Xác nhận thông tin và sự thật"
+        }
+      ],
+      "title_vi": "04.4 Xác nhận thông tin và sự thật",
+      "subtitle_vi": "17 thẻ thông dụng · 11 câu cần nói + 6 câu cần nghe",
+      "opening_vi": "Luyện cách xác nhận lại thời gian, địa điểm, số lượng, ý nghĩa và cách làm; phân biệt “对”, “不是”, “不对” và “不可以”."
+    }
+  ],
+  "phrase_count": 73,
+  "theme_title_vi": "04 Đặt câu hỏi và xác nhận"
+}
