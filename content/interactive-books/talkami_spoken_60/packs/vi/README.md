@@ -1,45 +1,28 @@
 # Talkami 越南语短句（独立数据目录）
 
-这里是缅语口语课程的**越南语独立版本**。文件放在 `content/interactive-books/talkami_spoken_60/packs/vi/`。原有 `packs/01.json` 至 `packs/60.json` 仍为缅甸语版本，**不会被覆盖**。
+这里是越南语独立版本：`content/interactive-books/talkami_spoken_60/packs/vi/`，不覆盖原缅语版本 `packs/01.json`–`packs/60.json`。
 
-## 当前发布范围（2026-11-02）
+## 当前进度（2026-11-02）
 
-- `catalog.json`：越南语独立目录，目前仅登记**第01主题**，73张主卡、4节课。
-- `01.json`：完整的第01主题「问候寒暄」，包括73张主卡、替换句、常见回应和66条教学易错说明的越南语版。
-- `_translation_notes_01.json`：逐卡教学说明的越南语翻译对照（审核/维护用途，客户端不必下载）。
-- `QA_01.json`：源文件和越南语数据的结构及完整性复查结果。
+- 已发布主题：**01–30**，共 **2189 张主卡**。
+- 越南语课程目录：`catalog.json`，已登记 30 个主题，供越南语 App 加载。
+- 主题数据文件：`01.json`–`30.json`。
+- 第31–60主题尚未制作成正式越南语课程文件。
+- 部分辅助文件包括 `_translation_map_*.json`、`_translation_notes_*.json` 和 QA 报告，仅供制作及审核使用；辅助文件的存在不代表正式课程已经发布。
 
-第02–60主题**尚未翻译和发布**。请不要将本目录理解成已完成60主题。
+## 数据原则
 
-## 正确的中文数据来源
+- 保持中文 `text`、拼音 `pinyin`、ID、课程顺序、等级以及 `alternatives`、`replies` 的原结构。
+- 中文对应的越南语译文使用 `meaning_vi`；教学提示使用 `text_vi`；课节与主题采用 `title_vi`、`theme_title_vi` 等字段。
+- 去除缅语的 `_my` 翻译和 `phonetic_my`（它是缅文字母模拟的汉语读音，不适用于越南学习者）。
+- 原课程中带有缅甸国籍、文化或情境的中文例句，原则上保留原中文，必要时在越南语教学提示中解释，不随意更改稳定中文语料。
+- 越南语 App 应读取 `_vi` 字段，并使用本目录专有的 `catalog.json`，不可直接沿用原缅语目录。
 
-源文件为 `content/interactive-books/talkami_spoken_60/packs/01.json`，源版本 **V13**，Git blob SHA `18749f701488188f5ea265aee15a4cd82bcd5636`。
+## App 数据入口
 
-第01主题原始73张主卡及其中文、拼音、稳定ID、卡片顺序、分级、替换句和回应句全部保留。66条教学说明已翻译；其中原文中12处专讲缅语差异的**中文教学说明**改写成适用于越南学习者的说明，不涉及任何中文练习句的修改。
+- [越南语目录](https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/packs/vi/catalog.json)
+- 单个主题按 `packs/vi/<theme_id>.json` 加载。例如第30主题的路径是 `packs/vi/30.json`。
 
-## 字段兼容
+## 质量声明
 
-| 缅语数据 | 越南语数据 |
-| --- | --- |
-| `theme_title_my` | `theme_title_vi` |
-| `title_my`, `subtitle_my`, `opening_my` | `title_vi`, `subtitle_vi`, `opening_vi` |
-| `lesson_title_my` | `lesson_title_vi` |
-| `meaning_my` | `meaning_vi` |
-| `mistakes[].text_my` | `mistakes[].text_vi` |
-
-`text`（中文）、`pinyin`、`id`、`level`、`alternatives`、`replies` 等保留原结构。`phonetic_my` 是**缅文近似谐音**，不适合机械转成越南语。越南版只使用原有准确拼音，不生成容易误导读音的“越语谐音”。
-
-**注意：原缅语 App 如果写死读取 `_my` 字段，需要在越南语 App 中改成读取 `_vi`。** 这是独立数据包，不是无需改动客户端代码的直接覆盖包。
-
-## 云端访问
-
-- 独立目录：`https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/packs/vi/catalog.json`
-- 第01主题：`https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/packs/vi/01.json`
-
-`catalog.json` 的 `public_base_url` 指向原项目根路径；主题 `data_url` 已指向独立的 `packs/vi/01.json`。不要用原缅语 `catalog.json` 加载越南版。
-
-## 复检与质量状态
-
-已逐卡核对主卡和附属句子的中文原文、拼音、编号及顺序；检查了翻译字段非空、JSON结构、重复ID和是否残留缅甸文字。详见 `QA_01.json`。
-
-**越南语内容由 AI 翻译与审校；尚未经过独立越南语母语者最终逐句审校或真人音频测试。** 请在正式商用前进行语言与音频复核。
+已执行翻译覆盖与 JSON 结构检查；**这不等于越南语母语专家终审**。中文音频与 App 真机加载测试仍需另行验证。
