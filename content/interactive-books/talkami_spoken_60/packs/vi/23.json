@@ -1,0 +1,1868 @@
+{
+  "theme_id": "23",
+  "version": 1,
+  "updated_at": "2026-11-02T15:06:22.847Z",
+  "theme_title": "23 餐厅点餐",
+  "quality_standard": "Independent Vietnamese adaptation of source theme 23. Preserves all Chinese, stable IDs, pinyin, lesson/card ordering, nested dialogue and card_count. Vietnamese 60 learning notes. Native-speaker final review and audio/app test pending.",
+  "source_phrase_count": 71,
+  "lessons": [
+    {
+      "id": "23.1",
+      "title": "23.1 入店排队找座",
+      "subtitle": "23张实用口语卡",
+      "opening": "掌握入店报人数、询问空座与排队、提出座位需求；听懂取号、等位、人齐和包间安排。",
+      "phrases": [
+        {
+          "id": "s23_1_0001",
+          "level": "must",
+          "text": "两位。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，两位这边请。",
+              "id": "s23_1_0001_reply01",
+              "meaning_vi": "Vâng, hai vị mời đi lối này."
+            },
+            {
+              "text": "两位的话，可能要等五分钟。",
+              "id": "s23_1_0001_reply02",
+              "meaning_vi": "Hai người thì có lẽ phải đợi năm phút."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "liǎng wèi",
+          "mistakes": [
+            {
+              "text": "“位”在这里是礼貌地数人，不是说有两个座位。",
+              "text_vi": "“位” là lượng từ lịch sự để đếm người, không phải hai ghế ngồi."
+            }
+          ],
+          "meaning_vi": "Hai người.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0002",
+          "level": "must",
+          "text": "有位置吗？",
+          "alternatives": [
+            {
+              "text": "有空桌吗？",
+              "id": "s23_1_0002_alt01",
+              "meaning_vi": "Còn bàn trống không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，这边请。",
+              "id": "s23_1_0002_reply01",
+              "meaning_vi": "Có, mời đi lối này."
+            },
+            {
+              "text": "暂时没有，要等一下。",
+              "id": "s23_1_0002_reply02",
+              "meaning_vi": "Tạm thời chưa có, phải chờ một chút."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "yǒu wèi zi ma",
+          "mistakes": [
+            {
+              "text": "餐厅“有位置吗”是问是否有可就座的空位，不等于只问有没有椅子；“有空桌吗”更明确问空桌。",
+              "text_vi": "“有位置吗” hỏi còn chỗ ngồi không; “有空桌吗” hỏi rõ còn bàn trống không."
+            }
+          ],
+          "meaning_vi": "Còn chỗ không?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0003",
+          "level": "must",
+          "text": "可以坐里面吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，里面还有位置。",
+              "id": "s23_1_0003_reply01",
+              "meaning_vi": "Được, bên trong vẫn còn chỗ."
+            },
+            {
+              "text": "里面暂时没位置。",
+              "id": "s23_1_0003_reply02",
+              "meaning_vi": "Bên trong hiện chưa có chỗ."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "kě yǐ zuò lǐ miàn ma",
+          "mistakes": [
+            {
+              "text": "“可以……吗”是在询问是否允许，不是通知对方自己已经坐下。",
+              "text_vi": "“可以……吗” hỏi có được phép hay không, chưa có nghĩa đã ngồi xuống."
+            }
+          ],
+          "meaning_vi": "Ngồi bên trong được không?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0004",
+          "level": "must",
+          "text": "想坐靠窗的。",
+          "alternatives": [
+            {
+              "text": "想坐窗边。",
+              "id": "s23_1_0004_alt01",
+              "meaning_vi": "Muốn ngồi cạnh cửa sổ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "靠窗还有一桌，这边请。",
+              "id": "s23_1_0004_reply01",
+              "meaning_vi": "Vẫn còn một bàn gần cửa sổ, mời đi lối này."
+            },
+            {
+              "text": "窗边已经满了，里面的位置可以吗？",
+              "id": "s23_1_0004_reply02",
+              "meaning_vi": "Chỗ gần cửa sổ đã hết, ngồi bên trong được không?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "xiǎng zuò kào chuāng de",
+          "mistakes": [
+            {
+              "text": "“靠窗的”省略了“位置”；更完整的说法是“我想坐靠窗的位置”。",
+              "text_vi": "“靠窗的” lược từ “位置” (chỗ ngồi); câu đầy đủ là muốn ngồi gần cửa sổ."
+            }
+          ],
+          "meaning_vi": "Tôi muốn ngồi gần cửa sổ.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0005",
+          "level": "must",
+          "text": "要等多久？",
+          "alternatives": [
+            {
+              "text": "要等多长时间？",
+              "id": "s23_1_0005_alt01",
+              "meaning_vi": "Phải chờ bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "大概十分钟。",
+              "id": "s23_1_0005_reply01",
+              "meaning_vi": "Khoảng mười phút."
+            },
+            {
+              "text": "现在比较忙，可能要等半小时。",
+              "id": "s23_1_0005_reply02",
+              "meaning_vi": "Giờ quán khá đông, có lẽ phải đợi nửa tiếng."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "yào děng duō jiǔ",
+          "mistakes": [
+            {
+              "text": "“多久”问时间长短，不是问几点开门。",
+              "text_vi": "“多久” hỏi khoảng thời gian chờ, không phải giờ quán mở cửa."
+            }
+          ],
+          "meaning_vi": "Phải đợi bao lâu?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0006",
+          "level": "must",
+          "text": "要排队吗？",
+          "alternatives": [
+            {
+              "text": "需要排队吗？",
+              "id": "s23_1_0006_alt01",
+              "meaning_vi": "Có cần xếp hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，请先取号。",
+              "id": "s23_1_0006_reply01",
+              "meaning_vi": "Có, vui lòng lấy số trước."
+            },
+            {
+              "text": "不用，现在有位置。",
+              "id": "s23_1_0006_reply02",
+              "meaning_vi": "Không cần, giờ có chỗ rồi."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "yào pái duì ma",
+          "mistakes": [
+            {
+              "text": "有的餐厅先“取号”再叫号，并不是一直站成一条队伍。",
+              "text_vi": "Có nhà hàng cấp số rồi gọi lượt, không nhất thiết khách phải đứng thành một hàng."
+            }
+          ],
+          "meaning_vi": "Có phải xếp hàng không?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0007",
+          "level": "must",
+          "text": "我们还有一个人没到。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没关系，可以先坐下。",
+              "id": "s23_1_0007_reply01",
+              "meaning_vi": "Không sao, mọi người cứ ngồi trước."
+            },
+            {
+              "text": "不好意思，要等人齐了再入座。",
+              "id": "s23_1_0007_reply02",
+              "meaning_vi": "Xin lỗi, phải đợi đủ người rồi mới được vào bàn."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "wǒ men hái yǒu yí ge rén méi dào",
+          "mistakes": [
+            {
+              "text": "“我们还有一个人没到”指同行者中还有一人未到，不是说最后只来一个人；也不表示此人已经取消赴约。",
+              "text_vi": "Câu này nói trong nhóm còn một người chưa đến, không phải chỉ có một người đến hoặc người đó đã hủy hẹn."
+            }
+          ],
+          "meaning_vi": "Nhóm chúng tôi còn một người chưa đến.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0008",
+          "level": "must",
+          "text": "可以先进去等吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s23_1_0008_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "不好意思，人齐了再进去。",
+              "id": "s23_1_0008_reply02",
+              "meaning_vi": "Xin lỗi, đợi đủ người rồi mới vào nhé."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "kě yǐ xiān jìn qù děng ma",
+          "mistakes": [
+            {
+              "text": "“先进去等”是在问能否进店等，不等于已经可以点菜。",
+              "text_vi": "Xin được vào bên trong đợi chưa có nghĩa được phép gọi món ngay."
+            }
+          ],
+          "meaning_vi": "Vào trong đợi trước được không?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0009",
+          "level": "must",
+          "text": "还要等几桌？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "前面还有三桌。",
+              "id": "s23_1_0009_reply01",
+              "meaning_vi": "Trước bạn còn ba bàn nữa."
+            },
+            {
+              "text": "就剩一桌了。",
+              "id": "s23_1_0009_reply02",
+              "meaning_vi": "Chỉ còn một bàn nữa thôi."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "hái yào děng jǐ zhuō",
+          "mistakes": [
+            {
+              "text": "这里的“几桌”数的是排队等待的几组顾客，不是还空着几张桌子；也不能直接换算成准确分钟数。",
+              "text_vi": "“几桌” ở đây đếm số nhóm khách đang chờ trước, không phải số bàn trống; không thể đổi thẳng ra số phút."
+            }
+          ],
+          "meaning_vi": "Còn mấy bàn nữa mới đến lượt?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0010",
+          "level": "must",
+          "text": "可以加一把椅子吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，我给你拿一把。",
+              "id": "s23_1_0010_reply01",
+              "meaning_vi": "Được, để tôi lấy thêm ghế."
+            },
+            {
+              "text": "不好意思，这边没地方加椅子。",
+              "id": "s23_1_0010_reply02",
+              "meaning_vi": "Xin lỗi, chỗ này không còn chỗ kê thêm ghế."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "kě yǐ jiā yì bǎ yǐ zi ma",
+          "mistakes": [
+            {
+              "text": "椅子的量词常用“把”，不要说成“一个椅子”作为教材主表达。",
+              "text_vi": "Lượng từ của ghế thường là “把”; nên học “一把椅子” thay vì chỉ dùng “一个椅子”."
+            }
+          ],
+          "meaning_vi": "Có thể kê thêm một cái ghế không?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0011",
+          "level": "must",
+          "text": "我们三个人。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，三位跟我来。",
+              "id": "s23_1_0011_reply01",
+              "meaning_vi": "Vâng, mời ba vị đi theo tôi."
+            },
+            {
+              "text": "三位需要等一下。",
+              "id": "s23_1_0011_reply02",
+              "meaning_vi": "Ba người phải đợi một chút."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "wǒ men sān ge rén",
+          "mistakes": [
+            {
+              "text": "入店时“我们三个人”是向店员报同行总人数；店员也会说“三位”。不要把“三个人”误听成三张桌或三道菜。",
+              "text_vi": "“我们三个人” báo tổng số khách đi cùng. Nhân viên cũng nói “三位”, không phải ba bàn hay ba món."
+            }
+          ],
+          "meaning_vi": "Chúng tôi có ba người.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0012",
+          "level": "must",
+          "text": "可以拼桌吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，不过要先征求那桌客人的同意。",
+              "id": "s23_1_0012_reply01",
+              "meaning_vi": "Được, nhưng phải hỏi ý kiến khách ở bàn kia trước."
+            },
+            {
+              "text": "不好意思，我们这里不安排拼桌。",
+              "id": "s23_1_0012_reply02",
+              "meaning_vi": "Xin lỗi, quán chúng tôi không sắp xếp ngồi ghép bàn."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "kě yǐ pīn zhuō ma",
+          "mistakes": [
+            {
+              "text": "“拼桌”是与其他顾客共坐一张桌，不是把两张桌子拼接起来。",
+              "text_vi": "“拼桌” là ngồi chung bàn với nhóm khách khác, không phải ghép hai chiếc bàn thành một."
+            }
+          ],
+          "meaning_vi": "Ngồi ghép bàn được không?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0013",
+          "level": "must",
+          "text": "我们人齐了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，现在可以入座了。",
+              "id": "s23_1_0013_reply01",
+              "meaning_vi": "Vâng, giờ có thể vào ngồi rồi."
+            },
+            {
+              "text": "请把取号单给我看一下。",
+              "id": "s23_1_0013_reply02",
+              "meaning_vi": "Vui lòng cho tôi xem phiếu số thứ tự."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "wǒ men rén qí le",
+          "mistakes": [
+            {
+              "text": "“人齐了”指该来的人都到了，不是说人很多。",
+              "text_vi": "“人齐了” nghĩa là những người cần đến đã đủ mặt, không phải quá đông người."
+            }
+          ],
+          "meaning_vi": "Nhóm chúng tôi đủ người rồi.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0014",
+          "level": "listen",
+          "text": "几位？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "两位。",
+              "id": "s23_1_0014_reply01",
+              "meaning_vi": "Hai người."
+            },
+            {
+              "text": "我们三个人。",
+              "id": "s23_1_0014_reply02",
+              "meaning_vi": "Chúng tôi có ba người."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "jǐ wèi",
+          "mistakes": [
+            {
+              "text": "这是店员问顾客人数；缅甸学习者听到后应回答人数，不是报姓名。",
+              "text_vi": "“几位？” hỏi có mấy người dùng bữa; hãy trả lời số người, không phải tên của mình."
+            }
+          ],
+          "meaning_vi": "Mấy người ạ?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0015",
+          "level": "listen",
+          "text": "有预约吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，用王先生的名字订的。",
+              "id": "s23_1_0015_reply01",
+              "meaning_vi": "Có, đặt dưới tên ông Vương."
+            },
+            {
+              "text": "没有，我们直接过来的。",
+              "id": "s23_1_0015_reply02",
+              "meaning_vi": "Không, chúng tôi đến thẳng thôi."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "yǒu yù yuē ma",
+          "mistakes": [
+            {
+              "text": "“预约”在餐厅里通常是提前订位，不是已经点好菜。",
+              "text_vi": "Trong nhà hàng, “预约” là đặt bàn trước, không phải đã gọi món."
+            }
+          ],
+          "meaning_vi": "Anh/chị có đặt bàn trước không ạ?",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0016",
+          "level": "listen",
+          "text": "这边请。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s23_1_0016_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "请问是坐这桌吗？",
+              "id": "s23_1_0016_reply02",
+              "meaning_vi": "Xin hỏi, mình ngồi bàn này phải không?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "zhè biān qǐng",
+          "mistakes": [
+            {
+              "text": "“这边请”是礼貌带路用语，顾客不需要跟着重复这句话。",
+              "text_vi": "“这边请” là lời nhân viên lịch sự chỉ đường và mời khách đi theo; khách không cần lặp lại câu này."
+            }
+          ],
+          "meaning_vi": "Mời đi lối này.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0017",
+          "level": "listen",
+          "text": "现在要等十分钟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我们在这儿等。",
+              "id": "s23_1_0017_reply01",
+              "meaning_vi": "Được, chúng tôi đợi ở đây."
+            },
+            {
+              "text": "我们赶时间，外面有位置吗？",
+              "id": "s23_1_0017_reply02",
+              "meaning_vi": "Chúng tôi đang vội, bên ngoài còn chỗ không?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "xiàn zài yào děng shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“要等十分钟”通常是预计等待时间，忙时可能变化；不是固定预约时间。",
+              "text_vi": "Mười phút là thời gian chờ dự kiến, có thể thay đổi khi quán đông, không phải giờ đặt bàn chính xác."
+            }
+          ],
+          "meaning_vi": "Hiện phải đợi mười phút.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0018",
+          "level": "listen",
+          "text": "前面还有三桌。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，那我们等叫号。",
+              "id": "s23_1_0018_reply01",
+              "meaning_vi": "Vâng, vậy chúng tôi đợi gọi số."
+            },
+            {
+              "text": "大概还要等多久？",
+              "id": "s23_1_0018_reply02",
+              "meaning_vi": "Khoảng bao lâu nữa mới đến lượt?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "qián miàn hái yǒu sān zhuō",
+          "mistakes": [
+            {
+              "text": "“三桌”数的是等候的三组客人，不能推断准确要等多少分钟。",
+              "text_vi": "“三桌” là ba nhóm khách đang đợi trước, chưa thể suy ra phải đợi bao nhiêu phút."
+            }
+          ],
+          "meaning_vi": "Trước bạn còn ba bàn nữa.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0019",
+          "level": "listen",
+          "text": "里面暂时没位置。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那外面还有座位吗？",
+              "id": "s23_1_0019_reply01",
+              "meaning_vi": "Vậy ngoài kia còn ghế ngồi không?"
+            },
+            {
+              "text": "好的，我们等一会儿。",
+              "id": "s23_1_0019_reply02",
+              "meaning_vi": "Vâng, chúng tôi đợi một lát."
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "lǐ miàn zàn shí méi wèi zi",
+          "mistakes": [
+            {
+              "text": "“暂时”表示现在还没有，不代表今天整晚都没有。",
+              "text_vi": "“暂时” nghĩa là hiện tại chưa có, không đồng nghĩa cả tối đều không có bàn."
+            }
+          ],
+          "meaning_vi": "Bên trong hiện chưa có chỗ.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0020",
+          "level": "listen",
+          "text": "可以先坐外面。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，外面也可以。",
+              "id": "s23_1_0020_reply01",
+              "meaning_vi": "Được, bên ngoài cũng được."
+            },
+            {
+              "text": "里面有位置时可以换进去吗？",
+              "id": "s23_1_0020_reply02",
+              "meaning_vi": "Khi bên trong có chỗ thì chuyển vào được không?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "kě yǐ xiān zuò wài miàn",
+          "mistakes": [
+            {
+              "text": "这里“外面”指餐厅外侧的座位，不是让人离开餐厅。",
+              "text_vi": "“外面” ở đây chỉ khu ngồi bên ngoài nhà hàng, không có nghĩa đuổi khách ra về."
+            }
+          ],
+          "meaning_vi": "Có thể ngồi bên ngoài trước.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0021",
+          "level": "listen",
+          "text": "人齐了再进去。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我们等人到齐。",
+              "id": "s23_1_0021_reply01",
+              "meaning_vi": "Được, chúng tôi đợi đủ người."
+            },
+            {
+              "text": "那可以先取号吗？",
+              "id": "s23_1_0021_reply02",
+              "meaning_vi": "Vậy lấy số trước được không?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "rén qí le zài jìn qù",
+          "mistakes": [
+            {
+              "text": "“……了再……”表示先满足前面的条件，再做后面的事。",
+              "text_vi": "Mẫu “……了再……” diễn tả phải hoàn thành điều kiện đầu rồi mới thực hiện việc sau."
+            }
+          ],
+          "meaning_vi": "Đợi đủ người rồi mới vào.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0022",
+          "level": "listen",
+          "text": "请先取号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，在哪里取号？",
+              "id": "s23_1_0022_reply01",
+              "meaning_vi": "Được, lấy số ở đâu?"
+            },
+            {
+              "text": "已经取好了，需要在这里等吗？",
+              "id": "s23_1_0022_reply02",
+              "meaning_vi": "Chúng tôi lấy số rồi, có cần đợi ở đây không?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "qǐng xiān qǔ hào",
+          "mistakes": [
+            {
+              "text": "“取号”是领取排队号码，不是领取已分配好的桌号。",
+              "text_vi": "“取号” là lấy số xếp hàng, không phải lấy số bàn đã được phân cho mình."
+            }
+          ],
+          "meaning_vi": "Vui lòng lấy số trước.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        },
+        {
+          "id": "s23_1_0023",
+          "level": "listen",
+          "text": "包间现在没有了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那大厅还有位置吗？",
+              "id": "s23_1_0023_reply01",
+              "meaning_vi": "Vậy khu bàn chung còn chỗ không?"
+            },
+            {
+              "text": "大概什么时候会有包间？",
+              "id": "s23_1_0023_reply02",
+              "meaning_vi": "Khoảng khi nào mới có phòng riêng?"
+            }
+          ],
+          "lesson_id": "23.1",
+          "lesson_title": "23.1 入店排队找座",
+          "pinyin": "bāo jiān xiàn zài méi yǒu le",
+          "mistakes": [
+            {
+              "text": "“包间”是餐厅里的独立用餐房间，不是酒店客房。",
+              "text_vi": "“包间” là phòng ăn riêng trong nhà hàng, không phải phòng nghỉ khách sạn."
+            }
+          ],
+          "meaning_vi": "Hiện không còn phòng riêng.",
+          "lesson_title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ"
+        }
+      ],
+      "title_vi": "23.1 Vào quán, xếp hàng và chọn chỗ",
+      "subtitle_vi": "23 thẻ giao tiếp thực tế",
+      "opening_vi": "Luyện báo số người, hỏi bàn trống, lấy số đợi, chọn chỗ ngồi và đặt phòng riêng, đồng thời hiểu cách quán gọi khách."
+    },
+    {
+      "id": "23.2",
+      "title": "23.2 看菜单与问菜",
+      "subtitle": "18张实用口语卡",
+      "opening": "学会看纸质或扫码菜单，问清菜名、配料、辣度与素菜选择，并听懂花生、牛肉等关键信息。",
+      "phrases": [
+        {
+          "id": "s23_2_0001",
+          "level": "must",
+          "text": "菜单在哪儿？",
+          "alternatives": [
+            {
+              "text": "菜单在哪里？",
+              "id": "s23_2_0001_alt01",
+              "meaning_vi": "Thực đơn nằm ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "扫桌上的码。",
+              "id": "s23_2_0001_reply01",
+              "meaning_vi": "Quét mã trên bàn."
+            },
+            {
+              "text": "纸质菜单在这里。",
+              "id": "s23_2_0001_reply02",
+              "meaning_vi": "Thực đơn giấy ở đây."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "cài dān zài nǎr",
+          "mistakes": [
+            {
+              "text": "“菜单在哪儿”问菜单的位置；如果想看价格，应进一步问“多少钱”。",
+              "text_vi": "“菜单在哪儿” hỏi vị trí thực đơn; muốn biết giá món phải hỏi thêm “多少钱？”."
+            }
+          ],
+          "meaning_vi": "Thực đơn ở đâu?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0002",
+          "level": "must",
+          "text": "要扫码吗？",
+          "alternatives": [
+            {
+              "text": "需要扫码吗？",
+              "id": "s23_2_0002_alt01",
+              "meaning_vi": "Có phải quét mã không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，扫桌上的码。",
+              "id": "s23_2_0002_reply01",
+              "meaning_vi": "Đúng, quét mã trên bàn."
+            },
+            {
+              "text": "不用，有纸质菜单。",
+              "id": "s23_2_0002_reply02",
+              "meaning_vi": "Không cần, có thực đơn giấy."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "yào sǎo mǎ ma",
+          "mistakes": [
+            {
+              "text": "扫码看菜单与扫码付款是两件事，不能看到二维码就以为必须先付钱。",
+              "text_vi": "Quét mã xem thực đơn khác với quét mã thanh toán; không nên mặc định phải trả tiền trước."
+            }
+          ],
+          "meaning_vi": "Có cần quét mã không?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0003",
+          "level": "must",
+          "text": "这是什么菜？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这是红烧牛肉。",
+              "id": "s23_2_0003_reply01",
+              "meaning_vi": "Đây là món thịt bò om kiểu Trung Quốc."
+            },
+            {
+              "text": "这是我们店的招牌豆腐。",
+              "id": "s23_2_0003_reply02",
+              "meaning_vi": "Đây là món đậu phụ đặc trưng của quán."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhè shì shén me cài",
+          "mistakes": [
+            {
+              "text": "“什么菜”在餐馆中问的是菜名或菜肴种类，这里的“菜”不一定是青菜或蔬菜；了解过敏原还需问配料。",
+              "text_vi": "Trong quán ăn, “什么菜” hỏi món gì, “菜” không nhất thiết chỉ rau xanh. Người dị ứng còn phải hỏi nguyên liệu."
+            }
+          ],
+          "meaning_vi": "Đây là món gì?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0004",
+          "level": "must",
+          "text": "这个里面有什么？",
+          "alternatives": [
+            {
+              "text": "这里面有什么？",
+              "id": "s23_2_0004_alt01",
+              "meaning_vi": "Bên trong món này có những gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "里面有花生。",
+              "id": "s23_2_0004_reply01",
+              "meaning_vi": "Bên trong có đậu phộng."
+            },
+            {
+              "text": "主要是牛肉和蔬菜。",
+              "id": "s23_2_0004_reply02",
+              "meaning_vi": "Chủ yếu là thịt bò và rau củ."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhè ge lǐ miàn yǒu shén me",
+          "mistakes": [
+            {
+              "text": "“里面有什么”能得到主要食材介绍，但对花生、海鲜等严重过敏，还要核实隐藏调料和是否共用厨具，不能仅凭一句笼统回答判断安全。",
+              "text_vi": "“里面有什么” thường được trả lời bằng thành phần chính; dị ứng nghiêm trọng phải hỏi cả gia vị ẩn và dụng cụ bếp dùng chung."
+            }
+          ],
+          "meaning_vi": "Trong món này có gì?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0005",
+          "level": "must",
+          "text": "这道菜有什么配料？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有花生和辣椒。",
+              "id": "s23_2_0005_reply01",
+              "meaning_vi": "Có đậu phộng và ớt."
+            },
+            {
+              "text": "主要是鸡肉和蔬菜。",
+              "id": "s23_2_0005_reply02",
+              "meaning_vi": "Chủ yếu là thịt gà và rau củ."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhè dào cài yǒu shén me pèi liào",
+          "mistakes": [
+            {
+              "text": "“配料”指烹饪时搭配或添加的食材，不一定包含全部原料、汤底和隐藏调味品；严格忌口时应进一步要求完整核实。",
+              "text_vi": "“配料” là các thành phần thêm vào khi chế biến, chưa chắc bao gồm toàn bộ nguyên liệu, nước dùng và gia vị; kiêng nghiêm ngặt phải xác minh đầy đủ."
+            }
+          ],
+          "meaning_vi": "Món này có những nguyên liệu gì?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0006",
+          "level": "must",
+          "text": "有没有不辣的菜？",
+          "alternatives": [
+            {
+              "text": "有不辣的菜吗？",
+              "id": "s23_2_0006_alt01",
+              "meaning_vi": "Có món không cay không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，这几道不放肉，但我再确认一下汤底。",
+              "id": "s23_2_0006_reply01",
+              "meaning_vi": "Có, mấy món này không cho thịt, nhưng để tôi kiểm tra lại nước dùng."
+            },
+            {
+              "text": "这个可以做不辣。",
+              "id": "s23_2_0006_reply02",
+              "meaning_vi": "Món này có thể làm không cay."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "yǒu méi yǒu bú là de cài",
+          "mistakes": [
+            {
+              "text": "“不辣”是口味描述，不等于完全不含辣椒；同样“素菜”未必完全不含动物来源的汤底或酱料，必须根据实际限制确认。",
+              "text_vi": "“不辣” là không cay, chưa chắc hoàn toàn không có ớt; món chay cũng có thể dùng nước hầm hoặc sốt có thành phần động vật."
+            }
+          ],
+          "meaning_vi": "Có món nào không cay không?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0007",
+          "level": "must",
+          "text": "这个菜怎么吃？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "直接吃就可以。",
+              "id": "s23_2_0007_reply01",
+              "meaning_vi": "Ăn trực tiếp là được."
+            },
+            {
+              "text": "先把这个蘸一下酱。",
+              "id": "s23_2_0007_reply02",
+              "meaning_vi": "Chấm món này vào nước sốt trước."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhè ge cài zěn me chī",
+          "mistakes": [
+            {
+              "text": "“怎么吃”问吃法，不是问“这个好吃吗”。",
+              "text_vi": "“怎么吃” hỏi cách ăn, khác “好吃吗” là hỏi có ngon không."
+            }
+          ],
+          "meaning_vi": "Món này ăn thế nào?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0008",
+          "level": "must",
+          "text": "我要看看菜单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，您先看，选好了叫我。",
+              "id": "s23_2_0008_reply01",
+              "meaning_vi": "Vâng, anh/chị cứ xem, chọn xong gọi tôi ạ."
+            },
+            {
+              "text": "好，我把菜单拿给您。",
+              "id": "s23_2_0008_reply02",
+              "meaning_vi": "Vâng, tôi mang thực đơn đến cho anh/chị."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "wǒ yào kàn kan cài dān",
+          "mistakes": [
+            {
+              "text": "这里“看看”表示先看一看，并不等于已经决定要点什么。",
+              "text_vi": "“看看” nghĩa là xem qua trước, chưa phải đã quyết định gọi món."
+            }
+          ],
+          "meaning_vi": "Cho tôi xem thực đơn.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0009",
+          "level": "must",
+          "text": "菜单有图片吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，在手机菜单里。",
+              "id": "s23_2_0009_reply01",
+              "meaning_vi": "Có, trong thực đơn trên điện thoại."
+            },
+            {
+              "text": "纸质菜单没有图片。",
+              "id": "s23_2_0009_reply02",
+              "meaning_vi": "Thực đơn giấy không có hình."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "cài dān yǒu tú piàn ma",
+          "mistakes": [
+            {
+              "text": "纸质菜单与手机菜单可能不一样，不能只看一本没有图片就以为全都没有。",
+              "text_vi": "Thực đơn giấy và trên điện thoại có thể khác nhau; không có ảnh trên bản giấy chưa có nghĩa bản điện tử cũng không có."
+            }
+          ],
+          "meaning_vi": "Thực đơn có hình ảnh không?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0010",
+          "level": "must",
+          "text": "有素菜吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，这几道不放肉，但汤底得再确认。",
+              "id": "s23_2_0010_reply01",
+              "meaning_vi": "Có, mấy món này không cho thịt, nhưng phải kiểm tra lại nước dùng."
+            },
+            {
+              "text": "有，不过有的放鸡蛋，您能吃吗？",
+              "id": "s23_2_0010_reply02",
+              "meaning_vi": "Có, nhưng có món cho trứng, anh/chị ăn được không ạ?"
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "yǒu sù cài ma",
+          "mistakes": [
+            {
+              "text": "“素菜”一般指不含肉的菜，但有些餐厅会使用肉汤、蚝油或鸡蛋；严格素食或纯素者应确认汤底、酱料和蛋奶。",
+              "text_vi": "Món chay không phải lúc nào cũng thuần chay; cần kiểm tra nước dùng, dầu hào, trứng và sữa nếu kiêng các nguyên liệu ấy."
+            }
+          ],
+          "meaning_vi": "Có món chay không?",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0011",
+          "level": "listen",
+          "text": "扫桌上的码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我用手机扫一下。",
+              "id": "s23_2_0011_reply01",
+              "meaning_vi": "Được, để tôi dùng điện thoại quét mã."
+            },
+            {
+              "text": "扫完就能看菜单吗？",
+              "id": "s23_2_0011_reply02",
+              "meaning_vi": "Quét xong là xem thực đơn được phải không?"
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "sǎo zhuō shàng de mǎ",
+          "mistakes": [
+            {
+              "text": "“码”在这里是二维码，不是桌号，也不一定是付款码。",
+              "text_vi": "“码” ở đây là mã QR để xem thực đơn, không phải số bàn hoặc nhất thiết là mã thanh toán."
+            }
+          ],
+          "meaning_vi": "Quét mã trên bàn.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0012",
+          "level": "listen",
+          "text": "这是牛肉。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我不吃牛肉，可以换别的吗？",
+              "id": "s23_2_0012_reply01",
+              "meaning_vi": "Tôi không ăn thịt bò, đổi món khác được không?"
+            },
+            {
+              "text": "好，那我点这个。",
+              "id": "s23_2_0012_reply02",
+              "meaning_vi": "Được, vậy tôi gọi món này."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhè shì niú ròu",
+          "mistakes": [
+            {
+              "text": "“牛肉”是牛的肉，不是所有红色肉类；不吃牛肉的人应明确说出来。",
+              "text_vi": "“牛肉” là thịt bò; người không ăn bò phải nói rõ, không mặc định mọi loại thịt đỏ là bò."
+            }
+          ],
+          "meaning_vi": "Đây là thịt bò.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0013",
+          "level": "listen",
+          "text": "这个有点辣。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那能做不辣的吗？",
+              "id": "s23_2_0013_reply01",
+              "meaning_vi": "Vậy có thể làm không cay không?"
+            },
+            {
+              "text": "没关系，我能吃辣。",
+              "id": "s23_2_0013_reply02",
+              "meaning_vi": "Không sao, tôi ăn cay được."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhè ge yǒu diǎn là",
+          "mistakes": [
+            {
+              "text": "“有点辣”带有主观判断，不能吃辣时仍要确认能否做成完全不辣。",
+              "text_vi": "“有点辣” là đánh giá chủ quan về độ cay; người không ăn được cay nên hỏi có thể làm không cay hay không."
+            }
+          ],
+          "meaning_vi": "Món này hơi cay.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0014",
+          "level": "listen",
+          "text": "纸质菜单在这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我先看看。",
+              "id": "s23_2_0014_reply01",
+              "meaning_vi": "Cảm ơn, để tôi xem trước."
+            },
+            {
+              "text": "上面有菜的图片吗？",
+              "id": "s23_2_0014_reply02",
+              "meaning_vi": "Trong đó có ảnh các món ăn không?"
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhǐ zhì cài dān zài zhè li",
+          "mistakes": [
+            {
+              "text": "“纸质菜单”是印在纸上的菜单，与手机里的电子菜单相对。",
+              "text_vi": "“纸质菜单” là thực đơn in trên giấy, khác thực đơn điện tử trên điện thoại."
+            }
+          ],
+          "meaning_vi": "Thực đơn giấy ở đây.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0015",
+          "level": "listen",
+          "text": "图片在手机菜单里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我扫码看看。",
+              "id": "s23_2_0015_reply01",
+              "meaning_vi": "Được, tôi quét mã xem."
+            },
+            {
+              "text": "能帮我打开吗？",
+              "id": "s23_2_0015_reply02",
+              "meaning_vi": "Bạn mở giúp tôi được không?"
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "tú piàn zài shǒu jī cài dān lǐ",
+          "mistakes": [
+            {
+              "text": "“手机菜单”是手机打开的菜单，不一定要先下载一个独立软件。",
+              "text_vi": "“手机菜单” là thực đơn mở trên điện thoại, không nhất thiết phải tải một ứng dụng riêng."
+            }
+          ],
+          "meaning_vi": "Hình ở trong thực đơn trên điện thoại.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0016",
+          "level": "listen",
+          "text": "这个里面有花生。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我不能吃花生，换一道吧。",
+              "id": "s23_2_0016_reply01",
+              "meaning_vi": "Cảm ơn, tôi không ăn được đậu phộng, đổi món khác nhé."
+            },
+            {
+              "text": "知道了，我可以吃花生。",
+              "id": "s23_2_0016_reply02",
+              "meaning_vi": "Biết rồi, tôi ăn đậu phộng được."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "zhè ge lǐ miàn yǒu huā shēng",
+          "mistakes": [
+            {
+              "text": "“有花生”说的是含有花生成分；不能吃花生的人不要只把花生粒挑出来就当安全。",
+              "text_vi": "“有花生” có nghĩa món chứa đậu phộng; người dị ứng không thể chỉ nhặt hạt ra rồi coi là an toàn."
+            }
+          ],
+          "meaning_vi": "Món này có đậu phộng.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0017",
+          "level": "listen",
+          "text": "今天推荐这个。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这道菜有什么特色？",
+              "id": "s23_2_0017_reply01",
+              "meaning_vi": "Món này có điểm gì đặc biệt?"
+            },
+            {
+              "text": "好，那来一份。",
+              "id": "s23_2_0017_reply02",
+              "meaning_vi": "Được, vậy cho một phần."
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "jīn tiān tuī jiàn zhè ge",
+          "mistakes": [
+            {
+              "text": "“推荐”只是建议，不代表这道菜免费或顾客必须点。",
+              "text_vi": "“推荐” chỉ là gợi ý, không có nghĩa món miễn phí hoặc khách bắt buộc phải gọi."
+            }
+          ],
+          "meaning_vi": "Hôm nay quán gợi ý món này.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        },
+        {
+          "id": "s23_2_0018",
+          "level": "listen",
+          "text": "菜单在小程序里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我打开微信看看。",
+              "id": "s23_2_0018_reply01",
+              "meaning_vi": "Được, để tôi mở WeChat xem."
+            },
+            {
+              "text": "我不太会操作，能帮我一下吗？",
+              "id": "s23_2_0018_reply02",
+              "meaning_vi": "Tôi không rành cách dùng, bạn giúp tôi chút được không?"
+            }
+          ],
+          "lesson_id": "23.2",
+          "lesson_title": "23.2 看菜单与问菜",
+          "pinyin": "cài dān zài xiǎo chéng xù lǐ",
+          "mistakes": [
+            {
+              "text": "“小程序”通常是在微信等应用里打开的功能，不等于手机上单独安装的新应用。",
+              "text_vi": "“小程序” là mini app chạy bên trong WeChat hay ứng dụng khác, không nhất thiết cài ứng dụng mới."
+            }
+          ],
+          "meaning_vi": "Thực đơn nằm trong mini app.",
+          "lesson_title_vi": "23.2 Xem thực đơn và hỏi về món ăn"
+        }
+      ],
+      "title_vi": "23.2 Xem thực đơn và hỏi về món ăn",
+      "subtitle_vi": "18 thẻ giao tiếp thực tế",
+      "opening_vi": "Luyện mở thực đơn giấy hoặc quét QR, hỏi thành phần, độ cay, món chay, thịt bò và đậu phộng, chú ý các thông tin dị ứng quan trọng."
+    },
+    {
+      "id": "23.3",
+      "title": "23.3 点菜、主食与追加",
+      "subtitle": "19张实用口语卡",
+      "opening": "练会点一道菜、米饭和饮料，追加或暂不点菜，说明上菜顺序；听懂套餐、换菜和正式下单。",
+      "phrases": [
+        {
+          "id": "s23_3_0001",
+          "level": "must",
+          "text": "我要一份这个。",
+          "alternatives": [
+            {
+              "text": "这个来一份。",
+              "id": "s23_3_0001_alt01",
+              "meaning_vi": "Cho một phần món này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，先给您下单。",
+              "id": "s23_3_0001_reply01",
+              "meaning_vi": "Vâng, tôi ghi đơn cho anh/chị trước."
+            },
+            {
+              "text": "还要别的吗？",
+              "id": "s23_3_0001_reply02",
+              "meaning_vi": "Còn gọi món gì khác không?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "wǒ yào yí fèn zhè ge",
+          "mistakes": [
+            {
+              "text": "“一份”是点一份菜的常用量词；“这个”须指着具体菜，否则店员可能不明白。",
+              "text_vi": "“一份” là một phần ăn; “这个” cần chỉ rõ món nào để nhân viên không nhầm."
+            }
+          ],
+          "meaning_vi": "Tôi lấy một phần món này.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0002",
+          "level": "must",
+          "text": "两碗米饭。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，两碗米饭。",
+              "id": "s23_3_0002_reply01",
+              "meaning_vi": "Được, hai bát cơm."
+            },
+            {
+              "text": "要一起上吗？",
+              "id": "s23_3_0002_reply02",
+              "meaning_vi": "Có muốn mang lên cùng lúc không?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "liǎng wǎn mǐ fàn",
+          "mistakes": [
+            {
+              "text": "“碗”是米饭的量词，和菜的“一份”、饮料的“一瓶”不同。",
+              "text_vi": "Cơm dùng lượng từ “碗” (bát), khác “份” đếm phần món và “瓶” đếm chai nước."
+            }
+          ],
+          "meaning_vi": "Hai bát cơm.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0003",
+          "level": "must",
+          "text": "来一壶茶。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，马上给您送来。",
+              "id": "s23_3_0003_reply01",
+              "meaning_vi": "Vâng, tôi mang ra ngay cho anh/chị."
+            },
+            {
+              "text": "您想喝什么茶？",
+              "id": "s23_3_0003_reply02",
+              "meaning_vi": "Anh/chị muốn uống trà gì ạ?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "lái yì hú chá",
+          "mistakes": [
+            {
+              "text": "中国餐厅的“茶”通常不是缅甸奶茶，是否加奶和糖要另外确认。",
+              "text_vi": "“茶” ở nhà hàng Trung Quốc thường là trà nóng hoặc trà lá, không mặc nhiên là trà sữa; muốn thêm sữa hay đường phải nói riêng."
+            }
+          ],
+          "meaning_vi": "Cho một ấm trà.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0004",
+          "level": "must",
+          "text": "再加一个菜。",
+          "alternatives": [
+            {
+              "text": "再加一道菜。",
+              "id": "s23_3_0004_alt01",
+              "meaning_vi": "Gọi thêm một món nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，您还想加哪一道？",
+              "id": "s23_3_0004_reply01",
+              "meaning_vi": "Vâng, anh/chị muốn gọi thêm món nào?"
+            },
+            {
+              "text": "可以，我给您追加一份。",
+              "id": "s23_3_0004_reply02",
+              "meaning_vi": "Được, tôi thêm một phần vào đơn cho anh/chị."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "zài jiā yí ge cài",
+          "mistakes": [
+            {
+              "text": "“再加”表示在原订单上追加，不是把刚才那道菜换掉。",
+              "text_vi": "“再加” là gọi thêm ngoài đơn trước đó, không phải đổi món vừa gọi."
+            }
+          ],
+          "meaning_vi": "Thêm một món nữa.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0005",
+          "level": "must",
+          "text": "这道菜先不要。",
+          "alternatives": [
+            {
+              "text": "这个菜先不要。",
+              "id": "s23_3_0005_alt01",
+              "meaning_vi": "Món này để sau nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，这道先不点。",
+              "id": "s23_3_0005_reply01",
+              "meaning_vi": "Được, món này tạm chưa gọi."
+            },
+            {
+              "text": "没问题，您以后想加可以再告诉我。",
+              "id": "s23_3_0005_reply02",
+              "meaning_vi": "Được ạ, muốn gọi thêm lúc nào thì báo tôi."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "zhè dào cài xiān bú yào",
+          "mistakes": [
+            {
+              "text": "“先不要”是现在暂时不点；若已经下单或开做，要另问能否取消。",
+              "text_vi": "“先不要” là tạm thời chưa gọi món này; nếu đơn đã gửi hoặc món đã nấu thì phải hỏi lại có hủy được không."
+            }
+          ],
+          "meaning_vi": "Tạm thời chưa gọi món này.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0006",
+          "level": "must",
+          "text": "主食最后再上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，菜上得差不多了再上主食。",
+              "id": "s23_3_0006_reply01",
+              "meaning_vi": "Vâng, gần lên đủ các món rồi tôi sẽ mang cơm hoặc món tinh bột ra."
+            },
+            {
+              "text": "没问题，我给您备注一下。",
+              "id": "s23_3_0006_reply02",
+              "meaning_vi": "Được, tôi sẽ ghi chú cho anh/chị."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "zhǔ shí zuì hòu zài shàng",
+          "mistakes": [
+            {
+              "text": "“主食”一般指米饭、面条、馒头等，不是桌上最贵或最重要的一道肉菜。",
+              "text_vi": "“主食” thường là cơm, mì, màn thầu hoặc đồ tinh bột, không có nghĩa món thịt đắt nhất."
+            }
+          ],
+          "meaning_vi": "Cơm hoặc mì mang ra sau cùng nhé.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0007",
+          "level": "must",
+          "text": "来一个宫保鸡丁。",
+          "alternatives": [
+            {
+              "text": "来一份宫保鸡丁。",
+              "id": "s23_3_0007_alt01",
+              "meaning_vi": "Cho một phần gà Cung Bảo."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，宫保鸡丁一份。",
+              "id": "s23_3_0007_reply01",
+              "meaning_vi": "Vâng, một phần gà Cung Bảo."
+            },
+            {
+              "text": "这道通常有花生，您能吃吗？",
+              "id": "s23_3_0007_reply02",
+              "meaning_vi": "Món này thường có đậu phộng, anh/chị ăn được không ạ?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "lái yí ge gōng bǎo jī dīng",
+          "mistakes": [
+            {
+              "text": "“宫保鸡丁”常含鸡肉、花生和辣椒；若不能吃某种材料需确认。点菜说“一份”也自然。",
+              "text_vi": "“宫保鸡丁” thường có thịt gà, đậu phộng và ớt; nếu không ăn được thành phần nào phải xác nhận kỹ."
+            }
+          ],
+          "meaning_vi": "Cho một phần gà xào Cung Bảo.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0008",
+          "level": "must",
+          "text": "再来一盘青菜。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，给您加一盘。",
+              "id": "s23_3_0008_reply01",
+              "meaning_vi": "Vâng, thêm một đĩa rau cho anh/chị."
+            },
+            {
+              "text": "您想清炒还是蒜蓉炒？",
+              "id": "s23_3_0008_reply02",
+              "meaning_vi": "Anh/chị muốn xào thường hay xào tỏi ạ?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "zài lái yì pán qīng cài",
+          "mistakes": [
+            {
+              "text": "“一盘青菜”按盘点一份蔬菜菜肴，不是只要一片菜叶；“清炒”并不必然表示少油或不放任何调料。",
+              "text_vi": "“一盘青菜” là một đĩa món rau, không phải chỉ một lá rau; “清炒” không nhất thiết là ít dầu hay không gia vị."
+            }
+          ],
+          "meaning_vi": "Cho thêm một đĩa rau xanh.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0009",
+          "level": "must",
+          "text": "有套餐吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，菜单上有。",
+              "id": "s23_3_0009_reply01",
+              "meaning_vi": "Có, trong thực đơn có."
+            },
+            {
+              "text": "今天没有套餐。",
+              "id": "s23_3_0009_reply02",
+              "meaning_vi": "Hôm nay không có combo."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "yǒu tào cān ma",
+          "mistakes": [
+            {
+              "text": "“套餐”是组合售卖，不是说所有菜品都可随意免费添加。",
+              "text_vi": "“套餐” là suất ăn hoặc combo bán theo gói, không phải món nào cũng được thêm miễn phí."
+            }
+          ],
+          "meaning_vi": "Có suất ăn theo combo không?",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0010",
+          "level": "must",
+          "text": "不够我们再加。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，先给您上这些。",
+              "id": "s23_3_0010_reply01",
+              "meaning_vi": "Vâng, tôi mang những món này lên trước."
+            },
+            {
+              "text": "没问题，不够再叫我。",
+              "id": "s23_3_0010_reply02",
+              "meaning_vi": "Được, chưa đủ thì cứ gọi tôi."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "bú gòu wǒ men zài jiā",
+          "mistakes": [
+            {
+              "text": "“不够”指食物分量不够，不是说钱不够付账。",
+              "text_vi": "“不够” ở đây nghĩa là đồ ăn không đủ, không phải thiếu tiền trả."
+            }
+          ],
+          "meaning_vi": "Chưa đủ thì chúng tôi sẽ gọi thêm.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0011",
+          "level": "must",
+          "text": "我要一瓶水。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，要冰的还是常温的？",
+              "id": "s23_3_0011_reply01",
+              "meaning_vi": "Vâng, lấy nước lạnh hay nhiệt độ thường ạ?"
+            },
+            {
+              "text": "只有大瓶的，可以吗？",
+              "id": "s23_3_0011_reply02",
+              "meaning_vi": "Chỉ có chai lớn thôi, được không?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "wǒ yào yì píng shuǐ",
+          "mistakes": [
+            {
+              "text": "“一瓶水”是瓶装水；免费提供的热水或白开水不一定按瓶算。",
+              "text_vi": "“一瓶水” là một chai nước đóng chai; nước nóng miễn phí có thể không tính theo chai."
+            }
+          ],
+          "meaning_vi": "Tôi lấy một chai nước.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0012",
+          "level": "must",
+          "text": "饮料要冰的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，给您拿冰的。",
+              "id": "s23_3_0012_reply01",
+              "meaning_vi": "Vâng, tôi lấy loại lạnh cho anh/chị."
+            },
+            {
+              "text": "不好意思，只有常温的。",
+              "id": "s23_3_0012_reply02",
+              "meaning_vi": "Xin lỗi, chỉ có loại nhiệt độ thường."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "yǐn liào yào bīng de",
+          "mistakes": [
+            {
+              "text": "“冰的”一般是冰凉的饮料，不一定要求杯里加冰块；要冰块可以说“加冰”。",
+              "text_vi": "“冰的” là đồ uống lạnh, không nhất thiết có đá viên. Muốn cho đá cần nói “加冰”."
+            }
+          ],
+          "meaning_vi": "Đồ uống lấy lạnh nhé.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0013",
+          "level": "must",
+          "text": "先这样。",
+          "alternatives": [
+            {
+              "text": "先点这些。",
+              "id": "s23_3_0013_alt01",
+              "meaning_vi": "Gọi chừng này trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我先下单。",
+              "id": "s23_3_0013_reply01",
+              "meaning_vi": "Vâng, tôi ghi đơn trước."
+            },
+            {
+              "text": "需要加菜再叫我就行。",
+              "id": "s23_3_0013_reply02",
+              "meaning_vi": "Muốn gọi thêm món thì cứ gọi tôi."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "xiān zhè yàng",
+          "mistakes": [
+            {
+              "text": "点单时“先这样”是本轮先到这里，不是表示东西已经做完或全部吃完。",
+              "text_vi": "“先这样” ở lúc gọi món nghĩa là tạm thời gọi chừng đó, không phải món đã làm xong."
+            }
+          ],
+          "meaning_vi": "Tạm thế nhé.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0014",
+          "level": "listen",
+          "text": "主食要什么？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "两碗米饭。",
+              "id": "s23_3_0014_reply01",
+              "meaning_vi": "Hai bát cơm."
+            },
+            {
+              "text": "先不要主食。",
+              "id": "s23_3_0014_reply02",
+              "meaning_vi": "Tạm thời chưa cần cơm hay món tinh bột."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "zhǔ shí yào shén me",
+          "mistakes": [
+            {
+              "text": "“主食”不是问最喜欢的那一道菜，而是问米饭、面食等搭配食物。",
+              "text_vi": "“主食” là cơm, mì và đồ ăn kèm giàu tinh bột, không phải món bạn thích nhất."
+            }
+          ],
+          "meaning_vi": "Anh/chị muốn dùng cơm hay món tinh bột gì?",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0015",
+          "level": "listen",
+          "text": "还要加菜吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不用了，就这些。",
+              "id": "s23_3_0015_reply01",
+              "meaning_vi": "Không cần nữa, chỉ vậy thôi."
+            },
+            {
+              "text": "再加一盘青菜。",
+              "id": "s23_3_0015_reply02",
+              "meaning_vi": "Thêm một đĩa rau xanh."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "hái yào jiā cài ma",
+          "mistakes": [
+            {
+              "text": "“加菜”指追加一道菜肴，不一定只是增加青菜。",
+              "text_vi": "“加菜” là gọi thêm món ăn, không chỉ gọi thêm rau xanh."
+            }
+          ],
+          "meaning_vi": "Có gọi thêm món không?",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0016",
+          "level": "listen",
+          "text": "可以换别的。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那换成这个吧。",
+              "id": "s23_3_0016_reply01",
+              "meaning_vi": "Được, vậy đổi sang món này."
+            },
+            {
+              "text": "那可以换成不辣的吗？",
+              "id": "s23_3_0016_reply02",
+              "meaning_vi": "Vậy đổi sang món không cay được không?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "kě yǐ huàn bié de",
+          "mistakes": [
+            {
+              "text": "“换别的”表示可改选其他东西，不代表已做好或已上桌的菜随时能退换。",
+              "text_vi": "“换别的” là có thể đổi lựa chọn, không bảo đảm món đã nấu hoặc đã mang lên có thể trả lại bất cứ lúc nào."
+            }
+          ],
+          "meaning_vi": "Có thể đổi sang món khác.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0017",
+          "level": "listen",
+          "text": "米饭按碗算。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "明白了，那要两碗。",
+              "id": "s23_3_0017_reply01",
+              "meaning_vi": "Hiểu rồi, vậy cho hai bát."
+            },
+            {
+              "text": "请问一碗多少钱？",
+              "id": "s23_3_0017_reply02",
+              "meaning_vi": "Cho hỏi một bát bao nhiêu tiền?"
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "mǐ fàn àn wǎn suàn",
+          "mistakes": [
+            {
+              "text": "“按碗算”指以碗为单位计数或收费，不表示每人只能吃一碗。",
+              "text_vi": "“按碗算” là tính theo từng bát, không có nghĩa mỗi khách chỉ được ăn một bát."
+            }
+          ],
+          "meaning_vi": "Cơm tính theo bát.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0018",
+          "level": "listen",
+          "text": "先给您下单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，谢谢。",
+              "id": "s23_3_0018_reply01",
+              "meaning_vi": "Vâng, cảm ơn."
+            },
+            {
+              "text": "等一下，我还想加一份米饭。",
+              "id": "s23_3_0018_reply02",
+              "meaning_vi": "Đợi chút, tôi muốn gọi thêm một phần cơm."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "xiān gěi nín xià dān",
+          "mistakes": [
+            {
+              "text": "“下单”是提交订单，不是说菜已经做好或端上桌。",
+              "text_vi": "“下单” là gửi đơn gọi món, không có nghĩa đã nấu xong hay đã mang món ra."
+            }
+          ],
+          "meaning_vi": "Tôi ghi đơn cho anh/chị trước nhé.",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        },
+        {
+          "id": "s23_3_0019",
+          "level": "listen",
+          "text": "饮料要什么？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "来一瓶水。",
+              "id": "s23_3_0019_reply01",
+              "meaning_vi": "Cho một chai nước."
+            },
+            {
+              "text": "要一壶茶。",
+              "id": "s23_3_0019_reply02",
+              "meaning_vi": "Lấy một ấm trà."
+            }
+          ],
+          "lesson_id": "23.3",
+          "lesson_title": "23.3 点菜、主食与追加",
+          "pinyin": "yǐn liào yào shén me",
+          "mistakes": [
+            {
+              "text": "这里“要什么”问饮料种类，不是问饮料的价格。",
+              "text_vi": "“要什么” ở đây hỏi loại đồ uống muốn gọi, không phải giá đồ uống."
+            }
+          ],
+          "meaning_vi": "Anh/chị muốn uống gì?",
+          "lesson_title_vi": "23.3 Gọi món, cơm và gọi thêm"
+        }
+      ],
+      "title_vi": "23.3 Gọi món, cơm và gọi thêm",
+      "subtitle_vi": "19 thẻ giao tiếp thực tế",
+      "opening_vi": "Luyện gọi từng món, cơm và đồ uống, thêm hoặc tạm hoãn món, nói thứ tự mang món lên và hiểu nhân viên xác nhận đơn hàng."
+    }
+  ],
+  "card_count": 60,
+  "lesson_counts": {
+    "23.1": 23,
+    "23.2": 18,
+    "23.3": 19
+  },
+  "theme_title_vi": "23 Gọi món ở nhà hàng"
+}
