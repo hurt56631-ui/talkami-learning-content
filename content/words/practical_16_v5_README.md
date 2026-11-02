@@ -54,6 +54,16 @@
 - 需要批量录音时，使用 `content/words/practical_16_v5_audio_words_only.csv` 的 **4500** 个独立词目（包含稳定 ID、中文词目、拼音、原分类调整后的分类、建议文件名、TTS 待试听标志）。本 PR 没有生成或上传音频。
 - `WiFi`、`U盘`、`T恤`、`喂` 和 `血` 的读音需特别试听；其他词也不能保证 TTS 自动朗读毫无偏差。
 - `scripts/build_release.py` 的 `safe_asset_name` 仅接受文件名，原目录草案里的 `practical_16_v5/category_XX.json` **不能用作 Release 的 data_url**。现已改为 `talkami-practical-XX-v5.json`。源码 JSON 仍放在 `practical_16_v5/category_XX.json`，由发布器打包输出为平铺资源。
-- 当前目录草案没有封面资源，缺少 `cover_url`、`cover_version`、`source_cover`，不能直接加到正式目录发布。需要补充 16 张 WebP 分类封面、检查 App 词卡加载，并合并发布 Release 后用户才能在 App 里看到。
-- 原正式目录与 HSK1–4 的词包未作修改，PR 仍是草稿。
+- 已补齐 16 张独立 PNG 分类封面；正式 catalog.json 已增加 16 个入口。仍需成功运行 Release 发布并在 App 检查分类加载。
+- 原 HSK1–4 的词包未作修改，正式目录以新增入口方式升级；本次只接入实用词词典，不给 HSK 文件增加或删除例句。
 
+
+
+## 第四轮：16 张封面与正式目录接入（2026-11-02）
+
+- 新增 `content/words/covers/practical_01.png` 至 `practical_16.png` 16 张独立彩色封面：统一视觉体系、不同编号、不同主题图标。图片不含自动生成的缅语文字，避免错别字；词卡标题由目录 `title` 字段显示。
+- `content/words/catalog.json` 的版本从 6 提升到 7，保留原 3 个 HSK1–3 旧版入口并追加 16 个 `practical_XX` 实用词典入口（总计 19 个）。
+- 每个新入口有 `cover_url`、`cover_version: 1`、`source_cover`、`data_url`、`data_version: 2`、`level`、`source_data`，可由 `scripts/build_release.py` 处理。
+- 新词典共 4500 条，严格不含搭配、例句。封面 PNG 作为配图，词目可以使用 App 中文 TTS；没有新增任何录音文件。
+- **合并仓库 ≠ 发布应用内容**：需在 GitHub Actions 的 `Publish learning content` 触发新 Release 版本（如 `1.6.40`；使用前检查该版本未占用），验证 `words-catalog.json` 和 16 对分类数据包/封面均在新 Release 中，再在 App 中打开分类进行实测。
+- 源词典未经缅语母语老师全部 4500 条逐词终审，本次主要完成数据质量与接入路径校验。
