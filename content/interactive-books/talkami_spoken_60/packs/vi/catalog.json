@@ -1,9 +1,9 @@
 {
-  "version": 3,
+  "version": 4,
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 2189,
+  "item_count": 2567,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1003,6 +1003,44 @@
           "data_version": 1,
           "lesson_count": 3,
           "title_vi": "26 Cà phê và trà sữa"
+        },
+        {
+          "theme_id": "34",
+          "title": "外卖取餐",
+          "status": "available",
+          "free": false,
+          "phrase_count": 68,
+          "lessons": [
+            {
+              "id": "34.1",
+              "title": "34.1 下单备注与修改信息",
+              "count": 18,
+              "title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn"
+            },
+            {
+              "id": "34.2",
+              "title": "34.2 联系骑手与碰面",
+              "count": 18,
+              "title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt"
+            },
+            {
+              "id": "34.3",
+              "title": "34.3 催单与超时",
+              "count": 15,
+              "title_vi": "34.3 Hỏi tiến độ và đơn giao trễ"
+            },
+            {
+              "id": "34.4",
+              "title": "34.4 少送错送与退款",
+              "count": 17,
+              "title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/34.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "34 Đặt đồ ăn giao tận nơi"
         }
       ]
     },
@@ -1150,15 +1188,180 @@
           "data_version": 2,
           "lesson_count": 3,
           "title_vi": "30 Giá cả và khuyến mãi"
+        },
+        {
+          "theme_id": "31",
+          "title": "付款扫码",
+          "status": "available",
+          "free": false,
+          "phrase_count": 57,
+          "lessons": [
+            {
+              "id": "31.1",
+              "title": "31.1 手机扫码支付",
+              "count": 20,
+              "title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại"
+            },
+            {
+              "id": "31.2",
+              "title": "31.2 现金与找零",
+              "count": 20,
+              "title_vi": "31.2 Trả tiền mặt và nhận tiền thừa"
+            },
+            {
+              "id": "31.3",
+              "title": "31.3 支付异常",
+              "count": 17,
+              "title_vi": "31.3 Sự cố khi thanh toán"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/31.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "31 Thanh toán và quét mã"
+        },
+        {
+          "theme_id": "32",
+          "title": "退换退款",
+          "status": "available",
+          "free": false,
+          "phrase_count": 69,
+          "lessons": [
+            {
+              "id": "32.1",
+              "title": "32.1 申请退货",
+              "count": 18,
+              "title_vi": "32.1 Yêu cầu trả hàng"
+            },
+            {
+              "id": "32.2",
+              "title": "32.2 申请换货",
+              "count": 17,
+              "title_vi": "32.2 Yêu cầu đổi hàng"
+            },
+            {
+              "id": "32.3",
+              "title": "32.3 退款到账",
+              "count": 17,
+              "title_vi": "32.3 Tiền hoàn về tài khoản"
+            },
+            {
+              "id": "32.4",
+              "title": "32.4 售后保修",
+              "count": 17,
+              "title_vi": "32.4 Hậu mãi và bảo hành"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/32.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "32 Đổi trả hàng và hoàn tiền"
+        },
+        {
+          "theme_id": "33",
+          "title": "网购与快递",
+          "status": "available",
+          "free": false,
+          "phrase_count": 109,
+          "lessons": [
+            {
+              "id": "33.1",
+              "title": "33.1 网上下单与收货地址",
+              "count": 20,
+              "title_vi": "33.1 Đặt hàng online và địa chỉ nhận"
+            },
+            {
+              "id": "33.2",
+              "title": "33.2 联系商家与订单修改",
+              "count": 17,
+              "title_vi": "33.2 Liên hệ người bán và sửa đơn"
+            },
+            {
+              "id": "33.3",
+              "title": "33.3 寄快递",
+              "count": 20,
+              "title_vi": "33.3 Gửi hàng chuyển phát"
+            },
+            {
+              "id": "33.4",
+              "title": "33.4 收件与取件码",
+              "count": 17,
+              "title_vi": "33.4 Nhận hàng và mã lấy hàng"
+            },
+            {
+              "id": "33.5",
+              "title": "33.5 查询物流",
+              "count": 18,
+              "title_vi": "33.5 Theo dõi vận chuyển"
+            },
+            {
+              "id": "33.6",
+              "title": "33.6 丢件破损与错件",
+              "count": 17,
+              "title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/33.json",
+          "data_version": 1,
+          "lesson_count": 6,
+          "title_vi": "33 Mua hàng online và chuyển phát nhanh"
+        }
+      ]
+    },
+    {
+      "zone_id": 5,
+      "title": "出行旅行",
+      "title_vi": "Đi lại và du lịch",
+      "themes": [
+        {
+          "theme_id": "35",
+          "title": "问路导航",
+          "status": "available",
+          "free": false,
+          "phrase_count": 75,
+          "lessons": [
+            {
+              "id": "35.1",
+              "title": "35.1 询问方向",
+              "count": 19,
+              "title_vi": "35.1 Hỏi đường và hướng đi"
+            },
+            {
+              "id": "35.2",
+              "title": "35.2 远近时长",
+              "count": 20,
+              "title_vi": "35.2 Khoảng cách và thời gian đi lại"
+            },
+            {
+              "id": "35.3",
+              "title": "35.3 地标路口",
+              "count": 18,
+              "title_vi": "35.3 Mốc đường và ngã rẽ"
+            },
+            {
+              "id": "35.4",
+              "title": "35.4 走错路",
+              "count": 18,
+              "title_vi": "35.4 Đi nhầm đường"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/35.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "35 Hỏi đường và chỉ đường"
         }
       ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-30-semantic-qa-v4-20261102",
-  "source_status": "Themes 01-30: 2189 main and 5931 alternative/reply expressions, 2095 Vietnamese teaching notes. Mandarin/pinyin/ID and all Vietnamese fields checked for alignment/completeness; 54 targeted naturalness and semantic edits in 19 theme files. Native Vietnamese specialist proofreading, Mandarin playback and App runtime checks pending.",
+  "revision": "spoken-vi-themes01-35-qa-v5-20261102",
+  "source_status": "Themes 01-35 translated to Vietnamese and structurally checked. Added 31-35: 378 main cards, 944 alternatives/replies, 318 Vietnamese usage notes. Mandarin, IDs and pinyin preserved. Native-speaker proofreading, audio checks and app runtime testing pending. Themes 36-60 not yet published.",
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:03:51.266Z",
+  "updated_at": "2026-11-02T16:28:36.277Z",
   "packs_base_path": "packs/vi/"
 }
