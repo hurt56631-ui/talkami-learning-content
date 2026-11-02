@@ -1,0 +1,2584 @@
+{
+  "theme_id": "36",
+  "lessons": [
+    {
+      "id": "36.1",
+      "title": "36.1 进站购票",
+      "phrases": [
+        {
+          "id": "s36_1_0001",
+          "level": "must",
+          "text": "地铁站在哪儿？",
+          "alternatives": [
+            {
+              "text": "请问，最近的地铁站在哪里？",
+              "id": "s36_1_0001_alt01",
+              "meaning_vi": "Xin hỏi ga tàu điện ngầm gần nhất ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "就在前面，右边就是。",
+              "id": "s36_1_0001_reply01",
+              "meaning_vi": "Ngay phía trước, bên tay phải."
+            },
+            {
+              "text": "前面路口左转就到了。",
+              "id": "s36_1_0001_reply02",
+              "meaning_vi": "Đến ngã rẽ phía trước rồi rẽ trái là tới."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "dì tiě zhàn zài nǎr",
+          "mistakes": [
+            {
+              "text": "“地铁站在哪儿”问整座车站的位置，不是问某个地铁出口；需要具体入口时再问“从哪个口进”。",
+              "text_vi": "Câu này hỏi vị trí cả ga tàu điện ngầm, chưa phải hỏi cửa ra vào cụ thể; muốn biết cửa nào thì hỏi riêng."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Ga tàu điện ngầm ở đâu?"
+        },
+        {
+          "id": "s36_1_0002",
+          "level": "must",
+          "text": "从哪个口进？",
+          "alternatives": [
+            {
+              "text": "哪个入口可以进站？",
+              "id": "s36_1_0002_alt01",
+              "meaning_vi": "Lối vào nào dẫn vào ga?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "从A口进。",
+              "id": "s36_1_0002_reply01",
+              "meaning_vi": "Vào bằng cửa A."
+            },
+            {
+              "text": "B口离你更近。",
+              "id": "s36_1_0002_reply02",
+              "meaning_vi": "Cửa B gần chỗ bạn hơn."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "cóng nǎ ge kǒu jìn",
+          "mistakes": [
+            {
+              "text": "“进”是进入地铁站；“出”才是从站里出去。入口字母要和现场指示一致。",
+              "text_vi": "“进” là đi vào, “出” là đi ra; ký hiệu A/B phải khớp biển thực tế tại ga."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Vào bằng cửa nào?"
+        },
+        {
+          "id": "s36_1_0003",
+          "level": "must",
+          "text": "怎么买票？",
+          "alternatives": [
+            {
+              "text": "票怎么买？",
+              "id": "s36_1_0003_alt01",
+              "meaning_vi": "Làm sao để mua vé?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以在自动售票机买。",
+              "id": "s36_1_0003_reply01",
+              "meaning_vi": "Có thể mua ở máy bán vé tự động."
+            },
+            {
+              "text": "不会操作可以问工作人员。",
+              "id": "s36_1_0003_reply02",
+              "meaning_vi": "Không biết dùng máy thì hỏi nhân viên nhé."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "zěn me mǎi piào",
+          "mistakes": [
+            {
+              "text": "“怎么买票”询问购买步骤，不是问票价；要问多少钱则说“票多少钱”。",
+              "text_vi": "“怎么买票” hỏi cách mua, không hỏi giá vé; muốn hỏi tiền thì nói “票多少钱”."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Mua vé thế nào?"
+        },
+        {
+          "id": "s36_1_0004",
+          "level": "must",
+          "text": "可以用手机乘车码吗？",
+          "alternatives": [
+            {
+              "text": "这儿能用手机乘车码吗？",
+              "id": "s36_1_0004_alt01",
+              "meaning_vi": "Ở đây có nhận mã đi tàu trên điện thoại không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，这个站支持乘车码。",
+              "id": "s36_1_0004_reply01",
+              "meaning_vi": "Được, ga này hỗ trợ mã đi tàu."
+            },
+            {
+              "text": "要看当地是否支持，先看页面提示。",
+              "id": "s36_1_0004_reply02",
+              "meaning_vi": "Còn tùy nơi có hỗ trợ không, bạn xem hướng dẫn trên ứng dụng nhé."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "kě yǐ yòng shǒu jī chéng chē mǎ ma",
+          "mistakes": [
+            {
+              "text": "“乘车码”通常是交通应用里的有效乘车码，并非随便拿出微信收款码就能进站；须确认城市、线路和闸机是否支持。",
+              "text_vi": "Mã đi tàu là mã hợp lệ của dịch vụ giao thông, không phải mã nhận tiền WeChat bất kỳ; phải kiểm tra thành phố, tuyến và cổng hỗ trợ."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Có dùng mã đi tàu trên điện thoại được không?"
+        },
+        {
+          "id": "s36_1_0005",
+          "level": "must",
+          "text": "交通卡在哪里充值？",
+          "alternatives": [
+            {
+              "text": "哪里能给交通卡充钱？",
+              "id": "s36_1_0005_alt01",
+              "meaning_vi": "Có thể nạp tiền vào thẻ giao thông ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以先去服务台问一下充值点。",
+              "id": "s36_1_0005_reply01",
+              "meaning_vi": "Bạn có thể hỏi chỗ nạp tiền tại quầy dịch vụ."
+            },
+            {
+              "text": "有些站有自助充值设备。",
+              "id": "s36_1_0005_reply02",
+              "meaning_vi": "Một số ga có máy nạp tiền tự động."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "jiāo tōng kǎ zài nǎ li chōng zhí",
+          "mistakes": [
+            {
+              "text": "“充值”是往已有卡里加钱；“办卡”是新办一张卡，二者不要混淆。",
+              "text_vi": "“充值” là nạp tiền vào thẻ hiện có; “办卡” là làm thẻ mới, hai việc khác nhau."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Nạp tiền vào thẻ đi lại ở đâu?"
+        },
+        {
+          "id": "s36_1_0006",
+          "level": "must",
+          "text": "交通卡在哪儿办？",
+          "alternatives": [
+            {
+              "text": "哪里可以办交通卡？",
+              "id": "s36_1_0006_alt01",
+              "meaning_vi": "Có thể đăng ký thẻ giao thông ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以先去服务台咨询办理。",
+              "id": "s36_1_0006_reply01",
+              "meaning_vi": "Bạn thử hỏi thủ tục tại quầy dịch vụ nhé."
+            },
+            {
+              "text": "能不能办、在哪儿办，要看当地规定。",
+              "id": "s36_1_0006_reply02",
+              "meaning_vi": "Có làm thẻ được không và làm ở đâu còn tùy quy định địa phương."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "jiāo tōng kǎ zài nǎr bàn",
+          "mistakes": [
+            {
+              "text": "“办交通卡”指申领或购买卡，不是给卡充值；不同城市是否发行实体卡、要不要押金应以当地规定为准。",
+              "text_vi": "Làm thẻ là đăng ký hoặc mua thẻ giao thông, khác nạp tiền; quy định và tiền đặt cọc tùy địa phương."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Làm thẻ đi lại ở đâu?"
+        },
+        {
+          "id": "s36_1_0007",
+          "level": "must",
+          "text": "自动售票机可以用现金吗？",
+          "alternatives": [
+            {
+              "text": "售票机收现金吗？",
+              "id": "s36_1_0007_alt01",
+              "meaning_vi": "Máy bán vé có nhận tiền mặt không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这台可以收现金。",
+              "id": "s36_1_0007_reply01",
+              "meaning_vi": "Máy này có nhận tiền mặt."
+            },
+            {
+              "text": "这台不收现金，只能按屏幕提示付款。",
+              "id": "s36_1_0007_reply02",
+              "meaning_vi": "Máy này không nhận tiền mặt, chỉ thanh toán theo hướng dẫn trên màn hình."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "zì dòng shòu piào jī kě yǐ yòng xiàn jīn ma",
+          "mistakes": [
+            {
+              "text": "“可以用现金吗”只问支付方式；机器能卖票不代表一定收现金，要看当站支付标志。",
+              "text_vi": "Máy có bán vé chưa chắc nhận tiền mặt; xem ký hiệu thanh toán tại máy."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Máy bán vé tự động có nhận tiền mặt không?"
+        },
+        {
+          "id": "s36_1_0008",
+          "level": "must",
+          "text": "乘车码要先开通吗？",
+          "alternatives": [
+            {
+              "text": "乘车码需要提前开通吗？",
+              "id": "s36_1_0008_alt01",
+              "meaning_vi": "Có phải kích hoạt mã đi tàu từ trước không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般要先按页面提示开通。",
+              "id": "s36_1_0008_reply01",
+              "meaning_vi": "Thường phải làm theo hướng dẫn để kích hoạt trước."
+            },
+            {
+              "text": "已经开通过的话，直接打开乘车码就行。",
+              "id": "s36_1_0008_reply02",
+              "meaning_vi": "Nếu đã kích hoạt thì chỉ cần mở mã đi tàu."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "chéng chē mǎ yào xiān kāi tōng ma",
+          "mistakes": [
+            {
+              "text": "“开通乘车码”是先启用所在城市的乘车服务；每次坐车“打开乘车码”是显示二维码，两步不同。",
+              "text_vi": "“开通” là kích hoạt dịch vụ đi tàu của thành phố, “打开” là mở mã để dùng mỗi lần."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Có cần kích hoạt mã đi tàu trước không?"
+        },
+        {
+          "id": "s36_1_0009",
+          "level": "must",
+          "text": "下一班地铁几点到？",
+          "alternatives": [
+            {
+              "text": "下一趟地铁什么时候到？",
+              "id": "s36_1_0009_alt01",
+              "meaning_vi": "Chuyến tàu tiếp theo khi nào đến?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "大概十分钟后到。",
+              "id": "s36_1_0009_reply01",
+              "meaning_vi": "Khoảng mười phút nữa."
+            },
+            {
+              "text": "你可以看站台上的到站显示屏。",
+              "id": "s36_1_0009_reply02",
+              "meaning_vi": "Bạn xem bảng thông báo giờ tàu đến trên sân ga nhé."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "xià yì bān dì tiě jǐ diǎn dào",
+          "mistakes": [
+            {
+              "text": "“几点到”问具体到站时刻；若要问还得等多久，则说“还要等多久”。",
+              "text_vi": "“几点到” hỏi giờ đến cụ thể; “còn đợi bao lâu” là câu hỏi khác."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Chuyến tàu điện ngầm tiếp theo mấy giờ tới?"
+        },
+        {
+          "id": "s36_1_0010",
+          "level": "must",
+          "text": "可以直接刷手机进站吗？",
+          "alternatives": [
+            {
+              "text": "能用手机扫码进站吗？",
+              "id": "s36_1_0010_alt01",
+              "meaning_vi": "Dùng điện thoại quét mã qua cổng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "如果这个站支持，而且已经开通乘车码，可以直接扫码进站。",
+              "id": "s36_1_0010_reply01",
+              "meaning_vi": "Nếu ga hỗ trợ và bạn đã kích hoạt mã đi tàu thì có thể quét để vào."
+            },
+            {
+              "text": "不确定的话看闸机和页面提示。",
+              "id": "s36_1_0010_reply02",
+              "meaning_vi": "Chưa chắc thì xem hướng dẫn trên cổng soát vé và ứng dụng."
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "kě yǐ zhí jiē shuā shǒu jī jìn zhàn ma",
+          "mistakes": [
+            {
+              "text": "“刷手机”可能是乘车二维码或受支持的NFC方式，并非把普通付款界面贴向闸机；需依设备提示操作。",
+              "text_vi": "Dùng điện thoại có thể là mã QR hoặc NFC được hỗ trợ, không phải đưa màn hình thanh toán thường vào cổng."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Có thể dùng điện thoại quét mã để vào ga luôn không?"
+        },
+        {
+          "id": "s36_1_0011",
+          "level": "listen",
+          "text": "从A口进。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我从A口进。",
+              "id": "s36_1_0011_reply01",
+              "meaning_vi": "Được, tôi sẽ vào cửa A."
+            },
+            {
+              "text": "A口是靠近哪条街？",
+              "id": "s36_1_0011_reply02",
+              "meaning_vi": "Cửa A gần đường nào?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "cóng ēi kǒu jìn",
+          "mistakes": [
+            {
+              "text": "“A口”是车站入口的编号，不是汉字“啊”；现场可能还标A1、A2，要仔细核对。",
+              "text_vi": "“A口” là cửa A của ga, có thể chia A1, A2; cần xem biển chỉ dẫn."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Vào bằng cửa A."
+        },
+        {
+          "id": "s36_1_0012",
+          "level": "listen",
+          "text": "机器上可以买。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能在机器上用现金买票吗？",
+              "id": "s36_1_0012_reply01",
+              "meaning_vi": "Máy có bán vé bằng tiền mặt không?"
+            },
+            {
+              "text": "机器在哪儿？",
+              "id": "s36_1_0012_reply02",
+              "meaning_vi": "Máy bán vé ở đâu?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "jī qì shàng kě yǐ mǎi",
+          "mistakes": [
+            {
+              "text": "这里的“机器”由上下文指售票机，不是任意机器；“可以买”是表示可行，不保证所有机器支持所有支付方式。",
+              "text_vi": "“Máy” ở đây là máy bán vé, không phải mọi máy; phương thức thanh toán còn tùy máy."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Có thể mua vé ở máy."
+        },
+        {
+          "id": "s36_1_0013",
+          "level": "listen",
+          "text": "可以刷手机。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我用手机。",
+              "id": "s36_1_0013_reply01",
+              "meaning_vi": "Được, vậy tôi dùng điện thoại."
+            },
+            {
+              "text": "需要先打开乘车码吗？",
+              "id": "s36_1_0013_reply02",
+              "meaning_vi": "Có cần mở mã đi tàu trước không?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "kě yǐ shuā shǒu jī",
+          "mistakes": [
+            {
+              "text": "“刷手机”不一定是把手机屏幕直接贴在任何地方；可按二维码或NFC方式操作，依闸机标记为准。",
+              "text_vi": "Qua cổng bằng điện thoại có thể dùng mã QR hoặc NFC, cần theo dấu hướng dẫn của cổng."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Có thể dùng điện thoại để qua cổng."
+        },
+        {
+          "id": "s36_1_0014",
+          "level": "listen",
+          "text": "先安检。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先去安检。",
+              "id": "s36_1_0014_reply01",
+              "meaning_vi": "Được, tôi đi qua khu kiểm tra an ninh trước."
+            },
+            {
+              "text": "安检入口在哪儿？",
+              "id": "s36_1_0014_reply02",
+              "meaning_vi": "Lối vào khu kiểm tra an ninh ở đâu?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "xiān ān jiǎn",
+          "mistakes": [
+            {
+              "text": "“安检”是安全检查，不是买票、验票；具体安检地点和流程随车站而不同。",
+              "text_vi": "“安检” là kiểm tra an ninh, khác mua hoặc soát vé; nơi thực hiện tùy ga."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Kiểm tra an ninh trước."
+        },
+        {
+          "id": "s36_1_0015",
+          "level": "listen",
+          "text": "在售票机买票。",
+          "alternatives": [
+            {
+              "text": "去自动售票机买。",
+              "id": "s36_1_0015_alt01",
+              "meaning_vi": "Ra máy bán vé tự động mua nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去找售票机。",
+              "id": "s36_1_0015_reply01",
+              "meaning_vi": "Được, tôi đi tìm máy bán vé."
+            },
+            {
+              "text": "售票机能收现金吗？",
+              "id": "s36_1_0015_reply02",
+              "meaning_vi": "Máy có nhận tiền mặt không?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "zài shòu piào jī mǎi piào",
+          "mistakes": [
+            {
+              "text": "“售票机”是卖车票的机器；与“充值机”充值交通卡的用途可能不同。",
+              "text_vi": "Máy bán vé và máy nạp thẻ có thể khác nhau; phải xem chức năng."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Mua vé ở máy bán vé tự động."
+        },
+        {
+          "id": "s36_1_0016",
+          "level": "listen",
+          "text": "打开乘车码进站。",
+          "alternatives": [
+            {
+              "text": "打开乘车二维码再进站。",
+              "id": "s36_1_0016_alt01",
+              "meaning_vi": "Mở mã QR đi tàu trước khi vào ga."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先打开乘车码。",
+              "id": "s36_1_0016_reply01",
+              "meaning_vi": "Được, tôi mở mã trước."
+            },
+            {
+              "text": "是在闸机这里扫码吗？",
+              "id": "s36_1_0016_reply02",
+              "meaning_vi": "Quét mã ở cổng soát vé này phải không?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "dǎ kāi chéng chē mǎ jìn zhàn",
+          "mistakes": [
+            {
+              "text": "“打开乘车码”是显示有效的乘车页面，不是打开任意二维码图片；如有动态码须使用实时页面。",
+              "text_vi": "Phải mở mã đi tàu hợp lệ, không dùng ảnh chụp mã tùy ý nếu mã động."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Mở mã đi tàu rồi qua cổng."
+        },
+        {
+          "id": "s36_1_0017",
+          "level": "listen",
+          "text": "充值在服务台。",
+          "alternatives": [
+            {
+              "text": "服务台可以充值。",
+              "id": "s36_1_0017_alt01",
+              "meaning_vi": "Quầy dịch vụ có thể nạp tiền."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去服务台问一下。",
+              "id": "s36_1_0017_reply01",
+              "meaning_vi": "Được, tôi đến quầy hỏi thử."
+            },
+            {
+              "text": "服务台在哪边？",
+              "id": "s36_1_0017_reply02",
+              "meaning_vi": "Quầy dịch vụ ở phía nào?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "chōng zhí zài fú wù tái",
+          "mistakes": [
+            {
+              "text": "“服务台”是站内工作人员服务点，不一定每个服务台都可直接充值，应以现场服务范围为准。",
+              "text_vi": "Quầy dịch vụ là nơi hỏi nhân viên, không nhất thiết quầy nào cũng trực tiếp nạp thẻ được."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Nạp tiền ở quầy dịch vụ."
+        },
+        {
+          "id": "s36_1_0018",
+          "level": "listen",
+          "text": "这趟车十分钟后到。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我等十分钟。",
+              "id": "s36_1_0018_reply01",
+              "meaning_vi": "Được, tôi đợi mười phút."
+            },
+            {
+              "text": "是往机场方向的吗？",
+              "id": "s36_1_0018_reply02",
+              "meaning_vi": "Có phải chuyến đi hướng sân bay không?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "zhè tàng chē shí fēn zhōng hòu dào",
+          "mistakes": [
+            {
+              "text": "“十分钟后到”是从说话时起再等十分钟，不是列车已经开了十分钟；“这趟车”指当前谈论的班次。",
+              "text_vi": "“Mười phút nữa tới” tính từ thời điểm đang nói, không phải tàu đã chạy mười phút."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Chuyến này mười phút nữa sẽ đến."
+        },
+        {
+          "id": "s36_1_0019",
+          "level": "listen",
+          "text": "先过安检再进站。",
+          "alternatives": [
+            {
+              "text": "先安检，后进站。",
+              "id": "s36_1_0019_alt01",
+              "meaning_vi": "Kiểm tra an ninh trước, sau đó vào ga."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先过安检。",
+              "id": "s36_1_0019_reply01",
+              "meaning_vi": "Được, tôi đi kiểm tra an ninh trước."
+            },
+            {
+              "text": "安检后从哪个闸机进？",
+              "id": "s36_1_0019_reply02",
+              "meaning_vi": "Qua kiểm tra rồi thì vào cổng soát vé nào?"
+            }
+          ],
+          "lesson_id": "36.1",
+          "lesson_title": "36.1 进站购票",
+          "pinyin": "xiān guò ān jiǎn zài jìn zhàn",
+          "mistakes": [
+            {
+              "text": "“先……再……”是动作顺序；安检通过不等于已刷卡付费，过闸机仍须有效票或乘车码。",
+              "text_vi": "“先……再……” là làm theo thứ tự; qua an ninh xong vẫn phải có vé hoặc mã hợp lệ qua cổng."
+            }
+          ],
+          "lesson_title_vi": "36.1 Vào ga và mua vé",
+          "meaning_vi": "Qua kiểm tra an ninh trước rồi mới vào khu lên tàu."
+        }
+      ],
+      "opening": "练习找地铁站、问入口、买车票、办理与充值交通卡；区分交通乘车码和普通付款码。",
+      "subtitle": "19张高频卡 · 10必说 + 9必听",
+      "title_vi": "36.1 Vào ga và mua vé",
+      "opening_vi": "Tìm ga tàu điện ngầm, hỏi lối vào, mua vé và nạp thẻ giao thông; phân biệt mã đi tàu với mã thanh toán mua hàng.",
+      "subtitle_vi": "19 thẻ giao tiếp"
+    },
+    {
+      "id": "36.2",
+      "title": "36.2 刷卡扫码",
+      "phrases": [
+        {
+          "id": "s36_2_0001",
+          "level": "must",
+          "text": "这个码怎么扫？",
+          "alternatives": [
+            {
+              "text": "这个乘车码怎么扫？",
+              "id": "s36_2_0001_alt01",
+              "meaning_vi": "Quét mã đi tàu này thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "把二维码对准扫描区。",
+              "id": "s36_2_0001_reply01",
+              "meaning_vi": "Đưa mã QR vào đúng vùng quét."
+            },
+            {
+              "text": "把手机屏幕对准扫描窗口再试试。",
+              "id": "s36_2_0001_reply02",
+              "meaning_vi": "Đưa màn hình điện thoại hướng vào đầu đọc rồi thử lại."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "zhè ge mǎ zěn me sǎo",
+          "mistakes": [
+            {
+              "text": "“扫”在此是用闸机读取乘车二维码，不是拿手机扫描别人的收款码；应把有效码对准指定位置。",
+              "text_vi": "Đưa mã đi tàu vào đầu đọc của cổng, không phải dùng điện thoại quét mã nhận tiền của ai khác."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Quét mã này thế nào?"
+        },
+        {
+          "id": "s36_2_0002",
+          "level": "must",
+          "text": "怎么进站？",
+          "alternatives": [
+            {
+              "text": "过闸机怎么操作？",
+              "id": "s36_2_0002_alt01",
+              "meaning_vi": "Sử dụng cổng soát vé thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "打开乘车码或者刷交通卡过闸机。",
+              "id": "s36_2_0002_reply01",
+              "meaning_vi": "Mở mã đi tàu hoặc quẹt thẻ giao thông để qua cổng."
+            },
+            {
+              "text": "不会操作可以问工作人员。",
+              "id": "s36_2_0002_reply02",
+              "meaning_vi": "Không biết thao tác thì hỏi nhân viên."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "zěn me jìn zhàn",
+          "mistakes": [
+            {
+              "text": "“进站”是进入乘车区域，不一定只指进入地铁站大门；过闸机通常还需有效票或支付方式。",
+              "text_vi": "“进站” trong ngữ cảnh này là vào khu vực trả phí, qua cổng cần vé hoặc phương thức hợp lệ."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Qua cổng vào ga thế nào?"
+        },
+        {
+          "id": "s36_2_0003",
+          "level": "must",
+          "text": "这个码刷不上。",
+          "alternatives": [
+            {
+              "text": "这个乘车码扫不了。",
+              "id": "s36_2_0003_alt01",
+              "meaning_vi": "Mã đi tàu này không đọc được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看看屏幕提示，再重新扫码。",
+              "id": "s36_2_0003_reply01",
+              "meaning_vi": "Xem màn hình báo gì rồi thử quét lại."
+            },
+            {
+              "text": "还是不行就找工作人员。",
+              "id": "s36_2_0003_reply02",
+              "meaning_vi": "Nếu vẫn không được thì tìm nhân viên."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "zhè ge mǎ shuā bú shàng",
+          "mistakes": [
+            {
+              "text": "“刷不上”指闸机没有成功识别或验证乘车凭证，不一定是余额不足；看失败提示并核对是否有扣费或入站记录。",
+              "text_vi": "“刷不上” nghĩa là không xác thực được, chưa chắc thiếu tiền; xem thông báo và giao dịch trước."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Mã này quét không được."
+        },
+        {
+          "id": "s36_2_0004",
+          "level": "must",
+          "text": "余额不够。",
+          "alternatives": [
+            {
+              "text": "余额不足。",
+              "id": "s36_2_0004_alt01",
+              "meaning_vi": "Số dư không đủ."
+            },
+            {
+              "text": "我的交通卡余额不足。",
+              "id": "s36_2_0004_alt02",
+              "meaning_vi": "Thẻ giao thông của tôi không đủ tiền."
+            }
+          ],
+          "replies": [
+            {
+              "text": "如果是交通卡，先充值再试。",
+              "id": "s36_2_0004_reply01",
+              "meaning_vi": "Nếu là thẻ giao thông thì nạp tiền rồi thử lại."
+            },
+            {
+              "text": "已经进站的话，去服务台找工作人员处理。",
+              "id": "s36_2_0004_reply02",
+              "meaning_vi": "Nếu đã vào ga thì đến quầy nhờ nhân viên xử lý."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "yú é bú gòu",
+          "mistakes": [
+            {
+              "text": "“余额不足”说的是交通卡或账户可用余额不够；已进站与尚未进站的补缴处理可能不同，先找工作人员核实。",
+              "text_vi": "“Không đủ số dư” là tiền khả dụng trong thẻ/tài khoản ít; cách xử lý khác nhau khi đã vào ga hay chưa."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Không đủ số dư."
+        },
+        {
+          "id": "s36_2_0005",
+          "level": "must",
+          "text": "出站也要刷吗？",
+          "alternatives": [
+            {
+              "text": "出站还要再刷一次吗？",
+              "id": "s36_2_0005_alt01",
+              "meaning_vi": "Khi ra cũng phải quẹt lần nữa à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般要，按原来的乘车方式出站。",
+              "id": "s36_2_0005_reply01",
+              "meaning_vi": "Thường là có, dùng đúng cách đã dùng khi vào."
+            },
+            {
+              "text": "不同城市有区别，按闸机提示操作。",
+              "id": "s36_2_0005_reply02",
+              "meaning_vi": "Mỗi thành phố có thể khác, cứ làm theo hướng dẫn ở cổng."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "chū zhàn yě yào shuā ma",
+          "mistakes": [
+            {
+              "text": "“出站”是离开付费区，和进站是两次不同操作；是否都要刷、能否换支付方式要看当地系统。",
+              "text_vi": "Ra khỏi khu trả phí là một bước riêng; có cần quẹt cả lúc vào và ra tùy hệ thống địa phương."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Ra ga cũng phải quẹt thẻ à?"
+        },
+        {
+          "id": "s36_2_0006",
+          "level": "must",
+          "text": "闸机不开。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先看看屏幕有没有提示。",
+              "id": "s36_2_0006_reply01",
+              "meaning_vi": "Kiểm tra xem màn hình có thông báo gì không."
+            },
+            {
+              "text": "还是不开的话，找工作人员。",
+              "id": "s36_2_0006_reply02",
+              "meaning_vi": "Vẫn không mở thì nhờ nhân viên nhé."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "zhá jī bù kāi",
+          "mistakes": [
+            {
+              "text": "“闸机不开”只说门没打开，不代表一定机械故障；也可能是支付或识别未成功。",
+              "text_vi": "Cổng không mở có thể do không nhận vé, không nhất thiết máy hỏng."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Cổng soát vé không mở."
+        },
+        {
+          "id": "s36_2_0007",
+          "level": "must",
+          "text": "我扫了两次都没反应。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先别连续刷，看看屏幕提示。",
+              "id": "s36_2_0007_reply01",
+              "meaning_vi": "Đừng quét liên tục, xem màn hình báo gì đã."
+            },
+            {
+              "text": "可以去人工通道找工作人员。",
+              "id": "s36_2_0007_reply02",
+              "meaning_vi": "Bạn có thể tới lối có nhân viên hỗ trợ."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "wǒ sǎo le liǎng cì dōu méi fǎn yìng",
+          "mistakes": [
+            {
+              "text": "扫了两次“没反应”不等于成功扣费两次，也不能保证完全未扣；先核对闸机及乘车记录，避免连续重复刷。",
+              "text_vi": "Quét hai lần không phản hồi chưa chắc bị trừ hai lần hay không trừ; kiểm tra lịch sử trước khi quét tiếp."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Tôi quét hai lần rồi mà không có phản hồi."
+        },
+        {
+          "id": "s36_2_0008",
+          "level": "must",
+          "text": "我进不去。",
+          "alternatives": [
+            {
+              "text": "刷了也进不去。",
+              "id": "s36_2_0008_alt01",
+              "meaning_vi": "Quẹt rồi mà vẫn không vào được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看看闸机提示。",
+              "id": "s36_2_0008_reply01",
+              "meaning_vi": "Xem thông báo trên cổng trước nhé."
+            },
+            {
+              "text": "去人工通道找工作人员。",
+              "id": "s36_2_0008_reply02",
+              "meaning_vi": "Đến lối có nhân viên hỗ trợ."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "wǒ jìn bu qù",
+          "mistakes": [
+            {
+              "text": "“我进不去”此处指闸机或入站系统不让通过，不是自己不知道地铁站入口的位置。",
+              "text_vi": "“Không vào được” ở đây là cổng không cho qua, không phải không tìm thấy cửa ga."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Tôi không qua cổng được."
+        },
+        {
+          "id": "s36_2_0009",
+          "level": "must",
+          "text": "出站怎么刷？",
+          "alternatives": [
+            {
+              "text": "出站时怎么扫码？",
+              "id": "s36_2_0009_alt01",
+              "meaning_vi": "Ra ga quét mã như thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "打开乘车码，对准出站闸机的扫描区。",
+              "id": "s36_2_0009_reply01",
+              "meaning_vi": "Mở mã đi tàu rồi đưa vào vùng quét ở cổng ra."
+            },
+            {
+              "text": "如果用交通卡，就按进站时的方式刷卡。",
+              "id": "s36_2_0009_reply02",
+              "meaning_vi": "Nếu dùng thẻ giao thông thì quẹt giống lúc vào."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "chū zhàn zěn me shuā",
+          "mistakes": [
+            {
+              "text": "“出站怎么刷”在问刷卡或扫码的方式；先辨认自己用的是交通卡还是乘车码，不要随意换另一张凭证。",
+              "text_vi": "Khi ra ga cần dùng đúng thẻ hoặc mã đã dùng vào ga, không tự ý đổi chứng từ."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Khi ra ga thì quét thế nào?"
+        },
+        {
+          "id": "s36_2_0010",
+          "level": "must",
+          "text": "屏幕提示余额不足。",
+          "alternatives": [
+            {
+              "text": "屏幕上显示余额不够。",
+              "id": "s36_2_0010_alt01",
+              "meaning_vi": "Màn hình hiển thị không đủ tiền."
+            }
+          ],
+          "replies": [
+            {
+              "text": "如果是交通卡，可以先看看能不能充值。",
+              "id": "s36_2_0010_reply01",
+              "meaning_vi": "Nếu là thẻ giao thông, thử xem có nạp tiền được không."
+            },
+            {
+              "text": "不清楚原因就去服务台问。",
+              "id": "s36_2_0010_reply02",
+              "meaning_vi": "Không rõ nguyên nhân thì đến quầy dịch vụ hỏi."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "píng mù tí shì yú é bù zú",
+          "mistakes": [
+            {
+              "text": "“屏幕提示”是机器显示的提示，不等于工作人员亲口说的；余额不足后究竟要充值还是补差价需核实。",
+              "text_vi": "Lời nhắc trên màn hình khác lời nhân viên; có thể cần nạp tiền hoặc xử lý chênh lệch, nên hỏi."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Màn hình báo không đủ số dư."
+        },
+        {
+          "id": "s36_2_0011",
+          "level": "must",
+          "text": "可以走人工通道吗？",
+          "alternatives": [
+            {
+              "text": "能走人工通道吗？",
+              "id": "s36_2_0011_alt01",
+              "meaning_vi": "Có thể đi lối hỗ trợ thủ công không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，去那边找工作人员。",
+              "id": "s36_2_0011_reply01",
+              "meaning_vi": "Được, bạn tới bên kia gặp nhân viên."
+            },
+            {
+              "text": "这边要先去服务台核实。",
+              "id": "s36_2_0011_reply02",
+              "meaning_vi": "Bên này cần tới quầy dịch vụ kiểm tra trước."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "kě yǐ zǒu rén gōng tōng dào ma",
+          "mistakes": [
+            {
+              "text": "“人工通道”是工作人员协助的通道，不意味着可以免费越过验票或支付要求。",
+              "text_vi": "Lối có nhân viên hỗ trợ không có nghĩa được miễn vé hoặc bỏ qua bước kiểm tra."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Tôi đi qua lối có nhân viên được không?"
+        },
+        {
+          "id": "s36_2_0012",
+          "level": "listen",
+          "text": "请重新扫码。",
+          "alternatives": [
+            {
+              "text": "请再扫一次。",
+              "id": "s36_2_0012_alt01",
+              "meaning_vi": "Vui lòng quét thêm lần nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我再扫一次。",
+              "id": "s36_2_0012_reply01",
+              "meaning_vi": "Được, tôi quét lại."
+            },
+            {
+              "text": "我先确认刚才有没有刷成功。",
+              "id": "s36_2_0012_reply02",
+              "meaning_vi": "Để tôi kiểm tra lần trước có quét thành công chưa."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "qǐng chóng xīn sǎo mǎ",
+          "mistakes": [
+            {
+              "text": "“重新”表示再操作一次，不一定要重新注册账户；“扫码”是读取二维码，不是刷实体交通卡。",
+              "text_vi": "“重新” là làm lại thao tác, không phải đăng ký lại tài khoản; quét mã khác quẹt thẻ."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Vui lòng quét mã lại."
+        },
+        {
+          "id": "s36_2_0013",
+          "level": "listen",
+          "text": "靠近一点。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我靠近一点。",
+              "id": "s36_2_0013_reply01",
+              "meaning_vi": "Được, tôi đưa lại gần."
+            },
+            {
+              "text": "这样可以吗？",
+              "id": "s36_2_0013_reply02",
+              "meaning_vi": "Thế này được chưa?"
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "kào jìn yì diǎn",
+          "mistakes": [
+            {
+              "text": "“靠近一点”在此是移动手机或卡的位置，不是叫整个人挤到其他乘客身上。",
+              "text_vi": "“Đưa gần hơn” là di chuyển điện thoại hoặc thẻ, không phải chen sát người bên cạnh."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Đưa lại gần hơn một chút."
+        },
+        {
+          "id": "s36_2_0014",
+          "level": "listen",
+          "text": "走人工通道。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去人工通道。",
+              "id": "s36_2_0014_reply01",
+              "meaning_vi": "Được, tôi tới lối đó."
+            },
+            {
+              "text": "需要先找工作人员吗？",
+              "id": "s36_2_0014_reply02",
+              "meaning_vi": "Có cần tìm nhân viên trước không?"
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "zǒu rén gōng tōng dào",
+          "mistakes": [
+            {
+              "text": "“走人工通道”是去指定有人处理的通道，不是从闸机旁边硬挤过去。",
+              "text_vi": "Đi tới lối có nhân viên, không được vòng qua rào soát vé trái phép."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Đi qua lối có nhân viên hỗ trợ."
+        },
+        {
+          "id": "s36_2_0015",
+          "level": "listen",
+          "text": "刚才没有刷成功。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先看看有没有扣费记录。",
+              "id": "s36_2_0015_reply01",
+              "meaning_vi": "Để tôi xem có bị trừ tiền không."
+            },
+            {
+              "text": "难怪进不去。",
+              "id": "s36_2_0015_reply02",
+              "meaning_vi": "Thảo nào tôi không vào được."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "gāng cái méi yǒu shuā chéng gōng",
+          "mistakes": [
+            {
+              "text": "“没有刷成功”指刚才未通过验票，不等于一定没有支付记录；再刷前先核查系统提示。",
+              "text_vi": "Lần trước chưa qua cổng không chứng minh chắc chắn chưa bị trừ tiền; nên tra lại."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Lúc nãy quẹt chưa thành công."
+        },
+        {
+          "id": "s36_2_0016",
+          "level": "listen",
+          "text": "需要先补票。",
+          "alternatives": [
+            {
+              "text": "请先补一下票。",
+              "id": "s36_2_0016_alt01",
+              "meaning_vi": "Vui lòng bổ sung vé trước nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去服务台处理。",
+              "id": "s36_2_0016_reply01",
+              "meaning_vi": "Được, tôi tới quầy dịch vụ xử lý."
+            },
+            {
+              "text": "需要补多少？",
+              "id": "s36_2_0016_reply02",
+              "meaning_vi": "Cần trả thêm bao nhiêu?"
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "xū yào xiān bǔ piào",
+          "mistakes": [
+            {
+              "text": "“补票”可能是补交差额或补办欠缺的车票手续，不等于单纯给交通卡充值；听从站务人员引导。",
+              "text_vi": "“补票” là mua bổ sung hoặc nộp thêm phần vé thiếu, khác nạp tiền vào thẻ."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Cần làm thủ tục bổ sung vé trước."
+        },
+        {
+          "id": "s36_2_0017",
+          "level": "listen",
+          "text": "这个闸机坏了，走旁边。",
+          "alternatives": [
+            {
+              "text": "这台闸机坏了，换旁边的。",
+              "id": "s36_2_0017_alt01",
+              "meaning_vi": "Máy soát vé này hỏng, đổi sang máy bên cạnh."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我走旁边。",
+              "id": "s36_2_0017_reply01",
+              "meaning_vi": "Được, tôi đi cổng bên cạnh."
+            },
+            {
+              "text": "知道了，谢谢。",
+              "id": "s36_2_0017_reply02",
+              "meaning_vi": "Hiểu rồi, cảm ơn."
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "zhè ge zhá jī huài le zǒu páng biān",
+          "mistakes": [
+            {
+              "text": "“走旁边”指改走邻近可用的闸机或通道，不是绕开检票栏杆直接通过。",
+              "text_vi": "“Đi bên cạnh” là dùng cổng khác còn hoạt động, không phải lách qua rào."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Cổng này hỏng rồi, đi cổng bên cạnh."
+        },
+        {
+          "id": "s36_2_0018",
+          "level": "listen",
+          "text": "把二维码对准扫描区。",
+          "alternatives": [
+            {
+              "text": "二维码对准这里扫。",
+              "id": "s36_2_0018_alt01",
+              "meaning_vi": "Đưa mã QR vào đây để quét."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我对准扫描区。",
+              "id": "s36_2_0018_reply01",
+              "meaning_vi": "Được, tôi đưa vào đúng vùng quét."
+            },
+            {
+              "text": "这样放对吗？",
+              "id": "s36_2_0018_reply02",
+              "meaning_vi": "Đưa thế này đúng chưa?"
+            }
+          ],
+          "lesson_id": "36.2",
+          "lesson_title": "36.2 刷卡扫码",
+          "pinyin": "bǎ èr wéi mǎ duì zhǔn sǎo miáo qū",
+          "mistakes": [
+            {
+              "text": "“对准”是对齐位置；二维码要显示清楚，不必用力将手机压在扫描器上。",
+              "text_vi": "“对准” là đặt thẳng đúng vùng quét, không cần ép màn hình lên đầu đọc."
+            }
+          ],
+          "lesson_title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+          "meaning_vi": "Đưa mã QR vào đúng vùng quét."
+        }
+      ],
+      "opening": "练习刷交通卡和乘车二维码过闸，处理余额不足、读码失败、进出站记录异常；不要误判扣费或强行过闸。",
+      "subtitle": "18张高频卡 · 11必说 + 7必听",
+      "title_vi": "36.2 Quẹt thẻ và quét mã qua cổng",
+      "opening_vi": "Luyện dùng thẻ và mã QR qua cổng, xử lý thiếu số dư, không đọc được mã hoặc lỗi ghi nhận vào/ra; không cố vượt cổng.",
+      "subtitle_vi": "18 thẻ giao tiếp"
+    },
+    {
+      "id": "36.3",
+      "title": "36.3 换乘下车",
+      "phrases": [
+        {
+          "id": "s36_3_0001",
+          "level": "must",
+          "text": "在哪儿换乘？",
+          "alternatives": [
+            {
+              "text": "在哪站换乘？",
+              "id": "s36_3_0001_alt01",
+              "meaning_vi": "Đổi tàu tại ga nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "下一站就能换乘。",
+              "id": "s36_3_0001_reply01",
+              "meaning_vi": "Ga tiếp theo có thể đổi tuyến."
+            },
+            {
+              "text": "在人民广场站换乘。",
+              "id": "s36_3_0001_reply02",
+              "meaning_vi": "Đổi ở ga Quảng trường Nhân Dân."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "zài nǎr huàn chéng",
+          "mistakes": [
+            {
+              "text": "“在哪儿换乘”问换乘地点或车站，不是问最后在哪个出口离开地铁；通常要说明目标路线。",
+              "text_vi": "Hỏi nơi đổi tuyến, không hỏi lối ra cuối; thường phải biết cần đi tuyến nào."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đổi tuyến ở đâu?"
+        },
+        {
+          "id": "s36_3_0002",
+          "level": "must",
+          "text": "坐几号线？",
+          "alternatives": [
+            {
+              "text": "应该坐哪条线？",
+              "id": "s36_3_0002_alt01",
+              "meaning_vi": "Nên đi tuyến nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "坐二号线。",
+              "id": "s36_3_0002_reply01",
+              "meaning_vi": "Đi tuyến số 2."
+            },
+            {
+              "text": "先坐二号线，再换一号线。",
+              "id": "s36_3_0002_reply02",
+              "meaning_vi": "Đi tuyến số 2 trước rồi đổi sang tuyến số 1."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "zuò jǐ hào xiàn",
+          "mistakes": [
+            {
+              "text": "地铁常说“几号线”，公交车更常问“几路车”；同一条线也有两个相反方向。",
+              "text_vi": "Tàu điện ngầm thường nói số tuyến, xe buýt nói số tuyến xe; mỗi tuyến có thể chạy hai hướng."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đi tuyến số mấy?"
+        },
+        {
+          "id": "s36_3_0003",
+          "level": "must",
+          "text": "往哪个方向坐？",
+          "alternatives": [
+            {
+              "text": "这条线该往哪边坐？",
+              "id": "s36_3_0003_alt01",
+              "meaning_vi": "Tuyến này phải đi về hướng nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "坐往机场方向的车。",
+              "id": "s36_3_0003_reply01",
+              "meaning_vi": "Lên tàu hướng sân bay."
+            },
+            {
+              "text": "应该坐往市中心方向的车。",
+              "id": "s36_3_0003_reply02",
+              "meaning_vi": "Nên đi tàu hướng trung tâm thành phố."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "wǎng nǎ ge fāng xiàng zuò",
+          "mistakes": [
+            {
+              "text": "“方向”通常按终点站或线路去向标识，而不是只看左右站台；坐对线也可能坐反方向。",
+              "text_vi": "Chọn hướng dựa vào điểm cuối/biển chỉ dẫn, không chỉ nhìn vị trí trái phải của sân ga."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đi tàu theo hướng nào?"
+        },
+        {
+          "id": "s36_3_0004",
+          "level": "must",
+          "text": "下一站要下车吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，下一站下车换乘。",
+              "id": "s36_3_0004_reply01",
+              "meaning_vi": "Có, xuống ga tiếp theo để đổi tuyến."
+            },
+            {
+              "text": "不用，再坐三站。",
+              "id": "s36_3_0004_reply02",
+              "meaning_vi": "Không, đi thêm ba ga nữa."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "xià yí zhàn yào xià chē ma",
+          "mistakes": [
+            {
+              "text": "“下一站”是即将到达的站，不是最终终点；不能一听下一站就下，要核对站名。",
+              "text_vi": "“Ga tiếp theo” là ga sắp đến, không phải ga cuối; cần xác nhận tên ga trước khi xuống."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Ga tiếp theo có phải xuống không?"
+        },
+        {
+          "id": "s36_3_0005",
+          "level": "must",
+          "text": "到哪站下？",
+          "alternatives": [
+            {
+              "text": "在哪一站下车？",
+              "id": "s36_3_0005_alt01",
+              "meaning_vi": "Phải xuống ở ga nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在下一站下车。",
+              "id": "s36_3_0005_reply01",
+              "meaning_vi": "Xuống ở ga tiếp theo."
+            },
+            {
+              "text": "再坐三站就下。",
+              "id": "s36_3_0005_reply02",
+              "meaning_vi": "Đi thêm ba ga rồi xuống."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "dào nǎ zhàn xià",
+          "mistakes": [
+            {
+              "text": "“到哪站下”问站名或具体下车站，和“还有几站”问剩余站数不同。",
+              "text_vi": "“Xuống ga nào” hỏi tên ga, khác “còn mấy ga” hỏi số ga."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Xuống ở ga nào?"
+        },
+        {
+          "id": "s36_3_0006",
+          "level": "must",
+          "text": "换乘要重新过闸机吗？",
+          "alternatives": [
+            {
+              "text": "换线要先出站吗？",
+              "id": "s36_3_0006_alt01",
+              "meaning_vi": "Đổi tuyến có phải ra khỏi ga trước không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般站内换乘不用重新过闸机。",
+              "id": "s36_3_0006_reply01",
+              "meaning_vi": "Thường đổi tuyến trong ga thì không cần qua cổng lần nữa."
+            },
+            {
+              "text": "如果要出站换乘，按车站提示走。",
+              "id": "s36_3_0006_reply02",
+              "meaning_vi": "Nếu phải ra ga để đổi, hãy theo hướng dẫn tại ga."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "huàn chéng yào chóng xīn guò zhá jī ma",
+          "mistakes": [
+            {
+              "text": "站内换乘通常不用再次过付费闸机；若需出站换乘，是否重新计费依具体城市与线路规定，不可默认免费。",
+              "text_vi": "Đổi tuyến trong ga thường không qua lại cổng, nhưng đổi ngoài ga có thể tính phí khác theo quy định."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Khi đổi tuyến có phải qua cổng soát vé lần nữa không?"
+        },
+        {
+          "id": "s36_3_0007",
+          "level": "must",
+          "text": "从哪边换乘？",
+          "alternatives": [
+            {
+              "text": "换乘通道在哪边？",
+              "id": "s36_3_0007_alt01",
+              "meaning_vi": "Lối chuyển tuyến ở phía nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "从右边通道走。",
+              "id": "s36_3_0007_reply01",
+              "meaning_vi": "Đi theo hành lang bên phải."
+            },
+            {
+              "text": "下车以后跟着换乘标志走。",
+              "id": "s36_3_0007_reply02",
+              "meaning_vi": "Xuống tàu rồi theo biển chỉ dẫn chuyển tuyến."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "cóng nǎ biān huàn chéng",
+          "mistakes": [
+            {
+              "text": "“从哪边”问换乘通道所在方向，不是询问乘坐哪一条地铁线；先确定线路再看标志。",
+              "text_vi": "“Lối nào” là đường đến hành lang đổi tuyến, không phải hỏi số tuyến cần đi."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đi lối nào để đổi tuyến?"
+        },
+        {
+          "id": "s36_3_0008",
+          "level": "must",
+          "text": "下车以后往哪儿走？",
+          "alternatives": [
+            {
+              "text": "下车后往哪里走？",
+              "id": "s36_3_0008_alt01",
+              "meaning_vi": "Sau khi xuống thì đi đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "如果换乘，就跟着换乘标志走。",
+              "id": "s36_3_0008_reply01",
+              "meaning_vi": "Nếu đổi tuyến, theo biển chỉ dẫn đổi tuyến."
+            },
+            {
+              "text": "如果出站，就看出口标志。",
+              "id": "s36_3_0008_reply02",
+              "meaning_vi": "Nếu ra ga, theo biển chỉ lối ra."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "xià chē yǐ hòu wǎng nǎr zǒu",
+          "mistakes": [
+            {
+              "text": "“下车以后”只说离开车厢后的步骤；“换乘”要找换乘标志，“出站”要找出口标志，不能随意混用。",
+              "text_vi": "Sau khi xuống, muốn đổi tàu theo biển đổi tuyến, muốn ra ngoài theo biển lối ra."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Xuống tàu rồi đi hướng nào?"
+        },
+        {
+          "id": "s36_3_0009",
+          "level": "must",
+          "text": "需要换几次？",
+          "alternatives": [
+            {
+              "text": "一共要换乘几次？",
+              "id": "s36_3_0009_alt01",
+              "meaning_vi": "Tổng cộng phải đổi tàu mấy lần?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "只要换乘一次。",
+              "id": "s36_3_0009_reply01",
+              "meaning_vi": "Chỉ cần đổi một lần."
+            },
+            {
+              "text": "不用换乘，可以直接坐到。",
+              "id": "s36_3_0009_reply02",
+              "meaning_vi": "Không cần đổi, đi thẳng một tuyến là tới."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "xū yào huàn jǐ cì",
+          "mistakes": [
+            {
+              "text": "“换几次”是线路转换次数，不是乘坐几站；换一次通常涉及至少两段线路。",
+              "text_vi": "“Đổi mấy lần” đếm số lần chuyển giữa tuyến, không phải số ga."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Cần đổi tuyến mấy lần?"
+        },
+        {
+          "id": "s36_3_0010",
+          "level": "must",
+          "text": "这个方向对吗？",
+          "alternatives": [
+            {
+              "text": "坐这个方向没错吧？",
+              "id": "s36_3_0010_alt01",
+              "meaning_vi": "Đi hướng này không sai chứ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，往机场方向。",
+              "id": "s36_3_0010_reply01",
+              "meaning_vi": "Đúng, hướng sân bay."
+            },
+            {
+              "text": "不对，应该往市中心方向。",
+              "id": "s36_3_0010_reply02",
+              "meaning_vi": "Không, phải đi hướng trung tâm thành phố."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "zhè ge fāng xiàng duì ma",
+          "mistakes": [
+            {
+              "text": "“方向对吗”强调列车行进方向；同一站台附近可能有不同线路或支线，仍须看站名。",
+              "text_vi": "Cùng tuyến nhưng sai chiều vẫn đi ngược hướng; phải kiểm tra ga cuối và biển tuyến."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Hướng này đúng chưa?"
+        },
+        {
+          "id": "s36_3_0011",
+          "level": "listen",
+          "text": "下一站换乘。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我下一站换乘。",
+              "id": "s36_3_0011_reply01",
+              "meaning_vi": "Được, tôi đổi tuyến ở ga sau."
+            },
+            {
+              "text": "换乘标志在哪儿？",
+              "id": "s36_3_0011_reply02",
+              "meaning_vi": "Biển chỉ dẫn đổi tuyến ở đâu?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "xià yí zhàn huàn chéng",
+          "mistakes": [
+            {
+              "text": "“下一站换乘”不是在移动的列车里换车，而是下一站先下车再走换乘通道。",
+              "text_vi": "Đổi ở ga sau nghĩa là xuống tàu ở ga sau rồi đi theo lối chuyển, không thể đổi giữa lúc tàu chạy."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đổi tuyến ở ga tiếp theo."
+        },
+        {
+          "id": "s36_3_0012",
+          "level": "listen",
+          "text": "坐二号线。",
+          "alternatives": [
+            {
+              "text": "乘坐二号线。",
+              "id": "s36_3_0012_alt01",
+              "meaning_vi": "Lên tàu tuyến số 2."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我坐二号线。",
+              "id": "s36_3_0012_reply01",
+              "meaning_vi": "Được, tôi đi tuyến số 2."
+            },
+            {
+              "text": "二号线在哪边？",
+              "id": "s36_3_0012_reply02",
+              "meaning_vi": "Tuyến số 2 ở phía nào?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "zuò èr hào xiàn",
+          "mistakes": [
+            {
+              "text": "“二号线”是线路编号，不是第二站；即使是二号线，还要核对上车方向。",
+              "text_vi": "“Tuyến số hai” là số tuyến, không phải ga thứ hai; còn cần xác định chiều đi."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đi tuyến số 2."
+        },
+        {
+          "id": "s36_3_0013",
+          "level": "listen",
+          "text": "往机场方向。",
+          "alternatives": [
+            {
+              "text": "坐往机场方向的车。",
+              "id": "s36_3_0013_alt01",
+              "meaning_vi": "Lên tàu hướng sân bay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我往机场方向坐。",
+              "id": "s36_3_0013_reply01",
+              "meaning_vi": "Được, tôi sẽ đi hướng sân bay."
+            },
+            {
+              "text": "这个方向对吧？",
+              "id": "s36_3_0013_reply02",
+              "meaning_vi": "Đúng hướng này phải không?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "wǎng jī chǎng fāng xiàng",
+          "mistakes": [
+            {
+              "text": "“往机场方向”标识的是线路行驶方向，不一定表示你必须坐到机场；可以提前下车。",
+              "text_vi": "“Hướng sân bay” chỉ chiều tàu, không bắt buộc đi tới tận sân bay."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đi về hướng sân bay."
+        },
+        {
+          "id": "s36_3_0014",
+          "level": "listen",
+          "text": "从C口出去。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我从C口出去。",
+              "id": "s36_3_0014_reply01",
+              "meaning_vi": "Được, tôi ra cửa C."
+            },
+            {
+              "text": "C口在哪儿？",
+              "id": "s36_3_0014_reply02",
+              "meaning_vi": "Cửa C ở đâu?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "cóng xī kǒu chū qù",
+          "mistakes": [
+            {
+              "text": "“C口”是车站出口的标识，不是地铁的C号线；这里是要离开车站而不是再换乘。",
+              "text_vi": "“Cửa C” là cửa ra của ga, không phải tuyến C; câu này yêu cầu ra ngoài."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Ra bằng cửa C."
+        },
+        {
+          "id": "s36_3_0015",
+          "level": "listen",
+          "text": "先坐三站再换。",
+          "alternatives": [
+            {
+              "text": "坐过三站再换。",
+              "id": "s36_3_0015_alt01",
+              "meaning_vi": "Qua ba ga rồi đổi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先坐三站。",
+              "id": "s36_3_0015_reply01",
+              "meaning_vi": "Được, tôi đi ba ga trước."
+            },
+            {
+              "text": "三站以后换几号线？",
+              "id": "s36_3_0015_reply02",
+              "meaning_vi": "Sau ba ga thì đổi sang tuyến số mấy?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "xiān zuò sān zhàn zài huàn",
+          "mistakes": [
+            {
+              "text": "“先……再……”是先后步骤；“三站”通常从当前上车站之后开始数，不是包括出发站。",
+              "text_vi": "Đi ba ga rồi đổi là thứ tự; đếm từ ga sau điểm lên tàu, không tính ga xuất phát."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đi ba ga rồi mới đổi tuyến."
+        },
+        {
+          "id": "s36_3_0016",
+          "level": "listen",
+          "text": "不用换乘。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我不用换。",
+              "id": "s36_3_0016_reply01",
+              "meaning_vi": "Được, vậy tôi không phải đổi."
+            },
+            {
+              "text": "可以直接坐到吗？",
+              "id": "s36_3_0016_reply02",
+              "meaning_vi": "Có thể đi thẳng tới đó đúng không?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "bú yòng huàn chéng",
+          "mistakes": [
+            {
+              "text": "“不用换乘”是不需要换到另一条线，不表示一路不停车；列车仍会停靠中间各站。",
+              "text_vi": "“Không cần đổi tuyến” vẫn có thể đi qua nhiều ga, không phải tàu chạy không dừng."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Không cần đổi tuyến."
+        },
+        {
+          "id": "s36_3_0017",
+          "level": "listen",
+          "text": "你坐反方向了。",
+          "alternatives": [
+            {
+              "text": "你的方向坐反了。",
+              "id": "s36_3_0017_alt01",
+              "meaning_vi": "Bạn lên tàu sai chiều rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我下一站下车。",
+              "id": "s36_3_0017_reply01",
+              "meaning_vi": "Vậy tôi xuống ga sau."
+            },
+            {
+              "text": "我应该在哪儿换回正确方向？",
+              "id": "s36_3_0017_reply02",
+              "meaning_vi": "Tôi đổi về hướng đúng ở đâu?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "nǐ zuò fǎn fāng xiàng le",
+          "mistakes": [
+            {
+              "text": "“坐反方向”是同一线路却坐错行驶方向，并不一定坐错线路；应到下一站安全下车后按标志返回。",
+              "text_vi": "“Đi ngược hướng” là đi sai chiều trên tuyến, không nhất thiết sai số tuyến; xuống ga kế tiếp an toàn rồi tìm đường quay về."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Bạn đi ngược hướng rồi."
+        },
+        {
+          "id": "s36_3_0018",
+          "level": "listen",
+          "text": "下车跟着换乘标志走。",
+          "alternatives": [
+            {
+              "text": "下车后按换乘指示走。",
+              "id": "s36_3_0018_alt01",
+              "meaning_vi": "Xuống tàu và đi theo hướng dẫn chuyển tuyến."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我跟着换乘标志走。",
+              "id": "s36_3_0018_reply01",
+              "meaning_vi": "Được, tôi theo biển đổi tuyến."
+            },
+            {
+              "text": "要换到几号线？",
+              "id": "s36_3_0018_reply02",
+              "meaning_vi": "Phải đổi sang tuyến số mấy?"
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "xià chē gēn zhe huàn chéng biāo zhì zǒu",
+          "mistakes": [
+            {
+              "text": "“跟着标志走”表示按指示牌路线前进，不是跟着某个陌生人走；核对目标线和方向。",
+              "text_vi": "Theo biển chỉ dẫn, không phải đi theo người lạ; phải nhìn đúng tuyến và chiều."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Xuống tàu rồi theo biển chỉ dẫn đổi tuyến."
+        },
+        {
+          "id": "s36_3_0019",
+          "level": "listen",
+          "text": "换乘不用出站。",
+          "alternatives": [
+            {
+              "text": "站内换乘不用出去。",
+              "id": "s36_3_0019_alt01",
+              "meaning_vi": "Đổi tàu trong ga không phải ra khỏi ga."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我不出站。",
+              "id": "s36_3_0019_reply01",
+              "meaning_vi": "Được, vậy tôi không ra ga."
+            },
+            {
+              "text": "明白了，跟着换乘标志走。",
+              "id": "s36_3_0019_reply02",
+              "meaning_vi": "Hiểu rồi, tôi theo biển chỉ dẫn đổi tuyến."
+            }
+          ],
+          "lesson_id": "36.3",
+          "lesson_title": "36.3 换乘下车",
+          "pinyin": "huàn chéng bú yòng chū zhàn",
+          "mistakes": [
+            {
+              "text": "这句话只适用于该站的站内换乘；有些线路连接需出站再进站，不能把它当作全国通用规则。",
+              "text_vi": "Không ra ga khi đổi tuyến chỉ đúng ở những ga có lối đổi trong khu trả phí."
+            }
+          ],
+          "lesson_title_vi": "36.3 Đổi tuyến và xuống ga",
+          "meaning_vi": "Đổi tuyến trong ga không cần ra ngoài."
+        }
+      ],
+      "opening": "练习区分地铁线路编号和行驶方向，问清换乘站、出口、站台以及要坐几站；站内换乘和出站换乘流程可能不同。",
+      "subtitle": "19张高频卡 · 10必说 + 9必听",
+      "title_vi": "36.3 Đổi tuyến và xuống ga",
+      "opening_vi": "Phân biệt số tuyến, chiều tàu, ga chuyển tuyến, sân ga và lối ra; đổi trong ga và ngoài ga có thể khác quy trình.",
+      "subtitle_vi": "19 thẻ giao tiếp"
+    },
+    {
+      "id": "36.4",
+      "title": "36.4 坐过站末班车",
+      "phrases": [
+        {
+          "id": "s36_4_0001",
+          "level": "must",
+          "text": "我坐过站了。",
+          "alternatives": [
+            {
+              "text": "我已经坐过站了。",
+              "id": "s36_4_0001_alt01",
+              "meaning_vi": "Tôi đã đi quá ga rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "下一站下车，再坐反方向的车回来。",
+              "id": "s36_4_0001_reply01",
+              "meaning_vi": "Xuống ga tiếp theo rồi đi tàu ngược chiều trở lại."
+            },
+            {
+              "text": "先下车，再看反方向站台怎么走。",
+              "id": "s36_4_0001_reply02",
+              "meaning_vi": "Xuống ga trước, rồi xem lối đến sân ga ngược chiều."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "wǒ zuò guò zhàn le",
+          "mistakes": [
+            {
+              "text": "“坐过站”表示乘车超过该下车的站，不同于“下错站”在错误的车站提前或晚下了车。",
+              "text_vi": "“Đi quá ga” là vượt qua ga cần xuống, khác “xuống nhầm ga”."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Tôi đi quá ga cần xuống rồi."
+        },
+        {
+          "id": "s36_4_0002",
+          "level": "must",
+          "text": "下一站下车可以吗？",
+          "alternatives": [
+            {
+              "text": "能在下一站下吗？",
+              "id": "s36_4_0002_alt01",
+              "meaning_vi": "Xuống ga sau được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，下一站先下车。",
+              "id": "s36_4_0002_reply01",
+              "meaning_vi": "Được, hãy xuống ở ga sau trước."
+            },
+            {
+              "text": "可以，下车后再找反方向站台。",
+              "id": "s36_4_0002_reply02",
+              "meaning_vi": "Được, xuống rồi tìm sân ga ngược chiều."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "xià yí zhàn xià chē kě yǐ ma",
+          "mistakes": [
+            {
+              "text": "“下一站下车”是等列车到站再下，绝不是在两站之间停车或强行开车门；返回路线应再查。",
+              "text_vi": "Phải đợi tới ga mới được xuống, không mở cửa khi tàu đang chạy; sau đó kiểm tra lối quay lại."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Tôi có thể xuống ở ga tiếp theo không?"
+        },
+        {
+          "id": "s36_4_0003",
+          "level": "must",
+          "text": "末班车几点？",
+          "alternatives": [
+            {
+              "text": "最后一班几点发车？",
+              "id": "s36_4_0003_alt01",
+              "meaning_vi": "Chuyến tàu cuối khởi hành mấy giờ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我查一下这个方向的末班车时间。",
+              "id": "s36_4_0003_reply01",
+              "meaning_vi": "Để tôi kiểm tra giờ chuyến cuối theo hướng này."
+            },
+            {
+              "text": "往机场方向还有一班，具体时间看屏幕。",
+              "id": "s36_4_0003_reply02",
+              "meaning_vi": "Hướng sân bay còn một chuyến nữa, xem giờ cụ thể trên bảng."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "mò bān chē jǐ diǎn",
+          "mistakes": [
+            {
+              "text": "“末班车”是指定线路和行驶方向当天最后一班；例句不能代替当地当日时刻表，出发前核对站内屏幕。",
+              "text_vi": "“Chuyến cuối” là chuyến cuối trong ngày của tuyến và chiều cụ thể; cần xem giờ thực tế ở ga."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Chuyến cuối lúc mấy giờ?"
+        },
+        {
+          "id": "s36_4_0004",
+          "level": "must",
+          "text": "还有车吗？",
+          "alternatives": [
+            {
+              "text": "现在还有车坐吗？",
+              "id": "s36_4_0004_alt01",
+              "meaning_vi": "Giờ vẫn còn xe chạy không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还有一班。",
+              "id": "s36_4_0004_reply01",
+              "meaning_vi": "Còn một chuyến nữa."
+            },
+            {
+              "text": "没有了，末班车已经走了。",
+              "id": "s36_4_0004_reply02",
+              "meaning_vi": "Hết rồi, chuyến cuối đi rồi."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "hái yǒu chē ma",
+          "mistakes": [
+            {
+              "text": "“还有车吗”依场景可问公交或地铁；要准确判断，应补充线路和行驶方向。",
+              "text_vi": "“Còn xe không” có thể hỏi tàu hoặc xe buýt; cần nói tuyến và hướng để biết chắc."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Còn chuyến nào không?"
+        },
+        {
+          "id": "s36_4_0005",
+          "level": "must",
+          "text": "已经停运了吗？",
+          "alternatives": [
+            {
+              "text": "这条线停运了吗？",
+              "id": "s36_4_0005_alt01",
+              "meaning_vi": "Tuyến này ngừng hoạt động rồi à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "今天这条线已经停运了。",
+              "id": "s36_4_0005_reply01",
+              "meaning_vi": "Hôm nay tuyến này đã ngừng chạy."
+            },
+            {
+              "text": "还没有，还有最后一班。",
+              "id": "s36_4_0005_reply02",
+              "meaning_vi": "Chưa, vẫn còn chuyến cuối."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "yǐ jīng tíng yùn le ma",
+          "mistakes": [
+            {
+              "text": "“停运”是停止运营，可能因当天营运结束或临时原因；不应自动理解成整条线路永久关闭。",
+              "text_vi": "“Ngừng chạy” có thể do hết giờ hoặc gián đoạn tạm thời, không nhất thiết tuyến đóng vĩnh viễn."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Đã ngừng chạy rồi à?"
+        },
+        {
+          "id": "s36_4_0006",
+          "level": "must",
+          "text": "我怎么回去？",
+          "alternatives": [
+            {
+              "text": "现在怎么回宿舍？",
+              "id": "s36_4_0006_alt01",
+              "meaning_vi": "Giờ về ký túc xá thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以先看看还有没有夜班公交。",
+              "id": "s36_4_0006_reply01",
+              "meaning_vi": "Bạn thử xem còn xe buýt đêm không."
+            },
+            {
+              "text": "你要回哪个区？我帮你查路线。",
+              "id": "s36_4_0006_reply02",
+              "meaning_vi": "Bạn về quận nào? Để tôi tìm đường giúp."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "wǒ zěn me huí qù",
+          "mistakes": [
+            {
+              "text": "“回去”必须由上下文知道是回宿舍、住处或原地；没说目的地时最好补充“回宿舍”。",
+              "text_vi": "“Về” có thể là về ký túc xá, nhà hoặc điểm đầu; nên nói rõ nơi đến nếu cần."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Giờ tôi về bằng cách nào?"
+        },
+        {
+          "id": "s36_4_0007",
+          "level": "must",
+          "text": "下一站能坐反方向的车回来吗？",
+          "alternatives": [
+            {
+              "text": "下站能转乘反方向的车吗？",
+              "id": "s36_4_0007_alt01",
+              "meaning_vi": "Ga sau có thể chuyển sang tàu chiều ngược lại không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般可以，下车后找反方向站台。",
+              "id": "s36_4_0007_reply01",
+              "meaning_vi": "Thường là được, xuống rồi tìm sân ga chiều ngược lại."
+            },
+            {
+              "text": "要看车站结构，按站内指示走。",
+              "id": "s36_4_0007_reply02",
+              "meaning_vi": "Tùy cấu trúc ga, hãy theo biển chỉ dẫn."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "xià yí zhàn néng zuò fǎn fāng xiàng de chē huí lái ma",
+          "mistakes": [
+            {
+              "text": "“反方向的车”是同线或可返回路线的相反方向列车；不能保证下车后直接走到对面就能上车。",
+              "text_vi": "Tàu ngược chiều có thể giúp quay lại, nhưng sân ga không nhất thiết ở ngay đối diện; xem biển."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Xuống ga tiếp theo rồi đi tàu ngược chiều về được không?"
+        },
+        {
+          "id": "s36_4_0008",
+          "level": "must",
+          "text": "末班车已经走了吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还没有，还有一班。",
+              "id": "s36_4_0008_reply01",
+              "meaning_vi": "Chưa, vẫn còn một chuyến."
+            },
+            {
+              "text": "已经走了。",
+              "id": "s36_4_0008_reply02",
+              "meaning_vi": "Đã đi rồi."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "mò bān chē yǐ jīng zǒu le ma",
+          "mistakes": [
+            {
+              "text": "“已经走了吗”问是否已离开车站，不能仅凭列车没停在站台就判断全天末班车已结束。",
+              "text_vi": "Chuyến cuối đã đi chưa phải kiểm tra thời gian và hướng, không chỉ vì sân ga lúc này vắng."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Chuyến tàu cuối đã đi rồi à?"
+        },
+        {
+          "id": "s36_4_0009",
+          "level": "must",
+          "text": "反方向站台在哪儿？",
+          "alternatives": [
+            {
+              "text": "反方向的站台怎么走？",
+              "id": "s36_4_0009_alt01",
+              "meaning_vi": "Đi tới sân ga ngược chiều thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要下楼，再走到另一边站台。",
+              "id": "s36_4_0009_reply01",
+              "meaning_vi": "Phải xuống tầng dưới rồi sang sân ga bên kia."
+            },
+            {
+              "text": "请看反方向站台的指示牌。",
+              "id": "s36_4_0009_reply02",
+              "meaning_vi": "Hãy xem biển chỉ dẫn sân ga chiều ngược lại."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "fǎn fāng xiàng zhàn tái zài nǎr",
+          "mistakes": [
+            {
+              "text": "“反方向站台”是去另一方向列车的乘车区域，未必就在对面；必须按指示经过通道或楼梯。",
+              "text_vi": "Sân ga ngược chiều không phải lúc nào nằm đối diện, có thể phải qua cầu, lối đi hoặc cầu thang."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Sân ga đi chiều ngược lại ở đâu?"
+        },
+        {
+          "id": "s36_4_0010",
+          "level": "must",
+          "text": "打车点在哪里？",
+          "alternatives": [
+            {
+              "text": "出租车上车点在哪儿？",
+              "id": "s36_4_0010_alt01",
+              "meaning_vi": "Chỗ lên taxi ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在B口外面。",
+              "id": "s36_4_0010_reply01",
+              "meaning_vi": "Bên ngoài cửa B."
+            },
+            {
+              "text": "出站以后往右边走。",
+              "id": "s36_4_0010_reply02",
+              "meaning_vi": "Ra ga rồi đi sang bên phải."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "dǎ chē diǎn zài nǎ li",
+          "mistakes": [
+            {
+              "text": "“打车点”是约车或出租车上车的地点，未必正对车站大门；应看当地上车区标识。",
+              "text_vi": "Điểm đón taxi là nơi được phép lên xe, không nhất thiết ngay cửa chính."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Điểm đón taxi ở đâu?"
+        },
+        {
+          "id": "s36_4_0011",
+          "level": "must",
+          "text": "我下错站了。",
+          "alternatives": [
+            {
+              "text": "我在错误的车站下车了。",
+              "id": "s36_4_0011_alt01",
+              "meaning_vi": "Tôi xuống ở ga không đúng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "如果下早了，可以坐下一班继续。",
+              "id": "s36_4_0011_reply01",
+              "meaning_vi": "Nếu xuống sớm, có thể đi chuyến tiếp theo."
+            },
+            {
+              "text": "如果坐过头了，要找反方向的车。",
+              "id": "s36_4_0011_reply02",
+              "meaning_vi": "Nếu đi quá, phải tìm tàu ngược chiều."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "wǒ xià cuò zhàn le",
+          "mistakes": [
+            {
+              "text": "“下错站”指下车站选错；不一定是坐过站，也可能提前一站下车，返回方案应区分。",
+              "text_vi": "Xuống nhầm ga có thể xuống sớm hoặc quá ga, nên hỏi cách quay lại tùy tình huống."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Tôi xuống nhầm ga."
+        },
+        {
+          "id": "s36_4_0012",
+          "level": "listen",
+          "text": "下一站下车，再坐反方向的车回来。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我下一站下车。",
+              "id": "s36_4_0012_reply01",
+              "meaning_vi": "Được, tôi xuống ga sau."
+            },
+            {
+              "text": "还需要出站吗？",
+              "id": "s36_4_0012_reply02",
+              "meaning_vi": "Có phải ra khỏi ga không?"
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "xià yí zhàn xià chē zài zuò fǎn fāng xiàng de chē huí lái",
+          "mistakes": [
+            {
+              "text": "“下一站下车，再坐……”是顺序安排；不能从轨道横穿到对面站台，应按站内安全通道走。",
+              "text_vi": "Xuống ga sau và đổi tàu ngược chiều theo đúng lối đi; không băng qua đường ray."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Xuống ga tiếp theo rồi lên tàu ngược chiều trở lại."
+        },
+        {
+          "id": "s36_4_0013",
+          "level": "listen",
+          "text": "末班车已经走了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我看看怎么打车。",
+              "id": "s36_4_0013_reply01",
+              "meaning_vi": "Vậy để tôi tìm cách đi taxi."
+            },
+            {
+              "text": "附近还有夜班公交吗？",
+              "id": "s36_4_0013_reply02",
+              "meaning_vi": "Gần đây còn xe buýt đêm không?"
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "mò bān chē yǐ jīng zǒu le",
+          "mistakes": [
+            {
+              "text": "“末班车走了”表示所说的这班已出发，不代表全市所有公交和其他地铁线路也都停运。",
+              "text_vi": "Chuyến cuối của tuyến này đi rồi không có nghĩa cả thành phố hết tàu/xe buýt."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Chuyến tàu cuối đi rồi."
+        },
+        {
+          "id": "s36_4_0014",
+          "level": "listen",
+          "text": "还有一班。",
+          "alternatives": [
+            {
+              "text": "还剩最后一班。",
+              "id": "s36_4_0014_alt01",
+              "meaning_vi": "Chỉ còn chuyến cuối."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，最后一班几点发车？",
+              "id": "s36_4_0014_reply01",
+              "meaning_vi": "Được, chuyến cuối khởi hành lúc mấy giờ?"
+            },
+            {
+              "text": "还赶得上吗？",
+              "id": "s36_4_0014_reply02",
+              "meaning_vi": "Tôi còn kịp không?"
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "hái yǒu yì bān",
+          "mistakes": [
+            {
+              "text": "“还有一班”是再剩一趟班次，不是已经有一辆车停在眼前；应该继续确认发车时间。",
+              "text_vi": "“Còn một chuyến” không có nghĩa tàu đã có mặt ở sân ga; phải hỏi giờ xuất phát."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Vẫn còn một chuyến nữa."
+        },
+        {
+          "id": "s36_4_0015",
+          "level": "listen",
+          "text": "这个时间可能只能打车了。",
+          "alternatives": [
+            {
+              "text": "这么晚，可能要打车了。",
+              "id": "s36_4_0015_alt01",
+              "meaning_vi": "Muộn thế này, chắc phải đi taxi thôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我打车回去。",
+              "id": "s36_4_0015_reply01",
+              "meaning_vi": "Được, vậy tôi đi taxi về."
+            },
+            {
+              "text": "还有公交吗？",
+              "id": "s36_4_0015_reply02",
+              "meaning_vi": "Còn xe buýt không?"
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "zhè ge shí jiān kě néng zhǐ néng dǎ chē le",
+          "mistakes": [
+            {
+              "text": "“可能只能”是估计或建议，并非保证其他交通完全没有；叫车前也要确认价格与上车点。",
+              "text_vi": "“Có lẽ phải đi taxi” là gợi ý chứ chưa khẳng định không còn xe khác; kiểm tra giá và điểm đón."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Giờ này có lẽ chỉ còn cách đi taxi."
+        },
+        {
+          "id": "s36_4_0016",
+          "level": "listen",
+          "text": "坐反方向的车回来。",
+          "alternatives": [
+            {
+              "text": "坐回程方向的车。",
+              "id": "s36_4_0016_alt01",
+              "meaning_vi": "Lên tàu theo chiều về."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去找反方向站台。",
+              "id": "s36_4_0016_reply01",
+              "meaning_vi": "Được, tôi tìm sân ga đi ngược chiều."
+            },
+            {
+              "text": "知道了，谢谢。",
+              "id": "s36_4_0016_reply02",
+              "meaning_vi": "Hiểu rồi, cảm ơn."
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "zuò fǎn fāng xiàng de chē huí lái",
+          "mistakes": [
+            {
+              "text": "“反方向”是与刚才行车方向相反；不是叫你在同一列车里倒着坐，也不是从轨道穿过去。",
+              "text_vi": "Đi tàu ngược chiều là lên chuyến đi chiều đối diện, không phải ngồi ngược trên cùng tàu hay đi qua đường ray."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Đi tàu ngược chiều để trở lại."
+        },
+        {
+          "id": "s36_4_0017",
+          "level": "listen",
+          "text": "下一班要等二十分钟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "二十分钟的话，我等一下。",
+              "id": "s36_4_0017_reply01",
+              "meaning_vi": "Hai mươi phút thì tôi đợi vậy."
+            },
+            {
+              "text": "下一班几点到？",
+              "id": "s36_4_0017_reply02",
+              "meaning_vi": "Chuyến tiếp theo mấy giờ tới?"
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "xià yì bān yào děng èr shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“要等二十分钟”是从此刻起还要等的时间，不能误解成车程二十分钟；实际到站可能受运行情况影响。",
+              "text_vi": "“Đợi hai mươi phút” là thời gian chờ từ hiện tại, không phải thời gian đi tàu."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Phải đợi chuyến tiếp theo hai mươi phút."
+        },
+        {
+          "id": "s36_4_0018",
+          "level": "listen",
+          "text": "公交还有最后一班。",
+          "alternatives": [
+            {
+              "text": "末班公交还没走。",
+              "id": "s36_4_0018_alt01",
+              "meaning_vi": "Chuyến xe buýt cuối chưa đi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "应该在哪个公交站等？",
+              "id": "s36_4_0018_reply01",
+              "meaning_vi": "Tôi nên đợi ở trạm xe buýt nào?"
+            },
+            {
+              "text": "最后一班几点发车？",
+              "id": "s36_4_0018_reply02",
+              "meaning_vi": "Chuyến cuối khởi hành lúc mấy giờ?"
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "gōng jiāo hái yǒu zuì hòu yì bān",
+          "mistakes": [
+            {
+              "text": "“还有”读hái yǒu，表示仍然有；不能写成huán yǒu（还huán表示归还）。末班时间按公交线路确认。",
+              "text_vi": "“还有” trong câu này đọc hái yǒu (vẫn còn), không phải huán yǒu; giờ chuyến cuối phải kiểm tra theo tuyến."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Xe buýt còn chuyến cuối."
+        },
+        {
+          "id": "s36_4_0019",
+          "level": "listen",
+          "text": "这里晚上已经没有公交车了。",
+          "alternatives": [
+            {
+              "text": "晚上这里已经没公交了。",
+              "id": "s36_4_0019_alt01",
+              "meaning_vi": "Buổi tối khu này không còn xe buýt chạy."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我打车。",
+              "id": "s36_4_0019_reply01",
+              "meaning_vi": "Vậy tôi đi taxi."
+            },
+            {
+              "text": "附近还有别的公交线路吗？",
+              "id": "s36_4_0019_reply02",
+              "meaning_vi": "Gần đây còn tuyến xe buýt khác không?"
+            }
+          ],
+          "lesson_id": "36.4",
+          "lesson_title": "36.4 坐过站末班车",
+          "pinyin": "zhè li wǎn shang yǐ jīng méi yǒu gōng jiāo chē le",
+          "mistakes": [
+            {
+              "text": "“晚上已经没有公交车了”是根据目前时段说明本处没有车，不一定是所有夜晚或全市其他站点一律没有。",
+              "text_vi": "“Tối không còn xe buýt ở đây” có thể là thời điểm hiện tại, không nhất thiết toàn thành phố đều hết xe."
+            }
+          ],
+          "lesson_title_vi": "36.4 Đi quá ga và chuyến cuối",
+          "meaning_vi": "Tối nay ở đây không còn xe buýt nữa."
+        }
+      ],
+      "opening": "练习坐过站、坐错方向、错站下车和末班车时的应对。末班时刻须按具体城市、线路和行驶方向核实。",
+      "subtitle": "19张高频卡 · 11必说 + 8必听",
+      "title_vi": "36.4 Đi quá ga và chuyến cuối",
+      "opening_vi": "Luyện xử lý đi quá ga, sai chiều, xuống nhầm hoặc lỡ chuyến cuối; lịch tàu phải kiểm tra theo thành phố, tuyến và chiều.",
+      "subtitle_vi": "19 thẻ giao tiếp"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T22:30:00Z",
+  "theme_title": "36 公交地铁",
+  "source_phrase_count": 77,
+  "card_count": 75,
+  "lesson_counts": {
+    "36.1": 19,
+    "36.2": 18,
+    "36.3": 19,
+    "36.4": 19
+  },
+  "quality_standard": "Vietnamese adaptation of original theme 36. All Mandarin/pinyin/IDs/order preserved; Vietnamese natural main/alternatives/replies and 75 teaching notes mapped. Transit code, gates, direction and last service distinctions reviewed. Independent native language/audio/app QA pending.",
+  "theme_title_vi": "36 Xe buýt và tàu điện ngầm"
+}
