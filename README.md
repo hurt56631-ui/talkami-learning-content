@@ -117,7 +117,7 @@ Android 项目的：
 
 应配置为：
 
-`https://github.com/Hurt6465-ai/talkami-learning-content/releases/latest/download/`
+`https://github.com/hurt56631-ui/talkami-learning-content/releases/latest/download/`
 
 并读取：
 
@@ -136,3 +136,8 @@ Android 项目的：
 - 封面版本：只有更换单词封面时才增加
 
 不要复用旧 Release 版本，也不要修改已有内容的稳定 ID。
+
+
+### 4500 实用中缅词典（2026-11-02）
+
+最新 [content-v1.6.40](https://github.com/hurt56631-ui/talkami-learning-content/releases/tag/content-v1.6.40) 已增加 16 个实用主题词分类、4500 个词目和 16 张独立封面。实用词典不含例句与搭配，因此只需词目中文 TTS；HSK 旧版 600 词原内容保留。若 Android 项目还使用原所有者 Hurt6465-ai 的远程 URL，建议改为当前规范的 `hurt56631-ui` Release 地址，并刷新线上词库目录缓存。
