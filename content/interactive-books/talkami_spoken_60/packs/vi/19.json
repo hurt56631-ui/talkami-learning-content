@@ -1,0 +1,2707 @@
+{
+  "theme_id": "19",
+  "version": 1,
+  "updated_at": "2026-11-02T08:45:58.657Z",
+  "theme_title": "19 楼宇出入与公共设施",
+  "quality_standard": "Vietnamese independent adaptation of Chinese theme 19 V13; all original Chinese/pinyin, stable card/nested IDs, order, lesson and level preserved. Myanmar-specific instructional text adapted. No native Vietnamese or audio/client regression testing yet.",
+  "source_phrase_count": 82,
+  "lessons": [
+    {
+      "id": "19.1",
+      "title": "19.1 门锁钥匙",
+      "subtitle": "20张实用口语卡",
+      "opening": "学会确认门是否锁好、钥匙是否带齐，区分打不开与锁不上，礼貌请求他人开门。",
+      "phrases": [
+        {
+          "id": "s19_1_0001",
+          "level": "must",
+          "text": "门锁了吗？",
+          "alternatives": [
+            {
+              "text": "门锁好了吗？",
+              "id": "s19_1_0001_alt01",
+              "meaning_vi": "Khóa cửa cẩn thận chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "锁了。",
+              "id": "s19_1_0001_reply01",
+              "meaning_vi": "Khóa rồi."
+            },
+            {
+              "text": "还没锁。",
+              "id": "s19_1_0001_reply02",
+              "meaning_vi": "Chưa khóa."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "mén suǒ le ma",
+          "mistakes": [
+            {
+              "text": "“锁了吗”问锁门动作是否完成；“门关了吗”只问门是否关上，关上不代表锁好。",
+              "text_vi": "“锁了吗” hỏi khóa cửa xong chưa, còn “门关了吗” chỉ hỏi đã đóng cửa; đóng chưa chắc đã khóa."
+            }
+          ],
+          "meaning_vi": "Đã khóa cửa chưa?",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0002",
+          "level": "must",
+          "text": "帮我开门。",
+          "alternatives": [
+            {
+              "text": "帮我开一下门。",
+              "id": "s19_1_0002_alt01",
+              "meaning_vi": "Mở cửa giúp tôi chút nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我来开。",
+              "id": "s19_1_0002_reply01",
+              "meaning_vi": "Được, để tôi mở."
+            },
+            {
+              "text": "等一下，我拿钥匙。",
+              "id": "s19_1_0002_reply02",
+              "meaning_vi": "Đợi chút, tôi đi lấy chìa khóa."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "bāng wǒ kāi mén",
+          "mistakes": [
+            {
+              "text": "“帮我开门”是请人替自己开门；对不熟的人说“麻烦你帮我开一下门”更礼貌。",
+              "text_vi": "“帮我开门” là nhờ người khác mở cửa; với người chưa quen có thể thêm “麻烦你” cho lịch sự."
+            }
+          ],
+          "meaning_vi": "Mở cửa giúp tôi với.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0003",
+          "level": "must",
+          "text": "我忘带钥匙了。",
+          "alternatives": [
+            {
+              "text": "我钥匙忘带了。",
+              "id": "s19_1_0003_alt01",
+              "meaning_vi": "Tôi quên đem chìa khóa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "备用钥匙在前台。",
+              "id": "s19_1_0003_reply01",
+              "meaning_vi": "Chìa khóa dự phòng ở quầy lễ tân."
+            },
+            {
+              "text": "你先等等，我来开门。",
+              "id": "s19_1_0003_reply02",
+              "meaning_vi": "Đợi một lát, để tôi mở cửa cho."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "wǒ wàng dài yào shi le",
+          "mistakes": [
+            {
+              "text": "“忘带钥匙”是出门没有把钥匙带来，钥匙未必丢失；“钥匙丢了”是找不到钥匙。",
+              "text_vi": "“忘带钥匙” là quên mang chìa theo, chưa chắc mất chìa; “钥匙丢了” mới nói chìa bị mất."
+            }
+          ],
+          "meaning_vi": "Tôi quên mang chìa khóa.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0004",
+          "level": "must",
+          "text": "门打不开。",
+          "alternatives": [
+            {
+              "text": "这个门打不开。",
+              "id": "s19_1_0004_alt01",
+              "meaning_vi": "Cánh cửa này không mở được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我来试一下。",
+              "id": "s19_1_0004_reply01",
+              "meaning_vi": "Để tôi thử."
+            },
+            {
+              "text": "可能是锁坏了。",
+              "id": "s19_1_0004_reply02",
+              "meaning_vi": "Có lẽ ổ khóa bị hỏng."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "mén dǎ bù kāi",
+          "mistakes": [
+            {
+              "text": "“门打不开”说门无法打开，可能是反锁、卡住或锁坏；不能直接断定锁坏。",
+              "text_vi": "“打不开” có thể do khóa trái, kẹt hoặc ổ hỏng, chưa thể tự kết luận khóa đã hỏng."
+            }
+          ],
+          "meaning_vi": "Cửa không mở được.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0005",
+          "level": "must",
+          "text": "出门记得锁门。",
+          "alternatives": [
+            {
+              "text": "出去记得锁门。",
+              "id": "s19_1_0005_alt01",
+              "meaning_vi": "Đi ra nhớ khóa cửa nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我出门前会检查一下。",
+              "id": "s19_1_0005_reply01",
+              "meaning_vi": "Được, trước khi ra tôi sẽ kiểm tra."
+            },
+            {
+              "text": "知道了，我会锁门。",
+              "id": "s19_1_0005_reply02",
+              "meaning_vi": "Biết rồi, tôi sẽ khóa cửa."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "chū mén jì de suǒ mén",
+          "mistakes": [
+            {
+              "text": "“记得锁门”是在提醒别忘记锁；“门锁好了”才是已锁好的结果。",
+              "text_vi": "“记得锁门” là nhắc nhớ phải khóa cửa, “门锁好了” mới nói đã khóa xong."
+            }
+          ],
+          "meaning_vi": "Ra ngoài nhớ khóa cửa.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0006",
+          "level": "must",
+          "text": "钥匙在你那儿吗？",
+          "alternatives": [
+            {
+              "text": "钥匙在你那里吗？",
+              "id": "s19_1_0006_alt01",
+              "meaning_vi": "Chìa khóa có ở bên bạn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在我这里。",
+              "id": "s19_1_0006_reply01",
+              "meaning_vi": "Ở chỗ tôi."
+            },
+            {
+              "text": "不在，我没拿。",
+              "id": "s19_1_0006_reply02",
+              "meaning_vi": "Không có, tôi không cầm."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "yào shi zài nǐ nàr ma",
+          "mistakes": [
+            {
+              "text": "“钥匙在你那儿吗”问钥匙是否在对方那里，不只是问房屋地点；“在我这里”意为钥匙在说话者手中或附近。",
+              "text_vi": "Câu này hỏi chìa khóa có ở bên người nghe không, chưa chắc nằm ở đâu trong phòng."
+            }
+          ],
+          "meaning_vi": "Chìa khóa ở chỗ bạn à?",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0007",
+          "level": "must",
+          "text": "门从里面反锁了吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，里面反锁了。",
+              "id": "s19_1_0007_reply01",
+              "meaning_vi": "Đúng, đã khóa trái ở trong."
+            },
+            {
+              "text": "没有，应该能打开。",
+              "id": "s19_1_0007_reply02",
+              "meaning_vi": "Không, chắc mở được."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "mén cóng lǐ miàn fǎn suǒ le ma",
+          "mistakes": [
+            {
+              "text": "“反锁”通常指从屋内加锁或上保险，和普通关门不同；不同门锁结构不一定一样。",
+              "text_vi": "“反锁” thường là khóa trái hoặc chốt từ bên trong, khác chỉ đóng cửa; mỗi loại khóa có cách dùng riêng."
+            }
+          ],
+          "meaning_vi": "Cửa đã bị khóa trái từ bên trong à?",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0008",
+          "level": "must",
+          "text": "门锁不上。",
+          "alternatives": [
+            {
+              "text": "这个门锁不上。",
+              "id": "s19_1_0008_alt01",
+              "meaning_vi": "Cửa này không khóa lại được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我来看看。",
+              "id": "s19_1_0008_reply01",
+              "meaning_vi": "Để tôi xem."
+            },
+            {
+              "text": "可能是锁坏了。",
+              "id": "s19_1_0008_reply02",
+              "meaning_vi": "Có lẽ ổ khóa bị hỏng."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "mén suǒ bu shàng",
+          "mistakes": [
+            {
+              "text": "“锁不上”是无法上锁，“打不开”则是无法打开；报修时一定说清是哪种故障。",
+              "text_vi": "“锁不上” là không khóa lại được, khác “打不开” là không mở được; báo hỏng cần nói đúng lỗi."
+            }
+          ],
+          "meaning_vi": "Cửa không khóa được.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0009",
+          "level": "must",
+          "text": "钥匙插不进去。",
+          "alternatives": [
+            {
+              "text": "钥匙插不进锁孔。",
+              "id": "s19_1_0009_alt01",
+              "meaning_vi": "Không đút chìa vào ổ khóa được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "是不是拿错钥匙了？",
+              "id": "s19_1_0009_reply01",
+              "meaning_vi": "Có phải lấy nhầm chìa khóa không?"
+            },
+            {
+              "text": "别硬插，我来看看。",
+              "id": "s19_1_0009_reply02",
+              "meaning_vi": "Đừng cố nhét vào, để tôi xem."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "yào shi chā bu jìn qù",
+          "mistakes": [
+            {
+              "text": "“插不进去”说钥匙连锁孔也进不去，不等于钥匙插得进却转不动；不要硬插。",
+              "text_vi": "“插不进去” nghĩa là không cho chìa vào ổ được, khác tra vào được nhưng không xoay được; không cố nhét mạnh."
+            }
+          ],
+          "meaning_vi": "Không tra chìa khóa vào được.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0010",
+          "level": "must",
+          "text": "备用钥匙在哪里？",
+          "alternatives": [
+            {
+              "text": "备用钥匙在哪儿？",
+              "id": "s19_1_0010_alt01",
+              "meaning_vi": "Chìa khóa dự phòng để đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在前台。",
+              "id": "s19_1_0010_reply01",
+              "meaning_vi": "Ở quầy lễ tân."
+            },
+            {
+              "text": "在抽屉里。",
+              "id": "s19_1_0010_reply02",
+              "meaning_vi": "Trong ngăn kéo."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "bèi yòng yào shi zài nǎ lǐ",
+          "mistakes": [
+            {
+              "text": "“备用钥匙”是额外留用的一把钥匙，不一定谁都能领；通常需经房东或前台核实。",
+              "text_vi": "“备用钥匙” là chìa dự phòng, không phải ai cũng được lấy; thường cần chủ nhà hoặc lễ tân xác nhận."
+            }
+          ],
+          "meaning_vi": "Chìa khóa dự phòng ở đâu?",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0011",
+          "level": "must",
+          "text": "我把钥匙忘在屋里了。",
+          "alternatives": [
+            {
+              "text": "钥匙忘在屋里了。",
+              "id": "s19_1_0011_alt01",
+              "meaning_vi": "Chìa khóa bị để quên trong phòng rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那用备用钥匙吧。",
+              "id": "s19_1_0011_reply01",
+              "meaning_vi": "Vậy dùng chìa dự phòng nhé."
+            },
+            {
+              "text": "我帮你联系前台。",
+              "id": "s19_1_0011_reply02",
+              "meaning_vi": "Để tôi liên hệ quầy lễ tân giúp."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "wǒ bǎ yào shi wàng zài wū lǐ le",
+          "mistakes": [
+            {
+              "text": "“忘在屋里”说明钥匙留在室内，“忘带”只说明出门没带；“在”不能随意漏掉。",
+              "text_vi": "“忘在屋里” là để quên chìa bên trong phòng, “忘带” là ra ngoài không mang chìa theo."
+            }
+          ],
+          "meaning_vi": "Tôi để quên chìa khóa trong phòng.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0012",
+          "level": "must",
+          "text": "这扇门要往哪边推？",
+          "alternatives": [
+            {
+              "text": "这个门往哪边推？",
+              "id": "s19_1_0012_alt01",
+              "meaning_vi": "Cửa này phải đẩy hướng nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "往里推。",
+              "id": "s19_1_0012_reply01",
+              "meaning_vi": "Đẩy vào trong."
+            },
+            {
+              "text": "这扇门要拉，别推。",
+              "id": "s19_1_0012_reply02",
+              "meaning_vi": "Cửa này phải kéo, đừng đẩy."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "zhè shàn mén yào wǎng nǎ biān tuī",
+          "mistakes": [
+            {
+              "text": "“推”是推门，“拉”是拉门；问“往哪边推”时，若该门需要拉，应直接纠正，不要硬推。",
+              "text_vi": "“推” là đẩy, “拉” là kéo. Nếu cánh cửa cần kéo thì đừng cố đẩy mạnh."
+            }
+          ],
+          "meaning_vi": "Cửa này đẩy về phía nào?",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0013",
+          "level": "listen",
+          "text": "门没锁。",
+          "alternatives": [
+            {
+              "text": "门没有锁。",
+              "id": "s19_1_0013_alt01",
+              "meaning_vi": "Cửa chưa được khóa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那先把门锁好。",
+              "id": "s19_1_0013_reply01",
+              "meaning_vi": "Vậy khóa cửa cẩn thận trước đi."
+            },
+            {
+              "text": "好，我知道了。",
+              "id": "s19_1_0013_reply02",
+              "meaning_vi": "Được, tôi biết rồi."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "mén méi suǒ",
+          "mistakes": [
+            {
+              "text": "“门没锁”是未上锁，不代表门此刻敞开着；离开前可再次确认门是否关好。",
+              "text_vi": "“门没锁” nghĩa là chưa khóa, không đồng nghĩa cửa đang mở toang."
+            }
+          ],
+          "meaning_vi": "Cửa chưa khóa.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0014",
+          "level": "listen",
+          "text": "钥匙在桌上。",
+          "alternatives": [
+            {
+              "text": "钥匙放在桌上。",
+              "id": "s19_1_0014_alt01",
+              "meaning_vi": "Chìa khóa được để trên bàn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去拿。",
+              "id": "s19_1_0014_reply01",
+              "meaning_vi": "Được, tôi đi lấy."
+            },
+            {
+              "text": "我看到了。",
+              "id": "s19_1_0014_reply02",
+              "meaning_vi": "Tôi thấy rồi."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "yào shi zài zhuō shang",
+          "mistakes": [
+            {
+              "text": "“钥匙在桌上”描述当前位置；“钥匙放在桌上”强调把钥匙放上去或放好后的状态。",
+              "text_vi": "“钥匙在桌上” nói chìa đang ở trên bàn; “放在桌上” nhấn mạnh đã đặt ở đó."
+            }
+          ],
+          "meaning_vi": "Chìa khóa trên bàn.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0015",
+          "level": "listen",
+          "text": "这个锁坏了。",
+          "alternatives": [
+            {
+              "text": "门锁坏了。",
+              "id": "s19_1_0015_alt01",
+              "meaning_vi": "Ổ khóa cửa bị hỏng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那先别硬弄了。",
+              "id": "s19_1_0015_reply01",
+              "meaning_vi": "Vậy đừng cố làm nữa."
+            },
+            {
+              "text": "找人来修一下吧。",
+              "id": "s19_1_0015_reply02",
+              "meaning_vi": "Gọi người đến sửa nhé."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "zhè ge suǒ huài le",
+          "mistakes": [
+            {
+              "text": "“锁坏了”表示确认或判断锁有故障，比“打不开”更具体；未检查时宜说“可能坏了”。",
+              "text_vi": "“锁坏了” nhận định ổ khóa bị hỏng, cụ thể hơn “打不开”. Chưa kiểm tra nên nói “可能坏了”."
+            }
+          ],
+          "meaning_vi": "Ổ khóa này hỏng rồi.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0016",
+          "level": "listen",
+          "text": "我来开。",
+          "alternatives": [
+            {
+              "text": "我来开门。",
+              "id": "s19_1_0016_alt01",
+              "meaning_vi": "Để tôi mở cửa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_1_0016_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "好，你试一下。",
+              "id": "s19_1_0016_reply02",
+              "meaning_vi": "Được, bạn thử đi."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "wǒ lái kāi",
+          "mistakes": [
+            {
+              "text": "“我来开”在门边表示主动提出由自己开门；“我来”不是“我走过来”的意思，需结合情景理解。",
+              "text_vi": "“我来开” khi đứng cạnh cửa là chủ động mở cửa, không phải đi tới đây."
+            }
+          ],
+          "meaning_vi": "Để tôi mở.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0017",
+          "level": "listen",
+          "text": "备用钥匙在前台。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去拿。",
+              "id": "s19_1_0017_reply01",
+              "meaning_vi": "Được, tôi đi lấy."
+            },
+            {
+              "text": "那我去前台问。",
+              "id": "s19_1_0017_reply02",
+              "meaning_vi": "Vậy tôi ra lễ tân hỏi."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "bèi yòng yào shi zài qián tái",
+          "mistakes": [
+            {
+              "text": "“前台”是酒店、公寓或宿舍的服务柜台，并不保证每栋楼都由前台管理备用钥匙。",
+              "text_vi": "“前台” là quầy lễ tân ở khách sạn, chung cư hoặc ký túc xá; không phải nơi nào cũng giữ chìa dự phòng."
+            }
+          ],
+          "meaning_vi": "Chìa khóa dự phòng ở quầy lễ tân.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0018",
+          "level": "listen",
+          "text": "门已经锁好了。",
+          "alternatives": [
+            {
+              "text": "门锁好了。",
+              "id": "s19_1_0018_alt01",
+              "meaning_vi": "Khóa cửa xong rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那走吧。",
+              "id": "s19_1_0018_reply01",
+              "meaning_vi": "Ừ, vậy đi thôi."
+            },
+            {
+              "text": "好，那我就放心了。",
+              "id": "s19_1_0018_reply02",
+              "meaning_vi": "Được, vậy tôi yên tâm rồi."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "mén yǐ jīng suǒ hǎo le",
+          "mistakes": [
+            {
+              "text": "“已经锁好了”的“已经”强调动作已完成；不只是把门带上，最好确认门确实锁住。",
+              "text_vi": "“已经锁好了” xác nhận đã khóa xong, không chỉ khép cửa; nên kiểm tra cửa khóa chắc."
+            }
+          ],
+          "meaning_vi": "Cửa đã khóa kỹ rồi.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0019",
+          "level": "listen",
+          "text": "别把钥匙落在里面。",
+          "alternatives": [
+            {
+              "text": "别把钥匙忘在里面。",
+              "id": "s19_1_0019_alt01",
+              "meaning_vi": "Nhớ đừng bỏ quên chìa khóa ở trong."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我拿着。",
+              "id": "s19_1_0019_reply01",
+              "meaning_vi": "Được, tôi cầm đây."
+            },
+            {
+              "text": "好，我再检查一下。",
+              "id": "s19_1_0019_reply02",
+              "meaning_vi": "Được, tôi kiểm tra lại."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "bié bǎ yào shi là zài lǐ miàn",
+          "mistakes": [
+            {
+              "text": "此处“落”读là，表示把钥匙忘在里面；不是“落下”掉到地上的意思。",
+              "text_vi": "“落在里面” ở đây có chữ “落” đọc là, nghĩa là để quên chìa bên trong, không phải rơi xuống đất."
+            }
+          ],
+          "meaning_vi": "Đừng để quên chìa khóa bên trong.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        },
+        {
+          "id": "s19_1_0020",
+          "level": "listen",
+          "text": "这个门要往里推。",
+          "alternatives": [
+            {
+              "text": "这个门往里推。",
+              "id": "s19_1_0020_alt01",
+              "meaning_vi": "Đẩy cửa này vào trong."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我试一下。",
+              "id": "s19_1_0020_reply01",
+              "meaning_vi": "Được, tôi thử xem."
+            },
+            {
+              "text": "哦，难怪刚才拉不开。",
+              "id": "s19_1_0020_reply02",
+              "meaning_vi": "À, thảo nào lúc nãy kéo không ra."
+            }
+          ],
+          "lesson_id": "19.1",
+          "lesson_title": "19.1 门锁钥匙",
+          "pinyin": "zhè ge mén yào wǎng lǐ tuī",
+          "mistakes": [
+            {
+              "text": "“往里推”指向门内推开；如果门上标着“拉”，不要硬推，先看指示。",
+              "text_vi": "“往里推” là đẩy cánh cửa vào phía trong; xem chỉ dẫn nếu cửa yêu cầu kéo."
+            }
+          ],
+          "meaning_vi": "Cửa này phải đẩy vào trong.",
+          "lesson_title_vi": "19.1 Khóa cửa và chìa khóa"
+        }
+      ],
+      "title_vi": "19.1 Khóa cửa và chìa khóa",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Hỏi khóa cửa, mở cửa, chìa dự phòng và báo hỏng ổ khóa; phân biệt quên chìa với mất chìa."
+    },
+    {
+      "id": "19.2",
+      "title": "19.2 门禁进出",
+      "subtitle": "20张实用口语卡",
+      "opening": "练习门禁卡、密码、二维码和访客登记的表达，按授权规则出入宿舍与公司。",
+      "phrases": [
+        {
+          "id": "s19_2_0001",
+          "level": "must",
+          "text": "门禁怎么开？",
+          "alternatives": [
+            {
+              "text": "这个门禁怎么开？",
+              "id": "s19_2_0001_alt01",
+              "meaning_vi": "Hệ thống cửa kiểm soát này mở thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "刷卡进去。",
+              "id": "s19_2_0001_reply01",
+              "meaning_vi": "Quẹt thẻ để vào."
+            },
+            {
+              "text": "扫这个码。",
+              "id": "s19_2_0001_reply02",
+              "meaning_vi": "Quét mã này."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "mén jìn zěn me kāi",
+          "mistakes": [
+            {
+              "text": "“门禁”是出入验证系统；“刷卡”要用读卡器，“扫码”要扫描二维码，不能把二者当同一操作。",
+              "text_vi": "“门禁” là hệ thống kiểm soát ra vào; quẹt thẻ và quét mã QR là hai cách xác thực khác nhau."
+            }
+          ],
+          "meaning_vi": "Mở cửa kiểm soát ra vào thế nào?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0002",
+          "level": "must",
+          "text": "密码是多少？",
+          "alternatives": [
+            {
+              "text": "密码多少？",
+              "id": "s19_2_0002_alt01",
+              "meaning_vi": "Mật mã là gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我私下告诉你。",
+              "id": "s19_2_0002_reply01",
+              "meaning_vi": "Tôi nói riêng với bạn."
+            },
+            {
+              "text": "我发给你。",
+              "id": "s19_2_0002_reply02",
+              "meaning_vi": "Tôi gửi cho bạn."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "mì mǎ shì duō shao",
+          "mistakes": [
+            {
+              "text": "门禁的“密码”是核验进入权限所用的代码，不能随意向陌生人索取或公开；越南语可依场景说“mã cửa”或“mật mã”。",
+              "text_vi": "“密码” ở đây là mã vào cửa, không nên hỏi hay công khai cho người lạ; tiếng Việt có thể nói “mã cửa” hoặc “mật mã”."
+            }
+          ],
+          "meaning_vi": "Mã số là bao nhiêu?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0003",
+          "level": "must",
+          "text": "我没带卡。",
+          "alternatives": [
+            {
+              "text": "我没带门禁卡。",
+              "id": "s19_2_0003_alt01",
+              "meaning_vi": "Tôi quên mang thẻ ra vào."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那去前台问问吧。",
+              "id": "s19_2_0003_reply01",
+              "meaning_vi": "Vậy đến lễ tân hỏi thử."
+            },
+            {
+              "text": "那先登记一下。",
+              "id": "s19_2_0003_reply02",
+              "meaning_vi": "Vậy đăng ký thông tin trước."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "wǒ méi dài kǎ",
+          "mistakes": [
+            {
+              "text": "“没带卡”是卡不在身上，不能断言卡遗失或失效；登记与能否进入仍应以管理人员核验为准。",
+              "text_vi": "“没带卡” là không mang thẻ theo, chưa có nghĩa thẻ bị mất hay hết hạn; phải theo quy trình kiểm tra khi vào."
+            }
+          ],
+          "meaning_vi": "Tôi không mang thẻ.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0004",
+          "level": "must",
+          "text": "访客要登记吗？",
+          "alternatives": [
+            {
+              "text": "访客需要登记吗？",
+              "id": "s19_2_0004_alt01",
+              "meaning_vi": "Khách đến có cần ghi danh không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，先登记。",
+              "id": "s19_2_0004_reply01",
+              "meaning_vi": "Có, phải đăng ký trước."
+            },
+            {
+              "text": "不用，这里不用登记。",
+              "id": "s19_2_0004_reply02",
+              "meaning_vi": "Không cần, ở đây không phải đăng ký."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "fǎng kè yào dēng jì ma",
+          "mistakes": [
+            {
+              "text": "这里“登记”是建筑访客登记，不是办理某国身份证或户籍，应按照建筑管理要求进行。",
+              "text_vi": "“登记” là ghi thông tin khách đến thăm theo quy định tòa nhà, không phải đăng ký hộ khẩu."
+            }
+          ],
+          "meaning_vi": "Khách đến thăm phải đăng ký không?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0005",
+          "level": "must",
+          "text": "能帮我刷一下吗？",
+          "alternatives": [
+            {
+              "text": "可以帮我刷一下吗？",
+              "id": "s19_2_0005_alt01",
+              "meaning_vi": "Bạn có thể quẹt thẻ giúp tôi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，不过要先登记。",
+              "id": "s19_2_0005_reply01",
+              "meaning_vi": "Được, nhưng phải đăng ký trước."
+            },
+            {
+              "text": "不好意思，这里要本人刷卡。",
+              "id": "s19_2_0005_reply02",
+              "meaning_vi": "Xin lỗi, ở đây chính chủ thẻ phải tự quẹt."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "néng bāng wǒ shuā yí xià ma",
+          "mistakes": [
+            {
+              "text": "请人协助“刷卡”应以本人有入内权限为前提；若规定本人验证，就不能用别人的卡代刷或尾随。",
+              "text_vi": "Nhờ người quẹt thẻ chỉ phù hợp khi bản thân được phép vào; nơi bắt buộc chủ thẻ tự xác thực thì không được mượn thẻ hay đi theo người khác để vào."
+            }
+          ],
+          "meaning_vi": "Bạn quẹt thẻ giúp tôi được không?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0006",
+          "level": "must",
+          "text": "门禁卡怎么刷？",
+          "alternatives": [
+            {
+              "text": "这个卡怎么刷？",
+              "id": "s19_2_0006_alt01",
+              "meaning_vi": "Thẻ này quẹt thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在这里刷。",
+              "id": "s19_2_0006_reply01",
+              "meaning_vi": "Quẹt ở đây."
+            },
+            {
+              "text": "贴近感应区就行。",
+              "id": "s19_2_0006_reply02",
+              "meaning_vi": "Chỉ cần đưa sát vùng cảm ứng."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "mén jìn kǎ zěn me shuā",
+          "mistakes": [
+            {
+              "text": "“刷卡”在门禁场景可指把卡靠近感应区，某些旧读卡器则需划卡；“扫码”用二维码，两者不同。",
+              "text_vi": "“刷卡” có thể quẹt hoặc đưa thẻ sát đầu đọc tùy thiết bị, khác quét mã QR bằng điện thoại."
+            }
+          ],
+          "meaning_vi": "Quẹt thẻ ra vào như thế nào?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0007",
+          "level": "must",
+          "text": "扫这里吗？",
+          "alternatives": [
+            {
+              "text": "是扫这里吗？",
+              "id": "s19_2_0007_alt01",
+              "meaning_vi": "Có phải quét chỗ này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，扫这里。",
+              "id": "s19_2_0007_reply01",
+              "meaning_vi": "Đúng, quét ở đây."
+            },
+            {
+              "text": "不是，扫旁边那个码。",
+              "id": "s19_2_0007_reply02",
+              "meaning_vi": "Không, quét mã bên cạnh."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "sǎo zhè lǐ ma",
+          "mistakes": [
+            {
+              "text": "“扫这里”必须结合眼前的二维码或扫描区域，不是随意扫工作人员的私人手机。",
+              "text_vi": "“扫这里” là quét đúng mã hoặc vùng quét được chỉ, không phải quét điện thoại riêng của nhân viên."
+            }
+          ],
+          "meaning_vi": "Quét ở đây à?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0008",
+          "level": "must",
+          "text": "我登记一下可以进去吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，登记后进去。",
+              "id": "s19_2_0008_reply01",
+              "meaning_vi": "Được, đăng ký xong thì vào."
+            },
+            {
+              "text": "还需要出示证件。",
+              "id": "s19_2_0008_reply02",
+              "meaning_vi": "Còn phải xuất trình giấy tờ."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "wǒ dēng jì yí xià kě yǐ jìn qù ma",
+          "mistakes": [
+            {
+              "text": "“登记一下可以进去吗”是问完成访客登记后是否能进；登记本身不自动等于所有区域的通行许可。",
+              "text_vi": "Đăng ký khách chưa đồng nghĩa có quyền đi vào mọi khu vực, còn phải được nơi quản lý cho phép."
+            }
+          ],
+          "meaning_vi": "Tôi đăng ký rồi vào được không?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0009",
+          "level": "must",
+          "text": "这个密码不对。",
+          "alternatives": [
+            {
+              "text": "密码不对。",
+              "id": "s19_2_0009_alt01",
+              "meaning_vi": "Sai mật mã rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我再确认一下。",
+              "id": "s19_2_0009_reply01",
+              "meaning_vi": "Để tôi xác nhận lại."
+            },
+            {
+              "text": "可能换密码了。",
+              "id": "s19_2_0009_reply02",
+              "meaning_vi": "Có lẽ đã đổi mật mã."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "zhè ge mì mǎ bú duì",
+          "mistakes": [
+            {
+              "text": "“密码不对”表示设备未接受这次输入，可能输错或密码已变，不能直接断言是工作人员给错了。",
+              "text_vi": "“密码不对” chỉ thiết bị từ chối mã vừa nhập, có thể do nhập sai hoặc mã đã đổi, chưa chứng minh ai cung cấp sai."
+            }
+          ],
+          "meaning_vi": "Mã này không đúng.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0010",
+          "level": "must",
+          "text": "访客从哪个门进？",
+          "alternatives": [
+            {
+              "text": "访客从哪边进？",
+              "id": "s19_2_0010_alt01",
+              "meaning_vi": "Khách vào từ phía nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "从侧门进去。",
+              "id": "s19_2_0010_reply01",
+              "meaning_vi": "Vào bằng cửa bên."
+            },
+            {
+              "text": "从正门登记后进去。",
+              "id": "s19_2_0010_reply02",
+              "meaning_vi": "Đăng ký ở cửa chính rồi vào."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "fǎng kè cóng nǎ ge mén jìn",
+          "mistakes": [
+            {
+              "text": "“哪个门”问具体入口，不是问楼栋编号；访客和员工可能要走不同的门。",
+              "text_vi": "Khách và nhân viên có thể phải dùng những cửa khác nhau; hỏi cửa nào, không hỏi số tòa."
+            }
+          ],
+          "meaning_vi": "Khách đến thăm vào cửa nào?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0011",
+          "level": "must",
+          "text": "我的门禁卡失效了。",
+          "alternatives": [
+            {
+              "text": "卡失效了。",
+              "id": "s19_2_0011_alt01",
+              "meaning_vi": "Thẻ không còn hiệu lực."
+            },
+            {
+              "text": "我的门禁卡不能用了。",
+              "id": "s19_2_0011_alt02",
+              "meaning_vi": "Thẻ ra vào của tôi không dùng được nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先去前台查一下有效期。",
+              "id": "s19_2_0011_reply01",
+              "meaning_vi": "Đến lễ tân kiểm tra hạn hiệu lực trước."
+            },
+            {
+              "text": "可能是权限到期了。",
+              "id": "s19_2_0011_reply02",
+              "meaning_vi": "Có lẽ quyền ra vào đã hết hạn."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "wǒ de mén jìn kǎ shī xiào le",
+          "mistakes": [
+            {
+              "text": "“门禁卡失效了”表示卡不能通过验证，可能因有效期或授权问题，不等于卡片一定损坏；应由管理员核验。",
+              "text_vi": "Thẻ ra vào không còn hoạt động có thể do hết hạn hoặc quyền truy cập; chưa chắc thẻ bị hỏng."
+            }
+          ],
+          "meaning_vi": "Thẻ ra vào của tôi hết hiệu lực rồi.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0012",
+          "level": "must",
+          "text": "出去也要刷卡吗？",
+          "alternatives": [
+            {
+              "text": "出去也需要刷卡吗？",
+              "id": "s19_2_0012_alt01",
+              "meaning_vi": "Ra ngoài có cần quẹt thẻ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不用。",
+              "id": "s19_2_0012_reply01",
+              "meaning_vi": "Không cần."
+            },
+            {
+              "text": "要，出去也要刷。",
+              "id": "s19_2_0012_reply02",
+              "meaning_vi": "Có, ra ngoài cũng phải quẹt."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "chū qù yě yào shuā kǎ ma",
+          "mistakes": [
+            {
+              "text": "“也要”强调连出去这一步也需要刷卡，不能把“出去”误听成“进去”。",
+              "text_vi": "“也要” nhấn mạnh ngay cả lúc ra ngoài cũng phải quẹt thẻ; phân biệt ra và vào."
+            }
+          ],
+          "meaning_vi": "Đi ra cũng phải quẹt thẻ à?",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0013",
+          "level": "listen",
+          "text": "刷卡进去。",
+          "alternatives": [
+            {
+              "text": "刷卡进门。",
+              "id": "s19_2_0013_alt01",
+              "meaning_vi": "Quẹt thẻ để vào cửa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我来刷。",
+              "id": "s19_2_0013_reply01",
+              "meaning_vi": "Được, để tôi quẹt."
+            },
+            {
+              "text": "刷哪里？",
+              "id": "s19_2_0013_reply02",
+              "meaning_vi": "Quẹt ở đâu?"
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "shuā kǎ jìn qù",
+          "mistakes": [
+            {
+              "text": "“刷卡进去”说的是先在门禁读卡器验证再进入，不等于直接用手机扫码。应按现场规定使用本人获授权的卡。",
+              "text_vi": "“刷卡进去” nghĩa là dùng thẻ được cấp quyền để xác thực rồi vào, không tự động là quét mã bằng điện thoại."
+            }
+          ],
+          "meaning_vi": "Quẹt thẻ để vào.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0014",
+          "level": "listen",
+          "text": "刷这里。",
+          "alternatives": [
+            {
+              "text": "在这里刷。",
+              "id": "s19_2_0014_alt01",
+              "meaning_vi": "Quẹt ở đây."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，刷完等提示吗？",
+              "id": "s19_2_0014_reply01",
+              "meaning_vi": "Được, quẹt xong chờ tín hiệu à?"
+            },
+            {
+              "text": "好，我试一下。",
+              "id": "s19_2_0014_reply02",
+              "meaning_vi": "Được, tôi thử xem."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "shuā zhè lǐ",
+          "mistakes": [
+            {
+              "text": "“刷这里”指把门禁卡靠近读卡区，不能和“扫这个码”扫描二维码混为一谈。",
+              "text_vi": "“刷这里” chỉ vùng đọc thẻ, khác “扫这个码” là quét mã QR."
+            }
+          ],
+          "meaning_vi": "Quẹt ở đây.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0015",
+          "level": "listen",
+          "text": "扫这个码。",
+          "alternatives": [
+            {
+              "text": "扫描这个码。",
+              "id": "s19_2_0015_alt01",
+              "meaning_vi": "Quét mã này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我扫一下。",
+              "id": "s19_2_0015_reply01",
+              "meaning_vi": "Được, tôi quét thử."
+            },
+            {
+              "text": "扫完就能进去吗？",
+              "id": "s19_2_0015_reply02",
+              "meaning_vi": "Quét xong là vào được à?"
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "sǎo zhè ge mǎ",
+          "mistakes": [
+            {
+              "text": "“扫这个码”是扫描指定二维码；不能仅凭扫过码就假设身份验证已经成功。",
+              "text_vi": "Quét mã được chỉ chưa chắc đã xác thực thành công; phải xem hệ thống có cho phép vào không."
+            }
+          ],
+          "meaning_vi": "Quét mã này.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0016",
+          "level": "listen",
+          "text": "外来人员要登记。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，在哪里登记？",
+              "id": "s19_2_0016_reply01",
+              "meaning_vi": "Được, đăng ký ở đâu?"
+            },
+            {
+              "text": "需要证件吗？",
+              "id": "s19_2_0016_reply02",
+              "meaning_vi": "Có cần giấy tờ không?"
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "wài lái rén yuán yào dēng jì",
+          "mistakes": [
+            {
+              "text": "“外来人员”指非本单位或本楼的来访者；“要登记”是明确要求，不是自由选择。",
+              "text_vi": "“外来人员” là khách từ ngoài tòa hoặc đơn vị; “要登记” là quy định bắt buộc."
+            }
+          ],
+          "meaning_vi": "Người ngoài phải đăng ký.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0017",
+          "level": "listen",
+          "text": "晚上十点锁门。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s19_2_0017_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "十点以后怎么进？",
+              "id": "s19_2_0017_reply02",
+              "meaning_vi": "Sau mười giờ vào bằng cách nào?"
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "wǎn shang shí diǎn suǒ mén",
+          "mistakes": [
+            {
+              "text": "“晚上十点锁门”是该处自己的管理时间，不代表中国所有宿舍都在十点锁门。",
+              "text_vi": "“晚上十点锁门” chỉ giờ khóa cửa của địa điểm này, không phải tất cả ký túc xá đều như vậy."
+            }
+          ],
+          "meaning_vi": "Mười giờ tối khóa cửa.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0018",
+          "level": "listen",
+          "text": "请出示证件。",
+          "alternatives": [
+            {
+              "text": "请拿出证件。",
+              "id": "s19_2_0018_alt01",
+              "meaning_vi": "Xin đưa giấy tờ ra."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，这是我的证件。",
+              "id": "s19_2_0018_reply01",
+              "meaning_vi": "Được, đây là giấy tờ của tôi."
+            },
+            {
+              "text": "可以用护照吗？",
+              "id": "s19_2_0018_reply02",
+              "meaning_vi": "Dùng hộ chiếu được không?"
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "qǐng chū shì zhèng jiàn",
+          "mistakes": [
+            {
+              "text": "“出示证件”通常是给工作人员查看身份证明，不是把证件交给不认识的路人保管。",
+              "text_vi": "“出示证件” là cho nhân viên kiểm tra giấy tờ, không phải giao giấy tờ cho người lạ giữ."
+            }
+          ],
+          "meaning_vi": "Vui lòng xuất trình giấy tờ.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0019",
+          "level": "listen",
+          "text": "从侧门进去。",
+          "alternatives": [
+            {
+              "text": "从旁边的门进去。",
+              "id": "s19_2_0019_alt01",
+              "meaning_vi": "Vào bằng cửa bên cạnh."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_2_0019_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "侧门在哪边？",
+              "id": "s19_2_0019_reply02",
+              "meaning_vi": "Cửa bên ở hướng nào?"
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "cóng cè mén jìn qù",
+          "mistakes": [
+            {
+              "text": "“侧门”是侧面的指定入口，不等于任何没有看守的小门；要走允许通行的入口。",
+              "text_vi": "“侧门” là cửa bên được chỉ định, không phải cửa nhỏ nào không có bảo vệ cũng được đi."
+            }
+          ],
+          "meaning_vi": "Vào bằng cửa bên.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        },
+        {
+          "id": "s19_2_0020",
+          "level": "listen",
+          "text": "出去不用刷卡。",
+          "alternatives": [
+            {
+              "text": "出门不用刷卡。",
+              "id": "s19_2_0020_alt01",
+              "meaning_vi": "Ra cửa không phải quẹt thẻ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s19_2_0020_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "那直接出去就行。",
+              "id": "s19_2_0020_reply02",
+              "meaning_vi": "Vậy cứ đi thẳng ra là được."
+            }
+          ],
+          "lesson_id": "19.2",
+          "lesson_title": "19.2 门禁进出",
+          "pinyin": "chū qù bú yòng shuā kǎ",
+          "mistakes": [
+            {
+              "text": "“出去不用刷卡”只说明离开时本处无须刷卡，不代表进入也不用验卡。",
+              "text_vi": "“出去不用刷卡” chỉ nói lúc ra không cần thẻ, chưa có nghĩa lúc vào cũng thế."
+            }
+          ],
+          "meaning_vi": "Đi ra không cần quẹt thẻ.",
+          "lesson_title_vi": "19.2 Kiểm soát ra vào và đăng ký khách"
+        }
+      ],
+      "title_vi": "19.2 Kiểm soát ra vào và đăng ký khách",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế",
+      "opening_vi": "Học quẹt thẻ, quét mã, đăng ký khách và xuất trình giấy tờ đúng quy định; không dùng thẻ của người khác để vào trái phép."
+    },
+    {
+      "id": "19.3",
+      "title": "19.3 电梯楼层与楼栋",
+      "subtitle": "19张实用口语卡",
+      "opening": "区分楼栋、单元与楼层，学会按电梯按钮、确认停靠楼层与安全换乘。",
+      "phrases": [
+        {
+          "id": "s19_3_0001",
+          "level": "must",
+          "text": "这是几号楼？",
+          "alternatives": [
+            {
+              "text": "这是哪栋楼？",
+              "id": "s19_3_0001_alt01",
+              "meaning_vi": "Đây là tòa nhà nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这是三号楼。",
+              "id": "s19_3_0001_reply01",
+              "meaning_vi": "Đây là tòa số ba."
+            },
+            {
+              "text": "这是二号楼。",
+              "id": "s19_3_0001_reply02",
+              "meaning_vi": "Đây là tòa số hai."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "zhè shì jǐ hào lóu",
+          "mistakes": [
+            {
+              "text": "“几号楼”问楼栋编号，不能把它理解为第几层楼；回答常是“三号楼”。",
+              "text_vi": "“几号楼” hỏi số tòa nhà, khác “几楼” hỏi tầng mấy."
+            }
+          ],
+          "meaning_vi": "Đây là tòa số mấy?",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0002",
+          "level": "must",
+          "text": "这是几单元？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "二单元。",
+              "id": "s19_3_0002_reply01",
+              "meaning_vi": "Đơn nguyên số hai."
+            },
+            {
+              "text": "一单元。",
+              "id": "s19_3_0002_reply02",
+              "meaning_vi": "Đơn nguyên số một."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "zhè shì jǐ dān yuán",
+          "mistakes": [
+            {
+              "text": "住宅“单元”通常是楼内按不同入口划分的单元号，不是楼层或房间号；越南语可按现场标牌解释“đơn nguyên”。",
+              "text_vi": "“单元” trong khu nhà ở có thể là đơn nguyên hoặc cửa vào của một khu trong tòa, không phải số tầng hay số phòng."
+            }
+          ],
+          "meaning_vi": "Đây là đơn nguyên số mấy?",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0003",
+          "level": "must",
+          "text": "去几楼？",
+          "alternatives": [
+            {
+              "text": "去几层？",
+              "id": "s19_3_0003_alt01",
+              "meaning_vi": "Lên tầng mấy?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "八楼。",
+              "id": "s19_3_0003_reply01",
+              "meaning_vi": "Tầng tám."
+            },
+            {
+              "text": "十二楼。",
+              "id": "s19_3_0003_reply02",
+              "meaning_vi": "Tầng mười hai."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "qù jǐ lóu",
+          "mistakes": [
+            {
+              "text": "“去几楼”在电梯里问目标楼层，不是在问几号楼；“楼”在这里指楼层。",
+              "text_vi": "Trong thang máy, “去几楼” hỏi tầng muốn đến, không phải số thứ tự tòa nhà."
+            }
+          ],
+          "meaning_vi": "Đi tầng mấy?",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0004",
+          "level": "must",
+          "text": "帮我按八楼。",
+          "alternatives": [
+            {
+              "text": "帮我按一下八楼。",
+              "id": "s19_3_0004_alt01",
+              "meaning_vi": "Bấm nút tầng tám giúp tôi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，已经按了。",
+              "id": "s19_3_0004_reply01",
+              "meaning_vi": "Được, tôi bấm rồi."
+            },
+            {
+              "text": "好。",
+              "id": "s19_3_0004_reply02",
+              "meaning_vi": "Được."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "bāng wǒ àn bā lóu",
+          "mistakes": [
+            {
+              "text": "“按八楼”是按电梯标着8的按钮，不是让对方直接把人带到八楼；“帮我”使请求较礼貌。",
+              "text_vi": "“按八楼” là bấm nút số tám trên bảng thang máy, không phải đưa người khác lên tầng tám."
+            }
+          ],
+          "meaning_vi": "Bấm tầng tám giúp tôi.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0005",
+          "level": "must",
+          "text": "这个电梯到八楼吗？",
+          "alternatives": [
+            {
+              "text": "这部电梯到八楼吗？",
+              "id": "s19_3_0005_alt01",
+              "meaning_vi": "Thang máy này lên tầng tám à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "到。",
+              "id": "s19_3_0005_reply01",
+              "meaning_vi": "Có."
+            },
+            {
+              "text": "不到，要换一部。",
+              "id": "s19_3_0005_reply02",
+              "meaning_vi": "Không, phải đổi thang máy khác."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "zhè ge diàn tī dào bā lóu ma",
+          "mistakes": [
+            {
+              "text": "“到八楼吗”问这部电梯能否停八楼，不是问它现在是否已经到达八楼。",
+              "text_vi": "Hỏi thang này có dừng tầng tám không, chưa phải hỏi hiện đã tới tầng tám chưa."
+            }
+          ],
+          "meaning_vi": "Thang máy này có lên tầng tám không?",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0006",
+          "level": "must",
+          "text": "我走错楼了。",
+          "alternatives": [
+            {
+              "text": "我走错楼栋了。",
+              "id": "s19_3_0006_alt01",
+              "meaning_vi": "Tôi đi nhầm khối nhà."
+            }
+          ],
+          "replies": [
+            {
+              "text": "这里是二号楼。",
+              "id": "s19_3_0006_reply01",
+              "meaning_vi": "Đây là tòa số hai."
+            },
+            {
+              "text": "你要去另一栋。",
+              "id": "s19_3_0006_reply02",
+              "meaning_vi": "Bạn phải sang tòa khác."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "wǒ zǒu cuò lóu le",
+          "mistakes": [
+            {
+              "text": "“走错楼”是进错了楼栋，不等于在正确的楼里按错楼层。",
+              "text_vi": "“走错楼” là vào nhầm tòa nhà, không phải đúng tòa nhưng bấm nhầm tầng."
+            }
+          ],
+          "meaning_vi": "Tôi vào nhầm tòa nhà.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0007",
+          "level": "must",
+          "text": "A座从哪个门进？",
+          "alternatives": [
+            {
+              "text": "A座从哪边进？",
+              "id": "s19_3_0007_alt01",
+              "meaning_vi": "Vào khu A từ phía nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "从正门进。",
+              "id": "s19_3_0007_reply01",
+              "meaning_vi": "Vào cửa chính."
+            },
+            {
+              "text": "从东门进去。",
+              "id": "s19_3_0007_reply02",
+              "meaning_vi": "Vào từ cửa phía Đông."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "ēi zuò cóng nǎ ge mén jìn",
+          "mistakes": [
+            {
+              "text": "“A座”是楼宇的A座或A区，可能是同一综合楼的一翼，不一定是完全独立的一栋楼。",
+              "text_vi": "“A座” là khối hoặc khu A của một tổ hợp tòa nhà, chưa chắc là một tòa độc lập."
+            }
+          ],
+          "meaning_vi": "Vào khối A qua cửa nào?",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0008",
+          "level": "must",
+          "text": "三号楼。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_3_0008_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "是三号楼对吧？",
+              "id": "s19_3_0008_reply02",
+              "meaning_vi": "Là tòa số ba, đúng không?"
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "sān hào lóu",
+          "mistakes": [
+            {
+              "text": "“三号楼”是楼栋编号3，不是三楼；送货或找宿舍时要把楼栋和楼层都说清。",
+              "text_vi": "“三号楼” là tòa số ba, không phải tầng ba; khi tìm nơi cần nói rõ cả tòa và tầng."
+            }
+          ],
+          "meaning_vi": "Tòa số ba.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0009",
+          "level": "must",
+          "text": "二单元。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s19_3_0009_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "二单元从哪边进？",
+              "id": "s19_3_0009_reply02",
+              "meaning_vi": "Đơn nguyên hai vào từ hướng nào?"
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "èr dān yuán",
+          "mistakes": [
+            {
+              "text": "“二单元”是楼内编号为2的单元入口，不是二楼或2号房；与“二号楼”也不能混淆。",
+              "text_vi": "“二单元” là khu/cửa vào số hai trong một tòa, không phải tầng hai, phòng hai hay tòa hai."
+            }
+          ],
+          "meaning_vi": "Đơn nguyên số hai.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0010",
+          "level": "must",
+          "text": "要换电梯吗？",
+          "alternatives": [
+            {
+              "text": "需要换电梯吗？",
+              "id": "s19_3_0010_alt01",
+              "meaning_vi": "Có cần chuyển sang thang máy khác không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，在一楼换。",
+              "id": "s19_3_0010_reply01",
+              "meaning_vi": "Có, đổi ở tầng trệt."
+            },
+            {
+              "text": "不用，这一部能到。",
+              "id": "s19_3_0010_reply02",
+              "meaning_vi": "Không cần, thang này lên được."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "yào huàn diàn tī ma",
+          "mistakes": [
+            {
+              "text": "“换电梯”是从一部电梯换乘另一部，不是把电梯的零件或按钮换掉。",
+              "text_vi": "“换电梯” là chuyển từ một thang máy sang thang khác, không phải thay linh kiện máy."
+            }
+          ],
+          "meaning_vi": "Có phải đổi thang máy không?",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0011",
+          "level": "must",
+          "text": "八楼到了吗？",
+          "alternatives": [
+            {
+              "text": "到八楼了吗？",
+              "id": "s19_3_0011_alt01",
+              "meaning_vi": "Đã đến tầng tám chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "到了。",
+              "id": "s19_3_0011_reply01",
+              "meaning_vi": "Đến rồi."
+            },
+            {
+              "text": "还没到。",
+              "id": "s19_3_0011_reply02",
+              "meaning_vi": "Chưa đến."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "bā lóu dào le ma",
+          "mistakes": [
+            {
+              "text": "“八楼到了吗”问是否已经抵达八楼，与“这部电梯到八楼吗”问是否能到八楼不同。",
+              "text_vi": "“八楼到了吗” hỏi đã tới tầng tám chưa; khác hỏi thang máy có lên được tầng tám không."
+            }
+          ],
+          "meaning_vi": "Đến tầng tám chưa?",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0012",
+          "level": "listen",
+          "text": "二号楼一单元。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s19_3_0012_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "谢谢。",
+              "id": "s19_3_0012_reply02",
+              "meaning_vi": "Cảm ơn."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "èr hào lóu yī dān yuán",
+          "mistakes": [
+            {
+              "text": "“二号楼一单元”有两个编号：楼栋号2，单元号1，不代表二楼一层。",
+              "text_vi": "“二号楼一单元” có hai số: tòa số hai và đơn nguyên số một, không có nghĩa tầng hai."
+            }
+          ],
+          "meaning_vi": "Tòa hai, đơn nguyên một.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0013",
+          "level": "listen",
+          "text": "上十二楼。",
+          "alternatives": [
+            {
+              "text": "去十二楼。",
+              "id": "s19_3_0013_alt01",
+              "meaning_vi": "Đi tầng mười hai."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s19_3_0013_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "这部电梯到十二楼吗？",
+              "id": "s19_3_0013_reply02",
+              "meaning_vi": "Thang máy này có lên tầng mười hai không?"
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "shàng shí èr lóu",
+          "mistakes": [
+            {
+              "text": "“上十二楼”是前往12楼，“上”表示向上；是否乘电梯、走楼梯要依现场情况决定。",
+              "text_vi": "“上十二楼” nghĩa là lên tầng mười hai; đi bằng thang máy hay cầu thang tùy thực tế."
+            }
+          ],
+          "meaning_vi": "Lên tầng mười hai.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0014",
+          "level": "listen",
+          "text": "电梯在右边。",
+          "alternatives": [
+            {
+              "text": "电梯在右手边。",
+              "id": "s19_3_0014_alt01",
+              "meaning_vi": "Thang máy ở phía tay phải."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_3_0014_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "我看到了。",
+              "id": "s19_3_0014_reply02",
+              "meaning_vi": "Tôi thấy rồi."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "diàn tī zài yòu biān",
+          "mistakes": [
+            {
+              "text": "“右边”以当时说话者的方向为参考，换一个站立方向就可能不同；必要时用手指示。",
+              "text_vi": "“右边” tính theo hướng người chỉ đang đứng; có thể dùng tay chỉ để tránh nhầm."
+            }
+          ],
+          "meaning_vi": "Thang máy ở bên phải.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0015",
+          "level": "listen",
+          "text": "你走错楼了。",
+          "alternatives": [
+            {
+              "text": "你走错楼栋了。",
+              "id": "s19_3_0015_alt01",
+              "meaning_vi": "Bạn đi nhầm khối nhà rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那应该去哪一栋？",
+              "id": "s19_3_0015_reply01",
+              "meaning_vi": "Vậy phải sang tòa nào?"
+            },
+            {
+              "text": "好，我出去重新找。",
+              "id": "s19_3_0015_reply02",
+              "meaning_vi": "Được, tôi ra tìm lại."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "nǐ zǒu cuò lóu le",
+          "mistakes": [
+            {
+              "text": "“你走错楼了”是提醒楼栋弄错，不是责备对方走路姿势有问题；可补充正确楼号。",
+              "text_vi": "Đây là nhắc vào nhầm tòa, không chê cách đi bộ; nên nói thêm số tòa đúng."
+            }
+          ],
+          "meaning_vi": "Bạn vào nhầm tòa nhà rồi.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0016",
+          "level": "listen",
+          "text": "这部电梯不到十楼。",
+          "alternatives": [
+            {
+              "text": "这部电梯不上十楼。",
+              "id": "s19_3_0016_alt01",
+              "meaning_vi": "Thang này không đến tầng mười."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那要换哪一部？",
+              "id": "s19_3_0016_reply01",
+              "meaning_vi": "Vậy phải đổi sang thang nào?"
+            },
+            {
+              "text": "好，我去另一边。",
+              "id": "s19_3_0016_reply02",
+              "meaning_vi": "Được, tôi sang phía kia."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "zhè bù diàn tī bú dào shí lóu",
+          "mistakes": [
+            {
+              "text": "“不到十楼”指这部电梯不提供十楼停靠，不是说永远不能上十楼；可能有其他电梯。",
+              "text_vi": "Thang máy không dừng ở tầng mười chưa có nghĩa không có đường lên đó; có thể cần thang khác."
+            }
+          ],
+          "meaning_vi": "Thang máy này không lên tầng mười.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0017",
+          "level": "listen",
+          "text": "要去另一栋。",
+          "alternatives": [
+            {
+              "text": "要去另外一栋。",
+              "id": "s19_3_0017_alt01",
+              "meaning_vi": "Cần đến tòa nhà khác."
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪一栋？",
+              "id": "s19_3_0017_reply01",
+              "meaning_vi": "Tòa nào?"
+            },
+            {
+              "text": "好，我过去。",
+              "id": "s19_3_0017_reply02",
+              "meaning_vi": "Được, tôi qua đó."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "yào qù lìng yí dòng",
+          "mistakes": [
+            {
+              "text": "“另一栋”是另一座楼，“另一个单元”则是同一栋内另一个入口，不要混淆。",
+              "text_vi": "“另一栋” là tòa nhà khác, còn “另一个单元” có thể là cửa vào khác trong cùng tòa."
+            }
+          ],
+          "meaning_vi": "Phải sang tòa khác.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0018",
+          "level": "listen",
+          "text": "八楼到了。",
+          "alternatives": [
+            {
+              "text": "到八楼了。",
+              "id": "s19_3_0018_alt01",
+              "meaning_vi": "Đã tới tầng tám."
+            },
+            {
+              "text": "到了。",
+              "id": "s19_3_0018_alt02",
+              "meaning_vi": "Đến rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_3_0018_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "好，我下电梯。",
+              "id": "s19_3_0018_reply02",
+              "meaning_vi": "Được, tôi ra khỏi thang máy."
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "bā lóu dào le",
+          "mistakes": [
+            {
+              "text": "“到了”在已经谈到八楼时可省略楼号；脱离前文就不知道到了哪个地方。",
+              "text_vi": "“到了” lược số tầng khi hai bên đều đang nói tầng tám; không có ngữ cảnh sẽ thiếu thông tin."
+            }
+          ],
+          "meaning_vi": "Đến tầng tám rồi.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        },
+        {
+          "id": "s19_3_0019",
+          "level": "listen",
+          "text": "在一楼换电梯。",
+          "alternatives": [
+            {
+              "text": "到一楼再换电梯。",
+              "id": "s19_3_0019_alt01",
+              "meaning_vi": "Đến tầng trệt rồi đổi thang máy."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我到一楼换。",
+              "id": "s19_3_0019_reply01",
+              "meaning_vi": "Được, tôi xuống tầng trệt đổi."
+            },
+            {
+              "text": "一楼是地面这一层吗？",
+              "id": "s19_3_0019_reply02",
+              "meaning_vi": "Tầng một là tầng ngang mặt đất này à?"
+            }
+          ],
+          "lesson_id": "19.3",
+          "lesson_title": "19.3 电梯楼层与楼栋",
+          "pinyin": "zài yī lóu huàn diàn tī",
+          "mistakes": [
+            {
+              "text": "中国“一楼”通常指地面入口层，但具体建筑可能有不同楼层标识；以现场标牌为准。",
+              "text_vi": "“一楼” ở Trung Quốc thường là tầng trệt, nhưng tên tầng có thể khác theo tòa; nên xem biển tầng thực tế."
+            }
+          ],
+          "meaning_vi": "Đổi thang máy ở tầng trệt.",
+          "lesson_title_vi": "19.3 Thang máy, tầng và tòa nhà"
+        }
+      ],
+      "title_vi": "19.3 Thang máy, tầng và tòa nhà",
+      "subtitle_vi": "19 thẻ giao tiếp thực tế",
+      "opening_vi": "Phân biệt số tòa, đơn nguyên và số tầng; hỏi đổi thang máy và tìm đúng lối vào."
+    },
+    {
+      "id": "19.4",
+      "title": "19.4 公共卫生间",
+      "subtitle": "18张实用口语卡",
+      "opening": "学习寻找公共卫生间、确认隔间有无人、厕纸与洗手池位置，以及临时停用提醒。",
+      "phrases": [
+        {
+          "id": "s19_4_0001",
+          "level": "must",
+          "text": "这间有人吗？",
+          "alternatives": [
+            {
+              "text": "里面有人吗？",
+              "id": "s19_4_0001_alt01",
+              "meaning_vi": "Bên trong có ai không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有人。",
+              "id": "s19_4_0001_reply01",
+              "meaning_vi": "Có người."
+            },
+            {
+              "text": "没人，可以用。",
+              "id": "s19_4_0001_reply02",
+              "meaning_vi": "Không có ai, dùng được."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zhè jiān yǒu rén ma",
+          "mistakes": [
+            {
+              "text": "“这间”指眼前这一间隔间，不是问整个公共厕所里有没有任何人；先敲门再问比较礼貌。",
+              "text_vi": "“这间” là buồng vệ sinh ngay trước mặt, không hỏi toàn bộ khu có ai; nên gõ cửa trước khi hỏi."
+            }
+          ],
+          "meaning_vi": "Phòng này có người không?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0002",
+          "level": "must",
+          "text": "没纸了。",
+          "alternatives": [
+            {
+              "text": "纸用完了。",
+              "id": "s19_4_0002_alt01",
+              "meaning_vi": "Giấy dùng hết rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "门口有厕纸。",
+              "id": "s19_4_0002_reply01",
+              "meaning_vi": "Có giấy vệ sinh ở cửa."
+            },
+            {
+              "text": "我去拿一点。",
+              "id": "s19_4_0002_reply02",
+              "meaning_vi": "Tôi đi lấy một ít."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "méi zhǐ le",
+          "mistakes": [
+            {
+              "text": "这里“纸”根据厕所场景是厕纸，不是书写用纸；“没纸了”表示已用完或取不到。",
+              "text_vi": "“纸” trong nhà vệ sinh thường là giấy vệ sinh, không phải giấy viết; câu này nói đã hết."
+            }
+          ],
+          "meaning_vi": "Hết giấy rồi.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0003",
+          "level": "must",
+          "text": "厕纸在哪儿？",
+          "alternatives": [
+            {
+              "text": "卫生纸在哪儿？",
+              "id": "s19_4_0003_alt01",
+              "meaning_vi": "Giấy vệ sinh để đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在门口。",
+              "id": "s19_4_0003_reply01",
+              "meaning_vi": "Ở cửa."
+            },
+            {
+              "text": "在洗手池旁边。",
+              "id": "s19_4_0003_reply02",
+              "meaning_vi": "Bên cạnh bồn rửa tay."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "cè zhǐ zài nǎr",
+          "mistakes": [
+            {
+              "text": "“厕纸/卫生纸”指厕所用纸；有的公共厕所需在入口取纸，不一定每间隔间都有。",
+              "text_vi": "Giấy vệ sinh có thể đặt tại cửa ra vào chứ không phải trong từng buồng; chú ý lấy giấy trước."
+            }
+          ],
+          "meaning_vi": "Giấy vệ sinh ở đâu?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0004",
+          "level": "must",
+          "text": "在哪儿洗手？",
+          "alternatives": [
+            {
+              "text": "在哪里洗手？",
+              "id": "s19_4_0004_alt01",
+              "meaning_vi": "Chỗ rửa tay ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "前面有洗手池。",
+              "id": "s19_4_0004_reply01",
+              "meaning_vi": "Phía trước có bồn rửa tay."
+            },
+            {
+              "text": "出去以后右边有洗手池。",
+              "id": "s19_4_0004_reply02",
+              "meaning_vi": "Ra ngoài rẽ phải có bồn rửa tay."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zài nǎr xǐ shǒu",
+          "mistakes": [
+            {
+              "text": "“洗手”是洗手，不是“洗澡”；对方指示的可能是厕所外面或走廊另一侧的洗手池。",
+              "text_vi": "“洗手” là rửa tay, không phải tắm; bồn rửa có thể ở ngoài cửa phòng."
+            }
+          ],
+          "meaning_vi": "Rửa tay ở đâu?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0005",
+          "level": "must",
+          "text": "这里能用吗？",
+          "alternatives": [
+            {
+              "text": "这里可以用吗？",
+              "id": "s19_4_0005_alt01",
+              "meaning_vi": "Có thể dùng chỗ này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s19_4_0005_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "暂时不能用。",
+              "id": "s19_4_0005_reply02",
+              "meaning_vi": "Tạm thời chưa dùng được."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zhè lǐ néng yòng ma",
+          "mistakes": [
+            {
+              "text": "“能用吗”询问设施是否允许使用，与“有人吗”问是否被占用不同。",
+              "text_vi": "“能用吗” hỏi thiết bị có dùng được hoặc được phép dùng, khác “有人吗” hỏi có người trong đó."
+            }
+          ],
+          "meaning_vi": "Chỗ này dùng được không?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0006",
+          "level": "must",
+          "text": "可以进去吗？",
+          "alternatives": [
+            {
+              "text": "能进去吗？",
+              "id": "s19_4_0006_alt01",
+              "meaning_vi": "Có được vào không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s19_4_0006_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "现在正在打扫。",
+              "id": "s19_4_0006_reply02",
+              "meaning_vi": "Giờ đang dọn vệ sinh."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "kě yǐ jìn qù ma",
+          "mistakes": [
+            {
+              "text": "“可以进去吗”问能否进入；正在打扫时不要在未许可的情况下强行进入。",
+              "text_vi": "“可以进去吗” hỏi có được vào không; nếu đang vệ sinh phải chờ được phép."
+            }
+          ],
+          "meaning_vi": "Vào được không?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0007",
+          "level": "must",
+          "text": "洗手池在哪儿？",
+          "alternatives": [
+            {
+              "text": "洗手池在哪里？",
+              "id": "s19_4_0007_alt01",
+              "meaning_vi": "Bồn rửa tay ở chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "出去右边就是。",
+              "id": "s19_4_0007_reply01",
+              "meaning_vi": "Ra ngoài là bên phải."
+            },
+            {
+              "text": "前面就是。",
+              "id": "s19_4_0007_reply02",
+              "meaning_vi": "Ngay phía trước."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "xǐ shǒu chí zài nǎr",
+          "mistakes": [
+            {
+              "text": "“洗手池”是洗手的水池，不是马桶；它可能在卫生间内，也可能在外面。",
+              "text_vi": "“洗手池” là bồn rửa tay, không phải bồn cầu; có thể nằm trong hoặc ngoài khu vệ sinh."
+            }
+          ],
+          "meaning_vi": "Bồn rửa tay ở đâu?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0008",
+          "level": "must",
+          "text": "哪个是男厕？",
+          "alternatives": [
+            {
+              "text": "哪个是男厕所？",
+              "id": "s19_4_0008_alt01",
+              "meaning_vi": "Phòng vệ sinh nam ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "左边是男厕。",
+              "id": "s19_4_0008_reply01",
+              "meaning_vi": "Bên trái là nhà vệ sinh nam."
+            },
+            {
+              "text": "前面那个是男厕。",
+              "id": "s19_4_0008_reply02",
+              "meaning_vi": "Nhà vệ sinh phía trước là khu nam."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "nǎ ge shì nán cè",
+          "mistakes": [
+            {
+              "text": "“男厕”是男性厕所，留意门口标识；它和“女厕”不应仅凭门的位置猜测。",
+              "text_vi": "Nhà vệ sinh nam có biển chỉ dẫn riêng; không nên đoán chỉ theo vị trí cửa."
+            }
+          ],
+          "meaning_vi": "Nhà vệ sinh nam là chỗ nào?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0009",
+          "level": "must",
+          "text": "这里有纸吗？",
+          "alternatives": [
+            {
+              "text": "这里有厕纸吗？",
+              "id": "s19_4_0009_alt01",
+              "meaning_vi": "Ở đây có giấy vệ sinh không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，在里面。",
+              "id": "s19_4_0009_reply01",
+              "meaning_vi": "Có, ở bên trong."
+            },
+            {
+              "text": "没有，门口有。",
+              "id": "s19_4_0009_reply02",
+              "meaning_vi": "Không, ở cửa có."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zhè lǐ yǒu zhǐ ma",
+          "mistakes": [
+            {
+              "text": "“这里有纸吗”里的“纸”在厕所语境中是厕纸；如果是问擦手纸，最好明确说“擦手纸”。",
+              "text_vi": "“纸” ở đây là giấy vệ sinh, còn giấy lau tay nên hỏi rõ “擦手纸”."
+            }
+          ],
+          "meaning_vi": "Ở đây có giấy không?",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0010",
+          "level": "must",
+          "text": "洗手液用完了。",
+          "alternatives": [
+            {
+              "text": "洗手液没了。",
+              "id": "s19_4_0010_alt01",
+              "meaning_vi": "Hết nước rửa tay rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我去补一下。",
+              "id": "s19_4_0010_reply01",
+              "meaning_vi": "Tôi đi bổ sung thêm."
+            },
+            {
+              "text": "旁边还有一瓶。",
+              "id": "s19_4_0010_reply02",
+              "meaning_vi": "Bên cạnh còn một chai."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "xǐ shǒu yè yòng wán le",
+          "mistakes": [
+            {
+              "text": "“洗手液”是液体洗手用品，不是洗衣液或消毒酒精；“用完了”强调容器里的东西用尽。",
+              "text_vi": "“洗手液” là nước rửa tay, khác nước giặt hoặc cồn khử khuẩn; “用完了” là đã hết."
+            }
+          ],
+          "meaning_vi": "Nước rửa tay hết rồi.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0011",
+          "level": "listen",
+          "text": "前面右转。",
+          "alternatives": [
+            {
+              "text": "前面往右转。",
+              "id": "s19_4_0011_alt01",
+              "meaning_vi": "Đi tới trước rồi rẽ phải."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_4_0011_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "右转就到了吗？",
+              "id": "s19_4_0011_reply02",
+              "meaning_vi": "Rẽ phải là đến à?"
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "qián miàn yòu zhuǎn",
+          "mistakes": [
+            {
+              "text": "“前面右转”是走到前方再右转，不是站在原地立刻转身；不知道多远应追问。",
+              "text_vi": "“前面右转” nghĩa là đi tới phía trước rồi rẽ phải, không nhất thiết rẽ ngay tại chỗ."
+            }
+          ],
+          "meaning_vi": "Phía trước rẽ phải.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0012",
+          "level": "listen",
+          "text": "男厕在左边。",
+          "alternatives": [
+            {
+              "text": "男厕在左手边。",
+              "id": "s19_4_0012_alt01",
+              "meaning_vi": "Nhà vệ sinh nam ở tay trái."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_4_0012_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "我看到了。",
+              "id": "s19_4_0012_reply02",
+              "meaning_vi": "Tôi thấy rồi."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "nán cè zài zuǒ biān",
+          "mistakes": [
+            {
+              "text": "“男厕在左边”是位置指引；应根据现场标识确认，不能只凭门色或外观猜测。",
+              "text_vi": "“男厕在左边” là chỉ đường, vẫn nên xác nhận biển phòng vệ sinh thực tế."
+            }
+          ],
+          "meaning_vi": "Nhà vệ sinh nam ở bên trái.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0013",
+          "level": "listen",
+          "text": "这间有人，你等一下。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等一下。",
+              "id": "s19_4_0013_reply01",
+              "meaning_vi": "Được, tôi đợi một chút."
+            },
+            {
+              "text": "那我用旁边这间。",
+              "id": "s19_4_0013_reply02",
+              "meaning_vi": "Vậy tôi dùng phòng bên cạnh."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zhè jiān yǒu rén nǐ děng yí xià",
+          "mistakes": [
+            {
+              "text": "“这间有人”表示这个隔间正在被使用，不代表旁边所有隔间都不能用。",
+              "text_vi": "Buồng này có người không có nghĩa tất cả buồng bên cạnh đều có người."
+            }
+          ],
+          "meaning_vi": "Phòng này có người, đợi chút nhé.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0014",
+          "level": "listen",
+          "text": "正在打扫。",
+          "alternatives": [
+            {
+              "text": "正在打扫卫生。",
+              "id": "s19_4_0014_alt01",
+              "meaning_vi": "Đang làm vệ sinh."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我等一下。",
+              "id": "s19_4_0014_reply01",
+              "meaning_vi": "Vậy tôi đợi một lát."
+            },
+            {
+              "text": "附近还有别的卫生间吗？",
+              "id": "s19_4_0014_reply02",
+              "meaning_vi": "Gần đây còn nhà vệ sinh nào khác không?"
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zhèng zài dǎ sǎo",
+          "mistakes": [
+            {
+              "text": "“正在打扫”强调现在还在进行清洁，不一定整个卫生间永久停用。",
+              "text_vi": "“正在打扫” nói công việc vệ sinh đang diễn ra, không có nghĩa nhà vệ sinh bị đóng mãi."
+            }
+          ],
+          "meaning_vi": "Đang dọn vệ sinh.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0015",
+          "level": "listen",
+          "text": "暂时不能用。",
+          "alternatives": [
+            {
+              "text": "现在不能用。",
+              "id": "s19_4_0015_alt01",
+              "meaning_vi": "Bây giờ chưa dùng được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那哪里可以用？",
+              "id": "s19_4_0015_reply01",
+              "meaning_vi": "Vậy dùng chỗ nào được?"
+            },
+            {
+              "text": "那我去找别的卫生间。",
+              "id": "s19_4_0015_reply02",
+              "meaning_vi": "Vậy tôi tìm nhà vệ sinh khác."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zàn shí bù néng yòng",
+          "mistakes": [
+            {
+              "text": "“暂时不能用”表示一段时间内不可使用，未说明何时恢复；不要自行假定楼上一定开放。",
+              "text_vi": "“暂时不能用” là hiện tạm ngưng sử dụng, chưa biết khi nào mở lại."
+            }
+          ],
+          "meaning_vi": "Tạm thời chưa dùng được.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0016",
+          "level": "listen",
+          "text": "厕纸在门口。",
+          "alternatives": [
+            {
+              "text": "卫生纸在门口。",
+              "id": "s19_4_0016_alt01",
+              "meaning_vi": "Giấy vệ sinh để ở cửa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去拿。",
+              "id": "s19_4_0016_reply01",
+              "meaning_vi": "Được, tôi đi lấy."
+            },
+            {
+              "text": "谢谢。",
+              "id": "s19_4_0016_reply02",
+              "meaning_vi": "Cảm ơn."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "cè zhǐ zài mén kǒu",
+          "mistakes": [
+            {
+              "text": "“厕纸在门口”要看具体是哪一侧门口；如纸在入口，进隔间前先取适量。",
+              "text_vi": "Nếu giấy ở lối vào, nên lấy trước khi vào buồng; cần hỏi rõ cửa nào."
+            }
+          ],
+          "meaning_vi": "Giấy vệ sinh ở cửa.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0017",
+          "level": "listen",
+          "text": "这边是女厕。",
+          "alternatives": [
+            {
+              "text": "女厕在这边。",
+              "id": "s19_4_0017_alt01",
+              "meaning_vi": "Nhà vệ sinh nữ ở phía này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那男厕在哪边？",
+              "id": "s19_4_0017_reply01",
+              "meaning_vi": "Vậy nhà vệ sinh nam ở hướng nào?"
+            },
+            {
+              "text": "好，知道了。",
+              "id": "s19_4_0017_reply02",
+              "meaning_vi": "Được, tôi biết rồi."
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "zhè biān shì nǚ cè",
+          "mistakes": [
+            {
+              "text": "“这边是女厕”是指路，不等于可以进入；应按卫生间实际标识和当地规定使用。",
+              "text_vi": "“这边是女厕” là lời chỉ hướng, việc sử dụng cần theo biển và quy định thực tế."
+            }
+          ],
+          "meaning_vi": "Bên này là nhà vệ sinh nữ.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        },
+        {
+          "id": "s19_4_0018",
+          "level": "listen",
+          "text": "请去楼上的卫生间。",
+          "alternatives": [
+            {
+              "text": "楼上的卫生间可以用。",
+              "id": "s19_4_0018_alt01",
+              "meaning_vi": "Nhà vệ sinh tầng trên dùng được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s19_4_0018_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "楼梯在哪儿？",
+              "id": "s19_4_0018_reply02",
+              "meaning_vi": "Cầu thang ở đâu?"
+            }
+          ],
+          "lesson_id": "19.4",
+          "lesson_title": "19.4 公共卫生间",
+          "pinyin": "qǐng qù lóu shàng de wèi shēng jiān",
+          "mistakes": [
+            {
+              "text": "“楼上的卫生间”是上方楼层的厕所，不一定就是紧挨着的上一层；可继续问具体楼层。",
+              "text_vi": "Nhà vệ sinh tầng trên có thể không phải ngay tầng kế tiếp; cần hỏi cụ thể tầng nào."
+            }
+          ],
+          "meaning_vi": "Vui lòng lên dùng nhà vệ sinh tầng trên.",
+          "lesson_title_vi": "19.4 Nhà vệ sinh công cộng"
+        }
+      ],
+      "title_vi": "19.4 Nhà vệ sinh công cộng",
+      "subtitle_vi": "18 thẻ giao tiếp thực tế",
+      "opening_vi": "Hỏi buồng có người chưa, giấy vệ sinh, nơi rửa tay và các khu đang dọn nên tạm ngừng sử dụng."
+    }
+  ],
+  "card_count": 77,
+  "lesson_counts": {
+    "19.1": 20,
+    "19.2": 20,
+    "19.3": 19,
+    "19.4": 18
+  },
+  "theme_title_vi": "19 Ra vào tòa nhà và tiện ích công cộng"
+}
