@@ -1,9 +1,9 @@
 {
   "theme_id": "31",
-  "version": 1,
-  "updated_at": "2026-11-02T16:17:07.355Z",
+  "version": 2,
+  "updated_at": "2026-11-02T22:00:00Z",
   "theme_title": "31 付款扫码",
-  "quality_standard": "Vietnamese adaptation from Chinese source 31 (57 main cards, all alternative/reply expressions and usage notes). Chinese, pinyin, IDs, order and levels preserved; terms for payment QR codes, cash and duplicate transactions localized. Structural QA passed; native-speaker, app and audio QA pending.",
+  "quality_standard": "Vietnamese adaptation from Chinese source 31 (57 main cards, all alternative/reply expressions and usage notes). Chinese, pinyin, IDs, order and levels preserved; terms for payment QR codes, cash and duplicate transactions localized. Structural QA passed; native-speaker, app and audio QA pending. | Rechecked against Chinese source; corrected natural Vietnamese and restored original Chinese teaching notes.",
   "source_phrase_count": 60,
   "lessons": [
     {
@@ -18,7 +18,7 @@
             {
               "text": "可以用微信吗？",
               "id": "s31_1_0001_alt01",
-              "meaning_vi": "Có thể thanh toán qua WeChat không?"
+              "meaning_vi": "Có thể dùng WeChat Pay để thanh toán không?"
             }
           ],
           "replies": [
@@ -37,13 +37,13 @@
           "lesson_title": "31.1 手机扫码支付",
           "mistakes": [
             {
-              "text": "微信支付与支付宝是中国常见的不同支付方式；先确认商家接受哪一种。",
+              "text": "微信付款不等于使用缅甸本地钱包；在中国先确认商家支持微信支付还是支付宝。",
               "text_vi": "WeChat Pay và Alipay là hai phương thức thanh toán khác nhau ở Trung Quốc. Hãy hỏi cửa hàng chấp nhận phương thức nào."
             }
           ],
           "pinyin": "wēi xìn kě yǐ ma",
           "lesson_title_vi": "31.1 Thanh toán bằng mã QR trên điện thoại",
-          "meaning_vi": "Thanh toán bằng WeChat được không?"
+          "meaning_vi": "Thanh toán bằng WeChat Pay được không?"
         },
         {
           "id": "s31_1_0002",
