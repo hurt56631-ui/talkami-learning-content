@@ -1,0 +1,2352 @@
+{
+  "theme_id": "34",
+  "lessons": [
+    {
+      "id": "34.1",
+      "title": "34.1 下单备注与修改信息",
+      "phrases": [
+        {
+          "id": "s34_1_0001",
+          "level": "must",
+          "text": "收货地址填这个。",
+          "alternatives": [
+            {
+              "text": "送餐地址填这个。",
+              "id": "s34_1_0001_alt01",
+              "meaning_vi": "Điền địa chỉ giao đồ ăn này nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我填这个地址。",
+              "id": "s34_1_0001_reply01",
+              "meaning_vi": "Được, tôi sẽ điền địa chỉ này."
+            },
+            {
+              "text": "这是你宿舍的地址吗？",
+              "id": "s34_1_0001_reply02",
+              "meaning_vi": "Đây là địa chỉ ký túc xá của bạn à?"
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "shōu huò dì zhǐ tián zhè ge",
+          "mistakes": [
+            {
+              "text": "“填这个”是请对方填写地址栏；不是骑手已经在路上时的送货指令。",
+              "text_vi": "“填这个” là yêu cầu điền địa chỉ vào đơn, không phải chỉ đường cho người giao đã lên đường."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Điền địa chỉ nhận hàng này nhé."
+        },
+        {
+          "id": "s34_1_0002",
+          "level": "must",
+          "text": "不要辣。",
+          "alternatives": [
+            {
+              "text": "做成不辣的。",
+              "id": "s34_1_0002_alt01",
+              "meaning_vi": "Làm món này không cay nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我帮您备注不要辣。",
+              "id": "s34_1_0002_reply01",
+              "meaning_vi": "Vâng, tôi sẽ ghi chú không cay."
+            },
+            {
+              "text": "这道菜本身带辣，换一道可以吗？",
+              "id": "s34_1_0002_reply02",
+              "meaning_vi": "Món này vốn có vị cay, anh/chị đổi món khác được không?"
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "bú yào là",
+          "mistakes": [
+            {
+              "text": "“不要辣”是不想吃辣；有些菜本身带辣或辣料预先混入，应向店家确认是否真能做成不辣。",
+              "text_vi": "“Không cay” là không muốn ăn cay; một số món đã có ớt trong nguyên liệu, cần xác minh quán làm được không."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Không cay nhé."
+        },
+        {
+          "id": "s34_1_0003",
+          "level": "must",
+          "text": "不用餐具。",
+          "alternatives": [
+            {
+              "text": "不要给餐具。",
+              "id": "s34_1_0003_alt01",
+              "meaning_vi": "Đừng cho dụng cụ ăn vào nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，不放餐具。",
+              "id": "s34_1_0003_reply01",
+              "meaning_vi": "Vâng, sẽ không kèm dụng cụ ăn."
+            },
+            {
+              "text": "这道餐有单独包装的勺子，也不要吗？",
+              "id": "s34_1_0003_reply02",
+              "meaning_vi": "Món này có thìa đóng gói riêng, cũng không lấy ạ?"
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "bú yòng cān jù",
+          "mistakes": [
+            {
+              "text": "“不用”表示不需要，不是说餐具不能使用；与“餐具要两份”是相反需求。",
+              "text_vi": "“不用” nghĩa là không cần, không phải dụng cụ ăn bị hỏng; trái với yêu cầu hai bộ dụng cụ."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Không cần dụng cụ ăn."
+        },
+        {
+          "id": "s34_1_0004",
+          "level": "must",
+          "text": "放门口。",
+          "alternatives": [
+            {
+              "text": "放门口就行。",
+              "id": "s34_1_0004_alt01",
+              "meaning_vi": "Cứ để ở cửa là được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，到了放门口。",
+              "id": "s34_1_0004_reply01",
+              "meaning_vi": "Được, đến nơi tôi để trước cửa."
+            },
+            {
+              "text": "好，我放好后发消息。",
+              "id": "s34_1_0004_reply02",
+              "meaning_vi": "Được, để xong tôi nhắn tin."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "fàng mén kǒu",
+          "mistakes": [
+            {
+              "text": "“门口”可能是房门口、宿舍楼入口或小区大门；放门外有丢失风险，最好约定具体位置并确认收件人同意。",
+              "text_vi": "“门口” có thể là cửa phòng, cửa tòa hoặc cổng khu nhà. Để đồ trước cửa có nguy cơ mất, phải thống nhất nơi và được người nhận đồng ý."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Để trước cửa nhé."
+        },
+        {
+          "id": "s34_1_0005",
+          "level": "must",
+          "text": "到了打电话。",
+          "alternatives": [
+            {
+              "text": "到了给我打个电话。",
+              "id": "s34_1_0005_alt01",
+              "meaning_vi": "Đến nơi gọi cho tôi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，到了联系您。",
+              "id": "s34_1_0005_reply01",
+              "meaning_vi": "Vâng, đến nơi tôi liên hệ anh/chị."
+            },
+            {
+              "text": "要是电话没接通，我再发消息。",
+              "id": "s34_1_0005_reply02",
+              "meaning_vi": "Nếu gọi không được, tôi sẽ nhắn tin."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "dào le dǎ diàn huà",
+          "mistakes": [
+            {
+              "text": "“到了”省略了到达地点，应按当前地址理解；它不等于“现在就打电话”。",
+              "text_vi": "“到了” nghĩa là tới địa điểm trong đơn, không phải gọi điện ngay lúc này."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Đến nơi thì gọi điện nhé."
+        },
+        {
+          "id": "s34_1_0006",
+          "level": "must",
+          "text": "能改收货地址吗？",
+          "alternatives": [
+            {
+              "text": "还能改地址吗？",
+              "id": "s34_1_0006_alt01",
+              "meaning_vi": "Giờ còn sửa địa chỉ được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您看一下现在能不能改。",
+              "id": "s34_1_0006_reply01",
+              "meaning_vi": "Để tôi kiểm tra giờ còn sửa được không."
+            },
+            {
+              "text": "如果已经进入配送，可能要联系骑手确认。",
+              "id": "s34_1_0006_reply02",
+              "meaning_vi": "Nếu đã bắt đầu giao, có thể phải hỏi nhân viên giao hàng."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "néng gǎi shōu huò dì zhǐ ma",
+          "mistakes": [
+            {
+              "text": "“能改吗”是在问是否允许修改；骑手已接单后不保证还能更改，不能把“能”理解为已经改好。",
+              "text_vi": "“Có đổi được không?” chỉ hỏi khả năng; người giao đã nhận đơn có thể không sửa được, chưa phải đã sửa thành công."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Có đổi địa chỉ giao hàng được không?"
+        },
+        {
+          "id": "s34_1_0007",
+          "level": "must",
+          "text": "备注现在还能改吗？",
+          "alternatives": [
+            {
+              "text": "现在还可以改备注吗？",
+              "id": "s34_1_0007_alt01",
+              "meaning_vi": "Bây giờ vẫn thay đổi ghi chú được chứ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您看一下还能不能改。",
+              "id": "s34_1_0007_reply01",
+              "meaning_vi": "Để tôi kiểm tra có sửa được nữa không."
+            },
+            {
+              "text": "如果已经开始制作，可能改不了。",
+              "id": "s34_1_0007_reply02",
+              "meaning_vi": "Nếu đã bắt đầu nấu thì có thể không sửa được."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "bèi zhù xiàn zài hái néng gǎi ma",
+          "mistakes": [
+            {
+              "text": "“备注”指订单附加说明，不等于可以随时换菜；开始制作后未必能改。",
+              "text_vi": "“备注” là ghi chú thêm trong đơn, không phải lúc nào cũng đổi món được; quán đã chế biến có thể không sửa."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Giờ còn sửa ghi chú được không?"
+        },
+        {
+          "id": "s34_1_0008",
+          "level": "must",
+          "text": "请放前台。",
+          "alternatives": [
+            {
+              "text": "送到前台就行。",
+              "id": "s34_1_0008_alt01",
+              "meaning_vi": "Cứ giao tới quầy lễ tân là được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我送到前台。",
+              "id": "s34_1_0008_reply01",
+              "meaning_vi": "Được, tôi sẽ giao đến lễ tân."
+            },
+            {
+              "text": "好，到了我发消息。",
+              "id": "s34_1_0008_reply02",
+              "meaning_vi": "Vâng, đến nơi tôi nhắn tin."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "qǐng fàng qián tái",
+          "mistakes": [
+            {
+              "text": "“前台”是接待柜台，不是大门口；要确认该地点允许代收外卖。",
+              "text_vi": "“前台” là quầy lễ tân, khác cổng chính; cần hỏi họ có nhận hộ đồ ăn được không."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Vui lòng để ở quầy lễ tân."
+        },
+        {
+          "id": "s34_1_0009",
+          "level": "must",
+          "text": "不要打电话，发消息就行。",
+          "alternatives": [
+            {
+              "text": "到了发消息就好，别打电话。",
+              "id": "s34_1_0009_alt01",
+              "meaning_vi": "Đến nơi chỉ cần nhắn tin, đừng gọi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，只发消息。",
+              "id": "s34_1_0009_reply01",
+              "meaning_vi": "Vâng, tôi chỉ nhắn tin."
+            },
+            {
+              "text": "收到，到了给您发消息。",
+              "id": "s34_1_0009_reply02",
+              "meaning_vi": "Đã rõ, đến nơi tôi sẽ nhắn."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "bú yào dǎ diàn huà fā xiāo xī jiù xíng",
+          "mistakes": [
+            {
+              "text": "“就行”是‘这样便可以’的口语，语气较随和；不代表平台绝对不会电话联系。",
+              "text_vi": "“就行” là “như thế là được”, giọng nhẹ; không bảo đảm nền tảng tuyệt đối không gọi điện."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Không cần gọi điện, nhắn tin là được."
+        },
+        {
+          "id": "s34_1_0010",
+          "level": "must",
+          "text": "餐具要两份。",
+          "alternatives": [
+            {
+              "text": "请放两套餐具。",
+              "id": "s34_1_0010_alt01",
+              "meaning_vi": "Vui lòng kèm hai bộ dụng cụ ăn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，放两套餐具。",
+              "id": "s34_1_0010_reply01",
+              "meaning_vi": "Được, tôi sẽ cho hai bộ."
+            },
+            {
+              "text": "好，我给您备注两份餐具。",
+              "id": "s34_1_0010_reply02",
+              "meaning_vi": "Vâng, tôi sẽ ghi chú hai bộ dụng cụ ăn."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "cān jù yào liǎng fèn",
+          "mistakes": [
+            {
+              "text": "这里“一份餐具”通常是一人使用的一套，不是两根筷子或两道菜。",
+              "text_vi": "Một “份餐具” là một bộ dụng cụ cho một người, không phải hai chiếc đũa hoặc hai món ăn."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Cho hai bộ dụng cụ ăn nhé."
+        },
+        {
+          "id": "s34_1_0011",
+          "level": "listen",
+          "text": "商家已接单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等商家制作。",
+              "id": "s34_1_0011_reply01",
+              "meaning_vi": "Được, tôi chờ quán làm món."
+            },
+            {
+              "text": "还要多久能出餐？",
+              "id": "s34_1_0011_reply02",
+              "meaning_vi": "Còn bao lâu nữa món mới làm xong?"
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "shāng jiā yǐ jiē dān",
+          "mistakes": [
+            {
+              "text": "“已接单”只是商家接受订单，不代表菜已做完或骑手已拿餐。",
+              "text_vi": "“已接单” chỉ là quán nhận đơn, chưa có nghĩa nấu xong hoặc người giao đã lấy."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Quán đã nhận đơn."
+        },
+        {
+          "id": "s34_1_0012",
+          "level": "listen",
+          "text": "预计三十分钟。",
+          "alternatives": [
+            {
+              "text": "预计半小时。",
+              "id": "s34_1_0012_alt01",
+              "meaning_vi": "Dự kiến nửa tiếng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我等一下。",
+              "id": "s34_1_0012_reply01",
+              "meaning_vi": "Được, tôi đợi chút."
+            },
+            {
+              "text": "大概三十分钟，对吗？",
+              "id": "s34_1_0012_reply02",
+              "meaning_vi": "Khoảng 30 phút, đúng không?"
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "yù jì sān shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“预计”是估算，不是保证三十分钟整到；要结合上下文确认指送达时间还是制作时间。",
+              "text_vi": "“预计” là thời gian dự kiến chứ không cam kết đúng 30 phút; cần biết đang nói thời gian nấu hay giao đến."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Dự kiến 30 phút."
+        },
+        {
+          "id": "s34_1_0013",
+          "level": "listen",
+          "text": "备注已收到。",
+          "alternatives": [
+            {
+              "text": "已经收到备注了。",
+              "id": "s34_1_0013_alt01",
+              "meaning_vi": "Đã thấy ghi chú rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s34_1_0013_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "好的，那就按备注来。",
+              "id": "s34_1_0013_reply02",
+              "meaning_vi": "Vâng, vậy làm theo ghi chú nhé."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "bèi zhù yǐ shōu dào",
+          "mistakes": [
+            {
+              "text": "“收到”只表示对方看到了备注，不等于全部要求一定能满足。",
+              "text_vi": "“Đã nhận ghi chú” không bảo đảm tất cả yêu cầu trong ghi chú sẽ được thực hiện."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Đã nhận được ghi chú."
+        },
+        {
+          "id": "s34_1_0014",
+          "level": "listen",
+          "text": "这个不能改。",
+          "alternatives": [
+            {
+              "text": "现在改不了了。",
+              "id": "s34_1_0014_alt01",
+              "meaning_vi": "Giờ không sửa được nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那还有别的办法吗？",
+              "id": "s34_1_0014_reply01",
+              "meaning_vi": "Vậy còn cách nào khác không?"
+            },
+            {
+              "text": "那还能联系商家改吗？",
+              "id": "s34_1_0014_reply02",
+              "meaning_vi": "Vậy vẫn có thể liên hệ quán để sửa không?"
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "zhè ge bù néng gǎi",
+          "mistakes": [
+            {
+              "text": "“这个”只指前面正在讨论的那一项，不一定是整个订单都不能改。",
+              "text_vi": "“这个” là mục đang nói tới, không có nghĩa toàn bộ đơn đều không sửa được."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Mục này không sửa được."
+        },
+        {
+          "id": "s34_1_0015",
+          "level": "listen",
+          "text": "骑手会送到前台。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去前台拿。",
+              "id": "s34_1_0015_reply01",
+              "meaning_vi": "Được, tôi sẽ xuống lễ tân lấy."
+            },
+            {
+              "text": "好的，到了麻烦发个消息。",
+              "id": "s34_1_0015_reply02",
+              "meaning_vi": "Vâng, tới nơi nhắn cho tôi nhé."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "qí shǒu huì sòng dào qián tái",
+          "mistakes": [
+            {
+              "text": "“送到前台”不等于送到你手上；通常还需要自行到前台领取。",
+              "text_vi": "Giao tới quầy lễ tân chưa có nghĩa giao tận tay, người nhận thường phải xuống lấy."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Nhân viên giao hàng sẽ mang đến quầy lễ tân."
+        },
+        {
+          "id": "s34_1_0016",
+          "level": "listen",
+          "text": "出餐以后可能不能取消部分商品。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s34_1_0016_reply01",
+              "meaning_vi": "Được, tôi hiểu rồi."
+            },
+            {
+              "text": "那我先不改了。",
+              "id": "s34_1_0016_reply02",
+              "meaning_vi": "Vậy tôi không sửa nữa."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "chū cān yǐ hòu kě néng bù néng qǔ xiāo bù fèn shāng pǐn",
+          "mistakes": [
+            {
+              "text": "“可能不能”只是提醒有这种限制，不是所有平台都一律禁止；“部分商品”也不等于整单。",
+              "text_vi": "“Có thể không hủy riêng được” là khả năng hạn chế, không phải mọi ứng dụng đều giống; chỉ nói một phần đơn."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Sau khi làm xong món, có thể không hủy riêng từng món được."
+        },
+        {
+          "id": "s34_1_0017",
+          "level": "listen",
+          "text": "骑手接单后地址可能改不了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我先联系骑手问一下。",
+              "id": "s34_1_0017_reply01",
+              "meaning_vi": "Vậy tôi liên hệ người giao hàng hỏi trước."
+            },
+            {
+              "text": "好，我看看订单里还能不能改。",
+              "id": "s34_1_0017_reply02",
+              "meaning_vi": "Được, để tôi xem còn sửa được trong đơn không."
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "qí shǒu jiē dān hòu dì zhǐ kě néng gǎi bu liǎo",
+          "mistakes": [
+            {
+              "text": "骑手“接单”只是接下配送任务，不表示已出餐或送达；能否改地址要依平台和配送进度确认。",
+              "text_vi": "Người giao “nhận đơn” là nhận việc giao, chưa có nghĩa quán làm xong; thay địa chỉ tùy nền tảng."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Sau khi nhân viên giao hàng nhận đơn, có thể không đổi địa chỉ được."
+        },
+        {
+          "id": "s34_1_0018",
+          "level": "listen",
+          "text": "订单已经开始制作了。",
+          "alternatives": [
+            {
+              "text": "餐已经在做了。",
+              "id": "s34_1_0018_alt01",
+              "meaning_vi": "Món ăn đang được làm rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s34_1_0018_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "那备注还能改吗？",
+              "id": "s34_1_0018_reply02",
+              "meaning_vi": "Vậy còn sửa ghi chú được không?"
+            }
+          ],
+          "lesson_id": "34.1",
+          "lesson_title": "34.1 下单备注与修改信息",
+          "pinyin": "dìng dān yǐ jīng kāi shǐ zhì zuò le",
+          "mistakes": [
+            {
+              "text": "“开始制作”表示做餐已开始，不是已做好，更不是骑手已经送出。",
+              "text_vi": "“Bắt đầu chế biến” là đã bắt đầu nấu, không phải đã làm xong hay giao đi."
+            }
+          ],
+          "lesson_title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+          "meaning_vi": "Quán đã bắt đầu chế biến đơn hàng."
+        }
+      ],
+      "opening": "练习填写外卖地址、说明口味和餐具、修改备注，并分清商家接单、开始做餐和骑手接单。",
+      "subtitle": "18张高频卡 · 10必说 + 8必听",
+      "title_vi": "34.1 Ghi chú và sửa thông tin đơn đồ ăn",
+      "opening_vi": "Luyện điền địa chỉ giao đồ ăn, yêu cầu khẩu vị, dụng cụ ăn và sửa ghi chú; phân biệt quán nhận đơn, bắt đầu nấu và người giao nhận đơn.",
+      "subtitle_vi": "18 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "34.2",
+      "title": "34.2 联系骑手与碰面",
+      "phrases": [
+        {
+          "id": "s34_2_0001",
+          "level": "must",
+          "text": "我在楼下。",
+          "alternatives": [
+            {
+              "text": "我已经在楼下了。",
+              "id": "s34_2_0001_alt01",
+              "meaning_vi": "Tôi xuống dưới nhà rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我马上到。",
+              "id": "s34_2_0001_reply01",
+              "meaning_vi": "Được, tôi đến ngay."
+            },
+            {
+              "text": "我也到楼下了。",
+              "id": "s34_2_0001_reply02",
+              "meaning_vi": "Tôi cũng đang ở dưới nhà."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ zài lóu xià",
+          "mistakes": [
+            {
+              "text": "“楼下”是相对于所在楼层的下面，不一定指地下一层；“我在楼下”强调现在的位置。",
+              "text_vi": "“楼下” là bên dưới tầng đang ở, thường là dưới nhà chứ không phải tầng hầm; câu này nói mình đã ở đó."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi đang ở dưới nhà."
+        },
+        {
+          "id": "s34_2_0002",
+          "level": "must",
+          "text": "你在哪个门？",
+          "alternatives": [
+            {
+              "text": "你在几号门？",
+              "id": "s34_2_0002_alt01",
+              "meaning_vi": "Bạn ở cổng số mấy?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我在东门。",
+              "id": "s34_2_0002_reply01",
+              "meaning_vi": "Tôi ở cổng Đông."
+            },
+            {
+              "text": "我在三号门。",
+              "id": "s34_2_0002_reply02",
+              "meaning_vi": "Tôi ở cổng số ba."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "nǐ zài nǎ ge mén",
+          "mistakes": [
+            {
+              "text": "“哪个门”问具体哪一处入口；只有大门编了号码时，“几号门”才特别合适。",
+              "text_vi": "“哪个门” hỏi cổng nào; “几号门” phù hợp khi các cổng có số."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Bạn đang ở cổng nào?"
+        },
+        {
+          "id": "s34_2_0003",
+          "level": "must",
+          "text": "我找不到你。",
+          "alternatives": [
+            {
+              "text": "没找到你。",
+              "id": "s34_2_0003_alt01",
+              "meaning_vi": "Vẫn chưa thấy bạn đâu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我在东门，穿黑色衣服。",
+              "id": "s34_2_0003_reply01",
+              "meaning_vi": "Tôi ở cổng Đông, mặc đồ đen."
+            },
+            {
+              "text": "我发定位给你。",
+              "id": "s34_2_0003_reply02",
+              "meaning_vi": "Tôi gửi vị trí cho bạn nhé."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ zhǎo bu dào nǐ",
+          "mistakes": [
+            {
+              "text": "“找不到你”是暂时没找到对方，不是说不认识对方；可以接着说自己在哪个门。",
+              "text_vi": "“Không tìm thấy bạn” là chưa thấy người lúc này, không phải không quen biết; có thể nói thêm vị trí."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi không tìm thấy bạn."
+        },
+        {
+          "id": "s34_2_0004",
+          "level": "must",
+          "text": "我马上下来拿。",
+          "alternatives": [
+            {
+              "text": "我马上下去拿。",
+              "id": "s34_2_0004_alt01",
+              "meaning_vi": "Tôi xuống dưới lấy ngay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我在门口等您。",
+              "id": "s34_2_0004_reply01",
+              "meaning_vi": "Vâng, tôi đợi anh/chị ở cửa."
+            },
+            {
+              "text": "楼下人有点多，我穿蓝衣服。",
+              "id": "s34_2_0004_reply02",
+              "meaning_vi": "Dưới nhà hơi đông, tôi mặc áo xanh."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ mǎ shàng xià lái ná",
+          "mistakes": [
+            {
+              "text": "“下来”突出向对方所在的下面来；“下去”突出从自己这里往下去，两种说法在此都自然。",
+              "text_vi": "“下来” nhấn mạnh đi xuống phía người nghe, “下去” là đi xuống từ chỗ mình; cả hai hợp ngữ cảnh."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi xuống lấy ngay đây."
+        },
+        {
+          "id": "s34_2_0005",
+          "level": "must",
+          "text": "放前台吧。",
+          "alternatives": [
+            {
+              "text": "放前台就好。",
+              "id": "s34_2_0005_alt01",
+              "meaning_vi": "Để lễ tân là được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我放前台。",
+              "id": "s34_2_0005_reply01",
+              "meaning_vi": "Được, tôi sẽ để ở lễ tân."
+            },
+            {
+              "text": "好，放好后给您发消息。",
+              "id": "s34_2_0005_reply02",
+              "meaning_vi": "Được, đặt xong tôi nhắn anh/chị."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "fàng qián tái ba",
+          "mistakes": [
+            {
+              "text": "句尾“吧”让建议听起来柔和一些；“前台”要与楼栋门口或保安室区分。",
+              "text_vi": "“吧” giúp câu đề nghị nhẹ hơn; lễ tân khác cổng tòa và chỗ bảo vệ."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Cứ để ở quầy lễ tân nhé."
+        },
+        {
+          "id": "s34_2_0006",
+          "level": "must",
+          "text": "你进不来就放前台。",
+          "alternatives": [
+            {
+              "text": "进不来的话就放前台。",
+              "id": "s34_2_0006_alt01",
+              "meaning_vi": "Không vào được thì cứ để ở quầy lễ tân."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我放前台。",
+              "id": "s34_2_0006_reply01",
+              "meaning_vi": "Vâng, tôi để ở lễ tân."
+            },
+            {
+              "text": "前台在哪儿？",
+              "id": "s34_2_0006_reply02",
+              "meaning_vi": "Quầy lễ tân ở đâu?"
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "nǐ jìn bu lái jiù fàng qián tái",
+          "mistakes": [
+            {
+              "text": "这句话以骑手能到前台为前提；如果连大厅都进不去，应改说放门口或保安处。",
+              "text_vi": "Câu này giả định người giao vào được tới lễ tân; nếu không vào được sảnh cần hẹn ở cổng hoặc chỗ bảo vệ."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Nếu bạn không vào được thì để ở lễ tân nhé."
+        },
+        {
+          "id": "s34_2_0007",
+          "level": "must",
+          "text": "我在东门，不在南门。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我去东门。",
+              "id": "s34_2_0007_reply01",
+              "meaning_vi": "Được, tôi qua cổng Đông."
+            },
+            {
+              "text": "东门怎么走？",
+              "id": "s34_2_0007_reply02",
+              "meaning_vi": "Đường tới cổng Đông đi thế nào?"
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ zài dōng mén bú zài nán mén",
+          "mistakes": [
+            {
+              "text": "“东门”和“南门”是两个不同方向的入口，不能只听成两个门；必要时发送定位。",
+              "text_vi": "Cổng Đông và cổng Nam là hai phía khác nhau, có thể gửi vị trí nếu dễ nhầm."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi ở cổng Đông, không phải cổng Nam."
+        },
+        {
+          "id": "s34_2_0008",
+          "level": "must",
+          "text": "你能看到我的定位吗？",
+          "alternatives": [
+            {
+              "text": "我发的定位你看到了吗？",
+              "id": "s34_2_0008_alt01",
+              "meaning_vi": "Bạn xem được định vị tôi gửi chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "能看到。",
+              "id": "s34_2_0008_reply01",
+              "meaning_vi": "Có, tôi thấy rồi."
+            },
+            {
+              "text": "看不到，你再发一下。",
+              "id": "s34_2_0008_reply02",
+              "meaning_vi": "Không thấy, bạn gửi lại nhé."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "nǐ néng kàn dào wǒ de dìng wèi ma",
+          "mistakes": [
+            {
+              "text": "“定位”是地图上的位置标记；分享时最好使用订单内的官方联系功能，不必公开详细住址给陌生人。",
+              "text_vi": "“定位” là vị trí trên bản đồ; nên dùng chức năng liên lạc trong đơn, tránh công khai địa chỉ cá nhân."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Bạn có thấy vị trí tôi gửi không?"
+        },
+        {
+          "id": "s34_2_0009",
+          "level": "must",
+          "text": "我穿黑色衣服。",
+          "alternatives": [
+            {
+              "text": "我穿着黑衣服。",
+              "id": "s34_2_0009_alt01",
+              "meaning_vi": "Tôi đang mặc quần áo màu đen."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我看到您了。",
+              "id": "s34_2_0009_reply01",
+              "meaning_vi": "Vâng, tôi thấy anh/chị rồi."
+            },
+            {
+              "text": "好的，我找一下。",
+              "id": "s34_2_0009_reply02",
+              "meaning_vi": "Được, để tôi tìm."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ chuān hēi sè yī fu",
+          "mistakes": [
+            {
+              "text": "“穿黑色衣服”说的是此刻身上衣服的颜色，不是经常穿黑色；颜色不够明显时可再说位置。",
+              "text_vi": "“Mặc đồ đen” nói trang phục lúc này, không phải lúc nào cũng mặc màu đen."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi mặc đồ đen."
+        },
+        {
+          "id": "s34_2_0010",
+          "level": "listen",
+          "text": "我到门口了。",
+          "alternatives": [
+            {
+              "text": "我已经到门口了。",
+              "id": "s34_2_0010_alt01",
+              "meaning_vi": "Tôi đã tới cổng rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我马上下去。",
+              "id": "s34_2_0010_reply01",
+              "meaning_vi": "Được, tôi xuống ngay."
+            },
+            {
+              "text": "好的，请等我两分钟。",
+              "id": "s34_2_0010_reply02",
+              "meaning_vi": "Vâng, đợi tôi hai phút nhé."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ dào mén kǒu le",
+          "mistakes": [
+            {
+              "text": "“到了”表示人已到达；不要和“马上到”混淆，后者还在路上。",
+              "text_vi": "“Tôi đến rồi” khác “tôi sắp tới”; câu đầu đã ở cửa, câu sau còn trên đường."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi đến cửa rồi."
+        },
+        {
+          "id": "s34_2_0011",
+          "level": "listen",
+          "text": "进不去。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是在大门口进不去吗？",
+              "id": "s34_2_0011_reply01",
+              "meaning_vi": "Bạn không vào được cổng chính à?"
+            },
+            {
+              "text": "好，我马上下来拿。",
+              "id": "s34_2_0011_reply02",
+              "meaning_vi": "Được, tôi xuống lấy ngay."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "jìn bu qù",
+          "mistakes": [
+            {
+              "text": "“进不去”指无法进去某个地方，不一定是路找不到；可以问是大门还是楼道进不去。",
+              "text_vi": "“进不去” là không vào trong được, không nhất thiết là bị lạc; hãy hỏi vướng ở cổng hay cửa tòa."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi không vào được."
+        },
+        {
+          "id": "s34_2_0012",
+          "level": "listen",
+          "text": "麻烦下来拿。",
+          "alternatives": [
+            {
+              "text": "方便下来拿一下吗？",
+              "id": "s34_2_0012_alt01",
+              "meaning_vi": "Anh/chị xuống lấy một chút được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我马上下来。",
+              "id": "s34_2_0012_reply01",
+              "meaning_vi": "Được, tôi xuống ngay."
+            },
+            {
+              "text": "好的，你稍等一下。",
+              "id": "s34_2_0012_reply02",
+              "meaning_vi": "Vâng, bạn đợi chút nhé."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "má fan xià lái ná",
+          "mistakes": [
+            {
+              "text": "“麻烦”是礼貌提出请求，不是说给你造成麻烦；顾客可回答需要等多久。",
+              "text_vi": "“麻烦” là lời nhờ lịch sự, không phải lời than phiền gây phiền phức."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Phiền anh/chị xuống lấy giúp."
+        },
+        {
+          "id": "s34_2_0013",
+          "level": "listen",
+          "text": "我放保安那儿。",
+          "alternatives": [
+            {
+              "text": "我放在保安那儿。",
+              "id": "s34_2_0013_alt01",
+              "meaning_vi": "Tôi đã để ở chỗ bảo vệ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去保安那儿拿。",
+              "id": "s34_2_0013_reply01",
+              "meaning_vi": "Được, tôi tới chỗ bảo vệ lấy."
+            },
+            {
+              "text": "好的，放好后麻烦发个消息。",
+              "id": "s34_2_0013_reply02",
+              "meaning_vi": "Vâng, để xong nhắn cho tôi nhé."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ fàng bǎo ān nàr",
+          "mistakes": [
+            {
+              "text": "“放保安那儿”是放在保安值守处；放下并不等于收件人已收到，最好确认安保人员愿意代收并通知顾客。",
+              "text_vi": "Để đồ ở chỗ bảo vệ chưa phải người nhận cầm được; cần xác nhận bảo vệ đồng ý nhận và báo khách."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi để ở chỗ bảo vệ nhé."
+        },
+        {
+          "id": "s34_2_0014",
+          "level": "listen",
+          "text": "我在西门。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去西门找你。",
+              "id": "s34_2_0014_reply01",
+              "meaning_vi": "Được, tôi sang cổng Tây tìm bạn."
+            },
+            {
+              "text": "好的，我马上过去。",
+              "id": "s34_2_0014_reply02",
+              "meaning_vi": "Vâng, tôi đến ngay."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ zài xī mén",
+          "mistakes": [
+            {
+              "text": "“西门”是西侧入口，“东门”是东侧入口；大型小区两门可能相隔很远。",
+              "text_vi": "Cổng Tây khác cổng Đông; ở khu lớn các cổng có thể rất xa nhau."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi ở cổng Tây."
+        },
+        {
+          "id": "s34_2_0015",
+          "level": "listen",
+          "text": "这里不能上楼。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我下来拿。",
+              "id": "s34_2_0015_reply01",
+              "meaning_vi": "Vậy tôi xuống lấy."
+            },
+            {
+              "text": "那放前台也可以。",
+              "id": "s34_2_0015_reply02",
+              "meaning_vi": "Hoặc để ở lễ tân cũng được."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "zhè li bù néng shàng lóu",
+          "mistakes": [
+            {
+              "text": "“不能上楼”可能是管理规定，不代表电梯坏了；要结合门禁情况理解。",
+              "text_vi": "Không được lên tầng có thể vì quy định tòa, không phải thang máy hỏng."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Ở đây không được lên tầng trên."
+        },
+        {
+          "id": "s34_2_0016",
+          "level": "listen",
+          "text": "我等你五分钟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我马上下来。",
+              "id": "s34_2_0016_reply01",
+              "meaning_vi": "Được, tôi xuống ngay."
+            },
+            {
+              "text": "不好意思，马上到。",
+              "id": "s34_2_0016_reply02",
+              "meaning_vi": "Xin lỗi, tôi tới ngay."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ děng nǐ wǔ fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“我等你五分钟”在催促语境可能带有时间限制，不是答应无限期等；“等”是骑手等你。",
+              "text_vi": "“Tôi đợi năm phút” có thể là giới hạn chờ, không có nghĩa sẽ chờ vô hạn."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi đợi bạn năm phút."
+        },
+        {
+          "id": "s34_2_0017",
+          "level": "listen",
+          "text": "麻烦来大门口拿。",
+          "alternatives": [
+            {
+              "text": "到大门口拿一下吧。",
+              "id": "s34_2_0017_alt01",
+              "meaning_vi": "Anh/chị ra cổng chính lấy nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我现在过去。",
+              "id": "s34_2_0017_reply01",
+              "meaning_vi": "Được, tôi ra ngay."
+            },
+            {
+              "text": "好的，稍等一下。",
+              "id": "s34_2_0017_reply02",
+              "meaning_vi": "Vâng, đợi chút nhé."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "má fan lái dà mén kǒu ná",
+          "mistakes": [
+            {
+              "text": "“大门口”通常是主要入口，与单元楼门口不同；去之前最好确认具体是哪道门。",
+              "text_vi": "“大门口” thường là cổng chính khu nhà, khác cửa từng tòa; nên xác nhận cổng nào."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Phiền anh/chị ra cổng chính lấy."
+        },
+        {
+          "id": "s34_2_0018",
+          "level": "listen",
+          "text": "我马上到楼下。",
+          "alternatives": [
+            {
+              "text": "我快到楼下了。",
+              "id": "s34_2_0018_alt01",
+              "meaning_vi": "Tôi gần xuống tới dưới nhà rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我在楼下等你。",
+              "id": "s34_2_0018_reply01",
+              "meaning_vi": "Được, tôi đợi bạn ở dưới nhà."
+            },
+            {
+              "text": "好的，到了告诉我。",
+              "id": "s34_2_0018_reply02",
+              "meaning_vi": "Vâng, đến nơi báo tôi."
+            }
+          ],
+          "lesson_id": "34.2",
+          "lesson_title": "34.2 联系骑手与碰面",
+          "pinyin": "wǒ mǎ shàng dào lóu xià",
+          "mistakes": [
+            {
+              "text": "“马上到楼下”还没到；和“我在楼下”已在下面不同，“马上”也不是精确的一分钟。",
+              "text_vi": "“Sắp tới dưới nhà” nghĩa là chưa tới, khác “tôi đang ở dưới nhà”; “ngay” không phải chính xác một phút."
+            }
+          ],
+          "lesson_title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+          "meaning_vi": "Tôi sắp xuống tới dưới nhà."
+        }
+      ],
+      "opening": "练习与外卖骑手确认东门、南门、楼下和前台等具体位置，询问是否可当面交付或代放。",
+      "subtitle": "18张高频卡 · 9必说 + 9必听",
+      "title_vi": "34.2 Liên hệ người giao đồ ăn và gặp mặt",
+      "opening_vi": "Luyện xác nhận cổng Đông, cổng Nam, dưới nhà, quầy lễ tân và lựa chọn giao tận tay hay để tại điểm hẹn.",
+      "subtitle_vi": "18 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "34.3",
+      "title": "34.3 催单与超时",
+      "phrases": [
+        {
+          "id": "s34_3_0001",
+          "level": "must",
+          "text": "外卖还要多久到？",
+          "alternatives": [
+            {
+              "text": "还要多久送到？",
+              "id": "s34_3_0001_alt01",
+              "meaning_vi": "Còn bao lâu nữa giao đến?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "预计再等十分钟。",
+              "id": "s34_3_0001_reply01",
+              "meaning_vi": "Dự kiến đợi thêm mười phút."
+            },
+            {
+              "text": "骑手马上到了。",
+              "id": "s34_3_0001_reply02",
+              "meaning_vi": "Người giao hàng sắp tới rồi."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "wài mài hái yào duō jiǔ dào",
+          "mistakes": [
+            {
+              "text": "这里的“多久到”问的是到达时间，不是商家做菜还需要多久；想问出餐要明确说“出餐”。",
+              "text_vi": "Câu này hỏi còn bao lâu đồ ăn đến, không phải quán nấu thêm bao lâu; nếu hỏi chế biến cần nói “出餐”."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Đồ ăn còn bao lâu nữa mới tới?"
+        },
+        {
+          "id": "s34_3_0002",
+          "level": "must",
+          "text": "已经超时了。",
+          "alternatives": [
+            {
+              "text": "已经超过预计时间了。",
+              "id": "s34_3_0002_alt01",
+              "meaning_vi": "Đã quá thời gian dự kiến."
+            }
+          ],
+          "replies": [
+            {
+              "text": "不好意思，我帮您催一下。",
+              "id": "s34_3_0002_reply01",
+              "meaning_vi": "Xin lỗi, để tôi nhắc giao hàng giúp anh/chị."
+            },
+            {
+              "text": "您也可以联系平台客服问一下。",
+              "id": "s34_3_0002_reply02",
+              "meaning_vi": "Anh/chị cũng có thể liên hệ hỗ trợ của nền tảng."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "yǐ jīng chāo shí le",
+          "mistakes": [
+            {
+              "text": "“超时”指超过约定或预计时间；并不自动说明平台一定会退款。",
+              "text_vi": "“超时” là quá thời gian hẹn hoặc dự kiến, không tự động được hoàn tiền."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Đã quá giờ dự kiến rồi."
+        },
+        {
+          "id": "s34_3_0003",
+          "level": "must",
+          "text": "骑手到哪儿了？",
+          "alternatives": [
+            {
+              "text": "骑手现在在哪儿？",
+              "id": "s34_3_0003_alt01",
+              "meaning_vi": "Người giao hàng hiện ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "骑手在路上。",
+              "id": "s34_3_0003_reply01",
+              "meaning_vi": "Đang trên đường."
+            },
+            {
+              "text": "骑手已经到附近了。",
+              "id": "s34_3_0003_reply02",
+              "meaning_vi": "Đã đến gần đây rồi."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "qí shǒu dào nǎr le",
+          "mistakes": [
+            {
+              "text": "“骑手”是外卖配送员，“到哪儿了”问目前进度，并不是问骑手的最终目的地。",
+              "text_vi": "“骑手” là người giao đồ ăn; hỏi “đến đâu rồi” là hỏi vị trí hiện tại, không phải điểm đến cuối."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Người giao đồ ăn đến đâu rồi?"
+        },
+        {
+          "id": "s34_3_0004",
+          "level": "must",
+          "text": "商家出餐了吗？",
+          "alternatives": [
+            {
+              "text": "餐做好了吗？",
+              "id": "s34_3_0004_alt01",
+              "meaning_vi": "Món ăn làm xong chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "刚出餐。",
+              "id": "s34_3_0004_reply01",
+              "meaning_vi": "Vừa làm xong."
+            },
+            {
+              "text": "还没有，还在制作。",
+              "id": "s34_3_0004_reply02",
+              "meaning_vi": "Chưa, vẫn đang chế biến."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "shāng jiā chū cān le ma",
+          "mistakes": [
+            {
+              "text": "外卖“出餐”是餐做好、可供骑手取走，不等于骑手已经取到，也不等于送达。",
+              "text_vi": "“出餐” là món đã làm xong để người giao lấy, chưa có nghĩa đã lấy hoặc giao đến."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Quán làm xong món chưa?"
+        },
+        {
+          "id": "s34_3_0005",
+          "level": "must",
+          "text": "订单已经晚了二十分钟。",
+          "alternatives": [
+            {
+              "text": "比预计时间晚了二十分钟。",
+              "id": "s34_3_0005_alt01",
+              "meaning_vi": "Trễ hơn dự kiến 20 phút rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "不好意思，我帮您跟进一下。",
+              "id": "s34_3_0005_reply01",
+              "meaning_vi": "Xin lỗi, để tôi kiểm tra tiến độ cho anh/chị."
+            },
+            {
+              "text": "您可以联系平台客服问一下超时处理。",
+              "id": "s34_3_0005_reply02",
+              "meaning_vi": "Anh/chị có thể hỏi bộ phận hỗ trợ về cách xử lý giao trễ."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "dìng dān yǐ jīng wǎn le èr shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“晚了二十分钟”是比预定时间迟了二十分钟，不是从下单起只等了二十分钟。",
+              "text_vi": "“Trễ 20 phút” là so với giờ dự kiến, không có nghĩa tổng thời gian đợi là 20 phút."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Đơn hàng đã trễ 20 phút."
+        },
+        {
+          "id": "s34_3_0006",
+          "level": "must",
+          "text": "商家还没出餐吗？",
+          "alternatives": [
+            {
+              "text": "还没做好吗？",
+              "id": "s34_3_0006_alt01",
+              "meaning_vi": "Vẫn chưa làm xong à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还没有，正在做。",
+              "id": "s34_3_0006_reply01",
+              "meaning_vi": "Chưa, vẫn đang làm."
+            },
+            {
+              "text": "刚刚出餐了。",
+              "id": "s34_3_0006_reply02",
+              "meaning_vi": "Vừa mới làm xong rồi."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "shāng jiā hái méi chū cān ma",
+          "mistakes": [
+            {
+              "text": "带“还没……吗”常含有‘怎么还没有’的意外或催促语气；比“出餐了吗”更容易让对方感到被催。",
+              "text_vi": "“还没……吗” thường mang ý ngạc nhiên hoặc giục, dễ tạo cảm giác bị thúc hơn câu hỏi trung tính."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Quán vẫn chưa làm xong món à?"
+        },
+        {
+          "id": "s34_3_0007",
+          "level": "must",
+          "text": "如果再晚可以取消吗？",
+          "alternatives": [
+            {
+              "text": "再晚的话能不能取消？",
+              "id": "s34_3_0007_alt01",
+              "meaning_vi": "Nếu giao trễ thêm thì hủy được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以在平台上看看能不能申请取消。",
+              "id": "s34_3_0007_reply01",
+              "meaning_vi": "Anh/chị có thể xem trên ứng dụng có yêu cầu hủy được không."
+            },
+            {
+              "text": "要看订单当前状态。",
+              "id": "s34_3_0007_reply02",
+              "meaning_vi": "Còn tùy trạng thái đơn hiện tại."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "rú guǒ zài wǎn kě yǐ qǔ xiāo ma",
+          "mistakes": [
+            {
+              "text": "“如果再晚”是假设以后继续晚，不等于现在已经申请取消；是否免费取消还要看订单状态。",
+              "text_vi": "“Nếu còn trễ” là điều kiện giả định tương lai, chưa phải đã hủy; điều kiện hủy tùy trạng thái đơn."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Nếu còn trễ nữa thì có thể hủy không?"
+        },
+        {
+          "id": "s34_3_0008",
+          "level": "listen",
+          "text": "马上到了。",
+          "alternatives": [
+            {
+              "text": "快到了。",
+              "id": "s34_3_0008_alt01",
+              "meaning_vi": "Gần tới rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我等你。",
+              "id": "s34_3_0008_reply01",
+              "meaning_vi": "Được, tôi đợi bạn."
+            },
+            {
+              "text": "好的，到了告诉我。",
+              "id": "s34_3_0008_reply02",
+              "meaning_vi": "Vâng, tới nơi báo tôi nhé."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "mǎ shàng dào le",
+          "mistakes": [
+            {
+              "text": "“马上到了”表示将要到，不是已经到；对方还在路上时不要当成可以立即取餐。",
+              "text_vi": "“Sắp đến” chưa phải đã tới; không nên hiểu thành có thể lấy ngay."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Sắp tới rồi."
+        },
+        {
+          "id": "s34_3_0009",
+          "level": "listen",
+          "text": "店里出餐慢。",
+          "alternatives": [
+            {
+              "text": "商家做得有点慢。",
+              "id": "s34_3_0009_alt01",
+              "meaning_vi": "Quán chuẩn bị đồ ăn hơi lâu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那还要等多久？",
+              "id": "s34_3_0009_reply01",
+              "meaning_vi": "Vậy còn phải đợi bao lâu?"
+            },
+            {
+              "text": "麻烦帮我催一下。",
+              "id": "s34_3_0009_reply02",
+              "meaning_vi": "Phiền nhắc quán giúp tôi nhé."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "diàn lǐ chū cān màn",
+          "mistakes": [
+            {
+              "text": "“店里出餐慢”指出延迟发生在餐厅备餐环节，不一定是骑手送得慢。",
+              "text_vi": "“Quán làm món chậm” là chậm ở giai đoạn chế biến, không chắc do người giao đi chậm."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Quán làm món hơi chậm."
+        },
+        {
+          "id": "s34_3_0010",
+          "level": "listen",
+          "text": "骑手在路上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我再等一下。",
+              "id": "s34_3_0010_reply01",
+              "meaning_vi": "Được, tôi đợi thêm chút."
+            },
+            {
+              "text": "大概还要多久？",
+              "id": "s34_3_0010_reply02",
+              "meaning_vi": "Còn khoảng bao lâu nữa?"
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "qí shǒu zài lù shang",
+          "mistakes": [
+            {
+              "text": "“在路上”表示途中，不说明具体距离；不能凭这句判断只剩一两分钟。",
+              "text_vi": "“Đang trên đường” không nói khoảng cách hay số phút còn lại."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Người giao hàng đang trên đường."
+        },
+        {
+          "id": "s34_3_0011",
+          "level": "listen",
+          "text": "我帮您催。",
+          "alternatives": [
+            {
+              "text": "我帮您联系催一下。",
+              "id": "s34_3_0011_alt01",
+              "meaning_vi": "Để tôi liên hệ nhắc giúp anh/chị."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s34_3_0011_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "麻烦您了。",
+              "id": "s34_3_0011_reply02",
+              "meaning_vi": "Phiền anh/chị nhé."
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "wǒ bāng nín cuī",
+          "mistakes": [
+            {
+              "text": "“催”是催促对方加快进度，不是客服本人去送餐；“帮您”表示替顾客联系。",
+              "text_vi": "“催” là nhắc bên khác đẩy nhanh, không phải nhân viên hỗ trợ tự mang đồ đi giao."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Để tôi nhắc họ giúp anh/chị."
+        },
+        {
+          "id": "s34_3_0012",
+          "level": "listen",
+          "text": "商家刚出餐。",
+          "alternatives": [
+            {
+              "text": "店家刚做好。",
+              "id": "s34_3_0012_alt01",
+              "meaning_vi": "Quán mới làm xong."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我再等一下。",
+              "id": "s34_3_0012_reply01",
+              "meaning_vi": "Được, tôi đợi thêm chút."
+            },
+            {
+              "text": "骑手拿到餐了吗？",
+              "id": "s34_3_0012_reply02",
+              "meaning_vi": "Người giao đã lấy đồ ăn chưa?"
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "shāng jiā gāng chū cān",
+          "mistakes": [
+            {
+              "text": "“刚出餐”只表示店里刚把餐做好，仍需骑手取走和配送；不可直接把它理解为马上收到餐。",
+              "text_vi": "“Vừa ra món” chỉ quán mới nấu xong, còn phải lấy và giao, không phải sắp nhận ngay."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Quán vừa làm xong món."
+        },
+        {
+          "id": "s34_3_0013",
+          "level": "listen",
+          "text": "骑手正在取餐。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s34_3_0013_reply01",
+              "meaning_vi": "Được, tôi biết rồi."
+            },
+            {
+              "text": "那大概多久到？",
+              "id": "s34_3_0013_reply02",
+              "meaning_vi": "Vậy khoảng bao lâu nữa tới?"
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "qí shǒu zhèng zài qǔ cān",
+          "mistakes": [
+            {
+              "text": "“正在取餐”表示领取动作进行中；与“已取餐”完成领取不同。",
+              "text_vi": "“正在取餐” là đang lấy đồ, khác “已取餐” là đã lấy xong."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Nhân viên giao hàng đang lấy đồ ăn."
+        },
+        {
+          "id": "s34_3_0014",
+          "level": "listen",
+          "text": "预计再等十分钟。",
+          "alternatives": [
+            {
+              "text": "大概还要十分钟。",
+              "id": "s34_3_0014_alt01",
+              "meaning_vi": "Khoảng mười phút nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我再等十分钟。",
+              "id": "s34_3_0014_reply01",
+              "meaning_vi": "Được, tôi đợi thêm mười phút."
+            },
+            {
+              "text": "如果再晚可以取消吗？",
+              "id": "s34_3_0014_reply02",
+              "meaning_vi": "Nếu trễ nữa thì có thể hủy không?"
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "yù jì zài děng shí fēn zhōng",
+          "mistakes": [
+            {
+              "text": "“再等十分钟”是从现在起另外等十分钟，不是整张订单一共只花十分钟。",
+              "text_vi": "“Đợi thêm mười phút” là từ bây giờ thêm mười phút, không phải cả đơn chỉ mất mười phút."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Dự kiến đợi thêm mười phút."
+        },
+        {
+          "id": "s34_3_0015",
+          "level": "listen",
+          "text": "超时可以联系平台客服咨询。",
+          "alternatives": [
+            {
+              "text": "超时可以找平台客服问问。",
+              "id": "s34_3_0015_alt01",
+              "meaning_vi": "Nếu quá giờ thì hỏi bộ phận hỗ trợ của ứng dụng nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去问一下。",
+              "id": "s34_3_0015_reply01",
+              "meaning_vi": "Được, tôi sẽ hỏi."
+            },
+            {
+              "text": "平台能帮我查一下超时原因吗？",
+              "id": "s34_3_0015_reply02",
+              "meaning_vi": "Nền tảng có thể tra nguyên nhân giao trễ giúp tôi không?"
+            }
+          ],
+          "lesson_id": "34.3",
+          "lesson_title": "34.3 催单与超时",
+          "pinyin": "chāo shí kě yǐ lián xì píng tái kè fú zī xún",
+          "mistakes": [
+            {
+              "text": "“咨询”是询问规定或办法，不是保证赔偿；平台客服和餐厅店员不一定是同一人。",
+              "text_vi": "“咨询” chỉ hỏi quy định hoặc cách xử lý, không phải chắc chắn được bồi thường; hỗ trợ nền tảng khác nhân viên quán."
+            }
+          ],
+          "lesson_title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+          "meaning_vi": "Nếu giao quá giờ, có thể hỏi bộ phận hỗ trợ của nền tảng."
+        }
+      ],
+      "opening": "练习礼貌询问外卖预计到达时间、商家是否出餐、骑手是否取餐以及超时后怎样联系平台。",
+      "subtitle": "15张高频卡 · 7必说 + 8必听",
+      "title_vi": "34.3 Hỏi tiến độ và đơn giao trễ",
+      "opening_vi": "Luyện hỏi thời gian dự kiến đến, quán đã làm xong chưa, người giao đã lấy món chưa và cách hỏi nền tảng khi trễ.",
+      "subtitle_vi": "15 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "34.4",
+      "title": "34.4 少送错送与退款",
+      "phrases": [
+        {
+          "id": "s34_4_0001",
+          "level": "must",
+          "text": "少送了一份。",
+          "alternatives": [
+            {
+              "text": "少了一份。",
+              "id": "s34_4_0001_alt01",
+              "meaning_vi": "Thiếu một phần."
+            }
+          ],
+          "replies": [
+            {
+              "text": "非常抱歉，我帮您核实一下。",
+              "id": "s34_4_0001_reply01",
+              "meaning_vi": "Rất xin lỗi, để tôi kiểm tra."
+            },
+            {
+              "text": "可以看看能不能补送或者退款。",
+              "id": "s34_4_0001_reply02",
+              "meaning_vi": "Có thể xem xét giao bù hoặc hoàn tiền."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "shǎo sòng le yí fèn",
+          "mistakes": [
+            {
+              "text": "“少送”是数量不足；“送错”是送来的品种不对，两者处理时都要核对订单。",
+              "text_vi": "“少送” là giao thiếu số lượng, “送错” là giao sai món; phải đối chiếu đơn."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Giao thiếu một phần đồ ăn."
+        },
+        {
+          "id": "s34_4_0002",
+          "level": "must",
+          "text": "外卖送错了。",
+          "alternatives": [
+            {
+              "text": "送来的不是我点的。",
+              "id": "s34_4_0002_alt01",
+              "meaning_vi": "Món giao tới không phải món tôi đặt."
+            }
+          ],
+          "replies": [
+            {
+              "text": "非常抱歉，请先拍张照片。",
+              "id": "s34_4_0002_reply01",
+              "meaning_vi": "Rất xin lỗi, anh/chị chụp ảnh trước nhé."
+            },
+            {
+              "text": "我帮您看看怎么处理。",
+              "id": "s34_4_0002_reply02",
+              "meaning_vi": "Để tôi kiểm tra cách xử lý."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "wài mài sòng cuò le",
+          "mistakes": [
+            {
+              "text": "“送错了”可以指送成别人的订单或餐品不对，未必知道究竟是商家还是骑手出的错。",
+              "text_vi": "“Giao nhầm” có thể là đơn người khác hoặc món sai; chưa xác định lỗi do quán hay người giao."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Đồ ăn giao nhầm rồi."
+        },
+        {
+          "id": "s34_4_0003",
+          "level": "must",
+          "text": "饮料没送。",
+          "alternatives": [
+            {
+              "text": "饮料漏送了。",
+              "id": "s34_4_0003_alt01",
+              "meaning_vi": "Đồ uống bị giao thiếu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "抱歉，我帮您核实一下。",
+              "id": "s34_4_0003_reply01",
+              "meaning_vi": "Xin lỗi, để tôi kiểm tra."
+            },
+            {
+              "text": "可以看看能不能补送或者退款。",
+              "id": "s34_4_0003_reply02",
+              "meaning_vi": "Có thể xem xét giao bù hoặc hoàn tiền."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "yǐn liào méi sòng",
+          "mistakes": [
+            {
+              "text": "“没送”是没有送来，不等于“洒了”饮料已送到却泼洒；可先核对小票。",
+              "text_vi": "“没送” là chưa giao, khác “洒了” là đã giao nhưng bị đổ; kiểm tra hóa đơn."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Chưa giao đồ uống."
+        },
+        {
+          "id": "s34_4_0004",
+          "level": "must",
+          "text": "可以补送吗？",
+          "alternatives": [
+            {
+              "text": "麻烦补送一下。",
+              "id": "s34_4_0004_alt01",
+              "meaning_vi": "Phiền giao bù giúp tôi nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您确认一下能不能补送。",
+              "id": "s34_4_0004_reply01",
+              "meaning_vi": "Để tôi xác nhận có giao bù được không."
+            },
+            {
+              "text": "要看商家和订单现在的情况。",
+              "id": "s34_4_0004_reply02",
+              "meaning_vi": "Còn tùy quán và tình trạng đơn hiện tại."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "kě yǐ bǔ sòng ma",
+          "mistakes": [
+            {
+              "text": "“补送”是补发缺少的餐品，不是把整单重新配送；若无法补送，可询问相应商品的退款方案。",
+              "text_vi": "“补送” là giao bổ sung món thiếu, không phải giao lại cả đơn; không được thì hỏi hoàn riêng phần thiếu."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Có thể giao bù được không?"
+        },
+        {
+          "id": "s34_4_0005",
+          "level": "must",
+          "text": "我要申请退款。",
+          "alternatives": [
+            {
+              "text": "我想申请退款。",
+              "id": "s34_4_0005_alt01",
+              "meaning_vi": "Tôi muốn gửi yêu cầu hoàn tiền."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您看看退款怎么申请。",
+              "id": "s34_4_0005_reply01",
+              "meaning_vi": "Để tôi xem cách yêu cầu hoàn tiền cho anh/chị."
+            },
+            {
+              "text": "也可以联系平台客服咨询。",
+              "id": "s34_4_0005_reply02",
+              "meaning_vi": "Anh/chị cũng có thể hỏi bộ phận hỗ trợ nền tảng."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "wǒ yào shēn qǐng tuì kuǎn",
+          "mistakes": [
+            {
+              "text": "“申请退款”是提出请求，不表示退款已批准；“退款”比“退钱”更常见于平台售后。",
+              "text_vi": "“申请退款” là gửi yêu cầu hoàn tiền, không có nghĩa được duyệt; dùng phổ biến trong hậu mãi trên ứng dụng."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Tôi muốn yêu cầu hoàn tiền."
+        },
+        {
+          "id": "s34_4_0006",
+          "level": "must",
+          "text": "只退少送的这部分钱可以吗？",
+          "alternatives": [
+            {
+              "text": "只退没送到的那部分，可以吗？",
+              "id": "s34_4_0006_alt01",
+              "meaning_vi": "Chỉ hoàn phần chưa giao đến được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以申请部分退款。",
+              "id": "s34_4_0006_reply01",
+              "meaning_vi": "Có thể yêu cầu hoàn một phần tiền."
+            },
+            {
+              "text": "可以先申请，具体要看处理结果。",
+              "id": "s34_4_0006_reply02",
+              "meaning_vi": "Có thể gửi yêu cầu trước, còn tùy kết quả xử lý."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "zhǐ tuì shǎo sòng de zhè bù fèn qián kě yǐ ma",
+          "mistakes": [
+            {
+              "text": "“只退这部分钱”是部分退款，不是整单取消或所有钱全部退回。",
+              "text_vi": "“Chỉ hoàn phần này” là hoàn một phần, không hủy toàn bộ đơn."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Có thể chỉ hoàn tiền phần giao thiếu không?"
+        },
+        {
+          "id": "s34_4_0007",
+          "level": "must",
+          "text": "餐具少了一套。",
+          "alternatives": [
+            {
+              "text": "少给了一套餐具。",
+              "id": "s34_4_0007_alt01",
+              "meaning_vi": "Giao thiếu một bộ dụng cụ ăn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "抱歉，我帮您确认一下。",
+              "id": "s34_4_0007_reply01",
+              "meaning_vi": "Xin lỗi, để tôi kiểm tra."
+            },
+            {
+              "text": "如果还需要，可以问商家能不能补送。",
+              "id": "s34_4_0007_reply02",
+              "meaning_vi": "Nếu vẫn cần, có thể hỏi quán có giao bổ sung được không."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "cān jù shǎo le yí tào",
+          "mistakes": [
+            {
+              "text": "“一套”指一整组供一人使用的餐具，不是只少一根筷子；与“少送一份餐”也不同。",
+              "text_vi": "Một “套” là cả bộ dụng cụ ăn, khác thiếu một chiếc đũa hoặc thiếu một suất ăn."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Thiếu một bộ dụng cụ ăn."
+        },
+        {
+          "id": "s34_4_0008",
+          "level": "must",
+          "text": "饮料洒了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请先拍照留一下记录。",
+              "id": "s34_4_0008_reply01",
+              "meaning_vi": "Vui lòng chụp ảnh để lưu lại."
+            },
+            {
+              "text": "可以申请售后处理。",
+              "id": "s34_4_0008_reply02",
+              "meaning_vi": "Có thể yêu cầu xử lý sau bán hàng."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "yǐn liào sǎ le",
+          "mistakes": [
+            {
+              "text": "“洒了”表示液体泼洒，和“没送”完全不同；要保留照片证明送来时的状态。",
+              "text_vi": "“洒了” là đồ uống bị đổ, khác “没送” là không giao; giữ ảnh tình trạng khi giao."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Đồ uống bị đổ rồi."
+        },
+        {
+          "id": "s34_4_0009",
+          "level": "must",
+          "text": "餐品被压坏了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "麻烦拍一下受损情况。",
+              "id": "s34_4_0009_reply01",
+              "meaning_vi": "Phiền chụp ảnh phần bị hỏng."
+            },
+            {
+              "text": "可以联系平台申请售后。",
+              "id": "s34_4_0009_reply02",
+              "meaning_vi": "Có thể liên hệ nền tảng yêu cầu xử lý."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "cān pǐn bèi yā huài le",
+          "mistakes": [
+            {
+              "text": "“压坏”强调受到挤压而损坏，不一定是食物变质；是否能食用应另看卫生和安全情况。",
+              "text_vi": "“压坏” là đồ ăn bị đè bẹp, chưa chắc bị ôi hỏng; cần xét an toàn thực phẩm riêng."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Đồ ăn bị đè nát rồi."
+        },
+        {
+          "id": "s34_4_0010",
+          "level": "listen",
+          "text": "请拍照。",
+          "alternatives": [
+            {
+              "text": "麻烦拍张照片。",
+              "id": "s34_4_0010_alt01",
+              "meaning_vi": "Phiền chụp một tấm ảnh nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我现在拍。",
+              "id": "s34_4_0010_reply01",
+              "meaning_vi": "Được, tôi chụp ngay."
+            },
+            {
+              "text": "需要拍哪些地方？",
+              "id": "s34_4_0010_reply02",
+              "meaning_vi": "Cần chụp những phần nào?"
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "qǐng pāi zhào",
+          "mistakes": [
+            {
+              "text": "“拍照”只是拍下照片；与“上传照片”把照片提交到平台是两步。",
+              "text_vi": "Chụp ảnh và tải ảnh lên hệ thống là hai bước khác nhau."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Vui lòng chụp ảnh."
+        },
+        {
+          "id": "s34_4_0011",
+          "level": "listen",
+          "text": "我们给您补送。",
+          "alternatives": [
+            {
+              "text": "我们会补送给您。",
+              "id": "s34_4_0011_alt01",
+              "meaning_vi": "Chúng tôi sẽ giao bổ sung."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s34_4_0011_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "大概多久能送到？",
+              "id": "s34_4_0011_reply02",
+              "meaning_vi": "Khoảng bao lâu nữa giao tới?"
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "wǒ men gěi nín bǔ sòng",
+          "mistakes": [
+            {
+              "text": "“我们给您补送”是商家承诺补送，不等于骑手现在已在路上；可以接着问预计多久到。",
+              "text_vi": "“Sẽ giao bù” là quán hứa xử lý, chưa có nghĩa người giao đang tới; có thể hỏi dự kiến."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Bên tôi sẽ giao bù cho anh/chị."
+        },
+        {
+          "id": "s34_4_0012",
+          "level": "listen",
+          "text": "可以退这部分钱。",
+          "alternatives": [
+            {
+              "text": "这部分可以退款。",
+              "id": "s34_4_0012_alt01",
+              "meaning_vi": "Phần này có thể được hoàn tiền."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那就退这部分。",
+              "id": "s34_4_0012_reply01",
+              "meaning_vi": "Được, vậy hoàn phần này nhé."
+            },
+            {
+              "text": "退款大概多久到账？",
+              "id": "s34_4_0012_reply02",
+              "meaning_vi": "Khoảng bao lâu tiền mới về?"
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "kě yǐ tuì zhè bù fèn qián",
+          "mistakes": [
+            {
+              "text": "“退这部分钱”仅涉及有问题的金额；退款方式和到账时间还需另行确认。",
+              "text_vi": "Chỉ hoàn phần tiền có vấn đề; cần xác nhận kênh hoàn và lúc tiền về."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Có thể hoàn lại phần tiền này."
+        },
+        {
+          "id": "s34_4_0013",
+          "level": "listen",
+          "text": "联系平台客服。",
+          "alternatives": [
+            {
+              "text": "可以找平台客服。",
+              "id": "s34_4_0013_alt01",
+              "meaning_vi": "Có thể hỏi hỗ trợ của nền tảng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我去联系。",
+              "id": "s34_4_0013_reply01",
+              "meaning_vi": "Được, tôi sẽ liên hệ."
+            },
+            {
+              "text": "好的，我问一下怎么处理。",
+              "id": "s34_4_0013_reply02",
+              "meaning_vi": "Vâng, tôi hỏi cách xử lý."
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "lián xì píng tái kè fú",
+          "mistakes": [
+            {
+              "text": "“平台客服”是外卖应用或平台的客服，不一定是这家餐厅接电话的人。",
+              "text_vi": "Hỗ trợ của nền tảng là bộ phận ứng dụng giao đồ ăn, không nhất thiết là nhân viên quán."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Hãy liên hệ bộ phận hỗ trợ của nền tảng."
+        },
+        {
+          "id": "s34_4_0014",
+          "level": "listen",
+          "text": "这部分退款会原路退回。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我知道了。",
+              "id": "s34_4_0014_reply01",
+              "meaning_vi": "Vâng, tôi biết rồi."
+            },
+            {
+              "text": "大概多久到账？",
+              "id": "s34_4_0014_reply02",
+              "meaning_vi": "Bao lâu nữa tiền về tài khoản?"
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "zhè bù fèn tuì kuǎn huì yuán lù tuì huí",
+          "mistakes": [
+            {
+              "text": "“原路退回”指通过原支付渠道退回，不是骑手送现金；“会退回”也不表示钱已经到账，到账时间需另问。",
+              "text_vi": "“原路退回” là hoàn về kênh đã thanh toán, không phải giao tiền mặt; “sẽ hoàn” chưa phải tiền đã về."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Số tiền này sẽ hoàn về phương thức thanh toán ban đầu."
+        },
+        {
+          "id": "s34_4_0015",
+          "level": "listen",
+          "text": "请保留有问题的餐品。",
+          "alternatives": [
+            {
+              "text": "先别扔有问题的餐品。",
+              "id": "s34_4_0015_alt01",
+              "meaning_vi": "Đừng vứt món ăn bị lỗi vội."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先留着。",
+              "id": "s34_4_0015_reply01",
+              "meaning_vi": "Được, tôi giữ lại trước."
+            },
+            {
+              "text": "需要留多久？",
+              "id": "s34_4_0015_reply02",
+              "meaning_vi": "Cần giữ trong bao lâu?"
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "qǐng bǎo liú yǒu wèn tí de cān pǐn",
+          "mistakes": [
+            {
+              "text": "“保留”是暂时留作核对，不代表必须吃掉有问题的食物；易变质食品要注意卫生安全。",
+              "text_vi": "Giữ món lỗi để đối chiếu không có nghĩa phải ăn; đồ ăn dễ hỏng cần chú ý an toàn vệ sinh."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Vui lòng giữ lại món ăn có vấn đề."
+        },
+        {
+          "id": "s34_4_0016",
+          "level": "listen",
+          "text": "可以申请部分退款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我申请部分退款。",
+              "id": "s34_4_0016_reply01",
+              "meaning_vi": "Được, tôi sẽ yêu cầu hoàn một phần."
+            },
+            {
+              "text": "需要上传照片吗？",
+              "id": "s34_4_0016_reply02",
+              "meaning_vi": "Có cần tải ảnh lên không?"
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "kě yǐ shēn qǐng bù fèn tuì kuǎn",
+          "mistakes": [
+            {
+              "text": "“可以申请”表示有权提出申请，不保证自动审核通过；“部分”表示不是全部金额。",
+              "text_vi": "“Có thể yêu cầu” chỉ được gửi hồ sơ, không đảm bảo được duyệt; “một phần” không phải toàn bộ tiền."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Có thể yêu cầu hoàn một phần tiền."
+        },
+        {
+          "id": "s34_4_0017",
+          "level": "listen",
+          "text": "请上传问题照片。",
+          "alternatives": [
+            {
+              "text": "麻烦上传一下照片。",
+              "id": "s34_4_0017_alt01",
+              "meaning_vi": "Phiền tải ảnh lên giúp nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我现在上传。",
+              "id": "s34_4_0017_reply01",
+              "meaning_vi": "Được, tôi tải lên ngay."
+            },
+            {
+              "text": "需要拍哪些地方？",
+              "id": "s34_4_0017_reply02",
+              "meaning_vi": "Cần chụp những chỗ nào?"
+            }
+          ],
+          "lesson_id": "34.4",
+          "lesson_title": "34.4 少送错送与退款",
+          "pinyin": "qǐng shàng chuán wèn tí zhào piān",
+          "mistakes": [
+            {
+              "text": "“上传”是把照片提交给平台，不只是手机里拍一张；照片应尽量拍清餐品、包装和问题位置。",
+              "text_vi": "“上传” là đưa ảnh lên nền tảng, không chỉ chụp ảnh; nên chụp rõ món, bao bì và chỗ bị lỗi."
+            }
+          ],
+          "lesson_title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+          "meaning_vi": "Vui lòng tải ảnh về sự cố lên."
+        }
+      ],
+      "opening": "练习少送、错送、洒漏时说明问题，保存照片并询问补送或部分退款；退款申请不等于到账。",
+      "subtitle": "17张高频卡 · 9必说 + 8必听",
+      "title_vi": "34.4 Giao thiếu, giao nhầm và hoàn tiền",
+      "opening_vi": "Luyện báo thiếu món, giao sai hoặc làm đổ, lưu ảnh và đề nghị giao bù hoặc hoàn một phần; gửi yêu cầu chưa có nghĩa tiền đã về.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T16:25:41.062Z",
+  "theme_title": "34 外卖取餐",
+  "quality_standard": "Vietnamese natural spoken translation of theme 34; Chinese, IDs, pinyin, order, categories, levels and all 68 main cards, nested phrases, notes preserved. Stages of order acceptance, food preparation, pickup, delivery and partial refunds differentiated. Final independent native, audio and app QA pending.",
+  "source_phrase_count": 76,
+  "card_count": 68,
+  "lesson_counts": {
+    "34.1": 18,
+    "34.2": 18,
+    "34.3": 15,
+    "34.4": 17
+  },
+  "theme_title_vi": "34 Đặt đồ ăn giao tận nơi"
+}
