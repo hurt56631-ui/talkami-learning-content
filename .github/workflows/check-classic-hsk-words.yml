@@ -21,6 +21,24 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+      - name: Verify release builder accepts real Chinese and Burmese collocations
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import importlib.util
+          import json
+          from pathlib import Path
+
+          path = Path('scripts/build_release.py')
+          spec = importlib.util.spec_from_file_location('talkami_release_builder', path)
+          module = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(module)
+          for level in ('hsk2', 'hsk3'):
+              words_path = Path(f'content/words/packs/{level}.json')
+              words = json.loads(words_path.read_text(encoding='utf-8'))
+              module._validate_word_records(words, words_path, level)
+          print('Release builder Unicode collocation validation passed for classic HSK2–3')
+          PY
       - name: Check release script syntax and full bilingual vocabulary
         shell: bash
         run: |
