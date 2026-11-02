@@ -1,0 +1,32 @@
+name: Validate Talkami practical CN-MM vocabulary packs
+
+on:
+  pull_request:
+    paths:
+      - 'content/words/catalog.json'
+      - 'content/words/packs/practical_16_v5/**'
+      - 'content/words/covers/practical_*.png'
+      - 'content/words/practical_16_v5_audio_words_only.csv'
+      - 'scripts/check_practical_word_packs.py'
+      - '.github/workflows/check-practical-word-packs.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'content/words/catalog.json'
+      - 'content/words/packs/practical_16_v5/**'
+      - 'content/words/covers/practical_*.png'
+      - 'content/words/practical_16_v5_audio_words_only.csv'
+      - 'scripts/check_practical_word_packs.py'
+      - '.github/workflows/check-practical-word-packs.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate-practical:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate 4500 practical words, 16 category covers and word-only audio manifest
+        run: python3 scripts/check_practical_word_packs.py

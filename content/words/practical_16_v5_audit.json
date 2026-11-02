@@ -27,10 +27,11 @@
     "每词仅中文词目需要一条音频（应用端单独生成），本 PR 未提供音频文件；搭配和例句完全不包含内容。",
     "WiFi、U盘、T恤 等混合拉丁字母词目，TTS 读取需在应用端试听或配置朗读策略。",
     "词库主题分类不等同于官方 HSK 等级。practical 标记实用词典，不应显示成 HSK1-4 考试词。",
-    "需要应用端验证 data_url 路径、分类跳转、封面配置、空搭配例句字段的 UI 兼容性。",
     "Release 构建器的 safe_asset_name 不接受斜杠，本次把目录草案 data_url 改为平铺 JSON 文件名。",
-    "catalog 草案尚缺每类封面及 cover_url、cover_version、source_cover，正式发布前必须补齐并合并目录。",
-    "本次只准备 4500 个中文词目对应的可选 TTS 清单；没有搭配、例句配音任务，也未生成音频。特殊词目需先试听。"
+    "本次只准备 4500 个中文词目对应的可选 TTS 清单；没有搭配、例句配音任务，也未生成音频。特殊词目需先试听。",
+    "16 张独立 PNG 分类封面已添加到 content/words/covers，正式 catalog.json 已追加 16 个分类入口；仍需 Release 发布和 App 端实际验证。",
+    "封面为无缅文文字的主题图标，16 个标题由 catalog title 显示，避免在图像中文字识别错误。",
+    "此次接入不更改 4500 词条的四列内容、稳定 ID、分类或 HSK1–4 原文件。"
   ],
   "categories": [
     {
@@ -1926,5 +1927,19 @@
       "血"
     ],
     "note": "仅提供可选批量配音清单，未生成 MP3；设备中文TTS可以直接朗读词目。"
+  },
+  "release_integration": {
+    "catalog_path": "content/words/catalog.json",
+    "catalog_version": 7,
+    "practical_categories": 16,
+    "practical_words": 4500,
+    "legacy_hsk_entries_retained": 3,
+    "source_cover_pattern": "content/words/covers/practical_XX.png",
+    "cover_format": "image/png",
+    "cover_count": 16,
+    "data_asset_pattern": "talkami-practical-XX-v5.json",
+    "cover_asset_pattern": "talkami-practical-XX-cover-v1.png",
+    "status": "integrated_source_waiting_for_release",
+    "next_step": "Publish learning content workflow on main, then test App loading"
   }
 }
