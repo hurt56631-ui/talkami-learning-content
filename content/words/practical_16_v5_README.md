@@ -46,7 +46,7 @@
 1. `level: "practical"` 表示实用词典，不是 HSK 官方考试等级。
 2. 前端需要容忍 `collocations: []` 和 `examples: []`；上线前测试词典卡片、类别跳转及异体字/英文缩写配音。
 3. 4500 条缅语释义来自用户精校 V4，只有定向修正；**仍未通过缅语母语老师全部逐条终审**，不得宣传 100% 无误。
-4. 词库目录和封面已在待合并分支中准备；正式上线需合并至 main、运行 GitHub Release 发布并实测 App。
+4. 词库目录与 16 张封面已合并到 main，Release content-v1.6.40 已正式发布；仍需在 App 端确认目录刷新、词卡和中文 TTS。
 
 ## 第三轮优化：最小配音与目录接入检查
 
@@ -54,7 +54,7 @@
 - 需要批量录音时，使用 `content/words/practical_16_v5_audio_words_only.csv` 的 **4500** 个独立词目（包含稳定 ID、中文词目、拼音、原分类调整后的分类、建议文件名、TTS 待试听标志）。本次没有生成或上传音频。
 - `WiFi`、`U盘`、`T恤`、`喂` 和 `血` 的读音需特别试听；其他词也不能保证 TTS 自动朗读毫无偏差。
 - `scripts/build_release.py` 的 `safe_asset_name` 仅接受文件名，原目录草案里的 `practical_16_v5/category_XX.json` **不能用作 Release 的 data_url**。现已改为 `talkami-practical-XX-v5.json`。源码 JSON 仍放在 `practical_16_v5/category_XX.json`，由发布器打包输出为平铺资源。
-- 已补齐 16 张独立 PNG 分类封面；正式 catalog.json 已增加 16 个入口。仍需成功运行 Release 发布并在 App 检查分类加载。
+- 已补齐 16 张独立 PNG 分类封面；正式 catalog.json 已增加 16 个入口。已成功发布 content-v1.6.40；仍需在 App 检查分类加载。
 - 原 HSK1–4 的词包未作修改，正式目录以新增入口方式升级；本次只接入实用词词典，不给 HSK 文件增加或删除例句。
 
 ## 第四轮：16 张封面与正式目录接入（2026-11-02）
@@ -65,3 +65,13 @@
 - 新词典共 4500 条，严格不含搭配、例句。封面 PNG 作为配图，词目可以使用 App 中文 TTS；没有新增任何录音文件。
 - **合并仓库 ≠ 发布应用内容**：需在 GitHub Actions 的 `Publish learning content` 触发新 Release 版本（如 `1.6.40`；使用前检查该版本未占用），验证 `words-catalog.json` 和 16 对分类数据包/封面均在新 Release 中，再在 App 中打开分类进行实测。
 - 源词典未经缅语母语老师全部 4500 条逐词终审，本次主要完成数据质量与接入路径校验。
+
+## 第五轮：正式内容发布验收
+
+- **2026-11-02 已发布**：[content-v1.6.40](https://github.com/hurt56631-ui/talkami-learning-content/releases/tag/content-v1.6.40)，官方 Publish learning content 工作流状态为 success。
+- Release 总计 **147** 个资源文件；已核对 16 个 `talkami-practical-XX-v5.json` 与 16 个 `talkami-practical-XX-cover-v1.png` 全部存在，无缺失。
+- `words-catalog.json` 以及旧版 HSK1、HSK2、HSK3 数据包都在 Release 中，兼容原有词库入口。
+- 为修复历史 HSK2 搭配检测误报，将发布器中中文和缅文字元范围正则的双反斜杠改为单反斜杠，保留 HSK 词包数据原样；增加 HSK2/3 原发布器回归检查。
+- 本次发布没有新增音频文件，实用词只需中文词目 TTS；搭配和例句为零。
+- 一次性发布调度 workflow 已在后续清理提交中删除，今后应按仓库常规工作流手动指定新的 Release 版本。
+- **尚未在用户设备上完成 Talkami App 实测**；需确认 App 的远程 Release 基础 URL、缓存刷新、16 个分类卡片、空搭配例句、词目音频朗读是否正常。
