@@ -3,10 +3,14 @@
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 73,
-  "free_count": 73,
+  "item_count": 729,
+  "free_count": 307,
   "free_theme_ids": [
-    "01"
+    "01",
+    "02",
+    "03",
+    "04",
+    "05"
   ],
   "data_format": "theme-json-v1",
   "zones": [
@@ -52,15 +56,351 @@
           "data_version": 1,
           "lesson_count": 4,
           "title_vi": "01 Chào hỏi và trò chuyện xã giao"
+        },
+        {
+          "theme_id": "02",
+          "title": "感谢道歉",
+          "status": "available",
+          "free": true,
+          "phrase_count": 55,
+          "lessons": [
+            {
+              "id": "02.1",
+              "title": "02.1 感谢与回应",
+              "count": 20,
+              "title_vi": "02.1 Cảm ơn và đáp lời cảm ơn"
+            },
+            {
+              "id": "02.2",
+              "title": "02.2 表达歉意",
+              "count": 18,
+              "title_vi": "02.2 Bày tỏ lời xin lỗi"
+            },
+            {
+              "id": "02.3",
+              "title": "02.3 打扰与客气开口",
+              "count": 17,
+              "title_vi": "02.3 Lịch sự bắt chuyện và xin phép làm phiền"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/02.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "02 Cảm ơn và xin lỗi"
+        },
+        {
+          "theme_id": "03",
+          "title": "听懂回应",
+          "status": "available",
+          "free": true,
+          "phrase_count": 55,
+          "lessons": [
+            {
+              "id": "03.1",
+              "title": "03.1 表示听懂",
+              "count": 18,
+              "title_vi": "03.1 Xác nhận đã hiểu"
+            },
+            {
+              "id": "03.2",
+              "title": "03.2 没听懂与请求重复",
+              "count": 17,
+              "title_vi": "03.2 Chưa hiểu và nhờ nhắc lại"
+            },
+            {
+              "id": "03.3",
+              "title": "03.3 请求放慢、解释和展示",
+              "count": 20,
+              "title_vi": "03.3 Nhờ nói chậm, giải thích và chỉ dẫn"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/03.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "03 Hiểu lời nói và phản hồi"
+        },
+        {
+          "theme_id": "04",
+          "title": "提问确认",
+          "status": "available",
+          "free": true,
+          "phrase_count": 73,
+          "lessons": [
+            {
+              "id": "04.1",
+              "title": "04.1 问名称和用途",
+              "count": 15,
+              "title_vi": "04.1 Hỏi tên gọi và công dụng"
+            },
+            {
+              "id": "04.2",
+              "title": "04.2 问地点",
+              "count": 24,
+              "title_vi": "04.2 Hỏi địa điểm và đường đi"
+            },
+            {
+              "id": "04.3",
+              "title": "04.3 问人物、负责人和归属",
+              "count": 17,
+              "title_vi": "04.3 Hỏi người, người phụ trách và đồ thuộc về ai"
+            },
+            {
+              "id": "04.4",
+              "title": "04.4 确认事实和信息",
+              "count": 17,
+              "title_vi": "04.4 Xác nhận thông tin và sự thật"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/04.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "04 Đặt câu hỏi và xác nhận"
+        },
+        {
+          "theme_id": "05",
+          "title": "请求帮助",
+          "status": "available",
+          "free": true,
+          "phrase_count": 51,
+          "lessons": [
+            {
+              "id": "05.1",
+              "title": "05.1 请求帮忙",
+              "count": 17,
+              "title_vi": "05.1 Nhờ người khác giúp"
+            },
+            {
+              "id": "05.2",
+              "title": "05.2 请求示范操作",
+              "count": 18,
+              "title_vi": "05.2 Nhờ hướng dẫn và làm mẫu"
+            },
+            {
+              "id": "05.3",
+              "title": "05.3 请求带路、带我过去",
+              "count": 16,
+              "title_vi": "05.3 Nhờ dẫn đường đến nơi cần tới"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/05.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "title_vi": "05 Nhờ giúp đỡ"
+        },
+        {
+          "theme_id": "06",
+          "title": "同意拒绝",
+          "status": "available",
+          "free": false,
+          "phrase_count": 65,
+          "lessons": [
+            {
+              "id": "06.1",
+              "title": "06.1 同意答应",
+              "count": 17,
+              "title_vi": "06.1 Đồng ý và nhận lời"
+            },
+            {
+              "id": "06.2",
+              "title": "06.2 不太同意",
+              "count": 16,
+              "title_vi": "06.2 Không hoàn toàn đồng ý"
+            },
+            {
+              "id": "06.3",
+              "title": "06.3 直接拒绝",
+              "count": 15,
+              "title_vi": "06.3 Từ chối rõ ràng"
+            },
+            {
+              "id": "06.4",
+              "title": "06.4 委婉拒绝与替代",
+              "count": 17,
+              "title_vi": "06.4 Từ chối khéo và đề xuất thay thế"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/06.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "06 Đồng ý và từ chối"
+        },
+        {
+          "theme_id": "07",
+          "title": "观点评价",
+          "status": "available",
+          "free": false,
+          "phrase_count": 67,
+          "lessons": [
+            {
+              "id": "07.1",
+              "title": "07.1 表达看法",
+              "count": 13,
+              "title_vi": "07.1 Bày tỏ quan điểm"
+            },
+            {
+              "id": "07.2",
+              "title": "07.2 喜好偏好",
+              "count": 17,
+              "title_vi": "07.2 Sở thích và lựa chọn ưa thích"
+            },
+            {
+              "id": "07.3",
+              "title": "07.3 好坏评价",
+              "count": 18,
+              "title_vi": "07.3 Đánh giá tốt xấu"
+            },
+            {
+              "id": "07.4",
+              "title": "07.4 比较选择",
+              "count": 19,
+              "title_vi": "07.4 So sánh và lựa chọn"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/vi/07.json",
+          "data_version": 1,
+          "title_vi": "07 Quan điểm và đánh giá"
+        },
+        {
+          "theme_id": "08",
+          "title": "原因结果",
+          "status": "available",
+          "free": false,
+          "phrase_count": 70,
+          "lessons": [
+            {
+              "id": "08.1",
+              "title": "08.1 询问原因",
+              "count": 14,
+              "title_vi": "08.1 Hỏi nguyên nhân"
+            },
+            {
+              "id": "08.2",
+              "title": "08.2 说明原因",
+              "count": 18,
+              "title_vi": "08.2 Giải thích nguyên nhân"
+            },
+            {
+              "id": "08.3",
+              "title": "08.3 询问情况",
+              "count": 19,
+              "title_vi": "08.3 Hỏi tiến độ và tình hình"
+            },
+            {
+              "id": "08.4",
+              "title": "08.4 表达结果与后果",
+              "count": 19,
+              "title_vi": "08.4 Nói về kết quả và hậu quả"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/vi/08.json",
+          "data_version": 1,
+          "title_vi": "08 Nguyên nhân và kết quả"
+        },
+        {
+          "theme_id": "09",
+          "title": "计划决定",
+          "status": "available",
+          "free": false,
+          "phrase_count": 79,
+          "lessons": [
+            {
+              "id": "09.1",
+              "title": "09.1 表达想法",
+              "count": 21,
+              "title_vi": "09.1 Bày tỏ dự định"
+            },
+            {
+              "id": "09.2",
+              "title": "09.2 制定计划",
+              "count": 20,
+              "title_vi": "09.2 Lập kế hoạch"
+            },
+            {
+              "id": "09.3",
+              "title": "09.3 商量安排",
+              "count": 19,
+              "title_vi": "09.3 Thỏa thuận và sắp xếp"
+            },
+            {
+              "id": "09.4",
+              "title": "09.4 改变原来的计划",
+              "count": 19,
+              "title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 4,
+          "data_url": "packs/vi/09.json",
+          "data_version": 1,
+          "title_vi": "09 Lập kế hoạch và quyết định"
+        },
+        {
+          "theme_id": "10",
+          "title": "时间数量",
+          "status": "available",
+          "free": false,
+          "phrase_count": 141,
+          "lessons": [
+            {
+              "id": "10.1",
+              "title": "10.1 时刻",
+              "count": 24,
+              "title_vi": "10.1 Giờ giấc"
+            },
+            {
+              "id": "10.2",
+              "title": "10.2 日期和星期",
+              "count": 23,
+              "title_vi": "10.2 Ngày tháng và thứ trong tuần"
+            },
+            {
+              "id": "10.3",
+              "title": "10.3 数量和量词",
+              "count": 26,
+              "title_vi": "10.3 Số lượng và lượng từ"
+            },
+            {
+              "id": "10.4",
+              "title": "10.4 价格和金额",
+              "count": 22,
+              "title_vi": "10.4 Giá cả và số tiền"
+            },
+            {
+              "id": "10.5",
+              "title": "10.5 时长和频率",
+              "count": 23,
+              "title_vi": "10.5 Thời lượng và tần suất"
+            },
+            {
+              "id": "10.6",
+              "title": "10.6 先后和期限",
+              "count": 23,
+              "title_vi": "10.6 Thứ tự và hạn chót"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "lesson_count": 6,
+          "data_url": "packs/vi/10.json",
+          "data_version": 1,
+          "title_vi": "10 Thời gian và số lượng"
         }
       ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-theme01-v1-20261102",
-  "source_status": "01 Vietnamese published as AI-reviewed working translation; 02–60 pending; native-speaker final review and audio verification pending.",
+  "revision": "spoken-vi-themes01-10-intermediate-20261102",
+  "source_status": "Themes 01-10 indexed; themes 11-20 already translated and will be indexed in next catalog update. Vietnamese native review pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-02T07:43:46.058Z",
+  "updated_at": "2026-11-02T08:50:10.309Z",
   "packs_base_path": "packs/vi/"
 }
