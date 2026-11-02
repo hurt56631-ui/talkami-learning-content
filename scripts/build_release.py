@@ -384,9 +384,9 @@ def _validate_word_records(words: list[Any], source_data: Path, level: str) -> N
                 for pair_index, (hanzi_phrase, myanmar_phrase) in enumerate(zip(zh, my), start=1):
                     hanzi_phrase = require_text(hanzi_phrase, f"collocation #{pair_index} for {word_id}", 120)
                     myanmar_phrase = require_text(myanmar_phrase, f"Myanmar collocation #{pair_index} for {word_id}", 240)
-                    if not re.search(r"[\\u3400-\\u9fff]", hanzi_phrase):
+                    if not re.search(r"[\u3400-\u9fff]", hanzi_phrase):
                         fail(f"Non-Chinese collocation for {word_id}")
-                    if not re.search(r"[\\u1000-\\u109f\\uAA60-\\uAA7F]", myanmar_phrase):
+                    if not re.search(r"[\u1000-\u109f\uAA60-\uAA7F]", myanmar_phrase):
                         fail(f"Non-Myanmar translation of collocation for {word_id}")
                     if hanzi_phrase in seen_collocations:
                         fail(f"Duplicate collocation for {word_id}")
