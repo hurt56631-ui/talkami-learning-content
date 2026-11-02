@@ -1,9 +1,9 @@
 {
-  "version": 7,
+  "version": 8,
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 2567,
+  "item_count": 2911,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1353,15 +1353,211 @@
           "data_version": 3,
           "lesson_count": 4,
           "title_vi": "35 Hỏi đường và chỉ đường"
+        },
+        {
+          "theme_id": "36",
+          "title": "公交地铁",
+          "status": "available",
+          "free": false,
+          "phrase_count": 75,
+          "lessons": [
+            {
+              "id": "36.1",
+              "title": "36.1 进站购票",
+              "count": 19,
+              "title_vi": "36.1 Vào ga và mua vé"
+            },
+            {
+              "id": "36.2",
+              "title": "36.2 刷卡扫码",
+              "count": 18,
+              "title_vi": "36.2 Quẹt thẻ và quét mã qua cổng"
+            },
+            {
+              "id": "36.3",
+              "title": "36.3 换乘下车",
+              "count": 19,
+              "title_vi": "36.3 Đổi tuyến và xuống ga"
+            },
+            {
+              "id": "36.4",
+              "title": "36.4 坐过站末班车",
+              "count": 19,
+              "title_vi": "36.4 Đi quá ga và chuyến cuối"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/36.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "title_vi": "36 Xe buýt và tàu điện ngầm"
+        },
+        {
+          "theme_id": "37",
+          "title": "打车网约车",
+          "status": "available",
+          "free": false,
+          "phrase_count": 70,
+          "lessons": [
+            {
+              "id": "37.1",
+              "title": "37.1 叫车定位",
+              "count": 17,
+              "title_vi": "37.1 Gọi xe và xác định điểm đón"
+            },
+            {
+              "id": "37.2",
+              "title": "37.2 上车确认",
+              "count": 18,
+              "title_vi": "37.2 Xác nhận trước khi lên xe"
+            },
+            {
+              "id": "37.3",
+              "title": "37.3 路线目的地",
+              "count": 19,
+              "title_vi": "37.3 Tuyến đường và điểm đến"
+            },
+            {
+              "id": "37.4",
+              "title": "37.4 下车付款遗失",
+              "count": 16,
+              "title_vi": "37.4 Xuống xe, thanh toán và đồ thất lạc"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/37.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "title_vi": "37 Taxi và xe công nghệ"
+        },
+        {
+          "theme_id": "38",
+          "title": "火车高铁",
+          "status": "available",
+          "free": false,
+          "phrase_count": 52,
+          "lessons": [
+            {
+              "id": "38.1",
+              "title": "38.1 购票候车",
+              "count": 15,
+              "title_vi": "38.1 Mua vé và đợi tàu"
+            },
+            {
+              "id": "38.2",
+              "title": "38.2 站台车次",
+              "count": 12,
+              "title_vi": "38.2 Sân ga và số hiệu chuyến tàu"
+            },
+            {
+              "id": "38.3",
+              "title": "38.3 车厢座位",
+              "count": 13,
+              "title_vi": "38.3 Toa tàu và chỗ ngồi"
+            },
+            {
+              "id": "38.4",
+              "title": "38.4 改签退票",
+              "count": 12,
+              "title_vi": "38.4 Đổi vé và trả vé"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/38.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "title_vi": "38 Tàu hỏa và tàu cao tốc"
+        },
+        {
+          "theme_id": "39",
+          "title": "机场航班与入境通关",
+          "status": "available",
+          "free": false,
+          "phrase_count": 72,
+          "lessons": [
+            {
+              "id": "39.1",
+              "title": "39.1 值机托运",
+              "count": 12,
+              "title_vi": "39.1 Làm thủ tục bay và ký gửi"
+            },
+            {
+              "id": "39.2",
+              "title": "39.2 安检",
+              "count": 15,
+              "title_vi": "39.2 Kiểm tra an ninh"
+            },
+            {
+              "id": "39.3",
+              "title": "39.3 登机口登机",
+              "count": 14,
+              "title_vi": "39.3 Cổng lên máy bay và lên máy bay"
+            },
+            {
+              "id": "39.4",
+              "title": "39.4 延误取消转机",
+              "count": 14,
+              "title_vi": "39.4 Trễ, hủy chuyến và nối chuyến"
+            },
+            {
+              "id": "39.5",
+              "title": "39.5 入境通关：边检与海关",
+              "count": 17,
+              "title_vi": "39.5 Nhập cảnh: kiểm soát biên giới và hải quan"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/39.json",
+          "data_version": 2,
+          "lesson_count": 5,
+          "title_vi": "39 Sân bay, chuyến bay và nhập cảnh"
+        },
+        {
+          "theme_id": "40",
+          "title": "酒店旅行",
+          "status": "available",
+          "free": false,
+          "phrase_count": 75,
+          "lessons": [
+            {
+              "id": "40.1",
+              "title": "40.1 预订房间",
+              "count": 21,
+              "title_vi": "40.1 Đặt phòng khách sạn"
+            },
+            {
+              "id": "40.2",
+              "title": "40.2 入住证件押金",
+              "count": 20,
+              "title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc"
+            },
+            {
+              "id": "40.3",
+              "title": "40.3 房间需求问题",
+              "count": 19,
+              "title_vi": "40.3 Yêu cầu và sự cố trong phòng"
+            },
+            {
+              "id": "40.4",
+              "title": "40.4 退房寄存",
+              "count": 15,
+              "title_vi": "40.4 Trả phòng và gửi hành lý"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/40.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "title_vi": "40 Khách sạn và du lịch"
         }
       ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-35-review-v8-20261102",
-  "source_status": "Vietnamese themes 01-35 published, 2567 main cards. Themes 31-35: 378 main cards, 944 alternatives/replies, 318 translated usage notes. Structural Chinese/pinyin/ID coverage verified against original. Editorial corrections in 32,33,35 uploaded. Native Vietnamese final editing, audio and app integration QA pending; 36-60 not yet published.",
+  "revision": "spoken-vi-themes01-40-semantic-qa-v9-20261102",
+  "source_status": "Vietnamese themes 01-40 published: 2911 main cards. Themes 36-40: 344 main cards, 919 alternative/reply lines, 344 Vietnamese usage notes. Chinese original text/pinyin/IDs and nested structure compared, no missing translations; 31-35 re-audited and corrected. Native Vietnamese final review, audio and app runtime integration pending. Themes 41-60 not yet published.",
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:05:00Z",
+  "updated_at": "2026-11-02T23:55:00Z",
   "packs_base_path": "packs/vi/"
 }
