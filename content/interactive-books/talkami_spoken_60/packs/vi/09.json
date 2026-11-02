@@ -1,0 +1,2824 @@
+{
+  "theme_id": "09",
+  "version": 1,
+  "updated_at": "2026-11-02T08:08:03.481Z",
+  "theme_title": "09 计划决定",
+  "quality_standard": "Vietnamese independent adaptation V1 of source theme 09 V12. 79 stable cards and all Chinese, IDs, pinyin, lesson order, levels and nested dialogue IDs preserved. Myanmar-specific notes adapted for Vietnamese readers. No pseudo-Vietnamese pronunciation; Vietnamese native-speaker review and real audio verification pending.",
+  "source_phrase_count": 86,
+  "lessons": [
+    {
+      "id": "09.1",
+      "title": "09.1 表达想法",
+      "opening": "这一课区分“想、准备、打算、考虑、决定”：从想做，到准备去做，再到最后决定。",
+      "phrases": [
+        {
+          "id": "s09_01_0001",
+          "level": "must",
+          "text": "我想去。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那一起去吧。",
+              "id": "s09_01_0001_reply01",
+              "meaning_vi": "Vậy đi cùng nhau nhé."
+            },
+            {
+              "text": "好，什么时候去？",
+              "id": "s09_01_0001_reply02",
+              "meaning_vi": "Được, khi nào đi?"
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“我想去”说的是愿望，未必已经决定或约好出发时间；越南语可说“Tôi muốn đi”，不能误当成已经确定去。",
+              "text_vi": "“我想去” nói về mong muốn, chưa chắc đã quyết định hay hẹn giờ xuất phát. “想” ở đây là muốn, không phải đã đi."
+            }
+          ],
+          "pinyin": "wǒ xiǎng qù",
+          "meaning_vi": "Tôi muốn đi.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0002",
+          "level": "must",
+          "text": "我要买这个。",
+          "alternatives": [
+            {
+              "text": "我就买这个。",
+              "id": "s09_01_0002_alt01",
+              "meaning_vi": "Tôi quyết mua cái này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我帮你拿。",
+              "id": "s09_01_0002_reply01",
+              "meaning_vi": "Được, tôi lấy giúp bạn."
+            },
+            {
+              "text": "这个现在没货。",
+              "id": "s09_01_0002_reply02",
+              "meaning_vi": "Cái này hiện hết hàng."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“我要买这个”已经很确定要买；“我想买这个”只是想买，可能还在考虑。",
+              "text_vi": "“我要买这个” thể hiện đã quyết mua khá rõ, còn “我想买这个” mới chỉ là muốn mua và có thể đang cân nhắc."
+            }
+          ],
+          "pinyin": "wǒ yào mǎi zhè ge",
+          "meaning_vi": "Tôi mua cái này.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0003",
+          "level": "must",
+          "text": "我准备明天去。",
+          "alternatives": [
+            {
+              "text": "我打算明天去。",
+              "id": "s09_01_0003_alt01",
+              "meaning_vi": "Tôi định mai đi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，明天联系。",
+              "id": "s09_01_0003_reply01",
+              "meaning_vi": "Được, mai liên lạc nhé."
+            },
+            {
+              "text": "明天可能下雨。",
+              "id": "s09_01_0003_reply02",
+              "meaning_vi": "Ngày mai có thể mưa."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“准备”可表示已经开始做准备，也可表示近期打算；“打算”更侧重心里的计划，不能在所有情况下完全互换。",
+              "text_vi": "“准备” có thể là đã bắt đầu chuẩn bị hoặc dự định sắp làm, còn “打算” nhấn mạnh ý định trong đầu, không luôn thay thế được cho nhau."
+            }
+          ],
+          "pinyin": "wǒ zhǔn bèi míng tiān qù",
+          "meaning_vi": "Tôi chuẩn bị đi ngày mai.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0004",
+          "level": "must",
+          "text": "我打算换工作。",
+          "alternatives": [
+            {
+              "text": "我准备换工作。",
+              "id": "s09_01_0004_alt01",
+              "meaning_vi": "Tôi đang chuẩn bị đổi công việc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "为什么想换？",
+              "id": "s09_01_0004_reply01",
+              "meaning_vi": "Sao bạn muốn đổi?"
+            },
+            {
+              "text": "找到新工作了吗？",
+              "id": "s09_01_0004_reply02",
+              "meaning_vi": "Đã tìm được việc mới chưa?"
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“打算换工作”是有换工作的计划，不等于已经辞职；“准备换工作”可能让人觉得已在着手准备。",
+              "text_vi": "“打算换工作” nói có kế hoạch đổi việc, không phải đã nghỉ việc. “准备换工作” có thể gợi ý đã bắt đầu chuẩn bị."
+            }
+          ],
+          "pinyin": "wǒ dǎ suàn huàn gōng zuò",
+          "meaning_vi": "Tôi định đổi việc.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0005",
+          "level": "must",
+          "text": "我可能晚点去。",
+          "alternatives": [
+            {
+              "text": "我可能晚一点去。",
+              "id": "s09_01_0005_alt01",
+              "meaning_vi": "Tôi có thể đi muộn hơn một chút."
+            }
+          ],
+          "replies": [
+            {
+              "text": "大概几点？",
+              "id": "s09_01_0005_reply01",
+              "meaning_vi": "Khoảng mấy giờ?"
+            },
+            {
+              "text": "好，到了联系我。",
+              "id": "s09_01_0005_reply02",
+              "meaning_vi": "Được, đến nơi thì liên lạc tôi."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“晚点去”是晚一些才出发或前往；如果确定自己会晚到，应说“我可能晚点到”。“可能”表示还不确定。",
+              "text_vi": "“晚点去” là xuất phát hoặc đi muộn hơn, nếu nói sẽ tới muộn thì dùng “晚点到”. “可能” biểu thị chưa chắc chắn."
+            }
+          ],
+          "pinyin": "wǒ kě néng wǎn diǎn qù",
+          "meaning_vi": "Có lẽ tôi đi muộn hơn chút.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0006",
+          "level": "must",
+          "text": "我先看看。",
+          "alternatives": [
+            {
+              "text": "我先看一下。",
+              "id": "s09_01_0006_alt01",
+              "meaning_vi": "Tôi xem thử trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，你先看。",
+              "id": "s09_01_0006_reply01",
+              "meaning_vi": "Được, bạn cứ xem trước."
+            },
+            {
+              "text": "有问题可以问我。",
+              "id": "s09_01_0006_reply02",
+              "meaning_vi": "Có gì thắc mắc thì hỏi tôi nhé."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "在商店说“我先看看”常表示暂时不买，不是在请店员替你查看；说话时配合友好的语气。",
+              "text_vi": "Ở cửa hàng, “我先看看” thường là tạm thời chưa mua, không phải nhờ nhân viên xem hộ; nên nói với giọng thân thiện."
+            }
+          ],
+          "pinyin": "wǒ xiān kàn kan",
+          "meaning_vi": "Để tôi xem trước.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0007",
+          "level": "must",
+          "text": "我还没决定。",
+          "alternatives": [
+            {
+              "text": "我还没想好。",
+              "id": "s09_01_0007_alt01",
+              "meaning_vi": "Tôi vẫn chưa nghĩ xong."
+            }
+          ],
+          "replies": [
+            {
+              "text": "没关系，慢慢想。",
+              "id": "s09_01_0007_reply01",
+              "meaning_vi": "Không sao, cứ từ từ suy nghĩ."
+            },
+            {
+              "text": "决定了告诉我。",
+              "id": "s09_01_0007_reply02",
+              "meaning_vi": "Quyết rồi thì báo tôi nhé."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“还没决定”和“还没想好”都表示尚未定下来；前者强调没有作决定，后者强调仍在想。",
+              "text_vi": "“还没决定” nhấn mạnh chưa quyết định, “还没想好” nhấn mạnh vẫn chưa nghĩ kỹ; hai câu gần nghĩa nhưng khác trọng tâm."
+            }
+          ],
+          "pinyin": "wǒ hái méi jué dìng",
+          "meaning_vi": "Tôi vẫn chưa quyết định.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0008",
+          "level": "must",
+          "text": "我先问问再说。",
+          "alternatives": [
+            {
+              "text": "我先问一下再说。",
+              "id": "s09_01_0008_alt01",
+              "meaning_vi": "Tôi hỏi trước rồi nói tiếp."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，你先问一下。",
+              "id": "s09_01_0008_reply01",
+              "meaning_vi": "Được, bạn cứ hỏi trước."
+            },
+            {
+              "text": "行，有消息告诉我。",
+              "id": "s09_01_0008_reply02",
+              "meaning_vi": "Ừ, có tin gì báo tôi nhé."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "这里“再说”是等问清楚后再讨论或决定，不一定是已决定了下一步，更不是要求把原话重复一遍。",
+              "text_vi": "“再说” ở đây là hỏi rõ rồi mới bàn tiếp hoặc quyết định, không phải yêu cầu người kia lặp lại câu vừa nói."
+            }
+          ],
+          "pinyin": "wǒ xiān wèn wen zài shuō",
+          "meaning_vi": "Để tôi hỏi thử rồi tính.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0009",
+          "level": "must",
+          "text": "我打算先找房子。",
+          "alternatives": [
+            {
+              "text": "我准备先找房子。",
+              "id": "s09_01_0009_alt01",
+              "meaning_vi": "Tôi chuẩn bị tìm chỗ ở trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "找到以后再搬吗？",
+              "id": "s09_01_0009_reply01",
+              "meaning_vi": "Tìm được rồi mới chuyển à?"
+            },
+            {
+              "text": "需要我帮你找吗？",
+              "id": "s09_01_0009_reply02",
+              "meaning_vi": "Bạn cần tôi tìm giúp không?"
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“先找房子”表示先落实住房，之后可能再考虑搬家；只是有找房计划，不是已经签好租约。",
+              "text_vi": "“先找房子” là ưu tiên tìm chỗ ở rồi mới tính chuyển, chưa có nghĩa đã ký hợp đồng thuê."
+            }
+          ],
+          "pinyin": "wǒ dǎ suàn xiān zhǎo fáng zi",
+          "meaning_vi": "Tôi định tìm nhà trước.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0010",
+          "level": "must",
+          "text": "我想先试试。",
+          "alternatives": [
+            {
+              "text": "我想先试一下。",
+              "id": "s09_01_0010_alt01",
+              "meaning_vi": "Tôi muốn thử một chút trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，先试试。",
+              "id": "s09_01_0010_reply01",
+              "meaning_vi": "Được, cứ thử trước đi."
+            },
+            {
+              "text": "好，不合适再换。",
+              "id": "s09_01_0010_reply02",
+              "meaning_vi": "Được, không hợp thì đổi."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“试试”是先尝试一下，不代表已经长期接受这份工作或决定购买商品。",
+              "text_vi": "“试试” nghĩa là thử một chút trước, không phải đã nhận làm lâu dài hoặc quyết mua."
+            }
+          ],
+          "pinyin": "wǒ xiǎng xiān shì shi",
+          "meaning_vi": "Tôi muốn thử trước.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0011",
+          "level": "listen",
+          "text": "你有什么打算？",
+          "alternatives": [
+            {
+              "text": "你接下来有什么打算？",
+              "id": "s09_01_0011_alt01",
+              "meaning_vi": "Sắp tới bạn có kế hoạch gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我准备明天去。",
+              "id": "s09_01_0011_reply01",
+              "meaning_vi": "Tôi chuẩn bị đi ngày mai."
+            },
+            {
+              "text": "我还没决定。",
+              "id": "s09_01_0011_reply02",
+              "meaning_vi": "Tôi vẫn chưa quyết định."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“你有什么打算？”是问对方下一步计划，不一定催促立即决定；越南语称呼要根据人物关系选择。",
+              "text_vi": "“有什么打算” thường hỏi kế hoạch sắp tới, không nhất thiết thúc người kia quyết ngay; đại từ tiếng Việt cần theo tuổi tác và quan hệ."
+            }
+          ],
+          "pinyin": "nǐ yǒu shén me dǎ suàn",
+          "meaning_vi": "Bạn có dự định gì?",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0012",
+          "level": "listen",
+          "text": "准备什么时候去？",
+          "alternatives": [
+            {
+              "text": "打算什么时候去？",
+              "id": "s09_01_0012_alt01",
+              "meaning_vi": "Bạn định khi nào đi?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "明天去。",
+              "id": "s09_01_0012_reply01",
+              "meaning_vi": "Ngày mai đi."
+            },
+            {
+              "text": "周末去。",
+              "id": "s09_01_0012_reply02",
+              "meaning_vi": "Cuối tuần đi."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“准备什么时候去？”问的是计划何时出发，不是问预计什么时候到达；出发和到达的时间要分清。",
+              "text_vi": "“准备什么时候去” hỏi dự kiến khi nào xuất phát, không phải khi nào đến nơi. Cần phân biệt giờ đi và giờ đến."
+            }
+          ],
+          "pinyin": "zhǔn bèi shén me shí hou qù",
+          "meaning_vi": "Bạn định khi nào đi?",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0013",
+          "level": "listen",
+          "text": "决定了吗？",
+          "alternatives": [
+            {
+              "text": "决定好了？",
+              "id": "s09_01_0013_alt01",
+              "meaning_vi": "Đã chốt xong chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "决定了。",
+              "id": "s09_01_0013_reply01",
+              "meaning_vi": "Quyết rồi."
+            },
+            {
+              "text": "还没决定。",
+              "id": "s09_01_0013_reply02",
+              "meaning_vi": "Chưa quyết định."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“决定了吗？”要确认对方是否作出决定；不同于“想好了吗？”强调是否思考清楚，不能只凭一句“想去”就认定已经决定。",
+              "text_vi": "“决定了吗?” hỏi đã quyết chưa, gần với “想好了吗?” nhưng câu sau thiên về đã suy nghĩ kỹ. Chỉ nói “muốn đi” chưa chắc đã quyết."
+            }
+          ],
+          "pinyin": "jué dìng le ma",
+          "meaning_vi": "Quyết định chưa?",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0014",
+          "level": "listen",
+          "text": "先别急。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我再想想。",
+              "id": "s09_01_0014_reply01",
+              "meaning_vi": "Được, để tôi nghĩ thêm."
+            },
+            {
+              "text": "嗯，我先看看。",
+              "id": "s09_01_0014_reply02",
+              "meaning_vi": "Ừ, để tôi xem trước."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“先别急”常是劝人不要匆忙决定或行动；不是说对方已经迟到、要加快动作。",
+              "text_vi": "“先别急” khuyên đừng vội quyết hoặc hành động, không phải trách người kia đã đến muộn."
+            }
+          ],
+          "pinyin": "xiān bié jí",
+          "meaning_vi": "Đừng vội.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0015",
+          "level": "listen",
+          "text": "想好了告诉我。",
+          "alternatives": [
+            {
+              "text": "想好以后告诉我。",
+              "id": "s09_01_0015_alt01",
+              "meaning_vi": "Nghĩ xong thì cho tôi biết."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_01_0015_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "行，决定了联系你。",
+              "id": "s09_01_0015_reply02",
+              "meaning_vi": "Ừ, quyết xong tôi liên lạc bạn."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“想好了告诉我”是请对方考虑清楚后告知结果，不是要求马上答复，也不保证对方会同意。",
+              "text_vi": "“想好了告诉我” cho người kia thời gian suy nghĩ và báo sau, không yêu cầu trả lời ngay hoặc hứa sẽ đồng ý."
+            }
+          ],
+          "pinyin": "xiǎng hǎo le gào su wǒ",
+          "meaning_vi": "Nghĩ kỹ rồi báo tôi.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0016",
+          "level": "listen",
+          "text": "可以再考虑一下。",
+          "alternatives": [
+            {
+              "text": "可以再想想。",
+              "id": "s09_01_0016_alt01",
+              "meaning_vi": "Có thể nghĩ thêm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我再想想。",
+              "id": "s09_01_0016_reply01",
+              "meaning_vi": "Được, để tôi nghĩ thêm."
+            },
+            {
+              "text": "不用，我已经决定了。",
+              "id": "s09_01_0016_reply02",
+              "meaning_vi": "Không cần, tôi đã quyết định rồi."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“考虑”是权衡后再决定；“考”读 kǎo，没有 -ng 韵尾，学习发音应以标准拼音和真人音频为准。",
+              "text_vi": "“考虑” là cân nhắc rồi quyết; vần của “kǎo” không có âm -ng, nên dựa vào pinyin và phát âm chuẩn thay vì chữ ghi âm gần đúng."
+            }
+          ],
+          "pinyin": "kě yǐ zài kǎo lǜ yí xià",
+          "meaning_vi": "Có thể cân nhắc thêm.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0017",
+          "level": "listen",
+          "text": "你准备怎么做？",
+          "alternatives": [
+            {
+              "text": "你打算怎么做？",
+              "id": "s09_01_0017_alt01",
+              "meaning_vi": "Bạn định làm thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我先问问。",
+              "id": "s09_01_0017_reply01",
+              "meaning_vi": "Để tôi hỏi thử trước."
+            },
+            {
+              "text": "我准备先找人帮忙。",
+              "id": "s09_01_0017_reply02",
+              "meaning_vi": "Tôi định tìm người giúp trước."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“准备怎么做”是在问打算采用哪种办法，不一定催促马上动手；可以先说准备找谁帮忙。",
+              "text_vi": "“准备怎么做” hỏi định dùng cách nào, không nhất thiết giục làm ngay. Có thể nói sẽ tìm người giúp trước."
+            }
+          ],
+          "pinyin": "nǐ zhǔn bèi zěn me zuò",
+          "meaning_vi": "Bạn chuẩn bị làm thế nào?",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0018",
+          "level": "must",
+          "text": "我准备周末去。",
+          "alternatives": [
+            {
+              "text": "我打算周末去。",
+              "id": "s09_01_0018_alt01",
+              "meaning_vi": "Tôi định đi cuối tuần."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，周末联系。",
+              "id": "s09_01_0018_reply01",
+              "meaning_vi": "Được, cuối tuần liên lạc."
+            },
+            {
+              "text": "周末我也有空。",
+              "id": "s09_01_0018_reply02",
+              "meaning_vi": "Cuối tuần tôi cũng rảnh."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“周末”指周六、周日，不等于每个工人自己的轮休日；在中国倒班工作时，要确认对方说的是周末还是“休息日”。",
+              "text_vi": "“周末” là thứ Bảy/Chủ nhật, không tự động trùng ngày nghỉ của người làm ca. Cần phân biệt với “休息日”."
+            }
+          ],
+          "pinyin": "wǒ zhǔn bèi zhōu mò qù",
+          "meaning_vi": "Tôi chuẩn bị đi cuối tuần.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0019",
+          "level": "must",
+          "text": "我想换个工作。",
+          "alternatives": [
+            {
+              "text": "我想换工作。",
+              "id": "s09_01_0019_alt01",
+              "meaning_vi": "Tôi muốn đổi việc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "为什么想换？",
+              "id": "s09_01_0019_reply01",
+              "meaning_vi": "Sao bạn muốn đổi?"
+            },
+            {
+              "text": "有合适的工作了吗？",
+              "id": "s09_01_0019_reply02",
+              "meaning_vi": "Đã có việc phù hợp chưa?"
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“想换个工作”表达愿望，未必形成具体计划；和“打算换工作”相比，决定程度可能更低。",
+              "text_vi": "“想换个工作” chỉ là mong muốn, chưa chắc có kế hoạch cụ thể; “打算换工作” thường rõ định hướng hơn."
+            }
+          ],
+          "pinyin": "wǒ xiǎng huàn ge gōng zuò",
+          "meaning_vi": "Tôi muốn đổi công việc.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0020",
+          "level": "must",
+          "text": "我还在考虑。",
+          "alternatives": [
+            {
+              "text": "我还在想。",
+              "id": "s09_01_0020_alt01",
+              "meaning_vi": "Tôi vẫn đang suy nghĩ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，你慢慢考虑。",
+              "id": "s09_01_0020_reply01",
+              "meaning_vi": "Được, bạn cứ cân nhắc từ từ."
+            },
+            {
+              "text": "什么时候能决定？",
+              "id": "s09_01_0020_reply02",
+              "meaning_vi": "Khi nào bạn có thể quyết?"
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“还在考虑”表示正在认真衡量，还不能当成答应；别人问是否确定时可接“我还没决定”。",
+              "text_vi": "“还在考虑” là vẫn đang cân nhắc thật sự, chưa thể coi là nhận lời; chưa quyết thì có thể nói “我还没决定”."
+            }
+          ],
+          "pinyin": "wǒ hái zài kǎo lǜ",
+          "meaning_vi": "Tôi vẫn đang cân nhắc.",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        },
+        {
+          "id": "s09_01_0021",
+          "level": "listen",
+          "text": "你想好了吗？",
+          "alternatives": [
+            {
+              "text": "你考虑好了吗？",
+              "id": "s09_01_0021_alt01",
+              "meaning_vi": "Bạn cân nhắc xong chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "想好了。",
+              "id": "s09_01_0021_reply01",
+              "meaning_vi": "Nghĩ xong rồi."
+            },
+            {
+              "text": "还没有。",
+              "id": "s09_01_0021_reply02",
+              "meaning_vi": "Vẫn chưa."
+            }
+          ],
+          "lesson_id": "09.1",
+          "lesson_title": "09.1 表达想法",
+          "mistakes": [
+            {
+              "text": "“想好了吗？”侧重是否考虑清楚，和“决定了吗？”很接近但不完全相同；不要把“还没有”误当成拒绝。",
+              "text_vi": "“想好了吗?” hỏi đã suy nghĩ kỹ chưa, gần với “决定了吗?” nhưng không hoàn toàn giống; “chưa” không tự động là từ chối."
+            }
+          ],
+          "pinyin": "nǐ xiǎng hǎo le ma",
+          "meaning_vi": "Bạn nghĩ kỹ chưa?",
+          "lesson_title_vi": "09.1 Bày tỏ dự định"
+        }
+      ],
+      "subtitle": "21张高频卡 · 13必说 + 8必听",
+      "title_vi": "09.1 Bày tỏ dự định",
+      "subtitle_vi": "21 thẻ thông dụng · 13 câu cần nói + 8 câu cần nghe",
+      "opening_vi": "Phân biệt muốn, chuẩn bị, dự định, cân nhắc và quyết định — từ ý muốn tới chuẩn bị rồi mới chốt."
+    },
+    {
+      "id": "09.2",
+      "title": "09.2 制定计划",
+      "opening": "这一课练先做、再做、什么时候出发，以及完成后怎么核对顺序。",
+      "phrases": [
+        {
+          "id": "s09_02_0001",
+          "level": "must",
+          "text": "我们先吃饭。",
+          "alternatives": [
+            {
+              "text": "我们先去吃饭。",
+              "id": "s09_02_0001_alt01",
+              "meaning_vi": "Mình đi ăn trước nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，吃完再走。",
+              "id": "s09_02_0001_reply01",
+              "meaning_vi": "Được, ăn xong rồi đi."
+            },
+            {
+              "text": "我还不饿，先办事吧。",
+              "id": "s09_02_0001_reply02",
+              "meaning_vi": "Tôi chưa đói, làm việc trước đi."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“我们先吃饭”是多人一起先吃饭，不是说只有自己吃；先吃再走的顺序要讲清。",
+              "text_vi": "“我们先吃饭” nghĩa là nhiều người cùng ăn trước, không phải chỉ một mình nói ăn; thứ tự ăn rồi đi phải rõ."
+            }
+          ],
+          "pinyin": "wǒ men xiān chī fàn",
+          "meaning_vi": "Chúng ta ăn trước nhé.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0002",
+          "level": "must",
+          "text": "然后去超市。",
+          "alternatives": [
+            {
+              "text": "然后再去超市。",
+              "id": "s09_02_0002_alt01",
+              "meaning_vi": "Rồi lại đi siêu thị."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0002_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "超市几点关门？",
+              "id": "s09_02_0002_reply02",
+              "meaning_vi": "Siêu thị mấy giờ đóng cửa?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“然后”要接在前面已提过的步骤之后；没有上一步的上下文，单独说“然后去超市”容易让人不清楚顺序。",
+              "text_vi": "“然后” phải nối với bước đã nói trước đó, nếu không có ngữ cảnh thì người nghe chưa biết đi siêu thị sau việc gì."
+            }
+          ],
+          "pinyin": "rán hòu qù chāo shì",
+          "meaning_vi": "Sau đó đi siêu thị.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0003",
+          "level": "must",
+          "text": "下午三点出发。",
+          "alternatives": [
+            {
+              "text": "下午三点走。",
+              "id": "s09_02_0003_alt01",
+              "meaning_vi": "Ba giờ chiều đi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，三点前准备好。",
+              "id": "s09_02_0003_reply01",
+              "meaning_vi": "Được, chuẩn bị xong trước ba giờ."
+            },
+            {
+              "text": "能晚一点吗？",
+              "id": "s09_02_0003_reply02",
+              "meaning_vi": "Muộn hơn một chút được không?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“出发”指从原地离开、开始行程，不等于三点到达；约见面时要把出发时间和到达时间分清。",
+              "text_vi": "“出发” là rời nơi xuất phát, không phải đã tới đích lúc ba giờ; lúc hẹn phải phân biệt giờ đi và giờ đến."
+            }
+          ],
+          "pinyin": "xià wǔ sān diǎn chū fā",
+          "meaning_vi": "Ba giờ chiều xuất phát.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0004",
+          "level": "must",
+          "text": "明天一起去。",
+          "alternatives": [
+            {
+              "text": "明天我们一起去。",
+              "id": "s09_02_0004_alt01",
+              "meaning_vi": "Mai mình đi cùng nhau."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，几点？",
+              "id": "s09_02_0004_reply01",
+              "meaning_vi": "Được, mấy giờ?"
+            },
+            {
+              "text": "明天我可能没空。",
+              "id": "s09_02_0004_reply02",
+              "meaning_vi": "Ngày mai có lẽ tôi bận."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“明天一起去”是约定共同去，具体时间地点仍须再确认。",
+              "text_vi": "“明天一起去” là hẹn cùng đi ngày mai nhưng giờ và địa điểm cụ thể vẫn cần xác nhận."
+            }
+          ],
+          "pinyin": "míng tiān yì qǐ qù",
+          "meaning_vi": "Ngày mai cùng đi.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0005",
+          "level": "must",
+          "text": "先做这个。",
+          "alternatives": [
+            {
+              "text": "先弄这个。",
+              "id": "s09_02_0005_alt01",
+              "meaning_vi": "Xử lý cái này trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0005_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "这个做完再做哪个？",
+              "id": "s09_02_0005_reply02",
+              "meaning_vi": "Xong cái này thì làm cái nào tiếp?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“先做这个”没有说主语，可能是告诉别人先做，也可能是大家的计划；语气和上下文决定是不是指令。",
+              "text_vi": "“先做这个” không nói rõ chủ ngữ, có thể là yêu cầu người khác làm hoặc kế hoạch của cả nhóm; tùy giọng và ngữ cảnh."
+            }
+          ],
+          "pinyin": "xiān zuò zhè ge",
+          "meaning_vi": "Làm cái này trước.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0006",
+          "level": "must",
+          "text": "再做那个。",
+          "alternatives": [
+            {
+              "text": "然后做那个。",
+              "id": "s09_02_0006_alt01",
+              "meaning_vi": "Sau đó làm cái kia."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0006_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "那个今天能做完吗？",
+              "id": "s09_02_0006_reply02",
+              "meaning_vi": "Cái kia hôm nay làm xong được không?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“再做那个”的“再”是接着、然后；“在做”才表示正在做，发音和写法都不同。",
+              "text_vi": "“再做那个” dùng “再” nghĩa là sau đó; “在做” mới là đang làm, cách viết và phát âm khác nhau."
+            }
+          ],
+          "pinyin": "zài zuò nà ge",
+          "meaning_vi": "Rồi làm cái kia.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0007",
+          "level": "must",
+          "text": "先把东西准备好。",
+          "alternatives": [
+            {
+              "text": "先准备好东西。",
+              "id": "s09_02_0007_alt01",
+              "meaning_vi": "Chuẩn bị đồ trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我来准备。",
+              "id": "s09_02_0007_reply01",
+              "meaning_vi": "Được, để tôi chuẩn bị."
+            },
+            {
+              "text": "还需要准备什么？",
+              "id": "s09_02_0007_reply02",
+              "meaning_vi": "Còn cần chuẩn bị gì nữa?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“把东西准备好”的重点是准备到可以使用的状态；“先准备好”省略了对象，只有双方知道要准备什么时才清楚。",
+              "text_vi": "“把东西准备好” nhấn mạnh chuẩn bị tới mức sẵn dùng; lược đồ vật chỉ rõ khi cả hai biết đang nói đồ gì."
+            }
+          ],
+          "pinyin": "xiān bǎ dōng xi zhǔn bèi hǎo",
+          "meaning_vi": "Chuẩn bị đồ cho xong trước.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0008",
+          "level": "must",
+          "text": "吃完饭再出发。",
+          "alternatives": [
+            {
+              "text": "吃完再出发。",
+              "id": "s09_02_0008_alt01",
+              "meaning_vi": "Ăn xong mới đi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0008_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "那大概几点出发？",
+              "id": "s09_02_0008_reply02",
+              "meaning_vi": "Vậy khoảng mấy giờ xuất phát?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“吃完饭再出发”明确要先吃完再走；与“边吃边走”或“先出发再吃”不同。",
+              "text_vi": "“吃完饭再出发” là ăn xong mới đi, khác vừa ăn vừa đi hay đi rồi mới ăn."
+            }
+          ],
+          "pinyin": "chī wán fàn zài chū fā",
+          "meaning_vi": "Ăn xong rồi xuất phát.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0009",
+          "level": "must",
+          "text": "我们两点集合。",
+          "alternatives": [
+            {
+              "text": "两点集合。",
+              "id": "s09_02_0009_alt01",
+              "meaning_vi": "Tập trung lúc hai giờ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，在哪里集合？",
+              "id": "s09_02_0009_reply01",
+              "meaning_vi": "Được, tập trung ở đâu?"
+            },
+            {
+              "text": "两点有点早。",
+              "id": "s09_02_0009_reply02",
+              "meaning_vi": "Hai giờ hơi sớm."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“集合”是大家在同一个地点碰头；只约好两点，还应另外讲清楚在哪儿集合。",
+              "text_vi": "“集合” là tập trung gặp nhau tại một nơi; hẹn hai giờ còn phải nói rõ chỗ tập trung."
+            }
+          ],
+          "pinyin": "wǒ men liǎng diǎn jí hé",
+          "meaning_vi": "Chúng ta tập trung lúc hai giờ.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0010",
+          "level": "must",
+          "text": "我先去，你晚点来。",
+          "alternatives": [
+            {
+              "text": "我先过去，你等会儿来。",
+              "id": "s09_02_0010_alt01",
+              "meaning_vi": "Tôi qua trước, lát nữa bạn đến nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我晚点过去。",
+              "id": "s09_02_0010_reply01",
+              "meaning_vi": "Được, tôi qua muộn hơn chút."
+            },
+            {
+              "text": "不用，一起去吧。",
+              "id": "s09_02_0010_reply02",
+              "meaning_vi": "Không cần, cùng đi nhé."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“晚点来”是让对方稍后再来，不是说对方一定会迟到；“后面来”容易让初学者误会成站在后面。",
+              "text_vi": "“晚点来” nhờ người khác đến muộn hơn người nói, không nhất thiết là họ bị trễ hẹn; không dịch thành đi ở phía sau."
+            }
+          ],
+          "pinyin": "wǒ xiān qù, nǐ wǎn diǎn lái",
+          "meaning_vi": "Tôi đi trước, bạn đến sau nhé.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0011",
+          "level": "must",
+          "text": "这个做完再休息。",
+          "alternatives": [
+            {
+              "text": "做完这个再休息。",
+              "id": "s09_02_0011_alt01",
+              "meaning_vi": "Xong cái này mới nghỉ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0011_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "还要多久能做完？",
+              "id": "s09_02_0011_reply02",
+              "meaning_vi": "Còn bao lâu mới làm xong?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“这个做完再休息”表示先完成眼前任务再休息；若涉及法定休息和身体不适，不应理解成任何情况下都必须强撑。",
+              "text_vi": "“这个做完再休息” nói làm xong việc này rồi nghỉ; không nên hiểu là phải cố làm dù sức khỏe không ổn hoặc trái quy định nghỉ."
+            }
+          ],
+          "pinyin": "zhè ge zuò wán zài xiū xi",
+          "meaning_vi": "Làm xong cái này rồi nghỉ.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0012",
+          "level": "must",
+          "text": "最后再检查一遍。",
+          "alternatives": [
+            {
+              "text": "最后再检查一次。",
+              "id": "s09_02_0012_alt01",
+              "meaning_vi": "Cuối cùng kiểm tra thêm một lần."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，别忘了。",
+              "id": "s09_02_0012_reply01",
+              "meaning_vi": "Được, đừng quên."
+            },
+            {
+              "text": "我来检查。",
+              "id": "s09_02_0012_reply02",
+              "meaning_vi": "Để tôi kiểm tra."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“最后再检查一遍”指所有步骤完成后再核对一次；“一遍”强调从头到尾检查一次。",
+              "text_vi": "“最后再检查一遍” là khi mọi bước xong thì kiểm tra từ đầu tới cuối thêm một lượt."
+            }
+          ],
+          "pinyin": "zuì hòu zài jiǎn chá yí biàn",
+          "meaning_vi": "Cuối cùng kiểm tra lại một lượt.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0013",
+          "level": "must",
+          "text": "先买票，再订酒店。",
+          "alternatives": [
+            {
+              "text": "先买票，然后订酒店。",
+              "id": "s09_02_0013_alt01",
+              "meaning_vi": "Mua vé trước, sau đó đặt khách sạn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0013_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "酒店要先订吧？",
+              "id": "s09_02_0013_reply02",
+              "meaning_vi": "Phải đặt khách sạn trước chứ?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“先买票，再订酒店”只表示说话人安排的先后顺序，不是所有旅行都必须先买票；“票”读 piào，不能用不准确的谐音替代拼音。",
+              "text_vi": "“先买票，再订酒店” chỉ là thứ tự kế hoạch của người nói, không phải mọi chuyến đi đều phải mua vé trước. “piào” không có đuôi -ng."
+            }
+          ],
+          "pinyin": "xiān mǎi piào, zài dìng jiǔ diàn",
+          "meaning_vi": "Mua vé trước rồi đặt khách sạn.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0014",
+          "level": "listen",
+          "text": "先做哪个？",
+          "alternatives": [
+            {
+              "text": "先做哪一个？",
+              "id": "s09_02_0014_alt01",
+              "meaning_vi": "Nên làm cái nào trước?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先做这个。",
+              "id": "s09_02_0014_reply01",
+              "meaning_vi": "Làm cái này trước."
+            },
+            {
+              "text": "先做最急的。",
+              "id": "s09_02_0014_reply02",
+              "meaning_vi": "Làm việc gấp nhất trước."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“先做哪个？”是在几个任务中问先后顺序，不是问哪个最容易；有紧急项可先确认优先级。",
+              "text_vi": "“先做哪个?” hỏi thứ tự ưu tiên trong vài nhiệm vụ, không phải việc nào dễ nhất. Có việc gấp thì cần xác định."
+            }
+          ],
+          "pinyin": "xiān zuò nǎ ge",
+          "meaning_vi": "Làm cái nào trước?",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0015",
+          "level": "listen",
+          "text": "然后做什么？",
+          "alternatives": [
+            {
+              "text": "接下来做什么？",
+              "id": "s09_02_0015_alt01",
+              "meaning_vi": "Tiếp theo làm gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "然后去超市。",
+              "id": "s09_02_0015_reply01",
+              "meaning_vi": "Sau đó đi siêu thị."
+            },
+            {
+              "text": "然后再检查一遍。",
+              "id": "s09_02_0015_reply02",
+              "meaning_vi": "Rồi kiểm tra lại một lượt."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“然后做什么？”必须承接已说过的上一步；不是问从头到尾的全部计划。",
+              "text_vi": "“然后做什么?” hỏi bước tiếp theo sau bước đã nói, không phải hỏi toàn bộ kế hoạch từ đầu."
+            }
+          ],
+          "pinyin": "rán hòu zuò shén me",
+          "meaning_vi": "Rồi làm gì?",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0016",
+          "level": "listen",
+          "text": "做完再说。",
+          "alternatives": [
+            {
+              "text": "做完以后再说。",
+              "id": "s09_02_0016_alt01",
+              "meaning_vi": "Xong việc rồi nói sau."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0016_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "大概什么时候做完？",
+              "id": "s09_02_0016_reply02",
+              "meaning_vi": "Khoảng khi nào xong?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“做完再说”常表示先完成当前事情，再讨论下一步；不是要求对方重复刚才的话。",
+              "text_vi": "“做完再说” thường nghĩa là hoàn thành việc hiện tại rồi mới bàn chuyện khác, không phải bảo lặp lại câu trước."
+            }
+          ],
+          "pinyin": "zuò wán zài shuō",
+          "meaning_vi": "Làm xong rồi tính.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0017",
+          "level": "listen",
+          "text": "下午再弄。",
+          "alternatives": [
+            {
+              "text": "下午再做。",
+              "id": "s09_02_0017_alt01",
+              "meaning_vi": "Chiều làm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_02_0017_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "下午几点？",
+              "id": "s09_02_0017_reply02",
+              "meaning_vi": "Chiều mấy giờ?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "口语里的“弄”是很宽泛的“处理、做”，具体做什么要看上下文；并不一定是把东西弄坏。",
+              "text_vi": "“弄” là từ khẩu ngữ rộng nghĩa, có thể là làm hoặc xử lý, không nhất thiết là làm hỏng đồ."
+            }
+          ],
+          "pinyin": "xià wǔ zài nòng",
+          "meaning_vi": "Chiều làm tiếp.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0018",
+          "level": "listen",
+          "text": "最后别忘了检查。",
+          "alternatives": [
+            {
+              "text": "最后记得检查。",
+              "id": "s09_02_0018_alt01",
+              "meaning_vi": "Nhớ kiểm tra lần cuối."
+            }
+          ],
+          "replies": [
+            {
+              "text": "知道了。",
+              "id": "s09_02_0018_reply01",
+              "meaning_vi": "Biết rồi."
+            },
+            {
+              "text": "好，我会检查。",
+              "id": "s09_02_0018_reply02",
+              "meaning_vi": "Được, tôi sẽ kiểm tra."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“最后别忘了检查”是提醒结尾还要核查，并不表示现在已经检查完。",
+              "text_vi": "“最后别忘了检查” nhắc phải kiểm tra ở cuối, không có nghĩa đã kiểm tra xong."
+            }
+          ],
+          "pinyin": "zuì hòu bié wàng le jiǎn chá",
+          "meaning_vi": "Cuối cùng đừng quên kiểm tra.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0019",
+          "level": "listen",
+          "text": "先别急着做。",
+          "alternatives": [
+            {
+              "text": "先不要急着做。",
+              "id": "s09_02_0019_alt01",
+              "meaning_vi": "Trước mắt đừng hấp tấp làm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先等一下。",
+              "id": "s09_02_0019_reply01",
+              "meaning_vi": "Được, tôi đợi chút trước."
+            },
+            {
+              "text": "还要确认什么？",
+              "id": "s09_02_0019_reply02",
+              "meaning_vi": "Còn cần xác nhận gì nữa?"
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“先别急着做”是暂时别开工，可能还要确认条件；不等于这项工作永远不能做。",
+              "text_vi": "“先别急着做” nhắc tạm đừng làm vội vì có thể còn phải xác nhận điều kiện, không cấm vĩnh viễn."
+            }
+          ],
+          "pinyin": "xiān bié jí zhe zuò",
+          "meaning_vi": "Đừng vội làm ngay.",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        },
+        {
+          "id": "s09_02_0020",
+          "level": "listen",
+          "text": "几点开始？",
+          "alternatives": [
+            {
+              "text": "几点钟开始？",
+              "id": "s09_02_0020_alt01",
+              "meaning_vi": "Bắt đầu lúc mấy giờ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "三点开始。",
+              "id": "s09_02_0020_reply01",
+              "meaning_vi": "Bắt đầu lúc ba giờ."
+            },
+            {
+              "text": "还没确定。",
+              "id": "s09_02_0020_reply02",
+              "meaning_vi": "Vẫn chưa chốt."
+            }
+          ],
+          "lesson_id": "09.2",
+          "lesson_title": "09.2 制定计划",
+          "mistakes": [
+            {
+              "text": "“几点开始？”只问开始时间，不代表结束时间；和“几点集合？”也不同。",
+              "text_vi": "“几点开始?” chỉ hỏi giờ bắt đầu, không hỏi khi nào kết thúc và cũng khác “几点集合?”."
+            }
+          ],
+          "pinyin": "jǐ diǎn kāi shǐ",
+          "meaning_vi": "Mấy giờ bắt đầu?",
+          "lesson_title_vi": "09.2 Lập kế hoạch"
+        }
+      ],
+      "subtitle": "20张高频卡 · 13必说 + 7必听",
+      "title_vi": "09.2 Lập kế hoạch",
+      "subtitle_vi": "20 thẻ thông dụng · 13 câu cần nói + 7 câu cần nghe",
+      "opening_vi": "Luyện nói làm trước rồi làm sau, lúc nào xuất phát và cách kiểm tra thứ tự sau khi hoàn thành."
+    },
+    {
+      "id": "09.3",
+      "title": "09.3 商量安排",
+      "opening": "这一课练跟人商量时间、地点、谁先去，以及怎样把安排定下来。",
+      "phrases": [
+        {
+          "id": "s09_03_0001",
+          "level": "must",
+          "text": "这个安排怎么样？",
+          "alternatives": [
+            {
+              "text": "这样安排怎么样？",
+              "id": "s09_03_0001_alt01",
+              "meaning_vi": "Bạn thấy sắp xếp thế này sao?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s09_03_0001_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "我觉得还要改一下。",
+              "id": "s09_03_0001_reply02",
+              "meaning_vi": "Tôi thấy vẫn cần sửa thêm chút."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“怎么样”在这里问安排是否合适，不是问某个人身体怎么样；要结合前面谈过的计划理解。",
+              "text_vi": "“怎么样” ở đây đánh giá lịch sắp xếp có hợp không, không hỏi sức khỏe người khác; hiểu theo kế hoạch đã bàn."
+            }
+          ],
+          "pinyin": "zhè ge ān pái zěn me yàng",
+          "meaning_vi": "Sắp xếp như thế này được không?",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0002",
+          "level": "must",
+          "text": "三点可以吗？",
+          "alternatives": [
+            {
+              "text": "三点行吗？",
+              "id": "s09_03_0002_alt01",
+              "meaning_vi": "Ba giờ có ổn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s09_03_0002_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "三点不行，四点吧。",
+              "id": "s09_03_0002_reply02",
+              "meaning_vi": "Ba giờ không được, bốn giờ nhé."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“三点可以吗？”询问三点是否方便，不等于通知已经定在三点；还需对方确认。",
+              "text_vi": "“三点可以吗?” hỏi ba giờ có tiện không, chưa phải thông báo đã chốt ba giờ; cần người kia đồng ý."
+            }
+          ],
+          "pinyin": "sān diǎn kě yǐ ma",
+          "meaning_vi": "Ba giờ được không?",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0003",
+          "level": "must",
+          "text": "你几点方便？",
+          "alternatives": [
+            {
+              "text": "你几点有空？",
+              "id": "s09_03_0003_alt01",
+              "meaning_vi": "Mấy giờ bạn rảnh?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "下午三点方便。",
+              "id": "s09_03_0003_reply01",
+              "meaning_vi": "Ba giờ chiều thì tiện."
+            },
+            {
+              "text": "晚上比较方便。",
+              "id": "s09_03_0003_reply02",
+              "meaning_vi": "Buổi tối tiện hơn."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“方便”这里询问何时有空，不是地点交通是否便利；越南语人称应随人物关系调整。",
+              "text_vi": "“方便” hỏi thời điểm đối phương rảnh, không hỏi vị trí có thuận tiện hay không. Xưng hô tiếng Việt theo quan hệ."
+            }
+          ],
+          "pinyin": "nǐ jǐ diǎn fāng biàn",
+          "meaning_vi": "Bạn tiện lúc mấy giờ?",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0004",
+          "level": "must",
+          "text": "要不周五？",
+          "alternatives": [
+            {
+              "text": "要不改周五？",
+              "id": "s09_03_0004_alt01",
+              "meaning_vi": "Hay chuyển sang thứ Sáu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "周五可以。",
+              "id": "s09_03_0004_reply01",
+              "meaning_vi": "Thứ Sáu được."
+            },
+            {
+              "text": "周五不行，周六吧。",
+              "id": "s09_03_0004_reply02",
+              "meaning_vi": "Thứ Sáu không được, thứ Bảy nhé."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“要不周五？”是温和地提出“周五怎么样”，不是表示“不要周五”。",
+              "text_vi": "“要不周五?” là lời đề nghị nhẹ “hay thứ Sáu nhé?”, không phải nói không muốn thứ Sáu."
+            }
+          ],
+          "pinyin": "yào bu zhōu wǔ",
+          "meaning_vi": "Hay thứ Sáu nhé?",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0005",
+          "level": "must",
+          "text": "上午还是下午？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "上午吧。",
+              "id": "s09_03_0005_reply01",
+              "meaning_vi": "Buổi sáng nhé."
+            },
+            {
+              "text": "下午比较方便。",
+              "id": "s09_03_0005_reply02",
+              "meaning_vi": "Buổi chiều tiện hơn."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“上午”指中午之前，“下午”指中午之后；约具体时间最好同时说钟点，避免约错。",
+              "text_vi": "“上午” là trước trưa, “下午” là sau trưa. Hẹn việc nên nói rõ cả giờ để tránh hiểu nhầm."
+            }
+          ],
+          "pinyin": "shàng wǔ hái shi xià wǔ",
+          "meaning_vi": "Buổi sáng hay buổi chiều?",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0006",
+          "level": "must",
+          "text": "谁先去？",
+          "alternatives": [
+            {
+              "text": "谁先过去？",
+              "id": "s09_03_0006_alt01",
+              "meaning_vi": "Ai qua trước?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我先去。",
+              "id": "s09_03_0006_reply01",
+              "meaning_vi": "Tôi đi trước."
+            },
+            {
+              "text": "你先去吧。",
+              "id": "s09_03_0006_reply02",
+              "meaning_vi": "Bạn đi trước nhé."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "lesson_roles": {
+            "09.2": "listen",
+            "09.3": "must"
+          },
+          "also_used_in": [
+            "09.2"
+          ],
+          "mistakes": [
+            {
+              "text": "“谁先去？”问的是谁先出发，而不是谁先到达；表达时应区分“去”和“到”，越南语称呼随人物关系选择。",
+              "text_vi": "“谁先去?” hỏi ai xuất phát trước, không phải ai tới nơi trước. Trả lời nên dùng cách xưng hô hợp quan hệ."
+            }
+          ],
+          "pinyin": "shéi xiān qù",
+          "meaning_vi": "Ai đi trước?",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0007",
+          "level": "must",
+          "text": "地点你来定吧。",
+          "alternatives": [
+            {
+              "text": "地点你定吧。",
+              "id": "s09_03_0007_alt01",
+              "meaning_vi": "Bạn chọn địa điểm đi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我找个方便的地方。",
+              "id": "s09_03_0007_reply01",
+              "meaning_vi": "Được, để tôi tìm chỗ thuận tiện."
+            },
+            {
+              "text": "还是你定吧。",
+              "id": "s09_03_0007_reply02",
+              "meaning_vi": "Hay bạn quyết nhé."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“你来定吧”把选择权交给对方，并不表示对方一定要独自负责所有安排。",
+              "text_vi": "“你来定吧” là nhường quyền chọn địa điểm, không có nghĩa giao toàn bộ trách nhiệm tổ chức cho người kia."
+            }
+          ],
+          "pinyin": "dì diǎn nǐ lái dìng ba",
+          "meaning_vi": "Địa điểm để bạn quyết nhé.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0008",
+          "level": "must",
+          "text": "那就这么安排吧。",
+          "alternatives": [
+            {
+              "text": "那就这么定。",
+              "id": "s09_03_0008_alt01",
+              "meaning_vi": "Vậy chốt như vậy."
+            },
+            {
+              "text": "那就这样安排吧。",
+              "id": "s09_03_0008_alt02",
+              "meaning_vi": "Vậy xếp lịch như thế nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_03_0008_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "行，就这样。",
+              "id": "s09_03_0008_reply02",
+              "meaning_vi": "Ừ, vậy nhé."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“那就这么安排吧”通常是商量后的确认；如果还没征得其他相关人员同意，不要以为所有人都同意了。",
+              "text_vi": "“那就这么安排吧” thường là xác nhận sau khi bàn, nhưng chưa chắc tất cả người liên quan đều đã đồng ý."
+            }
+          ],
+          "pinyin": "nà jiù zhè me ān pái ba",
+          "meaning_vi": "Vậy cứ sắp xếp thế nhé.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0009",
+          "level": "must",
+          "text": "你先选时间吧。",
+          "alternatives": [
+            {
+              "text": "时间你先选吧。",
+              "id": "s09_03_0009_alt01",
+              "meaning_vi": "Giờ bạn chọn trước nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我看一下。",
+              "id": "s09_03_0009_reply01",
+              "meaning_vi": "Được, để tôi xem."
+            },
+            {
+              "text": "你先说你的时间吧。",
+              "id": "s09_03_0009_reply02",
+              "meaning_vi": "Bạn nói giờ bạn rảnh trước đi."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“你先选时间吧”请对方先选择时间，不表示自己没有空；越南语称呼应根据双方关系决定。",
+              "text_vi": "“你先选时间吧” nhường đối phương chọn giờ trước, không nhất thiết mình không rảnh; xưng hô nên lịch sự."
+            }
+          ],
+          "pinyin": "nǐ xiān xuǎn shí jiān ba",
+          "meaning_vi": "Bạn chọn giờ trước nhé.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0010",
+          "level": "must",
+          "text": "要不你先去？",
+          "alternatives": [
+            {
+              "text": "要不你先过去？",
+              "id": "s09_03_0010_alt01",
+              "meaning_vi": "Hay bạn qua trước?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我先去。",
+              "id": "s09_03_0010_reply01",
+              "meaning_vi": "Được, tôi đi trước."
+            },
+            {
+              "text": "还是你先去吧。",
+              "id": "s09_03_0010_reply02",
+              "meaning_vi": "Thôi bạn đi trước thì hơn."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“要不你先去？”是商量性的提议，不是上级命令；和直接说“你先去”语气不同。",
+              "text_vi": "“要不你先去?” là đề nghị để đối phương đi trước, không phải mệnh lệnh như “你先去”."
+            }
+          ],
+          "pinyin": "yào bu nǐ xiān qù",
+          "meaning_vi": "Hay bạn đi trước?",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0011",
+          "level": "must",
+          "text": "如果不行再换。",
+          "alternatives": [
+            {
+              "text": "不行的话再换。",
+              "id": "s09_03_0011_alt01",
+              "meaning_vi": "Không được thì đổi lại."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，先这样。",
+              "id": "s09_03_0011_reply01",
+              "meaning_vi": "Được, tạm thế nhé."
+            },
+            {
+              "text": "行，不合适再说。",
+              "id": "s09_03_0011_reply02",
+              "meaning_vi": "Ừ, không hợp thì bàn lại."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“如果不行再换”是假设当前办法不成功才换，不代表现在就取消原安排。",
+              "text_vi": "“如果不行再换” là giả định nếu cách hiện tại không được thì mới đổi, chưa phải đã hủy lịch."
+            }
+          ],
+          "pinyin": "rú guǒ bù xíng zài huàn",
+          "meaning_vi": "Nếu không được thì đổi sau.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0012",
+          "level": "must",
+          "text": "确定以后告诉我。",
+          "alternatives": [
+            {
+              "text": "确定了告诉我。",
+              "id": "s09_03_0012_alt01",
+              "meaning_vi": "Quyết xong thì báo tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，确定了联系你。",
+              "id": "s09_03_0012_reply01",
+              "meaning_vi": "Được, chốt xong tôi liên lạc bạn."
+            },
+            {
+              "text": "行。",
+              "id": "s09_03_0012_reply02",
+              "meaning_vi": "Được."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“确定以后告诉我”请对方确认后再通知，而不是催促马上答复；越南语中的自称应根据场景灵活选择。",
+              "text_vi": "“确定以后告诉我” là chốt xong rồi báo, khác giục trả lời ngay. Tiếng Việt chọn đại từ theo người nói."
+            }
+          ],
+          "pinyin": "què dìng yǐ hòu gào su wǒ",
+          "meaning_vi": "Chốt rồi báo tôi nhé.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0013",
+          "level": "listen",
+          "text": "这个时间不行。",
+          "alternatives": [
+            {
+              "text": "这个时间不方便。",
+              "id": "s09_03_0013_alt01",
+              "meaning_vi": "Giờ này không tiện."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那几点方便？",
+              "id": "s09_03_0013_reply01",
+              "meaning_vi": "Vậy mấy giờ tiện?"
+            },
+            {
+              "text": "要不晚一点？",
+              "id": "s09_03_0013_reply02",
+              "meaning_vi": "Hay muộn hơn chút?"
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“这个时间不行”比较直接；对客户、主管或不熟的人说“这个时间不太方便”通常更委婉。",
+              "text_vi": "“这个时间不行” khá thẳng; với khách hàng hoặc cấp trên, “这个时间不太方便” nhẹ hơn."
+            }
+          ],
+          "pinyin": "zhè ge shí jiān bù xíng",
+          "meaning_vi": "Giờ này không được.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0014",
+          "level": "listen",
+          "text": "晚一点吧。",
+          "alternatives": [
+            {
+              "text": "晚点吧。",
+              "id": "s09_03_0014_alt01",
+              "meaning_vi": "Để muộn hơn chút nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以。",
+              "id": "s09_03_0014_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "几点比较好？",
+              "id": "s09_03_0014_reply02",
+              "meaning_vi": "Mấy giờ thì tốt hơn?"
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“晚一点”只表示相对原时间往后推，并没有给出具体新时间；重要约定要再确认几点。",
+              "text_vi": "“晚一点” chỉ dời muộn hơn giờ trước, chưa rõ giờ mới. Lịch quan trọng nên xác nhận cụ thể."
+            }
+          ],
+          "pinyin": "wǎn yì diǎn ba",
+          "meaning_vi": "Muộn hơn một chút nhé.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0015",
+          "level": "listen",
+          "text": "都按你的安排。",
+          "alternatives": [
+            {
+              "text": "听你的安排。",
+              "id": "s09_03_0015_alt01",
+              "meaning_vi": "Tôi theo lịch bạn sắp xếp."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我来安排。",
+              "id": "s09_03_0015_reply01",
+              "meaning_vi": "Được, vậy để tôi sắp xếp."
+            },
+            {
+              "text": "行，确定后告诉你。",
+              "id": "s09_03_0015_reply02",
+              "meaning_vi": "Ừ, quyết rồi tôi báo bạn."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“都按你的安排”是接受对方安排，不等于自己已经核实所有细节；对不合理的安排仍可以提出意见。",
+              "text_vi": "“都按你的安排” là chấp nhận sắp xếp của người kia, không có nghĩa mọi chi tiết đã được kiểm tra hoặc không thể góp ý."
+            }
+          ],
+          "pinyin": "dōu àn nǐ de ān pái",
+          "meaning_vi": "Tất cả theo sắp xếp của bạn.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0016",
+          "level": "listen",
+          "text": "你先定吧。",
+          "alternatives": [
+            {
+              "text": "你先决定吧。",
+              "id": "s09_03_0016_alt01",
+              "meaning_vi": "Bạn quyết trước đi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那我先定时间。",
+              "id": "s09_03_0016_reply01",
+              "meaning_vi": "Được, vậy tôi chốt giờ trước."
+            },
+            {
+              "text": "还是一起商量吧。",
+              "id": "s09_03_0016_reply02",
+              "meaning_vi": "Tốt nhất cùng bàn nhé."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“你先定吧”把这次决定权交给对方，不代表今后的安排都由他负责；时间地点不明确时可再问。",
+              "text_vi": "“你先定吧” giao quyền quyết lần này, không phải người kia sẽ phụ trách mọi lịch trong tương lai."
+            }
+          ],
+          "pinyin": "nǐ xiān dìng ba",
+          "meaning_vi": "Bạn cứ chốt trước.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0017",
+          "level": "must",
+          "text": "这个时间我可以。",
+          "alternatives": [
+            {
+              "text": "这个时间我没问题。",
+              "id": "s09_03_0017_alt01",
+              "meaning_vi": "Giờ này tôi không có vấn đề gì."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那就这个时间。",
+              "id": "s09_03_0017_reply01",
+              "meaning_vi": "Được, vậy chốt giờ này."
+            },
+            {
+              "text": "行，到时候联系。",
+              "id": "s09_03_0017_reply02",
+              "meaning_vi": "Ừ, đến lúc đó liên lạc."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“这个时间我可以”表示这个时间自己方便，并非所有参加者都已经同意；不要误当作最终集体确认。",
+              "text_vi": "“这个时间我可以” nói giờ đó tiện cho bản thân, chưa chắc tất cả người tham gia đã đồng ý."
+            }
+          ],
+          "pinyin": "zhè ge shí jiān wǒ kě yǐ",
+          "meaning_vi": "Giờ này tôi được.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0018",
+          "level": "listen",
+          "text": "我都可以。",
+          "alternatives": [
+            {
+              "text": "怎么都可以。",
+              "id": "s09_03_0018_alt01",
+              "meaning_vi": "Thế nào cũng được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我来定吧。",
+              "id": "s09_03_0018_reply01",
+              "meaning_vi": "Vậy để tôi quyết nhé."
+            },
+            {
+              "text": "好，那就三点。",
+              "id": "s09_03_0018_reply02",
+              "meaning_vi": "Được, vậy ba giờ nhé."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“我都可以”只针对正在讨论的几个选择，不是说在任何时间、任何事情上都完全没有限制。",
+              "text_vi": "“我都可以” chỉ các lựa chọn đang bàn đều được, không phải mình không có giới hạn với mọi thời gian."
+            }
+          ],
+          "pinyin": "wǒ dōu kě yǐ",
+          "meaning_vi": "Tôi chọn lúc nào cũng được.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        },
+        {
+          "id": "s09_03_0019",
+          "level": "listen",
+          "text": "我这边没问题。",
+          "alternatives": [
+            {
+              "text": "我这边可以。",
+              "id": "s09_03_0019_alt01",
+              "meaning_vi": "Phía tôi thì được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那就这么安排。",
+              "id": "s09_03_0019_reply01",
+              "meaning_vi": "Được, vậy sắp xếp thế."
+            },
+            {
+              "text": "行，我再确认另一边。",
+              "id": "s09_03_0019_reply02",
+              "meaning_vi": "Ừ, tôi xác nhận lại với bên kia."
+            }
+          ],
+          "lesson_id": "09.3",
+          "lesson_title": "09.3 商量安排",
+          "mistakes": [
+            {
+              "text": "“我这边没问题”只代表说话人或自己负责的这一方同意；不保证其他人的时间、审批或条件都没问题。",
+              "text_vi": "“我这边没问题” chỉ đại diện bản thân hoặc phía mình, không bảo đảm phía khác hay khâu phê duyệt đều ổn."
+            }
+          ],
+          "pinyin": "wǒ zhè biān méi wèn tí",
+          "meaning_vi": "Phía tôi không có vấn đề gì.",
+          "lesson_title_vi": "09.3 Thỏa thuận và sắp xếp"
+        }
+      ],
+      "subtitle": "19张高频卡 · 13必说 + 6必听",
+      "title_vi": "09.3 Thỏa thuận và sắp xếp",
+      "subtitle_vi": "19 thẻ thông dụng · 13 câu cần nói + 6 câu cần nghe",
+      "opening_vi": "Luyện thỏa thuận thời gian, địa điểm, ai đi trước và cách chốt lịch."
+    },
+    {
+      "id": "09.4",
+      "title": "09.4 改变原来的计划",
+      "opening": "这一课练已经定好的事情怎样取消、暂缓、换方法、换地点和重新安排。",
+      "phrases": [
+        {
+          "id": "s09_04_0001",
+          "level": "must",
+          "text": "我改主意了。",
+          "alternatives": [
+            {
+              "text": "我改变主意了。",
+              "id": "s09_04_0001_alt01",
+              "meaning_vi": "Tôi thay đổi ý định rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "你改成什么了？",
+              "id": "s09_04_0001_reply01",
+              "meaning_vi": "Bạn đổi sang phương án nào?"
+            },
+            {
+              "text": "为什么改主意？",
+              "id": "s09_04_0001_reply02",
+              "meaning_vi": "Sao bạn đổi ý?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“改主意”是想法或决定变了；机票、订单等已经实际改好，则还要说清楚具体改了什么。",
+              "text_vi": "“改主意” là thay đổi ý định hoặc quyết định. Nếu đơn hàng/vé thực sự đã chỉnh sửa, cần nói rõ đã đổi gì."
+            }
+          ],
+          "pinyin": "wǒ gǎi zhǔ yi le",
+          "meaning_vi": "Tôi đổi ý rồi.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0002",
+          "level": "must",
+          "text": "我不去了。",
+          "alternatives": [
+            {
+              "text": "我决定不去了。",
+              "id": "s09_04_0002_alt01",
+              "meaning_vi": "Tôi quyết định không đi nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "为什么不去了？",
+              "id": "s09_04_0002_reply01",
+              "meaning_vi": "Sao không đi nữa?"
+            },
+            {
+              "text": "好，那下次吧。",
+              "id": "s09_04_0002_reply02",
+              "meaning_vi": "Ừ, vậy để lần sau."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“我不去了”一般表示原来要去、现在不去；如果只是迟一点到，应说“我晚点去”。",
+              "text_vi": "“我不去了” thường là trước định đi giờ không đi; nếu chỉ đến muộn thì phải nói “我晚点去”."
+            }
+          ],
+          "pinyin": "wǒ bú qù le",
+          "meaning_vi": "Tôi không đi nữa.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0003",
+          "level": "must",
+          "text": "先不买了。",
+          "alternatives": [
+            {
+              "text": "暂时不买了。",
+              "id": "s09_04_0003_alt01",
+              "meaning_vi": "Tạm thời không mua nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，那再看看。",
+              "id": "s09_04_0003_reply01",
+              "meaning_vi": "Được, vậy xem thêm nhé."
+            },
+            {
+              "text": "为什么不买了？",
+              "id": "s09_04_0003_reply02",
+              "meaning_vi": "Sao không mua nữa?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“先不买了”通常是暂时不买，未必永远不买；“不买了”更像已经决定放弃购买。",
+              "text_vi": "“先不买了” nghĩa là tạm thời chưa mua, không phải mãi mãi không mua. “不买了” gần như quyết không mua hơn."
+            }
+          ],
+          "pinyin": "xiān bù mǎi le",
+          "meaning_vi": "Trước mắt chưa mua nữa.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0004",
+          "level": "must",
+          "text": "这个先不做。",
+          "alternatives": [
+            {
+              "text": "这个暂时不做。",
+              "id": "s09_04_0004_alt01",
+              "meaning_vi": "Tạm thời không làm cái này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那先做哪个？",
+              "id": "s09_04_0004_reply01",
+              "meaning_vi": "Vậy làm cái nào trước?"
+            },
+            {
+              "text": "好，先放着。",
+              "id": "s09_04_0004_reply02",
+              "meaning_vi": "Được, tạm để đó."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“先不做”通常是暂缓任务，并不一定是取消；工作中最好继续确认接下来先做哪项。",
+              "text_vi": "“先不做” thường là hoãn việc, không nhất thiết hủy. Trong công việc nên hỏi tiếp ưu tiên việc nào."
+            }
+          ],
+          "pinyin": "zhè ge xiān bú zuò",
+          "meaning_vi": "Cái này chưa làm vội.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0005",
+          "level": "must",
+          "text": "我们换个办法。",
+          "alternatives": [
+            {
+              "text": "那我们换个办法。",
+              "id": "s09_04_0005_alt01",
+              "meaning_vi": "Vậy mình đổi phương án nhé."
+            },
+            {
+              "text": "我们换一种办法。",
+              "id": "s09_04_0005_alt02",
+              "meaning_vi": "Mình đổi sang cách làm khác."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，换什么办法？",
+              "id": "s09_04_0005_reply01",
+              "meaning_vi": "Được, đổi sang cách nào?"
+            },
+            {
+              "text": "先别换，再试一次。",
+              "id": "s09_04_0005_reply02",
+              "meaning_vi": "Đừng đổi vội, thử lại lần nữa."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“换个办法”是换解决方法，不一定更换时间或地点；“换个方案”通常更像调整整套方案。",
+              "text_vi": "“换个办法” là đổi cách giải quyết, không nhất thiết đổi giờ hay địa điểm. “换个方案” thường thay cả phương án."
+            }
+          ],
+          "pinyin": "wǒ men huàn ge bàn fǎ",
+          "meaning_vi": "Chúng ta đổi cách khác.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0006",
+          "level": "must",
+          "text": "换一个吧。",
+          "alternatives": [
+            {
+              "text": "那就换一个吧。",
+              "id": "s09_04_0006_alt01",
+              "meaning_vi": "Vậy đổi cái khác đi."
+            },
+            {
+              "text": "换个别的吧。",
+              "id": "s09_04_0006_alt02",
+              "meaning_vi": "Đổi sang loại khác nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，你想换哪个？",
+              "id": "s09_04_0006_reply01",
+              "meaning_vi": "Được, bạn muốn đổi cái nào?"
+            },
+            {
+              "text": "这个不能换。",
+              "id": "s09_04_0006_reply02",
+              "meaning_vi": "Cái này không đổi được."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“换一个吧”里的“一个”必须能从现场看出指什么；不要把商品换货与改变计划混为一谈。",
+              "text_vi": "“换一个吧” lược mất vật cần đổi, phải dựa vào thứ đang chỉ; đừng lẫn đổi sản phẩm với đổi kế hoạch."
+            }
+          ],
+          "pinyin": "huàn yí ge ba",
+          "meaning_vi": "Đổi cái khác nhé.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0007",
+          "level": "must",
+          "text": "明天再决定。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，明天再说。",
+              "id": "s09_04_0007_reply01",
+              "meaning_vi": "Được, mai nói tiếp."
+            },
+            {
+              "text": "今天不能定吗？",
+              "id": "s09_04_0007_reply02",
+              "meaning_vi": "Hôm nay không chốt được à?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“明天再决定”是明天才作决定，不是决定明天去做这件事；“再”是推后决定的时间。",
+              "text_vi": "“明天再决定” là tới mai mới ra quyết định, không phải quyết định việc sẽ làm vào ngày mai."
+            }
+          ],
+          "pinyin": "míng tiān zài jué dìng",
+          "meaning_vi": "Ngày mai quyết tiếp.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0008",
+          "level": "must",
+          "text": "计划有变。",
+          "alternatives": [
+            {
+              "text": "计划有变化。",
+              "id": "s09_04_0008_alt01",
+              "meaning_vi": "Kế hoạch thay đổi rồi."
+            },
+            {
+              "text": "计划变了。",
+              "id": "s09_04_0008_alt02",
+              "meaning_vi": "Kế hoạch đổi rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "怎么变了？",
+              "id": "s09_04_0008_reply01",
+              "meaning_vi": "Thay đổi thế nào?"
+            },
+            {
+              "text": "新的计划是什么？",
+              "id": "s09_04_0008_reply02",
+              "meaning_vi": "Kế hoạch mới là gì?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“计划有变”常见于工作通知，稍偏简洁正式；跟朋友聊天说“计划变了”更直接。",
+              "text_vi": "“计划有变” là thông báo súc tích, hơi trang trọng trong công việc. Nói với bạn bè “计划变了” tự nhiên hơn."
+            }
+          ],
+          "pinyin": "jì huà yǒu biàn",
+          "meaning_vi": "Kế hoạch có thay đổi.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0009",
+          "level": "must",
+          "text": "我想换个地方。",
+          "alternatives": [
+            {
+              "text": "我想换个地点。",
+              "id": "s09_04_0009_alt01",
+              "meaning_vi": "Tôi muốn đổi địa điểm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "想换到哪里？",
+              "id": "s09_04_0009_reply01",
+              "meaning_vi": "Muốn đổi sang đâu?"
+            },
+            {
+              "text": "可以，换个近一点的。",
+              "id": "s09_04_0009_reply02",
+              "meaning_vi": "Được, đổi sang nơi gần hơn."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“换个地方”是改变原定地点；如果尚未定过地点，只是在找地方，通常说“找个地方”。",
+              "text_vi": "“换个地方” là thay đổi địa điểm ban đầu, còn chưa hẹn đâu mà muốn tìm nơi thì nói “找个地方”."
+            }
+          ],
+          "pinyin": "wǒ xiǎng huàn ge dì fang",
+          "meaning_vi": "Tôi muốn đổi chỗ khác.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0010",
+          "level": "must",
+          "text": "我准备改坐地铁。",
+          "alternatives": [
+            {
+              "text": "我打算改坐地铁。",
+              "id": "s09_04_0010_alt01",
+              "meaning_vi": "Tôi dự định đi tàu điện ngầm thay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "地铁更快。",
+              "id": "s09_04_0010_reply01",
+              "meaning_vi": "Tàu điện ngầm nhanh hơn."
+            },
+            {
+              "text": "那在哪站下？",
+              "id": "s09_04_0010_reply02",
+              "meaning_vi": "Vậy xuống ở ga nào?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“改坐地铁”强调原来打算坐别的交通工具，现在改成地铁；不是“换乘地铁”的途中换车。",
+              "text_vi": "“改坐地铁” nghĩa là trước tính đi phương tiện khác giờ đổi sang tàu điện ngầm, không phải chỉ chuyển tuyến giữa chuyến đi."
+            }
+          ],
+          "pinyin": "wǒ zhǔn bèi gǎi zuò dì tiě",
+          "meaning_vi": "Tôi định chuyển sang đi tàu điện ngầm.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0011",
+          "level": "must",
+          "text": "我们先做别的。",
+          "alternatives": [
+            {
+              "text": "我们先做其他的。",
+              "id": "s09_04_0011_alt01",
+              "meaning_vi": "Mình làm thứ khác trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，先做哪个？",
+              "id": "s09_04_0011_reply01",
+              "meaning_vi": "Được, làm cái nào trước?"
+            },
+            {
+              "text": "原来的什么时候做？",
+              "id": "s09_04_0011_reply02",
+              "meaning_vi": "Việc ban đầu khi nào làm?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“先做别的”表示眼前这件事先放一边，先处理其他事情，不代表已经彻底取消原计划。",
+              "text_vi": "“先做别的” tạm gác việc này để làm việc khác trước, không có nghĩa hủy hoàn toàn."
+            }
+          ],
+          "pinyin": "wǒ men xiān zuò bié de",
+          "meaning_vi": "Mình làm việc khác trước.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0012",
+          "level": "must",
+          "text": "这个以后再说。",
+          "alternatives": [
+            {
+              "text": "这个以后再谈。",
+              "id": "s09_04_0012_alt01",
+              "meaning_vi": "Chuyện này bàn sau nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好。",
+              "id": "s09_04_0012_reply01",
+              "meaning_vi": "Được."
+            },
+            {
+              "text": "什么时候再说？",
+              "id": "s09_04_0012_reply02",
+              "meaning_vi": "Khi nào bàn lại?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“以后再说”有时是真要以后讨论，有时是委婉地暂时拒绝；不能自动理解为对方已经答应。",
+              "text_vi": "“以后再说” có khi thật sự muốn bàn sau, cũng có thể là từ chối khéo tạm thời, chưa thể coi là đã nhận lời."
+            }
+          ],
+          "pinyin": "zhè ge yǐ hòu zài shuō",
+          "meaning_vi": "Việc này để sau nói.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0013",
+          "level": "must",
+          "text": "如果不行就换方案。",
+          "alternatives": [
+            {
+              "text": "不行的话就换方案。",
+              "id": "s09_04_0013_alt01",
+              "meaning_vi": "Không được thì đổi kế hoạch."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，先试这个。",
+              "id": "s09_04_0013_reply01",
+              "meaning_vi": "Được, thử cái này trước."
+            },
+            {
+              "text": "备用方案是什么？",
+              "id": "s09_04_0013_reply02",
+              "meaning_vi": "Phương án dự phòng là gì?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“如果不行”表示条件还没有发生；只是在提前留备用方案，不等于眼前方案已经失败。",
+              "text_vi": "“如果不行” là điều kiện chưa xảy ra, chuẩn bị phương án dự phòng, không có nghĩa phương án hiện tại đã thất bại."
+            }
+          ],
+          "pinyin": "rú guǒ bù xíng jiù huàn fāng àn",
+          "meaning_vi": "Nếu không ổn thì đổi phương án.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0014",
+          "level": "must",
+          "text": "我想重新安排一下。",
+          "alternatives": [
+            {
+              "text": "我想重新调整一下。",
+              "id": "s09_04_0014_alt01",
+              "meaning_vi": "Tôi muốn điều chỉnh lại một chút."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，你想怎么改？",
+              "id": "s09_04_0014_reply01",
+              "meaning_vi": "Được, bạn muốn đổi thế nào?"
+            },
+            {
+              "text": "哪里不合适？",
+              "id": "s09_04_0014_reply02",
+              "meaning_vi": "Chỗ nào không phù hợp?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“重新安排”可能连时间、顺序、负责的人都一起调整；如果只想晚一点，直接说“推迟一点”更明确。",
+              "text_vi": "“重新安排” có thể thay giờ, thứ tự và người phụ trách. Chỉ muốn lùi giờ thì nên nói rõ “推迟一点”."
+            }
+          ],
+          "pinyin": "wǒ xiǎng chóng xīn ān pái yí xià",
+          "meaning_vi": "Tôi muốn sắp xếp lại một chút.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0015",
+          "level": "listen",
+          "text": "你改主意了？",
+          "alternatives": [
+            {
+              "text": "你改变主意了？",
+              "id": "s09_04_0015_alt01",
+              "meaning_vi": "Bạn thay đổi ý định rồi à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，我改主意了。",
+              "id": "s09_04_0015_reply01",
+              "meaning_vi": "Đúng, tôi đổi ý rồi."
+            },
+            {
+              "text": "没有，只是想再看看。",
+              "id": "s09_04_0015_reply02",
+              "meaning_vi": "Không, chỉ muốn xem thêm thôi."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“你改主意了？”可以只是询问，也可能听起来惊讶或不满，实际语气取决于说话方式。",
+              "text_vi": "“你改主意了?” có thể chỉ hỏi hoặc biểu lộ ngạc nhiên, thậm chí không hài lòng, tùy giọng."
+            }
+          ],
+          "pinyin": "nǐ gǎi zhǔ yi le",
+          "meaning_vi": "Bạn đổi ý rồi à?",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0016",
+          "level": "listen",
+          "text": "那还去吗？",
+          "alternatives": [
+            {
+              "text": "那还要去吗？",
+              "id": "s09_04_0016_alt01",
+              "meaning_vi": "Vậy vẫn đi chứ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不去了。",
+              "id": "s09_04_0016_reply01",
+              "meaning_vi": "Không đi nữa."
+            },
+            {
+              "text": "去，但是晚一点。",
+              "id": "s09_04_0016_reply02",
+              "meaning_vi": "Có đi, nhưng muộn hơn chút."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“那还去吗？”问变更安排后是否仍然去；不能把“还”理解为“已经去过”。",
+              "text_vi": "“那还去吗?” hỏi sau khi đổi lịch có vẫn đi không; “还” không có nghĩa đã từng đi."
+            }
+          ],
+          "pinyin": "nà hái qù ma",
+          "meaning_vi": "Vậy còn đi không?",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0017",
+          "level": "listen",
+          "text": "原来的计划取消了？",
+          "alternatives": [
+            {
+              "text": "原来的安排取消了？",
+              "id": "s09_04_0017_alt01",
+              "meaning_vi": "Lịch sắp xếp cũ bị hủy rồi à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，不用了。",
+              "id": "s09_04_0017_reply01",
+              "meaning_vi": "Đúng, không cần nữa."
+            },
+            {
+              "text": "还没决定。",
+              "id": "s09_04_0017_reply02",
+              "meaning_vi": "Chưa quyết định."
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“取消了”表示原计划不再实行，“推迟了”只是改到晚一点；回复“不用了”指这个安排不再需要，不能机械译成“不再使用物品”。",
+              "text_vi": "“取消了” là hủy kế hoạch, khác “推迟了” chỉ hoãn. Trả lời “不用了” ở đây nói lịch đó không cần nữa."
+            }
+          ],
+          "pinyin": "yuán lái de jì huà qǔ xiāo le",
+          "meaning_vi": "Kế hoạch ban đầu hủy rồi à?",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0018",
+          "level": "listen",
+          "text": "先别决定。",
+          "alternatives": [
+            {
+              "text": "先不要决定。",
+              "id": "s09_04_0018_alt01",
+              "meaning_vi": "Trước mắt đừng quyết định."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我再看看。",
+              "id": "s09_04_0018_reply01",
+              "meaning_vi": "Được, để tôi xem thêm."
+            },
+            {
+              "text": "为什么？",
+              "id": "s09_04_0018_reply02",
+              "meaning_vi": "Tại sao?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“先别决定”是建议暂缓决定，口吻有时较直接；对不熟悉的人可说“我们再考虑一下吧”。",
+              "text_vi": "“先别决定” là khuyên tạm hoãn quyết định, có thể nghe hơi trực tiếp. Với người lạ có thể nói “我们再考虑一下吧”."
+            }
+          ],
+          "pinyin": "xiān bié jué dìng",
+          "meaning_vi": "Đừng quyết vội.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        },
+        {
+          "id": "s09_04_0019",
+          "level": "listen",
+          "text": "可以以后再说。",
+          "alternatives": [
+            {
+              "text": "以后再说也可以。",
+              "id": "s09_04_0019_alt01",
+              "meaning_vi": "Nói sau cũng được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，晚点再谈。",
+              "id": "s09_04_0019_reply01",
+              "meaning_vi": "Được, lát nữa bàn tiếp."
+            },
+            {
+              "text": "那什么时候再说？",
+              "id": "s09_04_0019_reply02",
+              "meaning_vi": "Vậy khi nào nói tiếp?"
+            }
+          ],
+          "lesson_id": "09.4",
+          "lesson_title": "09.4 改变原来的计划",
+          "mistakes": [
+            {
+              "text": "“可以以后再说”表示允许推迟讨论，不保证以后一定会继续谈；听到后如有截止时间应问清楚。",
+              "text_vi": "“可以以后再说” cho phép dời việc bàn bạc, không hứa chắc sẽ nói tiếp. Nếu có hạn chót nên hỏi rõ."
+            }
+          ],
+          "pinyin": "kě yǐ yǐ hòu zài shuō",
+          "meaning_vi": "Để sau nói cũng được.",
+          "lesson_title_vi": "09.4 Thay đổi kế hoạch ban đầu"
+        }
+      ],
+      "subtitle": "19张高频卡 · 14必说 + 5必听",
+      "title_vi": "09.4 Thay đổi kế hoạch ban đầu",
+      "subtitle_vi": "19 thẻ thông dụng · 14 câu cần nói + 5 câu cần nghe",
+      "opening_vi": "Học cách hủy, tạm hoãn, đổi phương pháp, đổi địa điểm và sắp xếp lại việc đã chốt."
+    }
+  ],
+  "phrase_count": 79,
+  "theme_title_vi": "09 Lập kế hoạch và quyết định"
+}
