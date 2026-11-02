@@ -1,0 +1,2522 @@
+{
+  "theme_id": "40",
+  "lessons": [
+    {
+      "id": "40.1",
+      "title": "40.1 预订房间",
+      "phrases": [
+        {
+          "id": "s40_1_0001",
+          "level": "must",
+          "text": "我想订房。",
+          "when_to_use": "电话联系酒店前台准备订一间房时，先说明自己的订房意愿。",
+          "alternatives": [
+            {
+              "text": "我想订一个房间。",
+              "id": "s40_1_0001_alt01",
+              "meaning_vi": "Tôi muốn đặt một phòng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，您住几晚？",
+              "id": "s40_1_0001_reply01",
+              "meaning_vi": "Vâng, anh/chị ở mấy đêm?"
+            },
+            {
+              "text": "想订什么房型？",
+              "id": "s40_1_0001_reply02",
+              "meaning_vi": "Anh/chị muốn đặt loại phòng nào?"
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "wǒ xiǎng dìng fáng",
+          "mistakes": [
+            {
+              "text": "“订房”是预订房间，不表示已成功入住；还需确认日期、房型和订单。",
+              "text_vi": "Đặt phòng mới chỉ là yêu cầu giữ phòng, chưa phải đã ở; cần xác nhận ngày, loại phòng và đơn."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Tôi muốn đặt phòng."
+        },
+        {
+          "id": "s40_1_0002",
+          "level": "must",
+          "text": "我住两晚。",
+          "when_to_use": "前台问准备住几晚，你计划从周五入住到周日退房，就回答住两晚。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，帮您订两晚。",
+              "id": "s40_1_0002_reply01",
+              "meaning_vi": "Được, tôi đặt cho anh/chị hai đêm."
+            },
+            {
+              "text": "好，哪天退房？",
+              "id": "s40_1_0002_reply02",
+              "meaning_vi": "Vâng, ngày nào anh/chị trả phòng?"
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "wǒ zhù liǎng wǎn",
+          "mistakes": [
+            {
+              "text": "“两晚”数过夜次数，不等于只住两天；订房还需核对入住与退房日期。",
+              "text_vi": "“Hai đêm” là số đêm ngủ, không phải đơn giản hai ngày; kiểm tra ngày nhận và trả phòng."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Tôi ở hai đêm."
+        },
+        {
+          "id": "s40_1_0003",
+          "level": "must",
+          "text": "有大床房吗？",
+          "when_to_use": "你和同伴想睡在同一张大床上，订房时询问还有没有大床房。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，可以给您安排大床房。",
+              "id": "s40_1_0003_reply01",
+              "meaning_vi": "Có, tôi có thể sắp xếp phòng giường lớn cho anh/chị."
+            },
+            {
+              "text": "没有了，只剩双床房。",
+              "id": "s40_1_0003_reply02",
+              "meaning_vi": "Hết rồi, chỉ còn phòng hai giường đơn."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "yǒu dà chuáng fáng ma",
+          "mistakes": [
+            {
+              "text": "“大床房”通常是一张较大的床；“双床房”通常是两张床，不能混淆。",
+              "text_vi": "Phòng một giường lớn khác phòng hai giường đơn, không được hiểu lẫn nhau."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Có phòng một giường lớn không?"
+        },
+        {
+          "id": "s40_1_0004",
+          "level": "must",
+          "text": "一晚多少钱？",
+          "when_to_use": "酒店告诉你有空房，你想比较自己的预算，问这间房每晚的价格。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大床房三百一晚。",
+              "id": "s40_1_0004_reply01",
+              "meaning_vi": "Phòng giường lớn 300 tệ một đêm."
+            },
+            {
+              "text": "我帮您查一下今晚的房价。",
+              "id": "s40_1_0004_reply02",
+              "meaning_vi": "Để tôi kiểm tra giá phòng tối nay."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "yì wǎn duō shǎo qián",
+          "mistakes": [
+            {
+              "text": "“一晚”是每晚房价，可能不含税费、早餐或押金；预订前应问清总金额。",
+              "text_vi": "Giá một đêm có thể chưa gồm thuế, bữa sáng hay tiền cọc; hỏi tổng trước khi đặt."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Một đêm bao nhiêu tiền?"
+        },
+        {
+          "id": "s40_1_0005",
+          "level": "must",
+          "text": "含早餐吗？",
+          "when_to_use": "看中一间酒店房间后，想知道房价是否已经包含早餐，就向订房人员确认。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "含早餐。",
+              "id": "s40_1_0005_reply01",
+              "meaning_vi": "Có bao gồm bữa sáng."
+            },
+            {
+              "text": "不含早餐，早餐另外收费。",
+              "id": "s40_1_0005_reply02",
+              "meaning_vi": "Không bao gồm, bữa sáng tính phí riêng."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "hán zǎo cān ma",
+          "mistakes": [
+            {
+              "text": "“含早餐”是房价包含早餐，不是酒店有没有早餐餐厅；早餐供应人数也应核对。",
+              "text_vi": "“Bao gồm bữa sáng” là giá phòng đã kèm bữa sáng, không chỉ hỏi khách sạn có nhà hàng; nên hỏi số suất."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Giá phòng có bao gồm bữa sáng không?"
+        },
+        {
+          "id": "s40_1_0006",
+          "level": "must",
+          "text": "今晚还有房吗？",
+          "when_to_use": "晚上临时到陌生城市还没订酒店，打电话问今晚能否立刻订到房。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，今晚还有空房。",
+              "id": "s40_1_0006_reply01",
+              "meaning_vi": "Còn, tối nay vẫn có phòng trống."
+            },
+            {
+              "text": "没有了，今晚满房。",
+              "id": "s40_1_0006_reply02",
+              "meaning_vi": "Hết rồi, tối nay kín phòng."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "jīn wǎn hái yǒu fáng ma",
+          "mistakes": [
+            {
+              "text": "“今晚”是今天这一晚，不是问明天的房间；有房也需确认能否立即入住。",
+              "text_vi": "“Tối nay” là đêm hiện tại, không phải đêm mai; còn phòng chưa chắc có thể nhận ngay."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Tối nay còn phòng không?"
+        },
+        {
+          "id": "s40_1_0007",
+          "level": "must",
+          "text": "有双床房吗？",
+          "when_to_use": "你和同事出差想各睡一张床，预订时询问双床房的余量。",
+          "alternatives": [
+            {
+              "text": "有两张床的房间吗？",
+              "id": "s40_1_0007_alt01",
+              "meaning_vi": "Có phòng có hai giường không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，可以给您安排双床房。",
+              "id": "s40_1_0007_reply01",
+              "meaning_vi": "Có, tôi sắp xếp phòng hai giường đơn cho anh/chị."
+            },
+            {
+              "text": "没有了，只剩大床房。",
+              "id": "s40_1_0007_reply02",
+              "meaning_vi": "Hết rồi, chỉ còn phòng một giường lớn."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "yǒu shuāng chuáng fáng ma",
+          "mistakes": [
+            {
+              "text": "“双床房”是两张独立的床，不代表预订了两间房；要确认房间和人数。",
+              "text_vi": "Phòng hai giường đơn có hai giường trong cùng một phòng, không phải hai phòng."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Có phòng hai giường đơn không?"
+        },
+        {
+          "id": "s40_1_0008",
+          "level": "must",
+          "text": "可以提前入住吗？",
+          "when_to_use": "火车上午就到，但酒店正常下午才能入住，你问有空房时能否提前进房。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有空房的话可以。",
+              "id": "s40_1_0008_reply01",
+              "meaning_vi": "Có phòng sẵn thì được."
+            },
+            {
+              "text": "抱歉，现在没有收拾好的空房。",
+              "id": "s40_1_0008_reply02",
+              "meaning_vi": "Xin lỗi, hiện chưa có phòng trống đã dọn xong."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "kě yǐ tí qián rù zhù ma",
+          "mistakes": [
+            {
+              "text": "“提前入住”是比酒店规定时间早入住，可能受房态影响或收费；并非所有订房都免费提前入住。",
+              "text_vi": "Nhận phòng sớm là trước giờ khách sạn quy định, có thể tính phí và tùy phòng đã dọn."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Có thể nhận phòng sớm không?"
+        },
+        {
+          "id": "s40_1_0009",
+          "level": "must",
+          "text": "几点可以入住？",
+          "when_to_use": "你收到酒店订单但不清楚正式办理入住的时刻，准备出发前问前台。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "下午两点以后可以入住。",
+              "id": "s40_1_0009_reply01",
+              "meaning_vi": "Từ 2 giờ chiều có thể nhận phòng."
+            },
+            {
+              "text": "请看订单上的入住时间。",
+              "id": "s40_1_0009_reply02",
+              "meaning_vi": "Anh/chị xem giờ nhận phòng trên đơn đặt phòng nhé."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "jǐ diǎn kě yǐ rù zhù",
+          "mistakes": [
+            {
+              "text": "“几点可以入住”问最早能办理入住的时刻，不是问最晚何时退房。",
+              "text_vi": "Hỏi mấy giờ nhận phòng khác hỏi hạn trả phòng."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Mấy giờ có thể nhận phòng?"
+        },
+        {
+          "id": "s40_1_0011",
+          "level": "must",
+          "text": "可以免费取消吗？",
+          "when_to_use": "你可能因行程变化不住了，付款前核对这份酒店订单是否允许免费取消。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看订单的取消规则。",
+              "id": "s40_1_0011_reply01",
+              "meaning_vi": "Còn tùy quy định hủy của đơn."
+            },
+            {
+              "text": "这个订单可以在规定时间内免费取消。",
+              "id": "s40_1_0011_reply02",
+              "meaning_vi": "Đơn này hủy miễn phí trước hạn quy định."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "kě yǐ miǎn fèi qǔ xiāo ma",
+          "mistakes": [
+            {
+              "text": "“免费取消”通常有截止时间和房型条件；“可取消”不一定代表任何时间都不收钱。",
+              "text_vi": "Hủy miễn phí thường có hạn cuối và điều kiện; “có thể hủy” không có nghĩa lúc nào cũng miễn phí."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Có thể hủy miễn phí không?"
+        },
+        {
+          "id": "s40_1_0020",
+          "level": "must",
+          "text": "两晚一共多少钱？",
+          "when_to_use": "酒店房价按晚计算，你打算住两晚，想在付款前确认两晚合计的费用。",
+          "alternatives": [
+            {
+              "text": "住两晚总共多少钱？",
+              "id": "s40_1_0020_alt01",
+              "meaning_vi": "Ở hai đêm hết bao nhiêu tiền?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "两晚一共六百元。",
+              "id": "s40_1_0020_reply01",
+              "meaning_vi": "Hai đêm tổng cộng 600 tệ."
+            },
+            {
+              "text": "我帮您算一下含税总价。",
+              "id": "s40_1_0020_reply02",
+              "meaning_vi": "Để tôi tính tổng giá đã gồm thuế."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "liǎng wǎn yí gòng duō shǎo qián",
+          "mistakes": [
+            {
+              "text": "“两晚一共”问住宿总价，不只是每晚单价；付款前还要确认税费、早餐及押金是否另算。",
+              "text_vi": "Giá hai đêm là tổng, không phải mỗi đêm; xác nhận thuế, bữa sáng và tiền cọc riêng."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Hai đêm tổng cộng bao nhiêu tiền?"
+        },
+        {
+          "id": "s40_1_0021",
+          "level": "must",
+          "text": "我可能晚上十一点才到。",
+          "when_to_use": "火车晚到，你担心超过酒店常规入住时间，提前向酒店说明可能深夜到店。",
+          "alternatives": [
+            {
+              "text": "我会晚一点到店。",
+              "id": "s40_1_0021_alt01",
+              "meaning_vi": "Tôi sẽ đến khách sạn hơi muộn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我帮您备注晚到。",
+              "id": "s40_1_0021_reply01",
+              "meaning_vi": "Được, tôi ghi chú khách đến muộn."
+            },
+            {
+              "text": "请再确认一下订单的最晚入住时间。",
+              "id": "s40_1_0021_reply02",
+              "meaning_vi": "Anh/chị nhớ xác nhận hạn nhận phòng muộn nhất trong đơn."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "wǒ kě néng wǎn shang shí yī diǎn cái dào",
+          "mistakes": [
+            {
+              "text": "“可能”表示时间尚未完全确定；晚到应联系酒店确认是否保留客房，不能只以为预订后可以任何时间入住。",
+              "text_vi": "“Có thể tới 11 giờ đêm” là chưa chắc giờ đến; cần báo khách sạn giữ phòng nếu đến rất muộn."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Có thể tôi tới lúc 11 giờ đêm."
+        },
+        {
+          "id": "s40_1_0022",
+          "level": "must",
+          "text": "我想订一间无烟房。",
+          "when_to_use": "你不喜欢烟味，订房时先明确希望安排不允许吸烟的房间。",
+          "alternatives": [
+            {
+              "text": "有无烟房吗？",
+              "id": "s40_1_0022_alt01",
+              "meaning_vi": "Có phòng không hút thuốc không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，可以为您安排无烟房。",
+              "id": "s40_1_0022_reply01",
+              "meaning_vi": "Có, tôi có thể sắp xếp phòng không hút thuốc."
+            },
+            {
+              "text": "我帮您备注，但要看当天房态。",
+              "id": "s40_1_0022_reply02",
+              "meaning_vi": "Tôi ghi chú giúp, nhưng còn tùy tình trạng phòng hôm đó."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "wǒ xiǎng dìng yì jiān wú yān fáng",
+          "mistakes": [
+            {
+              "text": "“无烟房”指客房内禁止吸烟，不等于整家酒店完全禁烟；预订需求仍需确认酒店能否安排。",
+              "text_vi": "Phòng không hút thuốc cấm hút thuốc trong phòng, chưa chắc cả khách sạn cấm hút."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Tôi muốn đặt phòng không hút thuốc."
+        },
+        {
+          "id": "s40_1_0023",
+          "level": "must",
+          "text": "酒店离火车站远吗？",
+          "when_to_use": "你刚到中国的新城市，订房前想知道酒店与火车站之间的距离，方便安排到店交通。",
+          "alternatives": [
+            {
+              "text": "从火车站去酒店方便吗？",
+              "id": "s40_1_0023_alt01",
+              "meaning_vi": "Từ ga tàu hỏa tới khách sạn có tiện không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不远，打车大概十分钟。",
+              "id": "s40_1_0023_reply01",
+              "meaning_vi": "Không xa, đi taxi khoảng mười phút."
+            },
+            {
+              "text": "步行大约十五分钟。",
+              "id": "s40_1_0023_reply02",
+              "meaning_vi": "Đi bộ chừng mười lăm phút."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "jiǔ diàn lí huǒ chē zhàn yuǎn ma",
+          "mistakes": [
+            {
+              "text": "问“远吗”可以接着问步行、打车时间及酒店地址，别把示例通勤时间当作所有酒店的真实距离。",
+              "text_vi": "Ví dụ đi taxi 10 phút hay đi bộ 15 phút chỉ để luyện câu, không phải khoảng cách thật của mọi khách sạn."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Khách sạn có xa ga tàu hỏa không?"
+        },
+        {
+          "id": "s40_1_0024",
+          "level": "must",
+          "text": "预订成功了吗？",
+          "when_to_use": "你在手机上完成订房步骤，但不确定酒店是否收到预订，就联系前台确认。",
+          "alternatives": [
+            {
+              "text": "我的订单确认了吗？",
+              "id": "s40_1_0024_alt01",
+              "meaning_vi": "Đơn đặt phòng của tôi đã xác nhận chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "成功了，订单已经确认。",
+              "id": "s40_1_0024_reply01",
+              "meaning_vi": "Thành công rồi, đơn đã được xác nhận."
+            },
+            {
+              "text": "还没确认，我再帮您查一下。",
+              "id": "s40_1_0024_reply02",
+              "meaning_vi": "Chưa xác nhận, để tôi kiểm tra lại."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "yù dìng chéng gōng le ma",
+          "mistakes": [
+            {
+              "text": "“预订成功”应以真实订单及酒店确认结果为准，提交表单不一定已经保留客房。",
+              "text_vi": "Đơn chỉ thực sự xác nhận khi có kết quả từ khách sạn/nền tảng, không phải mới bấm gửi."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Đặt phòng thành công chưa?"
+        },
+        {
+          "id": "s40_1_0013",
+          "level": "listen",
+          "text": "需要押金。",
+          "when_to_use": "订房柜台解释入住前还需交押金，你听到这句话后要追问金额和退还方式。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "押金多少？",
+              "id": "s40_1_0013_reply01",
+              "meaning_vi": "Đặt cọc bao nhiêu?"
+            },
+            {
+              "text": "好，怎么付？",
+              "id": "s40_1_0013_reply02",
+              "meaning_vi": "Được, trả bằng cách nào?"
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "xū yào yā jīn",
+          "mistakes": [
+            {
+              "text": "“押金”是可按约定退还的保证金，不等于房费；退还需看检查结果和酒店条款。",
+              "text_vi": "“押金” là tiền bảo đảm có thể được hoàn theo điều kiện, khác tiền phòng."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Cần đặt cọc."
+        },
+        {
+          "id": "s40_1_0014",
+          "level": "listen",
+          "text": "早餐另付。",
+          "when_to_use": "酒店确认房价不包含早餐，并告诉你吃早餐需要另外支付。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我不要早餐。",
+              "id": "s40_1_0014_reply01",
+              "meaning_vi": "Vậy tôi không lấy bữa sáng."
+            },
+            {
+              "text": "早餐多少钱？",
+              "id": "s40_1_0014_reply02",
+              "meaning_vi": "Bữa sáng bao nhiêu tiền?"
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "zǎo cān lìng fù",
+          "mistakes": [
+            {
+              "text": "“另付”是额外付款，并不是免费附赠；先确认每人早餐价格。",
+              "text_vi": "“另付” là tính thêm, không phải miễn phí; hỏi giá bữa sáng mỗi người."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Bữa sáng tính phí riêng."
+        },
+        {
+          "id": "s40_1_0015",
+          "level": "listen",
+          "text": "今晚满房。",
+          "when_to_use": "你临时到店订今晚的房，前台告知酒店今晚所有可售房间已满。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那明天还有房吗？",
+              "id": "s40_1_0015_reply01",
+              "meaning_vi": "Vậy ngày mai còn phòng không?"
+            },
+            {
+              "text": "好，我再看看别的酒店。",
+              "id": "s40_1_0015_reply02",
+              "meaning_vi": "Được, tôi xem khách sạn khác."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "jīn wǎn mǎn fáng",
+          "mistakes": [
+            {
+              "text": "“满房”是这家酒店目前没有可售空房，不是整个城市所有酒店都没房。",
+              "text_vi": "“满房” là khách sạn này hết phòng bán, không có nghĩa cả thành phố đều hết."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Tối nay kín phòng."
+        },
+        {
+          "id": "s40_1_0016",
+          "level": "listen",
+          "text": "大床房还有一间。",
+          "when_to_use": "你询问大床房后，前台查系统告诉你目前只剩一间，可以立刻决定订不订。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我就订这间。",
+              "id": "s40_1_0016_reply01",
+              "meaning_vi": "Được, tôi đặt phòng này."
+            },
+            {
+              "text": "一晚多少钱？",
+              "id": "s40_1_0016_reply02",
+              "meaning_vi": "Một đêm bao nhiêu tiền?"
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "dà chuáng fáng hái yǒu yì jiān",
+          "mistakes": [
+            {
+              "text": "“还有一间”说剩余房量，不保证已替你保留；没有确认订单前可能被别人订走。",
+              "text_vi": "Chỉ còn một phòng chưa chắc đã giữ cho bạn; cần có xác nhận đơn."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Phòng một giường lớn chỉ còn một phòng."
+        },
+        {
+          "id": "s40_1_0018",
+          "level": "listen",
+          "text": "这个订单不能免费取消。",
+          "when_to_use": "你想取消已经预付的特价酒店订单，平台提示该订单不能免费取消。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那取消要多少钱？",
+              "id": "s40_1_0018_reply01",
+              "meaning_vi": "Vậy hủy thì tốn bao nhiêu?"
+            },
+            {
+              "text": "好，我再考虑一下。",
+              "id": "s40_1_0018_reply02",
+              "meaning_vi": "Được, để tôi cân nhắc thêm."
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "zhè ge dìng dān bù néng miǎn fèi qǔ xiāo",
+          "mistakes": [
+            {
+              "text": "“不能免费取消”不一定是完全不能取消；可能允许取消但扣费，须看订单退款规则。",
+              "text_vi": "Không được hủy miễn phí có thể vẫn được hủy nhưng mất phí; đọc quy định trong đơn."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Đơn này không được hủy miễn phí."
+        },
+        {
+          "id": "s40_1_0019",
+          "level": "listen",
+          "text": "入住时要出示证件。",
+          "when_to_use": "酒店前台提醒入住客人办理登记时，需要出示本人有效证件供核验。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我带护照。",
+              "id": "s40_1_0019_reply01",
+              "meaning_vi": "Được, tôi mang hộ chiếu."
+            },
+            {
+              "text": "需要每位住客都出示证件吗？",
+              "id": "s40_1_0019_reply02",
+              "meaning_vi": "Mỗi khách lưu trú đều phải đưa giấy tờ à?"
+            }
+          ],
+          "lesson_id": "40.1",
+          "lesson_title": "40.1 预订房间",
+          "pinyin": "rù zhù shí yào chū shì zhèng jiàn",
+          "mistakes": [
+            {
+              "text": "“出示证件”是向前台展示有效身份证明以办理入住，不是把证件永久交给酒店；外国旅客可先确认护照登记流程。",
+              "text_vi": "Xuất trình giấy tờ là đưa trước quầy để kiểm tra, không phải để giữ vĩnh viễn; khách nước ngoài nên hỏi đăng ký hộ chiếu."
+            }
+          ],
+          "lesson_title_vi": "40.1 Đặt phòng khách sạn",
+          "meaning_vi": "Khi nhận phòng cần xuất trình giấy tờ."
+        }
+      ],
+      "subtitle": "21张实用口语卡",
+      "opening": "从电话订房到网上确认订单，练习问房型、每晚价格、早餐和押金；若要深夜到店，提前说明并确认酒店能否保留房间。",
+      "title_vi": "40.1 Đặt phòng khách sạn",
+      "opening_vi": "Luyện đặt phòng qua điện thoại hoặc online, hỏi loại phòng, giá mỗi đêm, bữa sáng và tiền cọc. Nếu đến khuya hãy báo trước và xác nhận giữ phòng.",
+      "subtitle_vi": "21 thẻ giao tiếp"
+    },
+    {
+      "id": "40.2",
+      "title": "40.2 入住证件押金",
+      "phrases": [
+        {
+          "id": "s40_2_0001",
+          "level": "must",
+          "text": "我有预订。",
+          "when_to_use": "你按订单上的日期来到酒店前台报到，说明已经提前预订了房间。",
+          "alternatives": [
+            {
+              "text": "我已经订好房了。",
+              "id": "s40_2_0001_alt01",
+              "meaning_vi": "Tôi có đặt phòng trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，请出示证件。",
+              "id": "s40_2_0001_reply01",
+              "meaning_vi": "Vâng, vui lòng xuất trình giấy tờ."
+            },
+            {
+              "text": "请问预订人姓名？",
+              "id": "s40_2_0001_reply02",
+              "meaning_vi": "Xin hỏi tên người đặt phòng?"
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "wǒ yǒu yù dìng",
+          "mistakes": [
+            {
+              "text": "“有预订”表示有已成立的订单，不是现在才要预订；前台还需核对姓名和证件。",
+              "text_vi": "“Có đặt phòng” là đã có đơn, không phải bây giờ mới muốn đặt; lễ tân sẽ xem tên và giấy tờ."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Tôi đã đặt phòng rồi."
+        },
+        {
+          "id": "s40_2_0002",
+          "level": "must",
+          "text": "这是我的护照。",
+          "when_to_use": "酒店要求入住人核验身份，你是持缅甸护照的旅客，就拿出自己的有效护照给前台看。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我来登记。",
+              "id": "s40_2_0002_reply01",
+              "meaning_vi": "Được, để tôi đăng ký."
+            },
+            {
+              "text": "好的，请稍等。",
+              "id": "s40_2_0002_reply02",
+              "meaning_vi": "Vâng, anh/chị đợi chút."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "zhè shì wǒ de hù zhào",
+          "mistakes": [
+            {
+              "text": "“这是我的护照”只是在介绍证件；不能拿别人的护照冒充自己的入住身份。",
+              "text_vi": "Hộ chiếu phải là của chính người nhận phòng và hợp lệ; không dùng giấy tờ người khác."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Đây là hộ chiếu của tôi."
+        },
+        {
+          "id": "s40_2_0003",
+          "level": "must",
+          "text": "要交押金吗？",
+          "when_to_use": "你准备在柜台办理入住，看到房费已预付，不确定酒店还会不会收押金，于是问。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，这个房间需要押金。",
+              "id": "s40_2_0003_reply01",
+              "meaning_vi": "Có, phòng này cần đặt cọc."
+            },
+            {
+              "text": "不用，这个订单不需要押金。",
+              "id": "s40_2_0003_reply02",
+              "meaning_vi": "Không, đơn này không cần đặt cọc."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "yào jiāo yā jīn ma",
+          "mistakes": [
+            {
+              "text": "“押金”与已经支付的房费不同；有的订单不收押金，不能一概而论。",
+              "text_vi": "Tiền cọc khác tiền phòng đã trả; có đơn không thu cọc nên phải hỏi."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Có cần đặt cọc không?"
+        },
+        {
+          "id": "s40_2_0005",
+          "level": "must",
+          "text": "早餐几点开始？",
+          "when_to_use": "第二天一早要上班，入住时确认酒店早餐几点开始，避免赶不上。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "早餐七点开始。",
+              "id": "s40_2_0005_reply01",
+              "meaning_vi": "Bữa sáng bắt đầu lúc 7 giờ."
+            },
+            {
+              "text": "早餐七点到十点。",
+              "id": "s40_2_0005_reply02",
+              "meaning_vi": "Bữa sáng từ 7 đến 10 giờ."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "zǎo cān jǐ diǎn kāi shǐ",
+          "mistakes": [
+            {
+              "text": "“开始”问早餐供应起点，不是供应结束时刻；还可接着问“到几点”。",
+              "text_vi": "“Bắt đầu” là giờ ăn sáng mở, không phải giờ kết thúc; hỏi thêm “đến mấy giờ”."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Bữa sáng bắt đầu lúc mấy giờ?"
+        },
+        {
+          "id": "s40_2_0006",
+          "level": "must",
+          "text": "最晚几点退房？",
+          "when_to_use": "你明天中午有事，要安排离开酒店的时间，向前台询问最晚退房时刻。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "中午十二点前退房。",
+              "id": "s40_2_0006_reply01",
+              "meaning_vi": "Phải trả phòng trước 12 giờ trưa."
+            },
+            {
+              "text": "最晚中午十二点，延迟要提前申请。",
+              "id": "s40_2_0006_reply02",
+              "meaning_vi": "Muộn nhất là 12 giờ trưa, muốn trả muộn phải xin trước."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "zuì wǎn jǐ diǎn tuì fáng",
+          "mistakes": [
+            {
+              "text": "“最晚”指允许的最后期限，不等于可以在那个时间之后继续免费住；具体看酒店条款。",
+              "text_vi": "“Muộn nhất” là hạn cuối trả phòng, sau đó không chắc được ở thêm miễn phí."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Muộn nhất mấy giờ phải trả phòng?"
+        },
+        {
+          "id": "s40_2_0007",
+          "level": "must",
+          "text": "入住的人都要登记吗？",
+          "when_to_use": "你和两位同事一起住同一间预订房，入住时不清楚是否所有住客都要出示证件，就向前台问。",
+          "alternatives": [
+            {
+              "text": "住的人都要登记吗？",
+              "id": "s40_2_0007_alt01",
+              "meaning_vi": "Ai lưu trú cũng phải đăng ký à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般都要登记。",
+              "id": "s40_2_0007_reply01",
+              "meaning_vi": "Thường đều phải đăng ký."
+            },
+            {
+              "text": "请入住的客人都登记一下。",
+              "id": "s40_2_0007_reply02",
+              "meaning_vi": "Vui lòng cho tất cả khách lưu trú đăng ký nhé."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "rù zhù de rén dōu yào dēng jì ma",
+          "mistakes": [
+            {
+              "text": "“入住的人”是实际在房间住宿的人，不只预订付款的那一个人；按酒店要求如实登记。",
+              "text_vi": "“Người ở” là tất cả khách thực ngủ tại phòng, không chỉ người trả tiền; đăng ký đúng thông tin."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Tất cả người ở đều phải đăng ký à?"
+        },
+        {
+          "id": "s40_2_0008",
+          "level": "must",
+          "text": "房卡打不开门。",
+          "when_to_use": "拿到房卡走到房门前，反复刷卡却打不开门，返回前台说明问题。",
+          "alternatives": [
+            {
+              "text": "房卡刷不开。",
+              "id": "s40_2_0008_alt01",
+              "meaning_vi": "Quẹt thẻ phòng không mở được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您把房卡拿过来，我帮您看一下。",
+              "id": "s40_2_0008_reply01",
+              "meaning_vi": "Anh/chị mang thẻ tới đây, tôi kiểm tra giúp."
+            },
+            {
+              "text": "我帮您重新做一张房卡。",
+              "id": "s40_2_0008_reply02",
+              "meaning_vi": "Để tôi làm lại thẻ phòng cho anh/chị."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "fáng kǎ dǎ bu kāi mén",
+          "mistakes": [
+            {
+              "text": "“房卡打不开门”可能是卡失效、门锁故障或房间号弄错；不要直接推断自己没有入住资格。",
+              "text_vi": "Thẻ phòng không mở được có thể do thẻ lỗi, ổ khóa hỏng hoặc sai phòng; hỏi quầy kiểm tra."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Thẻ phòng không mở được cửa."
+        },
+        {
+          "id": "s40_2_0009",
+          "level": "must",
+          "text": "押金怎么付？",
+          "when_to_use": "前台说入住需押金，你想知道能否扫码、刷卡或现金支付，就询问付款方式。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "扫码或刷卡都可以。",
+              "id": "s40_2_0009_reply01",
+              "meaning_vi": "Có thể quét mã hoặc quẹt thẻ."
+            },
+            {
+              "text": "也可以付现金。",
+              "id": "s40_2_0009_reply02",
+              "meaning_vi": "Cũng có thể trả tiền mặt."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "yā jīn zěn me fù",
+          "mistakes": [
+            {
+              "text": "“怎么付”问支付方式，不是问押金金额；要问金额可说“押金多少”。",
+              "text_vi": "Hỏi trả cọc bằng cách nào khác hỏi cọc bao nhiêu."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Đặt cọc bằng cách nào?"
+        },
+        {
+          "id": "s40_2_0010",
+          "level": "must",
+          "text": "无线网密码是多少？",
+          "when_to_use": "进酒店房间后手机需要连网络，但桌牌没写清密码，打电话向前台问Wi-Fi密码。",
+          "alternatives": [
+            {
+              "text": "请问Wi-Fi密码是多少？",
+              "id": "s40_2_0010_alt01",
+              "meaning_vi": "Xin hỏi mật khẩu Wi-Fi là gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "密码在房间里的提示牌上。",
+              "id": "s40_2_0010_reply01",
+              "meaning_vi": "Mật khẩu có trên bảng hướng dẫn trong phòng."
+            },
+            {
+              "text": "我把密码写给您。",
+              "id": "s40_2_0010_reply02",
+              "meaning_vi": "Để tôi viết mật khẩu cho anh/chị."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "wú xiàn wǎng mì mǎ shì duō shǎo",
+          "mistakes": [
+            {
+              "text": "“无线网密码”是Wi-Fi连接口令，不是房卡密码或手机解锁密码；留意网络名称是否正确。",
+              "text_vi": "Mật khẩu Wi-Fi khác mật khẩu thẻ phòng và mở khóa điện thoại; cũng kiểm tra đúng tên mạng."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Mật khẩu Wi-Fi là gì?"
+        },
+        {
+          "id": "s40_2_0011",
+          "level": "must",
+          "text": "房间在几楼？",
+          "when_to_use": "前台把房卡交给你却没有讲楼层，你拖着行李想先去房间，就问房间在几楼。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "房间在八楼。",
+              "id": "s40_2_0011_reply01",
+              "meaning_vi": "Phòng ở tầng tám."
+            },
+            {
+              "text": "八楼，出电梯右边。",
+              "id": "s40_2_0011_reply02",
+              "meaning_vi": "Tầng tám, ra thang máy rẽ phải."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "fáng jiān zài jǐ lóu",
+          "mistakes": [
+            {
+              "text": "“几楼”问楼层；与“几号房”问房间号码不同，有楼层后还需找具体门牌。",
+              "text_vi": "“Tầng mấy” khác “phòng số mấy”, phải xem cả tầng và số cửa."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Phòng ở tầng mấy?"
+        },
+        {
+          "id": "s40_2_0012",
+          "level": "must",
+          "text": "押金多少？",
+          "when_to_use": "酒店已说明要交押金，你准备付款前想知道需要交多少元，就直接询问数额。",
+          "alternatives": [
+            {
+              "text": "押金要多少？",
+              "id": "s40_2_0012_alt01",
+              "meaning_vi": "Phải đặt cọc bao nhiêu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "押金三百。",
+              "id": "s40_2_0012_reply01",
+              "meaning_vi": "Tiền cọc 300 tệ."
+            },
+            {
+              "text": "这个房间不需要押金。",
+              "id": "s40_2_0012_reply02",
+              "meaning_vi": "Phòng này không cần đặt cọc."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "yā jīn duō shǎo",
+          "mistakes": [
+            {
+              "text": "“多少”问金额；押金和房费、清洁费属于不同项目，付款凭证应保留。",
+              "text_vi": "“Bao nhiêu” hỏi tiền cọc, khác giá phòng hoặc phí vệ sinh; giữ chứng từ thanh toán."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Tiền đặt cọc bao nhiêu?"
+        },
+        {
+          "id": "s40_2_0019",
+          "level": "must",
+          "text": "可以用护照办理入住吗？",
+          "when_to_use": "持缅甸护照到中国酒店，你想确认酒店办理入住时如何用有效护照登记身份。",
+          "alternatives": [
+            {
+              "text": "我是外国人，可以用护照入住吗？",
+              "id": "s40_2_0019_alt01",
+              "meaning_vi": "Tôi là người nước ngoài, dùng hộ chiếu nhận phòng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，请出示有效护照。",
+              "id": "s40_2_0019_reply01",
+              "meaning_vi": "Được, vui lòng xuất trình hộ chiếu còn hiệu lực."
+            },
+            {
+              "text": "我先帮您确认登记要求。",
+              "id": "s40_2_0019_reply02",
+              "meaning_vi": "Để tôi xác nhận yêu cầu đăng ký giúp anh/chị."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "kě yǐ yòng hù zhào bàn lǐ rù zhù ma",
+          "mistakes": [
+            {
+              "text": "“护照”应为本人有效护照，办理方式与酒店的登记流程有关；不要把“可登记”误解成无需其他手续。",
+              "text_vi": "Dùng hộ chiếu hợp lệ đăng ký theo thủ tục khách sạn, không đồng nghĩa miễn mọi bước khác."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Dùng hộ chiếu để nhận phòng được không?"
+        },
+        {
+          "id": "s40_2_0020",
+          "level": "must",
+          "text": "前台查不到我的订单。",
+          "when_to_use": "你已经在订房平台下单，到店后前台却查不到预订记录，需要提供订单号继续核对。",
+          "alternatives": [
+            {
+              "text": "系统里找不到我的预订。",
+              "id": "s40_2_0020_alt01",
+              "meaning_vi": "Hệ thống không thấy đơn đặt phòng của tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "请给我看一下订单号。",
+              "id": "s40_2_0020_reply01",
+              "meaning_vi": "Anh/chị cho tôi xem mã đơn nhé."
+            },
+            {
+              "text": "您是通过哪个平台订的？",
+              "id": "s40_2_0020_reply02",
+              "meaning_vi": "Anh/chị đặt qua nền tảng nào?"
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "qián tái chá bú dào wǒ de dìng dān",
+          "mistakes": [
+            {
+              "text": "“查不到”是当前系统未找到记录，不等于预订一定失败；先核对订单号、姓名、日期及平台。",
+              "text_vi": "Không thấy đơn trong hệ thống chưa chắc đặt thất bại; kiểm tra số đơn, tên, ngày và nền tảng."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Quầy lễ tân không tìm thấy đơn của tôi."
+        },
+        {
+          "id": "s40_2_0021",
+          "level": "must",
+          "text": "我在网上已经付过房费了。",
+          "when_to_use": "你在订房平台已预付房费，入住时前台又要求付款，你先说明已支付并请求核对订单。",
+          "alternatives": [
+            {
+              "text": "房费我已经付过了。",
+              "id": "s40_2_0021_alt01",
+              "meaning_vi": "Tôi trả tiền phòng rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我核对一下付款记录。",
+              "id": "s40_2_0021_reply01",
+              "meaning_vi": "Vâng, để tôi đối chiếu giao dịch."
+            },
+            {
+              "text": "订单显示已付款，押金另外确认。",
+              "id": "s40_2_0021_reply02",
+              "meaning_vi": "Đơn hiển thị đã thanh toán, còn tiền cọc cần xác nhận riêng."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "wǒ zài wǎng shàng yǐ jīng fù guò fáng fèi le",
+          "mistakes": [
+            {
+              "text": "“付过房费”仅指订单所含房费已付，不等于押金和其他可能费用也已结清；要求查看支付记录。",
+              "text_vi": "Đã trả tiền phòng không có nghĩa đã nộp cọc hoặc mọi phí khác; nên đối chiếu lịch sử trả tiền."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Tôi đã trả tiền phòng online rồi."
+        },
+        {
+          "id": "s40_2_0022",
+          "level": "must",
+          "text": "可以用现金付款吗？",
+          "when_to_use": "刚到中国还没开通手机支付，你想在酒店用现金支付房费或押金，先向前台确认。",
+          "alternatives": [
+            {
+              "text": "房费能付现金吗？",
+              "id": "s40_2_0022_alt01",
+              "meaning_vi": "Tiền phòng có thể trả bằng tiền mặt không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，现金或刷卡都可以。",
+              "id": "s40_2_0022_reply01",
+              "meaning_vi": "Được, nhận cả tiền mặt và thẻ."
+            },
+            {
+              "text": "我帮您确认一下现金收款方式。",
+              "id": "s40_2_0022_reply02",
+              "meaning_vi": "Để tôi kiểm tra cách nhận tiền mặt."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "kě yǐ yòng xiàn jīn fù kuǎn ma",
+          "mistakes": [
+            {
+              "text": "“现金付款”指使用纸币和硬币支付，不是扫码支付；支付房费与押金可能有不同规定，先核对收据。",
+              "text_vi": "Trả tiền mặt khác quét mã; tiền phòng và cọc có thể theo quy định khác nhau, giữ biên lai."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Có trả bằng tiền mặt được không?"
+        },
+        {
+          "id": "s40_2_0023",
+          "level": "must",
+          "text": "我把房卡弄丢了。",
+          "when_to_use": "你出门后发现房卡遗失，无法回到客房，就立即联系前台挂失并补办房卡。",
+          "alternatives": [
+            {
+              "text": "我的房卡找不到了。",
+              "id": "s40_2_0023_alt01",
+              "meaning_vi": "Tôi không tìm thấy thẻ phòng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "别着急，我帮您补办一张。",
+              "id": "s40_2_0023_reply01",
+              "meaning_vi": "Đừng lo, tôi làm thẻ mới giúp anh/chị."
+            },
+            {
+              "text": "请出示证件，我帮您处理。",
+              "id": "s40_2_0023_reply02",
+              "meaning_vi": "Vui lòng xuất trình giấy tờ, tôi sẽ xử lý."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "wǒ bǎ fáng kǎ nòng diū le",
+          "mistakes": [
+            {
+              "text": "“弄丢”是遗失，不是门锁坏了；应向前台核验身份、及时处理旧卡权限并询问补卡费用。",
+              "text_vi": "Mất thẻ phòng khác khóa cửa hỏng; báo quầy xác minh và xử lý thẻ cũ, hỏi phí thẻ mới."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Tôi làm mất thẻ phòng rồi."
+        },
+        {
+          "id": "s40_2_0013",
+          "level": "listen",
+          "text": "请问有预订吗？",
+          "when_to_use": "你站在酒店前台准备登记，工作人员先确认你是否已经在网上订过房。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，我已经订了房间。",
+              "id": "s40_2_0013_reply01",
+              "meaning_vi": "Có, tôi đã đặt rồi."
+            },
+            {
+              "text": "没有，我想现在订一间。",
+              "id": "s40_2_0013_reply02",
+              "meaning_vi": "Chưa, tôi muốn đặt một phòng bây giờ."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "qǐng wèn yǒu yù dìng ma",
+          "mistakes": [
+            {
+              "text": "“有预订吗”是询问已有订单，不能将“没有”误答成“我不要住房”。",
+              "text_vi": "Hỏi có đặt phòng trước không; “không” không có nghĩa người khách không muốn ở."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Xin hỏi anh/chị có đặt phòng trước không?"
+        },
+        {
+          "id": "s40_2_0014",
+          "level": "listen",
+          "text": "中午十二点前退房。",
+          "when_to_use": "前台办理入住时提醒你按照酒店规定必须在明天中午十二点以前完成退房。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我十二点前退房。",
+              "id": "s40_2_0014_reply01",
+              "meaning_vi": "Được, tôi trả phòng trước 12 giờ."
+            },
+            {
+              "text": "知道了。",
+              "id": "s40_2_0014_reply02",
+              "meaning_vi": "Hiểu rồi."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "zhōng wǔ shí èr diǎn qián tuì fáng",
+          "mistakes": [
+            {
+              "text": "“十二点前”是不到12:00就要退房，不是12点后；如需延迟须提前询问。",
+              "text_vi": "“Trước 12 giờ” là không muộn hơn mốc trả phòng; muốn ở thêm phải xin trước."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Vui lòng trả phòng trước 12 giờ trưa."
+        },
+        {
+          "id": "s40_2_0015",
+          "level": "listen",
+          "text": "早餐七点开始。",
+          "when_to_use": "入住时你询问早餐，前台告诉你早餐服务每天七点开始。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我七点以后过去。",
+              "id": "s40_2_0015_reply01",
+              "meaning_vi": "Được, sau 7 giờ tôi xuống ăn."
+            },
+            {
+              "text": "早餐到几点？",
+              "id": "s40_2_0015_reply02",
+              "meaning_vi": "Bữa sáng phục vụ đến mấy giờ?"
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "zǎo cān qī diǎn kāi shǐ",
+          "mistakes": [
+            {
+              "text": "“七点开始”只说明开始时间，不代表七点之前能拿到早餐或免费供应。",
+              "text_vi": "Ăn sáng bắt đầu 7 giờ không có nghĩa trước 7 giờ có phục vụ."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Bữa sáng bắt đầu lúc 7 giờ."
+        },
+        {
+          "id": "s40_2_0018",
+          "level": "listen",
+          "text": "请入住的客人都登记一下。",
+          "when_to_use": "酒店前台发现预订了一个房间却有多名实际住客，提醒每位住宿人按要求登记。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我们都登记。",
+              "id": "s40_2_0018_reply01",
+              "meaning_vi": "Được, tất cả chúng tôi đều đăng ký."
+            },
+            {
+              "text": "好的，我们把证件准备好。",
+              "id": "s40_2_0018_reply02",
+              "meaning_vi": "Vâng, chúng tôi chuẩn bị giấy tờ."
+            }
+          ],
+          "lesson_id": "40.2",
+          "lesson_title": "40.2 入住证件押金",
+          "pinyin": "qǐng rù zhù de kè rén dōu dēng jì yí xià",
+          "mistakes": [
+            {
+              "text": "“都登记”是每个实际住客都要登记，不是只让订房人签一次名就完事。",
+              "text_vi": "“Tất cả đăng ký” là mọi khách ngủ qua đêm, không chỉ người đặt phòng."
+            }
+          ],
+          "lesson_title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+          "meaning_vi": "Vui lòng cho tất cả khách lưu trú đăng ký."
+        }
+      ],
+      "subtitle": "20张实用口语卡",
+      "opening": "到酒店前台办理入住时，练习出示有效护照、核对预订订单与在线付款记录，询问押金、房卡和入住手续。",
+      "title_vi": "40.2 Nhận phòng, giấy tờ và tiền cọc",
+      "opening_vi": "Làm thủ tục tại lễ tân bằng hộ chiếu hợp lệ, đối chiếu đơn và thanh toán online, hỏi tiền cọc, thẻ phòng và đăng ký lưu trú.",
+      "subtitle_vi": "20 thẻ giao tiếp"
+    },
+    {
+      "id": "40.3",
+      "title": "40.3 房间需求问题",
+      "phrases": [
+        {
+          "id": "s40_3_0001",
+          "level": "must",
+          "text": "房间没有热水。",
+          "when_to_use": "晚上洗澡时发现浴室水龙头只有冷水，打电话告诉酒店前台房间没有热水。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我马上叫人来看一下。",
+              "id": "s40_3_0001_reply01",
+              "meaning_vi": "Tôi gọi người tới kiểm tra ngay."
+            },
+            {
+              "text": "您先等一下，我联系维修人员。",
+              "id": "s40_3_0001_reply02",
+              "meaning_vi": "Anh/chị đợi chút, tôi liên hệ nhân viên sửa chữa."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "fáng jiān méi yǒu rè shuǐ",
+          "mistakes": [
+            {
+              "text": "“没有热水”指热水供应异常，不一定整栋楼都停水；先说清房号与具体水龙头。",
+              "text_vi": "Không có nước nóng có thể chỉ là thiết bị trong phòng, không phải cả khách sạn cúp nước; nói rõ số phòng và vòi."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Phòng không có nước nóng."
+        },
+        {
+          "id": "s40_3_0002",
+          "level": "must",
+          "text": "能送两条毛巾吗？",
+          "when_to_use": "酒店房间只放了一条毛巾，但两个人入住，你打电话请客房服务再送两条。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，马上给您送。",
+              "id": "s40_3_0002_reply01",
+              "meaning_vi": "Được, chúng tôi mang lên ngay."
+            },
+            {
+              "text": "可以，您住几号房？",
+              "id": "s40_3_0002_reply02",
+              "meaning_vi": "Được, anh/chị ở phòng số mấy?"
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "néng sòng liǎng tiáo máo jīn ma",
+          "mistakes": [
+            {
+              "text": "“两条毛巾”中的量词“条”数毛巾，“送”指送到房间，不保证一定免费。",
+              "text_vi": "“两条毛巾” là hai chiếc khăn, nhân viên mang đến phòng; chưa chắc miễn phí."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Có thể mang thêm hai khăn tắm lên phòng không?"
+        },
+        {
+          "id": "s40_3_0003",
+          "level": "must",
+          "text": "房间里有异味。",
+          "when_to_use": "刚开房门闻到明显的异味，担心影响住宿，立即打电话向酒店反映。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先叫人过去看看。",
+              "id": "s40_3_0003_reply01",
+              "meaning_vi": "Tôi cho người tới kiểm tra trước."
+            },
+            {
+              "text": "如果处理不了，再帮您换房。",
+              "id": "s40_3_0003_reply02",
+              "meaning_vi": "Nếu không xử lý được thì sẽ đổi phòng cho anh/chị."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "fáng jiān lǐ yǒu yì wèi",
+          "mistakes": [
+            {
+              "text": "“异味”是不正常或难闻的气味，不一定已经查明是下水道或烟味；说明闻到的位置。",
+              "text_vi": "“Mùi lạ” có thể nhiều nguyên nhân, chưa chắc từ cống hay thuốc lá; nên mô tả chỗ có mùi."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Trong phòng có mùi lạ."
+        },
+        {
+          "id": "s40_3_0004",
+          "level": "must",
+          "text": "房间太吵了。",
+          "when_to_use": "半夜隔壁房间持续大声说话影响睡觉，你打电话投诉房间太吵。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先帮您看一下能不能换房。",
+              "id": "s40_3_0004_reply01",
+              "meaning_vi": "Để tôi kiểm tra có đổi phòng được không."
+            },
+            {
+              "text": "不好意思，我让值班同事过去看看。",
+              "id": "s40_3_0004_reply02",
+              "meaning_vi": "Xin lỗi, tôi nhờ nhân viên trực tới xem."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "fáng jiān tài chǎo le",
+          "mistakes": [
+            {
+              "text": "“太吵”是噪声超过能接受的程度，说明时间和噪声来源比泛称服务差更有用。",
+              "text_vi": "Phòng quá ồn nên nói rõ thời điểm và nguồn tiếng ồn để dễ xử lý."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Phòng ồn quá."
+        },
+        {
+          "id": "s40_3_0005",
+          "level": "must",
+          "text": "可以换房吗？",
+          "when_to_use": "酒店暂时修不好空调，你已经向前台报告问题，现在问有没有其他空房可以换。",
+          "alternatives": [
+            {
+              "text": "能换房吗？",
+              "id": "s40_3_0005_alt01",
+              "meaning_vi": "Đổi phòng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您看看有没有空房。",
+              "id": "s40_3_0005_reply01",
+              "meaning_vi": "Để tôi kiểm tra còn phòng trống không."
+            },
+            {
+              "text": "如果有空房，可以帮您换。",
+              "id": "s40_3_0005_reply02",
+              "meaning_vi": "Nếu còn phòng trống, chúng tôi có thể đổi giúp."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "kě yǐ huàn fáng ma",
+          "mistakes": [
+            {
+              "text": "“换房”是由目前住的房间改到另一间，不等于退款退房；可能受房态和房价差影响。",
+              "text_vi": "Đổi phòng là chuyển sang phòng khác, không phải trả phòng hay hoàn tiền; tùy phòng trống và giá."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Có thể đổi phòng không?"
+        },
+        {
+          "id": "s40_3_0006",
+          "level": "must",
+          "text": "空调打不开。",
+          "when_to_use": "进入客房后想开空调，却按遥控器没有反应，就向前台报修。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我叫维修人员来看看。",
+              "id": "s40_3_0006_reply01",
+              "meaning_vi": "Tôi gọi nhân viên kỹ thuật tới kiểm tra."
+            },
+            {
+              "text": "您先等一下，我马上处理。",
+              "id": "s40_3_0006_reply02",
+              "meaning_vi": "Anh/chị đợi chút, tôi xử lý ngay."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "kōng tiáo dǎ bu kāi",
+          "mistakes": [
+            {
+              "text": "“打不开”在这里是无法开机，不是房门打不开；可说明遥控器或电源是否有反应。",
+              "text_vi": "Điều hòa không bật được khác cửa phòng không mở; hãy nói remote hoặc nguồn có phản hồi không."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Điều hòa không bật lên được."
+        },
+        {
+          "id": "s40_3_0007",
+          "level": "must",
+          "text": "无线网连不上。",
+          "when_to_use": "你想用酒店无线网络和家人视频通话，却一直无法连接，向前台求助。",
+          "alternatives": [
+            {
+              "text": "Wi-Fi一直连不上。",
+              "id": "s40_3_0007_alt01",
+              "meaning_vi": "Wi-Fi cứ không kết nối được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您先确认一下Wi-Fi密码。",
+              "id": "s40_3_0007_reply01",
+              "meaning_vi": "Anh/chị thử kiểm tra lại mật khẩu Wi-Fi nhé."
+            },
+            {
+              "text": "如果还不行，我叫人来检查。",
+              "id": "s40_3_0007_reply02",
+              "meaning_vi": "Nếu vẫn không được, tôi cho người tới kiểm tra."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "wú xiàn wǎng lián bú shàng",
+          "mistakes": [
+            {
+              "text": "“连不上”是连接网络失败；已经连接但网页打不开，应说“连上了却没网”。",
+              "text_vi": "Không kết nối Wi-Fi khác đã kết nối nhưng không có Internet; nên phân biệt khi báo."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Không kết nối Wi-Fi được."
+        },
+        {
+          "id": "s40_3_0008",
+          "level": "must",
+          "text": "洗手间漏水。",
+          "when_to_use": "洗手间地板持续积水，发现洗手池下面在漏水，就联系前台报修。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我马上叫人处理。",
+              "id": "s40_3_0008_reply01",
+              "meaning_vi": "Tôi gọi người xử lý ngay."
+            },
+            {
+              "text": "维修人员会来检查。",
+              "id": "s40_3_0008_reply02",
+              "meaning_vi": "Nhân viên sửa chữa sẽ tới kiểm tra."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "xǐ shǒu jiān lòu shuǐ",
+          "mistakes": [
+            {
+              "text": "“漏水”是水从管道、接缝等非正常流出；有滑倒或触电风险时应远离危险处并及时通知。",
+              "text_vi": "Nước rò bất thường có nguy cơ trượt hoặc điện giật, nên tránh chỗ nguy hiểm và báo lễ tân."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Nhà vệ sinh bị rò nước."
+        },
+        {
+          "id": "s40_3_0009",
+          "level": "must",
+          "text": "能再送两瓶水吗？",
+          "when_to_use": "你已经喝完房内的饮用水，还想要两瓶，就打电话请客房服务补送。",
+          "alternatives": [
+            {
+              "text": "能再送点水吗？",
+              "id": "s40_3_0009_alt01",
+              "meaning_vi": "Cho thêm ít nước được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，马上给您送。",
+              "id": "s40_3_0009_reply01",
+              "meaning_vi": "Được, chúng tôi mang lên ngay."
+            },
+            {
+              "text": "好的，请问您住几号房？",
+              "id": "s40_3_0009_reply02",
+              "meaning_vi": "Vâng, anh/chị ở phòng số mấy?"
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "néng zài sòng liǎng píng shuǐ ma",
+          "mistakes": [
+            {
+              "text": "“再送”表示额外再送一次，不表示一定免费；可确认免费瓶数及费用。",
+              "text_vi": "“Mang thêm” là yêu cầu bổ sung, chưa chắc miễn phí; kiểm tra số chai được cấp."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Mang thêm hai chai nước lên phòng được không?"
+        },
+        {
+          "id": "s40_3_0019",
+          "level": "must",
+          "text": "空调不制冷。",
+          "when_to_use": "房间空调能开但不凉快，你向前台说明不是无法开机，而是制冷功能不正常。",
+          "alternatives": [
+            {
+              "text": "空调开了也不凉。",
+              "id": "s40_3_0019_alt01",
+              "meaning_vi": "Bật điều hòa rồi mà không mát."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您先看一下是不是开了制冷模式。",
+              "id": "s40_3_0019_reply01",
+              "meaning_vi": "Anh/chị kiểm tra xem đã bật chế độ làm lạnh chưa."
+            },
+            {
+              "text": "我安排师傅来检查。",
+              "id": "s40_3_0019_reply02",
+              "meaning_vi": "Tôi sắp xếp thợ tới kiểm tra."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "kōng tiáo bú zhì lěng",
+          "mistakes": [
+            {
+              "text": "“不制冷”是空调不出冷风，和“打不开”无法启动不同；若设备异常应让酒店维修人员检查。",
+              "text_vi": "Điều hòa không lạnh khác điều hòa không bật lên được; báo kỹ thuật kiểm tra."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Điều hòa không làm lạnh."
+        },
+        {
+          "id": "s40_3_0020",
+          "level": "must",
+          "text": "房门关不上。",
+          "when_to_use": "房间门锁或门轴有问题导致门无法正常关好，涉及住宿安全，你立即通知酒店。",
+          "alternatives": [
+            {
+              "text": "门关不严。",
+              "id": "s40_3_0020_alt01",
+              "meaning_vi": "Cửa không khép kín được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我马上安排人来检查门锁。",
+              "id": "s40_3_0020_reply01",
+              "meaning_vi": "Tôi cho người kiểm tra khóa cửa ngay."
+            },
+            {
+              "text": "请先别离开房间，我来帮您处理。",
+              "id": "s40_3_0020_reply02",
+              "meaning_vi": "Anh/chị đừng rời phòng lúc này, tôi sẽ đến giúp."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "fáng mén guān bú shàng",
+          "mistakes": [
+            {
+              "text": "“关不上”指无法关严，不是房门打不开；涉及门锁安全时请前台处理，不要把房门敞开无人看管。",
+              "text_vi": "Cửa không đóng khít khác không mở được; lỗi khóa liên quan an toàn nên cần quầy xử lý."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Cửa phòng không đóng được."
+        },
+        {
+          "id": "s40_3_0021",
+          "level": "must",
+          "text": "可以帮我打扫一下房间吗？",
+          "when_to_use": "连续入住多天后你想请酒店打扫房间，在前台或电话里提出客房清洁需求。",
+          "alternatives": [
+            {
+              "text": "能帮我打扫房间吗？",
+              "id": "s40_3_0021_alt01",
+              "meaning_vi": "Giúp tôi dọn phòng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，您希望现在打扫吗？",
+              "id": "s40_3_0021_reply01",
+              "meaning_vi": "Được, anh/chị muốn dọn ngay bây giờ à?"
+            },
+            {
+              "text": "好的，我通知保洁人员。",
+              "id": "s40_3_0021_reply02",
+              "meaning_vi": "Vâng, tôi báo nhân viên buồng phòng."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "kě yǐ bāng wǒ dǎ sǎo yí xià fáng jiān ma",
+          "mistakes": [
+            {
+              "text": "“打扫房间”是请客房服务清洁，不是换房；先确认方便进入房间的时间，贵重物品自行保管。",
+              "text_vi": "Dọn phòng là vệ sinh phòng hiện tại, không phải đổi phòng; thống nhất giờ và tự bảo quản đồ quý."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Có thể dọn phòng giúp tôi không?"
+        },
+        {
+          "id": "s40_3_0022",
+          "level": "must",
+          "text": "我订的是双床房。",
+          "when_to_use": "你预订双床房，到店却被安排到大床房，于是向前台说明订单上的房型不对。",
+          "alternatives": [
+            {
+              "text": "订单上写的是双床房。",
+              "id": "s40_3_0022_alt01",
+              "meaning_vi": "Trong đơn ghi phòng hai giường đơn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "不好意思，我核对一下订单。",
+              "id": "s40_3_0022_reply01",
+              "meaning_vi": "Xin lỗi, để tôi kiểm tra lại đơn."
+            },
+            {
+              "text": "如果房型安排错了，我们帮您调整。",
+              "id": "s40_3_0022_reply02",
+              "meaning_vi": "Nếu bố trí sai loại phòng, chúng tôi sẽ điều chỉnh."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "wǒ dìng de shì shuāng chuáng fáng",
+          "mistakes": [
+            {
+              "text": "“双床房”是同一间房里的两张床，不是两间房；如安排有误，出示原订单并核对酒店处理方案。",
+              "text_vi": "Phòng hai giường đơn là một phòng có hai giường, không phải hai phòng; mang đơn ra đối chiếu."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Tôi đã đặt phòng hai giường đơn."
+        },
+        {
+          "id": "s40_3_0023",
+          "level": "must",
+          "text": "热水怎么开？",
+          "when_to_use": "酒店浴室设备与你平时用的不一样，你不知道怎样调到热水，向工作人员请教。",
+          "alternatives": [
+            {
+              "text": "怎么调热水？",
+              "id": "s40_3_0023_alt01",
+              "meaning_vi": "Chỉnh nước nóng thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先把水龙头转到热水那边。",
+              "id": "s40_3_0023_reply01",
+              "meaning_vi": "Trước tiên vặn vòi sang phía nước nóng."
+            },
+            {
+              "text": "我让工作人员上来教您。",
+              "id": "s40_3_0023_reply02",
+              "meaning_vi": "Để tôi cử nhân viên lên hướng dẫn."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "rè shuǐ zěn me kāi",
+          "mistakes": [
+            {
+              "text": "“怎么开”是在问操作方法，和“没有热水”反映故障不同；热水温度要先小心测试避免烫伤。",
+              "text_vi": "Hỏi cách mở nước nóng khác báo hệ thống không có nước nóng; thử nhiệt độ để tránh bỏng."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Mở nước nóng thế nào?"
+        },
+        {
+          "id": "s40_3_0010",
+          "level": "listen",
+          "text": "我马上叫人处理。",
+          "when_to_use": "住客反映浴室漏水，你作为前台工作人员答复会马上叫维修人员处理。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，谢谢。",
+              "id": "s40_3_0010_reply01",
+              "meaning_vi": "Được, cảm ơn."
+            },
+            {
+              "text": "好，我等一下。",
+              "id": "s40_3_0010_reply02",
+              "meaning_vi": "Được, tôi đợi chút."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "wǒ mǎ shàng jiào rén chǔ lǐ",
+          "mistakes": [
+            {
+              "text": "“处理”是安排解决问题，不等于立刻修好；“马上叫人”先承诺联系人员。",
+              "text_vi": "“Tôi gọi người xử lý ngay” là liên hệ nhân viên, không cam kết sửa xong ngay."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Tôi gọi người xử lý ngay."
+        },
+        {
+          "id": "s40_3_0012",
+          "level": "listen",
+          "text": "可以帮您换一间。",
+          "when_to_use": "前台查到客人原房间空调故障且另有空房，告知可以为其更换到另一间。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "新房间在几楼？",
+              "id": "s40_3_0012_reply01",
+              "meaning_vi": "Phòng mới ở tầng mấy?"
+            },
+            {
+              "text": "好，那麻烦帮我换一下。",
+              "id": "s40_3_0012_reply02",
+              "meaning_vi": "Được, phiền đổi giúp tôi."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "kě yǐ bāng nín huàn yì jiān",
+          "mistakes": [
+            {
+              "text": "“帮您换一间”表示酒店可以安排换房；仍要向前台确认新房间位置、房型及是否有差价。",
+              "text_vi": "Khách sạn đồng ý đổi phòng vẫn cần xác nhận tầng, loại phòng và chênh lệch."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Có thể đổi sang phòng khác cho anh/chị."
+        },
+        {
+          "id": "s40_3_0013",
+          "level": "listen",
+          "text": "今天没有空房。",
+          "when_to_use": "你因噪声要求换房，但前台查询后告诉你今天所有房间都住满了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那麻烦先处理一下。",
+              "id": "s40_3_0013_reply01",
+              "meaning_vi": "Vậy phiền xử lý vấn đề trước nhé."
+            },
+            {
+              "text": "那还有其他解决办法吗？",
+              "id": "s40_3_0013_reply02",
+              "meaning_vi": "Có cách giải quyết nào khác không?"
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "jīn tiān méi yǒu kòng fáng",
+          "mistakes": [
+            {
+              "text": "“没有空房”意味着现在不能直接换到别的空房，不代表酒店可以不处理原房间的问题。",
+              "text_vi": "Hết phòng trống không có nghĩa được bỏ qua vấn đề trong phòng hiện tại."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Hôm nay không còn phòng trống."
+        },
+        {
+          "id": "s40_3_0017",
+          "level": "listen",
+          "text": "维修人员会来检查。",
+          "when_to_use": "前台已登记住客反映的空调问题，告诉住客维修人员之后会上门查看。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等一下。",
+              "id": "s40_3_0017_reply01",
+              "meaning_vi": "Được, tôi đợi."
+            },
+            {
+              "text": "大概多久能来？",
+              "id": "s40_3_0017_reply02",
+              "meaning_vi": "Khoảng bao lâu nữa nhân viên tới?"
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "wéi xiū rén yuán huì lái jiǎn chá",
+          "mistakes": [
+            {
+              "text": "“会来检查”指将来会到房间查看，不代表已经维修成功；可以问具体到达时间。",
+              "text_vi": "Nhân viên sẽ tới kiểm tra, không phải đã sửa xong; có thể hỏi khi nào tới."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Nhân viên sửa chữa sẽ tới kiểm tra."
+        },
+        {
+          "id": "s40_3_0018",
+          "level": "listen",
+          "text": "请问您的房间号是多少？",
+          "when_to_use": "前台接到报修电话，却没有住客房号，为了安排人员去对的房间就询问号码。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我住八零八房。",
+              "id": "s40_3_0018_reply01",
+              "meaning_vi": "Tôi ở phòng 808."
+            },
+            {
+              "text": "八零八。",
+              "id": "s40_3_0018_reply02",
+              "meaning_vi": "808."
+            }
+          ],
+          "lesson_id": "40.3",
+          "lesson_title": "40.3 房间需求问题",
+          "pinyin": "qǐng wèn nín de fáng jiān hào shì duō shǎo",
+          "mistakes": [
+            {
+              "text": "“房间号”是房门上的编号，不是客人的手机号；可逐位念如“八零八”。",
+              "text_vi": "Số phòng là mã trên cửa, không phải số điện thoại; 808 có thể đọc từng số “八零八”."
+            }
+          ],
+          "lesson_title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+          "meaning_vi": "Xin hỏi số phòng của anh/chị là bao nhiêu?"
+        }
+      ],
+      "subtitle": "19张实用口语卡",
+      "opening": "入住后遇到没有热水、空调不冷、Wi-Fi连不上或门关不严时，练习说明问题、要求打扫或换房，并问清工作人员多久能来。",
+      "title_vi": "40.3 Yêu cầu và sự cố trong phòng",
+      "opening_vi": "Luyện báo không có nước nóng, điều hòa không mát, Wi-Fi lỗi, cửa không khít, xin dọn hoặc đổi phòng và hỏi khi nào nhân viên tới.",
+      "subtitle_vi": "19 thẻ giao tiếp"
+    },
+    {
+      "id": "40.4",
+      "title": "40.4 退房寄存",
+      "phrases": [
+        {
+          "id": "s40_4_0001",
+          "level": "must",
+          "text": "我要退房。",
+          "when_to_use": "住完两晚准备离开酒店，你带着房卡来到前台，说明要办理退房手续。",
+          "alternatives": [
+            {
+              "text": "我来退房。",
+              "id": "s40_4_0001_alt01",
+              "meaning_vi": "Tôi đến làm thủ tục trả phòng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，请把房卡给我。",
+              "id": "s40_4_0001_reply01",
+              "meaning_vi": "Vâng, anh/chị đưa thẻ phòng giúp tôi."
+            },
+            {
+              "text": "好的，请稍等一下。",
+              "id": "s40_4_0001_reply02",
+              "meaning_vi": "Vâng, anh/chị đợi chút."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "wǒ yào tuì fáng",
+          "mistakes": [
+            {
+              "text": "“退房”是结束住宿并办理手续，不等于“取消尚未入住的订单”。",
+              "text_vi": "Trả phòng là kết thúc lưu trú, khác hủy đơn đặt chưa nhận phòng."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Tôi muốn trả phòng."
+        },
+        {
+          "id": "s40_4_0015",
+          "level": "must",
+          "text": "行李寄存收费吗？",
+          "when_to_use": "退房后你想把行李留在酒店，但担心有保管费用，就在寄存前向前台确认价格。",
+          "alternatives": [
+            {
+              "text": "寄存行李要钱吗？",
+              "id": "s40_4_0015_alt01",
+              "meaning_vi": "Gửi hành lý phải trả tiền không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不收费，可以免费寄存到晚上。",
+              "id": "s40_4_0015_reply01",
+              "meaning_vi": "Không tính phí, gửi miễn phí tới tối."
+            },
+            {
+              "text": "需要收费，我先告诉您价格。",
+              "id": "s40_4_0015_reply02",
+              "meaning_vi": "Có tính phí, tôi báo giá trước cho anh/chị."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "xíng lǐ jì cún shōu fèi ma",
+          "mistakes": [
+            {
+              "text": "寄存行李是否收费、可放多久由酒店安排决定，不能因“可以寄存”就认定一定免费。",
+              "text_vi": "Gửi hành lý có thể tính phí tùy thời gian và khách sạn; có dịch vụ không mặc nhiên miễn phí."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Gửi hành lý có tính phí không?"
+        },
+        {
+          "id": "s40_4_0016",
+          "level": "must",
+          "text": "押金什么时候退？",
+          "when_to_use": "退房查房后你想知道押金多久到账，就向前台询问退还时点和方式。",
+          "alternatives": [
+            {
+              "text": "押金大概多久能退？",
+              "id": "s40_4_0016_alt01",
+              "meaning_vi": "Khoảng bao lâu mới hoàn cọc?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "查完房没问题就办理退款。",
+              "id": "s40_4_0016_reply01",
+              "meaning_vi": "Kiểm tra phòng xong nếu không có vấn đề thì tiến hành hoàn."
+            },
+            {
+              "text": "原路退款到账时间要看支付渠道。",
+              "id": "s40_4_0016_reply02",
+              "meaning_vi": "Tiền hoàn về phương thức cũ lúc nào còn tùy kênh thanh toán."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "yā jīn shén me shí hou tuì",
+          "mistakes": [
+            {
+              "text": "“办理退款”不等于钱已经到账；现金和银行卡等渠道到账时间可能不同，应保存押金凭证。",
+              "text_vi": "“Tiến hành hoàn cọc” chưa có nghĩa tiền đã vào tài khoản, cần giữ biên nhận."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Khi nào hoàn tiền cọc?"
+        },
+        {
+          "id": "s40_4_0017",
+          "level": "must",
+          "text": "我把东西落在房间里了。",
+          "when_to_use": "退房后你发现充电器或护照遗留在客房，立即向前台报失并请求协助找回。",
+          "alternatives": [
+            {
+              "text": "我有东西忘在房间了。",
+              "id": "s40_4_0017_alt01",
+              "meaning_vi": "Tôi quên đồ trong phòng rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "您落下什么东西了？",
+              "id": "s40_4_0017_reply01",
+              "meaning_vi": "Anh/chị bỏ quên món gì?"
+            },
+            {
+              "text": "我联系客房人员帮您找一下。",
+              "id": "s40_4_0017_reply02",
+              "meaning_vi": "Tôi liên hệ nhân viên buồng phòng tìm giúp."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "wǒ bǎ dōng xi là zài fáng jiān lǐ le",
+          "mistakes": [
+            {
+              "text": "“落在”此处读 là，不是 lù，表示忘了带走；报失时说清房号和物品，不要未经允许自行闯入已退房房间。",
+              "text_vi": "“落在” nghĩa bỏ quên, chữ 落 trong ngữ cảnh này đọc là, không phải lù; nói rõ số phòng và đồ để quên."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Tôi để quên đồ trong phòng."
+        },
+        {
+          "id": "s40_4_0018",
+          "level": "must",
+          "text": "可以开发票吗？",
+          "when_to_use": "你因出差需要公司报销住宿费用，退房时向酒店询问能否开具正式发票。",
+          "alternatives": [
+            {
+              "text": "能给我开张发票吗？",
+              "id": "s40_4_0018_alt01",
+              "meaning_vi": "Xuất cho tôi một hóa đơn được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，请提供开票信息。",
+              "id": "s40_4_0018_reply01",
+              "meaning_vi": "Được, vui lòng cung cấp thông tin xuất hóa đơn."
+            },
+            {
+              "text": "可以，退房时来前台办理。",
+              "id": "s40_4_0018_reply02",
+              "meaning_vi": "Được, khi trả phòng tới quầy lễ tân làm thủ tục."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "kě yǐ kāi fā piào ma",
+          "mistakes": [
+            {
+              "text": "“发票”是用于报销等用途的正式票据，不只是任意收据；需要的抬头和信息应提前核对。",
+              "text_vi": "“发票” là hóa đơn chính thức có thể dùng báo chi phí, không phải biên lai tùy ý; chuẩn bị tên xuất hóa đơn."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Có xuất hóa đơn được không?"
+        },
+        {
+          "id": "s40_4_0019",
+          "level": "must",
+          "text": "取行李需要凭条吗？",
+          "when_to_use": "你已把行李寄存在酒店，担心取件时认领手续不清楚，就问是否要带寄存凭条。",
+          "alternatives": [
+            {
+              "text": "拿行李要出示寄存单吗？",
+              "id": "s40_4_0019_alt01",
+              "meaning_vi": "Nhận hành lý có phải đưa biên nhận gửi đồ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "需要，请把寄存凭条带来。",
+              "id": "s40_4_0019_reply01",
+              "meaning_vi": "Có, vui lòng mang phiếu gửi đồ."
+            },
+            {
+              "text": "如果没有凭条，我们先核对登记信息。",
+              "id": "s40_4_0019_reply02",
+              "meaning_vi": "Nếu mất phiếu, chúng tôi sẽ kiểm tra thông tin đăng ký trước."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "qǔ xíng lǐ xū yào píng tiáo ma",
+          "mistakes": [
+            {
+              "text": "“凭条”是寄存时拿到的领取凭证，不是房卡或发票；没有凭条要按酒店要求核实身份。",
+              "text_vi": "Phiếu gửi hành lý là chứng từ lấy đồ, khác thẻ phòng hay hóa đơn; mất phiếu thì xác minh danh tính."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Lấy hành lý có cần phiếu gửi không?"
+        },
+        {
+          "id": "s40_4_0020",
+          "level": "must",
+          "text": "我想提前一天退房。",
+          "when_to_use": "行程临时缩短，原本预订三晚却只住两晚，退房时向前台说明想提前一天离店。",
+          "alternatives": [
+            {
+              "text": "我想早一天退房。",
+              "id": "s40_4_0020_alt01",
+              "meaning_vi": "Tôi muốn trả phòng trước một ngày."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，剩余房费要看订单规则。",
+              "id": "s40_4_0020_reply01",
+              "meaning_vi": "Được, tiền phòng còn lại phụ thuộc quy định đơn đặt."
+            },
+            {
+              "text": "我帮您查一下未住的房费能不能退。",
+              "id": "s40_4_0020_reply02",
+              "meaning_vi": "Để tôi kiểm tra có hoàn tiền đêm chưa ở không."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "wǒ xiǎng tí qián yì tiān tuì fáng",
+          "mistakes": [
+            {
+              "text": "“提前退房”不等于自动退回未住天数的房费，退费要看订房渠道和订单条款。",
+              "text_vi": "Trả phòng sớm không tự động được hoàn đêm chưa ở; tiền còn lại theo quy định đặt phòng."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Tôi muốn trả phòng sớm một ngày."
+        },
+        {
+          "id": "s40_4_0002",
+          "level": "listen",
+          "text": "请把房卡给我。",
+          "when_to_use": "客人说要退房，前台为了注销房卡和核对房间，要求把房卡交还。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，给您。",
+              "id": "s40_4_0002_reply01",
+              "meaning_vi": "Vâng, đây ạ."
+            },
+            {
+              "text": "好的，房卡在这里。",
+              "id": "s40_4_0002_reply02",
+              "meaning_vi": "Được, thẻ phòng ở đây."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "qǐng bǎ fáng kǎ gěi wǒ",
+          "mistakes": [
+            {
+              "text": "“给我”是交给说话的前台人员，不是让你自己保留房卡；有电子房卡时按酒店指示。",
+              "text_vi": "Đưa thẻ phòng cho lễ tân, không tự giữ lại; thẻ điện tử theo hướng dẫn khách sạn."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Vui lòng đưa thẻ phòng cho tôi."
+        },
+        {
+          "id": "s40_4_0003",
+          "level": "must",
+          "text": "押金怎么退？",
+          "when_to_use": "办理退房后，想拿回入住时交的押金，但不知道是退现金还是原路退款，就问前台。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "现金押金一般在前台退。",
+              "id": "s40_4_0003_reply01",
+              "meaning_vi": "Tiền cọc bằng tiền mặt thường hoàn tại quầy."
+            },
+            {
+              "text": "刷卡付的押金，核对后会原路退回。",
+              "id": "s40_4_0003_reply02",
+              "meaning_vi": "Cọc bằng thẻ thì sau khi đối chiếu sẽ hoàn qua kênh cũ."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "yā jīn zěn me tuì",
+          "mistakes": [
+            {
+              "text": "“押金怎么退”问退还渠道，不是房价退款；若有扣费需索要明细核对。",
+              "text_vi": "Hỏi cách hoàn tiền cọc khác yêu cầu hoàn tiền phòng; nếu có trừ thì hỏi khoản mục."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Tiền cọc được hoàn thế nào?"
+        },
+        {
+          "id": "s40_4_0004",
+          "level": "must",
+          "text": "可以寄存行李吗？",
+          "when_to_use": "中午退了房，但晚上才坐火车，想先把行李箱安全放在酒店寄存处，就问能否寄存。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，先登记一下。",
+              "id": "s40_4_0004_reply01",
+              "meaning_vi": "Được, đăng ký trước nhé."
+            },
+            {
+              "text": "可以，放在行李寄存处。",
+              "id": "s40_4_0004_reply02",
+              "meaning_vi": "Được, để tại khu giữ hành lý."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "kě yǐ jì cún xíng lǐ ma",
+          "mistakes": [
+            {
+              "text": "“寄存行李”是暂时交酒店保管，不是航空托运，也不是继续占用客房。",
+              "text_vi": "Gửi hành lý là nhờ khách sạn giữ tạm, khác ký gửi hàng không; không có nghĩa còn giữ phòng."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Có thể gửi hành lý lại không?"
+        },
+        {
+          "id": "s40_4_0005",
+          "level": "must",
+          "text": "我晚点来拿行李。",
+          "when_to_use": "已在酒店前台寄存行李，下午还要去办事，告诉工作人员自己稍晚才来取。",
+          "alternatives": [
+            {
+              "text": "我稍后过来取行李。",
+              "id": "s40_4_0005_alt01",
+              "meaning_vi": "Tôi sẽ tới nhận hành lý sau."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，我们先帮您保管。",
+              "id": "s40_4_0005_reply01",
+              "meaning_vi": "Vâng, chúng tôi giữ giúp trước."
+            },
+            {
+              "text": "好，来取的时候告诉前台。",
+              "id": "s40_4_0005_reply02",
+              "meaning_vi": "Được, khi lấy anh/chị báo lễ tân."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "wǒ wǎn diǎn lái ná xíng lǐ",
+          "mistakes": [
+            {
+              "text": "“晚点”在这里是稍后，不是火车航班晚点；可以提供预计取回时间。",
+              "text_vi": "“晚点” ở đây là lát nữa, không phải chuyến tàu trễ giờ; nên nói giờ dự kiến lấy."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Lát nữa tôi quay lại lấy hành lý."
+        },
+        {
+          "id": "s40_4_0007",
+          "level": "must",
+          "text": "可以延迟退房吗？",
+          "when_to_use": "原定中午退房，但你的下午航班改晚了，想在房间多待两小时，就询问能否延迟退房。",
+          "alternatives": [
+            {
+              "text": "可以晚一点退房吗？",
+              "id": "s40_4_0007_alt01",
+              "meaning_vi": "Tôi trả phòng muộn chút được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您看一下能不能延迟。",
+              "id": "s40_4_0007_reply01",
+              "meaning_vi": "Để tôi kiểm tra có được trả muộn không."
+            },
+            {
+              "text": "可以，不过可能要加钱。",
+              "id": "s40_4_0007_reply02",
+              "meaning_vi": "Có thể, nhưng có thể phải trả thêm."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "kě yǐ yán chí tuì fáng ma",
+          "mistakes": [
+            {
+              "text": "“延迟退房”是超过原定退房时间，需事先得到酒店同意，可能另外收费。",
+              "text_vi": "Trả phòng muộn hơn giờ ban đầu phải được đồng ý, có thể thu thêm phí."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Có thể trả phòng muộn không?"
+        },
+        {
+          "id": "s40_4_0008",
+          "level": "must",
+          "text": "能寄存多久？",
+          "when_to_use": "前台允许寄存行李，你怕晚上回来太晚取不到，询问最多可以放多长时间。",
+          "alternatives": [
+            {
+              "text": "行李可以寄存到几点？",
+              "id": "s40_4_0008_alt01",
+              "meaning_vi": "Hành lý giữ tới mấy giờ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以寄存到今天晚上。",
+              "id": "s40_4_0008_reply01",
+              "meaning_vi": "Có thể gửi tới tối nay."
+            },
+            {
+              "text": "最晚取件时间我帮您确认一下。",
+              "id": "s40_4_0008_reply02",
+              "meaning_vi": "Để tôi xác nhận giờ lấy muộn nhất."
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "néng jì cún duō jiǔ",
+          "mistakes": [
+            {
+              "text": "“多久”问寄存时长，“几点前取”问截止时刻；两者都应确认。",
+              "text_vi": "Hỏi có thể giữ hành lý bao lâu khác hỏi hạn giờ lấy; cần xác nhận cả hai."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Có thể gửi hành lý bao lâu?"
+        },
+        {
+          "id": "s40_4_0010",
+          "level": "listen",
+          "text": "请稍等，我们查一下房。",
+          "when_to_use": "前台收到你的退房申请后，说需要等客房人员核对房间情况才能结清押金。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等一下。",
+              "id": "s40_4_0010_reply01",
+              "meaning_vi": "Được, tôi chờ."
+            },
+            {
+              "text": "大概需要等多久？",
+              "id": "s40_4_0010_reply02",
+              "meaning_vi": "Khoảng phải chờ bao lâu?"
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "qǐng shāo děng wǒ men chá yí xià fáng",
+          "mistakes": [
+            {
+              "text": "“查房”是酒店核对房间及物品情况，不是找房间号码；“稍等”表示需要等一会儿。",
+              "text_vi": "“查房” là nhân viên kiểm tra tình trạng phòng, không phải tìm số phòng; “đợi chút” nghĩa chờ."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Vui lòng đợi chút, chúng tôi kiểm tra phòng."
+        },
+        {
+          "id": "s40_4_0014",
+          "level": "listen",
+          "text": "延迟退房可能要加钱。",
+          "when_to_use": "你想下午两点才退房，酒店提醒比规定时间晚可能需要额外收费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请问加收多少钱？",
+              "id": "s40_4_0014_reply01",
+              "meaning_vi": "Xin hỏi tính thêm bao nhiêu?"
+            },
+            {
+              "text": "那最晚几点退房？",
+              "id": "s40_4_0014_reply02",
+              "meaning_vi": "Vậy muộn nhất mấy giờ phải trả?"
+            }
+          ],
+          "lesson_id": "40.4",
+          "lesson_title": "40.4 退房寄存",
+          "pinyin": "yán chí tuì fáng kě néng yào jiā qián",
+          "mistakes": [
+            {
+              "text": "“可能”表示是否收费仍需确认，不是一定收或一定不收；先问具体延迟时间与费用。",
+              "text_vi": "“Có thể tính phí” vẫn phải hỏi lại, không phải chắc chắn có hoặc không."
+            }
+          ],
+          "lesson_title_vi": "40.4 Trả phòng và gửi hành lý",
+          "meaning_vi": "Trả phòng muộn có thể bị tính thêm phí."
+        }
+      ],
+      "subtitle": "15张实用口语卡",
+      "opening": "退房时练习归还房卡、核对押金到账、寄存和领取行李，处理遗落物品、发票和提前退房费用。",
+      "title_vi": "40.4 Trả phòng và gửi hành lý",
+      "opening_vi": "Trả thẻ phòng, kiểm tra tiền cọc đã về, gửi/lấy hành lý, tìm đồ bỏ quên, xin hóa đơn và hỏi chi phí trả phòng sớm.",
+      "subtitle_vi": "15 thẻ giao tiếp"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-02T23:30:00Z",
+  "theme_title": "40 酒店旅行",
+  "card_count": 75,
+  "source_phrase_count": 75,
+  "lesson_counts": {
+    "40.1": 21,
+    "40.2": 20,
+    "40.3": 19,
+    "40.4": 15
+  },
+  "quality_standard": "Vietnamese localization from original theme 40. Main/alternatives/replies translated into natural Vietnamese with all 75 usage notes, original Mandarin, pinyin, IDs, and order preserved. Hotel bookings vs check-in, deposit, refunds and room problems checked. Native editor/audio/app final QA pending.",
+  "theme_title_vi": "40 Khách sạn và du lịch"
+}
