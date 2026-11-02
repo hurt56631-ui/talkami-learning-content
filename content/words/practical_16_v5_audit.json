@@ -29,9 +29,9 @@
     "词库主题分类不等同于官方 HSK 等级。practical 标记实用词典，不应显示成 HSK1-4 考试词。",
     "Release 构建器的 safe_asset_name 不接受斜杠，本次把目录草案 data_url 改为平铺 JSON 文件名。",
     "本次只准备 4500 个中文词目对应的可选 TTS 清单；没有搭配、例句配音任务，也未生成音频。特殊词目需先试听。",
-    "16 张独立 PNG 分类封面已添加到 content/words/covers，正式 catalog.json 已追加 16 个分类入口；仍需 Release 发布和 App 端实际验证。",
     "封面为无缅文文字的主题图标，16 个标题由 catalog title 显示，避免在图像中文字识别错误。",
-    "此次接入不更改 4500 词条的四列内容、稳定 ID、分类或 HSK1–4 原文件。"
+    "此次接入不更改 4500 词条的四列内容、稳定 ID、分类或 HSK1–4 原文件。",
+    "content-v1.6.40 Release 已发布且校验通过；在 App 设备端实际显示和语音功能仍需测试。"
   ],
   "categories": [
     {
@@ -1939,7 +1939,15 @@
     "cover_count": 16,
     "data_asset_pattern": "talkami-practical-XX-v5.json",
     "cover_asset_pattern": "talkami-practical-XX-cover-v1.png",
-    "status": "integrated_source_waiting_for_release",
-    "next_step": "Publish learning content workflow on main, then test App loading"
+    "status": "published",
+    "next_step": "Publish learning content workflow on main, then test App loading",
+    "release_tag": "content-v1.6.40",
+    "release_url": "https://github.com/hurt56631-ui/talkami-learning-content/releases/tag/content-v1.6.40",
+    "published_at": "2026-11-02T13:12:04Z",
+    "release_assets": 147,
+    "verified_practical_json_assets": 16,
+    "verified_practical_cover_assets": 16,
+    "official_workflow_conclusion": "success",
+    "app_device_verification": "pending"
   }
 }
