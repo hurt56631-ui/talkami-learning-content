@@ -27,5 +27,6 @@ jobs:
             echo 'content-v1.6.40 already exists, nothing to dispatch'
             exit 0
           fi
+          # Retry once after correcting the original builder's Unicode-range regex.
           gh workflow run publish-learning-content.yml --ref main -f version=1.6.40
           echo 'Requested the existing official publishing workflow for content-v1.6.40'
