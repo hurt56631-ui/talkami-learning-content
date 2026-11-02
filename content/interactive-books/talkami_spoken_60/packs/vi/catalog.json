@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "id": "talkami_spoken_60_vi",
+  "title": "在中国生活与工作 · 实用中文口语（越南语版）",
+  "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
+  "item_count": 73,
+  "free_count": 73,
+  "free_theme_ids": [
+    "01"
+  ],
+  "data_format": "theme-json-v1",
+  "zones": [
+    {
+      "zone_id": 0,
+      "title": "基础沟通",
+      "title_vi": "Giao tiếp cơ bản",
+      "themes": [
+        {
+          "theme_id": "01",
+          "title": "问候寒暄",
+          "status": "available",
+          "free": true,
+          "phrase_count": 73,
+          "lessons": [
+            {
+              "id": "01.1",
+              "title": "01.1 日常打招呼",
+              "count": 21,
+              "title_vi": "01.1 Chào hỏi hằng ngày"
+            },
+            {
+              "id": "01.2",
+              "title": "01.2 熟人寒暄",
+              "count": 15,
+              "title_vi": "01.2 Hỏi thăm người quen"
+            },
+            {
+              "id": "01.3",
+              "title": "01.3 关心近况",
+              "count": 23,
+              "title_vi": "01.3 Quan tâm và hỏi thăm tình hình"
+            },
+            {
+              "id": "01.4",
+              "title": "01.4 告别祝愿",
+              "count": 14,
+              "title_vi": "01.4 Tạm biệt và chúc nhau"
+            }
+          ],
+          "needs_pronunciation_review": true,
+          "data_url": "packs/vi/01.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "title_vi": "01 Chào hỏi và trò chuyện xã giao"
+        }
+      ]
+    }
+  ],
+  "distribution": "public-theme-packs",
+  "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
+  "revision": "spoken-vi-theme01-v1-20261102",
+  "source_status": "01 Vietnamese published as AI-reviewed working translation; 02–60 pending; native-speaker final review and audio verification pending.",
+  "schema_version": 1,
+  "updated_at": "2026-11-02T07:43:46.058Z",
+  "packs_base_path": "packs/vi/"
+}
