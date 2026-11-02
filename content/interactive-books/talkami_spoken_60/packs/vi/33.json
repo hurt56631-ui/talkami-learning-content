@@ -1,0 +1,3289 @@
+{
+  "theme_id": "33",
+  "version": 1,
+  "updated_at": "2026-11-02T16:23:47.642Z",
+  "theme_title": "33 网购与快递",
+  "quality_standard": "Vietnamese localization of theme 33 from original Chinese pack; all 109 main cards, 245 nested phrases and 85 Vietnamese usage notes retained. Delivery vs shipment, pickup codes, compensation and address privacy differentiated. Stable Chinese, pinyin, IDs and order preserved. Independent native/auditory/app QA pending.",
+  "source_phrase_count": 115,
+  "lessons": [
+    {
+      "id": "33.1",
+      "title": "33.1 网上下单与收货地址",
+      "phrases": [
+        {
+          "id": "s33_1_0001",
+          "level": "must",
+          "text": "这个有货吗？",
+          "alternatives": [
+            {
+              "text": "这个还有货吗？",
+              "id": "s33_1_0001_alt01",
+              "meaning_vi": "Loại này còn hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，今天就能下单。",
+              "id": "s33_1_0001_reply01",
+              "meaning_vi": "Còn, hôm nay đặt hàng được ngay."
+            },
+            {
+              "text": "暂时没货，过几天再看。",
+              "id": "s33_1_0001_reply02",
+              "meaning_vi": "Hiện đang hết, vài hôm nữa bạn xem lại nhé."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [],
+          "pinyin": "zhè ge yǒu huò ma",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Món này còn hàng không?"
+        },
+        {
+          "id": "s33_1_0002",
+          "level": "must",
+          "text": "有别的规格吗？",
+          "alternatives": [
+            {
+              "text": "有其他规格吗？",
+              "id": "s33_1_0002_alt01",
+              "meaning_vi": "Có loại quy cách khác không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，大号小号都有。",
+              "id": "s33_1_0002_reply01",
+              "meaning_vi": "Có, cả cỡ lớn lẫn cỡ nhỏ."
+            },
+            {
+              "text": "没有，只有这一种。",
+              "id": "s33_1_0002_reply02",
+              "meaning_vi": "Không, chỉ có loại này thôi."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“规格”不只指衣服尺码，还可能是容量、重量、包装数量；选错规格会影响收到的商品。",
+              "text_vi": "“规格” không chỉ là size áo mà còn có thể là dung tích, cân nặng hoặc số lượng trong gói; chọn sai sẽ nhận nhầm loại."
+            }
+          ],
+          "pinyin": "yǒu bié de guī gé ma",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Có quy cách khác không?"
+        },
+        {
+          "id": "s33_1_0003",
+          "level": "must",
+          "text": "怎么下单？",
+          "alternatives": [
+            {
+              "text": "在哪儿下单？",
+              "id": "s33_1_0003_alt01",
+              "meaning_vi": "Đặt hàng ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "选好规格，点立即购买。",
+              "id": "s33_1_0003_reply01",
+              "meaning_vi": "Chọn quy cách rồi bấm “Mua ngay”."
+            },
+            {
+              "text": "先填地址，再付款。",
+              "id": "s33_1_0003_reply02",
+              "meaning_vi": "Điền địa chỉ trước rồi thanh toán."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“下单”是提交订单，“付款”是支付，不要把点了“立即购买”就当成订单已全部完成。",
+              "text_vi": "“下单” là gửi đơn mua, khác “付款” là trả tiền. Bấm “Mua ngay” chưa chắc đã hoàn tất thanh toán."
+            }
+          ],
+          "pinyin": "zěn me xià dān",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Đặt hàng thế nào?"
+        },
+        {
+          "id": "s33_1_0004",
+          "level": "must",
+          "text": "收货地址怎么填？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "填好省市区和门牌号。",
+              "id": "s33_1_0004_reply01",
+              "meaning_vi": "Điền đầy đủ tỉnh, thành phố, quận huyện và số nhà."
+            },
+            {
+              "text": "点新增地址就能填。",
+              "id": "s33_1_0004_reply02",
+              "meaning_vi": "Bấm thêm địa chỉ mới là điền được."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "中国收货地址应按页面填写省、市、区和具体楼栋、门牌、房号及可联系的电话；“区”与“楼号”不是一回事。",
+              "text_vi": "Địa chỉ giao hàng tại Trung Quốc cần điền tỉnh, thành, quận huyện, tòa nhà, số phòng và số điện thoại. Số quận khác số tòa."
+            }
+          ],
+          "pinyin": "shōu huò dì zhǐ zěn me tián",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Điền địa chỉ nhận hàng thế nào?"
+        },
+        {
+          "id": "s33_1_0005",
+          "level": "must",
+          "text": "这个地址对吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，门牌号也对。",
+              "id": "s33_1_0005_reply01",
+              "meaning_vi": "Đúng, cả số nhà cũng đúng."
+            },
+            {
+              "text": "楼号写错了，改一下。",
+              "id": "s33_1_0005_reply02",
+              "meaning_vi": "Ghi sai số tòa rồi, sửa lại nhé."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "核对中国收货地址时，除了城市、区县还要看楼栋、单元、门牌和收件电话；地址错误可能导致派送失败。",
+              "text_vi": "Kiểm tra cả thành phố, quận, tòa, lối vào, số phòng và điện thoại; địa chỉ sai có thể khiến giao hàng thất bại."
+            }
+          ],
+          "pinyin": "zhè ge dì zhǐ duì ma",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Địa chỉ này đúng chưa?"
+        },
+        {
+          "id": "s33_1_0006",
+          "level": "must",
+          "text": "手机号填这里吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，填收件人的号码。",
+              "id": "s33_1_0006_reply01",
+              "meaning_vi": "Đúng, điền số điện thoại người nhận."
+            },
+            {
+              "text": "填在下面的联系方式里。",
+              "id": "s33_1_0006_reply02",
+              "meaning_vi": "Điền vào mục thông tin liên hệ bên dưới."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“收件人手机号”填实际能接听快递电话的人，不一定是下单者本人的号码；不要随意填写陌生号码。",
+              "text_vi": "Số điện thoại người nhận phải liên lạc được lúc giao, không nhất thiết là số người mua; đừng điền số người lạ."
+            }
+          ],
+          "pinyin": "shǒu jī hào tián zhè lǐ ma",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Điền số điện thoại ở đây à?"
+        },
+        {
+          "id": "s33_1_0007",
+          "level": "must",
+          "text": "这个包邮吗？",
+          "alternatives": [
+            {
+              "text": "免运费吗？",
+              "id": "s33_1_0007_alt01",
+              "meaning_vi": "Có miễn phí giao hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "包邮，不用另付运费。",
+              "id": "s33_1_0007_reply01",
+              "meaning_vi": "Có, không phải trả thêm phí vận chuyển."
+            },
+            {
+              "text": "不包邮，还要六块运费。",
+              "id": "s33_1_0007_reply02",
+              "meaning_vi": "Không, phải trả thêm 6 tệ tiền vận chuyển."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“包邮”指免运费，不一定包括上楼、安装或偏远地区附加费用，结账时看明细。",
+              "text_vi": "“包邮” là miễn cước vận chuyển, chưa chắc miễn phí lên lầu, lắp đặt hay phụ phí vùng xa; xem chi tiết lúc trả tiền."
+            }
+          ],
+          "pinyin": "zhè ge bāo yóu ma",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Món này có miễn phí vận chuyển không?"
+        },
+        {
+          "id": "s33_1_0008",
+          "level": "must",
+          "text": "什么时候发货？",
+          "alternatives": [
+            {
+              "text": "几号发货？",
+              "id": "s33_1_0008_alt01",
+              "meaning_vi": "Ngày mấy gửi hàng?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "今天下午发。",
+              "id": "s33_1_0008_reply01",
+              "meaning_vi": "Chiều nay sẽ gửi."
+            },
+            {
+              "text": "明天安排发货。",
+              "id": "s33_1_0008_reply02",
+              "meaning_vi": "Ngày mai sẽ sắp xếp gửi hàng."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“发货”指商家发出商品，不等于收件人当天能拿到；与“送达”不同。",
+              "text_vi": "“发货” là người bán gửi hàng đi, không có nghĩa người nhận sẽ có hàng trong ngày; khác “送达”."
+            }
+          ],
+          "pinyin": "shén me shí hou fā huò",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Khi nào gửi hàng?"
+        },
+        {
+          "id": "s33_1_0009",
+          "level": "must",
+          "text": "我想买这个。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，选好规格下单。",
+              "id": "s33_1_0009_reply01",
+              "meaning_vi": "Được, chọn quy cách rồi đặt hàng nhé."
+            },
+            {
+              "text": "这款暂时没货了。",
+              "id": "s33_1_0009_reply02",
+              "meaning_vi": "Mẫu này hiện đang hết hàng."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [],
+          "pinyin": "wǒ xiǎng mǎi zhè ge",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Tôi muốn mua món này."
+        },
+        {
+          "id": "s33_1_0010",
+          "level": "must",
+          "text": "我要这个颜色。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这个颜色有货。",
+              "id": "s33_1_0010_reply01",
+              "meaning_vi": "Màu này còn hàng."
+            },
+            {
+              "text": "这个颜色卖完了。",
+              "id": "s33_1_0010_reply02",
+              "meaning_vi": "Màu này bán hết rồi."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [],
+          "pinyin": "wǒ yào zhè ge yán sè",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Tôi muốn màu này."
+        },
+        {
+          "id": "s33_1_0011",
+          "level": "must",
+          "text": "满多少包邮？",
+          "alternatives": [
+            {
+              "text": "买多少包邮？",
+              "id": "s33_1_0011_alt01",
+              "meaning_vi": "Đơn từ bao nhiêu thì miễn phí giao hàng?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "满九十九元包邮。",
+              "id": "s33_1_0011_reply01",
+              "meaning_vi": "Đơn từ 99 tệ được miễn phí vận chuyển."
+            },
+            {
+              "text": "这家店全场包邮。",
+              "id": "s33_1_0011_reply02",
+              "meaning_vi": "Cửa hàng này miễn phí giao hàng toàn bộ sản phẩm."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“满九十九包邮”指达到规定消费门槛才免运费，需看是否按实付金额计算。",
+              "text_vi": "Miễn phí giao hàng cho đơn từ 99 tệ phụ thuộc ngưỡng chi tiêu, có thể tính theo số tiền thực trả."
+            }
+          ],
+          "pinyin": "mǎn duō shǎo bāo yóu",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Mua bao nhiêu thì được miễn phí vận chuyển?"
+        },
+        {
+          "id": "s33_1_0012",
+          "level": "must",
+          "text": "收件人填什么名字？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "填实际收件人的名字。",
+              "id": "s33_1_0012_reply01",
+              "meaning_vi": "Điền tên người sẽ thực sự nhận hàng."
+            },
+            {
+              "text": "填方便联系的收件人。",
+              "id": "s33_1_0012_reply02",
+              "meaning_vi": "Điền tên người có thể liên lạc khi giao hàng."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“收件人”是实际签收或取件的人，不一定和购买人相同；姓名应与可核实的取件信息相符。",
+              "text_vi": "“收件人” là người thực nhận hoặc lấy hàng, có thể khác người đặt; tên phải khớp thông tin xác minh."
+            }
+          ],
+          "pinyin": "shōu jiàn rén tián shén me míng zì",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Điền tên ai ở mục người nhận?"
+        },
+        {
+          "id": "s33_1_0013",
+          "level": "listen",
+          "text": "请选择规格。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我要大号的。",
+              "id": "s33_1_0013_reply01",
+              "meaning_vi": "Tôi lấy cỡ lớn."
+            },
+            {
+              "text": "有小号的吗？",
+              "id": "s33_1_0013_reply02",
+              "meaning_vi": "Có cỡ nhỏ không?"
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“请选择规格”是选择大小、容量或包装数量，不是让买家选择快递公司。",
+              "text_vi": "“Chọn quy cách” là chọn size, dung tích hoặc số chiếc trong gói, không phải chọn hãng vận chuyển."
+            }
+          ],
+          "pinyin": "qǐng xuǎn zé guī gé",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Vui lòng chọn quy cách sản phẩm."
+        },
+        {
+          "id": "s33_1_0014",
+          "level": "listen",
+          "text": "请确认收货地址。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "地址没问题。",
+              "id": "s33_1_0014_reply01",
+              "meaning_vi": "Địa chỉ đúng rồi."
+            },
+            {
+              "text": "门牌号不对，我改一下。",
+              "id": "s33_1_0014_reply02",
+              "meaning_vi": "Số nhà chưa đúng, để tôi sửa."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“确认地址”要连楼号、房间号和电话一并检查，门牌号错了可能送到别处。",
+              "text_vi": "Khi xác nhận địa chỉ, kiểm tra cả số tòa, số phòng và điện thoại; sai số nhà dễ giao nhầm."
+            }
+          ],
+          "pinyin": "qǐng què rèn shōu huò dì zhǐ",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Vui lòng xác nhận địa chỉ giao hàng."
+        },
+        {
+          "id": "s33_1_0015",
+          "level": "listen",
+          "text": "这款暂时没货。",
+          "alternatives": [
+            {
+              "text": "这款没货了。",
+              "id": "s33_1_0015_alt01",
+              "meaning_vi": "Mẫu này hết hàng rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "什么时候补货？",
+              "id": "s33_1_0015_reply01",
+              "meaning_vi": "Khi nào nhập thêm hàng?"
+            },
+            {
+              "text": "那别的颜色有吗？",
+              "id": "s33_1_0015_reply02",
+              "meaning_vi": "Vậy còn màu khác không?"
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [],
+          "pinyin": "zhè kuǎn zàn shí méi huò",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Mẫu này tạm hết hàng."
+        },
+        {
+          "id": "s33_1_0016",
+          "level": "listen",
+          "text": "这个包邮。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，那我下单了。",
+              "id": "s33_1_0016_reply01",
+              "meaning_vi": "Được, vậy tôi đặt hàng nhé."
+            },
+            {
+              "text": "偏远地区也包邮吗？",
+              "id": "s33_1_0016_reply02",
+              "meaning_vi": "Vùng xa cũng được miễn phí giao hàng à?"
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [],
+          "pinyin": "zhè ge bāo yóu",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Món này được miễn phí vận chuyển."
+        },
+        {
+          "id": "s33_1_0017",
+          "level": "listen",
+          "text": "订单已提交。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "现在要付款吗？",
+              "id": "s33_1_0017_reply01",
+              "meaning_vi": "Giờ cần thanh toán à?"
+            },
+            {
+              "text": "在哪儿看订单？",
+              "id": "s33_1_0017_reply02",
+              "meaning_vi": "Xem đơn hàng ở đâu?"
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“订单已提交”只表示订单提交成功，不等于已经付款或发货。",
+              "text_vi": "“订单已提交” chỉ có nghĩa đã gửi đơn thành công, chưa phải đã trả tiền hay gửi hàng."
+            }
+          ],
+          "pinyin": "dìng dān yǐ tí jiāo",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Đã gửi đơn đặt hàng."
+        },
+        {
+          "id": "s33_1_0018",
+          "level": "listen",
+          "text": "请尽快付款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在付。",
+              "id": "s33_1_0018_reply01",
+              "meaning_vi": "Được, tôi thanh toán ngay."
+            },
+            {
+              "text": "最晚什么时候付？",
+              "id": "s33_1_0018_reply02",
+              "meaning_vi": "Hạn cuối thanh toán là khi nào?"
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“尽快付款”是催促尽早支付，不等于所有订单都有相同付款期限；可以询问最后付款时间。",
+              "text_vi": "“Thanh toán sớm” không nói chính xác hạn cuối; có thể hỏi mốc thanh toán nếu cần."
+            }
+          ],
+          "pinyin": "qǐng jǐn kuài fù kuǎn",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Vui lòng thanh toán sớm."
+        },
+        {
+          "id": "s33_1_0019",
+          "level": "listen",
+          "text": "四十八小时内发货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我后天查物流。",
+              "id": "s33_1_0019_reply01",
+              "meaning_vi": "Vậy ngày kia tôi kiểm tra vận chuyển."
+            },
+            {
+              "text": "能早点发吗？",
+              "id": "s33_1_0019_reply02",
+              "meaning_vi": "Có thể gửi sớm hơn không?"
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "“四十八小时内发货”指两天内安排发出，不是48小时内必定送到家。",
+              "text_vi": "“Gửi trong vòng 48 giờ” là gửi hàng trong hai ngày, không bảo đảm giao tận nhà trong 48 giờ."
+            }
+          ],
+          "pinyin": "sì shí bā xiǎo shí nèi fā huò",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Sẽ gửi hàng trong vòng 48 giờ."
+        },
+        {
+          "id": "s33_1_0020",
+          "level": "listen",
+          "text": "发货后不能直接改地址。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那能联系快递改吗？",
+              "id": "s33_1_0020_reply01",
+              "meaning_vi": "Vậy có thể nhờ đơn vị vận chuyển sửa không?"
+            },
+            {
+              "text": "明白，我先核对地址。",
+              "id": "s33_1_0020_reply02",
+              "meaning_vi": "Hiểu rồi, tôi kiểm tra kỹ địa chỉ trước."
+            }
+          ],
+          "lesson_id": "33.1",
+          "lesson_title": "33.1 网上下单与收货地址",
+          "mistakes": [
+            {
+              "text": "发货后一般不能直接在原订单页面改地址，但是否能让承运方修改须另行确认。",
+              "text_vi": "Sau khi gửi hàng, thường không sửa địa chỉ trực tiếp trong đơn; hỏi hãng vận chuyển có sửa được không."
+            }
+          ],
+          "pinyin": "fā huò hòu bù néng zhí jiē gǎi dì zhǐ",
+          "lesson_title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+          "meaning_vi": "Hàng đã gửi rồi thì không sửa địa chỉ trực tiếp được."
+        }
+      ],
+      "opening": "练习网购时确认库存、选规格、填写中国收货地址和核对运费；下单不等于已经付款或送达。",
+      "subtitle": "20张高频卡 · 12必说 + 8必听",
+      "title_vi": "33.1 Đặt hàng online và địa chỉ nhận",
+      "opening_vi": "Luyện kiểm tra hàng còn không, chọn quy cách, điền địa chỉ nhận tại Trung Quốc và đối chiếu phí giao hàng; đặt hàng chưa phải đã trả tiền hay nhận hàng.",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "33.2",
+      "title": "33.2 联系商家与订单修改",
+      "phrases": [
+        {
+          "id": "s33_2_0001",
+          "level": "must",
+          "text": "想问下这个订单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，订单号是多少？",
+              "id": "s33_2_0001_reply01",
+              "meaning_vi": "Được, mã đơn hàng là gì?"
+            },
+            {
+              "text": "把订单截图发来看看。",
+              "id": "s33_2_0001_reply02",
+              "meaning_vi": "Gửi ảnh chụp đơn hàng cho tôi xem nhé."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "询问订单时通常需要订单号；在官方订单聊天里核对，不要随意把完整收货地址公开发给陌生人。",
+              "text_vi": "Khi hỏi về đơn hàng nên cung cấp mã đơn qua kênh chính thức, đừng công khai địa chỉ nhận cho người lạ."
+            }
+          ],
+          "pinyin": "xiǎng wèn xià zhè ge dìng dān",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Tôi muốn hỏi về đơn hàng này."
+        },
+        {
+          "id": "s33_2_0002",
+          "level": "must",
+          "text": "怎么联系商家？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "点订单里的联系商家。",
+              "id": "s33_2_0002_reply01",
+              "meaning_vi": "Bấm “Liên hệ người bán” trong đơn hàng."
+            },
+            {
+              "text": "也可以找在线客服。",
+              "id": "s33_2_0002_reply02",
+              "meaning_vi": "Hoặc liên hệ bộ phận hỗ trợ trực tuyến."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [],
+          "pinyin": "zěn me lián xì shāng jiā",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Liên hệ người bán thế nào?"
+        },
+        {
+          "id": "s33_2_0003",
+          "level": "must",
+          "text": "可以改颜色吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还没发货，可以帮您改。",
+              "id": "s33_2_0003_reply01",
+              "meaning_vi": "Chưa gửi hàng nên tôi sửa giúp được."
+            },
+            {
+              "text": "已经打包了，我问问仓库。",
+              "id": "s33_2_0003_reply02",
+              "meaning_vi": "Đã đóng gói rồi, để tôi hỏi kho."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“改颜色”是修改尚未发出的订单选项，不等于收到货后申请换货。",
+              "text_vi": "Sửa màu là đổi lựa chọn trong đơn chưa gửi, khác đổi hàng sau khi đã nhận."
+            }
+          ],
+          "pinyin": "kě yǐ gǎi yán sè ma",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Có thể đổi màu không?"
+        },
+        {
+          "id": "s33_2_0004",
+          "level": "must",
+          "text": "可以改尺码吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，您想改成多大？",
+              "id": "s33_2_0004_reply01",
+              "meaning_vi": "Được, anh/chị muốn đổi sang cỡ nào?"
+            },
+            {
+              "text": "已经发货，不能直接改了。",
+              "id": "s33_2_0004_reply02",
+              "meaning_vi": "Hàng đã gửi rồi, không thể sửa trực tiếp nữa."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“改尺码”是更改下单尺码；发货后通常需另问退换货流程。",
+              "text_vi": "Sửa size là sửa đơn đặt; sau khi gửi thường phải theo quy trình đổi trả."
+            }
+          ],
+          "pinyin": "kě yǐ gǎi chǐ mǎ ma",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Có thể đổi kích cỡ không?"
+        },
+        {
+          "id": "s33_2_0005",
+          "level": "must",
+          "text": "可以改备注吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，想改成什么？",
+              "id": "s33_2_0005_reply01",
+              "meaning_vi": "Được, anh/chị muốn sửa thành gì?"
+            },
+            {
+              "text": "面单打好了，我先问下。",
+              "id": "s33_2_0005_reply02",
+              "meaning_vi": "Đã in nhãn vận chuyển rồi, để tôi hỏi lại."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“备注”是订单附加说明，“面单”是包裹上的物流标签，不是普通购物收据。",
+              "text_vi": "“备注” là ghi chú đơn, “面单” là nhãn vận chuyển trên gói hàng, không phải biên lai mua."
+            }
+          ],
+          "pinyin": "kě yǐ gǎi bèi zhù ma",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Có sửa ghi chú đơn hàng được không?"
+        },
+        {
+          "id": "s33_2_0006",
+          "level": "must",
+          "text": "没发货能取消吗？",
+          "alternatives": [
+            {
+              "text": "还没发货可以取消订单吗？",
+              "id": "s33_2_0006_alt01",
+              "meaning_vi": "Đơn chưa gửi có thể hủy không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以在订单里申请取消。",
+              "id": "s33_2_0006_reply01",
+              "meaning_vi": "Có thể yêu cầu hủy trong phần đơn hàng."
+            },
+            {
+              "text": "我先确认下订单状态。",
+              "id": "s33_2_0006_reply02",
+              "meaning_vi": "Để tôi xác nhận trạng thái đơn trước."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "取消订单不代表钱已退回；先确认取消获批及退款进度，避免重复下单付款。",
+              "text_vi": "Hủy đơn không có nghĩa tiền đã hoàn; kiểm tra phê duyệt hủy và tiến độ hoàn trước khi trả tiền cho đơn mới."
+            }
+          ],
+          "pinyin": "méi fā huò néng qǔ xiāo ma",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Chưa gửi hàng thì hủy đơn được không?"
+        },
+        {
+          "id": "s33_2_0007",
+          "level": "must",
+          "text": "帮我看下订单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请把订单号发来。",
+              "id": "s33_2_0007_reply01",
+              "meaning_vi": "Vui lòng gửi mã đơn hàng."
+            },
+            {
+              "text": "我帮您查下现在的状态。",
+              "id": "s33_2_0007_reply02",
+              "meaning_vi": "Để tôi kiểm tra trạng thái hiện tại cho anh/chị."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [],
+          "pinyin": "bāng wǒ kàn xià dìng dān",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Kiểm tra đơn hàng giúp tôi nhé."
+        },
+        {
+          "id": "s33_2_0008",
+          "level": "must",
+          "text": "能帮我催发货吗？",
+          "alternatives": [
+            {
+              "text": "麻烦催下发货。",
+              "id": "s33_2_0008_alt01",
+              "meaning_vi": "Phiền nhắc họ gửi hàng sớm giúp tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我帮您催一下仓库。",
+              "id": "s33_2_0008_reply01",
+              "meaning_vi": "Được, tôi sẽ thúc kho xử lý."
+            },
+            {
+              "text": "这款还在备货，我再问问。",
+              "id": "s33_2_0008_reply02",
+              "meaning_vi": "Mẫu này đang chuẩn bị hàng, để tôi hỏi thêm."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“催发货”是请商家加快安排发出，并不等于已经发货或保证某时送到。",
+              "text_vi": "“催发货” là nhắc gửi sớm, chưa có nghĩa hàng đã gửi hoặc chắc chắn tới đúng giờ."
+            }
+          ],
+          "pinyin": "néng bāng wǒ cuī fā huò ma",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Nhắc người bán gửi hàng sớm giúp tôi được không?"
+        },
+        {
+          "id": "s33_2_0009",
+          "level": "must",
+          "text": "规格选错了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还没发货的话可以改。",
+              "id": "s33_2_0009_reply01",
+              "meaning_vi": "Nếu chưa gửi hàng thì có thể sửa."
+            },
+            {
+              "text": "您想换成哪种规格？",
+              "id": "s33_2_0009_reply02",
+              "meaning_vi": "Anh/chị muốn đổi sang quy cách nào?"
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "选错“规格”可能是容量、颜色或包装数量等问题，先讲清楚改成哪一种。",
+              "text_vi": "Chọn sai “规格” có thể là màu, dung tích hay số lượng, hãy nói rõ muốn loại nào."
+            }
+          ],
+          "pinyin": "guī gé xuǎn cuò le",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Tôi chọn nhầm quy cách."
+        },
+        {
+          "id": "s33_2_0010",
+          "level": "must",
+          "text": "订单号在这里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "收到了，我查一下。",
+              "id": "s33_2_0010_reply01",
+              "meaning_vi": "Nhận được rồi, để tôi kiểm tra."
+            },
+            {
+              "text": "查到了，您想改什么？",
+              "id": "s33_2_0010_reply02",
+              "meaning_vi": "Tìm thấy rồi, anh/chị muốn sửa gì?"
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“订单号”是购物订单编号，“快递单号”是物流追踪编号，二者不一定相同。",
+              "text_vi": "Mã đơn mua hàng khác mã vận đơn dùng theo dõi giao nhận, dù đôi khi hiển thị gần nhau."
+            }
+          ],
+          "pinyin": "dìng dān hào zài zhè lǐ",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Mã đơn hàng ở đây."
+        },
+        {
+          "id": "s33_2_0011",
+          "level": "listen",
+          "text": "订单已经发货了。",
+          "alternatives": [
+            {
+              "text": "已经发出了。",
+              "id": "s33_2_0011_alt01",
+              "meaning_vi": "Hàng đã gửi đi rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "能发我快递单号吗？",
+              "id": "s33_2_0011_reply01",
+              "meaning_vi": "Gửi tôi mã vận đơn được không?"
+            },
+            {
+              "text": "那大概哪天能到？",
+              "id": "s33_2_0011_reply02",
+              "meaning_vi": "Vậy khoảng ngày nào hàng đến?"
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“已经发货”指商家发出，不代表快递已派送或已经签收。",
+              "text_vi": "“Đã gửi hàng” không có nghĩa đang giao chặng cuối hoặc người mua đã nhận."
+            }
+          ],
+          "pinyin": "dìng dān yǐ jīng fā huò le",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Đơn hàng đã được gửi đi rồi."
+        },
+        {
+          "id": "s33_2_0012",
+          "level": "listen",
+          "text": "发货后改不了规格。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那到货后能换吗？",
+              "id": "s33_2_0012_reply01",
+              "meaning_vi": "Vậy khi nhận hàng có thể đổi không?"
+            },
+            {
+              "text": "需要申请退换货吗？",
+              "id": "s33_2_0012_reply02",
+              "meaning_vi": "Có cần yêu cầu đổi trả không?"
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“改不了”里的“了”读liǎo，表示做不到；这里是发货后不能直接改订单规格。",
+              "text_vi": "Trong “改不了”, “了” đọc liǎo, nghĩa là không làm được; đã gửi nên không sửa quy cách trực tiếp."
+            }
+          ],
+          "pinyin": "fā huò hòu gǎi bù liǎo guī gé",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Gửi hàng rồi thì không đổi quy cách trực tiếp được."
+        },
+        {
+          "id": "s33_2_0013",
+          "level": "listen",
+          "text": "可以取消后重拍。",
+          "alternatives": [
+            {
+              "text": "取消后重新下单。",
+              "id": "s33_2_0013_alt01",
+              "meaning_vi": "Hủy đơn cũ rồi đặt lại."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我先取消旧订单。",
+              "id": "s33_2_0013_reply01",
+              "meaning_vi": "Được, tôi hủy đơn cũ trước."
+            },
+            {
+              "text": "退款后我再重新下单。",
+              "id": "s33_2_0013_reply02",
+              "meaning_vi": "Tiền hoàn về rồi tôi sẽ đặt lại."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "网购里“重拍”是取消旧订单后重新下单，不是重新拍照片；旧订单退款和新订单支付要分别核对。",
+              "text_vi": "“重拍” trong mua hàng online là hủy đơn cũ rồi đặt đơn mới, không phải chụp ảnh lại; kiểm tra tiền hoàn và khoản trả mới."
+            }
+          ],
+          "pinyin": "kě yǐ qǔ xiāo hòu chóng pāi",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Có thể hủy rồi đặt lại đơn mới."
+        },
+        {
+          "id": "s33_2_0014",
+          "level": "listen",
+          "text": "客服稍后回复您。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我留意消息。",
+              "id": "s33_2_0014_reply01",
+              "meaning_vi": "Được, tôi sẽ để ý tin nhắn."
+            },
+            {
+              "text": "大概要等多久？",
+              "id": "s33_2_0014_reply02",
+              "meaning_vi": "Khoảng bao lâu mới có phản hồi?"
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“稍后回复”表示过一会儿回复，不保证几分钟内答复；可以询问预计等待时间。",
+              "text_vi": "“Sẽ trả lời sau” không cam kết sau bao nhiêu phút; có thể hỏi thời gian dự kiến."
+            }
+          ],
+          "pinyin": "kè fu shāo hòu huí fù nín",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Bộ phận hỗ trợ sẽ trả lời anh/chị sau."
+        },
+        {
+          "id": "s33_2_0015",
+          "level": "listen",
+          "text": "可以帮您修改。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那请帮我改成黑色。",
+              "id": "s33_2_0015_reply01",
+              "meaning_vi": "Vậy sửa thành màu đen giúp tôi."
+            },
+            {
+              "text": "改好后能让我确认吗？",
+              "id": "s33_2_0015_reply02",
+              "meaning_vi": "Sửa xong cho tôi kiểm tra lại được không?"
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "店员说“可以修改”不代表已经改好；修改后应再核对颜色、尺码和收货地址。",
+              "text_vi": "Nhân viên nói có thể sửa chưa có nghĩa sửa xong; kiểm tra lại màu, size và địa chỉ sau khi chỉnh."
+            }
+          ],
+          "pinyin": "kě yǐ bāng nín xiū gǎi",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Tôi có thể sửa giúp anh/chị."
+        },
+        {
+          "id": "s33_2_0016",
+          "level": "listen",
+          "text": "商家正在备货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概哪天发货？",
+              "id": "s33_2_0016_reply01",
+              "meaning_vi": "Khoảng ngày nào gửi hàng?"
+            },
+            {
+              "text": "好，麻烦尽快安排。",
+              "id": "s33_2_0016_reply02",
+              "meaning_vi": "Được, phiền sắp xếp sớm giúp tôi."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“备货”是准备、整理商品，不等于已经把包裹交给快递公司。",
+              "text_vi": "“备货” là chuẩn bị hàng, chưa phải đã giao cho đơn vị chuyển phát."
+            }
+          ],
+          "pinyin": "shāng jiā zhèng zài bèi huò",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Người bán đang chuẩn bị hàng."
+        },
+        {
+          "id": "s33_2_0017",
+          "level": "listen",
+          "text": "预计明天发货。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "发货后能给我单号吗？",
+              "id": "s33_2_0017_reply01",
+              "meaning_vi": "Gửi xong cho tôi mã vận đơn được không?"
+            },
+            {
+              "text": "好，那我明天再查。",
+              "id": "s33_2_0017_reply02",
+              "meaning_vi": "Được, ngày mai tôi kiểm tra lại."
+            }
+          ],
+          "lesson_id": "33.2",
+          "lesson_title": "33.2 联系商家与订单修改",
+          "mistakes": [
+            {
+              "text": "“预计明天发货”只是预计出库时间，不是保证明天收货。",
+              "text_vi": "Dự kiến gửi ngày mai là thời điểm xuất hàng, không phải ngày nhận hàng."
+            }
+          ],
+          "pinyin": "yù jì míng tiān fā huò",
+          "lesson_title_vi": "33.2 Liên hệ người bán và sửa đơn",
+          "meaning_vi": "Dự kiến gửi hàng ngày mai."
+        }
+      ],
+      "opening": "练习联系卖家更改颜色、尺码和备注，询问催发货、取消后重新下单及退款状态。",
+      "subtitle": "17张高频卡 · 10必说 + 7必听",
+      "title_vi": "33.2 Liên hệ người bán và sửa đơn",
+      "opening_vi": "Luyện hỏi người bán sửa màu, size và ghi chú, thúc gửi hàng, hủy để đặt lại và kiểm tra tiền hoàn.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "33.3",
+      "title": "33.3 寄快递",
+      "phrases": [
+        {
+          "id": "s33_3_0001",
+          "level": "must",
+          "text": "我要寄个快递。",
+          "alternatives": [
+            {
+              "text": "我想寄个快递。",
+              "id": "s33_3_0001_alt01",
+              "meaning_vi": "Tôi muốn gửi hàng chuyển phát."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好的，先填寄件信息。",
+              "id": "s33_3_0001_reply01",
+              "meaning_vi": "Được, điền thông tin người gửi trước."
+            },
+            {
+              "text": "先把包裹称下重。",
+              "id": "s33_3_0001_reply02",
+              "meaning_vi": "Trước tiên cân gói hàng nhé."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [],
+          "pinyin": "wǒ yào jì ge kuài dì",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Tôi muốn gửi một bưu kiện."
+        },
+        {
+          "id": "s33_3_0002",
+          "level": "must",
+          "text": "这个能寄吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先看看是什么东西。",
+              "id": "s33_3_0002_reply01",
+              "meaning_vi": "Để tôi xem là vật gì đã."
+            },
+            {
+              "text": "这种东西我们寄不了。",
+              "id": "s33_3_0002_reply02",
+              "meaning_vi": "Loại đồ này bên tôi không nhận gửi."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "能不能寄要看物品种类、包装和实际承运规则，不要把某网点拒收理解成所有快递都不能收。",
+              "text_vi": "Gửi được hay không tùy loại đồ, bao bì và quy định từng hãng; một điểm từ chối chưa chắc hãng nào cũng từ chối."
+            }
+          ],
+          "pinyin": "zhè ge néng jì ma",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Món này có gửi được không?"
+        },
+        {
+          "id": "s33_3_0003",
+          "level": "must",
+          "text": "运费多少钱？",
+          "alternatives": [
+            {
+              "text": "邮费多少钱？",
+              "id": "s33_3_0003_alt01",
+              "meaning_vi": "Cước gửi hàng bao nhiêu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "称完重才能算。",
+              "id": "s33_3_0003_reply01",
+              "meaning_vi": "Phải cân xong mới tính được."
+            },
+            {
+              "text": "要看寄到哪里。",
+              "id": "s33_3_0003_reply02",
+              "meaning_vi": "Còn tùy nơi gửi đến."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“运费”是运输费用；邮费、快递费在生活口语里可能都指寄件费用，价格还要看重量和目的地。",
+              "text_vi": "“运费” là cước vận chuyển; trong giao tiếp “邮费” và phí chuyển phát đôi khi dùng chung. Giá tùy cân nặng, nơi đến."
+            }
+          ],
+          "pinyin": "yùn fèi duō shǎo qián",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Phí vận chuyển bao nhiêu?"
+        },
+        {
+          "id": "s33_3_0004",
+          "level": "must",
+          "text": "需要包装吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，包装好才能寄。",
+              "id": "s33_3_0004_reply01",
+              "meaning_vi": "Có, phải đóng gói xong mới gửi được."
+            },
+            {
+              "text": "我们可以帮您打包。",
+              "id": "s33_3_0004_reply02",
+              "meaning_vi": "Bên tôi có thể đóng gói giúp."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“包装”是为了保护物品而装箱、封好，不是要求寄件人自己负责所有包装材料。",
+              "text_vi": "“Đóng gói” là cho vào hộp, bọc và niêm phong để bảo vệ đồ; không nhất thiết khách tự lo tất cả vật liệu."
+            }
+          ],
+          "pinyin": "xū yào bāo zhuāng ma",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Có cần đóng gói không?"
+        },
+        {
+          "id": "s33_3_0005",
+          "level": "must",
+          "text": "地址写这里吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，收件地址填这里。",
+              "id": "s33_3_0005_reply01",
+              "meaning_vi": "Đúng, điền địa chỉ người nhận ở đây."
+            },
+            {
+              "text": "寄件人的也要写。",
+              "id": "s33_3_0005_reply02",
+              "meaning_vi": "Cũng phải ghi địa chỉ người gửi."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [],
+          "pinyin": "dì zhǐ xiě zhè lǐ ma",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Ghi địa chỉ ở đây à?"
+        },
+        {
+          "id": "s33_3_0006",
+          "level": "must",
+          "text": "什么时候能到？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "预计后天能到。",
+              "id": "s33_3_0006_reply01",
+              "meaning_vi": "Dự kiến ngày kia đến."
+            },
+            {
+              "text": "具体还要看运输情况。",
+              "id": "s33_3_0006_reply02",
+              "meaning_vi": "Còn tùy tình hình vận chuyển thực tế."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [],
+          "pinyin": "shén me shí hou néng dào",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Khi nào hàng đến?"
+        },
+        {
+          "id": "s33_3_0007",
+          "level": "must",
+          "text": "能上门取件吗？",
+          "alternatives": [
+            {
+              "text": "能来家里取吗？",
+              "id": "s33_3_0007_alt01",
+              "meaning_vi": "Có thể tới nhà lấy hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，预约时间就行。",
+              "id": "s33_3_0007_reply01",
+              "meaning_vi": "Được, chỉ cần hẹn giờ trước."
+            },
+            {
+              "text": "这个地址暂时不支持。",
+              "id": "s33_3_0007_reply02",
+              "meaning_vi": "Địa chỉ này hiện chưa hỗ trợ lấy hàng tận nhà."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“上门取件”是快递员到约定地址上门收件，和“送货上门”给收件人派送不是一回事。",
+              "text_vi": "“上门取件” là nhân viên đến nhà người gửi nhận gói, khác “送货上门” là giao hàng tận nhà người nhận."
+            }
+          ],
+          "pinyin": "néng shàng mén qǔ jiàn ma",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Có thể đến tận nhà lấy hàng không?"
+        },
+        {
+          "id": "s33_3_0008",
+          "level": "must",
+          "text": "寄北京多少钱？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要先称重再报价。",
+              "id": "s33_3_0008_reply01",
+              "meaning_vi": "Cần cân trước rồi mới báo giá."
+            },
+            {
+              "text": "还得看寄哪家快递。",
+              "id": "s33_3_0008_reply02",
+              "meaning_vi": "Còn tùy chọn hãng chuyển phát nào."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "寄北京费用不是固定一口价，要核对重量、体积和选择的承运方式。",
+              "text_vi": "Cước gửi Bắc Kinh tùy trọng lượng, thể tích và phương thức vận chuyển, không phải giá cố định."
+            }
+          ],
+          "pinyin": "jì běi jīng duō shǎo qián",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Gửi hàng đến Bắc Kinh hết bao nhiêu tiền?"
+        },
+        {
+          "id": "s33_3_0009",
+          "level": "must",
+          "text": "大概几天能到？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概两三天。",
+              "id": "s33_3_0009_reply01",
+              "meaning_vi": "Khoảng hai đến ba ngày."
+            },
+            {
+              "text": "偏远地区会慢一点。",
+              "id": "s33_3_0009_reply02",
+              "meaning_vi": "Khu vực xa có thể lâu hơn."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“大概几天能到”是在问预计运输时间，不是约定保证到达的具体日期；跨地区和偏远地区可能不同。",
+              "text_vi": "“Khoảng mấy ngày tới” hỏi dự kiến vận chuyển, không phải cam kết ngày giao; vùng xa có thể khác."
+            }
+          ],
+          "pinyin": "dà gài jǐ tiān néng dào",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Khoảng mấy ngày thì tới?"
+        },
+        {
+          "id": "s33_3_0010",
+          "level": "must",
+          "text": "这个要保价吗？",
+          "alternatives": [
+            {
+              "text": "需要保价吗？",
+              "id": "s33_3_0010_alt01",
+              "meaning_vi": "Có cần mua dịch vụ bảo hiểm giá trị hàng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "贵重物品建议保价。",
+              "id": "s33_3_0010_reply01",
+              "meaning_vi": "Đồ có giá trị cao nên dùng dịch vụ bảo đảm giá trị."
+            },
+            {
+              "text": "保价需要另付费用。",
+              "id": "s33_3_0010_reply02",
+              "meaning_vi": "Dịch vụ bảo đảm giá trị hàng có tính phí riêng."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“保价”是按承运规则声明物品价值、选择相应服务，不保证遗失后必按购买标价全额赔偿。",
+              "text_vi": "“保价” là khai giá trị hàng và chọn dịch vụ theo quy định vận chuyển; không bảo đảm mất hàng được đền toàn bộ giá mua."
+            }
+          ],
+          "pinyin": "zhè ge yào bǎo jià ma",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Món này có cần khai giá trị hàng gửi không?"
+        },
+        {
+          "id": "s33_3_0011",
+          "level": "must",
+          "text": "寄件要登记证件吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要实名登记。",
+              "id": "s33_3_0011_reply01",
+              "meaning_vi": "Cần xác minh danh tính người gửi."
+            },
+            {
+              "text": "请出示有效证件。",
+              "id": "s33_3_0011_reply02",
+              "meaning_vi": "Vui lòng xuất trình giấy tờ hợp lệ."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“寄件人实名登记”核实寄件人的身份，不能假定只要报名字就够，也不要把证件照片发给陌生联系人。",
+              "text_vi": "Đăng ký gửi hàng theo tên thật cần xác minh danh tính; đừng gửi ảnh giấy tờ cho người lạ."
+            }
+          ],
+          "pinyin": "jì jiàn yào dēng jì zhèng jiàn ma",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Gửi hàng có cần đăng ký giấy tờ tùy thân không?"
+        },
+        {
+          "id": "s33_3_0012",
+          "level": "must",
+          "text": "护照能登记吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮您确认一下。",
+              "id": "s33_3_0012_reply01",
+              "meaning_vi": "Để tôi xác nhận giúp anh/chị."
+            },
+            {
+              "text": "要看这个网点的要求。",
+              "id": "s33_3_0012_reply02",
+              "meaning_vi": "Còn tùy yêu cầu của điểm gửi hàng này."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "护照能否用于寄件实名核验，应询问具体承运公司或网点；不要直接保证所有网点都接受。",
+              "text_vi": "Hộ chiếu được chấp nhận hay không cần hỏi đúng hãng, chi nhánh; không mặc định nơi nào cũng nhận."
+            }
+          ],
+          "pinyin": "hù zhào néng dēng jì ma",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Có thể dùng hộ chiếu để đăng ký không?"
+        },
+        {
+          "id": "s33_3_0013",
+          "level": "listen",
+          "text": "先填地址。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，收件人写谁？",
+              "id": "s33_3_0013_reply01",
+              "meaning_vi": "Được, điền tên người nhận là ai?"
+            },
+            {
+              "text": "手机号也要填吗？",
+              "id": "s33_3_0013_reply02",
+              "meaning_vi": "Cũng phải điền số điện thoại à?"
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [],
+          "pinyin": "xiān tián dì zhǐ",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Điền địa chỉ trước."
+        },
+        {
+          "id": "s33_3_0014",
+          "level": "listen",
+          "text": "需要称重。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，包裹放这里吗？",
+              "id": "s33_3_0014_reply01",
+              "meaning_vi": "Được, đặt gói hàng ở đây à?"
+            },
+            {
+              "text": "称完告诉我运费吧。",
+              "id": "s33_3_0014_reply02",
+              "meaning_vi": "Cân xong báo tôi phí vận chuyển nhé."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“称重”是给包裹称重量；若体积较大还可能按计费体积另算，先问清最终运费。",
+              "text_vi": "“称重” là cân kiện hàng; hàng cồng kềnh có thể tính theo trọng lượng quy đổi, nên hỏi tổng cước."
+            }
+          ],
+          "pinyin": "xū yào chēng chóng",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Cần cân hàng."
+        },
+        {
+          "id": "s33_3_0015",
+          "level": "listen",
+          "text": "明天能到。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概几点到？",
+              "id": "s33_3_0015_reply01",
+              "meaning_vi": "Khoảng mấy giờ tới?"
+            },
+            {
+              "text": "那我明天留意电话。",
+              "id": "s33_3_0015_reply02",
+              "meaning_vi": "Vậy mai tôi để ý điện thoại."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“能到”表示预计可能到达，不一定是承诺准确投递时间。",
+              "text_vi": "“Ngày mai có thể tới” là thời gian dự kiến, không bảo đảm giờ giao."
+            }
+          ],
+          "pinyin": "míng tiān néng dào",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Ngày mai hàng có thể tới."
+        },
+        {
+          "id": "s33_3_0016",
+          "level": "listen",
+          "text": "这个液体寄不了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我不寄这个了。",
+              "id": "s33_3_0016_reply01",
+              "meaning_vi": "Vậy tôi không gửi món này nữa."
+            },
+            {
+              "text": "是这个网点不收吗？",
+              "id": "s33_3_0016_reply02",
+              "meaning_vi": "Chỉ điểm gửi này không nhận thôi à?"
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“寄不了”里的“了”读liǎo，意为无法寄送；液体能否邮寄由具体内容、包装和承运方式决定。",
+              "text_vi": "Trong “寄不了”, “了” đọc liǎo nghĩa là không gửi được. Chất lỏng có gửi được không tùy loại và quy định."
+            }
+          ],
+          "pinyin": "zhè ge yè tǐ jì bù liǎo",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Không thể gửi chất lỏng này."
+        },
+        {
+          "id": "s33_3_0017",
+          "level": "listen",
+          "text": "可以预约上门取件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "怎么预约？",
+              "id": "s33_3_0017_reply01",
+              "meaning_vi": "Đặt lịch thế nào?"
+            },
+            {
+              "text": "今天下午能来吗？",
+              "id": "s33_3_0017_reply02",
+              "meaning_vi": "Chiều nay có thể tới không?"
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [],
+          "pinyin": "kě yǐ yù yuē shàng mén qǔ jiàn",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Có thể hẹn nhân viên tới nhà lấy hàng."
+        },
+        {
+          "id": "s33_3_0018",
+          "level": "listen",
+          "text": "超重会加运费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "超一公斤加多少钱？",
+              "id": "s33_3_0018_reply01",
+              "meaning_vi": "Quá 1 kg thì tính thêm bao nhiêu?"
+            },
+            {
+              "text": "那先帮我称一下。",
+              "id": "s33_3_0018_reply02",
+              "meaning_vi": "Vậy cân giúp tôi trước nhé."
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“超重加运费”是超过规定重量后要额外计费，不等于只多了一公斤就必然按固定金额收费。",
+              "text_vi": "Quá cân có thể bị tính thêm cước theo biểu phí, không phải quá 1 kg luôn cộng một số tiền cố định."
+            }
+          ],
+          "pinyin": "chāo chóng huì jiā yùn fèi",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Quá cân sẽ bị tính thêm phí vận chuyển."
+        },
+        {
+          "id": "s33_3_0019",
+          "level": "listen",
+          "text": "贵重物品建议保价。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "保价费怎么算？",
+              "id": "s33_3_0019_reply01",
+              "meaning_vi": "Phí dịch vụ khai giá trị tính thế nào?"
+            },
+            {
+              "text": "保价以后怎么赔？",
+              "id": "s33_3_0019_reply02",
+              "meaning_vi": "Đăng ký dịch vụ này thì bồi thường ra sao?"
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "贵重物品保价前要核对申报价值、额外费用和赔偿条件；保价不是赔偿已获批准。",
+              "text_vi": "Với hàng quý, xác nhận giá trị khai, phí thêm và điều kiện bồi thường trước khi mua dịch vụ."
+            }
+          ],
+          "pinyin": "guì chóng wù pǐn jiàn yì bǎo jià",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Đồ giá trị cao nên khai giá trị hàng gửi."
+        },
+        {
+          "id": "s33_3_0020",
+          "level": "listen",
+          "text": "这个不能走空运。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能走陆运吗？",
+              "id": "s33_3_0020_reply01",
+              "meaning_vi": "Có thể gửi bằng đường bộ không?"
+            },
+            {
+              "text": "那大概要多久？",
+              "id": "s33_3_0020_reply02",
+              "meaning_vi": "Vậy khoảng bao lâu?"
+            }
+          ],
+          "lesson_id": "33.3",
+          "lesson_title": "33.3 寄快递",
+          "mistakes": [
+            {
+              "text": "“走空运”指通过航空运输，“走陆运”指走陆路；不能空运不一定完全不能寄。",
+              "text_vi": "“空运” là gửi đường hàng không, “陆运” là đường bộ. Không gửi máy bay được chưa có nghĩa không gửi được."
+            }
+          ],
+          "pinyin": "zhè ge bù néng zǒu kōng yùn",
+          "lesson_title_vi": "33.3 Gửi hàng chuyển phát",
+          "meaning_vi": "Món này không vận chuyển bằng đường hàng không được."
+        }
+      ],
+      "opening": "练习寄快递、填写寄收件地址、询问称重运费、上门取件和保价；护照实名登记须按实际网点核实。",
+      "subtitle": "20张高频卡 · 12必说 + 8必听",
+      "title_vi": "33.3 Gửi hàng chuyển phát",
+      "opening_vi": "Luyện ghi người gửi/người nhận, hỏi cước theo cân, hẹn lấy hàng tận nhà và khai giá trị hàng; xác minh quy định giấy tờ ở từng điểm gửi.",
+      "subtitle_vi": "20 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "33.4",
+      "title": "33.4 收件与取件码",
+      "phrases": [
+        {
+          "id": "s33_4_0001",
+          "level": "must",
+          "text": "我的快递到了吗？",
+          "alternatives": [
+            {
+              "text": "我的快递到没到？",
+              "id": "s33_4_0001_alt01",
+              "meaning_vi": "Hàng chuyển phát của tôi đến chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "到了，在东门驿站。",
+              "id": "s33_4_0001_reply01",
+              "meaning_vi": "Đến rồi, ở điểm nhận hàng cổng Đông."
+            },
+            {
+              "text": "还没到，预计明天。",
+              "id": "s33_4_0001_reply02",
+              "meaning_vi": "Chưa, dự kiến mai tới."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“到了”要确认是到了取件驿站、快递柜，还是已经送到收件人手里，三者不同。",
+              "text_vi": "“Đã tới” có thể là tới điểm nhận hộ, tủ giao hàng hay tận tay người nhận; cần hỏi rõ."
+            }
+          ],
+          "pinyin": "wǒ de kuài dì dào le ma",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Bưu kiện của tôi đến chưa?"
+        },
+        {
+          "id": "s33_4_0002",
+          "level": "must",
+          "text": "取件码是多少？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是五六七八。",
+              "id": "s33_4_0002_reply01",
+              "meaning_vi": "Mã là 5678."
+            },
+            {
+              "text": "我查下，再发给您。",
+              "id": "s33_4_0002_reply02",
+              "meaning_vi": "Để tôi kiểm tra rồi gửi lại anh/chị."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“取件码”用于领取包裹，与购物订单号、快递运单号不同；不要随便发给陌生人。",
+              "text_vi": "Mã lấy hàng khác mã đơn mua và mã vận đơn; không tùy tiện gửi cho người lạ."
+            }
+          ],
+          "pinyin": "qǔ jiàn mǎ shì duō shǎo",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Mã lấy hàng là bao nhiêu?"
+        },
+        {
+          "id": "s33_4_0003",
+          "level": "must",
+          "text": "我来取快递。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请报一下取件码。",
+              "id": "s33_4_0003_reply01",
+              "meaning_vi": "Vui lòng đọc mã lấy hàng."
+            },
+            {
+              "text": "您手机尾号是多少？",
+              "id": "s33_4_0003_reply02",
+              "meaning_vi": "Bốn số cuối điện thoại của anh/chị là gì?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "取件时站点可能需要取件码、手机号尾号或身份核验；“尾号”是末尾几位，不是整串号码。",
+              "text_vi": "Khi lấy hàng có thể cần mã lấy, bốn số cuối điện thoại hoặc giấy tờ; “尾号” là những số cuối, không phải cả số."
+            }
+          ],
+          "pinyin": "wǒ lái qǔ kuài dì",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Tôi đến lấy bưu kiện."
+        },
+        {
+          "id": "s33_4_0004",
+          "level": "must",
+          "text": "没收到取件码。",
+          "alternatives": [
+            {
+              "text": "取件码没发来。",
+              "id": "s33_4_0004_alt01",
+              "meaning_vi": "Chưa thấy gửi mã nhận hàng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我再给您发一次。",
+              "id": "s33_4_0004_reply01",
+              "meaning_vi": "Tôi gửi lại cho anh/chị."
+            },
+            {
+              "text": "我帮您用手机号查。",
+              "id": "s33_4_0004_reply02",
+              "meaning_vi": "Để tôi tra bằng số điện thoại."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "没收到取件码不代表包裹一定丢失，可先通过订单和官方取件通知查位置。",
+              "text_vi": "Chưa nhận mã lấy không có nghĩa gói bị mất; kiểm tra đơn và thông báo chính thức."
+            }
+          ],
+          "pinyin": "méi shōu dào qǔ jiàn mǎ",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Tôi chưa nhận được mã lấy hàng."
+        },
+        {
+          "id": "s33_4_0005",
+          "level": "must",
+          "text": "柜门打不开。",
+          "alternatives": [
+            {
+              "text": "快递柜打不开。",
+              "id": "s33_4_0005_alt01",
+              "meaning_vi": "Tủ nhận hàng tự động không mở được."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您联系柜机客服。",
+              "id": "s33_4_0005_reply01",
+              "meaning_vi": "Để tôi liên hệ bộ phận hỗ trợ tủ."
+            },
+            {
+              "text": "先别用力拉，我来看看。",
+              "id": "s33_4_0005_reply02",
+              "meaning_vi": "Đừng cố kéo mạnh, để tôi kiểm tra."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "快递柜打不开时不要硬撬柜门，可联系柜机客服或站点协助；取件码无效和门故障可能不同。",
+              "text_vi": "Tủ không mở thì đừng cạy; liên hệ bộ phận hỗ trợ. Mã sai và cửa tủ hỏng là hai lỗi khác nhau."
+            }
+          ],
+          "pinyin": "guì mén dǎ bù kāi",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Cửa tủ không mở được."
+        },
+        {
+          "id": "s33_4_0006",
+          "level": "must",
+          "text": "我已经拿到了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，记得关好柜门。",
+              "id": "s33_4_0006_reply01",
+              "meaning_vi": "Được, nhớ đóng kỹ cửa tủ nhé."
+            },
+            {
+              "text": "好的，取件完成了。",
+              "id": "s33_4_0006_reply02",
+              "meaning_vi": "Được rồi, đã hoàn tất lấy hàng."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [],
+          "pinyin": "wǒ yǐ jīng ná dào le",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Tôi lấy được hàng rồi."
+        },
+        {
+          "id": "s33_4_0007",
+          "level": "must",
+          "text": "取件要带证件吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "普通件凭取件码就行。",
+              "id": "s33_4_0007_reply01",
+              "meaning_vi": "Hàng thường chỉ cần mã lấy hàng."
+            },
+            {
+              "text": "这件需要本人带证件。",
+              "id": "s33_4_0007_reply02",
+              "meaning_vi": "Kiện này yêu cầu chính người nhận mang giấy tờ."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "普通件有时凭取件码取件；需本人签收的件可能要证件，不应一概而论。",
+              "text_vi": "Hàng thông thường có thể nhận bằng mã, nhưng loại yêu cầu ký nhận đích danh có thể cần giấy tờ."
+            }
+          ],
+          "pinyin": "qǔ jiàn yào dài zhèng jiàn ma",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Khi lấy hàng có cần mang giấy tờ không?"
+        },
+        {
+          "id": "s33_4_0008",
+          "level": "must",
+          "text": "快递在几号柜？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在二号柜。",
+              "id": "s33_4_0008_reply01",
+              "meaning_vi": "Ở ngăn số hai."
+            },
+            {
+              "text": "取件短信里写着柜号。",
+              "id": "s33_4_0008_reply02",
+              "meaning_vi": "Tin nhắn lấy hàng có ghi số tủ."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“几号柜”问柜子或柜门号码，不是问包裹的取件验证码。",
+              "text_vi": "“几号柜” là số tủ hoặc ngăn, không phải mã mở tủ."
+            }
+          ],
+          "pinyin": "kuài dì zài jǐ hào guì",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Bưu kiện nằm ở ngăn tủ số mấy?"
+        },
+        {
+          "id": "s33_4_0009",
+          "level": "must",
+          "text": "别人能帮我取吗？",
+          "alternatives": [
+            {
+              "text": "能找人代取吗？",
+              "id": "s33_4_0009_alt01",
+              "meaning_vi": "Nhờ người khác tới lấy được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "普通件通常可以代取。",
+              "id": "s33_4_0009_reply01",
+              "meaning_vi": "Hàng thông thường có thể nhờ lấy hộ."
+            },
+            {
+              "text": "这件必须本人来取。",
+              "id": "s33_4_0009_reply02",
+              "meaning_vi": "Kiện này bắt buộc chính người nhận đến lấy."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "代取前确认是否必须本人签收；取件码有领取权限，不应交给不认识的人。",
+              "text_vi": "Trước khi nhờ người khác nhận hộ, kiểm tra có bắt buộc chính chủ không; không gửi mã cho người lạ."
+            }
+          ],
+          "pinyin": "bié rén néng bāng wǒ qǔ ma",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Có thể nhờ người khác lấy hộ không?"
+        },
+        {
+          "id": "s33_4_0010",
+          "level": "must",
+          "text": "能放门口吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "您确认的话，我放门口。",
+              "id": "s33_4_0010_reply01",
+              "meaning_vi": "Nếu anh/chị đồng ý, tôi để trước cửa."
+            },
+            {
+              "text": "这件得当面交给您。",
+              "id": "s33_4_0010_reply02",
+              "meaning_vi": "Kiện này phải giao tận tay anh/chị."
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“放门口”表示经同意把包裹放在门外，不一定属于当面签收；有丢失风险，应明确确认位置。",
+              "text_vi": "“Để trước cửa” chỉ khi người nhận đồng ý, khác giao tận tay; có nguy cơ thất lạc nên cần thống nhất vị trí."
+            }
+          ],
+          "pinyin": "néng fàng mén kǒu ma",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Có thể để ở cửa nhà không?"
+        },
+        {
+          "id": "s33_4_0011",
+          "level": "listen",
+          "text": "取件码是五六七八。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我记下了。",
+              "id": "s33_4_0011_reply01",
+              "meaning_vi": "Được, tôi ghi lại rồi."
+            },
+            {
+              "text": "是到驿站取吗？",
+              "id": "s33_4_0011_reply02",
+              "meaning_vi": "Có phải đến điểm nhận hàng lấy không?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“取件码”是领取快递的验证凭证，不等于运单号或订单号；只在可信的驿站、快递柜取件流程中使用，不随意告诉陌生人。",
+              "text_vi": "“取件码” là mã xác nhận lấy hàng, không phải mã vận đơn; chỉ dùng tại điểm nhận đáng tin và không chia sẻ bừa bãi."
+            }
+          ],
+          "pinyin": "qǔ jiàn mǎ shì wǔ liù qī bā",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Mã lấy hàng là 5678."
+        },
+        {
+          "id": "s33_4_0012",
+          "level": "listen",
+          "text": "在二号柜。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去找。",
+              "id": "s33_4_0012_reply01",
+              "meaning_vi": "Được, tôi đi tìm."
+            },
+            {
+              "text": "是靠门口那个柜吗？",
+              "id": "s33_4_0012_reply02",
+              "meaning_vi": "Có phải tủ gần cửa không?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [],
+          "pinyin": "zài èr hào guì",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Ở ngăn tủ số hai."
+        },
+        {
+          "id": "s33_4_0013",
+          "level": "listen",
+          "text": "这件得本人签收。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我自己来取。",
+              "id": "s33_4_0013_reply01",
+              "meaning_vi": "Được, tôi tự đến lấy."
+            },
+            {
+              "text": "能约明天送吗？",
+              "id": "s33_4_0013_reply02",
+              "meaning_vi": "Có thể hẹn giao ngày mai không?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“本人签收”表示需要收件人自己签收；仅把取件码发给朋友未必可以代领。",
+              "text_vi": "“本人签收” nghĩa là người nhận phải tự ký; gửi mã cho bạn bè chưa chắc được nhận hộ."
+            }
+          ],
+          "pinyin": "zhè jiàn děi běn rén qiān shōu",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Kiện này chính người nhận phải ký nhận."
+        },
+        {
+          "id": "s33_4_0014",
+          "level": "listen",
+          "text": "快递放驿站了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是哪个驿站？",
+              "id": "s33_4_0014_reply01",
+              "meaning_vi": "Là điểm nhận hàng nào?"
+            },
+            {
+              "text": "晚上几点关门？",
+              "id": "s33_4_0014_reply02",
+              "meaning_vi": "Buổi tối mấy giờ đóng cửa?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“驿站”在快递场景指包裹代收、取件点，不是普通的邮政信箱或住家门口。",
+              "text_vi": "“驿站” trong giao hàng là điểm giữ và nhận hộ bưu kiện, không phải hộp thư ở nhà."
+            }
+          ],
+          "pinyin": "kuài dì fàng yì zhàn le",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Hàng được gửi tại điểm nhận hộ rồi."
+        },
+        {
+          "id": "s33_4_0015",
+          "level": "listen",
+          "text": "取件码重新发了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我看看短信。",
+              "id": "s33_4_0015_reply01",
+              "meaning_vi": "Được, tôi xem tin nhắn."
+            },
+            {
+              "text": "还没收到，能再查下吗？",
+              "id": "s33_4_0015_reply02",
+              "meaning_vi": "Vẫn chưa nhận được, kiểm tra lại giúp tôi nhé?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [],
+          "pinyin": "qǔ jiàn mǎ chóng xīn fā le",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Đã gửi lại mã lấy hàng rồi."
+        },
+        {
+          "id": "s33_4_0016",
+          "level": "listen",
+          "text": "驿站晚上九点关门。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我九点前去。",
+              "id": "s33_4_0016_reply01",
+              "meaning_vi": "Được, tôi sẽ tới trước 9 giờ."
+            },
+            {
+              "text": "明天几点开门？",
+              "id": "s33_4_0016_reply02",
+              "meaning_vi": "Ngày mai mấy giờ mở cửa?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [],
+          "pinyin": "yì zhàn wǎn shàng jiǔ diǎn guān mén",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Điểm nhận hàng đóng cửa lúc 9 giờ tối."
+        },
+        {
+          "id": "s33_4_0017",
+          "level": "listen",
+          "text": "请用取件码开柜。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我试一下。",
+              "id": "s33_4_0017_reply01",
+              "meaning_vi": "Được, tôi thử nhé."
+            },
+            {
+              "text": "输进去没反应怎么办？",
+              "id": "s33_4_0017_reply02",
+              "meaning_vi": "Nhập mã mà không phản hồi thì làm sao?"
+            }
+          ],
+          "lesson_id": "33.4",
+          "lesson_title": "33.4 收件与取件码",
+          "mistakes": [
+            {
+              "text": "“用取件码开柜”是输入取件码打开对应柜门，不是去扫购物付款码。",
+              "text_vi": "Nhập mã lấy hàng để mở ngăn tủ, khác việc quét mã trả tiền khi mua sắm."
+            }
+          ],
+          "pinyin": "qǐng yòng qǔ jiàn mǎ kāi guì",
+          "lesson_title_vi": "33.4 Nhận hàng và mã lấy hàng",
+          "meaning_vi": "Vui lòng nhập mã lấy hàng để mở tủ."
+        }
+      ],
+      "opening": "练习询问驿站、快递柜和取件码，辨别本人签收、代收与放门口的差别。",
+      "subtitle": "17张高频卡 · 10必说 + 7必听",
+      "title_vi": "33.4 Nhận hàng và mã lấy hàng",
+      "opening_vi": "Luyện hỏi điểm nhận, tủ giao hàng, mã lấy hàng, phân biệt chính chủ nhận, nhận hộ và để trước cửa.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "33.5",
+      "title": "33.5 查询物流",
+      "phrases": [
+        {
+          "id": "s33_5_0001",
+          "level": "must",
+          "text": "发货了吗？",
+          "alternatives": [
+            {
+              "text": "已经发货了吗？",
+              "id": "s33_5_0001_alt01",
+              "meaning_vi": "Đã gửi hàng chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "已经发了，单号发您。",
+              "id": "s33_5_0001_reply01",
+              "meaning_vi": "Đã gửi rồi, tôi gửi anh/chị mã vận đơn."
+            },
+            {
+              "text": "还没，正在打包。",
+              "id": "s33_5_0001_reply02",
+              "meaning_vi": "Chưa, đang đóng gói."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“发货”是商家已安排发出，跟快递员开始派送或实际送达不是同一阶段。",
+              "text_vi": "“发货” là đã gửi khỏi người bán, khác đang giao chặng cuối và đã giao đến."
+            }
+          ],
+          "pinyin": "fā huò le ma",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Hàng gửi đi chưa?"
+        },
+        {
+          "id": "s33_5_0002",
+          "level": "must",
+          "text": "现在到哪儿了？",
+          "alternatives": [
+            {
+              "text": "快递到哪儿了？",
+              "id": "s33_5_0002_alt01",
+              "meaning_vi": "Hàng chuyển phát đến đâu rồi?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "刚到本地分拣中心。",
+              "id": "s33_5_0002_reply01",
+              "meaning_vi": "Vừa tới trung tâm phân loại ở địa phương."
+            },
+            {
+              "text": "还在运输途中。",
+              "id": "s33_5_0002_reply02",
+              "meaning_vi": "Vẫn đang trên đường vận chuyển."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [],
+          "pinyin": "xiàn zài dào nǎr le",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Bưu kiện hiện đang ở đâu?"
+        },
+        {
+          "id": "s33_5_0003",
+          "level": "must",
+          "text": "什么时候派送？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "预计今天下午派送。",
+              "id": "s33_5_0003_reply01",
+              "meaning_vi": "Dự kiến giao chiều nay."
+            },
+            {
+              "text": "明天才安排派送。",
+              "id": "s33_5_0003_reply02",
+              "meaning_vi": "Phải đến ngày mai mới giao."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“派送”是配送员将包裹送往收件地点的最后环节，不等于已签收。",
+              "text_vi": "“派送” là nhân viên đang vận chuyển chặng cuối tới địa chỉ nhận, chưa phải đã ký nhận."
+            }
+          ],
+          "pinyin": "shén me shí hou pài sòng",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Khi nào giao hàng?"
+        },
+        {
+          "id": "s33_5_0004",
+          "level": "must",
+          "text": "预计几点到？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概下午三点左右。",
+              "id": "s33_5_0004_reply01",
+              "meaning_vi": "Khoảng 3 giờ chiều."
+            },
+            {
+              "text": "时间还没确定。",
+              "id": "s33_5_0004_reply02",
+              "meaning_vi": "Chưa xác định được giờ."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [],
+          "pinyin": "yù jì jǐ diǎn dào",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Dự kiến mấy giờ tới?"
+        },
+        {
+          "id": "s33_5_0005",
+          "level": "must",
+          "text": "快递单号是多少？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我现在发给您。",
+              "id": "s33_5_0005_reply01",
+              "meaning_vi": "Tôi gửi anh/chị ngay."
+            },
+            {
+              "text": "订单详情里能看到。",
+              "id": "s33_5_0005_reply02",
+              "meaning_vi": "Xem trong chi tiết đơn hàng."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“快递单号”是物流追踪号码，与商品订单号、取件码不同，查询时别填错。",
+              "text_vi": "Mã vận đơn là mã theo dõi hàng, không phải mã đơn mua hoặc mã lấy hàng."
+            }
+          ],
+          "pinyin": "kuài dì dān hào shì duō shǎo",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Mã vận đơn là bao nhiêu?"
+        },
+        {
+          "id": "s33_5_0006",
+          "level": "must",
+          "text": "帮我查下快递。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，把单号发来。",
+              "id": "s33_5_0006_reply01",
+              "meaning_vi": "Được, gửi mã vận đơn cho tôi."
+            },
+            {
+              "text": "我查到了，还在路上。",
+              "id": "s33_5_0006_reply02",
+              "meaning_vi": "Tôi kiểm tra rồi, hàng vẫn đang trên đường."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [],
+          "pinyin": "bāng wǒ chá xià kuài dì",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Kiểm tra giúp tôi bưu kiện nhé."
+        },
+        {
+          "id": "s33_5_0007",
+          "level": "must",
+          "text": "物流一直没更新。",
+          "alternatives": [
+            {
+              "text": "物流信息没动。",
+              "id": "s33_5_0007_alt01",
+              "meaning_vi": "Trạng thái giao hàng không thay đổi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可能还没录入新信息。",
+              "id": "s33_5_0007_reply01",
+              "meaning_vi": "Có thể chưa nhập thông tin mới."
+            },
+            {
+              "text": "我帮您联系快递网点。",
+              "id": "s33_5_0007_reply02",
+              "meaning_vi": "Để tôi liên hệ điểm giao nhận giúp anh/chị."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "物流信息没更新可能是扫描或系统上传延迟，不等于包裹一定没有移动。",
+              "text_vi": "Trạng thái chưa cập nhật có thể do chậm quét hoặc đăng dữ liệu, chưa chắc bưu kiện đứng yên."
+            }
+          ],
+          "pinyin": "wù liú yí zhí méi gèng xīn",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Thông tin vận chuyển mãi không cập nhật."
+        },
+        {
+          "id": "s33_5_0008",
+          "level": "must",
+          "text": "能查到快递员电话吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "物流详情里有联系电话。",
+              "id": "s33_5_0008_reply01",
+              "meaning_vi": "Thông tin liên hệ có trong phần vận chuyển."
+            },
+            {
+              "text": "我帮您联系快递员。",
+              "id": "s33_5_0008_reply02",
+              "meaning_vi": "Để tôi liên hệ nhân viên giao hàng giúp anh/chị."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "查询快递员电话可通过订单或承运商官方渠道，陌生来电索要验证码或付款密码时不要提供。",
+              "text_vi": "Số người giao hàng nên lấy qua kênh chính thức, không cung cấp mã OTP hay mật khẩu cho người lạ."
+            }
+          ],
+          "pinyin": "néng chá dào kuài dì yuán diàn huà ma",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Tra được số điện thoại người giao hàng không?"
+        },
+        {
+          "id": "s33_5_0009",
+          "level": "must",
+          "text": "快递到本地了吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "到了，等派送就行。",
+              "id": "s33_5_0009_reply01",
+              "meaning_vi": "Đến rồi, chỉ còn chờ giao."
+            },
+            {
+              "text": "还没到本地。",
+              "id": "s33_5_0009_reply02",
+              "meaning_vi": "Chưa đến địa phương này."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [],
+          "pinyin": "kuài dì dào běn dì le ma",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Bưu kiện đã đến khu vực này chưa?"
+        },
+        {
+          "id": "s33_5_0010",
+          "level": "must",
+          "text": "今天能送到吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "正在派送，应该能到。",
+              "id": "s33_5_0010_reply01",
+              "meaning_vi": "Đang giao, chắc sẽ tới hôm nay."
+            },
+            {
+              "text": "今天来不及，预计明天。",
+              "id": "s33_5_0010_reply02",
+              "meaning_vi": "Hôm nay không kịp, dự kiến mai."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“今天能送到吗”问的是能否今天送达，并不表示物流系统已有送达承诺；“派送中”也不等于本人已签收。",
+              "text_vi": "Hỏi có giao hôm nay không là hỏi khả năng; trạng thái “đang giao” chưa chắc là cam kết tới hoặc đã nhận."
+            }
+          ],
+          "pinyin": "jīn tiān néng sòng dào ma",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Hôm nay giao đến được không?"
+        },
+        {
+          "id": "s33_5_0011",
+          "level": "must",
+          "text": "物流怎么不动了？",
+          "alternatives": [
+            {
+              "text": "怎么一直不更新？",
+              "id": "s33_5_0011_alt01",
+              "meaning_vi": "Sao mãi không cập nhật?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可能在中转站排队。",
+              "id": "s33_5_0011_reply01",
+              "meaning_vi": "Có thể đang chờ ở điểm trung chuyển."
+            },
+            {
+              "text": "我帮您催查一下。",
+              "id": "s33_5_0011_reply02",
+              "meaning_vi": "Để tôi nhắc họ kiểm tra."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“物流不动”常指追踪页面状态没有更新，不一定是车辆真的停住不走。",
+              "text_vi": "“物流不动” thường chỉ trang theo dõi không đổi, không có nghĩa xe thật không chạy."
+            }
+          ],
+          "pinyin": "wù liú zěn me bú dòng le",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Sao trạng thái vận chuyển không thay đổi?"
+        },
+        {
+          "id": "s33_5_0012",
+          "level": "listen",
+          "text": "正在派送。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概还有多久？",
+              "id": "s33_5_0012_reply01",
+              "meaning_vi": "Còn khoảng bao lâu nữa?"
+            },
+            {
+              "text": "好，我在家等。",
+              "id": "s33_5_0012_reply02",
+              "meaning_vi": "Được, tôi chờ ở nhà."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“正在派送”是包裹正在向收件处配送，不等于已经送到手中。",
+              "text_vi": "“Đang giao” là đang đi tới địa chỉ nhận, chưa phải hàng đã đến tay."
+            }
+          ],
+          "pinyin": "zhèng zài pài sòng",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Đang giao hàng."
+        },
+        {
+          "id": "s33_5_0013",
+          "level": "listen",
+          "text": "还在中转。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "预计哪天到？",
+              "id": "s33_5_0013_reply01",
+              "meaning_vi": "Dự kiến ngày nào tới?"
+            },
+            {
+              "text": "能帮我催一下吗？",
+              "id": "s33_5_0013_reply02",
+              "meaning_vi": "Nhắc họ giao nhanh giúp tôi được không?"
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“中转”指包裹正在中间站点转运，不必然是物流异常或丢件。",
+              "text_vi": "“中转” là chuyển qua trạm trung gian, không tự động là thất lạc hay sự cố."
+            }
+          ],
+          "pinyin": "hái zài zhōng zhuǎn",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Vẫn đang trung chuyển."
+        },
+        {
+          "id": "s33_5_0014",
+          "level": "listen",
+          "text": "预计明天到。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，明天我留意电话。",
+              "id": "s33_5_0014_reply01",
+              "meaning_vi": "Được, mai tôi để ý điện thoại."
+            },
+            {
+              "text": "会送到家吗？",
+              "id": "s33_5_0014_reply02",
+              "meaning_vi": "Có giao tận nhà không?"
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [],
+          "pinyin": "yù jì míng tiān dào",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Dự kiến ngày mai tới."
+        },
+        {
+          "id": "s33_5_0015",
+          "level": "listen",
+          "text": "今天送不到了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那明天能到吗？",
+              "id": "s33_5_0015_reply01",
+              "meaning_vi": "Vậy ngày mai có tới được không?"
+            },
+            {
+              "text": "能帮我联系快递员吗？",
+              "id": "s33_5_0015_reply02",
+              "meaning_vi": "Liên hệ nhân viên giao hàng giúp tôi được không?"
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [],
+          "pinyin": "jīn tiān sòng bú dào le",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Hôm nay không giao tới được nữa."
+        },
+        {
+          "id": "s33_5_0016",
+          "level": "listen",
+          "text": "物流更新可能延迟。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我晚点再看。",
+              "id": "s33_5_0016_reply01",
+              "meaning_vi": "Vậy lát nữa tôi xem lại."
+            },
+            {
+              "text": "已经两天没更新了。",
+              "id": "s33_5_0016_reply02",
+              "meaning_vi": "Hai ngày rồi chưa cập nhật."
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "物流页面更新延迟与实际配送延迟不一样，超过预计时间可继续联系承运方核实。",
+              "text_vi": "Thông tin cập nhật muộn và giao hàng thật sự muộn là hai chuyện; trễ lâu nên liên hệ hãng."
+            }
+          ],
+          "pinyin": "wù liú gèng xīn kě néng yán chí",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Thông tin vận chuyển có thể cập nhật chậm."
+        },
+        {
+          "id": "s33_5_0017",
+          "level": "listen",
+          "text": "快递员稍后联系您。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我会接电话。",
+              "id": "s33_5_0017_reply01",
+              "meaning_vi": "Được, tôi sẽ nghe điện thoại."
+            },
+            {
+              "text": "大概什么时候打来？",
+              "id": "s33_5_0017_reply02",
+              "meaning_vi": "Khoảng khi nào sẽ gọi?"
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [],
+          "pinyin": "kuài dì yuán shāo hòu lián xì nín",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Nhân viên giao hàng sẽ liên hệ anh/chị sau."
+        },
+        {
+          "id": "s33_5_0018",
+          "level": "listen",
+          "text": "快递还在转运。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "现在在哪个中转站？",
+              "id": "s33_5_0018_reply01",
+              "meaning_vi": "Hiện ở điểm trung chuyển nào?"
+            },
+            {
+              "text": "还要几天才到？",
+              "id": "s33_5_0018_reply02",
+              "meaning_vi": "Còn mấy ngày mới tới?"
+            }
+          ],
+          "lesson_id": "33.5",
+          "lesson_title": "33.5 查询物流",
+          "mistakes": [
+            {
+              "text": "“转运”是包裹在不同运输站点间移动，不表示已到最终收件地址。",
+              "text_vi": "“转运” là chuyển kiện giữa các trạm, không có nghĩa đã đến địa chỉ cuối."
+            }
+          ],
+          "pinyin": "kuài dì hái zài zhuǎn yùn",
+          "lesson_title_vi": "33.5 Theo dõi vận chuyển",
+          "meaning_vi": "Bưu kiện vẫn đang được chuyển tiếp."
+        }
+      ],
+      "opening": "练习区分已发货、中转、派送与已送达，正确询问单号、配送时间和物流更新延迟。",
+      "subtitle": "18张高频卡 · 11必说 + 7必听",
+      "title_vi": "33.5 Theo dõi vận chuyển",
+      "opening_vi": "Phân biệt đã gửi, trung chuyển, đang giao và đã giao; hỏi mã vận đơn, thời gian dự kiến và thông tin cập nhật chậm.",
+      "subtitle_vi": "18 thẻ giao tiếp thực tế"
+    },
+    {
+      "id": "33.6",
+      "title": "33.6 丢件破损与错件",
+      "phrases": [
+        {
+          "id": "s33_6_0001",
+          "level": "must",
+          "text": "我没收到快递。",
+          "alternatives": [
+            {
+              "text": "快递还没收到。",
+              "id": "s33_6_0001_alt01",
+              "meaning_vi": "Tôi vẫn chưa nhận được hàng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮您查下签收记录。",
+              "id": "s33_6_0001_reply01",
+              "meaning_vi": "Để tôi kiểm tra thông tin ký nhận giúp anh/chị."
+            },
+            {
+              "text": "先确认下有没有放驿站。",
+              "id": "s33_6_0001_reply02",
+              "meaning_vi": "Trước tiên kiểm tra xem có để ở điểm nhận hộ không."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "没收到包裹应先核对物流显示、代收记录和取件点，不要仅凭系统状态直接认定丢件。",
+              "text_vi": "Chưa nhận bưu kiện nên kiểm tra trạng thái, người nhận hộ và điểm lấy trước khi kết luận mất hàng."
+            }
+          ],
+          "pinyin": "wǒ méi shōu dào kuài dì",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Tôi chưa nhận được bưu kiện."
+        },
+        {
+          "id": "s33_6_0002",
+          "level": "must",
+          "text": "显示签收，可我没收到。",
+          "alternatives": [
+            {
+              "text": "签收了却没收到。",
+              "id": "s33_6_0002_alt01",
+              "meaning_vi": "Báo đã ký nhận mà tôi chưa có hàng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我马上联系派件员核实。",
+              "id": "s33_6_0002_reply01",
+              "meaning_vi": "Tôi sẽ liên hệ người giao để xác minh ngay."
+            },
+            {
+              "text": "您家人有代收吗？",
+              "id": "s33_6_0002_reply02",
+              "meaning_vi": "Người nhà anh/chị có nhận hộ không?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“显示签收”指系统记录签收，不保证本人实际拿到；核对代收、站点和派送记录。",
+              "text_vi": "“Hiển thị đã ký” chỉ là trạng thái hệ thống, không chứng minh chính người nhận đã cầm hàng."
+            }
+          ],
+          "pinyin": "xiǎn shì qiān shōu kě wǒ méi shōu dào",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Hệ thống báo đã nhận nhưng tôi chưa nhận được."
+        },
+        {
+          "id": "s33_6_0003",
+          "level": "must",
+          "text": "包裹破了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先拍照，包装别扔。",
+              "id": "s33_6_0003_reply01",
+              "meaning_vi": "Chụp ảnh trước và giữ lại bao bì."
+            },
+            {
+              "text": "里面的东西坏了吗？",
+              "id": "s33_6_0003_reply02",
+              "meaning_vi": "Đồ bên trong có bị hỏng không?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“包裹破了”指外包装破损，不等于里面货物必定损坏；要保存包装并检查内容物。",
+              "text_vi": "Bao bì rách không nhất thiết đồ bên trong hỏng; giữ bao bì và kiểm tra hàng."
+            }
+          ],
+          "pinyin": "bāo guǒ pò le",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Bao bì bưu kiện bị rách."
+        },
+        {
+          "id": "s33_6_0004",
+          "level": "must",
+          "text": "里面少了东西。",
+          "alternatives": [
+            {
+              "text": "里面少了一件。",
+              "id": "s33_6_0004_alt01",
+              "meaning_vi": "Bên trong thiếu một món."
+            }
+          ],
+          "replies": [
+            {
+              "text": "能拍下商品和包装吗？",
+              "id": "s33_6_0004_reply01",
+              "meaning_vi": "Anh/chị chụp ảnh sản phẩm và bao bì được không?"
+            },
+            {
+              "text": "我帮您核对发货清单。",
+              "id": "s33_6_0004_reply02",
+              "meaning_vi": "Để tôi đối chiếu danh sách hàng đã gửi."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“少了东西”指包裹内物品数量不齐；先对照订单明细，避免遗漏分包发货情况。",
+              "text_vi": "Thiếu đồ trong gói nên kiểm tra danh sách, có thể người bán chia hàng thành nhiều kiện."
+            }
+          ],
+          "pinyin": "lǐ miàn shǎo le dōng xi",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Trong bưu kiện bị thiếu đồ."
+        },
+        {
+          "id": "s33_6_0005",
+          "level": "must",
+          "text": "这不是我的包裹。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先别拆，我查下单号。",
+              "id": "s33_6_0005_reply01",
+              "meaning_vi": "Đừng mở vội, để tôi kiểm tra mã vận đơn."
+            },
+            {
+              "text": "麻烦把面单拍给我。",
+              "id": "s33_6_0005_reply02",
+              "meaning_vi": "Phiền chụp nhãn vận chuyển gửi cho tôi."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "拿到不是自己的包裹时不要打开或交给陌生人；通过站点或官方客服核对面单，保护他人的地址电话。",
+              "text_vi": "Nhận nhầm bưu kiện thì không mở và không đưa cho người lạ; liên hệ điểm nhận chính thức, giữ kín địa chỉ người khác."
+            }
+          ],
+          "pinyin": "zhè bú shì wǒ de bāo guǒ",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Đây không phải bưu kiện của tôi."
+        },
+        {
+          "id": "s33_6_0006",
+          "level": "must",
+          "text": "我没有签收。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我查下是谁签收的。",
+              "id": "s33_6_0006_reply01",
+              "meaning_vi": "Để tôi kiểm tra ai đã ký nhận."
+            },
+            {
+              "text": "您先别确认收货。",
+              "id": "s33_6_0006_reply02",
+              "meaning_vi": "Anh/chị đừng xác nhận đã nhận hàng vội."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“我没有签收”强调自己没确认收件；记录上签收人可能是代收者，应进一步核对。",
+              "text_vi": "“Tôi không ký nhận” chỉ nói bản thân chưa ký; có thể hệ thống ghi người khác nhận hộ."
+            }
+          ],
+          "pinyin": "wǒ méi yǒu qiān shōu",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Tôi chưa hề ký nhận."
+        },
+        {
+          "id": "s33_6_0007",
+          "level": "must",
+          "text": "这要怎么处理？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先留好照片和订单号。",
+              "id": "s33_6_0007_reply01",
+              "meaning_vi": "Giữ lại ảnh và mã đơn hàng trước."
+            },
+            {
+              "text": "我帮您联系售后。",
+              "id": "s33_6_0007_reply02",
+              "meaning_vi": "Để tôi liên hệ bộ phận hậu mãi giúp anh/chị."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "发生错件、破损要先保留包裹、订单和照片，再询问对应商家或快递方的处理方式。",
+              "text_vi": "Nếu hàng sai/hỏng, giữ đơn, hình ảnh và bao bì rồi hỏi cách xử lý với người bán hoặc hãng."
+            }
+          ],
+          "pinyin": "zhè yào zěn me chǔ lǐ",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Trường hợp này xử lý thế nào?"
+        },
+        {
+          "id": "s33_6_0008",
+          "level": "must",
+          "text": "拿错别人的包裹了。",
+          "alternatives": [
+            {
+              "text": "拿错包裹了。",
+              "id": "s33_6_0008_alt01",
+              "meaning_vi": "Tôi lấy nhầm gói hàng rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别拆，带回驿站吧。",
+              "id": "s33_6_0008_reply01",
+              "meaning_vi": "Đừng mở, mang trả lại điểm nhận hàng nhé."
+            },
+            {
+              "text": "我帮您联系工作人员。",
+              "id": "s33_6_0008_reply02",
+              "meaning_vi": "Để tôi liên hệ nhân viên."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "拿错别人的包裹时应尽快联系驿站归还，别拆封、使用或丢弃。",
+              "text_vi": "Lấy nhầm kiện người khác thì liên hệ điểm nhận để trả ngay, không mở hay dùng."
+            }
+          ],
+          "pinyin": "ná cuò bié rén de bāo guǒ le",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Tôi lấy nhầm bưu kiện của người khác."
+        },
+        {
+          "id": "s33_6_0009",
+          "level": "must",
+          "text": "里面的东西坏了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请拍照，先别扔包装。",
+              "id": "s33_6_0009_reply01",
+              "meaning_vi": "Vui lòng chụp ảnh và đừng vứt bao bì."
+            },
+            {
+              "text": "我帮您看看怎么售后。",
+              "id": "s33_6_0009_reply02",
+              "meaning_vi": "Để tôi xem cách giải quyết sau bán hàng."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“里面的东西坏了”说的是商品受损，与仅仅外包装破了不同，应分别拍照保留证据。",
+              "text_vi": "Đồ trong gói bị hỏng khác bao bì bị rách; chụp hình riêng cả hai."
+            }
+          ],
+          "pinyin": "lǐ miàn de dōng xi huài le",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Đồ bên trong bị hỏng."
+        },
+        {
+          "id": "s33_6_0010",
+          "level": "must",
+          "text": "这种情况怎么赔？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要先核实损失情况。",
+              "id": "s33_6_0010_reply01",
+              "meaning_vi": "Phải xác minh thiệt hại trước."
+            },
+            {
+              "text": "您先提交照片和凭证。",
+              "id": "s33_6_0010_reply02",
+              "meaning_vi": "Anh/chị gửi ảnh và chứng từ trước nhé."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“怎么赔”问赔偿方式，不表示对方已同意赔付；金额与责任需依据实际情况核实。",
+              "text_vi": "Hỏi “bồi thường thế nào” chưa có nghĩa bên kia đồng ý đền; cần xác minh thiệt hại và trách nhiệm."
+            }
+          ],
+          "pinyin": "zhè zhǒng qíng kuàng zěn me péi",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Trường hợp này bồi thường thế nào?"
+        },
+        {
+          "id": "s33_6_0011",
+          "level": "listen",
+          "text": "我帮您核实。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，麻烦尽快回复。",
+              "id": "s33_6_0011_reply01",
+              "meaning_vi": "Được, phiền phản hồi sớm."
+            },
+            {
+              "text": "还需要我提供什么？",
+              "id": "s33_6_0011_reply02",
+              "meaning_vi": "Tôi cần cung cấp thêm gì không?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [],
+          "pinyin": "wǒ bāng nín hé shí",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Để tôi xác minh giúp anh/chị."
+        },
+        {
+          "id": "s33_6_0012",
+          "level": "listen",
+          "text": "请联系快递员。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能给我联系电话吗？",
+              "id": "s33_6_0012_reply01",
+              "meaning_vi": "Cho tôi xin số liên hệ được không?"
+            },
+            {
+              "text": "我联系不上他，怎么办？",
+              "id": "s33_6_0012_reply02",
+              "meaning_vi": "Tôi không liên lạc được với họ, phải làm sao?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "联系快递员可先通过订单或官方客服；若快递员失联，应继续找承运网点，不必反复给陌生号码发送私人信息。",
+              "text_vi": "Nếu không liên hệ được người giao, dùng tổng đài/điểm gửi chính thức, không liên tục gửi dữ liệu cá nhân cho số lạ."
+            }
+          ],
+          "pinyin": "qǐng lián xì kuài dì yuán",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Vui lòng liên hệ người giao hàng."
+        },
+        {
+          "id": "s33_6_0013",
+          "level": "listen",
+          "text": "可以申请赔偿。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在哪儿申请？",
+              "id": "s33_6_0013_reply01",
+              "meaning_vi": "Gửi yêu cầu ở đâu?"
+            },
+            {
+              "text": "要提供哪些材料？",
+              "id": "s33_6_0013_reply02",
+              "meaning_vi": "Cần cung cấp giấy tờ gì?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“可以申请赔偿”是可提交赔偿申请，不等于已经审定责任或确认赔偿金额。",
+              "text_vi": "“Có thể yêu cầu bồi thường” mới là quyền nộp yêu cầu, chưa phải đã xác nhận trách nhiệm hoặc số tiền."
+            }
+          ],
+          "pinyin": "kě yǐ shēn qǐng péi cháng",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Có thể gửi yêu cầu bồi thường."
+        },
+        {
+          "id": "s33_6_0014",
+          "level": "listen",
+          "text": "请保留包装。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，先不扔。",
+              "id": "s33_6_0014_reply01",
+              "meaning_vi": "Được, tôi chưa vứt."
+            },
+            {
+              "text": "包装破损也要留着吗？",
+              "id": "s33_6_0014_reply02",
+              "meaning_vi": "Bao bì rách cũng phải giữ à?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "有破损或错件争议时，外包装、快递面单和内物都可能要保存，别只留下商品。",
+              "text_vi": "Với hàng bị mất/hỏng, giữ cả bao bì, nhãn vận chuyển và đồ bên trong làm bằng chứng."
+            }
+          ],
+          "pinyin": "qǐng bǎo liú bāo zhuāng",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Vui lòng giữ lại bao bì."
+        },
+        {
+          "id": "s33_6_0015",
+          "level": "listen",
+          "text": "请提供商品价值证明。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "订单截图可以吗？",
+              "id": "s33_6_0015_reply01",
+              "meaning_vi": "Ảnh chụp đơn hàng được không?"
+            },
+            {
+              "text": "购物发票可以吗？",
+              "id": "s33_6_0015_reply02",
+              "meaning_vi": "Hóa đơn mua hàng được không?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“价值证明”是证明商品价格的订单或发票资料，不等于必须提供支付密码、银行账号密码。",
+              "text_vi": "Chứng từ giá trị có thể là đơn hay hóa đơn, không cần tiết lộ mật khẩu tài khoản hoặc mã OTP."
+            }
+          ],
+          "pinyin": "qǐng tí gōng shāng pǐn jià zhí zhèng míng",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Vui lòng cung cấp chứng từ chứng minh giá trị hàng."
+        },
+        {
+          "id": "s33_6_0016",
+          "level": "listen",
+          "text": "显示有人代收了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能查下是谁收的吗？",
+              "id": "s33_6_0016_reply01",
+              "meaning_vi": "Có tra được ai đã nhận không?"
+            },
+            {
+              "text": "我没让别人代收。",
+              "id": "s33_6_0016_reply02",
+              "meaning_vi": "Tôi không nhờ ai nhận hộ cả."
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "显示代收不代表收件人已授权他人代领；先问家人、前台或驿站并核对记录。",
+              "text_vi": "Hệ thống báo nhận hộ chưa có nghĩa người nhận đã đồng ý; kiểm tra gia đình, lễ tân và điểm nhận."
+            }
+          ],
+          "pinyin": "xiǎn shì yǒu rén dài shōu le",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Hệ thống cho thấy có người nhận hộ."
+        },
+        {
+          "id": "s33_6_0017",
+          "level": "listen",
+          "text": "赔多少要看具体情况。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "怎么核算金额？",
+              "id": "s33_6_0017_reply01",
+              "meaning_vi": "Tính số tiền bồi thường thế nào?"
+            },
+            {
+              "text": "多久能出处理结果？",
+              "id": "s33_6_0017_reply02",
+              "meaning_vi": "Bao lâu có kết quả xử lý?"
+            }
+          ],
+          "lesson_id": "33.6",
+          "lesson_title": "33.6 丢件破损与错件",
+          "mistakes": [
+            {
+              "text": "“赔多少看具体情况”不是拒赔或承诺全赔；应核对丢损事实、保价条款及责任处理结果。",
+              "text_vi": "Số tiền bồi thường tùy thiệt hại, điều khoản khai giá trị và trách nhiệm, chưa phải cam kết hoàn đủ."
+            }
+          ],
+          "pinyin": "péi duō shǎo yào kàn jù tǐ qíng kuàng",
+          "lesson_title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+          "meaning_vi": "Bồi thường bao nhiêu còn tùy tình hình cụ thể."
+        }
+      ],
+      "opening": "练习包裹损坏、错件、系统显示签收但本人没收到时的核对和申诉；保护订单与收件人隐私。",
+      "subtitle": "17张高频卡 · 10必说 + 7必听",
+      "title_vi": "33.6 Hàng thất lạc, hỏng hoặc giao nhầm",
+      "opening_vi": "Luyện trình báo gói hàng hỏng, giao sai, chưa nhận dù hệ thống báo đã giao; giữ chứng cứ và bảo vệ thông tin người nhận.",
+      "subtitle_vi": "17 thẻ giao tiếp thực tế"
+    }
+  ],
+  "card_count": 109,
+  "lesson_counts": {
+    "33.1": 20,
+    "33.2": 17,
+    "33.3": 20,
+    "33.4": 17,
+    "33.5": 18,
+    "33.6": 17
+  },
+  "theme_title_vi": "33 Mua hàng online và chuyển phát nhanh"
+}
