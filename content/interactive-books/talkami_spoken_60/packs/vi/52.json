@@ -1,9 +1,9 @@
 {
   "theme_id": "52",
-  "version": 2,
-  "updated_at": "2026-11-03T03:04:12.133Z",
+  "version": 3,
+  "updated_at": "2026-11-03T03:20:50.255Z",
   "theme_title": "52 入职报到",
-  "quality_standard": "Vietnamese translations provided for all primary/alternative/reply lines and every distinct Mandarin teaching-note message; exact original Mandarin text, pinyin, IDs preserved; native/editorial and app QA pending.",
+  "quality_standard": "Vietnamese translations provided for all primary/alternative/reply lines and every distinct Mandarin teaching-note message; exact original Mandarin text, pinyin, IDs preserved; native/editorial and app QA pending. Second-pass Chinese/Vietnamese meaning and naturalness improvements applied; full structural regression required before merging.",
   "source_phrase_count": 64,
   "lessons": [
     {
@@ -43,7 +43,7 @@
           ],
           "pinyin": "wǒ shì lái bào dào de",
           "when_to_use": "第一次到单位门口或前台，说明自己是来办理入职手续的。",
-          "meaning_vi": "Tôi đến để trình diện nhận việc.",
+          "meaning_vi": "Tôi đến nhận việc.",
           "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
         },
         {
@@ -73,7 +73,7 @@
           ],
           "pinyin": "wǒ jīn tiān rù zhí",
           "when_to_use": "前台问你来做什么时，说明今天是自己约定的入职日期。",
-          "meaning_vi": "Hôm nay tôi bắt đầu nhận việc.",
+          "meaning_vi": "Hôm nay tôi bắt đầu đi làm.",
           "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
         },
         {
@@ -748,7 +748,7 @@
             {
               "text": "王师傅带你。",
               "id": "s52_2_0002_reply01",
-              "meaning_vi": "Thợ Vương sẽ hướng dẫn bạn."
+              "meaning_vi": "Anh Vương sẽ hướng dẫn bạn."
             },
             {
               "text": "先跟小张学。",
@@ -1192,7 +1192,7 @@
           ],
           "pinyin": "wáng shī fu dài nǐ",
           "when_to_use": "新员工第一次到岗，遇到“王师傅带你。”这样的任务、位置或人员安排时，及时确认后再行动。",
-          "meaning_vi": "Thợ Vương sẽ hướng dẫn bạn.",
+          "meaning_vi": "Anh Vương sẽ hướng dẫn bạn.",
           "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
         },
         {
@@ -1621,7 +1621,7 @@
             {
               "text": "必须穿，统一发放。",
               "id": "s52_3_0007_reply01",
-              "meaning_vi": "Bắt buộc, công ty phát thống nhất."
+              "meaning_vi": "Bắt buộc, công ty sẽ cấp đồng phục."
             },
             {
               "text": "办公区不用穿。",
