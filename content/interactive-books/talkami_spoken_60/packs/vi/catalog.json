@@ -1,9 +1,9 @@
 {
-  "version": 9,
+  "version": 10,
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 4144,
+  "item_count": 4623,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -2146,15 +2146,248 @@
           "data_version": 3,
           "lesson_count": 4,
           "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "56",
+          "title": "工资合同离职",
+          "title_vi": "56 Tiền lương, hợp đồng và nghỉ việc",
+          "status": "available",
+          "free": false,
+          "phrase_count": 76,
+          "lessons": [
+            {
+              "id": "56.1",
+              "title": "56.1 工资发放",
+              "title_vi": "56.1 Trả lương và đối chiếu bảng lương",
+              "count": 18
+            },
+            {
+              "id": "56.2",
+              "title": "56.2 加班费福利",
+              "title_vi": "56.2 Tiền làm thêm giờ và phúc lợi",
+              "count": 19
+            },
+            {
+              "id": "56.3",
+              "title": "56.3 合同试用期",
+              "title_vi": "56.3 Hợp đồng lao động và thời gian thử việc",
+              "count": 19
+            },
+            {
+              "id": "56.4",
+              "title": "56.4 辞职交接",
+              "title_vi": "56.4 Xin nghỉ việc và bàn giao",
+              "count": 20
+            }
+          ],
+          "data_url": "packs/vi/56.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        }
+      ]
+    },
+    {
+      "zone_id": 9,
+      "title": "岗位中文",
+      "title_vi": "Tiếng Trung theo ngành nghề",
+      "themes": [
+        {
+          "theme_id": "57",
+          "title": "服务行业工作",
+          "title_vi": "57 Công việc ngành dịch vụ",
+          "status": "available",
+          "free": false,
+          "phrase_count": 129,
+          "lessons": [
+            {
+              "id": "57.1",
+              "title": "57.1 餐厅迎客带位与点单",
+              "title_vi": "57.1 Đón khách, xếp bàn và nhận món tại nhà hàng",
+              "count": 15
+            },
+            {
+              "id": "57.2",
+              "title": "57.2 餐中服务与问题处理",
+              "title_vi": "57.2 Phục vụ tại bàn và xử lý phản ánh",
+              "count": 11
+            },
+            {
+              "id": "57.3",
+              "title": "57.3 超市收银",
+              "title_vi": "57.3 Thu ngân siêu thị",
+              "count": 14
+            },
+            {
+              "id": "57.4",
+              "title": "57.4 超市理货补货",
+              "title_vi": "57.4 Sắp xếp hàng và bổ sung hàng ở siêu thị",
+              "count": 19
+            },
+            {
+              "id": "57.5",
+              "title": "57.5 服装店接待与推荐",
+              "title_vi": "57.5 Đón khách và tư vấn tại cửa hàng quần áo",
+              "count": 14
+            },
+            {
+              "id": "57.6",
+              "title": "57.6 服装店试穿换码与成交",
+              "title_vi": "57.6 Thử đồ, đổi cỡ và thanh toán",
+              "count": 13
+            },
+            {
+              "id": "57.7",
+              "title": "57.7 酒店前台入住退房",
+              "title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng",
+              "count": 11
+            },
+            {
+              "id": "57.8",
+              "title": "57.8 酒店客诉与客房服务",
+              "title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn",
+              "count": 11
+            },
+            {
+              "id": "57.9",
+              "title": "57.9 理发店接待与剪发确认",
+              "title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc",
+              "count": 21
+            }
+          ],
+          "data_url": "packs/vi/57.json",
+          "data_version": 2,
+          "lesson_count": 9,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "58",
+          "title": "工厂车间",
+          "title_vi": "58 Phân xưởng sản xuất",
+          "status": "available",
+          "free": false,
+          "phrase_count": 83,
+          "lessons": [
+            {
+              "id": "58.1",
+              "title": "58.1 进入车间与岗位",
+              "title_vi": "58.1 Vào xưởng và nhận vị trí làm việc",
+              "count": 21
+            },
+            {
+              "id": "58.2",
+              "title": "58.2 工作指令步骤",
+              "title_vi": "58.2 Chỉ dẫn thứ tự công việc",
+              "count": 20
+            },
+            {
+              "id": "58.3",
+              "title": "58.3 机器基本操作",
+              "title_vi": "58.3 Trao đổi về vận hành máy cơ bản",
+              "count": 21
+            },
+            {
+              "id": "58.4",
+              "title": "58.4 生产数量进度",
+              "title_vi": "58.4 Số lượng sản xuất và tiến độ",
+              "count": 21
+            }
+          ],
+          "data_url": "packs/vi/58.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "59",
+          "title": "生产操作与质检",
+          "title_vi": "59 Sản xuất và kiểm tra chất lượng",
+          "status": "available",
+          "free": false,
+          "phrase_count": 88,
+          "lessons": [
+            {
+              "id": "59.1",
+              "title": "59.1 质量检查",
+              "title_vi": "59.1 Kiểm tra chất lượng sản phẩm",
+              "count": 22
+            },
+            {
+              "id": "59.2",
+              "title": "59.2 不合格与返工",
+              "title_vi": "59.2 Hàng lỗi và xử lý làm lại",
+              "count": 22
+            },
+            {
+              "id": "59.3",
+              "title": "59.3 机器故障与维修",
+              "title_vi": "59.3 Sự cố máy móc và báo bảo trì",
+              "count": 22
+            },
+            {
+              "id": "59.4",
+              "title": "59.4 安全防护与工伤",
+              "title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động",
+              "count": 22
+            }
+          ],
+          "data_url": "packs/vi/59.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "60",
+          "title": "仓库物流与工厂生活",
+          "title_vi": "60 Kho bãi, vận chuyển và sinh hoạt nhà máy",
+          "status": "available",
+          "free": false,
+          "phrase_count": 103,
+          "lessons": [
+            {
+              "id": "60.1",
+              "title": "60.1 仓库领料盘点",
+              "title_vi": "60.1 Nhận vật liệu và kiểm kê kho",
+              "count": 21
+            },
+            {
+              "id": "60.2",
+              "title": "60.2 包装贴标",
+              "title_vi": "60.2 Đóng gói và dán nhãn",
+              "count": 21
+            },
+            {
+              "id": "60.3",
+              "title": "60.3 搬运装卸发货",
+              "title_vi": "60.3 Bốc xếp và giao hàng",
+              "count": 21
+            },
+            {
+              "id": "60.4",
+              "title": "60.4 员工宿舍",
+              "title_vi": "60.4 Ký túc xá nhân viên",
+              "count": 20
+            },
+            {
+              "id": "60.5",
+              "title": "60.5 员工食堂",
+              "title_vi": "60.5 Căng tin nhân viên",
+              "count": 20
+            }
+          ],
+          "data_url": "packs/vi/60.json",
+          "data_version": 2,
+          "lesson_count": 5,
+          "needs_pronunciation_review": true
         }
       ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-55-semantic-review-v14-20261103",
-  "source_status": "Vietnamese themes 01-55 published. Themes 46-50 rechecked for safety, banking, and immigration wording; themes 51-55 all exercise lines and source notes present, with 23 additional naturalness/meaning corrections in a second pass. Structural regression and catalog checks required before merge; native-speaker, professional policy/legal, audio and app QA still pending. Themes 56-60 untranslated.",
+  "revision": "spoken-vi-themes01-60-complete-v15-20261103",
+  "source_status": "All 60 Mandarin themes have separate Vietnamese lesson files; themes 56-60 now include all main cards, alternatives, replies and 479 original teaching note translations with preserved Mandarin/pinyin/IDs. Source-aligned structural QA passed before merge. Vietnamese native-speaker editorial and legal/safety-specialist checks, audio and in-app testing are still pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:21:54.791Z",
+  "updated_at": "2026-11-03T03:47:42.194Z",
   "packs_base_path": "packs/vi/"
 }
