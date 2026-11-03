@@ -3,7 +3,7 @@
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 2911,
+  "item_count": 3265,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -1551,13 +1551,217 @@
           "title_vi": "40 Khách sạn và du lịch"
         }
       ]
+    },
+    {
+      "zone_id": 6,
+      "title": "手机网络",
+      "title_vi": "Điện thoại và Internet",
+      "themes": [
+        {
+          "theme_id": "41",
+          "title": "手机网络",
+          "title_vi": "41 Điện thoại và Internet",
+          "status": "available",
+          "free": false,
+          "phrase_count": 77,
+          "lessons": [
+            {
+              "id": "41.1",
+              "title": "41.1 充电电量",
+              "title_vi": "41.1 Sạc pin và mức pin",
+              "count": 19
+            },
+            {
+              "id": "41.2",
+              "title": "41.2 手机卡流量",
+              "title_vi": "41.2 SIM điện thoại và dữ liệu di động",
+              "count": 22
+            },
+            {
+              "id": "41.3",
+              "title": "41.3 连接Wi-Fi",
+              "title_vi": "41.3 Kết nối Wi-Fi",
+              "count": 19
+            },
+            {
+              "id": "41.4",
+              "title": "41.4 网络故障",
+              "title_vi": "41.4 Xử lý sự cố mạng",
+              "count": 17
+            }
+          ],
+          "data_url": "packs/vi/41.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "42",
+          "title": "微信电话",
+          "title_vi": "42 WeChat và cuộc gọi",
+          "status": "available",
+          "free": false,
+          "phrase_count": 65,
+          "lessons": [
+            {
+              "id": "42.1",
+              "title": "42.1 添加微信",
+              "title_vi": "42.1 Kết bạn trên WeChat",
+              "count": 14
+            },
+            {
+              "id": "42.2",
+              "title": "42.2 消息语音",
+              "title_vi": "42.2 Tin nhắn và tin nhắn thoại",
+              "count": 17
+            },
+            {
+              "id": "42.3",
+              "title": "42.3 电话沟通",
+              "title_vi": "42.3 Gọi điện thoại",
+              "count": 18
+            },
+            {
+              "id": "42.4",
+              "title": "42.4 定位照片文件",
+              "title_vi": "42.4 Vị trí, hình ảnh và tệp",
+              "count": 16
+            }
+          ],
+          "data_url": "packs/vi/42.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "43",
+          "title": "账号扫码软件",
+          "title_vi": "43 Tài khoản, mã QR và ứng dụng",
+          "status": "available",
+          "free": false,
+          "phrase_count": 60,
+          "lessons": [
+            {
+              "id": "43.1",
+              "title": "43.1 注册登录",
+              "title_vi": "43.1 Đăng ký và đăng nhập",
+              "count": 16
+            },
+            {
+              "id": "43.2",
+              "title": "43.2 密码验证码",
+              "title_vi": "43.2 Mật khẩu và mã xác minh",
+              "count": 14
+            },
+            {
+              "id": "43.3",
+              "title": "43.3 扫码操作",
+              "title_vi": "43.3 Thao tác quét mã QR",
+              "count": 13
+            },
+            {
+              "id": "43.4",
+              "title": "43.4 下载更新权限",
+              "title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập",
+              "count": 17
+            }
+          ],
+          "data_url": "packs/vi/43.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        }
+      ]
+    },
+    {
+      "zone_id": 7,
+      "title": "看病办事",
+      "title_vi": "Khám bệnh và thủ tục",
+      "themes": [
+        {
+          "theme_id": "44",
+          "title": "医院看病",
+          "title_vi": "44 Khám bệnh tại bệnh viện",
+          "status": "available",
+          "free": false,
+          "phrase_count": 66,
+          "lessons": [
+            {
+              "id": "44.1",
+              "title": "44.1 描述症状",
+              "title_vi": "44.1 Mô tả triệu chứng",
+              "count": 20
+            },
+            {
+              "id": "44.2",
+              "title": "44.2 挂号科室",
+              "title_vi": "44.2 Đăng ký khám và chọn khoa",
+              "count": 14
+            },
+            {
+              "id": "44.3",
+              "title": "44.3 医生检查",
+              "title_vi": "44.3 Khám và xét nghiệm",
+              "count": 14
+            },
+            {
+              "id": "44.4",
+              "title": "44.4 结果复诊",
+              "title_vi": "44.4 Kết quả và tái khám",
+              "count": 18
+            }
+          ],
+          "data_url": "packs/vi/44.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "45",
+          "title": "药店用药",
+          "title_vi": "45 Mua và sử dụng thuốc",
+          "status": "available",
+          "free": false,
+          "phrase_count": 86,
+          "lessons": [
+            {
+              "id": "45.1",
+              "title": "45.1 药店买药",
+              "title_vi": "45.1 Mua thuốc ở hiệu thuốc",
+              "count": 21
+            },
+            {
+              "id": "45.2",
+              "title": "45.2 用法用量",
+              "title_vi": "45.2 Cách dùng và liều lượng thuốc",
+              "count": 23
+            },
+            {
+              "id": "45.3",
+              "title": "45.3 注意与禁忌",
+              "title_vi": "45.3 Lưu ý và chống chỉ định",
+              "count": 20
+            },
+            {
+              "id": "45.4",
+              "title": "45.4 不良反应与停药",
+              "title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc",
+              "count": 22
+            }
+          ],
+          "data_url": "packs/vi/45.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        }
+      ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-40-semantic-qa-v9-20261102",
-  "source_status": "Vietnamese themes 01-40 published: 2911 main cards. Themes 36-40: 344 main cards, 919 alternative/reply lines, 344 Vietnamese usage notes. Chinese original text/pinyin/IDs and nested structure compared, no missing translations; 31-35 re-audited and corrected. Native Vietnamese final review, audio and app runtime integration pending. Themes 41-60 not yet published.",
+  "revision": "spoken-vi-themes01-45-translation-v10-20261103",
+  "source_status": "Themes 01-45 are published for Vietnamese. Themes 41-45 exercise translations complete, but their Vietnamese teaching notes are interim and need detailed source-specific editorial review. Native editorial, audio and app integration reviews pending.",
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:55:00Z",
+  "updated_at": "2026-11-03T02:28:00Z",
   "packs_base_path": "packs/vi/"
 }
