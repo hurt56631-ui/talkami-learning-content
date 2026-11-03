@@ -1,0 +1,2898 @@
+{
+  "theme_id": "59",
+  "version": 1,
+  "updated_at": "2026-11-03T03:44:26.571Z",
+  "theme_title": "59 生产操作与质检",
+  "quality_standard": "Full Vietnamese translation of cards, alternatives, replies and source-aligned Chinese training notes. No machine operation or emergency instructions override on-site authorization, equipment safeguards or trained responders. Native editor and app/audio QA pending.",
+  "source_phrase_count": 88,
+  "lessons": [
+    {
+      "id": "59.1",
+      "title": "59.1 质量检查",
+      "phrases": [
+        {
+          "id": "s59_1_0001",
+          "level": "must",
+          "text": "这个要检查吗？",
+          "alternatives": [
+            {
+              "text": "这件要检吗？",
+              "id": "s59_1_0001_alt01",
+              "meaning_vi": "Món này phải kiểm à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，这批都得检查。",
+              "id": "s59_1_0001_reply01",
+              "meaning_vi": "Có, cả lô này đều phải kiểm."
+            },
+            {
+              "text": "这批只抽检。",
+              "id": "s59_1_0001_reply02",
+              "meaning_vi": "Lô này chỉ kiểm tra lấy mẫu."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "zhè ge yào jiǎn chá ma",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“这个要检查吗？”，及时核实实际情况。",
+          "meaning_vi": "Cái này có cần kiểm tra không?",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0002",
+          "level": "must",
+          "text": "尺寸对吗？",
+          "alternatives": [
+            {
+              "text": "尺寸合适吗？",
+              "id": "s59_1_0002_alt01",
+              "meaning_vi": "Kích thước có đạt không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，符合要求。",
+              "id": "s59_1_0002_reply01",
+              "meaning_vi": "Đúng, đạt yêu cầu."
+            },
+            {
+              "text": "偏大了，要再量一次。",
+              "id": "s59_1_0002_reply02",
+              "meaning_vi": "Hơi lớn, phải đo lại lần nữa."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "chǐ cùn duì ma",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“尺寸对吗？”，及时核实实际情况。",
+          "meaning_vi": "Kích thước đúng chưa?",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0003",
+          "level": "must",
+          "text": "颜色不一样。",
+          "alternatives": [
+            {
+              "text": "颜色有色差。",
+              "id": "s59_1_0003_alt01",
+              "meaning_vi": "Có chênh lệch màu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "拿样品对比一下。",
+              "id": "s59_1_0003_reply01",
+              "meaning_vi": "Lấy mẫu ra so sánh nhé."
+            },
+            {
+              "text": "先分开放，叫质检看。",
+              "id": "s59_1_0003_reply02",
+              "meaning_vi": "Tách riêng trước rồi gọi kiểm tra chất lượng."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "yán sè bù yí yàng",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“颜色不一样。”，及时核实实际情况。",
+          "meaning_vi": "Màu sắc không giống nhau.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0004",
+          "level": "must",
+          "text": "这里有划痕。",
+          "alternatives": [
+            {
+              "text": "表面有划伤。",
+              "id": "s59_1_0004_alt01",
+              "meaning_vi": "Bề mặt bị xước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先标记出来。",
+              "id": "s59_1_0004_reply01",
+              "meaning_vi": "Đánh dấu trước."
+            },
+            {
+              "text": "这件先别包装。",
+              "id": "s59_1_0004_reply02",
+              "meaning_vi": "Món này chưa được đóng gói."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "zhè lǐ yǒu huá hén",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“这里有划痕。”，及时核实实际情况。",
+          "meaning_vi": "Chỗ này có vết xước.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0005",
+          "level": "must",
+          "text": "数量对了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，记到表里。",
+              "id": "s59_1_0005_reply01",
+              "meaning_vi": "Được, ghi vào biểu mẫu."
+            },
+            {
+              "text": "再核对一下箱数。",
+              "id": "s59_1_0005_reply02",
+              "meaning_vi": "Kiểm tra lại số thùng nhé."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "shù liàng duì le",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“数量对了。”，及时核实实际情况。",
+          "meaning_vi": "Số lượng đã đúng rồi.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0006",
+          "level": "must",
+          "text": "这个合格吗？",
+          "alternatives": [
+            {
+              "text": "这件过检了吗？",
+              "id": "s59_1_0006_alt01",
+              "meaning_vi": "Món này đã qua kiểm định chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "合格，可以入库。",
+              "id": "s59_1_0006_reply01",
+              "meaning_vi": "Đạt rồi, có thể nhập kho."
+            },
+            {
+              "text": "还没检完，先别放行。",
+              "id": "s59_1_0006_reply02",
+              "meaning_vi": "Chưa kiểm xong, đừng cho qua."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "zhè ge hé gé ma",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“这个合格吗？”，及时核实实际情况。",
+          "meaning_vi": "Món này đạt tiêu chuẩn không?",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0007",
+          "level": "must",
+          "text": "按哪个标准？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "按这份检验标准。",
+              "id": "s59_1_0007_reply01",
+              "meaning_vi": "Theo bản tiêu chuẩn kiểm tra này."
+            },
+            {
+              "text": "先确认图纸版本。",
+              "id": "s59_1_0007_reply02",
+              "meaning_vi": "Xác nhận phiên bản bản vẽ trước."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "àn nǎ ge biāo zhǔn",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“按哪个标准？”，及时核实实际情况。",
+          "meaning_vi": "Áp dụng tiêu chuẩn nào?",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0008",
+          "level": "must",
+          "text": "我再检查一遍。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，重点看尺寸。",
+              "id": "s59_1_0008_reply01",
+              "meaning_vi": "Được, chú ý kích thước."
+            },
+            {
+              "text": "查完把结果告诉我。",
+              "id": "s59_1_0008_reply02",
+              "meaning_vi": "Kiểm tra xong báo tôi kết quả."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "wǒ zài jiǎn chá yí biàn",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“我再检查一遍。”，及时核实实际情况。",
+          "meaning_vi": "Tôi kiểm tra lại một lần.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0009",
+          "level": "must",
+          "text": "这里有毛刺。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先放一边，别碰伤手。",
+              "id": "s59_1_0009_reply01",
+              "meaning_vi": "Tách ra trước, coi chừng đứt tay."
+            },
+            {
+              "text": "我叫质检来确认。",
+              "id": "s59_1_0009_reply02",
+              "meaning_vi": "Tôi gọi bộ phận kiểm định tới xác nhận."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "zhè lǐ yǒu máo cì",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“这里有毛刺。”，及时核实实际情况。",
+          "meaning_vi": "Chỗ này có ba via.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0010",
+          "level": "must",
+          "text": "表面有污点。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先检查能否清理。",
+              "id": "s59_1_0010_reply01",
+              "meaning_vi": "Kiểm tra xem có làm sạch được không."
+            },
+            {
+              "text": "这件先单独放。",
+              "id": "s59_1_0010_reply02",
+              "meaning_vi": "Tạm để riêng món này."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "biǎo miàn yǒu wū diǎn",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“表面有污点。”，及时核实实际情况。",
+          "meaning_vi": "Trên bề mặt có vết bẩn.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0011",
+          "level": "must",
+          "text": "抽检还是全检？",
+          "alternatives": [
+            {
+              "text": "是抽查还是全查？",
+              "id": "s59_1_0011_alt01",
+              "meaning_vi": "Kiểm tra ngẫu nhiên hay kiểm toàn bộ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这批要全检。",
+              "id": "s59_1_0011_reply01",
+              "meaning_vi": "Lô này phải kiểm từng món."
+            },
+            {
+              "text": "按规定抽检就行。",
+              "id": "s59_1_0011_reply02",
+              "meaning_vi": "Chỉ cần lấy mẫu theo quy định."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "抽检只检查规定的样本，全检则逐件检查。",
+              "text_vi": "Kiểm lấy mẫu chỉ xem số mẫu theo quy định, còn kiểm toàn bộ là kiểm từng sản phẩm."
+            }
+          ],
+          "pinyin": "chōu jiǎn hái shì quán jiǎn",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“抽检还是全检？”，及时核实实际情况。",
+          "meaning_vi": "Kiểm tra lấy mẫu hay kiểm từng chiếc?",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0020",
+          "level": "must",
+          "text": "这批的检验记录在哪儿？",
+          "when_to_use": "现场出现“这批的检验记录在哪儿？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "检验报告放哪儿了？",
+              "id": "s59_1_0020_alt01",
+              "meaning_vi": "Báo cáo kiểm tra đặt ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在质检系统里。",
+              "id": "s59_1_0020_reply01",
+              "meaning_vi": "Trong hệ thống quản lý chất lượng."
+            },
+            {
+              "text": "我发给你最新记录。",
+              "id": "s59_1_0020_reply02",
+              "meaning_vi": "Tôi gửi bản ghi mới nhất cho bạn."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "pinyin": "zhè pī de jiǎn yàn jì lù zài nǎr",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Hồ sơ kiểm tra lô này ở đâu?",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0021",
+          "level": "must",
+          "text": "检验结果还没出来。",
+          "when_to_use": "现场出现“检验结果还没出来。”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "还在等质检结果。",
+              "id": "s59_1_0021_alt01",
+              "meaning_vi": "Vẫn đang đợi kết quả kiểm định."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那先放在待检区。",
+              "id": "s59_1_0021_reply01",
+              "meaning_vi": "Vậy đặt vào khu chờ kiểm trước."
+            },
+            {
+              "text": "结果出来再决定能不能入库。",
+              "id": "s59_1_0021_reply02",
+              "meaning_vi": "Có kết quả rồi mới quyết định có nhập kho hay không."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "pinyin": "jiǎn yàn jié guǒ hái méi chū lái",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Chưa có kết quả kiểm tra.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0022",
+          "level": "must",
+          "text": "这个批次号对吗？",
+          "when_to_use": "现场出现“这个批次号对吗？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "批号是不是写错了？",
+              "id": "s59_1_0022_alt01",
+              "meaning_vi": "Mã lô có bị ghi sai không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "跟工单上的一样。",
+              "id": "s59_1_0022_reply01",
+              "meaning_vi": "Giống mã trên phiếu công việc."
+            },
+            {
+              "text": "先别签字，再核对一次。",
+              "id": "s59_1_0022_reply02",
+              "meaning_vi": "Khoan ký, kiểm tra lại một lần."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "pinyin": "zhè ge pī cì hào duì ma",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Mã lô này có đúng không?",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0012",
+          "level": "listen",
+          "text": "每个都要检查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先从哪箱开始？",
+              "id": "s59_1_0012_reply01",
+              "meaning_vi": "Bắt đầu từ thùng nào?"
+            },
+            {
+              "text": "不合格的单独放吗？",
+              "id": "s59_1_0012_reply02",
+              "meaning_vi": "Hàng không đạt để riêng à?"
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "měi ge dōu yào jiǎn chá",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“每个都要检查。”，及时核实实际情况。",
+          "meaning_vi": "Món nào cũng phải kiểm.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0013",
+          "level": "listen",
+          "text": "这个尺寸超标了。",
+          "alternatives": [
+            {
+              "text": "尺寸超出上限了。",
+              "id": "s59_1_0013_alt01",
+              "meaning_vi": "Kích thước vượt giới hạn trên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "超了多少？",
+              "id": "s59_1_0013_reply01",
+              "meaning_vi": "Vượt bao nhiêu?"
+            },
+            {
+              "text": "先隔离，等质检确认。",
+              "id": "s59_1_0013_reply02",
+              "meaning_vi": "Tách riêng trước, đợi bộ phận kiểm định xác nhận."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "zhè ge chǐ cùn chāo biāo le",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“这个尺寸超标了。”，及时核实实际情况。",
+          "meaning_vi": "Kích thước này vượt mức cho phép.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0014",
+          "level": "listen",
+          "text": "表面不能有划痕。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我会逐件检查。",
+              "id": "s59_1_0014_reply01",
+              "meaning_vi": "Tôi sẽ kiểm từng chiếc."
+            },
+            {
+              "text": "有划痕的怎么处理？",
+              "id": "s59_1_0014_reply02",
+              "meaning_vi": "Có vết xước thì xử lý thế nào?"
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "biǎo miàn bù néng yǒu huá hén",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“表面不能有划痕。”，及时核实实际情况。",
+          "meaning_vi": "Bề mặt không được có vết xước.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0015",
+          "level": "listen",
+          "text": "合格品放左边。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "右边放不合格品吗？",
+              "id": "s59_1_0015_reply01",
+              "meaning_vi": "Bên phải để hàng lỗi à?"
+            },
+            {
+              "text": "我先按标识分开。",
+              "id": "s59_1_0015_reply02",
+              "meaning_vi": "Tôi tách theo nhãn trước."
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "hé gé pǐn fàng zuǒ biān",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“合格品放左边。”，及时核实实际情况。",
+          "meaning_vi": "Hàng đạt để bên trái.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0016",
+          "level": "listen",
+          "text": "不合格的单独放。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "放到待处理区吗？",
+              "id": "s59_1_0016_reply01",
+              "meaning_vi": "Để ở khu chờ xử lý à?"
+            },
+            {
+              "text": "需要贴标签吗？",
+              "id": "s59_1_0016_reply02",
+              "meaning_vi": "Có phải dán nhãn không?"
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "bù hé gé de dān dú fàng",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“不合格的单独放。”，及时核实实际情况。",
+          "meaning_vi": "Hàng không đạt để riêng.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0017",
+          "level": "listen",
+          "text": "颜色要和样品一致。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我拿样品来对照。",
+              "id": "s59_1_0017_reply01",
+              "meaning_vi": "Tôi lấy mẫu ra đối chiếu."
+            },
+            {
+              "text": "有一点色差能收吗？",
+              "id": "s59_1_0017_reply02",
+              "meaning_vi": "Chênh màu một chút có chấp nhận được không?"
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "yán sè yào hé yàng pǐn yí zhì",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“颜色要和样品一致。”，及时核实实际情况。",
+          "meaning_vi": "Màu sắc phải giống mẫu.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0018",
+          "level": "listen",
+          "text": "有问题先标记。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "标好后放哪里？",
+              "id": "s59_1_0018_reply01",
+              "meaning_vi": "Đánh dấu xong để ở đâu?"
+            },
+            {
+              "text": "需要拍照记录吗？",
+              "id": "s59_1_0018_reply02",
+              "meaning_vi": "Có cần chụp ảnh làm bằng chứng không?"
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "yǒu wèn tí xiān biāo jì",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“有问题先标记。”，及时核实实际情况。",
+          "meaning_vi": "Có vấn đề thì đánh dấu trước.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        },
+        {
+          "id": "s59_1_0019",
+          "level": "listen",
+          "text": "按标准记录结果。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "记录在这张表吗？",
+              "id": "s59_1_0019_reply01",
+              "meaning_vi": "Ghi vào biểu mẫu này à?"
+            },
+            {
+              "text": "不合格数量也要填吗？",
+              "id": "s59_1_0019_reply02",
+              "meaning_vi": "Có phải ghi cả số hàng không đạt không?"
+            }
+          ],
+          "lesson_id": "59.1",
+          "lesson_title": "59.1 质量检查",
+          "mistakes": [
+            {
+              "text": "“抽检”与“全检”不同；未通过检验的产品不能当成已放行，标准和批次要核对。",
+              "text_vi": "“Kiểm tra lấy mẫu” khác kiểm toàn bộ; hàng chưa đạt kiểm định không được coi là đã được duyệt xuất, phải đối chiếu tiêu chuẩn và mã lô."
+            }
+          ],
+          "pinyin": "àn biāo zhǔn jì lù jié guǒ",
+          "when_to_use": "在车间质检标准、尺寸和批次记录时，听到或说出“按标准记录结果。”，及时核实实际情况。",
+          "meaning_vi": "Ghi kết quả đúng theo tiêu chuẩn.",
+          "lesson_title_vi": "59.1 Kiểm tra chất lượng sản phẩm"
+        }
+      ],
+      "title_vi": "59.1 Kiểm tra chất lượng sản phẩm",
+      "opening_vi": "Luyện kiểm kích thước, màu, vết xước, mã lô, tiêu chuẩn và phân biệt kiểm tra lấy mẫu với kiểm tra từng sản phẩm.",
+      "subtitle_vi": "22 câu giao tiếp"
+    },
+    {
+      "id": "59.2",
+      "title": "59.2 不合格与返工",
+      "phrases": [
+        {
+          "id": "s59_2_0001",
+          "level": "must",
+          "text": "这个不合格。",
+          "alternatives": [
+            {
+              "text": "这件没过检。",
+              "id": "s59_2_0001_alt01",
+              "meaning_vi": "Món này không qua kiểm định."
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪里不合格？",
+              "id": "s59_2_0001_reply01",
+              "meaning_vi": "Không đạt ở điểm nào?"
+            },
+            {
+              "text": "先贴标签，单独放。",
+              "id": "s59_2_0001_reply02",
+              "meaning_vi": "Dán nhãn rồi để riêng trước."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "zhè ge bù hé gé",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“这个不合格。”，及时核实实际情况。",
+          "meaning_vi": "Món này không đạt.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0002",
+          "level": "must",
+          "text": "要返工吗？",
+          "alternatives": [
+            {
+              "text": "需要重新加工吗？",
+              "id": "s59_2_0002_alt01",
+              "meaning_vi": "Có cần gia công lại không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先让质检确认。",
+              "id": "s59_2_0002_reply01",
+              "meaning_vi": "Để bộ phận kiểm định xác nhận trước."
+            },
+            {
+              "text": "这件不能返工，待处理。",
+              "id": "s59_2_0002_reply02",
+              "meaning_vi": "Món này không được làm lại, chờ xử lý."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工和报废不同，须由有权限的人员确定处理方式。",
+              "text_vi": "Làm lại hàng lỗi khác loại bỏ phế phẩm; người có thẩm quyền phải quyết định cách xử lý."
+            }
+          ],
+          "pinyin": "yào fǎn gōng ma",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“要返工吗？”，及时核实实际情况。",
+          "meaning_vi": "Có phải làm lại không?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0003",
+          "level": "must",
+          "text": "我重新做一遍。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先按返工单来。",
+              "id": "s59_2_0003_reply01",
+              "meaning_vi": "Trước tiên làm theo phiếu yêu cầu làm lại."
+            },
+            {
+              "text": "做完再送检。",
+              "id": "s59_2_0003_reply02",
+              "meaning_vi": "Làm xong đưa đi kiểm tra lần nữa."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "wǒ chóng xīn zuò yí biàn",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“我重新做一遍。”，及时核实实际情况。",
+          "meaning_vi": "Tôi làm lại một lần.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0004",
+          "level": "must",
+          "text": "这个要换掉。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要换哪个零件？",
+              "id": "s59_2_0004_reply01",
+              "meaning_vi": "Phải thay linh kiện nào?"
+            },
+            {
+              "text": "先确认型号。",
+              "id": "s59_2_0004_reply02",
+              "meaning_vi": "Xác nhận mã linh kiện trước."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "zhè ge yào huàn diào",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“这个要换掉。”，及时核实实际情况。",
+          "meaning_vi": "Cái này cần thay.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0005",
+          "level": "must",
+          "text": "为什么不合格？",
+          "alternatives": [
+            {
+              "text": "哪里没达到标准？",
+              "id": "s59_2_0005_alt01",
+              "meaning_vi": "Chỗ nào chưa đúng tiêu chuẩn?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "尺寸超出要求了。",
+              "id": "s59_2_0005_reply01",
+              "meaning_vi": "Kích thước vượt yêu cầu."
+            },
+            {
+              "text": "表面有明显划痕。",
+              "id": "s59_2_0005_reply02",
+              "meaning_vi": "Bề mặt có vết xước rõ."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "wèi shén me bù hé gé",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“为什么不合格？”，及时核实实际情况。",
+          "meaning_vi": "Vì sao không đạt?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0006",
+          "level": "must",
+          "text": "次品放哪儿？",
+          "alternatives": [
+            {
+              "text": "不良品放哪？",
+              "id": "s59_2_0006_alt01",
+              "meaning_vi": "Hàng không đạt để ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "放到待处理区。",
+              "id": "s59_2_0006_reply01",
+              "meaning_vi": "Để tại khu chờ xử lý."
+            },
+            {
+              "text": "先贴好不合格标签。",
+              "id": "s59_2_0006_reply02",
+              "meaning_vi": "Dán nhãn hàng lỗi trước."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "cì pǐn fàng nǎr",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“次品放哪儿？”，及时核实实际情况。",
+          "meaning_vi": "Hàng lỗi để đâu?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0007",
+          "level": "must",
+          "text": "需要记录吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，把数量和原因记下。",
+              "id": "s59_2_0007_reply01",
+              "meaning_vi": "Có, ghi số lượng và nguyên nhân."
+            },
+            {
+              "text": "批次号也要填上。",
+              "id": "s59_2_0007_reply02",
+              "meaning_vi": "Cũng phải điền mã lô."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "xū yào jì lù ma",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“需要记录吗？”，及时核实实际情况。",
+          "meaning_vi": "Có cần ghi lại không?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0008",
+          "level": "must",
+          "text": "这批发现质量问题了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先暂停这批生产。",
+              "id": "s59_2_0008_reply01",
+              "meaning_vi": "Tạm ngừng sản xuất lô này trước."
+            },
+            {
+              "text": "我去找质检复查。",
+              "id": "s59_2_0008_reply02",
+              "meaning_vi": "Tôi đi tìm bộ phận kiểm định kiểm tra lại."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "zhè pī fā xiàn zhì liàng wèn tí le",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“这批发现质量问题了。”，及时核实实际情况。",
+          "meaning_vi": "Phát hiện vấn đề chất lượng ở lô này rồi.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0009",
+          "level": "must",
+          "text": "返工从哪步开始？",
+          "alternatives": [
+            {
+              "text": "从哪步返工？",
+              "id": "s59_2_0009_alt01",
+              "meaning_vi": "Phải làm lại từ bước nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按返工单写的做。",
+              "id": "s59_2_0009_reply01",
+              "meaning_vi": "Theo phiếu yêu cầu làm lại."
+            },
+            {
+              "text": "先找主管确认步骤。",
+              "id": "s59_2_0009_reply02",
+              "meaning_vi": "Hỏi quản lý xác nhận các bước trước."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "fǎn gōng cóng nǎ bù kāi shǐ",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“返工从哪步开始？”，及时核实实际情况。",
+          "meaning_vi": "Làm lại bắt đầu từ bước nào?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0010",
+          "level": "must",
+          "text": "这批先别做了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是发现质量问题了吗？",
+              "id": "s59_2_0010_reply01",
+              "meaning_vi": "Có phát hiện lỗi chất lượng à?"
+            },
+            {
+              "text": "我先通知其他工位。",
+              "id": "s59_2_0010_reply02",
+              "meaning_vi": "Tôi báo các vị trí khác trước."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "zhè pī xiān bié zuò le",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“这批先别做了。”，及时核实实际情况。",
+          "meaning_vi": "Tạm thời đừng làm lô này nữa.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0011",
+          "level": "must",
+          "text": "返工品放哪儿？",
+          "alternatives": [
+            {
+              "text": "返工好的放哪？",
+              "id": "s59_2_0011_alt01",
+              "meaning_vi": "Hàng làm lại xong để chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "放到待检区。",
+              "id": "s59_2_0011_reply01",
+              "meaning_vi": "Để vào khu chờ kiểm."
+            },
+            {
+              "text": "别混进合格品里。",
+              "id": "s59_2_0011_reply02",
+              "meaning_vi": "Đừng trộn vào hàng đã đạt."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工后应复检；未经确认不可直接当作合格品。",
+              "text_vi": "Hàng làm lại phải kiểm tra lại; chưa được xác nhận thì không coi là hàng đạt."
+            }
+          ],
+          "pinyin": "fǎn gōng pǐn fàng nǎr",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“返工品放哪儿？”，及时核实实际情况。",
+          "meaning_vi": "Hàng đã làm lại để ở đâu?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0020",
+          "level": "must",
+          "text": "这批先隔离，别发货。",
+          "when_to_use": "现场出现“这批先隔离，别发货。”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "先把这批货扣下来。",
+              "id": "s59_2_0020_alt01",
+              "meaning_vi": "Tạm giữ lô này lại."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我通知仓库。",
+              "id": "s59_2_0020_reply01",
+              "meaning_vi": "Được, tôi báo kho."
+            },
+            {
+              "text": "要贴待处理标签吗？",
+              "id": "s59_2_0020_reply02",
+              "meaning_vi": "Có cần dán nhãn chờ xử lý không?"
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "pinyin": "zhè pī xiān gé lí bié fā huò",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Cách ly lô này trước, chưa được xuất hàng.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0021",
+          "level": "must",
+          "text": "返工后还要复检吗？",
+          "when_to_use": "现场出现“返工后还要复检吗？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "返工完需要重新检验吗？",
+              "id": "s59_2_0021_alt01",
+              "meaning_vi": "Làm lại xong phải kiểm định lại à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，检验合格后才能放行。",
+              "id": "s59_2_0021_reply01",
+              "meaning_vi": "Có, đạt kiểm định mới được cho qua."
+            },
+            {
+              "text": "先查返工单上的要求。",
+              "id": "s59_2_0021_reply02",
+              "meaning_vi": "Xem yêu cầu trên phiếu làm lại trước."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "pinyin": "fǎn gōng hòu hái yào fù jiǎn ma",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Hàng làm lại có phải kiểm tra lần nữa không?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0022",
+          "level": "must",
+          "text": "不合格原因查出来了吗？",
+          "when_to_use": "现场出现“不合格原因查出来了吗？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "问题原因找到了吗？",
+              "id": "s59_2_0022_alt01",
+              "meaning_vi": "Đã tìm được nguyên nhân lỗi chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还在排查。",
+              "id": "s59_2_0022_reply01",
+              "meaning_vi": "Vẫn đang kiểm tra."
+            },
+            {
+              "text": "找到了，是零件型号不对。",
+              "id": "s59_2_0022_reply02",
+              "meaning_vi": "Tìm ra rồi, do sai mã linh kiện."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "pinyin": "bù hé gé yuán yīn chá chū lái le ma",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Đã tìm ra nguyên nhân hàng không đạt chưa?",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0012",
+          "level": "listen",
+          "text": "这个要返工。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "哪部分要返工？",
+              "id": "s59_2_0012_reply01",
+              "meaning_vi": "Phần nào phải làm lại?"
+            },
+            {
+              "text": "返工后要复检吗？",
+              "id": "s59_2_0012_reply02",
+              "meaning_vi": "Làm lại xong phải kiểm lại à?"
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "zhè ge yào fǎn gōng",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“这个要返工。”，及时核实实际情况。",
+          "meaning_vi": "Cái này phải làm lại.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0013",
+          "level": "listen",
+          "text": "严重的要报废。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谁来确认报废？",
+              "id": "s59_2_0013_reply01",
+              "meaning_vi": "Ai có quyền xác nhận loại bỏ?"
+            },
+            {
+              "text": "先分开标记吗？",
+              "id": "s59_2_0013_reply02",
+              "meaning_vi": "Có phải tách và đánh dấu trước không?"
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "yán chóng de yào bào fèi",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“严重的要报废。”，及时核实实际情况。",
+          "meaning_vi": "Lỗi nặng phải loại bỏ.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0014",
+          "level": "listen",
+          "text": "先别往下做。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是哪里出问题了？",
+              "id": "s59_2_0014_reply01",
+              "meaning_vi": "Có vấn đề gì à?"
+            },
+            {
+              "text": "我先把这批停下来。",
+              "id": "s59_2_0014_reply02",
+              "meaning_vi": "Tôi tạm dừng lô này trước."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "xiān bié wǎng xià zuò",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“先别往下做。”，及时核实实际情况。",
+          "meaning_vi": "Chưa được làm bước tiếp theo.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0015",
+          "level": "listen",
+          "text": "把问题记下来。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "批次号也要记吗？",
+              "id": "s59_2_0015_reply01",
+              "meaning_vi": "Có phải ghi cả mã lô không?"
+            },
+            {
+              "text": "我拍照一起存档。",
+              "id": "s59_2_0015_reply02",
+              "meaning_vi": "Tôi chụp ảnh lưu hồ sơ."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "bǎ wèn tí jì xià lái",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“把问题记下来。”，及时核实实际情况。",
+          "meaning_vi": "Ghi lại vấn đề.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0016",
+          "level": "listen",
+          "text": "叫质检过来。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我现在去叫。",
+              "id": "s59_2_0016_reply01",
+              "meaning_vi": "Tôi đi gọi ngay."
+            },
+            {
+              "text": "这批先隔离吗？",
+              "id": "s59_2_0016_reply02",
+              "meaning_vi": "Có cần tách riêng lô này trước không?"
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "jiào zhì jiǎn guò lái",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“叫质检过来。”，及时核实实际情况。",
+          "meaning_vi": "Gọi bộ phận kiểm tra chất lượng đến.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0017",
+          "level": "listen",
+          "text": "返工后重新检查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "按原来的标准检吗？",
+              "id": "s59_2_0017_reply01",
+              "meaning_vi": "Kiểm theo tiêu chuẩn cũ à?"
+            },
+            {
+              "text": "复检找谁签字？",
+              "id": "s59_2_0017_reply02",
+              "meaning_vi": "Ai ký xác nhận kết quả kiểm tra lại?"
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "fǎn gōng hòu chóng xīn jiǎn chá",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“返工后重新检查。”，及时核实实际情况。",
+          "meaning_vi": "Sau khi làm lại phải kiểm tra lần nữa.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0018",
+          "level": "listen",
+          "text": "别混进合格品里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不合格的放哪个区？",
+              "id": "s59_2_0018_reply01",
+              "meaning_vi": "Hàng lỗi để khu nào?"
+            },
+            {
+              "text": "我先贴标签再分开。",
+              "id": "s59_2_0018_reply02",
+              "meaning_vi": "Tôi dán nhãn trước rồi tách riêng."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "bié hùn jìn hé gé pǐn lǐ",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“别混进合格品里。”，及时核实实际情况。",
+          "meaning_vi": "Đừng để lẫn vào hàng đạt.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        },
+        {
+          "id": "s59_2_0019",
+          "level": "listen",
+          "text": "返工品要单独放。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "没复检的放哪儿？",
+              "id": "s59_2_0019_reply01",
+              "meaning_vi": "Hàng chưa kiểm lại để ở đâu?"
+            },
+            {
+              "text": "我给它们贴不同标签。",
+              "id": "s59_2_0019_reply02",
+              "meaning_vi": "Tôi dán các nhãn khác nhau cho chúng."
+            }
+          ],
+          "lesson_id": "59.2",
+          "lesson_title": "59.2 不合格与返工",
+          "mistakes": [
+            {
+              "text": "返工、报废与放行不是一回事；没有质检和授权确认，不得擅自返工或混入合格品。",
+              "text_vi": "Gia công lại, loại bỏ và cho phép xuất là ba việc khác nhau; không tự làm lại hoặc trộn với hàng đạt nếu chưa được kiểm định và phê duyệt."
+            }
+          ],
+          "pinyin": "fǎn gōng pǐn yào dān dú fàng",
+          "when_to_use": "在车间不合格品隔离、返工和复检时，听到或说出“返工品要单独放。”，及时核实实际情况。",
+          "meaning_vi": "Hàng làm lại phải để riêng.",
+          "lesson_title_vi": "59.2 Hàng lỗi và xử lý làm lại"
+        }
+      ],
+      "title_vi": "59.2 Hàng lỗi và xử lý làm lại",
+      "opening_vi": "Luyện xác định hàng không đạt, phân loại, cách ly, ghi lỗi, làm lại và kiểm tra lại. Quyết định xử lý thuộc bộ phận có thẩm quyền.",
+      "subtitle_vi": "22 câu giao tiếp"
+    },
+    {
+      "id": "59.3",
+      "title": "59.3 机器故障与维修",
+      "phrases": [
+        {
+          "id": "s59_3_0001",
+          "level": "must",
+          "text": "机器停了。",
+          "alternatives": [
+            {
+              "text": "机器不转了。",
+              "id": "s59_3_0001_alt01",
+              "meaning_vi": "Máy không chạy nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别重启，通知维修。",
+              "id": "s59_3_0001_reply01",
+              "meaning_vi": "Đừng khởi động lại, báo bảo trì trước."
+            },
+            {
+              "text": "我去叫主管过来。",
+              "id": "s59_3_0001_reply02",
+              "meaning_vi": "Tôi đi gọi quản lý đến."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "jī qì tíng le",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“机器停了。”，及时核实实际情况。",
+          "meaning_vi": "Máy dừng rồi.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0002",
+          "level": "must",
+          "text": "这里卡住了。",
+          "alternatives": [
+            {
+              "text": "东西卡在里面了。",
+              "id": "s59_3_0002_alt01",
+              "meaning_vi": "Có vật mắc bên trong."
+            }
+          ],
+          "replies": [
+            {
+              "text": "别伸手进去。",
+              "id": "s59_3_0002_reply01",
+              "meaning_vi": "Đừng thò tay vào."
+            },
+            {
+              "text": "按应急流程处理。",
+              "id": "s59_3_0002_reply02",
+              "meaning_vi": "Làm theo quy trình ứng phó sự cố."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "zhè lǐ kǎ zhù le",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“这里卡住了。”，及时核实实际情况。",
+          "meaning_vi": "Chỗ này bị kẹt rồi.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0003",
+          "level": "must",
+          "text": "声音不对。",
+          "alternatives": [
+            {
+              "text": "机器有异响。",
+              "id": "s59_3_0003_alt01",
+              "meaning_vi": "Máy có tiếng động lạ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "别继续操作，先报告。",
+              "id": "s59_3_0003_reply01",
+              "meaning_vi": "Đừng vận hành tiếp, báo ngay."
+            },
+            {
+              "text": "我叫维修来检查。",
+              "id": "s59_3_0003_reply02",
+              "meaning_vi": "Tôi gọi thợ bảo trì kiểm tra."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "shēng yīn bú duì",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“声音不对。”，及时核实实际情况。",
+          "meaning_vi": "Tiếng máy không bình thường.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0004",
+          "level": "must",
+          "text": "机器没反应。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先别反复按按钮。",
+              "id": "s59_3_0004_reply01",
+              "meaning_vi": "Đừng bấm nút liên tục."
+            },
+            {
+              "text": "通知维修人员来检查。",
+              "id": "s59_3_0004_reply02",
+              "meaning_vi": "Báo nhân viên bảo trì tới kiểm tra."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "jī qì méi fǎn yìng",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“机器没反应。”，及时核实实际情况。",
+          "meaning_vi": "Máy không phản hồi.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0005",
+          "level": "must",
+          "text": "我已经停机了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先保持停机状态。",
+              "id": "s59_3_0005_reply01",
+              "meaning_vi": "Giữ máy ở trạng thái dừng trước."
+            },
+            {
+              "text": "等维修确认后再开。",
+              "id": "s59_3_0005_reply02",
+              "meaning_vi": "Đợi bên bảo trì xác nhận rồi mới bật lại."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "wǒ yǐ jīng tíng jī le",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“我已经停机了。”，及时核实实际情况。",
+          "meaning_vi": "Tôi đã dừng máy rồi.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0006",
+          "level": "must",
+          "text": "需要断电吗？",
+          "alternatives": [
+            {
+              "text": "要切断电源吗？",
+              "id": "s59_3_0006_alt01",
+              "meaning_vi": "Có phải cắt nguồn điện không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "让授权人员来处理。",
+              "id": "s59_3_0006_reply01",
+              "meaning_vi": "Để người có quyền xử lý."
+            },
+            {
+              "text": "按现场隔离程序确认。",
+              "id": "s59_3_0006_reply02",
+              "meaning_vi": "Xác nhận theo quy trình cô lập nguồn năng lượng tại chỗ."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "断电和检修涉及隔离上锁程序，仅受训授权人员执行。",
+              "text_vi": "Cắt điện và sửa máy liên quan quy trình khóa/cô lập năng lượng; chỉ người được đào tạo và cấp quyền mới thực hiện."
+            }
+          ],
+          "pinyin": "xū yào duàn diàn ma",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“需要断电吗？”，及时核实实际情况。",
+          "meaning_vi": "Có cần ngắt điện không?",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0007",
+          "level": "must",
+          "text": "帮我叫维修。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我马上联系。",
+              "id": "s59_3_0007_reply01",
+              "meaning_vi": "Được, tôi liên hệ ngay."
+            },
+            {
+              "text": "是哪台机器坏了？",
+              "id": "s59_3_0007_reply02",
+              "meaning_vi": "Máy nào hỏng vậy?"
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "bāng wǒ jiào wéi xiū",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“帮我叫维修。”，及时核实实际情况。",
+          "meaning_vi": "Gọi thợ sửa máy giúp tôi.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0008",
+          "level": "must",
+          "text": "我去找主管。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "跟他说机器报警了。",
+              "id": "s59_3_0008_reply01",
+              "meaning_vi": "Báo anh ấy máy đang báo lỗi."
+            },
+            {
+              "text": "我在这儿看着现场。",
+              "id": "s59_3_0008_reply02",
+              "meaning_vi": "Tôi ở đây trông tình hình."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "wǒ qù zhǎo zhǔ guǎn",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“我去找主管。”，及时核实实际情况。",
+          "meaning_vi": "Tôi đi tìm quản lý.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0009",
+          "level": "must",
+          "text": "刚才有怪声。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是从哪边传来的？",
+              "id": "s59_3_0009_reply01",
+              "meaning_vi": "Tiếng phát ra từ phía nào?"
+            },
+            {
+              "text": "先停用，叫人检查。",
+              "id": "s59_3_0009_reply02",
+              "meaning_vi": "Ngừng sử dụng trước, gọi người tới kiểm tra."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "gāng cái yǒu guài shēng",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“刚才有怪声。”，及时核实实际情况。",
+          "meaning_vi": "Vừa nãy có tiếng động lạ.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0010",
+          "level": "must",
+          "text": "机器一直报警。",
+          "alternatives": [
+            {
+              "text": "报警声没停。",
+              "id": "s59_3_0010_alt01",
+              "meaning_vi": "Tiếng cảnh báo không ngừng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先按应急流程处置。",
+              "id": "s59_3_0010_reply01",
+              "meaning_vi": "Xử lý theo quy trình ứng phó sự cố trước."
+            },
+            {
+              "text": "维修人员已经在路上。",
+              "id": "s59_3_0010_reply02",
+              "meaning_vi": "Thợ bảo trì đang trên đường tới."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "jī qì yì zhí bào jǐng",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“机器一直报警。”，及时核实实际情况。",
+          "meaning_vi": "Máy cứ báo động liên tục.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0011",
+          "level": "must",
+          "text": "故障灯一直亮。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先把故障情况记下来。",
+              "id": "s59_3_0011_reply01",
+              "meaning_vi": "Ghi lại tình trạng lỗi trước."
+            },
+            {
+              "text": "让维修确认故障原因。",
+              "id": "s59_3_0011_reply02",
+              "meaning_vi": "Để thợ bảo trì xác định nguyên nhân."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "gù zhàng dēng yì zhí liàng",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“故障灯一直亮。”，及时核实实际情况。",
+          "meaning_vi": "Đèn báo lỗi vẫn sáng.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0020",
+          "level": "must",
+          "text": "维修好了能直接开机吗？",
+          "when_to_use": "现场出现“维修好了能直接开机吗？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "修好后谁批准开机？",
+              "id": "s59_3_0020_alt01",
+              "meaning_vi": "Sau sửa chữa ai phê duyệt cho khởi động?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先验收确认，再按规定开机。",
+              "id": "s59_3_0020_reply01",
+              "meaning_vi": "Phải nghiệm thu và xác nhận rồi mới bật theo quy định."
+            },
+            {
+              "text": "没确认前不要重启。",
+              "id": "s59_3_0020_reply02",
+              "meaning_vi": "Chưa được xác nhận thì đừng khởi động lại."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "pinyin": "wéi xiū hǎo le néng zhí jiē kāi jī ma",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Sửa xong có được bật máy ngay không?",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0021",
+          "level": "must",
+          "text": "维修人员到了吗？",
+          "when_to_use": "现场出现“维修人员到了吗？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "维修师傅来了吗？",
+              "id": "s59_3_0021_alt01",
+              "meaning_vi": "Thợ bảo trì đã tới chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "快到了，先保持安全距离。",
+              "id": "s59_3_0021_reply01",
+              "meaning_vi": "Sắp tới rồi, giữ khoảng cách an toàn."
+            },
+            {
+              "text": "已经到了，正在检查。",
+              "id": "s59_3_0021_reply02",
+              "meaning_vi": "Đã tới, đang kiểm tra."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "pinyin": "wéi xiū rén yuán dào le ma",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Nhân viên bảo trì đến chưa?",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0022",
+          "level": "must",
+          "text": "故障发生在几点？",
+          "when_to_use": "现场出现“故障发生在几点？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "机器几点开始出问题的？",
+              "id": "s59_3_0022_alt01",
+              "meaning_vi": "Máy bắt đầu gặp sự cố từ lúc nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "上午九点左右。",
+              "id": "s59_3_0022_reply01",
+              "meaning_vi": "Khoảng chín giờ sáng."
+            },
+            {
+              "text": "我把时间记下来。",
+              "id": "s59_3_0022_reply02",
+              "meaning_vi": "Tôi ghi lại thời gian."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "pinyin": "gù zhàng fā shēng zài jǐ diǎn",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Sự cố xảy ra lúc mấy giờ?",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0012",
+          "level": "listen",
+          "text": "马上停机！",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我按应急程序处理。",
+              "id": "s59_3_0012_reply01",
+              "meaning_vi": "Tôi xử lý theo quy trình khẩn cấp."
+            },
+            {
+              "text": "已经停了，别靠近。",
+              "id": "s59_3_0012_reply02",
+              "meaning_vi": "Đã dừng rồi, đừng lại gần."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "mǎ shàng tíng jī",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“马上停机！”，及时核实实际情况。",
+          "meaning_vi": "Dừng máy ngay!",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0013",
+          "level": "listen",
+          "text": "别把手伸进去！",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我不会伸进去。",
+              "id": "s59_3_0013_reply01",
+              "meaning_vi": "Tôi sẽ không thò tay vào."
+            },
+            {
+              "text": "我去叫维修来处理。",
+              "id": "s59_3_0013_reply02",
+              "meaning_vi": "Tôi đi gọi thợ bảo trì tới xử lý."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "卡料时严禁将手伸入设备；必须按现场安全规程处理。",
+              "text_vi": "Nếu hàng/vật liệu kẹt trong máy, tuyệt đối không thò tay vào; xử lý theo quy trình an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "bié bǎ shǒu shēn jìn qù",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“别把手伸进去！”，及时核实实际情况。",
+          "meaning_vi": "Đừng thò tay vào trong!",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0014",
+          "level": "listen",
+          "text": "断电要按规定操作。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要找电工吗？",
+              "id": "s59_3_0014_reply01",
+              "meaning_vi": "Có cần gọi thợ điện không?"
+            },
+            {
+              "text": "我没授权，不会碰。",
+              "id": "s59_3_0014_reply02",
+              "meaning_vi": "Tôi chưa được cấp quyền nên sẽ không đụng vào."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "duàn diàn yào àn guī dìng cāo zuò",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“断电要按规定操作。”，及时核实实际情况。",
+          "meaning_vi": "Ngắt điện phải làm đúng quy định.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0015",
+          "level": "listen",
+          "text": "不要自己拆。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我会等维修来。",
+              "id": "s59_3_0015_reply01",
+              "meaning_vi": "Tôi đợi nhân viên bảo trì tới."
+            },
+            {
+              "text": "需要先贴故障标识吗？",
+              "id": "s59_3_0015_reply02",
+              "meaning_vi": "Có phải treo biển báo lỗi trước không?"
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "bú yào zì jǐ chāi",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“不要自己拆。”，及时核实实际情况。",
+          "meaning_vi": "Đừng tự ý tháo máy.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0016",
+          "level": "listen",
+          "text": "维修人员快到了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先离开危险区域。",
+              "id": "s59_3_0016_reply01",
+              "meaning_vi": "Tôi ra khỏi khu vực nguy hiểm trước."
+            },
+            {
+              "text": "修好后谁确认开机？",
+              "id": "s59_3_0016_reply02",
+              "meaning_vi": "Sửa xong ai xác nhận cho bật máy?"
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "wéi xiū rén yuán kuài dào le",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“维修人员快到了。”，及时核实实际情况。",
+          "meaning_vi": "Nhân viên bảo trì sắp tới.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0017",
+          "level": "listen",
+          "text": "没确认前别重启。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我会等维修确认。",
+              "id": "s59_3_0017_reply01",
+              "meaning_vi": "Tôi đợi bên bảo trì xác nhận."
+            },
+            {
+              "text": "需要挂警示牌吗？",
+              "id": "s59_3_0017_reply02",
+              "meaning_vi": "Có cần treo biển cảnh báo không?"
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "méi què rèn qián bié chóng qǐ",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“没确认前别重启。”，及时核实实际情况。",
+          "meaning_vi": "Chưa xác nhận thì đừng khởi động lại.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0018",
+          "level": "listen",
+          "text": "先把故障告诉主管。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我现在就去报告。",
+              "id": "s59_3_0018_reply01",
+              "meaning_vi": "Tôi đi báo ngay."
+            },
+            {
+              "text": "要把报警时间也记上吗？",
+              "id": "s59_3_0018_reply02",
+              "meaning_vi": "Có phải ghi lại cả giờ máy báo lỗi không?"
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "xiān bǎ gù zhàng gào su zhǔ guǎn",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“先把故障告诉主管。”，及时核实实际情况。",
+          "meaning_vi": "Báo sự cố cho quản lý trước.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        },
+        {
+          "id": "s59_3_0019",
+          "level": "listen",
+          "text": "别绕过安全装置。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我不会拆防护罩。",
+              "id": "s59_3_0019_reply01",
+              "meaning_vi": "Tôi sẽ không tháo tấm chắn bảo vệ."
+            },
+            {
+              "text": "发现损坏就报告。",
+              "id": "s59_3_0019_reply02",
+              "meaning_vi": "Thấy thiết bị hỏng là báo ngay."
+            }
+          ],
+          "lesson_id": "59.3",
+          "lesson_title": "59.3 机器故障与维修",
+          "mistakes": [
+            {
+              "text": "普通停机与紧急停止不同，维修、隔离能源和重新启动都要按现场规程由授权人员确认。",
+              "text_vi": "Dừng máy thường khác dừng khẩn cấp; sửa chữa, cô lập nguồn năng lượng và khởi động lại phải theo quy trình an toàn và người được cấp quyền."
+            }
+          ],
+          "pinyin": "bié rào guò ān quán zhuāng zhì",
+          "when_to_use": "在车间机器故障报告、停机和维修沟通时，听到或说出“别绕过安全装置。”，及时核实实际情况。",
+          "meaning_vi": "Đừng vô hiệu hóa thiết bị an toàn.",
+          "lesson_title_vi": "59.3 Sự cố máy móc và báo bảo trì"
+        }
+      ],
+      "title_vi": "59.3 Sự cố máy móc và báo bảo trì",
+      "opening_vi": "Luyện báo máy dừng, kẹt, có tiếng lạ, cảnh báo lỗi và liên hệ người có quyền sửa chữa; không thò tay vào máy hoặc tự ý khởi động lại.",
+      "subtitle_vi": "22 câu giao tiếp"
+    },
+    {
+      "id": "59.4",
+      "title": "59.4 安全防护与工伤",
+      "phrases": [
+        {
+          "id": "s59_4_0001",
+          "level": "must",
+          "text": "要戴手套吗？",
+          "alternatives": [
+            {
+              "text": "这个要戴手套吗？",
+              "id": "s59_4_0001_alt01",
+              "meaning_vi": "Việc này cần đeo găng tay à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按这个岗位的要求戴。",
+              "id": "s59_4_0001_reply01",
+              "meaning_vi": "Đeo theo yêu cầu của vị trí này."
+            },
+            {
+              "text": "先问安全员用哪种手套。",
+              "id": "s59_4_0001_reply02",
+              "meaning_vi": "Hỏi nhân viên an toàn dùng loại găng nào trước."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "手套并非所有设备都适用；尤其旋转设备须遵守岗位PPE要求。",
+              "text_vi": "Găng tay không phù hợp với mọi máy; đặc biệt khi gần bộ phận quay phải theo yêu cầu bảo hộ riêng của vị trí làm việc."
+            }
+          ],
+          "pinyin": "yào dài shǒu tào ma",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“要戴手套吗？”，及时核实实际情况。",
+          "meaning_vi": "Có cần đeo găng tay không?",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0002",
+          "level": "must",
+          "text": "安全帽在哪儿领？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "去劳保用品室领。",
+              "id": "s59_4_0002_reply01",
+              "meaning_vi": "Đến phòng cấp đồ bảo hộ."
+            },
+            {
+              "text": "仓库管理员会发。",
+              "id": "s59_4_0002_reply02",
+              "meaning_vi": "Thủ kho sẽ phát."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "ān quán mào zài nǎr lǐng",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“安全帽在哪儿领？”，及时核实实际情况。",
+          "meaning_vi": "Nhận mũ bảo hộ ở đâu?",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0003",
+          "level": "must",
+          "text": "这里很滑。",
+          "alternatives": [
+            {
+              "text": "地上很滑。",
+              "id": "s59_4_0003_alt01",
+              "meaning_vi": "Sàn nhà trơn quá."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先提醒大家别走这里。",
+              "id": "s59_4_0003_reply01",
+              "meaning_vi": "Nhắc mọi người đừng đi lối này trước."
+            },
+            {
+              "text": "我去叫人处理地面。",
+              "id": "s59_4_0003_reply02",
+              "meaning_vi": "Tôi gọi người xử lý sàn nhà."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "zhè lǐ hěn huá",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“这里很滑。”，及时核实实际情况。",
+          "meaning_vi": "Chỗ này trơn quá.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0004",
+          "level": "must",
+          "text": "小心，很烫！",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我不碰它。",
+              "id": "s59_4_0004_reply01",
+              "meaning_vi": "Tôi sẽ không chạm vào."
+            },
+            {
+              "text": "要把这里围起来吗？",
+              "id": "s59_4_0004_reply02",
+              "meaning_vi": "Có cần rào chỗ này lại không?"
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "xiǎo xīn hěn tàng",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“小心，很烫！”，及时核实实际情况。",
+          "meaning_vi": "Cẩn thận, nóng lắm!",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0005",
+          "level": "must",
+          "text": "我手受伤了。",
+          "alternatives": [
+            {
+              "text": "我的手受伤了。",
+              "id": "s59_4_0005_alt01",
+              "meaning_vi": "Tôi bị thương ở tay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别工作，我叫人帮忙。",
+              "id": "s59_4_0005_reply01",
+              "meaning_vi": "Ngừng làm việc trước, tôi gọi người giúp."
+            },
+            {
+              "text": "我帮你联系急救人员。",
+              "id": "s59_4_0005_reply02",
+              "meaning_vi": "Tôi liên hệ nhân viên cấp cứu giúp bạn."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ shǒu shòu shāng le",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“我手受伤了。”，及时核实实际情况。",
+          "meaning_vi": "Tay tôi bị thương rồi.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0006",
+          "level": "must",
+          "text": "有人摔倒了！",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "快叫急救人员！",
+              "id": "s59_4_0006_reply01",
+              "meaning_vi": "Mau gọi người cấp cứu!"
+            },
+            {
+              "text": "别随便扶动，先看现场安全。",
+              "id": "s59_4_0006_reply02",
+              "meaning_vi": "Đừng tùy tiện di chuyển, kiểm tra an toàn hiện trường trước."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "跌倒者如疑似严重受伤，先呼救并避免随意搬动。",
+              "text_vi": "Nếu người ngã có dấu hiệu bị thương nặng, gọi trợ giúp ngay và tránh tùy tiện di chuyển họ."
+            }
+          ],
+          "pinyin": "yǒu rén shuāi dǎo le",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“有人摔倒了！”，及时核实实际情况。",
+          "meaning_vi": "Có người ngã rồi!",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0007",
+          "level": "must",
+          "text": "我要报告主管。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我跟你一起去。",
+              "id": "s59_4_0007_reply01",
+              "meaning_vi": "Tôi đi cùng bạn."
+            },
+            {
+              "text": "把受伤时间也说清楚。",
+              "id": "s59_4_0007_reply02",
+              "meaning_vi": "Nói rõ cả thời điểm bị thương nhé."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ yào bào gào zhǔ guǎn",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“我要报告主管。”，及时核实实际情况。",
+          "meaning_vi": "Tôi phải báo quản lý.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0008",
+          "level": "must",
+          "text": "需要去医院吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "伤得重就马上求医。",
+              "id": "s59_4_0008_reply01",
+              "meaning_vi": "Nếu bị thương nặng, cần đi cấp cứu ngay."
+            },
+            {
+              "text": "让医护人员判断。",
+              "id": "s59_4_0008_reply02",
+              "meaning_vi": "Để nhân viên y tế đánh giá."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "xū yào qù yī yuàn ma",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“需要去医院吗？”，及时核实实际情况。",
+          "meaning_vi": "Có cần đến bệnh viện không?",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0009",
+          "level": "must",
+          "text": "护目镜在哪儿领？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "去劳保用品室领。",
+              "id": "s59_4_0009_reply01",
+              "meaning_vi": "Đến phòng cấp đồ bảo hộ."
+            },
+            {
+              "text": "我带你去找安全员。",
+              "id": "s59_4_0009_reply02",
+              "meaning_vi": "Tôi dẫn bạn tìm nhân viên an toàn."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "hù mù jìng zài nǎr lǐng",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“护目镜在哪儿领？”，及时核实实际情况。",
+          "meaning_vi": "Nhận kính bảo hộ ở đâu?",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0010",
+          "level": "must",
+          "text": "急停按钮在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "让受训人员现场指给你。",
+              "id": "s59_4_0010_reply01",
+              "meaning_vi": "Nhờ người đã được đào tạo chỉ trực tiếp."
+            },
+            {
+              "text": "培训时要确认位置。",
+              "id": "s59_4_0010_reply02",
+              "meaning_vi": "Phải xác nhận vị trí trong buổi đào tạo."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "jí tíng àn niǔ zài nǎr",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“急停按钮在哪儿？”，及时核实实际情况。",
+          "meaning_vi": "Nút dừng khẩn cấp ở đâu?",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0011",
+          "level": "must",
+          "text": "我手流血了。",
+          "alternatives": [
+            {
+              "text": "手上出血了。",
+              "id": "s59_4_0011_alt01",
+              "meaning_vi": "Tay tôi bị chảy máu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "别再干活，马上求助。",
+              "id": "s59_4_0011_reply01",
+              "meaning_vi": "Đừng làm tiếp, mau nhờ trợ giúp."
+            },
+            {
+              "text": "我去叫急救人员。",
+              "id": "s59_4_0011_reply02",
+              "meaning_vi": "Tôi đi gọi người cấp cứu."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ shǒu liú xuè le",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“我手流血了。”，及时核实实际情况。",
+          "meaning_vi": "Tay tôi đang chảy máu.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0020",
+          "level": "must",
+          "text": "有人受伤了，快叫救护车！",
+          "when_to_use": "现场出现“有人受伤了，快叫救护车！”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "快打急救电话！",
+              "id": "s59_4_0020_alt01",
+              "meaning_vi": "Mau gọi số cấp cứu!"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我马上打急救电话。",
+              "id": "s59_4_0020_reply01",
+              "meaning_vi": "Tôi gọi cấp cứu ngay."
+            },
+            {
+              "text": "我去通知现场负责人。",
+              "id": "s59_4_0020_reply02",
+              "meaning_vi": "Tôi báo người phụ trách tại hiện trường."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "pinyin": "yǒu rén shòu shāng le kuài jiào jiù hù chē",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Có người bị thương, mau gọi xe cấp cứu!",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0021",
+          "level": "must",
+          "text": "先别碰，可能有电。",
+          "when_to_use": "现场出现“先别碰，可能有电。”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "小心，可能漏电。",
+              "id": "s59_4_0021_alt01",
+              "meaning_vi": "Cẩn thận, có thể rò điện."
+            }
+          ],
+          "replies": [
+            {
+              "text": "大家先远离。",
+              "id": "s59_4_0021_reply01",
+              "meaning_vi": "Mọi người tránh xa trước."
+            },
+            {
+              "text": "马上通知电工和安全员。",
+              "id": "s59_4_0021_reply02",
+              "meaning_vi": "Báo ngay thợ điện và nhân viên an toàn."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "pinyin": "xiān bié pèng kě néng yǒu diàn",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Đừng chạm vào, có thể đang có điện.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0022",
+          "level": "must",
+          "text": "事故发生在哪里？",
+          "when_to_use": "现场出现“事故发生在哪里？”对应的质检、维修或安全情况时，及时说明并请负责人核实。",
+          "alternatives": [
+            {
+              "text": "出事地点在哪儿？",
+              "id": "s59_4_0022_alt01",
+              "meaning_vi": "Chỗ xảy ra sự cố ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "三号车间东门旁边。",
+              "id": "s59_4_0022_reply01",
+              "meaning_vi": "Cạnh cổng đông phân xưởng số ba."
+            },
+            {
+              "text": "我把具体位置告诉救援人员。",
+              "id": "s59_4_0022_reply02",
+              "meaning_vi": "Tôi báo vị trí cụ thể cho người cứu hộ."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "pinyin": "shì gù fā shēng zài nǎ lǐ",
+          "mistakes": [
+            {
+              "text": "这是沟通句型；安全事故首先确保现场安全并及时求救。质量与机器处置要依据现场规程及授权人员决定，不凭口语示例自行操作。",
+              "text_vi": "Đây là câu luyện giao tiếp; khi tai nạn ưu tiên an toàn và cầu cứu. Kiểm định hay vận hành máy phải theo quy trình hiện trường và người có thẩm quyền."
+            }
+          ],
+          "meaning_vi": "Tai nạn xảy ra ở đâu?",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0012",
+          "level": "listen",
+          "text": "必须戴护目镜。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我的护目镜坏了。",
+              "id": "s59_4_0012_reply01",
+              "meaning_vi": "Kính của tôi bị hỏng rồi."
+            },
+            {
+              "text": "合适的护目镜在哪领？",
+              "id": "s59_4_0012_reply02",
+              "meaning_vi": "Nhận kính phù hợp ở đâu?"
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "bì xū dài hù mù jìng",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“必须戴护目镜。”，及时核实实际情况。",
+          "meaning_vi": "Bắt buộc đeo kính bảo hộ.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0013",
+          "level": "listen",
+          "text": "这里禁止进入。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我在外面等。",
+              "id": "s59_4_0013_reply01",
+              "meaning_vi": "Tôi đợi ngoài."
+            },
+            {
+              "text": "谁能批准进入？",
+              "id": "s59_4_0013_reply02",
+              "meaning_vi": "Ai được quyền cho vào?"
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "zhè lǐ jìn zhǐ jìn rù",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“这里禁止进入。”，及时核实实际情况。",
+          "meaning_vi": "Khu này cấm vào.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0014",
+          "level": "listen",
+          "text": "马上停下来！",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我已经停下了。",
+              "id": "s59_4_0014_reply01",
+              "meaning_vi": "Tôi dừng lại rồi."
+            },
+            {
+              "text": "有危险，我先撤开。",
+              "id": "s59_4_0014_reply02",
+              "meaning_vi": "Có nguy hiểm, tôi rời ra trước."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "mǎ shàng tíng xià lái",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“马上停下来！”，及时核实实际情况。",
+          "meaning_vi": "Dừng ngay!",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0015",
+          "level": "listen",
+          "text": "先去安全的地方。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我能自己走。",
+              "id": "s59_4_0015_reply01",
+              "meaning_vi": "Tôi còn tự đi được."
+            },
+            {
+              "text": "有人受伤，快来帮忙！",
+              "id": "s59_4_0015_reply02",
+              "meaning_vi": "Có người bị thương, mau đến giúp!"
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "xiān qù ān quán de dì fāng",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“先去安全的地方。”，及时核实实际情况。",
+          "meaning_vi": "Đến chỗ an toàn trước.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0016",
+          "level": "listen",
+          "text": "不要继续工作。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先停下等检查。",
+              "id": "s59_4_0016_reply01",
+              "meaning_vi": "Tôi dừng và chờ kiểm tra."
+            },
+            {
+              "text": "需要马上报告谁？",
+              "id": "s59_4_0016_reply02",
+              "meaning_vi": "Phải báo ai ngay?"
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "bú yào jì xù gōng zuò",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“不要继续工作。”，及时核实实际情况。",
+          "meaning_vi": "Đừng tiếp tục làm việc.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0017",
+          "level": "listen",
+          "text": "报告安全员。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "他现在在哪儿？",
+              "id": "s59_4_0017_reply01",
+              "meaning_vi": "Bây giờ anh ấy ở đâu?"
+            },
+            {
+              "text": "我马上联系他。",
+              "id": "s59_4_0017_reply02",
+              "meaning_vi": "Tôi liên hệ anh ấy ngay."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "bào gào ān quán yuán",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“报告安全员。”，及时核实实际情况。",
+          "meaning_vi": "Báo nhân viên an toàn.",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0018",
+          "level": "listen",
+          "text": "快停机！",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我按应急程序处理。",
+              "id": "s59_4_0018_reply01",
+              "meaning_vi": "Tôi làm theo quy trình khẩn cấp."
+            },
+            {
+              "text": "大家先远离机器！",
+              "id": "s59_4_0018_reply02",
+              "meaning_vi": "Mọi người tránh xa máy trước!"
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "kuài tíng jī",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“快停机！”，及时核实实际情况。",
+          "meaning_vi": "Mau dừng máy!",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        },
+        {
+          "id": "s59_4_0019",
+          "level": "listen",
+          "text": "离机器远一点！",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我马上退后。",
+              "id": "s59_4_0019_reply01",
+              "meaning_vi": "Tôi lùi ra ngay."
+            },
+            {
+              "text": "我提醒其他人别靠近。",
+              "id": "s59_4_0019_reply02",
+              "meaning_vi": "Tôi nhắc mọi người không đến gần."
+            }
+          ],
+          "lesson_id": "59.4",
+          "lesson_title": "59.4 安全防护与工伤",
+          "mistakes": [
+            {
+              "text": "有触电、火灾或严重伤情时先避免二次伤害、及时呼叫急救；不得冒险靠近危险机器。",
+              "text_vi": "Khi có điện giật, cháy hoặc thương tích nặng, ưu tiên tránh nguy hiểm tiếp diễn và gọi cấp cứu; không liều tới gần máy đang nguy hiểm."
+            }
+          ],
+          "pinyin": "lí jī qì yuǎn yì diǎn",
+          "when_to_use": "在车间个人防护、危险警告和工伤求助时，听到或说出“离机器远一点！”，及时核实实际情况。",
+          "meaning_vi": "Đứng xa máy ra một chút!",
+          "lesson_title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động"
+        }
+      ],
+      "title_vi": "59.4 Bảo hộ an toàn và tai nạn lao động",
+      "opening_vi": "Luyện hỏi đồ bảo hộ, cảnh báo trơn trượt/nóng/điện, báo người bị thương và gọi trợ giúp. Ưu tiên tránh nguy hiểm và tuân thủ quy trình cấp cứu.",
+      "subtitle_vi": "22 câu giao tiếp"
+    }
+  ],
+  "theme_title_vi": "59 Sản xuất và kiểm tra chất lượng",
+  "card_count": 88,
+  "lesson_counts": [
+    22,
+    22,
+    22,
+    22
+  ]
+}
