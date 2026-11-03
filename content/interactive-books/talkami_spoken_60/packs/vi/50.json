@@ -1,0 +1,4112 @@
+{
+  "theme_id": "50",
+  "version": 1,
+  "updated_at": "2026-11-03T02:52:03.417Z",
+  "theme_title": "50 证件签证办事",
+  "quality_standard": "All 127 main, 34 alternative, 254 reply and 127 Mandarin-specific learning notes are now translated into Vietnamese. Original Chinese, pinyin, IDs and ordering intact. High-risk Chinese visa/work permit statements checked with NIA and official work-permit guides; native-editor and app/audio verification still pending.",
+  "source_phrase_count": 127,
+  "lessons": [
+    {
+      "id": "50.1",
+      "title": "50.1 办理地点材料",
+      "phrases": [
+        {
+          "id": "s50_1_0001",
+          "level": "must",
+          "text": "这个在哪儿办？",
+          "alternatives": [
+            {
+              "text": "去哪里办理？",
+              "id": "s50_1_0001_alt01",
+              "meaning_vi": "Đi đâu làm thủ tục?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "去三号窗口办。",
+              "id": "s50_1_0001_reply01",
+              "meaning_vi": "Làm ở quầy số ba."
+            },
+            {
+              "text": "要去服务大厅。",
+              "id": "s50_1_0001_reply02",
+              "meaning_vi": "Phải đến trung tâm dịch vụ hành chính."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“办”在此是办理手续，不是制作东西；不同证件由不同部门受理，先说清要办什么。",
+              "text_vi": "“办” ở đây là làm thủ tục, không phải làm ra đồ vật; phải nói rõ loại giấy tờ vì các cơ quan tiếp nhận khác nhau."
+            }
+          ],
+          "pinyin": "zhè ge zài nǎr bàn",
+          "when_to_use": "到政务大厅但不知道办证窗口在哪儿，先向服务台问具体办理地点。",
+          "meaning_vi": "Thủ tục này làm ở đâu?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0002",
+          "level": "must",
+          "text": "要带什么材料？",
+          "alternatives": [
+            {
+              "text": "要准备哪些材料？",
+              "id": "s50_1_0002_alt01",
+              "meaning_vi": "Cần chuẩn bị hồ sơ gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先带护照和照片。",
+              "id": "s50_1_0002_reply01",
+              "meaning_vi": "Trước tiên mang hộ chiếu và ảnh."
+            },
+            {
+              "text": "您先看这份清单。",
+              "id": "s50_1_0002_reply02",
+              "meaning_vi": "Anh/chị xem danh sách này trước."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“材料”在办事语境里指申请表、证件和证明文件，并非建筑材料；清单应按实际业务核对。",
+              "text_vi": "“材料” trong hành chính là biểu mẫu, giấy tờ và chứng nhận, không phải vật liệu xây dựng; đối chiếu danh sách đúng loại hồ sơ."
+            }
+          ],
+          "pinyin": "yào dài shén me cái liào",
+          "when_to_use": "准备办理居留或证件变更，向工作人员询问需要带哪些材料。",
+          "meaning_vi": "Phải mang những giấy tờ gì?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0003",
+          "level": "must",
+          "text": "要带原件吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，带原件核对。",
+              "id": "s50_1_0003_reply01",
+              "meaning_vi": "Có, mang bản gốc để đối chiếu."
+            },
+            {
+              "text": "这项只要复印件。",
+              "id": "s50_1_0003_reply02",
+              "meaning_vi": "Mục này chỉ cần bản sao."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“原件”是真实签发的证件本身，“复印件”是复制页；是否由机关留存护照要看业务和回执安排。",
+              "text_vi": "“原件” là giấy tờ gốc được cấp, “复印件” là bản sao; cơ quan có giữ hộ chiếu gốc không phụ thuộc thủ tục và giấy hẹn."
+            }
+          ],
+          "pinyin": "yào dài yuán jiàn ma",
+          "when_to_use": "窗口要求提交护照材料，你想确认要原本还是只需复印件。",
+          "meaning_vi": "Có cần mang bản gốc không?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0004",
+          "level": "must",
+          "text": "还要复印件吗？",
+          "alternatives": [
+            {
+              "text": "要带复印件吗？",
+              "id": "s50_1_0004_alt01",
+              "meaning_vi": "Phải mang bản photocopy không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，复印一份。",
+              "id": "s50_1_0004_reply01",
+              "meaning_vi": "Cần, photocopy một bản."
+            },
+            {
+              "text": "不用，原件就行。",
+              "id": "s50_1_0004_reply02",
+              "meaning_vi": "Không cần, bản gốc là đủ."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "复印件不能在所有场景替代原件；多页材料要问清需要复印哪几页和几份。",
+              "text_vi": "Bản photocopy không luôn thay được bản gốc; hỏi rõ cần trang nào và bao nhiêu bản."
+            }
+          ],
+          "pinyin": "hái yào fù yìn jiàn ma",
+          "when_to_use": "已经带来护照原件，担心还缺复印件，向窗口核实。",
+          "meaning_vi": "Còn cần bản photocopy không?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0005",
+          "level": "must",
+          "text": "照片有什么要求？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要白底的照片。",
+              "id": "s50_1_0005_reply01",
+              "meaning_vi": "Cần ảnh nền trắng."
+            },
+            {
+              "text": "按清单上的要求拍。",
+              "id": "s50_1_0005_reply02",
+              "meaning_vi": "Chụp theo yêu cầu trong danh sách."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“白底”是白色背景，不等于所有证件照都需白底；应核对尺寸、背景和近期拍摄要求。",
+              "text_vi": "“白底” là ảnh nền trắng, không phải mọi giấy tờ đều cần nền trắng; hỏi kích thước, màu nền và thời điểm chụp."
+            }
+          ],
+          "pinyin": "zhào piàn yǒu shén me yāo qiú",
+          "when_to_use": "办理证件照时，不知道窗口要求什么尺寸和背景颜色，向工作人员咨询。",
+          "meaning_vi": "Ảnh thẻ có yêu cầu gì?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0006",
+          "level": "must",
+          "text": "我去哪个窗口？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "去三号窗口。",
+              "id": "s50_1_0006_reply01",
+              "meaning_vi": "Đến quầy số ba."
+            },
+            {
+              "text": "先去咨询台问问。",
+              "id": "s50_1_0006_reply02",
+              "meaning_vi": "Hỏi quầy tư vấn trước."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“窗口”在政务大厅指服务柜台，不是建筑物上的窗户；号码以当天现场指示为准。",
+              "text_vi": "“窗口” trong trung tâm hành chính là quầy phục vụ, không phải cửa sổ tòa nhà; xem số quầy tại chỗ."
+            }
+          ],
+          "pinyin": "wǒ qù nǎ ge chuāng kǒu",
+          "when_to_use": "到服务大厅拿着申请材料，想知道应该排哪一个窗口。",
+          "meaning_vi": "Tôi tới quầy nào?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0007",
+          "level": "must",
+          "text": "几点到几点办理？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "上午九点到十二点。",
+              "id": "s50_1_0007_reply01",
+              "meaning_vi": "Từ chín giờ sáng đến mười hai giờ trưa."
+            },
+            {
+              "text": "下午两点到五点。",
+              "id": "s50_1_0007_reply02",
+              "meaning_vi": "Chiều từ hai giờ đến năm giờ."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“几点到几点”问业务受理时段，并不保证关门前最后一分钟仍能取号；不同城市和节假日可能有差异。",
+              "text_vi": "“几点到几点” hỏi giờ nhận hồ sơ, không bảo đảm phút cuối vẫn lấy số được; tùy địa phương và ngày nghỉ."
+            }
+          ],
+          "pinyin": "jǐ diǎn dào jǐ diǎn bàn lǐ",
+          "when_to_use": "怕下班前赶不到窗口，想知道办事服务的开始和结束时间。",
+          "meaning_vi": "Làm thủ tục từ mấy giờ đến mấy giờ?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0008",
+          "level": "must",
+          "text": "材料要翻译吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这份需要翻译。",
+              "id": "s50_1_0008_reply01",
+              "meaning_vi": "Tài liệu này cần dịch."
+            },
+            {
+              "text": "这份不用翻译。",
+              "id": "s50_1_0008_reply02",
+              "meaning_vi": "Tài liệu này không cần dịch."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“翻译”可能还涉及指定翻译机构、盖章或认证，并非自己翻译一定被接受；先向受理部门核实。",
+              "text_vi": "“翻译” đôi khi phải qua đơn vị được chấp nhận, đóng dấu hoặc chứng thực; không mặc định bản tự dịch được nhận."
+            }
+          ],
+          "pinyin": "cái liào yào fān yì ma",
+          "when_to_use": "持缅文证明到中国办理手续，想确认是否要提供中文翻译。",
+          "meaning_vi": "Hồ sơ có phải dịch không?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0009",
+          "level": "must",
+          "text": "可以现场办吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，先取号。",
+              "id": "s50_1_0009_reply01",
+              "meaning_vi": "Được, lấy số trước."
+            },
+            {
+              "text": "要先预约才能办。",
+              "id": "s50_1_0009_reply02",
+              "meaning_vi": "Phải đặt lịch trước mới làm được."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“现场办”是到办事场所办理，不表示当天一定完成审批；预约、受理和领证是不同步骤。",
+              "text_vi": "“现场办” là đến trực tiếp nộp, không chắc được duyệt trong ngày; đặt lịch, tiếp nhận và trả kết quả là ba bước."
+            }
+          ],
+          "pinyin": "kě yǐ xiàn chǎng bàn ma",
+          "when_to_use": "到了大厅想直接办理，却不确定需要提前预约还是能当场取号。",
+          "meaning_vi": "Có thể đến trực tiếp làm không?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0010",
+          "level": "must",
+          "text": "我想复印证件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "一楼可以复印。",
+              "id": "s50_1_0010_reply01",
+              "meaning_vi": "Có thể photocopy ở tầng một."
+            },
+            {
+              "text": "旁边有复印店。",
+              "id": "s50_1_0010_reply02",
+              "meaning_vi": "Bên cạnh có tiệm photocopy."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“复印”是复制文件页面，和拍照上传不完全相同；中国办公楼的“一楼”通常指地面层。",
+              "text_vi": "“复印” là sao chụp giấy tờ, khác chụp ảnh tải lên; ở Trung Quốc “一楼” thường là tầng mặt đất."
+            }
+          ],
+          "pinyin": "wǒ xiǎng fù yìn zhèng jiàn",
+          "when_to_use": "窗口说需要护照复印件，你问附近有没有复印设备或复印店。",
+          "meaning_vi": "Tôi muốn photocopy giấy tờ.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0011",
+          "level": "must",
+          "text": "少一份能先办吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不行，要先补齐。",
+              "id": "s50_1_0011_reply01",
+              "meaning_vi": "Không, phải bổ sung đủ trước."
+            },
+            {
+              "text": "可以先登记，之后补。",
+              "id": "s50_1_0011_reply02",
+              "meaning_vi": "Có thể đăng ký trước, bổ sung sau."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“先办”不等于缺材料也已正式受理；一些业务可先咨询或预审，具体何时进入受理以窗口确认。",
+              "text_vi": "“先办” không có nghĩa hồ sơ thiếu vẫn được chính thức nhận; có thể chỉ được tư vấn hay xem trước."
+            }
+          ],
+          "pinyin": "shǎo yí fèn néng xiān bàn ma",
+          "when_to_use": "已经交齐多数文件，但少了一份证明，想问能不能先开始办理。",
+          "meaning_vi": "Thiếu một giấy tờ có thể làm trước không?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0020",
+          "level": "must",
+          "text": "能给我一份材料清单吗？",
+          "when_to_use": "办居留或证件变更前，想拿到官方材料清单逐项准备。",
+          "alternatives": [
+            {
+              "text": "有办理材料清单吗？",
+              "id": "s50_1_0020_alt01",
+              "meaning_vi": "Có danh sách giấy tờ cần chuẩn bị không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，我给你打印一份。",
+              "id": "s50_1_0020_reply01",
+              "meaning_vi": "Có, tôi in một bản cho bạn."
+            },
+            {
+              "text": "可以在官方网页下载。",
+              "id": "s50_1_0020_reply02",
+              "meaning_vi": "Có thể tải từ trang web chính thức."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“材料清单”是办理业务所需文件列表，不是已审批通过的证明；以该业务最新官方要求为准。",
+              "text_vi": "“材料清单” là danh sách giấy tờ cần chuẩn bị, không phải giấy chứng nhận đã duyệt; phải kiểm tra bản cập nhật chính thức."
+            }
+          ],
+          "pinyin": "néng gěi wǒ yí fèn cái liào qīng dān ma",
+          "meaning_vi": "Cho tôi xin một danh sách hồ sơ được không?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0021",
+          "level": "must",
+          "text": "照片能在这儿拍吗？",
+          "when_to_use": "到证件办理大厅才发现没带符合要求的照片，问现场是否能拍。",
+          "alternatives": [
+            {
+              "text": "这里有拍证件照的地方吗？",
+              "id": "s50_1_0021_alt01",
+              "meaning_vi": "Ở đây có chỗ chụp ảnh thẻ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，旁边就能拍。",
+              "id": "s50_1_0021_reply01",
+              "meaning_vi": "Có, ngay bên cạnh."
+            },
+            {
+              "text": "这里不能拍，门口有照相馆。",
+              "id": "s50_1_0021_reply02",
+              "meaning_vi": "Ở đây không chụp được, ngoài cửa có tiệm ảnh."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“这里拍”指现场拍照服务，并非所有大厅都提供；尺寸、背景色及费用要核实。",
+              "text_vi": "Chụp tại nơi làm thủ tục là dịch vụ có thể có hoặc không; hỏi kích cỡ, nền, phí."
+            }
+          ],
+          "pinyin": "zhào piàn néng zài zhèr pāi ma",
+          "meaning_vi": "Có thể chụp ảnh thẻ tại đây không?",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0012",
+          "level": "listen",
+          "text": "需要护照原件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我带来了。",
+              "id": "s50_1_0012_reply01",
+              "meaning_vi": "Được, tôi mang rồi."
+            },
+            {
+              "text": "原件给您看一下。",
+              "id": "s50_1_0012_reply02",
+              "meaning_vi": "Tôi đưa anh/chị xem bản gốc nhé."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“有效护照”一般指尚在有效期内的真实护照，不是过期护照或照片；原件是否需要暂存另询。",
+              "text_vi": "Hộ chiếu hợp lệ thường phải còn thời hạn và là bản thật, không dùng ảnh chụp hộ chiếu thay; hỏi quy định giữ bản gốc."
+            }
+          ],
+          "pinyin": "xū yào hù zhào yuán jiàn",
+          "when_to_use": "办理签证或居留业务，窗口要求出示有效护照原件。",
+          "meaning_vi": "Cần hộ chiếu bản gốc.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0013",
+          "level": "listen",
+          "text": "带一张照片。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我带了一张。",
+              "id": "s50_1_0013_reply01",
+              "meaning_vi": "Được, tôi mang một tấm rồi."
+            },
+            {
+              "text": "要什么底色的？",
+              "id": "s50_1_0013_reply02",
+              "meaning_vi": "Cần ảnh nền màu gì?"
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“一张照片”是数量，不表示任何尺寸都能用；按要求准备近期证件照。",
+              "text_vi": "“Một ảnh” chỉ số lượng, không có nghĩa ảnh bất kỳ kích cỡ nào cũng được; theo chuẩn ảnh thẻ."
+            }
+          ],
+          "pinyin": "dài yì zhāng zhào piàn",
+          "when_to_use": "窗口提醒还要交一张照片，来办事的人追问照片背景。",
+          "meaning_vi": "Mang theo một ảnh thẻ.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0014",
+          "level": "listen",
+          "text": "先去复印一份。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "复印店在哪儿？",
+              "id": "s50_1_0014_reply01",
+              "meaning_vi": "Tiệm photocopy ở đâu?"
+            },
+            {
+              "text": "好，我现在去。",
+              "id": "s50_1_0014_reply02",
+              "meaning_vi": "Được, tôi đi ngay."
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“一份”是一套或一张所需材料，取决于文件具体内容，最好问清复印页码。",
+              "text_vi": "“一份” có thể là một tờ hay một bộ, tùy hồ sơ; hỏi rõ phải photocopy những trang nào."
+            }
+          ],
+          "pinyin": "xiān qù fù yìn yí fèn",
+          "when_to_use": "工作人员核对材料时发现还需要一份复印件，请申请人先复印。",
+          "meaning_vi": "Trước tiên đi photocopy một bản.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0015",
+          "level": "listen",
+          "text": "去三号窗口。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我这就去。",
+              "id": "s50_1_0015_reply01",
+              "meaning_vi": "Được, tôi đến ngay."
+            },
+            {
+              "text": "三号窗口在哪边？",
+              "id": "s50_1_0015_reply02",
+              "meaning_vi": "Quầy số ba ở phía nào?"
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“三号窗口”是窗口编号3，不是三楼；要区分“号”和“楼”。",
+              "text_vi": "“三号窗口” là quầy số 3, không phải tầng ba; phân biệt “号” và “楼”."
+            }
+          ],
+          "pinyin": "qù sān hào chuāng kǒu",
+          "when_to_use": "服务台告诉申请人三号窗口受理，申请人准备走过去。",
+          "meaning_vi": "Đến quầy số ba.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0016",
+          "level": "listen",
+          "text": "还差一份材料。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还差哪一份？",
+              "id": "s50_1_0016_reply01",
+              "meaning_vi": "Thiếu giấy tờ nào?"
+            },
+            {
+              "text": "我明天补来行吗？",
+              "id": "s50_1_0016_reply02",
+              "meaning_vi": "Ngày mai tôi bổ sung được không?"
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“差一份材料”是缺少而不是材料有误，补交前问清材料名称和是否要原件。",
+              "text_vi": "“差一份材料” là thiếu hồ sơ, khác với hồ sơ có nội dung sai; hỏi tên giấy tờ và có thể bổ sung sau không."
+            }
+          ],
+          "pinyin": "hái chà yí fèn cái liào",
+          "when_to_use": "办事材料审查时发现还有一份证明没交，向柜员问还缺哪份。",
+          "meaning_vi": "Còn thiếu một giấy tờ.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0017",
+          "level": "listen",
+          "text": "核对后退还原件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等一下拿。",
+              "id": "s50_1_0017_reply01",
+              "meaning_vi": "Được, tôi chờ nhận lại."
+            },
+            {
+              "text": "什么时候还给我？",
+              "id": "s50_1_0017_reply02",
+              "meaning_vi": "Bao giờ trả lại cho tôi?"
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“退还原件”是返还交给窗口的原件，不代表审批已完成；若业务依法收存护照，应领取并保管受理回执。",
+              "text_vi": "“退还原件” là trả giấy tờ gốc, không chứng tỏ đã duyệt; nếu hộ chiếu được giữ theo luật, phải nhận giấy biên nhận."
+            }
+          ],
+          "pinyin": "hé duì hòu tuì hái yuán jiàn",
+          "when_to_use": "把护照交给柜员核对，对方说明核对后会退还护照原件。",
+          "meaning_vi": "Đối chiếu xong sẽ trả lại bản gốc.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0018",
+          "level": "listen",
+          "text": "这个业务要预约。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在哪里预约？",
+              "id": "s50_1_0018_reply01",
+              "meaning_vi": "Đặt lịch ở đâu?"
+            },
+            {
+              "text": "可以网上约吗？",
+              "id": "s50_1_0018_reply02",
+              "meaning_vi": "Có đặt trực tuyến được không?"
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“预约”是预先约定办理时间，不等于申请已获批准；改预约时间需按办理系统规则。",
+              "text_vi": "“预约” là hẹn thời gian làm thủ tục, không phải hồ sơ đã được phê duyệt; đổi lịch theo hệ thống."
+            }
+          ],
+          "pinyin": "zhè ge yè wù yào yù yuē",
+          "when_to_use": "未预约直接到窗口，工作人员告知这类业务要事先预约。",
+          "meaning_vi": "Thủ tục này phải đặt lịch.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        },
+        {
+          "id": "s50_1_0019",
+          "level": "listen",
+          "text": "材料齐了再来。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我补齐再来。",
+              "id": "s50_1_0019_reply01",
+              "meaning_vi": "Được, tôi bổ sung đủ rồi quay lại."
+            },
+            {
+              "text": "还需要补什么？",
+              "id": "s50_1_0019_reply02",
+              "meaning_vi": "Còn cần bổ sung gì?"
+            }
+          ],
+          "lesson_id": "50.1",
+          "lesson_title": "50.1 办理地点材料",
+          "mistakes": [
+            {
+              "text": "“材料齐了”是清单文件完整，不等于符合全部实质审批条件；办事前再次核对最新清单。",
+              "text_vi": "Đủ giấy tờ trong danh sách không đồng nghĩa đủ tất cả điều kiện thực chất; kiểm tra hướng dẫn mới nhất."
+            }
+          ],
+          "pinyin": "cái liào qí le zài lái",
+          "when_to_use": "材料不齐，工作人员让你整理好所有必要证明再来递交。",
+          "meaning_vi": "Chuẩn bị đủ hồ sơ rồi quay lại.",
+          "lesson_title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp"
+        }
+      ],
+      "title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp",
+      "subtitle_vi": "21 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi nơi giải quyết thủ tục, hồ sơ, bản gốc, bản sao, ảnh thẻ, cửa tiếp nhận và giờ làm việc; mỗi thủ tục có danh sách riêng."
+    },
+    {
+      "id": "50.2",
+      "title": "50.2 填表取号与预约",
+      "phrases": [
+        {
+          "id": "s50_2_0001",
+          "level": "must",
+          "text": "这个表怎么填？",
+          "alternatives": [
+            {
+              "text": "这张表怎么填？",
+              "id": "s50_2_0001_alt01",
+              "meaning_vi": "Điền tờ này thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先填姓名和地址。",
+              "id": "s50_2_0001_reply01",
+              "meaning_vi": "Trước tiên điền tên và địa chỉ."
+            },
+            {
+              "text": "我指给您看。",
+              "id": "s50_2_0001_reply02",
+              "meaning_vi": "Để tôi chỉ cho anh/chị."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“填表”是按栏目写信息，姓名、国籍和护照号应按正式证件填写，不要自己编造。",
+              "text_vi": "“填表” là điền thông tin theo ô, họ tên/quốc tịch/hộ chiếu phải theo giấy tờ chính thức, không bịa."
+            }
+          ],
+          "pinyin": "zhè ge biǎo zěn me tián",
+          "when_to_use": "外国人在中国政务大厅拿到中文申请表，想向窗口人员请教怎样填写。",
+          "meaning_vi": "Điền mẫu đơn này thế nào?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0002",
+          "level": "must",
+          "text": "这一栏填什么？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这里填现住址。",
+              "id": "s50_2_0002_reply01",
+              "meaning_vi": "Đây điền địa chỉ hiện tại."
+            },
+            {
+              "text": "这里写护照号。",
+              "id": "s50_2_0002_reply02",
+              "meaning_vi": "Đây viết số hộ chiếu."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“这一栏”指眼前的表格栏位；不同栏位可能填现住址、国籍或证件号码，不能一概而论。",
+              "text_vi": "“这一栏” là ô trong biểu mẫu đang chỉ, có thể là địa chỉ, quốc tịch hay số giấy tờ; không thể đoán mọi ô như nhau."
+            }
+          ],
+          "pinyin": "zhè yì lán tián shén me",
+          "when_to_use": "填写申请表看到不懂的中文栏目，指着该栏问具体写什么。",
+          "meaning_vi": "Ô này điền gì?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0003",
+          "level": "must",
+          "text": "要先取号吗？",
+          "alternatives": [
+            {
+              "text": "需要取号吗？",
+              "id": "s50_2_0003_alt01",
+              "meaning_vi": "Phải lấy số trước à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，先在机器上取号。",
+              "id": "s50_2_0003_reply01",
+              "meaning_vi": "Có, lấy số ở máy trước."
+            },
+            {
+              "text": "不用，直接排队就行。",
+              "id": "s50_2_0003_reply02",
+              "meaning_vi": "Không cần, cứ xếp hàng."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“取号”是拿排队号码，不是办理身份证号；有预约也未必免去现场报到或取号。",
+              "text_vi": "“取号” là lấy số xếp hàng, không phải số căn cước; có lịch hẹn vẫn có thể phải điểm danh hoặc lấy số tại quầy."
+            }
+          ],
+          "pinyin": "yào xiān qǔ hào ma",
+          "when_to_use": "刚到办事大厅，看别人拿排队小票，询问是否也需要先取号。",
+          "meaning_vi": "Có cần lấy số thứ tự trước không?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0004",
+          "level": "must",
+          "text": "我拿的是几号？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "您是二十八号。",
+              "id": "s50_2_0004_reply01",
+              "meaning_vi": "Anh/chị là số hai mươi tám."
+            },
+            {
+              "text": "票上写着十五号。",
+              "id": "s50_2_0004_reply02",
+              "meaning_vi": "Trên phiếu ghi số mười lăm."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“几号”这里问排队号码，不是日期；要注意号码播报与窗口编号可能同时出现。",
+              "text_vi": "“几号” ở đây là số thứ tự, không phải ngày; cần phân biệt số gọi và số quầy."
+            }
+          ],
+          "pinyin": "wǒ ná de shì jǐ hào",
+          "when_to_use": "已经拿到排队票，但看不懂票面数字，问自己的排队号是多少。",
+          "meaning_vi": "Tôi lấy được số mấy?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0005",
+          "level": "must",
+          "text": "在哪里签名？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在表格最下面。",
+              "id": "s50_2_0005_reply01",
+              "meaning_vi": "Ở cuối tờ đơn."
+            },
+            {
+              "text": "在这一栏签。",
+              "id": "s50_2_0005_reply02",
+              "meaning_vi": "Ký tại ô này."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“签名”是正式签署，不等于随意写一个中文昵称；姓名或签名方式按窗口要求和证件核对。",
+              "text_vi": "“签名” là chữ ký chính thức, không tự dùng biệt danh Trung Quốc; làm theo yêu cầu so khớp giấy tờ."
+            }
+          ],
+          "pinyin": "zài nǎ lǐ qiān míng",
+          "when_to_use": "申请表填好了，但不知道签名栏的位置，向工作人员指着表询问。",
+          "meaning_vi": "Ký tên ở đâu?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0006",
+          "level": "must",
+          "text": "要提前预约吗？",
+          "alternatives": [
+            {
+              "text": "需要预约吗？",
+              "id": "s50_2_0006_alt01",
+              "meaning_vi": "Phải đặt lịch không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，先在网上约。",
+              "id": "s50_2_0006_reply01",
+              "meaning_vi": "Có, đặt trực tuyến trước."
+            },
+            {
+              "text": "不用，直接来就行。",
+              "id": "s50_2_0006_reply02",
+              "meaning_vi": "Không, cứ đến trực tiếp."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“提前预约”是约办理时间，而不是提前获批；各地是否预约及渠道不同。",
+              "text_vi": "“提前预约” là đặt giờ nộp hồ sơ, không có nghĩa hồ sơ đã được duyệt; mỗi địa phương có quy định riêng."
+            }
+          ],
+          "pinyin": "yào tí qián yù yuē ma",
+          "when_to_use": "计划去出入境窗口办手续，想提前确认要不要在网站或App上预约。",
+          "meaning_vi": "Có cần đặt lịch trước không?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0007",
+          "level": "must",
+          "text": "能帮我看一下吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，哪一栏不懂？",
+              "id": "s50_2_0007_reply01",
+              "meaning_vi": "Được, anh/chị chưa hiểu ô nào?"
+            },
+            {
+              "text": "这儿还没填。",
+              "id": "s50_2_0007_reply02",
+              "meaning_vi": "Chỗ này vẫn chưa điền."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“帮我看一下”可以请对方核对，并非要求其替你签名或编造材料；个人信息仍由本人确认。",
+              "text_vi": "“帮我看一下” xin hỗ trợ kiểm tra, không phải nhờ người lạ ký thay hoặc bịa dữ liệu; người nộp chịu trách nhiệm nội dung."
+            }
+          ],
+          "pinyin": "néng bāng wǒ kàn yí xià ma",
+          "when_to_use": "填表时不确定某一项写对没有，礼貌地请工作人员帮忙看一下。",
+          "meaning_vi": "Bạn xem giúp tôi được không?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0008",
+          "level": "must",
+          "text": "能签中文名吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先按证件上的姓名填。",
+              "id": "s50_2_0008_reply01",
+              "meaning_vi": "Trước hết điền theo họ tên trên giấy tờ."
+            },
+            {
+              "text": "签名方式请问窗口。",
+              "id": "s50_2_0008_reply02",
+              "meaning_vi": "Cách ký tên hãy hỏi quầy tiếp nhận."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“中文名”与护照法定姓名可能不一致；不要在正式移民申请上擅自用别名代替证件姓名。",
+              "text_vi": "Tên Trung Quốc có thể khác họ tên pháp lý trên hộ chiếu; không tự dùng bí danh thay tên giấy tờ trong hồ sơ nhập cư."
+            }
+          ],
+          "pinyin": "néng qiān zhōng wén míng ma",
+          "when_to_use": "平时用中文名字，但护照是英文姓名，担心签名不被接受，先问窗口。",
+          "meaning_vi": "Có được ký tên Trung Quốc không?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0009",
+          "level": "must",
+          "text": "这栏可以不填吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这栏必须填。",
+              "id": "s50_2_0009_reply01",
+              "meaning_vi": "Ô này bắt buộc điền."
+            },
+            {
+              "text": "没有相关信息就留空。",
+              "id": "s50_2_0009_reply02",
+              "meaning_vi": "Nếu không có thông tin liên quan thì để trống."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“可以不填吗”只是在询问是否可留空，某些表格必须写“无”或“不适用”；不能自行把必填项跳过。",
+              "text_vi": "Được để trống hay không phụ thuộc ô; có nơi phải ghi “không có”/“không áp dụng”, đừng bỏ ô bắt buộc."
+            }
+          ],
+          "pinyin": "zhè lán kě yǐ bù tián ma",
+          "when_to_use": "表格里有一栏与你无关，但不确定能不能空着，先问工作人员。",
+          "meaning_vi": "Ô này để trống được không?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0010",
+          "level": "must",
+          "text": "护照号填哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "就填在这一栏。",
+              "id": "s50_2_0010_reply01",
+              "meaning_vi": "Điền vào ô này."
+            },
+            {
+              "text": "这里写护照号码。",
+              "id": "s50_2_0010_reply02",
+              "meaning_vi": "Viết số hộ chiếu ở đây."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“护照号”指护照号码，不是签证号码或身份证号码；字母和数字都要按原件完整填写。",
+              "text_vi": "“护照号” là số hộ chiếu, không phải số visa hay căn cước; nhập cả chữ và số chính xác."
+            }
+          ],
+          "pinyin": "hù zhào hào tián nǎr",
+          "when_to_use": "填写外国人申请表时，看不懂“护照号码”栏目在哪儿，向工作人员问位置。",
+          "meaning_vi": "Số hộ chiếu điền ở đâu?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0011",
+          "level": "must",
+          "text": "叫到号去哪里？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "去屏幕显示的窗口。",
+              "id": "s50_2_0011_reply01",
+              "meaning_vi": "Đến quầy hiển thị trên màn hình."
+            },
+            {
+              "text": "听广播里的窗口号。",
+              "id": "s50_2_0011_reply02",
+              "meaning_vi": "Nghe số quầy trên loa."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“叫到号”是轮到你的排队号，与“三号窗口”的窗口号不同；注意屏幕和广播提示。",
+              "text_vi": "“叫到号” là lượt mình được gọi, khác số quầy “三号窗口”; theo dõi màn hình và loa."
+            }
+          ],
+          "pinyin": "jiào dào hào qù nǎ lǐ",
+          "when_to_use": "排队屏幕开始叫号，但你不知道叫到自己时要去哪个窗口。",
+          "meaning_vi": "Khi được gọi số thì đến đâu?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0021",
+          "level": "must",
+          "text": "我不会写中文，能帮我填吗？",
+          "when_to_use": "缅甸学习者遇到只有中文的申请表，想请工作人员解释并协助填写。",
+          "alternatives": [
+            {
+              "text": "我中文不太会写，可以帮我吗？",
+              "id": "s50_2_0021_alt01",
+              "meaning_vi": "Tôi viết tiếng Trung không giỏi, bạn giúp tôi được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，我告诉你每栏填什么。",
+              "id": "s50_2_0021_reply01",
+              "meaning_vi": "Được, tôi chỉ từng ô cần điền gì."
+            },
+            {
+              "text": "你先把护照拿出来。",
+              "id": "s50_2_0021_reply02",
+              "meaning_vi": "Anh/chị lấy hộ chiếu ra trước."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“帮我填”是请求协助，不应让陌生人代签或编造个人信息；最终核对内容由本人负责。",
+              "text_vi": "Nhờ điền là xin hướng dẫn, không để người lạ ký hộ hay khai sai; chính mình phải kiểm tra."
+            }
+          ],
+          "pinyin": "wǒ bú huì xiě zhōng wén néng bāng wǒ tián ma",
+          "meaning_vi": "Tôi không biết viết tiếng Trung, bạn giúp điền được không?",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0022",
+          "level": "must",
+          "text": "我想改预约时间。",
+          "when_to_use": "已经预约办证时间，但上班请不到假，想把预约改到另一天。",
+          "alternatives": [
+            {
+              "text": "预约能改到明天吗？",
+              "id": "s50_2_0022_alt01",
+              "meaning_vi": "Có thể đổi lịch sang ngày mai không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，先取消原来的预约。",
+              "id": "s50_2_0022_reply01",
+              "meaning_vi": "Được, trước tiên hủy lịch hẹn cũ."
+            },
+            {
+              "text": "得看系统里还有没有空位。",
+              "id": "s50_2_0022_reply02",
+              "meaning_vi": "Phải xem hệ thống còn chỗ trống không."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“改预约时间”是更改预约，不等于延期签证或居留许可；合法期限仍按原规定计算。",
+              "text_vi": "Đổi lịch hẹn không có nghĩa được gia hạn visa hay giấy phép cư trú; hạn hợp pháp vẫn tính theo quy định."
+            }
+          ],
+          "pinyin": "wǒ xiǎng gǎi yù yuē shí jiān",
+          "meaning_vi": "Tôi muốn đổi giờ hẹn.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0012",
+          "level": "listen",
+          "text": "先核对预约信息。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我看一下。",
+              "id": "s50_2_0012_reply01",
+              "meaning_vi": "Được, tôi xem."
+            },
+            {
+              "text": "预约日期对吗？",
+              "id": "s50_2_0012_reply02",
+              "meaning_vi": "Ngày hẹn đúng không?"
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“预约信息”不只是预约号码，还可能包括预约日期、时段和业务类型；预约成功不代表审批成功。",
+              "text_vi": "Thông tin đặt lịch gồm số, ngày, giờ và loại dịch vụ; đặt thành công không có nghĩa đơn được duyệt."
+            }
+          ],
+          "pinyin": "xiān hé duì yù yuē xìn xī",
+          "when_to_use": "预约成功后，工作人员提醒先核对预约日期、姓名和办理事项。",
+          "meaning_vi": "Trước tiên kiểm tra thông tin cuộc hẹn.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0013",
+          "level": "listen",
+          "text": "这里填写地址。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "写现在住的地址吗？",
+              "id": "s50_2_0013_reply01",
+              "meaning_vi": "Viết địa chỉ đang ở hiện tại à?"
+            },
+            {
+              "text": "好，我填上。",
+              "id": "s50_2_0013_reply02",
+              "meaning_vi": "Được, tôi điền."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "住址栏可能要求中国境内现住址，不能默认填缅甸老家地址；按表格注明的地址类型填写。",
+              "text_vi": "Ô địa chỉ có thể hỏi nơi ở hiện tại tại Trung Quốc, không tự điền địa chỉ quê ở Myanmar; đọc đúng yêu cầu."
+            }
+          ],
+          "pinyin": "zhè lǐ tián xiě dì zhǐ",
+          "when_to_use": "工作人员指着纸质或电子表格，告诉你在该栏填写住址。",
+          "meaning_vi": "Điền địa chỉ ở đây.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0014",
+          "level": "listen",
+          "text": "在这里签名。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我签在这里。",
+              "id": "s50_2_0014_reply01",
+              "meaning_vi": "Được, tôi ký ở đây."
+            },
+            {
+              "text": "能用英文名签吗？",
+              "id": "s50_2_0014_reply02",
+              "meaning_vi": "Ký bằng tên tiếng Anh được không?"
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“在这里签名”说明签署位置；签署前先核对本人信息，不要在未核对内容的空白表上随意签字。",
+              "text_vi": "“Ký ở đây” là vị trí đặt chữ ký; kiểm tra nội dung trước, không tùy tiện ký tờ đơn trắng."
+            }
+          ],
+          "pinyin": "zài zhè lǐ qiān míng",
+          "when_to_use": "填写表格快完成时，窗口人员提醒还要在指定位置签名。",
+          "meaning_vi": "Ký tên vào đây.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0015",
+          "level": "listen",
+          "text": "请等着叫号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我在这儿等。",
+              "id": "s50_2_0015_reply01",
+              "meaning_vi": "Được, tôi đợi ở đây."
+            },
+            {
+              "text": "现在叫到几号了？",
+              "id": "s50_2_0015_reply02",
+              "meaning_vi": "Bây giờ đã gọi đến số mấy?"
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“叫号”是喊排队号码，不是打电话叫你；要听清数字和窗口位置。",
+              "text_vi": "“叫号” là gọi số xếp hàng, không phải có ai gọi điện; nghe cả số và vị trí quầy."
+            }
+          ],
+          "pinyin": "qǐng děng zhe jiào hào",
+          "when_to_use": "取到号后，窗口人员提醒等广播或屏幕叫号再过去。",
+          "meaning_vi": "Vui lòng chờ gọi số.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0016",
+          "level": "listen",
+          "text": "这一栏必须填。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我补上。",
+              "id": "s50_2_0016_reply01",
+              "meaning_vi": "Được, tôi bổ sung."
+            },
+            {
+              "text": "没有这项信息怎么办？",
+              "id": "s50_2_0016_reply02",
+              "meaning_vi": "Không có thông tin đó thì phải làm sao?"
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“必须填”意味着申请要求该项信息，未必意味着要编造内容；确无相关信息时询问合法填写方式。",
+              "text_vi": "“必须填” nghĩa là không được bỏ, nhưng không phải bịa câu trả lời; nếu không có thông tin hãy hỏi cách điền hợp lệ."
+            }
+          ],
+          "pinyin": "zhè yì lán bì xū tián",
+          "when_to_use": "办理人员看到表格留了空白，提醒其中一栏是必填项。",
+          "meaning_vi": "Ô này bắt buộc điền.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0017",
+          "level": "listen",
+          "text": "填错了要重填。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能再给我一张吗？",
+              "id": "s50_2_0017_reply01",
+              "meaning_vi": "Cho tôi tờ khác được không?"
+            },
+            {
+              "text": "好，我重新填。",
+              "id": "s50_2_0017_reply02",
+              "meaning_vi": "Được, tôi điền lại."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“重填”指重新填写表格，不是整个证件审批必然要从头开始；先问能否修改还是要换新表。",
+              "text_vi": "“重填” là điền lại mẫu, không nhất thiết cả hồ sơ xét duyệt phải làm lại từ đầu; hỏi có thể sửa trực tiếp không."
+            }
+          ],
+          "pinyin": "tián cuò le yào chóng tián",
+          "when_to_use": "表格里证件号码填错了，窗口人员告诉你需要重新填写。",
+          "meaning_vi": "Điền sai phải điền lại.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0018",
+          "level": "listen",
+          "text": "叫到号再去窗口。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等着。",
+              "id": "s50_2_0018_reply01",
+              "meaning_vi": "Được, tôi chờ."
+            },
+            {
+              "text": "是去屏幕上的窗口吗？",
+              "id": "s50_2_0018_reply02",
+              "meaning_vi": "Là tới quầy trên màn hình à?"
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“叫到号再去”是维护排队顺序，不能凭拿到号就立即去窗口。",
+              "text_vi": "Đợi đến lượt gọi số, không phải vừa có phiếu là đi thẳng lên quầy."
+            }
+          ],
+          "pinyin": "jiào dào hào zài qù chuāng kǒu",
+          "when_to_use": "申请人提前走到柜台，工作人员提醒等叫到自己的号再来。",
+          "meaning_vi": "Được gọi số rồi hãy đến quầy.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0019",
+          "level": "listen",
+          "text": "签名要和证件一致。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我按证件上签。",
+              "id": "s50_2_0019_reply01",
+              "meaning_vi": "Được, tôi ký theo giấy tờ."
+            },
+            {
+              "text": "护照上的签名可以吗？",
+              "id": "s50_2_0019_reply02",
+              "meaning_vi": "Dùng chữ ký trong hộ chiếu được không?"
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "证件上的姓名与手写签名未必要求字形完全相同；应按窗口对本人签名的具体要求操作，不要冒签他人。",
+              "text_vi": "Họ tên trên giấy tờ và hình thức chữ ký có thể có yêu cầu khác nhau; làm theo chỉ dẫn, không ký giả người khác."
+            }
+          ],
+          "pinyin": "qiān míng yào hé zhèng jiàn yí zhì",
+          "when_to_use": "申请表签名与证件信息不一致，工作人员提醒使用符合要求的签名方式。",
+          "meaning_vi": "Chữ ký phải đúng với giấy tờ.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        },
+        {
+          "id": "s50_2_0020",
+          "level": "listen",
+          "text": "先去机器上取号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "机器在那边吗？",
+              "id": "s50_2_0020_reply01",
+              "meaning_vi": "Máy ở đằng kia à?"
+            },
+            {
+              "text": "好，我先取号。",
+              "id": "s50_2_0020_reply02",
+              "meaning_vi": "Được, tôi lấy số trước."
+            }
+          ],
+          "lesson_id": "50.2",
+          "lesson_title": "50.2 填表取号与预约",
+          "mistakes": [
+            {
+              "text": "“机器上取号”是操作排队终端，不是ATM取钱，也不是手机验证码。",
+              "text_vi": "Máy lấy số là thiết bị phát số thứ tự, không phải ATM hay nơi nhận OTP điện thoại."
+            }
+          ],
+          "pinyin": "xiān qù jī qì shàng qǔ hào",
+          "when_to_use": "大厅的排队服务采用取号机，工作人员指示你先去机器领排队票。",
+          "meaning_vi": "Trước tiên ra máy lấy số thứ tự.",
+          "lesson_title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch"
+        }
+      ],
+      "title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch",
+      "subtitle_vi": "22 thẻ giao tiếp",
+      "opening_vi": "Luyện điền họ tên theo hộ chiếu, số hộ chiếu, địa chỉ hiện tại, lấy số thứ tự và thay đổi cuộc hẹn. Không ký hộ hay khai sai hồ sơ."
+    },
+    {
+      "id": "50.3",
+      "title": "50.3 签证与居留许可",
+      "phrases": [
+        {
+          "id": "s50_3_0001",
+          "level": "must",
+          "text": "我的签证快到期了。",
+          "alternatives": [
+            {
+              "text": "我的签证快过期了。",
+              "id": "s50_3_0001_alt01",
+              "meaning_vi": "Thị thực của tôi sắp quá hạn."
+            },
+            {
+              "text": "签证马上到期了。",
+              "id": "s50_3_0001_alt02",
+              "meaning_vi": "Visa sắp hết hạn rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先确认到期日期。",
+              "id": "s50_3_0001_reply01",
+              "meaning_vi": "Trước tiên xác nhận ngày hết hạn."
+            },
+            {
+              "text": "尽快问受理部门。",
+              "id": "s50_3_0001_reply02",
+              "meaning_vi": "Hãy hỏi cơ quan tiếp nhận sớm."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“签证有效期”和“停留期限”不是一回事；如依法需延长签证注明的停留期限，一般应在期满7日前申请。不能只看签证入境有效期判断还能停留多久。",
+              "text_vi": "Hiệu lực nhập cảnh của visa khác thời gian được ở sau nhập cảnh; xin kéo dài thời hạn lưu trú theo visa thường phải nộp trước ngày hết hạn ít nhất 7 ngày. Không chỉ nhìn ngày hiệu lực visa."
+            }
+          ],
+          "pinyin": "wǒ de qiān zhèng kuài dào qī le",
+          "when_to_use": "发现护照上的中国签证即将到期，想向出入境部门询问需要何时申请延期。",
+          "meaning_vi": "Thị thực của tôi sắp hết hạn.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0002",
+          "level": "must",
+          "text": "我想办居留许可。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "您是什么居留事由？",
+              "id": "s50_3_0002_reply01",
+              "meaning_vi": "Lý do cư trú của anh/chị là gì?"
+            },
+            {
+              "text": "先看看材料清单。",
+              "id": "s50_3_0002_reply02",
+              "meaning_vi": "Trước tiên xem danh sách hồ sơ."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“居留许可”是允许按特定事由在华居留的证件，不能和旅游签证或外国人工作许可混为一谈。",
+              "text_vi": "Giấy phép cư trú cho phép ở Trung Quốc theo mục đích cụ thể, khác visa du lịch và giấy phép lao động."
+            }
+          ],
+          "pinyin": "wǒ xiǎng bàn jū liú xǔ kě",
+          "when_to_use": "准备在中国继续合法居住，想申请符合本人工作、学习或家庭事由的居留许可。",
+          "meaning_vi": "Tôi muốn làm giấy phép cư trú.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0003",
+          "level": "must",
+          "text": "居留许可怎么延期？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先确认当前有效期。",
+              "id": "s50_3_0003_reply01",
+              "meaning_vi": "Trước tiên xác nhận hạn hiện tại."
+            },
+            {
+              "text": "具体流程问受理窗口。",
+              "id": "s50_3_0003_reply02",
+              "meaning_vi": "Quy trình cụ thể hãy hỏi quầy tiếp nhận."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "居留许可延期与签证停留延期的法定申请时间不同：居留期限延长依法应在居留证件期满30日前申请；具体办理材料看居留事由。",
+              "text_vi": "Gia hạn giấy phép cư trú khác kéo dài thời gian lưu trú visa; theo luật Trung Quốc, xin gia hạn cư trú phải nộp ít nhất 30 ngày trước khi hết hạn."
+            }
+          ],
+          "pinyin": "jū liú xǔ kě zěn me yán qī",
+          "when_to_use": "在中国持有居留许可，快过期了，向出入境窗口问怎样延长居留期限。",
+          "meaning_vi": "Gia hạn giấy phép cư trú thế nào?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0004",
+          "level": "must",
+          "text": "要网上预约吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这项要先预约。",
+              "id": "s50_3_0004_reply01",
+              "meaning_vi": "Dịch vụ này phải đặt lịch trước."
+            },
+            {
+              "text": "可以现场取号。",
+              "id": "s50_3_0004_reply02",
+              "meaning_vi": "Có thể đến lấy số trực tiếp."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“网上预约”是预约现场办理，不等于已经提交居留许可申请；各地预约规则可能不同。",
+              "text_vi": "Đặt lịch online là hẹn tới làm, không phải đã nộp đơn cư trú; mỗi địa phương có quy định riêng."
+            }
+          ],
+          "pinyin": "yào wǎng shàng yù yuē ma",
+          "when_to_use": "准备续办居留许可，想知道当地出入境办证是否要求网上提前预约。",
+          "meaning_vi": "Có phải đặt lịch online không?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0005",
+          "level": "must",
+          "text": "要带护照吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要带有效护照。",
+              "id": "s50_3_0005_reply01",
+              "meaning_vi": "Cần mang hộ chiếu còn hiệu lực."
+            },
+            {
+              "text": "原件复印件都带上。",
+              "id": "s50_3_0005_reply02",
+              "meaning_vi": "Mang cả bản gốc và bản sao."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“护照”是外国人的国际旅行证件；原件和复印件可能都要，但需要的附件依申请事项不同。",
+              "text_vi": "Hộ chiếu là giấy tờ đi lại quốc tế; có thể cần cả bản gốc/bản sao và phụ lục tùy từng thủ tục."
+            }
+          ],
+          "pinyin": "yào dài hù zhào ma",
+          "when_to_use": "出入境办理现场出示证件前，向工作人员确认是否需要携带护照。",
+          "meaning_vi": "Phải mang hộ chiếu không?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0006",
+          "level": "must",
+          "text": "多久能办好？",
+          "alternatives": [
+            {
+              "text": "大概需要多久？",
+              "id": "s50_3_0006_alt01",
+              "meaning_vi": "Khoảng bao lâu hoàn thành?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "以受理回执为准。",
+              "id": "s50_3_0006_reply01",
+              "meaning_vi": "Căn cứ theo giấy biên nhận."
+            },
+            {
+              "text": "目前还不能确定。",
+              "id": "s50_3_0006_reply02",
+              "meaning_vi": "Hiện chưa thể xác định."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“办好”指审批和制证完成，不等于材料已经被接收；领取日期应以具体受理凭证或通知为准。",
+              "text_vi": "“办好” là xét duyệt, cấp giấy xong, khác “受理” mới tiếp nhận; xem ngày thực tế trên giấy hẹn."
+            }
+          ],
+          "pinyin": "duō jiǔ néng bàn hǎo",
+          "when_to_use": "居留延期材料交给窗口后，想知道审批大概需要多久以及何时能领证。",
+          "meaning_vi": "Bao lâu thì làm xong?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0007",
+          "level": "must",
+          "text": "护照要留在这儿吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先给工作人员核对。",
+              "id": "s50_3_0007_reply01",
+              "meaning_vi": "Trước tiên cho nhân viên kiểm tra."
+            },
+            {
+              "text": "是否留存要看规定。",
+              "id": "s50_3_0007_reply02",
+              "meaning_vi": "Có giữ lại hay không tùy quy định."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "公安出入境依法收存护照办理居留证件期间，可凭受理回执在中国境内合法居留；该回执不能当然当作跨境旅行证件。",
+              "text_vi": "Khi cơ quan xuất nhập cảnh giữ hộ chiếu theo quy trình, giấy biên nhận có thể chứng minh lưu trú hợp pháp tại Trung Quốc trong thời hạn quy định, nhưng không thay hộ chiếu để đi quốc tế."
+            }
+          ],
+          "pinyin": "hù zhào yào liú zài zhèr ma",
+          "when_to_use": "出入境窗口核对护照，担心办证期间原件是否会被收存，先问清楚。",
+          "meaning_vi": "Có phải để hộ chiếu lại đây không?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0008",
+          "level": "must",
+          "text": "能提前多久办？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先确认到期日期。",
+              "id": "s50_3_0008_reply01",
+              "meaning_vi": "Trước tiên xác nhận ngày hết hạn."
+            },
+            {
+              "text": "要看具体业务类型。",
+              "id": "s50_3_0008_reply02",
+              "meaning_vi": "Còn tùy loại thủ tục."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“提前多久”问可从何时开始办，不等于申请最终截止日期；居留证件延期要注意30日前提出申请的规定。",
+              "text_vi": "“提前多久” là hỏi được nộp trước bao lâu, khác hạn cuối; gia hạn cư trú phải lưu ý quy định nộp trước 30 ngày."
+            }
+          ],
+          "pinyin": "néng tí qián duō jiǔ bàn",
+          "when_to_use": "已知居留许可几个月后到期，提前向出入境部门问最早何时可以申请延期。",
+          "meaning_vi": "Có thể làm sớm trước bao lâu?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0009",
+          "level": "must",
+          "text": "延期要什么材料？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先带有效护照。",
+              "id": "s50_3_0009_reply01",
+              "meaning_vi": "Trước tiên mang hộ chiếu hợp lệ."
+            },
+            {
+              "text": "其他材料看清单。",
+              "id": "s50_3_0009_reply02",
+              "meaning_vi": "Hồ sơ khác xem danh sách."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“延期材料”因工作、学习、团聚等居留事由不同而变；不能以别人的材料清单代替本人所需清单。",
+              "text_vi": "Hồ sơ gia hạn khác theo lý do làm việc, học tập, đoàn tụ..., không áp dụng máy móc hồ sơ người khác."
+            }
+          ],
+          "pinyin": "yán qī yào shén me cái liào",
+          "when_to_use": "继续在中国合法居住，办理居留许可续期，向窗口要这次延期的材料清单。",
+          "meaning_vi": "Gia hạn cần hồ sơ gì?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0010",
+          "level": "must",
+          "text": "受理后有回执吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，受理后会给。",
+              "id": "s50_3_0010_reply01",
+              "meaning_vi": "Có, sau khi tiếp nhận sẽ cấp."
+            },
+            {
+              "text": "是否出回执请问窗口。",
+              "id": "s50_3_0010_reply02",
+              "meaning_vi": "Có biên nhận không xin hỏi quầy."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“受理回执”证明机关受理申请，不代表已经批准居留许可；证件和回执均要妥善保管。",
+              "text_vi": "“受理回执” là giấy xác nhận tiếp nhận hồ sơ, không có nghĩa giấy phép cư trú đã được phê duyệt; phải giữ cẩn thận."
+            }
+          ],
+          "pinyin": "shòu lǐ hòu yǒu huí zhí ma",
+          "when_to_use": "工作人员准备受理居留申请，你想知道提交材料后能否拿到受理回执。",
+          "meaning_vi": "Sau khi tiếp nhận có biên nhận không?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0011",
+          "level": "must",
+          "text": "办理期间能出境吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先确认护照状态。",
+              "id": "s50_3_0011_reply01",
+              "meaning_vi": "Trước tiên xác nhận tình trạng hộ chiếu."
+            },
+            {
+              "text": "出境前请咨询主管部门。",
+              "id": "s50_3_0011_reply02",
+              "meaning_vi": "Trước khi xuất cảnh hãy hỏi cơ quan phụ trách."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "受理回执允许在中国境内合法居留，不等于可以凭回执出入境。出国前必须核实护照、居留及再入境资格。",
+              "text_vi": "Giấy biên nhận có thể chứng minh lưu trú hợp pháp trong nước, không thể mặc nhiên dùng để xuất nhập cảnh; phải xác minh hộ chiếu, giấy phép và điều kiện quay lại."
+            }
+          ],
+          "pinyin": "bàn lǐ qī jiān néng chū jìng ma",
+          "when_to_use": "居留证件在办、护照可能暂存窗口，你问这段时间是否可以出国。",
+          "meaning_vi": "Trong lúc làm thủ tục có thể ra khỏi Trung Quốc không?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0019",
+          "level": "must",
+          "text": "签证的停留期是多久？",
+          "when_to_use": "刚入境中国，看不懂签证上的停留期，向出入境人员问允许停留多久。",
+          "alternatives": [
+            {
+              "text": "这次入境可以停留多少天？",
+              "id": "s50_3_0019_alt01",
+              "meaning_vi": "Lần nhập cảnh này được ở bao nhiêu ngày?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要看签证上注明的停留期限。",
+              "id": "s50_3_0019_reply01",
+              "meaning_vi": "Xem thời hạn lưu trú ghi trên visa."
+            },
+            {
+              "text": "我帮你看一下签证页。",
+              "id": "s50_3_0019_reply02",
+              "meaning_vi": "Để tôi kiểm tra trang visa cho bạn."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“停留期”是本次入境允许停留的期限，不等于签证允许入境的有效期；实际起算与类型按签证标注和法律确定。",
+              "text_vi": "“停留期” là số ngày cho phép lưu trú sau lần nhập cảnh, khác hiệu lực được dùng visa để nhập cảnh; tính theo visa và luật."
+            }
+          ],
+          "pinyin": "qiān zhèng de tíng liú qī shì duō jiǔ",
+          "meaning_vi": "Thời hạn lưu trú của visa là bao lâu?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0020",
+          "level": "must",
+          "text": "我还能在中国待多久？",
+          "when_to_use": "担心停留或居留期限临近，向出入境窗口询问自己还剩多久合法停留时间。",
+          "alternatives": [
+            {
+              "text": "我的停留期限还剩几天？",
+              "id": "s50_3_0020_alt01",
+              "meaning_vi": "Tôi còn bao nhiêu ngày lưu trú?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看护照和签证信息。",
+              "id": "s50_3_0020_reply01",
+              "meaning_vi": "Trước tiên xem thông tin hộ chiếu và visa."
+            },
+            {
+              "text": "如果有居留许可，要看居留期限。",
+              "id": "s50_3_0020_reply02",
+              "meaning_vi": "Nếu có giấy phép cư trú, phải xem thời hạn cư trú."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“还能待多久”是实际剩余合法停留/居留时间；不能只算签证上最显眼的日期，具体应由官方确认。",
+              "text_vi": "“Còn được ở bao lâu” hỏi thời gian lưu trú/cư trú còn hợp pháp; không chỉ nhìn ngày in nổi bật trên visa, nên xác nhận với cơ quan."
+            }
+          ],
+          "pinyin": "wǒ hái néng zài zhōng guó dāi duō jiǔ",
+          "meaning_vi": "Tôi còn được ở Trung Quốc bao lâu?",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0012",
+          "level": "listen",
+          "text": "请先预约。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在哪里预约？",
+              "id": "s50_3_0012_reply01",
+              "meaning_vi": "Đặt lịch ở đâu?"
+            },
+            {
+              "text": "能用手机预约吗？",
+              "id": "s50_3_0012_reply02",
+              "meaning_vi": "Có thể đặt bằng điện thoại không?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“先预约”是开始办理前的排期要求，并非申请获批；应使用官方预约渠道。",
+              "text_vi": "“先预约” là yêu cầu đặt lịch, không phải được duyệt; chỉ sử dụng kênh chính thức."
+            }
+          ],
+          "pinyin": "qǐng xiān yù yuē",
+          "when_to_use": "出入境大厅要求先网上预约，你想确认在哪儿预约。",
+          "meaning_vi": "Vui lòng đặt lịch trước.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0013",
+          "level": "listen",
+          "text": "请出示有效护照。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，给您看一下。",
+              "id": "s50_3_0013_reply01",
+              "meaning_vi": "Được, anh/chị xem nhé."
+            },
+            {
+              "text": "复印件也要吗？",
+              "id": "s50_3_0013_reply02",
+              "meaning_vi": "Có cần bản photocopy không?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“有效护照”应符合实际有效期要求，不能用过期护照代替；别在不明网站上传整本护照。",
+              "text_vi": "Hộ chiếu hợp lệ phải thỏa điều kiện thời hạn, không dùng hộ chiếu đã hết hạn; không tải bản đầy đủ lên trang không rõ nguồn."
+            }
+          ],
+          "pinyin": "qǐng chū shì yǒu xiào hù zhào",
+          "when_to_use": "柜员请求提交有效护照时，你把护照原件交给工作人员核验。",
+          "meaning_vi": "Vui lòng xuất trình hộ chiếu còn hiệu lực.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0014",
+          "level": "listen",
+          "text": "还缺一份材料。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还缺什么？",
+              "id": "s50_3_0014_reply01",
+              "meaning_vi": "Còn thiếu gì?"
+            },
+            {
+              "text": "我能后补吗？",
+              "id": "s50_3_0014_reply02",
+              "meaning_vi": "Tôi bổ sung sau được không?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“还缺”意味着材料尚未齐全，并不等于已经不批准申请；补材料前确认名称和期限。",
+              "text_vi": "“还缺” là thiếu hồ sơ, chưa chắc đã bị từ chối; hỏi rõ giấy cần bổ sung và hạn nộp."
+            }
+          ],
+          "pinyin": "hái quē yí fèn cái liào",
+          "when_to_use": "办证柜员发现还缺一个证明文件，提醒你补齐后再提交。",
+          "meaning_vi": "Còn thiếu một giấy tờ.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0015",
+          "level": "listen",
+          "text": "请保管好受理回执。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我收好了。",
+              "id": "s50_3_0015_reply01",
+              "meaning_vi": "Được, tôi cất rồi."
+            },
+            {
+              "text": "领证时要带吗？",
+              "id": "s50_3_0015_reply02",
+              "meaning_vi": "Lúc nhận giấy tờ có cần mang theo không?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "回执有受理编号和相关期限，是查进度与领取证件的重要凭证，但具体领证手续应以通知为准。",
+              "text_vi": "Biên nhận có số hồ sơ và thời hạn, quan trọng để tra tiến độ/lấy giấy; làm theo yêu cầu thông báo."
+            }
+          ],
+          "pinyin": "qǐng bǎo guǎn hǎo shòu lǐ huí zhí",
+          "when_to_use": "居留申请受理后，窗口提醒你把受理回执保管好，以便后续查询和领证。",
+          "meaning_vi": "Vui lòng giữ cẩn thận giấy biên nhận tiếp nhận hồ sơ.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0016",
+          "level": "listen",
+          "text": "按通知时间来领取。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我到时来。",
+              "id": "s50_3_0016_reply01",
+              "meaning_vi": "Được, lúc đó tôi sẽ tới."
+            },
+            {
+              "text": "会发短信通知吗？",
+              "id": "s50_3_0016_reply02",
+              "meaning_vi": "Có gửi tin nhắn SMS thông báo không?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“领取”指证件已可取走或到期去取，不能仅因收到受理通知就认定已获批。",
+              "text_vi": "“领取” là nhận giấy đã xử lý, không suy ra có kết quả được duyệt chỉ vì có thông báo tiếp nhận."
+            }
+          ],
+          "pinyin": "àn tōng zhī shí jiān lái lǐng qǔ",
+          "when_to_use": "证件办理人员告知你按通知中的领证日期再到窗口领取。",
+          "meaning_vi": "Đến nhận theo thời gian thông báo.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0017",
+          "level": "listen",
+          "text": "出境前先问清楚。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先确认。",
+              "id": "s50_3_0017_reply01",
+              "meaning_vi": "Được, tôi sẽ xác nhận trước."
+            },
+            {
+              "text": "去哪个部门咨询？",
+              "id": "s50_3_0017_reply02",
+              "meaning_vi": "Tới cơ quan nào để hỏi?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“出境”是离开中国境内，与签证有效入境次数、居留状态及实际持有护照都有关，不能只看其中一项。",
+              "text_vi": "“出境” là rời Trung Quốc, liên quan hộ chiếu, số lần nhập cảnh và tình trạng cư trú; không chỉ nhìn một yếu tố."
+            }
+          ],
+          "pinyin": "chū jìng qián xiān wèn qīng chǔ",
+          "when_to_use": "有出国计划，居留证件还在办理，工作人员让你先问清能否出境。",
+          "meaning_vi": "Trước khi xuất cảnh hãy hỏi cho rõ.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0018",
+          "level": "listen",
+          "text": "这个证件月底到期。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我记下日期。",
+              "id": "s50_3_0018_reply01",
+              "meaning_vi": "Được, tôi ghi ngày lại."
+            },
+            {
+              "text": "能提前办延期吗？",
+              "id": "s50_3_0018_reply02",
+              "meaning_vi": "Có thể xin gia hạn trước không?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“到这天过期”必须先认清是签证入境有效期、停留期限还是居留许可到期日，三者不可混用。",
+              "text_vi": "Phải phân biệt ngày hết hiệu lực nhập cảnh, thời hạn ở của visa và ngày hết hạn giấy phép cư trú; đó là ba mốc khác nhau."
+            }
+          ],
+          "pinyin": "zhè ge zhèng jiàn yuè dǐ dào qī",
+          "when_to_use": "拿着签证或居留证件，工作人员指向上面的某个到期日期提醒你。",
+          "meaning_vi": "Giấy tờ này hết hạn vào cuối tháng.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0021",
+          "level": "listen",
+          "text": "居留许可延期要提前三十天申请。",
+          "when_to_use": "工作人员提醒申请人，按中国法律延长居留期限要在居留证件届满30日前提出申请。",
+          "alternatives": [
+            {
+              "text": "居留许可到期前要提前三十天申请延期。",
+              "id": "s50_3_0021_alt01",
+              "meaning_vi": "Phải xin gia hạn giấy phép cư trú trước ngày hết hạn ba mươi ngày."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那我先把材料准备齐。",
+              "id": "s50_3_0021_reply01",
+              "meaning_vi": "Vậy tôi chuẩn bị đủ hồ sơ trước."
+            },
+            {
+              "text": "能帮我确认到期日期吗？",
+              "id": "s50_3_0021_reply02",
+              "meaning_vi": "Bạn giúp tôi xác nhận ngày hết hạn được không?"
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "这条是针对居留许可延期，不是签证停留期限延期；居留延期依法应在届满30日前申请，不能等到最后一天。",
+              "text_vi": "Quy định 30 ngày áp dụng gia hạn giấy phép cư trú, không phải gia hạn thời hạn lưu trú visa; không đợi đến ngày cuối."
+            }
+          ],
+          "pinyin": "jū liú xǔ kě yán qī yào tí qián sān shí tiān shēn qǐng",
+          "meaning_vi": "Gia hạn giấy phép cư trú phải nộp đơn trước ba mươi ngày.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        },
+        {
+          "id": "s50_3_0022",
+          "level": "listen",
+          "text": "签证延期要提前七天申请。",
+          "when_to_use": "窗口说明，依法需要延长签证注明的停留期限时，通常要在停留期限届满7日前提出申请。",
+          "alternatives": [
+            {
+              "text": "延长签证停留期要提前七天申请。",
+              "id": "s50_3_0022_alt01",
+              "meaning_vi": "Xin kéo dài thời gian lưu trú theo visa trước bảy ngày."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我想确认停留期限哪天结束。",
+              "id": "s50_3_0022_reply01",
+              "meaning_vi": "Tôi muốn xác nhận ngày kết thúc thời hạn lưu trú."
+            },
+            {
+              "text": "我现在就去问办理材料。",
+              "id": "s50_3_0022_reply02",
+              "meaning_vi": "Tôi đi hỏi hồ sơ cần thiết ngay."
+            }
+          ],
+          "lesson_id": "50.3",
+          "lesson_title": "50.3 签证与居留许可",
+          "mistakes": [
+            {
+              "text": "“七天”适用于签证停留期限延期的法定提前申请时点，不能与居留许可延期“30天”混为一谈，也不等于一定批准。",
+              "text_vi": "Quy định 7 ngày áp dụng kéo dài thời hạn lưu trú theo visa, khác gia hạn giấy phép cư trú trước 30 ngày; nộp đơn không bảo đảm được duyệt."
+            }
+          ],
+          "pinyin": "qiān zhèng yán qī yào tí qián qī tiān shēn qǐng",
+          "meaning_vi": "Gia hạn thời hạn lưu trú theo visa phải xin trước bảy ngày.",
+          "lesson_title_vi": "50.3 Thị thực và giấy phép cư trú"
+        }
+      ],
+      "title_vi": "50.3 Thị thực và giấy phép cư trú",
+      "subtitle_vi": "22 thẻ giao tiếp",
+      "opening_vi": "Luyện phân biệt hạn nhập cảnh của thị thực với thời hạn lưu trú và giấy phép cư trú. Tại Trung Quốc, gia hạn thời gian lưu trú ghi trên visa thường cần nộp trước 7 ngày, gia hạn giấy phép cư trú trước 30 ngày."
+    },
+    {
+      "id": "50.4",
+      "title": "50.4 外国人来华工作许可",
+      "phrases": [
+        {
+          "id": "s50_4_0001",
+          "level": "must",
+          "text": "我想办工作许可。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请先找公司确认。",
+              "id": "s50_4_0001_reply01",
+              "meaning_vi": "Trước tiên hỏi công ty xác nhận."
+            },
+            {
+              "text": "一般由单位提交申请。",
+              "id": "s50_4_0001_reply02",
+              "meaning_vi": "Thông thường đơn vị tuyển dụng nộp hồ sơ."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“工作许可”是外国人就业准入许可，不等于Z字签证或工作类居留许可；申请类别与主管部门要求需核对。",
+              "text_vi": "Giấy phép lao động là quyền được làm việc hợp pháp, khác visa Z hay giấy phép cư trú diện lao động; điều kiện tùy đối tượng và cơ quan."
+            }
+          ],
+          "pinyin": "wǒ xiǎng bàn gōng zuò xǔ kě",
+          "when_to_use": "准备到中国公司合法上班，向人事咨询如何申请外国人来华工作许可。",
+          "meaning_vi": "Tôi muốn xin giấy phép lao động.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0002",
+          "level": "must",
+          "text": "是公司帮我办吗？",
+          "alternatives": [
+            {
+              "text": "公司负责办理吗？",
+              "id": "s50_4_0002_alt01",
+              "meaning_vi": "Công ty chịu trách nhiệm làm à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般由公司申请。",
+              "id": "s50_4_0002_reply01",
+              "meaning_vi": "Thông thường công ty nộp đơn."
+            },
+            {
+              "text": "您先找人事确认。",
+              "id": "s50_4_0002_reply02",
+              "meaning_vi": "Anh/chị hỏi phòng nhân sự trước."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "一般由聘用单位按规定提交外国人工作许可申请，个人仍需提供真实身份、资历材料；不能以口头承诺替代许可手续。",
+              "text_vi": "Thông thường đơn vị tuyển dụng nộp hồ sơ xin giấy phép lao động; người lao động vẫn phải cung cấp thông tin và chứng từ thật, không chỉ dựa vào lời hứa."
+            }
+          ],
+          "pinyin": "shì gōng sī bāng wǒ bàn ma",
+          "when_to_use": "中国公司已经提出聘用，求职者想确认工作许可由公司人事负责申请吗。",
+          "meaning_vi": "Công ty làm thủ tục giúp tôi à?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0003",
+          "level": "must",
+          "text": "公司要准备什么？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先准备单位资料。",
+              "id": "s50_4_0003_reply01",
+              "meaning_vi": "Trước tiên chuẩn bị hồ sơ của đơn vị."
+            },
+            {
+              "text": "按申请清单准备。",
+              "id": "s50_4_0003_reply02",
+              "meaning_vi": "Chuẩn bị theo danh sách yêu cầu."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“公司要准备什么”是问用人单位承担的文件，不等于申请者本人不用提供护照、合同或证明。",
+              "text_vi": "Hỏi phần giấy tờ công ty phải chuẩn bị không có nghĩa người xin không phải cung cấp hộ chiếu, hợp đồng và chứng từ."
+            }
+          ],
+          "pinyin": "gōng sī yào zhǔn bèi shén me",
+          "when_to_use": "和公司HR核对办理外国人工作许可时需要准备哪些单位资料。",
+          "meaning_vi": "Công ty cần chuẩn bị gì?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0004",
+          "level": "must",
+          "text": "工作许可快到期了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先通知公司人事。",
+              "id": "s50_4_0004_reply01",
+              "meaning_vi": "Báo ngay cho phòng nhân sự."
+            },
+            {
+              "text": "尽快确认续办流程。",
+              "id": "s50_4_0004_reply02",
+              "meaning_vi": "Nhanh chóng kiểm tra thủ tục gia hạn."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "工作许可与居留许可有各自的有效期；工作许可延期通常要求在届满30日前提出申请，不能只续居留许可。",
+              "text_vi": "Giấy phép lao động và cư trú có thời hạn riêng; gia hạn giấy phép lao động thông thường phải nộp trước khi hết hạn 30 ngày, không chỉ gia hạn cư trú."
+            }
+          ],
+          "pinyin": "gōng zuò xǔ kě kuài dào qī le",
+          "when_to_use": "查看外国人工作许可有效期，发现快到期了，及时告知单位人事。",
+          "meaning_vi": "Giấy phép lao động của tôi sắp hết hạn.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0005",
+          "level": "must",
+          "text": "工作许可怎么续？",
+          "alternatives": [
+            {
+              "text": "工作许可怎么延期？",
+              "id": "s50_4_0005_alt01",
+              "meaning_vi": "Làm thủ tục gia hạn giấy phép lao động ra sao?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "请先联系公司人事。",
+              "id": "s50_4_0005_reply01",
+              "meaning_vi": "Trước tiên liên hệ phòng nhân sự."
+            },
+            {
+              "text": "具体流程看申请类型。",
+              "id": "s50_4_0005_reply02",
+              "meaning_vi": "Quy trình tùy loại hồ sơ."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“续办”是续期而不是初次申请；不同申请类别、公司所在地和系统可能要求不同附件。",
+              "text_vi": "“续办” là gia hạn chứ không xin lần đầu; giấy tờ có thể tùy phân loại hồ sơ, địa phương và hệ thống."
+            }
+          ],
+          "pinyin": "gōng zuò xǔ kě zěn me xù",
+          "when_to_use": "外国人工作许可证即将到期，询问公司HR办理续期的具体步骤。",
+          "meaning_vi": "Gia hạn giấy phép lao động thế nào?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0006",
+          "level": "must",
+          "text": "换公司要重办吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要先确认变更手续。",
+              "id": "s50_4_0006_reply01",
+              "meaning_vi": "Trước tiên kiểm tra thủ tục thay đổi."
+            },
+            {
+              "text": "让新公司帮您核实。",
+              "id": "s50_4_0006_reply02",
+              "meaning_vi": "Nhờ công ty mới xác minh cho bạn."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "换单位可能涉及原工作许可注销、新申请或特定变更流程，是否可走简化情形取决于实际条件；新公司应先核实。",
+              "text_vi": "Đổi nhà tuyển dụng có thể phải hủy giấy phép cũ, xin mới hoặc làm thủ tục thay đổi theo điều kiện; công ty mới phải kiểm tra."
+            }
+          ],
+          "pinyin": "huàn gōng sī yào chóng bàn ma",
+          "when_to_use": "准备从原雇主跳槽到新公司，想确认工作许可需要变更或重新申请哪些手续。",
+          "meaning_vi": "Đổi công ty có phải làm lại giấy phép không?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0007",
+          "level": "must",
+          "text": "进度在哪儿查？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以问公司人事。",
+              "id": "s50_4_0007_reply01",
+              "meaning_vi": "Có thể hỏi phòng nhân sự công ty."
+            },
+            {
+              "text": "也可以查申请系统。",
+              "id": "s50_4_0007_reply02",
+              "meaning_vi": "Cũng có thể tra trong hệ thống hồ sơ."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“进度”指提交、补件、审核等阶段，不等于已批准；系统账号通常由单位管理。",
+              "text_vi": "“进度” là trạng thái nộp, bổ sung hay xét duyệt, không đồng nghĩa đã được cấp; tài khoản thường do công ty giữ."
+            }
+          ],
+          "pinyin": "jìn dù zài nǎr chá",
+          "when_to_use": "工作许可申请交给HR后，想知道可以在哪儿看到审核进度。",
+          "meaning_vi": "Kiểm tra tiến độ ở đâu?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0008",
+          "level": "must",
+          "text": "两种许可都要办吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "工作和居留手续不同。",
+              "id": "s50_4_0008_reply01",
+              "meaning_vi": "Thủ tục lao động và cư trú khác nhau."
+            },
+            {
+              "text": "具体要看您的情况。",
+              "id": "s50_4_0008_reply02",
+              "meaning_vi": "Còn tùy trường hợp của anh/chị."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“两种许可”通常指工作许可和相应居留许可，两者主管部门、用途不同。短期工作等有例外或不同路径，不能简单套用所有人。",
+              "text_vi": "Hai loại thường là giấy phép lao động và giấy phép cư trú, có mục đích và cơ quan cấp khác; công việc ngắn hạn có trường hợp riêng."
+            }
+          ],
+          "pinyin": "liǎng zhǒng xǔ kě dōu yào bàn ma",
+          "when_to_use": "听别人说要工作许可和工作类居留许可两项手续，向人事核实自己是否都需要办理。",
+          "meaning_vi": "Có phải xin cả hai loại giấy phép không?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0009",
+          "level": "must",
+          "text": "需要劳动合同吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这类申请可能需要。",
+              "id": "s50_4_0009_reply01",
+              "meaning_vi": "Loại hồ sơ này có thể cần."
+            },
+            {
+              "text": "请按材料清单准备。",
+              "id": "s50_4_0009_reply02",
+              "meaning_vi": "Vui lòng chuẩn bị theo danh sách."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“劳动合同”是与雇主签署的雇佣协议，不是招聘口头通知；不同类别可能有聘用证明等要求。",
+              "text_vi": "“劳动合同” là hợp đồng ký với người sử dụng lao động, khác lời mời miệng; hồ sơ có thể yêu cầu chứng minh việc làm phù hợp."
+            }
+          ],
+          "pinyin": "xū yào láo dòng hé tóng ma",
+          "when_to_use": "HR通知要递交工作许可申请，问需不需要本人签过的劳动合同。",
+          "meaning_vi": "Có cần hợp đồng lao động không?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0010",
+          "level": "must",
+          "text": "要学历证明吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看申请类别。",
+              "id": "s50_4_0010_reply01",
+              "meaning_vi": "Còn tùy loại hồ sơ."
+            },
+            {
+              "text": "我帮您看看清单。",
+              "id": "s50_4_0010_reply02",
+              "meaning_vi": "Để tôi xem danh sách giúp."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "学历证明的要求可能随许可类别、岗位及资格而异；不是所有外国求职者都必然提交同样的学历文件。",
+              "text_vi": "Giấy tờ học vấn khác theo diện giấy phép, công việc và trình độ; không phải mọi người nước ngoài đều nộp giống nhau."
+            }
+          ],
+          "pinyin": "yào xué lì zhèng míng ma",
+          "when_to_use": "申请外国人工作许可，HR请你准备学历证书，你想确认是否必须。",
+          "meaning_vi": "Có cần bằng cấp không?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0011",
+          "level": "must",
+          "text": "要体检报告吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有些申请需要。",
+              "id": "s50_4_0011_reply01",
+              "meaning_vi": "Một số hồ sơ yêu cầu."
+            },
+            {
+              "text": "先看材料清单。",
+              "id": "s50_4_0011_reply02",
+              "meaning_vi": "Trước tiên xem danh sách giấy tờ."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“体检报告”不是普通感冒就诊单；部分业务要求特定机构或有效期的检查证明。",
+              "text_vi": "Báo cáo khám sức khỏe có thể cần theo mẫu, cơ sở hay thời hạn được chấp nhận; khác phiếu khám cảm thông thường."
+            }
+          ],
+          "pinyin": "yào tǐ jiǎn bào gào ma",
+          "when_to_use": "公司HR列出工作许可文件，你想核实是否需要指定的体检报告。",
+          "meaning_vi": "Có cần giấy khám sức khỏe không?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0019",
+          "level": "must",
+          "text": "我还没拿到工作许可。",
+          "when_to_use": "入职时间快到了，但公司的工作许可申请还没获批，向HR说明。",
+          "alternatives": [
+            {
+              "text": "我的工作许可还没批下来。",
+              "id": "s50_4_0019_alt01",
+              "meaning_vi": "Giấy phép lao động của tôi chưa được phê duyệt."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你查一下审核进度。",
+              "id": "s50_4_0019_reply01",
+              "meaning_vi": "Để tôi kiểm tra tiến độ xét duyệt."
+            },
+            {
+              "text": "先别着急上岗，确认许可要求。",
+              "id": "s50_4_0019_reply02",
+              "meaning_vi": "Đừng vội bắt đầu làm việc, hãy xác nhận điều kiện pháp lý."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“没拿到”是尚未取得相应工作资格文件，不等于已经获批；不能把入职通知代替法定许可。",
+              "text_vi": "“Chưa nhận” là chưa có giấy tờ đủ điều kiện, không chắc đã được cấp; thư nhận việc không thay thế giấy phép."
+            }
+          ],
+          "pinyin": "wǒ hái méi ná dào gōng zuò xǔ kě",
+          "meaning_vi": "Tôi vẫn chưa nhận được giấy phép lao động.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0020",
+          "level": "must",
+          "text": "公司什么时候提交申请？",
+          "when_to_use": "已经按要求交给公司工作许可材料，但不确定公司什么时候提交正式申请。",
+          "alternatives": [
+            {
+              "text": "公司已经提交了吗？",
+              "id": "s50_4_0020_alt01",
+              "meaning_vi": "Công ty đã nộp hồ sơ chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还差一份材料，补齐后提交。",
+              "id": "s50_4_0020_reply01",
+              "meaning_vi": "Còn thiếu một giấy tờ, bổ sung đủ rồi mới nộp."
+            },
+            {
+              "text": "今天下午就提交。",
+              "id": "s50_4_0020_reply02",
+              "meaning_vi": "Chiều nay sẽ nộp."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“提交申请”是递交申请，不等于审批已经通过；可以向人事询问提交确认记录或受理状态。",
+              "text_vi": "“Nộp hồ sơ” là gửi đơn, chưa được duyệt; có thể hỏi phòng nhân sự chứng nhận đã nộp."
+            }
+          ],
+          "pinyin": "gōng sī shén me shí hou tí jiāo shēn qǐng",
+          "meaning_vi": "Khi nào công ty nộp hồ sơ?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0021",
+          "level": "must",
+          "text": "工作许可提前多久续？",
+          "when_to_use": "工作许可快到期，想向人事问需要提前多久办理延期。",
+          "alternatives": [
+            {
+              "text": "续工作许可要提前多少天？",
+              "id": "s50_4_0021_alt01",
+              "meaning_vi": "Phải nộp trước bao nhiêu ngày khi gia hạn giấy phép lao động?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般要在到期三十天前申请。",
+              "id": "s50_4_0021_reply01",
+              "meaning_vi": "Thông thường phải xin trước ngày hết hạn ba mươi ngày."
+            },
+            {
+              "text": "我先核对公司的申请安排。",
+              "id": "s50_4_0021_reply02",
+              "meaning_vi": "Để tôi kiểm tra lịch nộp của công ty."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“工作许可续期”不等于居留许可延期，虽都常见30天提前要求，也须分别按主管部门办理。",
+              "text_vi": "Thủ tục gia hạn giấy phép lao động khác gia hạn cư trú; dù thường có yêu cầu trước 30 ngày vẫn phải làm riêng từng cơ quan."
+            }
+          ],
+          "pinyin": "gōng zuò xǔ kě tí qián duō jiǔ xù",
+          "meaning_vi": "Gia hạn giấy phép lao động phải làm trước bao lâu?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0022",
+          "level": "must",
+          "text": "换公司后还能上班吗？",
+          "when_to_use": "准备跳槽，担心持旧公司工作许可不能直接为新公司工作，向HR询问。",
+          "alternatives": [
+            {
+              "text": "工作许可换单位后还能用吗？",
+              "id": "s50_4_0022_alt01",
+              "meaning_vi": "Sau khi đổi đơn vị, giấy phép lao động cũ còn dùng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先让新公司确认申请流程。",
+              "id": "s50_4_0022_reply01",
+              "meaning_vi": "Trước tiên nhờ công ty mới xác minh quy trình."
+            },
+            {
+              "text": "需要看工作岗位和许可情况。",
+              "id": "s50_4_0022_reply02",
+              "meaning_vi": "Còn tùy vị trí và tình trạng giấy phép."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "换雇主可能需要变更、注销并重新申请等不同工作许可手续；不能自行默认原单位许可允许在新单位工作。",
+              "text_vi": "Đổi chủ sử dụng lao động có thể cần đổi, hủy rồi xin mới; không mặc định giấy phép cũ cho làm việc ở công ty mới."
+            }
+          ],
+          "pinyin": "huàn gōng sī hòu hái néng shàng bān ma",
+          "meaning_vi": "Đổi công ty rồi có được làm việc tiếp không?",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0012",
+          "level": "listen",
+          "text": "通常由公司申请。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我联系人事。",
+              "id": "s50_4_0012_reply01",
+              "meaning_vi": "Vậy tôi liên hệ phòng nhân sự."
+            },
+            {
+              "text": "我自己还要准备什么？",
+              "id": "s50_4_0012_reply02",
+              "meaning_vi": "Bản thân tôi cần chuẩn bị gì?"
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“公司申请”不表示个人不需配合；工作许可仍未获批前不能擅自把申请中当作已取得工作资格。",
+              "text_vi": "“Công ty nộp” không có nghĩa cá nhân không phải hỗ trợ; chưa được cấp phép không coi là đã đủ điều kiện làm việc."
+            }
+          ],
+          "pinyin": "tōng cháng yóu gōng sī shēn qǐng",
+          "when_to_use": "HR解释外国人工作许可通常由聘用公司发起申请，员工确认自己需要提供什么材料。",
+          "meaning_vi": "Thông thường công ty sẽ nộp hồ sơ.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0013",
+          "level": "listen",
+          "text": "先在网上提交材料。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我联系公司。",
+              "id": "s50_4_0013_reply01",
+              "meaning_vi": "Được, tôi liên hệ công ty."
+            },
+            {
+              "text": "是由公司提交吗？",
+              "id": "s50_4_0013_reply02",
+              "meaning_vi": "Có phải công ty nộp không?"
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“网上提交”是申请步骤，不代表许可立即生效；应通过官方系统及用人单位办理。",
+              "text_vi": "Nộp trực tuyến mới là bước xin phép, không có nghĩa được làm việc ngay; dùng hệ thống chính thức và đơn vị tuyển dụng."
+            }
+          ],
+          "pinyin": "xiān zài wǎng shàng tí jiāo cái liào",
+          "when_to_use": "在公司办理工作许可时，听到HR提醒先按主管部门系统提交申请资料。",
+          "meaning_vi": "Trước tiên nộp giấy tờ trực tuyến.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0014",
+          "level": "listen",
+          "text": "系统提示要补材料。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还缺哪一项？",
+              "id": "s50_4_0014_reply01",
+              "meaning_vi": "Còn thiếu mục nào?"
+            },
+            {
+              "text": "好，我尽快补。",
+              "id": "s50_4_0014_reply02",
+              "meaning_vi": "Được, tôi bổ sung sớm."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“补材料”是补充缺失文件，不一定代表申请已被拒绝；问清材料名称和提交期限。",
+              "text_vi": "“补材料” là bổ sung giấy tờ thiếu, chưa chắc hồ sơ bị bác; hỏi đúng tên giấy và hạn bổ sung."
+            }
+          ],
+          "pinyin": "xì tǒng tí shì yào bǔ cái liào",
+          "when_to_use": "外国人工作许可系统提示某项证明不齐，HR通知你补充文件。",
+          "meaning_vi": "Hệ thống báo cần bổ sung hồ sơ.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0015",
+          "level": "listen",
+          "text": "申请还在审核。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概还要多久？",
+              "id": "s50_4_0015_reply01",
+              "meaning_vi": "Còn khoảng bao lâu nữa?"
+            },
+            {
+              "text": "能查到进度吗？",
+              "id": "s50_4_0015_reply02",
+              "meaning_vi": "Có tra tiến độ được không?"
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“审核中”不等于已经拿到工作许可；审批结果及实际生效要求以主管部门决定为准。",
+              "text_vi": "“审核中” là đang xét, chưa được cấp phép; thời điểm có hiệu lực theo quyết định cơ quan."
+            }
+          ],
+          "pinyin": "shēn qǐng hái zài shěn hé",
+          "when_to_use": "工作许可已经提交，系统显示仍在主管部门审查，员工想问还要多久。",
+          "meaning_vi": "Hồ sơ vẫn đang được xét duyệt.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0016",
+          "level": "listen",
+          "text": "工作许可和居留许可不一样。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那要分别办理吗？",
+              "id": "s50_4_0016_reply01",
+              "meaning_vi": "Vậy phải làm riêng à?"
+            },
+            {
+              "text": "我需要先办哪个？",
+              "id": "s50_4_0016_reply02",
+              "meaning_vi": "Tôi nên làm loại nào trước?"
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "工作许可证明依法工作的资格，居留许可与在华居留事由有关；不同证件的延期、变更要求要分别关注。",
+              "text_vi": "Giấy phép lao động chứng minh quyền lao động, giấy phép cư trú liên quan quyền ở theo mục đích; phải xem hạn và thủ tục riêng."
+            }
+          ],
+          "pinyin": "gōng zuò xǔ kě hé jū liú xǔ kě bù yí yàng",
+          "when_to_use": "外国人入职前，HR提醒工作许可和在中国居留的许可不是同一份证件。",
+          "meaning_vi": "Giấy phép lao động khác với giấy phép cư trú.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0017",
+          "level": "listen",
+          "text": "换公司要先办手续。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要哪些材料？",
+              "id": "s50_4_0017_reply01",
+              "meaning_vi": "Cần những giấy tờ nào?"
+            },
+            {
+              "text": "要新公司办理吗？",
+              "id": "s50_4_0017_reply02",
+              "meaning_vi": "Công ty mới phải làm à?"
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "换单位的工作许可程序受职业岗位、原居留状态等条件影响，可能按不同申请场景办理，不能把旧公司的批准直接当作新公司许可。",
+              "text_vi": "Quy trình đổi đơn vị phụ thuộc việc làm, tình trạng cư trú và giấy phép cũ; không dùng phê duyệt của chủ cũ làm phép cho chủ mới."
+            }
+          ],
+          "pinyin": "huàn gōng sī yào xiān bàn shǒu xù",
+          "when_to_use": "准备到新公司上班，HR提醒不能简单沿用旧单位的工作许可，应确认变更手续。",
+          "meaning_vi": "Đổi công ty phải làm thủ tục trước.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        },
+        {
+          "id": "s50_4_0018",
+          "level": "listen",
+          "text": "不同申请材料不同。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有对应的清单吗？",
+              "id": "s50_4_0018_reply01",
+              "meaning_vi": "Có danh sách tương ứng không?"
+            },
+            {
+              "text": "我先确认申请类别。",
+              "id": "s50_4_0018_reply02",
+              "meaning_vi": "Để tôi xác nhận loại hồ sơ trước."
+            }
+          ],
+          "lesson_id": "50.4",
+          "lesson_title": "50.4 外国人来华工作许可",
+          "mistakes": [
+            {
+              "text": "“不同申请”可指首次申请、延期、变更或不同类别，具体清单须看正式系统而非网上旧经验。",
+              "text_vi": "“不同申请” có thể là lần đầu, gia hạn, thay đổi hoặc diện khác; dùng danh sách chính thức mới nhất."
+            }
+          ],
+          "pinyin": "bù tóng shēn qǐng cái liào bù tóng",
+          "when_to_use": "HR告诉你不同工作许可类别对应的材料要求并不完全一样。",
+          "meaning_vi": "Hồ sơ khác nhau tùy loại đơn.",
+          "lesson_title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc"
+        }
+      ],
+      "title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc",
+      "subtitle_vi": "22 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi doanh nghiệp về hồ sơ giấy phép lao động, gia hạn, đổi nơi làm việc và kiểm tra tiến độ. Giấy phép lao động khác với visa và giấy phép cư trú."
+    },
+    {
+      "id": "50.5",
+      "title": "50.5 证件丢失与补办",
+      "phrases": [
+        {
+          "id": "s50_5_0001",
+          "level": "must",
+          "text": "我的护照丢了。",
+          "alternatives": [
+            {
+              "text": "我护照丢了。",
+              "id": "s50_5_0001_alt01",
+              "meaning_vi": "Hộ chiếu tôi mất rồi."
+            },
+            {
+              "text": "我护照不见了。",
+              "id": "s50_5_0001_alt02",
+              "meaning_vi": "Tôi không thấy hộ chiếu đâu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先联系本国使领馆。",
+              "id": "s50_5_0001_reply01",
+              "meaning_vi": "Trước tiên liên hệ đại sứ quán hoặc lãnh sự quán nước bạn."
+            },
+            {
+              "text": "您先确认丢失地点。",
+              "id": "s50_5_0001_reply02",
+              "meaning_vi": "Anh/chị hãy xác định nơi làm mất trước."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "护照丢失应尽快向当地警方报失并联系所属国驻华使领馆核实补发手续；丢失护照与丢失居留证件是不同事项。",
+              "text_vi": "Mất hộ chiếu nên sớm trình báo với công an nơi mất và liên hệ cơ quan đại diện nước mình ở Trung Quốc; mất hộ chiếu khác mất giấy phép cư trú."
+            }
+          ],
+          "pinyin": "wǒ de hù zhào diū le",
+          "when_to_use": "在中国发现缅甸护照遗失，向派出所或熟人说明证件不见了，准备报失和联系本国使领馆。",
+          "meaning_vi": "Tôi làm mất hộ chiếu rồi.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0002",
+          "level": "must",
+          "text": "居留证件不见了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先向主管部门咨询。",
+              "id": "s50_5_0002_reply01",
+              "meaning_vi": "Trước tiên hỏi cơ quan phụ trách."
+            },
+            {
+              "text": "请确认丢失的证件。",
+              "id": "s50_5_0002_reply02",
+              "meaning_vi": "Vui lòng xác định giấy tờ nào bị mất."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "居留证件遗失应向公安出入境管理部门咨询补发；若丢的是外国护照，通常还涉及本国使领馆的手续。",
+              "text_vi": "Mất giấy cư trú nên hỏi cơ quan công an quản lý xuất nhập cảnh về cấp lại; mất hộ chiếu thường còn phải làm việc với đại sứ/lãnh sự quán."
+            }
+          ],
+          "pinyin": "jū liú zhèng jiàn bú jiàn le",
+          "when_to_use": "持有的中国居留证件找不到了，向出入境管理部门询问补办。",
+          "meaning_vi": "Tôi không tìm thấy giấy phép cư trú.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0003",
+          "level": "must",
+          "text": "去哪里报失？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先问附近派出所。",
+              "id": "s50_5_0003_reply01",
+              "meaning_vi": "Trước tiên hỏi đồn công an gần đây."
+            },
+            {
+              "text": "看证件类型再办理。",
+              "id": "s50_5_0003_reply02",
+              "meaning_vi": "Xem loại giấy tờ rồi làm thủ tục."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“报失”是正式报告证件遗失，不等于立刻申请到新证；办护照和居留证件可能涉及不同机关。",
+              "text_vi": "“报失” là chính thức báo mất, không có nghĩa có ngay giấy mới; hộ chiếu và giấy cư trú có thể do hai cơ quan khác nhau giải quyết."
+            }
+          ],
+          "pinyin": "qù nǎ lǐ bào shī",
+          "when_to_use": "确定护照或其他证件遗失后，想知道在哪里向相关部门报告失物。",
+          "meaning_vi": "Báo mất ở đâu?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0004",
+          "level": "must",
+          "text": "丢了怎么补办？",
+          "alternatives": [
+            {
+              "text": "证件丢了怎么补？",
+              "id": "s50_5_0004_alt01",
+              "meaning_vi": "Giấy tờ bị mất thì làm lại ra sao?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先确认是什么证件。",
+              "id": "s50_5_0004_reply01",
+              "meaning_vi": "Trước tiên xác định giấy tờ gì."
+            },
+            {
+              "text": "去对应的部门咨询。",
+              "id": "s50_5_0004_reply02",
+              "meaning_vi": "Hỏi cơ quan tương ứng."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“补办”是旧证遗失或损坏后申请新证，不等于普通延期；材料可能包括报失记录、新护照或使领馆照会。",
+              "text_vi": "“补办” là xin cấp lại giấy mất/hỏng, không phải gia hạn thông thường; có thể cần báo mất, hộ chiếu mới hoặc công hàm."
+            }
+          ],
+          "pinyin": "diū le zěn me bǔ bàn",
+          "when_to_use": "护照或证件被盗、丢失，想问具体从哪里开始办理补发。",
+          "meaning_vi": "Mất rồi thì xin cấp lại thế nào?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0005",
+          "level": "must",
+          "text": "需要报失证明吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先问受理部门。",
+              "id": "s50_5_0005_reply01",
+              "meaning_vi": "Hãy hỏi cơ quan tiếp nhận trước."
+            },
+            {
+              "text": "有的业务需要证明。",
+              "id": "s50_5_0005_reply02",
+              "meaning_vi": "Một số thủ tục cần chứng nhận."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“报失证明”是遗失报告相关凭证；需要哪种证明与谁签发，应向公安出入境及本国使领馆核实。",
+              "text_vi": "Giấy chứng nhận báo mất có tên và cơ quan cấp tùy thủ tục; hỏi công an xuất nhập cảnh và cơ quan đại diện."
+            }
+          ],
+          "pinyin": "xū yào bào shī zhèng míng ma",
+          "when_to_use": "到出入境窗口说明护照已丢失，询问补发居留或其他手续是否需报失证明。",
+          "meaning_vi": "Có cần giấy xác nhận trình báo mất không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0006",
+          "level": "must",
+          "text": "要联系大使馆吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "护照丢了要咨询使馆。",
+              "id": "s50_5_0006_reply01",
+              "meaning_vi": "Mất hộ chiếu thì nên hỏi đại sứ quán."
+            },
+            {
+              "text": "先联系本国使领馆。",
+              "id": "s50_5_0006_reply02",
+              "meaning_vi": "Trước tiên liên hệ cơ quan đại diện nước mình."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "外国护照通常由所属国驻华使领馆办理补发或旅行证件，中国公安出入境负责在华签证和停留居留手续，两者不能混淆。",
+              "text_vi": "Hộ chiếu nước ngoài thường do đại sứ/lãnh sự quán nước đó cấp lại, còn visa/giấy cư trú Trung Quốc do công an xuất nhập cảnh giải quyết."
+            }
+          ],
+          "pinyin": "yào lián xì dà shǐ guǎn ma",
+          "when_to_use": "在中国遗失缅甸护照，想确认是否应该联系缅甸驻华使馆或领事馆。",
+          "meaning_vi": "Phải liên hệ đại sứ quán không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0007",
+          "level": "must",
+          "text": "补办时要什么证明？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先问清材料清单。",
+              "id": "s50_5_0007_reply01",
+              "meaning_vi": "Trước tiên hỏi rõ danh sách hồ sơ."
+            },
+            {
+              "text": "报失记录可能要用。",
+              "id": "s50_5_0007_reply02",
+              "meaning_vi": "Có thể cần biên bản trình báo mất."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "补办材料与丢失的证件类别相关，不能一概要求所有人提供同一种警方证明；要问负责的部门。",
+              "text_vi": "Giấy bổ sung phụ thuộc loại giấy tờ đã mất; không thể áp một loại giấy xác nhận từ công an cho tất cả thủ tục."
+            }
+          ],
+          "pinyin": "bǔ bàn shí yào shén me zhèng míng",
+          "when_to_use": "已经拿到护照报失记录，向窗口确认补办新证件还需哪些证明。",
+          "meaning_vi": "Khi làm lại cần giấy chứng nhận gì?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0008",
+          "level": "must",
+          "text": "旧证找到了还能用吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先确认是否已作废。",
+              "id": "s50_5_0008_reply01",
+              "meaning_vi": "Trước tiên xác nhận giấy đó đã bị hủy hiệu lực chưa."
+            },
+            {
+              "text": "不要直接拿来使用。",
+              "id": "s50_5_0008_reply02",
+              "meaning_vi": "Đừng tự lấy ra dùng ngay."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "已挂失、作废或补发后的旧证件不一定仍有效；不要自行恢复使用，应由原签发机关确认。",
+              "text_vi": "Giấy cũ đã khai báo mất hoặc bị vô hiệu có thể không còn giá trị dù tìm lại; hỏi cơ quan cấp trước khi dùng."
+            }
+          ],
+          "pinyin": "jiù zhèng zhǎo dào le hái néng yòng ma",
+          "when_to_use": "曾经丢失并报失的证件后来在家里找到，想问是否还能继续使用。",
+          "meaning_vi": "Tìm thấy giấy cũ rồi, còn dùng được không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0009",
+          "level": "must",
+          "text": "要先去派出所吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先看丢失的是哪种证件。",
+              "id": "s50_5_0009_reply01",
+              "meaning_vi": "Trước tiên xem loại giấy tờ bị mất."
+            },
+            {
+              "text": "具体请问当地部门。",
+              "id": "s50_5_0009_reply02",
+              "meaning_vi": "Cụ thể hỏi cơ quan địa phương."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "护照遗失时一般需要及时向遗失地公安机关报失并联系本国使领馆；仅去使馆未必完成在华出入境后续手续。",
+              "text_vi": "Khi mất hộ chiếu thường phải báo cơ quan công an nơi mất và liên hệ cơ quan đại diện, chỉ đi sứ quán chưa chắc xong nghĩa vụ tại Trung Quốc."
+            }
+          ],
+          "pinyin": "yào xiān qù pài chū suǒ ma",
+          "when_to_use": "护照在中国丢失后不知道该去派出所还是出入境办事处，先问程序。",
+          "meaning_vi": "Có cần đến đồn công an trước không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0010",
+          "level": "must",
+          "text": "新护照还要登记吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "其他登记信息可能要更新。",
+              "id": "s50_5_0010_reply01",
+              "meaning_vi": "Có thể phải cập nhật một số thông tin đăng ký."
+            },
+            {
+              "text": "请先咨询出入境部门。",
+              "id": "s50_5_0010_reply02",
+              "meaning_vi": "Trước tiên hỏi cơ quan quản lý xuất nhập cảnh."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "护照号码变更涉及外国人居留证件登记信息变更，依法应在登记事项变更后10日内申请办理；住宿登记信息也需按规定更新。",
+              "text_vi": "Đổi số hộ chiếu làm thay đổi thông tin trên giấy phép cư trú; theo luật Trung Quốc, thay đổi thông tin đăng ký phải xin sửa trong 10 ngày, và nên cập nhật thông tin lưu trú theo quy định."
+            }
+          ],
+          "pinyin": "xīn hù zhào hái yào dēng jì ma",
+          "when_to_use": "在中国拿到补发的新护照，担心原居留许可和住宿登记还登记了旧护照号，向部门询问。",
+          "meaning_vi": "Có hộ chiếu mới thì phải cập nhật đăng ký nữa không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0011",
+          "level": "must",
+          "text": "能打12367咨询吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "出入境问题可以咨询。",
+              "id": "s50_5_0011_reply01",
+              "meaning_vi": "Vấn đề xuất nhập cảnh có thể hỏi."
+            },
+            {
+              "text": "也可以问当地窗口。",
+              "id": "s50_5_0011_reply02",
+              "meaning_vi": "Bạn cũng có thể hỏi quầy địa phương."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "12367是中国国家移民管理相关咨询服务号码，不是报警110或医疗急救120；紧急危险时应使用相应应急号码。",
+              "text_vi": "12367 là tổng đài tư vấn xuất nhập cảnh Trung Quốc, không phải số cảnh sát 110 hay cấp cứu 120; nguy hiểm cần gọi số khẩn cấp tương ứng."
+            }
+          ],
+          "pinyin": "néng dǎ zī xún ma",
+          "when_to_use": "遇到外国人签证、居留或出入境疑问，询问能否拨打中国移民管理服务电话12367。",
+          "meaning_vi": "Có thể gọi 12367 hỏi không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0018",
+          "level": "must",
+          "text": "护照报失证明在哪儿开？",
+          "when_to_use": "护照在中国丢失，前往派出所了解需要在哪里办理遗失相关证明。",
+          "alternatives": [
+            {
+              "text": "护照丢了，报失证明去哪儿办？",
+              "id": "s50_5_0018_alt01",
+              "meaning_vi": "Mất hộ chiếu thì xin giấy trình báo mất ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先到遗失地派出所咨询。",
+              "id": "s50_5_0018_reply01",
+              "meaning_vi": "Trước tiên hỏi đồn công an nơi làm mất."
+            },
+            {
+              "text": "先确认使领馆要求哪种证明。",
+              "id": "s50_5_0018_reply02",
+              "meaning_vi": "Hỏi cơ quan đại diện yêu cầu loại chứng nhận nào."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“报失证明”是报失相关凭证，具体名称和签发机关按当地公安及使领馆要求确定；不能自行伪造证明。",
+              "text_vi": "“报失证明” là giấy tờ liên quan việc trình báo mất, tên và cơ quan cấp tùy công an địa phương và sứ quán; không làm giả."
+            }
+          ],
+          "pinyin": "hù zhào bào shī zhèng míng zài nǎr kāi",
+          "meaning_vi": "Giấy trình báo mất hộ chiếu làm ở đâu?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0019",
+          "level": "must",
+          "text": "新护照号码变了。",
+          "when_to_use": "领到补发的新护照，发现号码与此前居留许可登记的旧号码不同，向窗口说明。",
+          "alternatives": [
+            {
+              "text": "新护照的号码和旧的不一样。",
+              "id": "s50_5_0019_alt01",
+              "meaning_vi": "Số hộ chiếu mới khác số cũ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "需要核对居留许可登记信息。",
+              "id": "s50_5_0019_reply01",
+              "meaning_vi": "Cần đối chiếu thông tin đăng ký trên giấy phép cư trú."
+            },
+            {
+              "text": "带新旧护照资料来确认。",
+              "id": "s50_5_0019_reply02",
+              "meaning_vi": "Mang thông tin hộ chiếu cũ và mới đến xác nhận."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“新护照号码变了”是护照号更换，持有效居留许可者涉及登记事项变更时依法应在10日内申请变更。",
+              "text_vi": "Số hộ chiếu mới khác số cũ; nếu làm thay đổi thông tin ghi trên giấy cư trú hợp lệ phải nộp xin thay đổi trong 10 ngày."
+            }
+          ],
+          "pinyin": "xīn hù zhào hào mǎ biàn le",
+          "meaning_vi": "Số hộ chiếu mới đã đổi rồi.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0020",
+          "level": "must",
+          "text": "居留许可信息要改吗？",
+          "when_to_use": "补办新护照后，想确认原居留许可上登记的护照号码是否需要更新。",
+          "alternatives": [
+            {
+              "text": "居留许可上的护照号要更新吗？",
+              "id": "s50_5_0020_alt01",
+              "meaning_vi": "Số hộ chiếu trên giấy phép cư trú có cần cập nhật không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "登记事项变了，要按规定办理。",
+              "id": "s50_5_0020_reply01",
+              "meaning_vi": "Nếu thông tin đăng ký thay đổi thì phải làm theo quy định."
+            },
+            {
+              "text": "带新护照去出入境窗口确认。",
+              "id": "s50_5_0020_reply02",
+              "meaning_vi": "Mang hộ chiếu mới đến quầy xuất nhập cảnh xác nhận."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“信息要改吗”问居留证件登记事项是否发生变更，不等于必须重新申请所有签证或工作许可；相关部门逐项确认。",
+              "text_vi": "Hỏi sửa thông tin cư trú không có nghĩa phải xin lại mọi loại visa/giấy phép lao động; xác nhận từng mục với cơ quan phụ trách."
+            }
+          ],
+          "pinyin": "jū liú xǔ kě xìn xī yào gǎi ma",
+          "meaning_vi": "Có phải sửa thông tin giấy phép cư trú không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0012",
+          "level": "listen",
+          "text": "先确认丢了什么证件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是我的护照。",
+              "id": "s50_5_0012_reply01",
+              "meaning_vi": "Là hộ chiếu của tôi."
+            },
+            {
+              "text": "我丢的是居留证件。",
+              "id": "s50_5_0012_reply02",
+              "meaning_vi": "Tôi làm mất giấy phép cư trú."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“证件”是统称，不是只有护照；不同证件补发部门不同，回答时要说具体名称。",
+              "text_vi": "“证件” là tên chung cho nhiều giấy tờ; khi trả lời cần nói chính xác loại bị mất vì cơ quan cấp lại khác nhau."
+            }
+          ],
+          "pinyin": "xiān què rèn diū le shén me zhèng jiàn",
+          "when_to_use": "你说证件丢了，工作人员先确认到底是护照、居留许可还是别的证件。",
+          "meaning_vi": "Trước tiên xác định giấy tờ nào bị mất.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0013",
+          "level": "listen",
+          "text": "补护照先联系使领馆。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在联系。",
+              "id": "s50_5_0013_reply01",
+              "meaning_vi": "Được, tôi liên hệ ngay."
+            },
+            {
+              "text": "联系方式在哪儿查？",
+              "id": "s50_5_0013_reply02",
+              "meaning_vi": "Tra thông tin liên hệ ở đâu?"
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“使领馆”包括使馆和领事馆，处理本国护照问题；中国签证、居留证件补发还需向中国出入境机构办理。",
+              "text_vi": "“使领馆” gồm đại sứ quán và lãnh sự quán, xử lý hộ chiếu của công dân mình; giấy cư trú, visa Trung Quốc vẫn theo cơ quan xuất nhập cảnh Trung Quốc."
+            }
+          ],
+          "pinyin": "bǔ hù zhào xiān lián xì shǐ lǐng guǎn",
+          "when_to_use": "护照遗失，工作人员提醒外国申请者先联系本国使领馆咨询新护照或旅行证。",
+          "meaning_vi": "Mất hộ chiếu thì trước tiên liên hệ cơ quan đại diện.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0014",
+          "level": "listen",
+          "text": "其他证件要另办。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "应该去哪个部门？",
+              "id": "s50_5_0014_reply01",
+              "meaning_vi": "Tôi nên đến cơ quan nào?"
+            },
+            {
+              "text": "能一起办理吗？",
+              "id": "s50_5_0014_reply02",
+              "meaning_vi": "Có thể làm chung không?"
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“另办”指分开办理不同证件，不表示同一份报失证明一定够所有业务。",
+              "text_vi": "“另办” là làm giấy tờ khác theo thủ tục riêng, không mặc định một giấy báo mất đủ cho mọi dịch vụ."
+            }
+          ],
+          "pinyin": "qí tā zhèng jiàn yào lìng bàn",
+          "when_to_use": "护照和居留许可可能都不见了，窗口提醒不同证件需按各自手续办理。",
+          "meaning_vi": "Các giấy tờ khác phải làm riêng.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0015",
+          "level": "listen",
+          "text": "报失证明要收好。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我收好了。",
+              "id": "s50_5_0015_reply01",
+              "meaning_vi": "Được, tôi cất kỹ rồi."
+            },
+            {
+              "text": "补办时要出示吗？",
+              "id": "s50_5_0015_reply02",
+              "meaning_vi": "Lúc làm lại có phải xuất trình không?"
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“收好”是保管文件，不意味着拿到报失证明就可以直接出境旅行；出行证件仍需向有关机构确认。",
+              "text_vi": "Giữ giấy báo mất không có nghĩa đã có thể xuất nhập cảnh; cần hỏi cơ quan liên quan về giấy thông hành hợp lệ."
+            }
+          ],
+          "pinyin": "bào shī zhèng míng yào shōu hǎo",
+          "when_to_use": "报失后获得证明材料，工作人员提醒好好保存用于后续手续。",
+          "meaning_vi": "Giữ cẩn thận giấy xác nhận trình báo mất.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0016",
+          "level": "listen",
+          "text": "新护照办好要核对。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还需要更新什么？",
+              "id": "s50_5_0016_reply01",
+              "meaning_vi": "Còn phải cập nhật gì?"
+            },
+            {
+              "text": "好，我去咨询。",
+              "id": "s50_5_0016_reply02",
+              "meaning_vi": "Được, tôi đi hỏi."
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“核对新护照”不止看封面；如果护照号改变，还要办理相应居留证件信息变更。",
+              "text_vi": "Kiểm tra hộ chiếu mới không chỉ bìa; khi số đổi phải cập nhật thông tin trên giấy phép cư trú tương ứng."
+            }
+          ],
+          "pinyin": "xīn hù zhào bàn hǎo yào hé duì",
+          "when_to_use": "补发的新护照终于领取，工作人员提醒核对姓名、生日、护照号码和有效期。",
+          "meaning_vi": "Làm xong hộ chiếu mới thì phải kiểm tra thông tin.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        },
+        {
+          "id": "s50_5_0017",
+          "level": "listen",
+          "text": "出入境问题可打12367。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我打电话问问。",
+              "id": "s50_5_0017_reply01",
+              "meaning_vi": "Được, tôi gọi hỏi."
+            },
+            {
+              "text": "当地也能咨询吗？",
+              "id": "s50_5_0017_reply02",
+              "meaning_vi": "Có thể hỏi tại địa phương không?"
+            }
+          ],
+          "lesson_id": "50.5",
+          "lesson_title": "50.5 证件丢失与补办",
+          "mistakes": [
+            {
+              "text": "“可打12367”是咨询途径，不是保证能在电话中直接补发护照或批准居留；实际办理仍按规定提交申请。",
+              "text_vi": "Gọi 12367 là hỏi tư vấn, không thể nhận hộ chiếu mới hoặc được duyệt cư trú chỉ qua cuộc gọi; phải nộp hồ sơ theo quy định."
+            }
+          ],
+          "pinyin": "chū rù jìng wèn tí kě dǎ",
+          "when_to_use": "遇到外国人出入境、签证延期或居留问题，工作人员提醒可以打12367咨询。",
+          "meaning_vi": "Có thể gọi 12367 để hỏi vấn đề xuất nhập cảnh.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
+        }
+      ],
+      "title_vi": "50.5 Mất giấy tờ và xin cấp lại",
+      "subtitle_vi": "20 thẻ giao tiếp",
+      "opening_vi": "Luyện báo mất hộ chiếu, thẻ cư trú, liên hệ cảnh sát và cơ quan đại diện quốc gia, xin giấy chứng nhận và cập nhật số hộ chiếu mới."
+    },
+    {
+      "id": "50.6",
+      "title": "50.6 查询进度与领取证件",
+      "phrases": [
+        {
+          "id": "s50_6_0001",
+          "level": "must",
+          "text": "证件办好了吗？",
+          "alternatives": [
+            {
+              "text": "证件好了吗？",
+              "id": "s50_6_0001_alt01",
+              "meaning_vi": "Giấy tờ đã có chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还在审核。",
+              "id": "s50_6_0001_reply01",
+              "meaning_vi": "Vẫn đang xét duyệt."
+            },
+            {
+              "text": "办好了，可以领取了。",
+              "id": "s50_6_0001_reply02",
+              "meaning_vi": "Đã xong, có thể đến nhận."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“办好了吗”问是否办理完成；“已受理”或“正在审核”都不等于证件已经办好。",
+              "text_vi": "“办好了吗” hỏi đã xong thủ tục chưa; mới tiếp nhận hoặc đang xét duyệt thì chưa phải đã xong."
+            }
+          ],
+          "pinyin": "zhèng jiàn bàn hǎo le ma",
+          "when_to_use": "证件申请已递交一段时间，向窗口询问是否审批完成可以领取。",
+          "meaning_vi": "Giấy tờ làm xong chưa?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0002",
+          "level": "must",
+          "text": "怎么查进度？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以在网上查询。",
+              "id": "s50_6_0002_reply01",
+              "meaning_vi": "Có thể tra trực tuyến."
+            },
+            {
+              "text": "拿受理号到窗口问。",
+              "id": "s50_6_0002_reply02",
+              "meaning_vi": "Mang mã tiếp nhận hỏi tại quầy."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“查进度”是看申请处于哪一步，不代表获取审批结果；注意只在官方查询渠道输入个人资料。",
+              "text_vi": "“查进度” là xem hồ sơ ở bước nào, chưa phải nhận kết quả cuối; chỉ nhập dữ liệu trên cổng chính thức."
+            }
+          ],
+          "pinyin": "zěn me chá jìn dù",
+          "when_to_use": "护照或居留证件的申请已提交，想知道用受理号从什么渠道查询。",
+          "meaning_vi": "Kiểm tra tiến độ thế nào?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0003",
+          "level": "must",
+          "text": "什么时候能领？",
+          "alternatives": [
+            {
+              "text": "哪天能领？",
+              "id": "s50_6_0003_alt01",
+              "meaning_vi": "Ngày nào nhận được?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "看回执上的日期。",
+              "id": "s50_6_0003_reply01",
+              "meaning_vi": "Xem ngày trên giấy biên nhận."
+            },
+            {
+              "text": "等通知再来。",
+              "id": "s50_6_0003_reply02",
+              "meaning_vi": "Đợi thông báo rồi tới."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“什么时候能领”是领证时间，不等于最晚申请时间；以回执和官方通知的实际安排为准。",
+              "text_vi": "“Khi nào nhận” là ngày nhận giấy, không phải hạn cuối nộp hồ sơ; theo giấy biên nhận và thông báo."
+            }
+          ],
+          "pinyin": "shén me shí hou néng lǐng",
+          "when_to_use": "收到受理回执但没记清领证日期，向工作人员询问什么时候能来拿。",
+          "meaning_vi": "Khi nào có thể nhận?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0004",
+          "level": "must",
+          "text": "会发短信吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "会，注意查收。",
+              "id": "s50_6_0004_reply01",
+              "meaning_vi": "Có, hãy chú ý tin nhắn."
+            },
+            {
+              "text": "不发短信，请查进度。",
+              "id": "s50_6_0004_reply02",
+              "meaning_vi": "Không gửi SMS, vui lòng tự tra tiến độ."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "并非所有窗口都短信通知；短信也可能是诈骗，需在官网或原办理窗口独立核实，不要随便点击链接。",
+              "text_vi": "Không phải quầy nào cũng nhắn SMS; tin nhắn có thể giả, xác minh độc lập qua web/quầy chính thức, không nhấn link tùy tiện."
+            }
+          ],
+          "pinyin": "huì fā duǎn xìn ma",
+          "when_to_use": "已经申请居留证件，想知道审批结束后是否会通过短信通知。",
+          "meaning_vi": "Có gửi tin nhắn SMS không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0005",
+          "level": "must",
+          "text": "这是我的受理回执。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我核对一下。",
+              "id": "s50_6_0005_reply01",
+              "meaning_vi": "Được, để tôi kiểm tra."
+            },
+            {
+              "text": "还需要看护照。",
+              "id": "s50_6_0005_reply02",
+              "meaning_vi": "Còn cần xem hộ chiếu."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“受理回执”是申请受理凭证，不是已经签发的居留许可，也不是国际旅行证件。",
+              "text_vi": "Giấy biên nhận chỉ chứng minh đã tiếp nhận hồ sơ, không phải giấy phép cư trú đã cấp hay giấy đi quốc tế."
+            }
+          ],
+          "pinyin": "zhè shì wǒ de shòu lǐ huí zhí",
+          "when_to_use": "到出入境窗口查询或领证，出示自己申请时拿到的受理回执。",
+          "meaning_vi": "Đây là giấy biên nhận tiếp nhận hồ sơ của tôi.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0006",
+          "level": "must",
+          "text": "我来领证件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请先出示回执。",
+              "id": "s50_6_0006_reply01",
+              "meaning_vi": "Vui lòng xuất trình giấy biên nhận trước."
+            },
+            {
+              "text": "先核对一下身份。",
+              "id": "s50_6_0006_reply02",
+              "meaning_vi": "Trước tiên xác minh danh tính."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“来领证件”是取回证件，不一定表示持证资格可无限期延续；领取后还需核对姓名、号码和有效期。",
+              "text_vi": "“来领证件” là đến lấy giấy, không có nghĩa quyền của người sở hữu kéo dài vô hạn; nhận xong kiểm tra tên, số và hạn."
+            }
+          ],
+          "pinyin": "wǒ lái lǐng zhèng jiàn",
+          "when_to_use": "办理通知上写证件可领取，你来到办事大厅向窗口说明来领证件。",
+          "meaning_vi": "Tôi đến nhận giấy tờ.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0007",
+          "level": "must",
+          "text": "必须本人来领吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这项需要本人领取。",
+              "id": "s50_6_0007_reply01",
+              "meaning_vi": "Mục này phải chính chủ nhận."
+            },
+            {
+              "text": "能否代领要看规定。",
+              "id": "s50_6_0007_reply02",
+              "meaning_vi": "Có cho người nhận thay không còn tùy quy định."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“本人领取”是申请人亲自到场；代办或代领的允许情形随业务及规定不同，不能直接假设任何证件都可代领。",
+              "text_vi": "“本人领取” là chính chủ tới, còn có được ủy quyền nhận thay hay không tùy loại thủ tục và quy định."
+            }
+          ],
+          "pinyin": "bì xū běn rén lái lǐng ma",
+          "when_to_use": "本人工作忙不方便亲自来领居留证件，想知道是否必须亲自领取。",
+          "meaning_vi": "Có bắt buộc đích thân đến nhận không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0008",
+          "level": "must",
+          "text": "能帮我查下进度吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，给我受理号。",
+              "id": "s50_6_0008_reply01",
+              "meaning_vi": "Được, cho tôi mã hồ sơ."
+            },
+            {
+              "text": "请到查询窗口。",
+              "id": "s50_6_0008_reply02",
+              "meaning_vi": "Vui lòng đến quầy tra cứu."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“查一下”是请求核实，不是催促保证办好；需向正式窗口出示必要受理资料。",
+              "text_vi": "“查一下” là nhờ kiểm tra tiến độ, không phải yêu cầu bảo đảm làm xong; chỉ đưa thông tin cần thiết cho quầy chính thức."
+            }
+          ],
+          "pinyin": "néng bāng wǒ chá xià jìn dù ma",
+          "when_to_use": "受理回执上有编号，想请窗口人员帮忙查申请当前进度。",
+          "meaning_vi": "Bạn giúp tôi tra tiến độ được không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0009",
+          "level": "must",
+          "text": "能让别人代领吗？",
+          "alternatives": [
+            {
+              "text": "可以代领吗？",
+              "id": "s50_6_0009_alt01",
+              "meaning_vi": "Có thể nhận thay không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这项不允许代领。",
+              "id": "s50_6_0009_reply01",
+              "meaning_vi": "Mục này không cho nhận thay."
+            },
+            {
+              "text": "请先问受理窗口。",
+              "id": "s50_6_0009_reply02",
+              "meaning_vi": "Trước tiên hỏi quầy tiếp nhận."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“代领”是让别人取证，与“代办申请”不是一回事；某些移民证件需本人到场或有特殊授权要求。",
+              "text_vi": "“代领” là nhận thay, khác “代办申请” là nộp hồ sơ thay; một số giấy nhập cư đòi chính chủ hoặc ủy quyền đặc biệt."
+            }
+          ],
+          "pinyin": "néng ràng bié rén dài lǐng ma",
+          "when_to_use": "不能去窗口领证，想让同事或家人代为领取，先问许可与材料条件。",
+          "meaning_vi": "Có thể nhờ người khác nhận hộ không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0010",
+          "level": "must",
+          "text": "可以邮寄给我吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这项可以申请邮寄。",
+              "id": "s50_6_0010_reply01",
+              "meaning_vi": "Mục này có thể xin nhận qua bưu điện."
+            },
+            {
+              "text": "不行，要到窗口领取。",
+              "id": "s50_6_0010_reply02",
+              "meaning_vi": "Không, phải đến quầy nhận."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“邮寄给我”指将证件寄送给申请人，不代表所有行政机关都提供邮寄服务；收件地址务必核对。",
+              "text_vi": "“邮寄给我” là gửi giấy tờ tới địa chỉ của mình, không phải mọi cơ quan đều cung cấp; phải kiểm tra địa chỉ nhận."
+            }
+          ],
+          "pinyin": "kě yǐ yóu jì gěi wǒ ma",
+          "when_to_use": "住得离出入境办证大厅较远，想知道证件办好后能否邮寄到住处。",
+          "meaning_vi": "Có thể gửi qua bưu điện cho tôi không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0019",
+          "level": "must",
+          "text": "我还没收到短信。",
+          "when_to_use": "办证窗口说会发领证通知，但你一直没有收到短信，向工作人员说明。",
+          "alternatives": [
+            {
+              "text": "领证短信还没收到。",
+              "id": "s50_6_0019_alt01",
+              "meaning_vi": "Tin nhắn thông báo nhận giấy tờ chưa đến."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你核对一下登记的手机号。",
+              "id": "s50_6_0019_reply01",
+              "meaning_vi": "Để tôi kiểm tra lại số điện thoại đã đăng ký."
+            },
+            {
+              "text": "可以先通过官方渠道查进度。",
+              "id": "s50_6_0019_reply02",
+              "meaning_vi": "Bạn có thể tra qua kênh chính thức trước."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“没收到短信”不等于申请未获批；可能是通知未发或手机号码有误，需用官方渠道查证。",
+              "text_vi": "Chưa có SMS không đồng nghĩa chưa được duyệt; có thể chưa gửi hoặc đăng ký sai số, cần tra chính thức."
+            }
+          ],
+          "pinyin": "wǒ hái méi shōu dào duǎn xìn",
+          "meaning_vi": "Tôi vẫn chưa nhận được SMS.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0020",
+          "level": "must",
+          "text": "受理号在哪儿看？",
+          "when_to_use": "要在网上查询证件办理进度，却找不到申请受理编号，向窗口人员问。",
+          "alternatives": [
+            {
+              "text": "申请受理编号在哪里？",
+              "id": "s50_6_0020_alt01",
+              "meaning_vi": "Mã số hồ sơ tiếp nhận ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "受理回执上有。",
+              "id": "s50_6_0020_reply01",
+              "meaning_vi": "Có trên giấy biên nhận."
+            },
+            {
+              "text": "我帮你指一下编号的位置。",
+              "id": "s50_6_0020_reply02",
+              "meaning_vi": "Để tôi chỉ vị trí mã."
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“受理号”是办理申请的受理编号，不是排队号码、护照号或手机验证码；不要在陌生网站泄露受理信息。",
+              "text_vi": "“受理号” là mã hồ sơ tiếp nhận, không phải số xếp hàng, số hộ chiếu hay OTP; đừng đưa cho website lạ."
+            }
+          ],
+          "pinyin": "shòu lǐ hào zài nǎr kàn",
+          "meaning_vi": "Mã tiếp nhận xem ở đâu?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0011",
+          "level": "listen",
+          "text": "还在审核。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概还要几天？",
+              "id": "s50_6_0011_reply01",
+              "meaning_vi": "Khoảng mấy ngày nữa?"
+            },
+            {
+              "text": "可以网上查询吗？",
+              "id": "s50_6_0011_reply02",
+              "meaning_vi": "Có thể tra trực tuyến không?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“还在审核”表示未最终批准，不等于材料不足；若通知补件应按要求补交。",
+              "text_vi": "“还在审核” là chưa có quyết định cuối, không nhất thiết thiếu giấy; nếu có yêu cầu bổ sung thì nộp đúng."
+            }
+          ],
+          "pinyin": "hái zài shěn hé",
+          "when_to_use": "系统显示申请仍在审核，申请者想知道还需等待多久。",
+          "meaning_vi": "Vẫn đang xét duyệt.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0012",
+          "level": "listen",
+          "text": "已经办好了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我什么时候来领？",
+              "id": "s50_6_0012_reply01",
+              "meaning_vi": "Được, khi nào tôi đến nhận?"
+            },
+            {
+              "text": "需要带什么来？",
+              "id": "s50_6_0012_reply02",
+              "meaning_vi": "Cần mang gì khi đến?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“已经办好了”指业务已完成，但还需实际领取并核对证件信息，不能只凭口头通知出境。",
+              "text_vi": "“已经办好了” là thủ tục hoàn tất nhưng còn phải nhận và kiểm tra giấy; đừng xuất cảnh chỉ dựa vào lời thông báo."
+            }
+          ],
+          "pinyin": "yǐ jīng bàn hǎo le",
+          "when_to_use": "窗口告知你证件已办妥，你准备再问何时和带什么材料来取。",
+          "meaning_vi": "Đã làm xong rồi.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0013",
+          "level": "listen",
+          "text": "收到短信再来。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我注意看短信。",
+              "id": "s50_6_0013_reply01",
+              "meaning_vi": "Được, tôi sẽ để ý tin nhắn."
+            },
+            {
+              "text": "没收到能查进度吗？",
+              "id": "s50_6_0013_reply02",
+              "meaning_vi": "Nếu không nhận SMS có thể tra tiến độ không?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“收到短信再来”在这次业务中是领证安排，不是所有业务都统一如此；陌生短信中索取验证码的内容要警惕。",
+              "text_vi": "“收到短信再来” là hướng dẫn nhận giấy cho thủ tục này, không áp dụng mọi nơi; cảnh giác SMS xin mã OTP."
+            }
+          ],
+          "pinyin": "shōu dào duǎn xìn zài lái",
+          "when_to_use": "现场工作人员说办理结果会短信通知，提醒你收到信息后再来领。",
+          "meaning_vi": "Nhận được SMS rồi hãy đến.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0014",
+          "level": "listen",
+          "text": "领证时带上回执。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我带着。",
+              "id": "s50_6_0014_reply01",
+              "meaning_vi": "Được, tôi mang theo."
+            },
+            {
+              "text": "还需要带护照吗？",
+              "id": "s50_6_0014_reply02",
+              "meaning_vi": "Còn cần mang hộ chiếu không?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“领证时带回执”指携带受理凭证，不是只出示手机里的聊天截图；是否还要护照或其他身份证件需确认。",
+              "text_vi": "Mang giấy biên nhận là mang chứng từ tiếp nhận, không chỉ ảnh chụp chat; hỏi có cần hộ chiếu hoặc giấy khác không."
+            }
+          ],
+          "pinyin": "lǐng zhèng shí dài shàng huí zhí",
+          "when_to_use": "拿到工作人员的领证提醒，听到必须带上办理时发的受理回执。",
+          "meaning_vi": "Khi nhận giấy tờ hãy mang biên nhận.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0015",
+          "level": "listen",
+          "text": "这项不能代领。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我本人来。",
+              "id": "s50_6_0015_reply01",
+              "meaning_vi": "Được, tôi tự đến."
+            },
+            {
+              "text": "能改领取时间吗？",
+              "id": "s50_6_0015_reply02",
+              "meaning_vi": "Có thể đổi giờ nhận không?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“这项不能代领”是针对当前具体证件业务，不应泛化为所有办事项目都必须本人领取。",
+              "text_vi": "“不能代领” chỉ dành cho loại hồ sơ hiện tại, không có nghĩa mọi dịch vụ đều cấm người nhận thay."
+            }
+          ],
+          "pinyin": "zhè xiàng bù néng dài lǐng",
+          "when_to_use": "向窗口提出让家属代取，工作人员明确说此项不能代领。",
+          "meaning_vi": "Mục này không được nhận thay.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0016",
+          "level": "listen",
+          "text": "请本人来领取。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好的，我会来。",
+              "id": "s50_6_0016_reply01",
+              "meaning_vi": "Được, tôi sẽ tới."
+            },
+            {
+              "text": "要提前预约吗？",
+              "id": "s50_6_0016_reply02",
+              "meaning_vi": "Có phải đặt lịch trước không?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“本人来领取”表示需要本人到场，与允许代领的业务不同；问清领证地址、时间和证明文件。",
+              "text_vi": "“本人来领取” là phải tự đến quầy; hỏi giờ, địa chỉ và giấy tờ phải đem."
+            }
+          ],
+          "pinyin": "qǐng běn rén lái lǐng qǔ",
+          "when_to_use": "证件办好后，柜员要求申请人亲自带材料到现场领取。",
+          "meaning_vi": "Vui lòng chính chủ đến nhận.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0017",
+          "level": "listen",
+          "text": "网上可以查进度。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "在哪个网站查？",
+              "id": "s50_6_0017_reply01",
+              "meaning_vi": "Tra trên website nào?"
+            },
+            {
+              "text": "需要受理号吗？",
+              "id": "s50_6_0017_reply02",
+              "meaning_vi": "Có cần mã tiếp nhận không?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“网上可以查”不等于任何网站都可信；谨防仿冒政务页面，使用官方链接或受理回执标注的入口。",
+              "text_vi": "Tra online chỉ qua trang chính thức, tránh website giả mạo; dùng link từ biên nhận hoặc cổng cơ quan."
+            }
+          ],
+          "pinyin": "wǎng shàng kě yǐ chá jìn dù",
+          "when_to_use": "申请表已经提交，工作人员告知可以通过官网线上查办理状态。",
+          "meaning_vi": "Có thể tra tiến độ qua mạng.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        },
+        {
+          "id": "s50_6_0018",
+          "level": "listen",
+          "text": "按回执日期来领。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我记住了。",
+              "id": "s50_6_0018_reply01",
+              "meaning_vi": "Được, tôi nhớ rồi."
+            },
+            {
+              "text": "那天需要预约吗？",
+              "id": "s50_6_0018_reply02",
+              "meaning_vi": "Ngày đó có phải đặt lịch không?"
+            }
+          ],
+          "lesson_id": "50.6",
+          "lesson_title": "50.6 查询进度与领取证件",
+          "mistakes": [
+            {
+              "text": "“按回执日期”是依当前受理安排，不保证中途绝对不会变更；出行前可核对官方通知。",
+              "text_vi": "“按回执日期” dựa vào lịch trên giấy biên nhận, chưa chắc tuyệt đối không thay đổi; xem thông báo trước khi đến."
+            }
+          ],
+          "pinyin": "àn huí zhí rì qī lái lǐng",
+          "when_to_use": "受理回执上写有预计领证日期，柜员提醒届时按日期来取。",
+          "meaning_vi": "Đến nhận theo ngày ghi trên giấy biên nhận.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
+        }
+      ],
+      "title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ",
+      "subtitle_vi": "20 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi tình trạng xét duyệt, mã biên nhận, thời gian trả kết quả, nhận qua bưu điện và điều kiện nhận thay, đồng thời cảnh giác tin nhắn giả."
+    }
+  ],
+  "quality_notes": {
+    "editorial_revision": "V3 2026-11-01 Myanmar learners real-world Chinese immigration/work permit/document interactions",
+    "preservedOriginalParents": 110,
+    "newParents": 17,
+    "retiredParents": 0,
+    "originalParentOrderUnchanged": true,
+    "sourceCountCorrection": "V2 metadata declared 111 but actual pack/source had 110 parent cards; corrected to 127 after 17 additions.",
+    "altCount": 34,
+    "replyCount": 254,
+    "addedChildIDs": 288,
+    "totalUniqueExpressionIDs": 415,
+    "mainChineseChangedIDs": [
+      "s50_3_0018",
+      "s50_4_0016",
+      "s50_4_0017"
+    ],
+    "mainTextRegenerationRequired": true,
+    "legalNotes": "Visa stay extension: apply before 7 days of expiry of permitted stay under article 29; residence permit extension: apply 30 days before residence expiry under article 32; relevant foreign work permit extension typically 30 days ahead. Document return receipt does not itself authorize international travel. Recheck local current instructions.",
+    "newPrimaryAudioRequired": 17,
+    "newChildAudioIDsRequired": 288,
+    "sourceLessonPackIDsPreserved": true,
+    "motherTongueReview": "Independent native Myanmar-speaking legal/office terminology signoff pending",
+    "legalExpertReview": "Independent immigration/foreign-work-permit professional review pending",
+    "voiceReview": "Human standard Mandarin TTS and Myanmar approximate-pronunciation check pending",
+    "appReview": "Web/Android loading, audio ID and caching tests pending"
+  },
+  "theme_title_vi": "50 Giấy tờ, thị thực và thủ tục",
+  "card_count": 127,
+  "lesson_counts": [
+    21,
+    22,
+    22,
+    22,
+    20,
+    20
+  ]
+}

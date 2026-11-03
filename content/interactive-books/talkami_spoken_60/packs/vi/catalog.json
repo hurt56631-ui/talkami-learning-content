@@ -3,7 +3,7 @@
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 3265,
+  "item_count": 3726,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -798,6 +798,82 @@
           "data_version": 2,
           "lesson_count": 3,
           "title_vi": "20 Điện nước, điều hòa và hỏng thiết bị"
+        },
+        {
+          "theme_id": "47",
+          "title": "租房搬家",
+          "title_vi": "47 Thuê nhà và chuyển nhà",
+          "status": "available",
+          "free": false,
+          "phrase_count": 89,
+          "lessons": [
+            {
+              "id": "47.1",
+              "title": "47.1 找房看房",
+              "title_vi": "47.1 Tìm và xem nhà thuê",
+              "count": 24
+            },
+            {
+              "id": "47.2",
+              "title": "47.2 房租押金与费用",
+              "title_vi": "47.2 Tiền thuê, đặt cọc và phí",
+              "count": 23
+            },
+            {
+              "id": "47.3",
+              "title": "47.3 合同入住与住宿登记",
+              "title_vi": "47.3 Hợp đồng, nhận nhà và khai báo lưu trú",
+              "count": 21
+            },
+            {
+              "id": "47.4",
+              "title": "47.4 搬家退房",
+              "title_vi": "47.4 Chuyển nhà và trả nhà",
+              "count": 21
+            }
+          ],
+          "data_url": "packs/vi/47.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "48",
+          "title": "社区物业",
+          "title_vi": "48 Ban quản lý và khu dân cư",
+          "status": "available",
+          "free": false,
+          "phrase_count": 86,
+          "lessons": [
+            {
+              "id": "48.1",
+              "title": "48.1 联系物业与公共设施报修",
+              "title_vi": "48.1 Liên hệ ban quản lý và báo hỏng khu chung",
+              "count": 19
+            },
+            {
+              "id": "48.2",
+              "title": "48.2 报修预约与催修",
+              "title_vi": "48.2 Hẹn sửa chữa và theo dõi tiến độ",
+              "count": 24
+            },
+            {
+              "id": "48.3",
+              "title": "48.3 邻居噪音",
+              "title_vi": "48.3 Trao đổi với hàng xóm về tiếng ồn",
+              "count": 21
+            },
+            {
+              "id": "48.4",
+              "title": "48.4 公共区域停车与垃圾",
+              "title_vi": "48.4 Khu vực chung, gửi xe và rác thải",
+              "count": 22
+            }
+          ],
+          "data_url": "packs/vi/48.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
         }
       ]
     },
@@ -1753,15 +1829,135 @@
           "data_version": 2,
           "lesson_count": 4,
           "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "46",
+          "title": "紧急求助",
+          "title_vi": "46 Trợ giúp khẩn cấp",
+          "status": "available",
+          "free": false,
+          "phrase_count": 72,
+          "lessons": [
+            {
+              "id": "46.1",
+              "title": "46.1 报警求助",
+              "title_vi": "46.1 Gọi cảnh sát và cầu cứu",
+              "count": 24
+            },
+            {
+              "id": "46.2",
+              "title": "46.2 医疗急救",
+              "title_vi": "46.2 Sơ cứu và gọi cấp cứu",
+              "count": 24
+            },
+            {
+              "id": "46.3",
+              "title": "46.3 火灾疏散",
+              "title_vi": "46.3 Cháy nổ và sơ tán",
+              "count": 24
+            }
+          ],
+          "data_url": "packs/vi/46.json",
+          "data_version": 1,
+          "lesson_count": 3,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "49",
+          "title": "银行邮政",
+          "title_vi": "49 Ngân hàng và bưu điện",
+          "status": "available",
+          "free": false,
+          "phrase_count": 87,
+          "lessons": [
+            {
+              "id": "49.1",
+              "title": "49.1 银行卡与取现",
+              "title_vi": "49.1 Thẻ ngân hàng và rút tiền mặt",
+              "count": 23
+            },
+            {
+              "id": "49.2",
+              "title": "49.2 转账汇款",
+              "title_vi": "49.2 Chuyển khoản và chuyển tiền",
+              "count": 20
+            },
+            {
+              "id": "49.3",
+              "title": "49.3 银行卡异常",
+              "title_vi": "49.3 Thẻ bị mất và giao dịch bất thường",
+              "count": 22
+            },
+            {
+              "id": "49.4",
+              "title": "49.4 邮政国际寄件",
+              "title_vi": "49.4 Bưu điện và gửi hàng quốc tế",
+              "count": 22
+            }
+          ],
+          "data_url": "packs/vi/49.json",
+          "data_version": 1,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "50",
+          "title": "证件签证办事",
+          "title_vi": "50 Giấy tờ, thị thực và thủ tục",
+          "status": "available",
+          "free": false,
+          "phrase_count": 127,
+          "lessons": [
+            {
+              "id": "50.1",
+              "title": "50.1 办理地点材料",
+              "title_vi": "50.1 Nơi làm thủ tục và giấy tờ cần nộp",
+              "count": 21
+            },
+            {
+              "id": "50.2",
+              "title": "50.2 填表取号与预约",
+              "title_vi": "50.2 Điền biểu mẫu, lấy số và hẹn lịch",
+              "count": 22
+            },
+            {
+              "id": "50.3",
+              "title": "50.3 签证与居留许可",
+              "title_vi": "50.3 Thị thực và giấy phép cư trú",
+              "count": 22
+            },
+            {
+              "id": "50.4",
+              "title": "50.4 外国人来华工作许可",
+              "title_vi": "50.4 Giấy phép lao động của người nước ngoài tại Trung Quốc",
+              "count": 22
+            },
+            {
+              "id": "50.5",
+              "title": "50.5 证件丢失与补办",
+              "title_vi": "50.5 Mất giấy tờ và xin cấp lại",
+              "count": 20
+            },
+            {
+              "id": "50.6",
+              "title": "50.6 查询进度与领取证件",
+              "title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ",
+              "count": 20
+            }
+          ],
+          "data_url": "packs/vi/50.json",
+          "data_version": 1,
+          "lesson_count": 6,
+          "needs_pronunciation_review": true
         }
       ]
     }
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-45-full-notes-qa-v11-20261103",
-  "source_status": "Vietnamese themes 01–45 published. Themes 41–45 have all practice sentence translations and source-specific Vietnamese teaching notes; structural regression passed. Native speaker/professional editorial, audio and app integration still pending.",
+  "revision": "spoken-vi-themes01-50-reviewed-v12-20261103",
+  "source_status": "Vietnamese theme JSON files 01–50 published, including fully translated cards, alternatives, replies, and notes for 46–50; validated against Mandarin source. Vietnamese native-editor, audio alignment and in-app QA pending. Themes 51–60 not yet translated.",
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:42:37.063Z",
+  "updated_at": "2026-11-03T02:53:21.093Z",
   "packs_base_path": "packs/vi/"
 }
