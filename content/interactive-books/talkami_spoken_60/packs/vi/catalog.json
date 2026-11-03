@@ -3,7 +3,7 @@
   "id": "talkami_spoken_60_vi",
   "title": "在中国生活与工作 · 实用中文口语（越南语版）",
   "title_vi": "Tiếng Trung giao tiếp thực tế khi sống và làm việc tại Trung Quốc",
-  "item_count": 3726,
+  "item_count": 4144,
   "free_count": 307,
   "free_theme_ids": [
     "01",
@@ -871,7 +871,7 @@
             }
           ],
           "data_url": "packs/vi/48.json",
-          "data_version": 1,
+          "data_version": 2,
           "lesson_count": 4,
           "needs_pronunciation_review": true
         }
@@ -1853,12 +1853,12 @@
             {
               "id": "46.3",
               "title": "46.3 火灾疏散",
-              "title_vi": "46.3 Cháy nổ và sơ tán",
+              "title_vi": "46.3 Hỏa hoạn và sơ tán",
               "count": 24
             }
           ],
           "data_url": "packs/vi/46.json",
-          "data_version": 1,
+          "data_version": 2,
           "lesson_count": 3,
           "needs_pronunciation_review": true
         },
@@ -1896,7 +1896,7 @@
             }
           ],
           "data_url": "packs/vi/49.json",
-          "data_version": 1,
+          "data_version": 2,
           "lesson_count": 4,
           "needs_pronunciation_review": true
         },
@@ -1946,8 +1946,205 @@
             }
           ],
           "data_url": "packs/vi/50.json",
-          "data_version": 1,
+          "data_version": 2,
           "lesson_count": 6,
+          "needs_pronunciation_review": true
+        }
+      ]
+    },
+    {
+      "zone_id": 8,
+      "title": "找工作上班",
+      "title_vi": "Tìm việc và đi làm",
+      "themes": [
+        {
+          "theme_id": "51",
+          "title": "求职面试",
+          "title_vi": "51 Tìm việc và phỏng vấn",
+          "status": "available",
+          "free": false,
+          "phrase_count": 95,
+          "lessons": [
+            {
+              "id": "51.1",
+              "title": "51.1 找工作职位",
+              "title_vi": "51.1 Tìm việc và tìm hiểu vị trí tuyển dụng",
+              "count": 25
+            },
+            {
+              "id": "51.2",
+              "title": "51.2 简历自我介绍",
+              "title_vi": "51.2 CV và giới thiệu bản thân",
+              "count": 24
+            },
+            {
+              "id": "51.3",
+              "title": "51.3 面试问答",
+              "title_vi": "51.3 Hỏi đáp phỏng vấn",
+              "count": 22
+            },
+            {
+              "id": "51.4",
+              "title": "51.4 薪资工时福利",
+              "title_vi": "51.4 Lương, thời gian làm việc và phúc lợi",
+              "count": 24
+            }
+          ],
+          "data_url": "packs/vi/51.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "52",
+          "title": "入职报到",
+          "title_vi": "52 Nhận việc và định hướng ban đầu",
+          "status": "available",
+          "free": false,
+          "phrase_count": 64,
+          "lessons": [
+            {
+              "id": "52.1",
+              "title": "52.1 第一天报到",
+              "title_vi": "52.1 Ngày đầu tiên nhận việc",
+              "count": 21
+            },
+            {
+              "id": "52.2",
+              "title": "52.2 找主管、工位和第一项任务",
+              "title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên",
+              "count": 22
+            },
+            {
+              "id": "52.3",
+              "title": "52.3 工牌制服与上岗规则",
+              "title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc",
+              "count": 21
+            }
+          ],
+          "data_url": "packs/vi/52.json",
+          "data_version": 2,
+          "lesson_count": 3,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "53",
+          "title": "日常工作沟通",
+          "title_vi": "53 Giao tiếp công việc hằng ngày",
+          "status": "available",
+          "free": false,
+          "phrase_count": 84,
+          "lessons": [
+            {
+              "id": "53.1",
+              "title": "53.1 接受工作指令",
+              "title_vi": "53.1 Tiếp nhận chỉ dẫn công việc",
+              "count": 21
+            },
+            {
+              "id": "53.2",
+              "title": "53.2 不会时确认",
+              "title_vi": "53.2 Hỏi lại khi chưa hiểu thao tác",
+              "count": 21
+            },
+            {
+              "id": "53.3",
+              "title": "53.3 同事协作",
+              "title_vi": "53.3 Phối hợp với đồng nghiệp",
+              "count": 20
+            },
+            {
+              "id": "53.4",
+              "title": "53.4 汇报完成问题",
+              "title_vi": "53.4 Báo cáo tiến độ, kết quả và sự cố",
+              "count": 22
+            }
+          ],
+          "data_url": "packs/vi/53.json",
+          "data_version": 2,
+          "lesson_count": 4,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "54",
+          "title": "任务会议与出差",
+          "title_vi": "54 Công việc, cuộc họp và công tác",
+          "status": "available",
+          "free": false,
+          "phrase_count": 95,
+          "lessons": [
+            {
+              "id": "54.1",
+              "title": "54.1 接收任务",
+              "title_vi": "54.1 Nhận nhiệm vụ và phân công",
+              "count": 17
+            },
+            {
+              "id": "54.2",
+              "title": "54.2 进度截止",
+              "title_vi": "54.2 Tiến độ và hạn chót",
+              "count": 18
+            },
+            {
+              "id": "54.3",
+              "title": "54.3 会议发言",
+              "title_vi": "54.3 Phát biểu và trao đổi trong cuộc họp",
+              "count": 19
+            },
+            {
+              "id": "54.4",
+              "title": "54.4 文件信息传达",
+              "title_vi": "54.4 Truyền đạt tài liệu và thông tin",
+              "count": 19
+            },
+            {
+              "id": "54.5",
+              "title": "54.5 出差安排与报销准备",
+              "title_vi": "54.5 Sắp xếp công tác và chuẩn bị thanh toán chi phí",
+              "count": 22
+            }
+          ],
+          "data_url": "packs/vi/54.json",
+          "data_version": 2,
+          "lesson_count": 5,
+          "needs_pronunciation_review": true
+        },
+        {
+          "theme_id": "55",
+          "title": "考勤排班",
+          "title_vi": "55 Chấm công và phân ca",
+          "status": "available",
+          "free": false,
+          "phrase_count": 80,
+          "lessons": [
+            {
+              "id": "55.1",
+              "title": "55.1 上下班打卡",
+              "title_vi": "55.1 Chấm công khi vào và tan làm",
+              "count": 22
+            },
+            {
+              "id": "55.2",
+              "title": "55.2 白班夜班排班",
+              "title_vi": "55.2 Ca ngày, ca đêm và lịch phân ca",
+              "count": 20
+            },
+            {
+              "id": "55.3",
+              "title": "55.3 换班加班",
+              "title_vi": "55.3 Đổi ca và làm thêm giờ",
+              "count": 20
+            },
+            {
+              "id": "55.4",
+              "title": "55.4 请假迟到",
+              "title_vi": "55.4 Xin nghỉ phép và đi làm muộn",
+              "count": 18
+            }
+          ],
+          "data_url": "packs/vi/55.json",
+          "data_version": 2,
+          "lesson_count": 4,
           "needs_pronunciation_review": true
         }
       ]
@@ -1955,9 +2152,9 @@
   ],
   "distribution": "public-theme-packs",
   "public_base_url": "https://raw.githubusercontent.com/hurt56631-ui/talkami-learning-content/main/content/interactive-books/talkami_spoken_60/",
-  "revision": "spoken-vi-themes01-50-reviewed-v12-20261103",
-  "source_status": "Vietnamese theme JSON files 01–50 published, including fully translated cards, alternatives, replies, and notes for 46–50; validated against Mandarin source. Vietnamese native-editor, audio alignment and in-app QA pending. Themes 51–60 not yet translated.",
+  "revision": "spoken-vi-themes01-55-qa-v13-20261103",
+  "source_status": "Vietnamese themes 01-55 published with full phrase/alternative/reply coverage for 51-55 and source-specific Vietnamese pedagogy. Themes 46-50 have undergone additional semantic/style review. Native-speaker, professional policy/legal editor, audio and app tests still pending; themes 56-60 not yet translated.",
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:53:21.093Z",
+  "updated_at": "2026-11-03T03:05:00.206Z",
   "packs_base_path": "packs/vi/"
 }
