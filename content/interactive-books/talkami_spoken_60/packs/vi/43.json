@@ -1,0 +1,2004 @@
+{
+  "theme_id": "43",
+  "lessons": [
+    {
+      "id": "43.1",
+      "title": "43.1 注册登录",
+      "phrases": [
+        {
+          "id": "s43_1_0001",
+          "level": "must",
+          "text": "怎么注册？",
+          "when_to_use": "你第一次使用中国本地生活App，没有账号，需要询问工作人员怎样建立新账号。",
+          "alternatives": [
+            {
+              "text": "账号怎么注册？",
+              "id": "s43_1_0001_alt01",
+              "meaning_vi": "Đăng ký tài khoản thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先用手机号注册。",
+              "id": "s43_1_0001_reply01",
+              "meaning_vi": "Trước tiên đăng ký bằng số điện thoại."
+            },
+            {
+              "text": "按页面提示一步一步来。",
+              "id": "s43_1_0001_reply02",
+              "meaning_vi": "Làm từng bước theo hướng dẫn trên màn hình."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "zěn me zhù cè",
+          "mistakes": [
+            {
+              "text": "“注册”是创建新账号，不是用已有账号“登录”；先核对是否下载官方App。",
+              "text_vi": "Giải thích cách dùng: Đăng ký thế nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đăng ký thế nào?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0002",
+          "level": "must",
+          "text": "可以用手机号登录吗？",
+          "when_to_use": "你已经注册过平台账号，想直接用绑定的手机号码进入，就问能否手机号登录。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，输入手机号后再按提示验证。",
+              "id": "s43_1_0002_reply01",
+              "meaning_vi": "Được, nhập số điện thoại rồi xác minh theo hướng dẫn."
+            },
+            {
+              "text": "这个软件也支持其他登录方式。",
+              "id": "s43_1_0002_reply02",
+              "meaning_vi": "Ứng dụng này còn hỗ trợ cách đăng nhập khác."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "kě yǐ yòng shǒu jī hào dēng lù ma",
+          "mistakes": [
+            {
+              "text": "“登录”是进入既有账号，不一定要用短信密码；各App登录方式可能不同。",
+              "text_vi": "Giải thích cách dùng: Có thể đăng nhập bằng số điện thoại không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Có thể đăng nhập bằng số điện thoại không?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0003",
+          "level": "must",
+          "text": "我没有账号。",
+          "when_to_use": "同事让你在软件上报名培训，但你还没注册，就解释自己没有账号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那先注册一个账号。",
+              "id": "s43_1_0003_reply01",
+              "meaning_vi": "Vậy đăng ký một tài khoản trước nhé."
+            },
+            {
+              "text": "可以先看看有没有其他登录方式。",
+              "id": "s43_1_0003_reply02",
+              "meaning_vi": "Bạn cũng có thể xem có cách đăng nhập khác không."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "wǒ méi yǒu zhàng hào",
+          "mistakes": [
+            {
+              "text": "“没有账号”是尚未有登录身份，不是没有手机或没有网络。",
+              "text_vi": "Giải thích cách dùng: Tôi chưa có tài khoản. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Tôi chưa có tài khoản.",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0005",
+          "level": "must",
+          "text": "要实名认证吗？",
+          "when_to_use": "使用某个平台填写资料时，页面出现实名验证提示，你不确定这一步是否必需，就问工作人员。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要不要认证要看这个平台的要求。",
+              "id": "s43_1_0005_reply01",
+              "meaning_vi": "Còn tùy yêu cầu của nền tảng này."
+            },
+            {
+              "text": "页面提示需要的话就要认证。",
+              "id": "s43_1_0005_reply02",
+              "meaning_vi": "Nếu màn hình yêu cầu thì phải xác thực."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "yào shí míng rèn zhèng ma",
+          "mistakes": [
+            {
+              "text": "“实名认证”通常是平台核对身份信息，不等于所有平台都要上传同一种证件；核实官方渠道。",
+              "text_vi": "Giải thích cách dùng: Có cần xác thực danh tính không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Có cần xác thực danh tính không?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0019",
+          "level": "must",
+          "text": "没有中国手机号，能注册吗？",
+          "when_to_use": "刚到中国，还没办当地手机号，想知道生活App是否支持其他国家的号码注册。",
+          "alternatives": [
+            {
+              "text": "外国手机号能注册吗？",
+              "id": "s43_1_0019_alt01",
+              "meaning_vi": "Có đăng ký bằng số điện thoại nước ngoài được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要看这个平台支不支持外国号码。",
+              "id": "s43_1_0019_reply01",
+              "meaning_vi": "Còn tùy nền tảng có hỗ trợ số nước ngoài không."
+            },
+            {
+              "text": "你先看国家区号能不能选。",
+              "id": "s43_1_0019_reply02",
+              "meaning_vi": "Bạn thử xem có chọn được mã vùng quốc gia không."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "méi yǒu zhōng guó shǒu jī hào néng zhù cè ma",
+          "mistakes": [
+            {
+              "text": "中国手机号和外国手机号可能使用不同的国家区号；是否支持注册以平台要求为准，不要借用陌生人的号码。",
+              "text_vi": "Giải thích cách dùng: Không có số điện thoại Trung Quốc thì đăng ký được không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Không có số điện thoại Trung Quốc thì đăng ký được không?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0020",
+          "level": "must",
+          "text": "护照可以用来实名认证吗？",
+          "when_to_use": "缅甸学习者需要使用要求实名的App，想知道自己的有效护照是否属于平台支持的证件。",
+          "alternatives": [
+            {
+              "text": "可以用外国护照认证吗？",
+              "id": "s43_1_0020_alt01",
+              "meaning_vi": "Có thể xác thực bằng hộ chiếu nước ngoài không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看证件类型里有没有护照。",
+              "id": "s43_1_0020_reply01",
+              "meaning_vi": "Xem danh sách giấy tờ có mục hộ chiếu không."
+            },
+            {
+              "text": "没有护照选项的话，问一下官方客服。",
+              "id": "s43_1_0020_reply02",
+              "meaning_vi": "Nếu không có, hãy liên hệ tổng đài chính thức."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "hù zhào kě yǐ yòng lái shí míng rèn zhèng ma",
+          "mistakes": [
+            {
+              "text": "不是所有平台都接受外国护照，应按该平台支持的证件类型办理；不要将护照照片发给陌生联系人。",
+              "text_vi": "Giải thích cách dùng: Có thể dùng hộ chiếu để xác thực danh tính không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Có thể dùng hộ chiếu để xác thực danh tính không?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0021",
+          "level": "must",
+          "text": "换手机号后，账号怎么登录？",
+          "when_to_use": "你的旧手机号停用了，准备换成新的手机卡，需要确认以前注册的账号如何找回或换绑。",
+          "alternatives": [
+            {
+              "text": "我的旧手机号不用了，怎么登录？",
+              "id": "s43_1_0021_alt01",
+              "meaning_vi": "Tôi không dùng số cũ nữa, đăng nhập thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看看有没有其他登录方式。",
+              "id": "s43_1_0021_reply01",
+              "meaning_vi": "Trước tiên xem có cách đăng nhập khác không."
+            },
+            {
+              "text": "还进不去的话，找官方客服换绑号码。",
+              "id": "s43_1_0021_reply02",
+              "meaning_vi": "Nếu vẫn không vào được, liên hệ hỗ trợ chính thức để đổi số liên kết."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "huàn shǒu jī hào hòu zhàng hào zěn me dēng lù",
+          "mistakes": [
+            {
+              "text": "换SIM卡不等于账号会自动绑定新号码；找回账号要按平台的验证流程操作，不要把验证码交给别人。",
+              "text_vi": "Giải thích cách dùng: Đổi số điện thoại rồi thì đăng nhập tài khoản thế nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đổi số điện thoại rồi thì đăng nhập tài khoản thế nào?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0006",
+          "level": "listen",
+          "text": "登录成功了。",
+          "when_to_use": "按手机号和密码进入新工作App后，页面提示登录成功，你告诉同事现在能使用了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，可以用了。",
+              "id": "s43_1_0006_reply01",
+              "meaning_vi": "Được, dùng được rồi."
+            },
+            {
+              "text": "那就直接进去吧。",
+              "id": "s43_1_0006_reply02",
+              "meaning_vi": "Vậy vào luôn đi."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "dēng lù chéng gōng le",
+          "mistakes": [
+            {
+              "text": "“登录成功”仅表示进入账号成功，不保证实名审核或业务申请也成功。",
+              "text_vi": "Giải thích cách dùng: Đăng nhập thành công rồi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đăng nhập thành công rồi.",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0008",
+          "level": "must",
+          "text": "登录不上怎么办？",
+          "when_to_use": "你明明记得账号，却一直进不去App，向技术人员询问应该怎么排查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先检查手机号和密码。",
+              "id": "s43_1_0008_reply01",
+              "meaning_vi": "Trước tiên kiểm tra số điện thoại và mật khẩu."
+            },
+            {
+              "text": "看看页面上提示什么。",
+              "id": "s43_1_0008_reply02",
+              "meaning_vi": "Xem trên màn hình thông báo gì."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "dēng lù bú shàng zěn me bàn",
+          "mistakes": [
+            {
+              "text": "“登录不上”可能是密码、网络、账号限制等多种原因，不能马上断定账号被盗。",
+              "text_vi": "Giải thích cách dùng: Không đăng nhập được thì làm sao? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Không đăng nhập được thì làm sao?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0009",
+          "level": "must",
+          "text": "可以用微信登录吗？",
+          "when_to_use": "你已经有微信，希望少记一套账号密码，就问平台是否支持微信授权登录。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有微信登录入口才可以。",
+              "id": "s43_1_0009_reply01",
+              "meaning_vi": "Chỉ được nếu có mục đăng nhập bằng WeChat."
+            },
+            {
+              "text": "要看这个软件支不支持。",
+              "id": "s43_1_0009_reply02",
+              "meaning_vi": "Còn tùy ứng dụng này có hỗ trợ không."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "kě yǐ yòng wēi xìn dēng lù ma",
+          "mistakes": [
+            {
+              "text": "“微信登录”要看页面是否提供授权入口，不是所有App都接受微信账号；谨慎查看授权内容。",
+              "text_vi": "Giải thích cách dùng: Có thể đăng nhập bằng WeChat không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Có thể đăng nhập bằng WeChat không?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0010",
+          "level": "must",
+          "text": "实名认证需要什么证件？",
+          "when_to_use": "你持缅甸护照，使用中国App时遇到身份核验页面，不知道它接受什么证件，就问客服。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先看平台支持哪些证件。",
+              "id": "s43_1_0010_reply01",
+              "meaning_vi": "Trước tiên xem nền tảng hỗ trợ loại giấy tờ nào."
+            },
+            {
+              "text": "有护照选项的话，可以按提示办理。",
+              "id": "s43_1_0010_reply02",
+              "meaning_vi": "Nếu có lựa chọn hộ chiếu thì làm theo hướng dẫn."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "shí míng rèn zhèng xū yào shén me zhèng jiàn",
+          "mistakes": [
+            {
+              "text": "“什么证件”问证件种类，平台是否接受外国护照及核验方式应查官方规则，不能假定一定成功。",
+              "text_vi": "Giải thích cách dùng: Cần giấy tờ gì để xác thực danh tính? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Cần giấy tờ gì để xác thực danh tính?",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0012",
+          "level": "listen",
+          "text": "先输入手机号。",
+          "when_to_use": "你在新软件注册页面看到空白手机号栏，旁边同事指导你先填写手机号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我输入。",
+              "id": "s43_1_0012_reply01",
+              "meaning_vi": "Được, tôi nhập."
+            },
+            {
+              "text": "输入以后再看下一步。",
+              "id": "s43_1_0012_reply02",
+              "meaning_vi": "Nhập xong xem bước tiếp theo."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "xiān shū rù shǒu jī hào",
+          "mistakes": [
+            {
+              "text": "“输入”是把号码键入指定栏，不是给别人发送手机号；应核对国家区号。",
+              "text_vi": "Giải thích cách dùng: Trước tiên nhập số điện thoại. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Trước tiên nhập số điện thoại.",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0013",
+          "level": "listen",
+          "text": "验证码已发送。",
+          "when_to_use": "你刚在官方App申请验证码，页面提示短信已发送，你去查看自己手机上的消息。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我看一下短信。",
+              "id": "s43_1_0013_reply01",
+              "meaning_vi": "Để tôi kiểm tra tin nhắn."
+            },
+            {
+              "text": "我先看看短信有没有收到。",
+              "id": "s43_1_0013_reply02",
+              "meaning_vi": "Tôi xem đã nhận được SMS chưa."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "yàn zhèng mǎ yǐ fā sòng",
+          "mistakes": [
+            {
+              "text": "“已发送”是系统表示发出，并不保证手机立刻收到；验证码不要告诉他人。",
+              "text_vi": "Giải thích cách dùng: Đã gửi mã xác minh. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đã gửi mã xác minh.",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0015",
+          "level": "listen",
+          "text": "这个手机号已经注册过了。",
+          "when_to_use": "你用旧手机号注册过某个平台，再次点击注册时页面提示这个号码已经注册过。",
+          "alternatives": [
+            {
+              "text": "这个号码已经注册过了。",
+              "id": "s43_1_0015_alt01",
+              "meaning_vi": "Số này đã đăng ký trước đó."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那试试直接登录。",
+              "id": "s43_1_0015_reply01",
+              "meaning_vi": "Vậy thử đăng nhập luôn."
+            },
+            {
+              "text": "如果是你的号码，可以试着找回账号。",
+              "id": "s43_1_0015_reply02",
+              "meaning_vi": "Nếu là số của bạn, có thể thử khôi phục tài khoản."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "zhè ge shǒu jī hào yǐ jīng zhù cè guò le",
+          "mistakes": [
+            {
+              "text": "“已经注册过”表示系统里有相关记录，不一定是别人盗用；可按正规流程尝试登录或找回。",
+              "text_vi": "Giải thích cách dùng: Số điện thoại này đã đăng ký rồi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Số điện thoại này đã đăng ký rồi.",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0017",
+          "level": "listen",
+          "text": "注册成功了。",
+          "when_to_use": "注册流程最后一步完成后，屏幕显示成功，你告诉同事自己已创建账号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，现在可以登录了。",
+              "id": "s43_1_0017_reply01",
+              "meaning_vi": "Được, giờ đăng nhập được rồi."
+            },
+            {
+              "text": "注册好了就记住账号。",
+              "id": "s43_1_0017_reply02",
+              "meaning_vi": "Đăng ký xong nhớ thông tin tài khoản."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "zhù cè chéng gōng le",
+          "mistakes": [
+            {
+              "text": "“注册成功”与“登录成功”不同，注册完成后有的应用还需单独登录。",
+              "text_vi": "Giải thích cách dùng: Đăng ký thành công rồi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đăng ký thành công rồi.",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        },
+        {
+          "id": "s43_1_0018",
+          "level": "listen",
+          "text": "还需要实名认证。",
+          "when_to_use": "账号已经创建好了，但某个服务还要求实名核验，系统提示需继续完成实名认证。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我继续认证。",
+              "id": "s43_1_0018_reply01",
+              "meaning_vi": "Được, tôi tiếp tục xác thực."
+            },
+            {
+              "text": "具体按页面要求来。",
+              "id": "s43_1_0018_reply02",
+              "meaning_vi": "Hãy làm theo yêu cầu trên màn hình."
+            }
+          ],
+          "lesson_id": "43.1",
+          "lesson_title": "43.1 注册登录",
+          "pinyin": "hái xū yào shí míng rèn zhèng",
+          "mistakes": [
+            {
+              "text": "“还需要”表示前一步完成但另一步未做；注册成功不等于实名认证通过。",
+              "text_vi": "Giải thích cách dùng: Vẫn cần xác thực danh tính. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Vẫn cần xác thực danh tính.",
+          "lesson_title_vi": "43.1 Đăng ký và đăng nhập"
+        }
+      ],
+      "title_vi": "43.1 Đăng ký và đăng nhập",
+      "subtitle_vi": "16 thẻ giao tiếp",
+      "opening_vi": "Thực hành đăng ký bằng số điện thoại, đăng nhập, xác thực danh tính và lấy lại tài khoản khi đổi số. Ưu tiên ứng dụng, bộ phận hỗ trợ chính thức."
+    },
+    {
+      "id": "43.2",
+      "title": "43.2 密码验证码",
+      "phrases": [
+        {
+          "id": "s43_2_0001",
+          "level": "must",
+          "text": "我忘记密码了。",
+          "when_to_use": "你已经有中国平台账号，但太久没用，登录时记不起密码，就向工作人员说明忘记了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "点忘记密码重新设置。",
+              "id": "s43_2_0001_reply01",
+              "meaning_vi": "Nhấn “Quên mật khẩu” để đặt lại."
+            },
+            {
+              "text": "可以用验证码重置的话就按提示操作。",
+              "id": "s43_2_0001_reply02",
+              "meaning_vi": "Nếu có thể đặt lại bằng mã xác minh thì làm theo hướng dẫn."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "wǒ wàng jì mì mǎ le",
+          "mistakes": [
+            {
+              "text": "“忘记密码”是记不起旧密码，不等于账号已注销；优先走官方找回功能。",
+              "text_vi": "Giải thích cách dùng: Tôi quên mật khẩu rồi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Tôi quên mật khẩu rồi.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0002",
+          "level": "must",
+          "text": "怎么改密码？",
+          "when_to_use": "你担心别人知道旧密码，想在自己已登录的账号设置里主动换密码，就问操作步骤。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "到账号设置里找“修改密码”。",
+              "id": "s43_2_0002_reply01",
+              "meaning_vi": "Vào cài đặt tài khoản tìm “Đổi mật khẩu”."
+            },
+            {
+              "text": "按页面提示重新设置。",
+              "id": "s43_2_0002_reply02",
+              "meaning_vi": "Làm theo hướng dẫn trên màn hình để đặt lại."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "zěn me gǎi mì mǎ",
+          "mistakes": [
+            {
+              "text": "“改密码”通常已能访问账号并修改，不同于忘记密码后的身份核验重置。",
+              "text_vi": "Giải thích cách dùng: Đổi mật khẩu thế nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đổi mật khẩu thế nào?",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0003",
+          "level": "must",
+          "text": "没收到验证码。",
+          "when_to_use": "你申请登录短信验证码，但中国手机收到的短信里一直没有验证码，向客服反馈。",
+          "alternatives": [
+            {
+              "text": "验证码没收到。",
+              "id": "s43_2_0003_alt01",
+              "meaning_vi": "Chưa nhận được mã xác minh."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先检查手机有没有信号。",
+              "id": "s43_2_0003_reply01",
+              "meaning_vi": "Trước tiên kiểm tra điện thoại có sóng không."
+            },
+            {
+              "text": "等一下再重新获取。",
+              "id": "s43_2_0003_reply02",
+              "meaning_vi": "Đợi chút rồi yêu cầu mã mới."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "méi shōu dào yàn zhèng mǎ",
+          "mistakes": [
+            {
+              "text": "“没收到”是短信未到，不一定系统没发送；先核对手机号、拦截短信和网络。",
+              "text_vi": "Giải thích cách dùng: Tôi chưa nhận được mã xác minh. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Tôi chưa nhận được mã xác minh.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0004",
+          "level": "must",
+          "text": "请再发一次验证码。",
+          "when_to_use": "第一次验证码没到，你等系统允许重新发送后，请客服或页面再发一次。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，点重新发送。",
+              "id": "s43_2_0004_reply01",
+              "meaning_vi": "Được, nhấn “Gửi lại”."
+            },
+            {
+              "text": "等页面允许以后再发。",
+              "id": "s43_2_0004_reply02",
+              "meaning_vi": "Đợi đến khi hệ thống cho phép rồi gửi lại."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "qǐng zài fā yí cì yàn zhèng mǎ",
+          "mistakes": [
+            {
+              "text": "“再发一次”是再次发送验证码，不要反复过快点击导致暂时限制。",
+              "text_vi": "Giải thích cách dùng: Vui lòng gửi lại mã xác minh. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Vui lòng gửi lại mã xác minh.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0005",
+          "level": "must",
+          "text": "验证码不对。",
+          "when_to_use": "你把短信中的验证码输进App却显示不正确，询问是数字输错还是验证码已变更。",
+          "alternatives": [
+            {
+              "text": "验证码错了。",
+              "id": "s43_2_0005_alt01",
+              "meaning_vi": "Mã xác minh sai rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "再核对一下短信里的验证码。",
+              "id": "s43_2_0005_reply01",
+              "meaning_vi": "Kiểm tra lại mã trong tin nhắn."
+            },
+            {
+              "text": "不对的话重新获取一个。",
+              "id": "s43_2_0005_reply02",
+              "meaning_vi": "Nếu sai thì yêu cầu mã mới."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "yàn zhèng mǎ bú duì",
+          "mistakes": [
+            {
+              "text": "“验证码不对”指输入的代码与当前有效代码不符，不一定账号密码也错。",
+              "text_vi": "Giải thích cách dùng: Mã xác minh không đúng. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mã xác minh không đúng.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0021",
+          "level": "must",
+          "text": "验证码发到旧手机号了。",
+          "when_to_use": "更换号码后找回账号，系统仍将验证码发送到旧号码，你向官方客服描述问题。",
+          "alternatives": [
+            {
+              "text": "验证码发到以前的号码了。",
+              "id": "s43_2_0021_alt01",
+              "meaning_vi": "Mã xác minh gửi về số trước đây."
+            }
+          ],
+          "replies": [
+            {
+              "text": "看看有没有其他验证方式。",
+              "id": "s43_2_0021_reply01",
+              "meaning_vi": "Xem có cách xác minh khác không."
+            },
+            {
+              "text": "没有的话联系官方客服找回账号。",
+              "id": "s43_2_0021_reply02",
+              "meaning_vi": "Nếu không có, liên hệ hỗ trợ chính thức để khôi phục tài khoản."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "yàn zhèng mǎ fā dào jiù shǒu jī hào le",
+          "mistakes": [
+            {
+              "text": "旧手机号无法接收短信时，要通过平台正式找回流程；不要让陌生人替你收验证码或登录账号。",
+              "text_vi": "Giải thích cách dùng: Mã xác minh được gửi đến số điện thoại cũ. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mã xác minh được gửi đến số điện thoại cũ.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0022",
+          "level": "must",
+          "text": "密码输错太多次，账号被锁了。",
+          "when_to_use": "你多次输错密码，App提示暂时锁定账号，需要暂停尝试并了解正规解锁办法。",
+          "alternatives": [
+            {
+              "text": "登录次数太多，被限制了。",
+              "id": "s43_2_0022_alt01",
+              "meaning_vi": "Đăng nhập quá nhiều lần nên bị hạn chế."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别反复试，看看提示要等多久。",
+              "id": "s43_2_0022_reply01",
+              "meaning_vi": "Đừng thử liên tục nữa, xem phải chờ bao lâu."
+            },
+            {
+              "text": "可以按官方流程找回或重置密码。",
+              "id": "s43_2_0022_reply02",
+              "meaning_vi": "Bạn có thể khôi phục hoặc đặt lại mật khẩu qua quy trình chính thức."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "mì mǎ shū cuò tài duō cì zhàng hào bèi suǒ le",
+          "mistakes": [
+            {
+              "text": "被锁不一定永久封号，具体以平台提示为准；不要点击陌生人发来的所谓“快速解锁”链接。",
+              "text_vi": "Giải thích cách dùng: Nhập sai mật khẩu quá nhiều lần nên tài khoản bị khóa. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Nhập sai mật khẩu quá nhiều lần nên tài khoản bị khóa.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0006",
+          "level": "listen",
+          "text": "密码太简单了。",
+          "when_to_use": "设置新密码时系统提示强度不够，你看到字符太短或组合简单，就说密码太简单。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "换一个更复杂的密码。",
+              "id": "s43_2_0006_reply01",
+              "meaning_vi": "Hãy đổi sang mật khẩu phức tạp hơn."
+            },
+            {
+              "text": "按页面要求重新设置。",
+              "id": "s43_2_0006_reply02",
+              "meaning_vi": "Đặt lại theo yêu cầu trên màn hình."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "mì mǎ tài jiǎn dān le",
+          "mistakes": [
+            {
+              "text": "“太简单”指容易猜，不能只换成生日或123456；遵守平台长度和字符规则。",
+              "text_vi": "Giải thích cách dùng: Mật khẩu quá đơn giản. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mật khẩu quá đơn giản.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0007",
+          "level": "must",
+          "text": "密码不对。",
+          "when_to_use": "你输入账号密码后页面提示密码错误，就向朋友说明可能记错了登录密码。",
+          "alternatives": [
+            {
+              "text": "密码输错了。",
+              "id": "s43_2_0007_alt01",
+              "meaning_vi": "Nhập sai mật khẩu rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "重新输入一次。",
+              "id": "s43_2_0007_reply01",
+              "meaning_vi": "Nhập lại một lần nữa."
+            },
+            {
+              "text": "忘记了就重新设置。",
+              "id": "s43_2_0007_reply02",
+              "meaning_vi": "Quên thì đặt lại mật khẩu."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "mì mǎ bú duì",
+          "mistakes": [
+            {
+              "text": "“密码不对”是登录凭证不匹配，不等于验证码过期；不要把密码直接发给朋友帮查。",
+              "text_vi": "Giải thích cách dùng: Mật khẩu không đúng. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mật khẩu không đúng.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0008",
+          "level": "must",
+          "text": "怎么重置密码？",
+          "when_to_use": "你已经无法用旧密码登录，希望通过平台正规找回流程设置新密码，就问怎么重置。",
+          "alternatives": [
+            {
+              "text": "忘记密码了，怎么重置？",
+              "id": "s43_2_0008_alt01",
+              "meaning_vi": "Quên mật khẩu rồi, đặt lại thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "点忘记密码就可以开始重置。",
+              "id": "s43_2_0008_reply01",
+              "meaning_vi": "Nhấn “Quên mật khẩu” để bắt đầu đặt lại."
+            },
+            {
+              "text": "先按页面要求验证身份。",
+              "id": "s43_2_0008_reply02",
+              "meaning_vi": "Trước tiên xác minh danh tính theo yêu cầu."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "zěn me chóng zhì mì mǎ",
+          "mistakes": [
+            {
+              "text": "“重置”是通过身份确认重新设定密码，与在已登录状态下直接修改可能不同。",
+              "text_vi": "Giải thích cách dùng: Đặt lại mật khẩu thế nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đặt lại mật khẩu thế nào?",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0010",
+          "level": "listen",
+          "text": "验证码过期了。",
+          "when_to_use": "你收到一条验证码但几分钟后才输入，界面显示验证码已经失效。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "重新获取一个验证码。",
+              "id": "s43_2_0010_reply01",
+              "meaning_vi": "Yêu cầu mã xác minh mới."
+            },
+            {
+              "text": "看看新验证码有没有收到。",
+              "id": "s43_2_0010_reply02",
+              "meaning_vi": "Xem đã nhận được mã mới chưa."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "yàn zhèng mǎ guò qī le",
+          "mistakes": [
+            {
+              "text": "“过期”是有效时间已过，不能继续使用旧代码；要重新获取。",
+              "text_vi": "Giải thích cách dùng: Mã xác minh hết hạn rồi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mã xác minh hết hạn rồi.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0018",
+          "level": "listen",
+          "text": "请设置新密码。",
+          "when_to_use": "账号验证完成后系统让你建立新的登录密码，你看到设置新密码的提示。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我重新设置。",
+              "id": "s43_2_0018_reply01",
+              "meaning_vi": "Được, tôi đặt lại."
+            },
+            {
+              "text": "设置以后记住新密码。",
+              "id": "s43_2_0018_reply02",
+              "meaning_vi": "Đặt xong nhớ mật khẩu mới nhé."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "qǐng shè zhì xīn mì mǎ",
+          "mistakes": [
+            {
+              "text": "“设置新密码”不是请你把新密码口头告诉工作人员；应在官方安全页面输入。",
+              "text_vi": "Giải thích cách dùng: Vui lòng đặt mật khẩu mới. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Vui lòng đặt mật khẩu mới.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0019",
+          "level": "listen",
+          "text": "请不要把验证码告诉别人。",
+          "when_to_use": "同事想帮你登录网站时问短信验证码，安全提示提醒不能把验证码告诉别人。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "知道了，我不会发给别人。",
+              "id": "s43_2_0019_reply01",
+              "meaning_vi": "Biết rồi, tôi không gửi cho ai đâu."
+            },
+            {
+              "text": "好，我自己保管。",
+              "id": "s43_2_0019_reply02",
+              "meaning_vi": "Được, tôi sẽ tự giữ."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "qǐng bú yào bǎ yàn zhèng mǎ gào su bié rén",
+          "mistakes": [
+            {
+              "text": "“验证码”是敏感的一次性验证凭据，任何人声称帮忙也不应随意告知。",
+              "text_vi": "Giải thích cách dùng: Đừng cho người khác biết mã xác minh. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đừng cho người khác biết mã xác minh.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        },
+        {
+          "id": "s43_2_0020",
+          "level": "listen",
+          "text": "密码修改成功。",
+          "when_to_use": "你按照步骤改了账号密码，页面提示成功，之后准备使用新密码重新登录。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我重新登录。",
+              "id": "s43_2_0020_reply01",
+              "meaning_vi": "Được, tôi đăng nhập lại."
+            },
+            {
+              "text": "再确认一下能不能正常登录。",
+              "id": "s43_2_0020_reply02",
+              "meaning_vi": "Kiểm tra xem có đăng nhập bình thường được không."
+            }
+          ],
+          "lesson_id": "43.2",
+          "lesson_title": "43.2 密码验证码",
+          "pinyin": "mì mǎ xiū gǎi chéng gōng",
+          "mistakes": [
+            {
+              "text": "“修改成功”是更换操作完成，不表示所有设备都自动更新登录状态。",
+              "text_vi": "Giải thích cách dùng: Đổi mật khẩu thành công. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đổi mật khẩu thành công.",
+          "lesson_title_vi": "43.2 Mật khẩu và mã xác minh"
+        }
+      ],
+      "title_vi": "43.2 Mật khẩu và mã xác minh",
+      "subtitle_vi": "14 thẻ giao tiếp",
+      "opening_vi": "Luyện đổi, đặt lại mật khẩu và xử lý mã xác minh không đến hoặc hết hạn. Không chia sẻ mã xác minh hay mật khẩu với người khác."
+    },
+    {
+      "id": "43.3",
+      "title": "43.3 扫码操作",
+      "phrases": [
+        {
+          "id": "s43_3_0001",
+          "level": "must",
+          "text": "扫哪个码？",
+          "when_to_use": "办事窗口贴着多个二维码，你不知道应该扫登记码还是付款码，就先问工作人员。",
+          "alternatives": [
+            {
+              "text": "要扫哪个码？",
+              "id": "s43_3_0001_alt01",
+              "meaning_vi": "Phải quét mã nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "扫这个码。",
+              "id": "s43_3_0001_reply01",
+              "meaning_vi": "Quét mã này."
+            },
+            {
+              "text": "就是你面前这个。",
+              "id": "s43_3_0001_reply02",
+              "meaning_vi": "Chính là mã trước mặt bạn."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "sǎo nǎ ge mǎ",
+          "mistakes": [
+            {
+              "text": "“哪个码”是从几个二维码里辨认正确用途；别把陌生收款码当登记码。",
+              "text_vi": "Giải thích cách dùng: Quét mã nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Quét mã nào?",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0002",
+          "level": "must",
+          "text": "这个码用什么软件扫？",
+          "when_to_use": "商店柜台贴着一个用于预约的小程序码，你不知道应使用微信还是别的App，就询问。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先用微信扫一扫试试。",
+              "id": "s43_3_0002_reply01",
+              "meaning_vi": "Thử dùng chức năng quét mã của WeChat trước."
+            },
+            {
+              "text": "看旁边有没有写用什么软件扫。",
+              "id": "s43_3_0002_reply02",
+              "meaning_vi": "Xem bên cạnh có ghi phải dùng ứng dụng nào không."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "zhè ge mǎ yòng shén me ruǎn jiàn sǎo",
+          "mistakes": [
+            {
+              "text": "“用什么扫”问用哪个应用的扫码功能，不是问手机摄像头是什么型号。",
+              "text_vi": "Giải thích cách dùng: Dùng ứng dụng nào để quét mã này? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Dùng ứng dụng nào để quét mã này?",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0003",
+          "level": "must",
+          "text": "这个码扫不出来。",
+          "when_to_use": "你对准店门口二维码拍了几次却无法识别，向店员说明这个码扫不出来。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "换个角度再扫一次。",
+              "id": "s43_3_0003_reply01",
+              "meaning_vi": "Đổi góc rồi quét lại."
+            },
+            {
+              "text": "可能是二维码失效了。",
+              "id": "s43_3_0003_reply02",
+              "meaning_vi": "Có thể mã QR đã hết hiệu lực."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "zhè ge mǎ sǎo bu chū lai",
+          "mistakes": [
+            {
+              "text": "“扫不出来”是识别失败，可能因反光、网络或二维码失效，不代表手机坏了。",
+              "text_vi": "Giải thích cách dùng: Không quét được mã này. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Không quét được mã này.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0015",
+          "level": "must",
+          "text": "这是付款码还是收款码？",
+          "when_to_use": "第一次在商店扫码结账，你想分清屏幕上展示的是付款码还是商家的收款码。",
+          "alternatives": [
+            {
+              "text": "这个二维码是收款用的吗？",
+              "id": "s43_3_0015_alt01",
+              "meaning_vi": "Mã QR này dùng để nhận tiền à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这是商家的收款码。",
+              "id": "s43_3_0015_reply01",
+              "meaning_vi": "Đây là mã nhận tiền của cửa hàng."
+            },
+            {
+              "text": "这是我的付款码，不要随便给别人扫。",
+              "id": "s43_3_0015_reply02",
+              "meaning_vi": "Đây là mã thanh toán của tôi, đừng tùy tiện đưa người khác quét."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "zhè shì fù kuǎn mǎ hái shì shōu kuǎn mǎ",
+          "mistakes": [
+            {
+              "text": "收款码用来收钱，付款码用于付款；不要随意向陌生人展示自己的付款码，交易前先核实商户。",
+              "text_vi": "Giải thích cách dùng: Đây là mã thanh toán hay mã nhận tiền? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đây là mã thanh toán hay mã nhận tiền?",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0016",
+          "level": "must",
+          "text": "扫完码要付款吗？",
+          "when_to_use": "你在服务台扫码后进入新页面，不确定是免费登记还是付费服务，先确认要不要付款。",
+          "alternatives": [
+            {
+              "text": "扫这个码会扣钱吗？",
+              "id": "s43_3_0016_alt01",
+              "meaning_vi": "Quét mã này có bị trừ tiền không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看看页面显示的是登记还是支付。",
+              "id": "s43_3_0016_reply01",
+              "meaning_vi": "Trước tiên xem màn hình là đăng ký hay thanh toán."
+            },
+            {
+              "text": "要付款的话，确认金额和收款方再操作。",
+              "id": "s43_3_0016_reply02",
+              "meaning_vi": "Nếu phải trả tiền, xác nhận số tiền và người nhận trước khi thao tác."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "sǎo wán mǎ yào fù kuǎn ma",
+          "mistakes": [
+            {
+              "text": "扫码不一定自动扣款；付款前应核对金额、商户及页面，不要随意确认陌生页面的授权。",
+              "text_vi": "Giải thích cách dùng: Quét mã xong có phải trả tiền không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Quét mã xong có phải trả tiền không?",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0004",
+          "level": "listen",
+          "text": "打开微信扫一扫。",
+          "when_to_use": "同事第一次用微信扫描签到码，你指导他打开微信的扫一扫入口。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我打开。",
+              "id": "s43_3_0004_reply01",
+              "meaning_vi": "Được, tôi mở ngay."
+            },
+            {
+              "text": "打开以后对准二维码。",
+              "id": "s43_3_0004_reply02",
+              "meaning_vi": "Mở xong hướng camera vào mã QR."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "dǎ kāi wēi xìn sǎo yì sǎo",
+          "mistakes": [
+            {
+              "text": "“扫一扫”是微信里的扫码功能名称，不是让人用扫帚打扫。",
+              "text_vi": "Giải thích cách dùng: Mở chức năng quét mã của WeChat. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mở chức năng quét mã của WeChat.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0005",
+          "level": "must",
+          "text": "扫完点这里吗？",
+          "when_to_use": "你已扫描办事小程序码，页面弹出多个按钮，不知道是否该点当前按钮继续。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "对，点这里继续。",
+              "id": "s43_3_0005_reply01",
+              "meaning_vi": "Đúng, nhấn đây để tiếp tục."
+            },
+            {
+              "text": "先看看页面有没有提示。",
+              "id": "s43_3_0005_reply02",
+              "meaning_vi": "Trước tiên xem màn hình có hướng dẫn không."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "sǎo wán diǎn zhè li ma",
+          "mistakes": [
+            {
+              "text": "“扫完”指二维码识别完成，“点这里”是下一步页面操作；提交前确认内容。",
+              "text_vi": "Giải thích cách dùng: Quét xong nhấn chỗ này à? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Quét xong nhấn chỗ này à?",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0007",
+          "level": "must",
+          "text": "扫完没反应。",
+          "when_to_use": "你扫描了排队取号二维码，但手机屏幕没有跳转页面，就告诉工作人员扫码后没有反应。",
+          "alternatives": [
+            {
+              "text": "扫完没有跳转。",
+              "id": "s43_3_0007_alt01",
+              "meaning_vi": "Quét xong mà không chuyển trang."
+            }
+          ],
+          "replies": [
+            {
+              "text": "再扫一次试试。",
+              "id": "s43_3_0007_reply01",
+              "meaning_vi": "Thử quét lại lần nữa."
+            },
+            {
+              "text": "先检查网络。",
+              "id": "s43_3_0007_reply02",
+              "meaning_vi": "Trước tiên kiểm tra mạng."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "sǎo wán méi fǎn yìng",
+          "mistakes": [
+            {
+              "text": "“没反应”是操作后没有显示预期结果，不一定是扫错码；也可能需要网络。",
+              "text_vi": "Giải thích cách dùng: Quét mã xong không có phản hồi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Quét mã xong không có phản hồi.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0008",
+          "level": "must",
+          "text": "页面一直在加载。",
+          "when_to_use": "扫码打开预约页后一直显示转圈，等很久不能进入，你告诉同事页面还在加载。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先检查网络是不是断了。",
+              "id": "s43_3_0008_reply01",
+              "meaning_vi": "Trước tiên kiểm tra xem mạng có bị mất không."
+            },
+            {
+              "text": "网络不好也可能一直加载。",
+              "id": "s43_3_0008_reply02",
+              "meaning_vi": "Mạng yếu cũng có thể khiến trang tải mãi."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "yè miàn yì zhí zài jiā zài",
+          "mistakes": [
+            {
+              "text": "“加载”是数据正在载入，不表示已经提交成功；超时应查看网络并谨慎重试。",
+              "text_vi": "Giải thích cách dùng: Trang cứ tải mãi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Trang cứ tải mãi.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0009",
+          "level": "listen",
+          "text": "把二维码打开。",
+          "when_to_use": "你要让朋友扫描自己的联系二维码，先请他等待，自己打开二维码页面。",
+          "alternatives": [
+            {
+              "text": "打开二维码。",
+              "id": "s43_3_0009_alt01",
+              "meaning_vi": "Mở mã QR."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我打开给你扫。",
+              "id": "s43_3_0009_reply01",
+              "meaning_vi": "Được, tôi mở cho bạn quét."
+            },
+            {
+              "text": "等一下，我找一下二维码。",
+              "id": "s43_3_0009_reply02",
+              "meaning_vi": "Chờ chút, để tôi tìm mã QR."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "bǎ èr wéi mǎ dǎ kāi",
+          "mistakes": [
+            {
+              "text": "“打开二维码”是显示可扫描的码，不是要求立即付款；注意码的用途。",
+              "text_vi": "Giải thích cách dùng: Mở mã QR ra. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mở mã QR ra.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0011",
+          "level": "listen",
+          "text": "扫这个码。",
+          "when_to_use": "工作人员指着墙上的登记二维码，告诉刚来的访客扫这个码而不是旁边的付款码。",
+          "alternatives": [
+            {
+              "text": "扫一下这个码。",
+              "id": "s43_3_0011_alt01",
+              "meaning_vi": "Quét mã này nhé."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我扫一下。",
+              "id": "s43_3_0011_reply01",
+              "meaning_vi": "Được, tôi quét."
+            },
+            {
+              "text": "这个吗？",
+              "id": "s43_3_0011_reply02",
+              "meaning_vi": "Mã này à?"
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "sǎo zhè ge mǎ",
+          "mistakes": [
+            {
+              "text": "“这个”需要结合现场手势或指示标牌确认，不要凭猜测扫到其他业务。",
+              "text_vi": "Giải thích cách dùng: Quét mã này. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Quét mã này.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0013",
+          "level": "listen",
+          "text": "填完点提交。",
+          "when_to_use": "填完扫码进入的登记表后，你不确定是否已经保存，工作人员提示填写完整后点提交。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，填完我就提交。",
+              "id": "s43_3_0013_reply01",
+              "meaning_vi": "Được, điền xong tôi sẽ gửi."
+            },
+            {
+              "text": "提交之前再核对一下信息。",
+              "id": "s43_3_0013_reply02",
+              "meaning_vi": "Kiểm tra lại thông tin trước khi gửi."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "tián wán diǎn tí jiāo",
+          "mistakes": [
+            {
+              "text": "“提交”是把表单正式送到系统，不等于只暂存草稿；提交前核对资料。",
+              "text_vi": "Giải thích cách dùng: Điền xong nhấn “Gửi”. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Điền xong nhấn “Gửi”.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        },
+        {
+          "id": "s43_3_0014",
+          "level": "listen",
+          "text": "二维码过期了。",
+          "when_to_use": "你尝试扫描此前保存的预约二维码，却发现平台提示该码已经超过有效时间。",
+          "alternatives": [
+            {
+              "text": "这个码失效了。",
+              "id": "s43_3_0014_alt01",
+              "meaning_vi": "Mã này không còn hiệu lực."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那换一个新的二维码。",
+              "id": "s43_3_0014_reply01",
+              "meaning_vi": "Vậy đổi sang mã QR mới."
+            },
+            {
+              "text": "请重新打开二维码。",
+              "id": "s43_3_0014_reply02",
+              "meaning_vi": "Vui lòng mở lại mã QR."
+            }
+          ],
+          "lesson_id": "43.3",
+          "lesson_title": "43.3 扫码操作",
+          "pinyin": "èr wéi mǎ guò qī le",
+          "mistakes": [
+            {
+              "text": "“过期”指当前二维码失效，不一定整个账号或预约都失效；需要查看页面说明。",
+              "text_vi": "Giải thích cách dùng: Mã QR hết hạn rồi. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Mã QR hết hạn rồi.",
+          "lesson_title_vi": "43.3 Thao tác quét mã QR"
+        }
+      ],
+      "title_vi": "43.3 Thao tác quét mã QR",
+      "subtitle_vi": "13 thẻ giao tiếp",
+      "opening_vi": "Luyện quét mã QR để đăng ký, gửi thông tin hoặc thanh toán, phân biệt mã thanh toán của người mua và mã nhận tiền của cửa hàng."
+    },
+    {
+      "id": "43.4",
+      "title": "43.4 下载更新权限",
+      "phrases": [
+        {
+          "id": "s43_4_0001",
+          "level": "must",
+          "text": "要下载哪个软件？",
+          "when_to_use": "同事让你用手机应用上报工作进度，却只说了功能没说软件名，你问到底下载哪个App。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我把软件的正确名称发给你。",
+              "id": "s43_4_0001_reply01",
+              "meaning_vi": "Tôi gửi tên chính xác của ứng dụng cho bạn."
+            },
+            {
+              "text": "我发你官方应用商店的下载页面。",
+              "id": "s43_4_0001_reply02",
+              "meaning_vi": "Tôi gửi trang tải trên kho ứng dụng chính thức."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "yào xià zài nǎ ge ruǎn jiàn",
+          "mistakes": [
+            {
+              "text": "“哪个软件”是选择正确的App，不等于所有应用商店搜索结果都可信；核对官方发布者。",
+              "text_vi": "Giải thích cách dùng: Cần tải ứng dụng nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Cần tải ứng dụng nào?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0002",
+          "level": "must",
+          "text": "怎么下载？",
+          "when_to_use": "你知道软件名称，但第一次在手机上安装App，不清楚怎样在正规应用商店下载。",
+          "alternatives": [
+            {
+              "text": "这个怎么下载？",
+              "id": "s43_4_0002_alt01",
+              "meaning_vi": "Tải cái này thế nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "去应用商店下载。",
+              "id": "s43_4_0002_reply01",
+              "meaning_vi": "Vào kho ứng dụng để tải."
+            },
+            {
+              "text": "先搜索软件名字。",
+              "id": "s43_4_0002_reply02",
+              "meaning_vi": "Trước tiên tìm tên ứng dụng."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "zěn me xià zài",
+          "mistakes": [
+            {
+              "text": "“下载”是把安装文件或App获取到设备，下载完可能还需安装和授权。",
+              "text_vi": "Giải thích cách dùng: Tải thế nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Tải thế nào?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0019",
+          "level": "must",
+          "text": "这是官方软件吗？",
+          "when_to_use": "你收到朋友分享的软件安装链接，担心下载到仿冒App，于是先核对软件的官方来源。",
+          "alternatives": [
+            {
+              "text": "这是正版App吗？",
+              "id": "s43_4_0019_alt01",
+              "meaning_vi": "Đây có phải App chính hãng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先核对开发者名称和下载来源。",
+              "id": "s43_4_0019_reply01",
+              "meaning_vi": "Trước tiên kiểm tra tên nhà phát triển và nguồn tải."
+            },
+            {
+              "text": "不要装陌生人发来的安装包。",
+              "id": "s43_4_0019_reply02",
+              "meaning_vi": "Đừng cài tệp cài đặt do người lạ gửi."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "zhè shì guān fāng ruǎn jiàn ma",
+          "mistakes": [
+            {
+              "text": "官方App不能仅凭图标相似判断，要核对开发者、官网或可信应用商店的来源。",
+              "text_vi": "Giải thích cách dùng: Đây có phải ứng dụng chính thức không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đây có phải ứng dụng chính thức không?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0020",
+          "level": "must",
+          "text": "应用商店里搜不到这个软件。",
+          "when_to_use": "在自己的手机应用商店里搜不到某个中国本地App，你向同事说明并询问可靠下载方式。",
+          "alternatives": [
+            {
+              "text": "我搜不到这个App。",
+              "id": "s43_4_0020_alt01",
+              "meaning_vi": "Tôi không tìm thấy App này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "检查一下软件名称有没有输错。",
+              "id": "s43_4_0020_reply01",
+              "meaning_vi": "Kiểm tra xem có gõ sai tên không."
+            },
+            {
+              "text": "可能商店不提供，先问官方从哪里下载。",
+              "id": "s43_4_0020_reply02",
+              "meaning_vi": "Có thể kho không cung cấp, hỏi bên chính thức nơi tải."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "yìng yòng shāng diàn lǐ sōu bú dào zhè ge ruǎn jiàn",
+          "mistakes": [
+            {
+              "text": "不同地区的应用商店可提供的软件不同；搜不到不意味着应安装来路不明的APK。",
+              "text_vi": "Giải thích cách dùng: Tôi tìm không thấy ứng dụng này trong kho. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Tôi tìm không thấy ứng dụng này trong kho.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0021",
+          "level": "must",
+          "text": "通讯录权限可以不开吗？",
+          "when_to_use": "安装生活App时系统要求读取通讯录，你想先保护联系人隐私，问能否拒绝权限。",
+          "alternatives": [
+            {
+              "text": "一定要允许读取通讯录吗？",
+              "id": "s43_4_0021_alt01",
+              "meaning_vi": "Có bắt buộc cho phép đọc danh bạ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先选不允许，看看能不能继续使用。",
+              "id": "s43_4_0021_reply01",
+              "meaning_vi": "Thử chọn “Không cho phép” xem còn dùng được không."
+            },
+            {
+              "text": "如果这个功能必须用到，再决定要不要授权。",
+              "id": "s43_4_0021_reply02",
+              "meaning_vi": "Nếu tính năng này thật sự cần quyền đó thì hãy cân nhắc có cấp hay không."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "tōng xùn lù quán xiàn kě yǐ bù kāi ma",
+          "mistakes": [
+            {
+              "text": "通讯录是联系人数据，不是通话记录；是否能拒绝与App功能有关，尽量只授权必要权限。",
+              "text_vi": "Giải thích cách dùng: Không bật quyền truy cập danh bạ có được không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Không bật quyền truy cập danh bạ có được không?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0003",
+          "level": "listen",
+          "text": "这个软件需要更新。",
+          "when_to_use": "你打开公司指定App，系统提示版本过旧，需先更新才能继续使用。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先更新再打开。",
+              "id": "s43_4_0003_reply01",
+              "meaning_vi": "Cập nhật rồi hãy mở."
+            },
+            {
+              "text": "去应用商店看看有没有更新。",
+              "id": "s43_4_0003_reply02",
+              "meaning_vi": "Vào kho ứng dụng xem có bản cập nhật không."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "zhè ge ruǎn jiàn xū yào gēng xīn",
+          "mistakes": [
+            {
+              "text": "“更新”是升级软件版本，不是重新注册新账号；更新前注意来源和网络。",
+              "text_vi": "Giải thích cách dùng: Ứng dụng này cần cập nhật. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Ứng dụng này cần cập nhật.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0005",
+          "level": "must",
+          "text": "要打开定位权限吗？",
+          "when_to_use": "你打开地图导航App，弹出请求访问位置的提示，不确定该不该授予定位权限。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这个功能可能需要定位权限。",
+              "id": "s43_4_0005_reply01",
+              "meaning_vi": "Tính năng này có thể cần quyền vị trí."
+            },
+            {
+              "text": "如果有“仅使用时允许”，可以选那个。",
+              "id": "s43_4_0005_reply02",
+              "meaning_vi": "Nếu có tùy chọn “Chỉ cho phép khi dùng ứng dụng”, có thể chọn."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "yào dǎ kāi dìng wèi quán xiàn ma",
+          "mistakes": [
+            {
+              "text": "“定位权限”允许App读取设备位置，不是自动与所有朋友共享实时位置；按用途决定授权。",
+              "text_vi": "Giải thích cách dùng: Có cần bật quyền vị trí không? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Có cần bật quyền vị trí không?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0006",
+          "level": "must",
+          "text": "相机权限在哪儿？",
+          "when_to_use": "你想在App里扫描二维码，但相机打不开，准备到手机设置里找相机权限。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "到设置里找到这个应用，再点“权限”。",
+              "id": "s43_4_0006_reply01",
+              "meaning_vi": "Vào cài đặt tìm ứng dụng này rồi chọn “Quyền”."
+            },
+            {
+              "text": "打开这个软件的相机权限。",
+              "id": "s43_4_0006_reply02",
+              "meaning_vi": "Bật quyền camera cho ứng dụng này."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "xiàng jī quán xiàn zài nǎr",
+          "mistakes": [
+            {
+              "text": "“相机权限”是允许软件访问摄像头，不是让App读取全部私人相册；只给可信应用所需权限。",
+              "text_vi": "Giải thích cách dùng: Quyền dùng camera ở đâu? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Quyền dùng camera ở đâu?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0007",
+          "level": "must",
+          "text": "这个软件为什么装不了？",
+          "when_to_use": "你在应用商店点击安装公司App，但系统总显示安装失败，就询问原因。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先看看手机空间够不够。",
+              "id": "s43_4_0007_reply01",
+              "meaning_vi": "Trước tiên xem điện thoại còn đủ dung lượng không."
+            },
+            {
+              "text": "也可能是手机系统不兼容。",
+              "id": "s43_4_0007_reply02",
+              "meaning_vi": "Cũng có thể hệ điều hành không tương thích."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "zhè ge ruǎn jiàn wèi shén me zhuāng bu liǎo",
+          "mistakes": [
+            {
+              "text": "“装不了”是安装不成功，不一定网络断了；可能空间不足、版本不兼容或下载包有问题。",
+              "text_vi": "Giải thích cách dùng: Sao không cài được ứng dụng này? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Sao không cài được ứng dụng này?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0008",
+          "level": "must",
+          "text": "这个软件打不开。",
+          "when_to_use": "软件安装好了，但点图标后立刻闪退，向同事说明这个软件打不开。",
+          "alternatives": [
+            {
+              "text": "这个软件怎么打不开？",
+              "id": "s43_4_0008_alt01",
+              "meaning_vi": "Sao ứng dụng này không mở được?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先把软件关掉再打开。",
+              "id": "s43_4_0008_reply01",
+              "meaning_vi": "Thử đóng ứng dụng rồi mở lại."
+            },
+            {
+              "text": "如果还打不开，再检查网络。",
+              "id": "s43_4_0008_reply02",
+              "meaning_vi": "Nếu vẫn không mở được, kiểm tra mạng."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "zhè ge ruǎn jiàn dǎ bu kāi",
+          "mistakes": [
+            {
+              "text": "“打不开”是无法正常打开应用，与“登录不上”进不了账号是两个不同问题。",
+              "text_vi": "Giải thích cách dùng: Ứng dụng này không mở được. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Ứng dụng này không mở được.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0009",
+          "level": "must",
+          "text": "这个软件怎么更新？",
+          "when_to_use": "同事告诉你软件版本太旧，你知道要更新，却不清楚从手机哪一处操作。",
+          "alternatives": [
+            {
+              "text": "在哪儿更新这个软件？",
+              "id": "s43_4_0009_alt01",
+              "meaning_vi": "Cập nhật ứng dụng này ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "去应用商店更新。",
+              "id": "s43_4_0009_reply01",
+              "meaning_vi": "Vào kho ứng dụng để cập nhật."
+            },
+            {
+              "text": "先看看有没有更新按钮。",
+              "id": "s43_4_0009_reply02",
+              "meaning_vi": "Trước tiên xem có nút cập nhật không."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "zhè ge ruǎn jiàn zěn me gēng xīn",
+          "mistakes": [
+            {
+              "text": "“怎么更新”问升级步骤，不是删除原账号重新安装；先到正规应用商店找更新。",
+              "text_vi": "Giải thích cách dùng: Cập nhật ứng dụng này thế nào? Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Cập nhật ứng dụng này thế nào?",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0011",
+          "level": "listen",
+          "text": "去应用商店搜索。",
+          "when_to_use": "你教刚来中国的朋友下载常用App，提醒他到手机的正规应用商店搜索软件名。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去搜。",
+              "id": "s43_4_0011_reply01",
+              "meaning_vi": "Được, tôi vào tìm."
+            },
+            {
+              "text": "搜到以后再下载。",
+              "id": "s43_4_0011_reply02",
+              "meaning_vi": "Tìm thấy rồi mới tải."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "qù yìng yòng shāng diàn sōu suǒ",
+          "mistakes": [
+            {
+              "text": "“应用商店”是下载App的商店软件，不是线下卖手机的实体商店。",
+              "text_vi": "Giải thích cách dùng: Vào kho ứng dụng tìm kiếm. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Vào kho ứng dụng tìm kiếm.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0012",
+          "level": "listen",
+          "text": "先更新到最新版。",
+          "when_to_use": "工作软件要求更新后才能上传表格，技术人员提醒你先升级到目前最新版本。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先更新。",
+              "id": "s43_4_0012_reply01",
+              "meaning_vi": "Được, tôi cập nhật trước."
+            },
+            {
+              "text": "更新完再试一次。",
+              "id": "s43_4_0012_reply02",
+              "meaning_vi": "Cập nhật xong thử lại."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "xiān gēng xīn dào zuì xīn bǎn",
+          "mistakes": [
+            {
+              "text": "“最新版”指当前官方发布的最新可用版本，不是安装来路不明的测试版。",
+              "text_vi": "Giải thích cách dùng: Trước tiên cập nhật lên bản mới nhất. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Trước tiên cập nhật lên bản mới nhất.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0013",
+          "level": "listen",
+          "text": "需要打开定位权限。",
+          "when_to_use": "导航App请求位置权限时，工作人员解释要使用当前定位功能须开启位置授权。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去设置里打开。",
+              "id": "s43_4_0013_reply01",
+              "meaning_vi": "Được, tôi vào cài đặt để bật."
+            },
+            {
+              "text": "只在需要这个功能时打开也可以。",
+              "id": "s43_4_0013_reply02",
+              "meaning_vi": "Chỉ bật khi cần dùng tính năng này cũng được."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "xū yào dǎ kāi dìng wèi quán xiàn",
+          "mistakes": [
+            {
+              "text": "“需要打开”是为了某功能授予权限，不等于必须长期允许后台跟踪；能选使用期间授权时可考虑最小权限。",
+              "text_vi": "Giải thích cách dùng: Cần bật quyền vị trí. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Cần bật quyền vị trí.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0014",
+          "level": "listen",
+          "text": "把软件关掉再打开。",
+          "when_to_use": "App一直卡在启动页面，朋友建议先完全关闭软件，再重新打开测试。",
+          "alternatives": [
+            {
+              "text": "重新打开软件。",
+              "id": "s43_4_0014_alt01",
+              "meaning_vi": "Mở lại ứng dụng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我重新打开。",
+              "id": "s43_4_0014_reply01",
+              "meaning_vi": "Được, tôi mở lại."
+            },
+            {
+              "text": "我先关掉再试。",
+              "id": "s43_4_0014_reply02",
+              "meaning_vi": "Tôi đóng trước rồi thử lại."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "bǎ ruǎn jiàn guān diào zài dǎ kāi",
+          "mistakes": [
+            {
+              "text": "“关掉再打开”是重启应用，不是卸载软件或重置手机。",
+              "text_vi": "Giải thích cách dùng: Đóng ứng dụng rồi mở lại. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Đóng ứng dụng rồi mở lại.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0016",
+          "level": "listen",
+          "text": "这个功能需要相机权限。",
+          "when_to_use": "你在办事App里想扫描证明文件，但相机界面打不开，系统提示这个功能需要相机权限。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去打开相机权限。",
+              "id": "s43_4_0016_reply01",
+              "meaning_vi": "Được, tôi vào bật quyền camera."
+            },
+            {
+              "text": "我先确认一下为什么要这个权限。",
+              "id": "s43_4_0016_reply02",
+              "meaning_vi": "Để tôi xem tại sao cần quyền này đã."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "zhè ge gōng néng xū yào xiàng jī quán xiàn",
+          "mistakes": [
+            {
+              "text": "“这个功能”特指当前扫码/拍摄环节，不表示App所有功能都需要相机。",
+              "text_vi": "Giải thích cách dùng: Tính năng này cần quyền camera. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Tính năng này cần quyền camera.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        },
+        {
+          "id": "s43_4_0018",
+          "level": "listen",
+          "text": "存储空间不足。",
+          "when_to_use": "你下载一个体积较大的应用，安装页面提示手机存储空间不足。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我先清理一点空间。",
+              "id": "s43_4_0018_reply01",
+              "meaning_vi": "Vậy tôi dọn bớt dung lượng."
+            },
+            {
+              "text": "先备份重要文件，再清理空间。",
+              "id": "s43_4_0018_reply02",
+              "meaning_vi": "Sao lưu tệp quan trọng trước rồi hãy dọn."
+            }
+          ],
+          "lesson_id": "43.4",
+          "lesson_title": "43.4 下载更新权限",
+          "pinyin": "cún chǔ kōng jiān bù zú",
+          "mistakes": [
+            {
+              "text": "“存储空间”是保存App和文件的空间，不是电池电量或手机流量；清理前先备份重要资料。",
+              "text_vi": "Giải thích cách dùng: Không đủ dung lượng lưu trữ. Chú ý tình huống và hướng dẫn tiếng Trung; khi đăng ký, quét mã hoặc cài ứng dụng, chỉ dùng nguồn chính thức và tự bảo vệ thông tin tài khoản."
+            }
+          ],
+          "meaning_vi": "Không đủ dung lượng lưu trữ.",
+          "lesson_title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập"
+        }
+      ],
+      "title_vi": "43.4 Tải ứng dụng, cập nhật và quyền truy cập",
+      "subtitle_vi": "17 thẻ giao tiếp",
+      "opening_vi": "Học cách tải đúng ứng dụng chính thức, cập nhật phiên bản và cấp quyền vị trí, camera, danh bạ khi cần. Kiểm tra nguồn tải và quyền riêng tư."
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-03T00:00:00Z",
+  "quality_standard": "Vietnamese translations for all card/alternative/reply lines; original Chinese and pinyin preserved. General Vietnamese reminder notes pending source-specific edit.",
+  "theme_title_vi": "43 Tài khoản, mã QR và ứng dụng",
+  "theme_title": "43 账号扫码软件",
+  "card_count": 60,
+  "source_phrase_count": 60,
+  "lesson_counts": [
+    16,
+    14,
+    13,
+    17
+  ]
+}
