@@ -2800,32 +2800,39 @@
           "alternatives": [
             {
               "text": "我护照丢了。",
-              "id": "s50_5_0001_alt01"
+              "id": "s50_5_0001_alt01",
+              "meaning_vi": "Hộ chiếu tôi mất rồi."
             },
             {
               "text": "我护照不见了。",
-              "id": "s50_5_0001_alt02"
+              "id": "s50_5_0001_alt02",
+              "meaning_vi": "Tôi không thấy hộ chiếu đâu."
             }
           ],
           "replies": [
             {
               "text": "先联系本国使领馆。",
-              "id": "s50_5_0001_reply01"
+              "id": "s50_5_0001_reply01",
+              "meaning_vi": "Trước tiên liên hệ đại sứ quán hoặc lãnh sự quán nước bạn."
             },
             {
               "text": "您先确认丢失地点。",
-              "id": "s50_5_0001_reply02"
+              "id": "s50_5_0001_reply02",
+              "meaning_vi": "Anh/chị hãy xác định nơi làm mất trước."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "护照丢失应尽快向当地警方报失并联系所属国驻华使领馆核实补发手续；丢失护照与丢失居留证件是不同事项。"
+              "text": "护照丢失应尽快向当地警方报失并联系所属国驻华使领馆核实补发手续；丢失护照与丢失居留证件是不同事项。",
+              "text_vi": "Mất hộ chiếu nên sớm trình báo với công an nơi mất và liên hệ cơ quan đại diện nước mình ở Trung Quốc; mất hộ chiếu khác mất giấy phép cư trú."
             }
           ],
           "pinyin": "wǒ de hù zhào diū le",
-          "when_to_use": "在中国发现缅甸护照遗失，向派出所或熟人说明证件不见了，准备报失和联系本国使领馆。"
+          "when_to_use": "在中国发现缅甸护照遗失，向派出所或熟人说明证件不见了，准备报失和联系本国使领馆。",
+          "meaning_vi": "Tôi làm mất hộ chiếu rồi.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0002",
@@ -2835,22 +2842,27 @@
           "replies": [
             {
               "text": "先向主管部门咨询。",
-              "id": "s50_5_0002_reply01"
+              "id": "s50_5_0002_reply01",
+              "meaning_vi": "Trước tiên hỏi cơ quan phụ trách."
             },
             {
               "text": "请确认丢失的证件。",
-              "id": "s50_5_0002_reply02"
+              "id": "s50_5_0002_reply02",
+              "meaning_vi": "Vui lòng xác định giấy tờ nào bị mất."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "居留证件遗失应向公安出入境管理部门咨询补发；若丢的是外国护照，通常还涉及本国使领馆的手续。"
+              "text": "居留证件遗失应向公安出入境管理部门咨询补发；若丢的是外国护照，通常还涉及本国使领馆的手续。",
+              "text_vi": "Mất giấy cư trú nên hỏi cơ quan công an quản lý xuất nhập cảnh về cấp lại; mất hộ chiếu thường còn phải làm việc với đại sứ/lãnh sự quán."
             }
           ],
           "pinyin": "jū liú zhèng jiàn bú jiàn le",
-          "when_to_use": "持有的中国居留证件找不到了，向出入境管理部门询问补办。"
+          "when_to_use": "持有的中国居留证件找不到了，向出入境管理部门询问补办。",
+          "meaning_vi": "Tôi không tìm thấy giấy phép cư trú.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0003",
@@ -2860,22 +2872,27 @@
           "replies": [
             {
               "text": "先问附近派出所。",
-              "id": "s50_5_0003_reply01"
+              "id": "s50_5_0003_reply01",
+              "meaning_vi": "Trước tiên hỏi đồn công an gần đây."
             },
             {
               "text": "看证件类型再办理。",
-              "id": "s50_5_0003_reply02"
+              "id": "s50_5_0003_reply02",
+              "meaning_vi": "Xem loại giấy tờ rồi làm thủ tục."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“报失”是正式报告证件遗失，不等于立刻申请到新证；办护照和居留证件可能涉及不同机关。"
+              "text": "“报失”是正式报告证件遗失，不等于立刻申请到新证；办护照和居留证件可能涉及不同机关。",
+              "text_vi": "“报失” là chính thức báo mất, không có nghĩa có ngay giấy mới; hộ chiếu và giấy cư trú có thể do hai cơ quan khác nhau giải quyết."
             }
           ],
           "pinyin": "qù nǎ lǐ bào shī",
-          "when_to_use": "确定护照或其他证件遗失后，想知道在哪里向相关部门报告失物。"
+          "when_to_use": "确定护照或其他证件遗失后，想知道在哪里向相关部门报告失物。",
+          "meaning_vi": "Báo mất ở đâu?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0004",
@@ -2884,28 +2901,34 @@
           "alternatives": [
             {
               "text": "证件丢了怎么补？",
-              "id": "s50_5_0004_alt01"
+              "id": "s50_5_0004_alt01",
+              "meaning_vi": "Giấy tờ bị mất thì làm lại ra sao?"
             }
           ],
           "replies": [
             {
               "text": "先确认是什么证件。",
-              "id": "s50_5_0004_reply01"
+              "id": "s50_5_0004_reply01",
+              "meaning_vi": "Trước tiên xác định giấy tờ gì."
             },
             {
               "text": "去对应的部门咨询。",
-              "id": "s50_5_0004_reply02"
+              "id": "s50_5_0004_reply02",
+              "meaning_vi": "Hỏi cơ quan tương ứng."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“补办”是旧证遗失或损坏后申请新证，不等于普通延期；材料可能包括报失记录、新护照或使领馆照会。"
+              "text": "“补办”是旧证遗失或损坏后申请新证，不等于普通延期；材料可能包括报失记录、新护照或使领馆照会。",
+              "text_vi": "“补办” là xin cấp lại giấy mất/hỏng, không phải gia hạn thông thường; có thể cần báo mất, hộ chiếu mới hoặc công hàm."
             }
           ],
           "pinyin": "diū le zěn me bǔ bàn",
-          "when_to_use": "护照或证件被盗、丢失，想问具体从哪里开始办理补发。"
+          "when_to_use": "护照或证件被盗、丢失，想问具体从哪里开始办理补发。",
+          "meaning_vi": "Mất rồi thì xin cấp lại thế nào?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0005",
@@ -2915,22 +2938,27 @@
           "replies": [
             {
               "text": "先问受理部门。",
-              "id": "s50_5_0005_reply01"
+              "id": "s50_5_0005_reply01",
+              "meaning_vi": "Hãy hỏi cơ quan tiếp nhận trước."
             },
             {
               "text": "有的业务需要证明。",
-              "id": "s50_5_0005_reply02"
+              "id": "s50_5_0005_reply02",
+              "meaning_vi": "Một số thủ tục cần chứng nhận."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“报失证明”是遗失报告相关凭证；需要哪种证明与谁签发，应向公安出入境及本国使领馆核实。"
+              "text": "“报失证明”是遗失报告相关凭证；需要哪种证明与谁签发，应向公安出入境及本国使领馆核实。",
+              "text_vi": "Giấy chứng nhận báo mất có tên và cơ quan cấp tùy thủ tục; hỏi công an xuất nhập cảnh và cơ quan đại diện."
             }
           ],
           "pinyin": "xū yào bào shī zhèng míng ma",
-          "when_to_use": "到出入境窗口说明护照已丢失，询问补发居留或其他手续是否需报失证明。"
+          "when_to_use": "到出入境窗口说明护照已丢失，询问补发居留或其他手续是否需报失证明。",
+          "meaning_vi": "Có cần giấy xác nhận trình báo mất không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0006",
@@ -2940,22 +2968,27 @@
           "replies": [
             {
               "text": "护照丢了要咨询使馆。",
-              "id": "s50_5_0006_reply01"
+              "id": "s50_5_0006_reply01",
+              "meaning_vi": "Mất hộ chiếu thì nên hỏi đại sứ quán."
             },
             {
               "text": "先联系本国使领馆。",
-              "id": "s50_5_0006_reply02"
+              "id": "s50_5_0006_reply02",
+              "meaning_vi": "Trước tiên liên hệ cơ quan đại diện nước mình."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "外国护照通常由所属国驻华使领馆办理补发或旅行证件，中国公安出入境负责在华签证和停留居留手续，两者不能混淆。"
+              "text": "外国护照通常由所属国驻华使领馆办理补发或旅行证件，中国公安出入境负责在华签证和停留居留手续，两者不能混淆。",
+              "text_vi": "Hộ chiếu nước ngoài thường do đại sứ/lãnh sự quán nước đó cấp lại, còn visa/giấy cư trú Trung Quốc do công an xuất nhập cảnh giải quyết."
             }
           ],
           "pinyin": "yào lián xì dà shǐ guǎn ma",
-          "when_to_use": "在中国遗失缅甸护照，想确认是否应该联系缅甸驻华使馆或领事馆。"
+          "when_to_use": "在中国遗失缅甸护照，想确认是否应该联系缅甸驻华使馆或领事馆。",
+          "meaning_vi": "Phải liên hệ đại sứ quán không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0007",
@@ -2965,22 +2998,27 @@
           "replies": [
             {
               "text": "先问清材料清单。",
-              "id": "s50_5_0007_reply01"
+              "id": "s50_5_0007_reply01",
+              "meaning_vi": "Trước tiên hỏi rõ danh sách hồ sơ."
             },
             {
               "text": "报失记录可能要用。",
-              "id": "s50_5_0007_reply02"
+              "id": "s50_5_0007_reply02",
+              "meaning_vi": "Có thể cần biên bản trình báo mất."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "补办材料与丢失的证件类别相关，不能一概要求所有人提供同一种警方证明；要问负责的部门。"
+              "text": "补办材料与丢失的证件类别相关，不能一概要求所有人提供同一种警方证明；要问负责的部门。",
+              "text_vi": "Giấy bổ sung phụ thuộc loại giấy tờ đã mất; không thể áp một loại giấy xác nhận từ công an cho tất cả thủ tục."
             }
           ],
           "pinyin": "bǔ bàn shí yào shén me zhèng míng",
-          "when_to_use": "已经拿到护照报失记录，向窗口确认补办新证件还需哪些证明。"
+          "when_to_use": "已经拿到护照报失记录，向窗口确认补办新证件还需哪些证明。",
+          "meaning_vi": "Khi làm lại cần giấy chứng nhận gì?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0008",
@@ -2990,22 +3028,27 @@
           "replies": [
             {
               "text": "先确认是否已作废。",
-              "id": "s50_5_0008_reply01"
+              "id": "s50_5_0008_reply01",
+              "meaning_vi": "Trước tiên xác nhận giấy đó đã bị hủy hiệu lực chưa."
             },
             {
               "text": "不要直接拿来使用。",
-              "id": "s50_5_0008_reply02"
+              "id": "s50_5_0008_reply02",
+              "meaning_vi": "Đừng tự lấy ra dùng ngay."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "已挂失、作废或补发后的旧证件不一定仍有效；不要自行恢复使用，应由原签发机关确认。"
+              "text": "已挂失、作废或补发后的旧证件不一定仍有效；不要自行恢复使用，应由原签发机关确认。",
+              "text_vi": "Giấy cũ đã khai báo mất hoặc bị vô hiệu có thể không còn giá trị dù tìm lại; hỏi cơ quan cấp trước khi dùng."
             }
           ],
           "pinyin": "jiù zhèng zhǎo dào le hái néng yòng ma",
-          "when_to_use": "曾经丢失并报失的证件后来在家里找到，想问是否还能继续使用。"
+          "when_to_use": "曾经丢失并报失的证件后来在家里找到，想问是否还能继续使用。",
+          "meaning_vi": "Tìm thấy giấy cũ rồi, còn dùng được không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0009",
@@ -3015,22 +3058,27 @@
           "replies": [
             {
               "text": "先看丢失的是哪种证件。",
-              "id": "s50_5_0009_reply01"
+              "id": "s50_5_0009_reply01",
+              "meaning_vi": "Trước tiên xem loại giấy tờ bị mất."
             },
             {
               "text": "具体请问当地部门。",
-              "id": "s50_5_0009_reply02"
+              "id": "s50_5_0009_reply02",
+              "meaning_vi": "Cụ thể hỏi cơ quan địa phương."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "护照遗失时一般需要及时向遗失地公安机关报失并联系本国使领馆；仅去使馆未必完成在华出入境后续手续。"
+              "text": "护照遗失时一般需要及时向遗失地公安机关报失并联系本国使领馆；仅去使馆未必完成在华出入境后续手续。",
+              "text_vi": "Khi mất hộ chiếu thường phải báo cơ quan công an nơi mất và liên hệ cơ quan đại diện, chỉ đi sứ quán chưa chắc xong nghĩa vụ tại Trung Quốc."
             }
           ],
           "pinyin": "yào xiān qù pài chū suǒ ma",
-          "when_to_use": "护照在中国丢失后不知道该去派出所还是出入境办事处，先问程序。"
+          "when_to_use": "护照在中国丢失后不知道该去派出所还是出入境办事处，先问程序。",
+          "meaning_vi": "Có cần đến đồn công an trước không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0010",
@@ -3040,22 +3088,27 @@
           "replies": [
             {
               "text": "其他登记信息可能要更新。",
-              "id": "s50_5_0010_reply01"
+              "id": "s50_5_0010_reply01",
+              "meaning_vi": "Có thể phải cập nhật một số thông tin đăng ký."
             },
             {
               "text": "请先咨询出入境部门。",
-              "id": "s50_5_0010_reply02"
+              "id": "s50_5_0010_reply02",
+              "meaning_vi": "Trước tiên hỏi cơ quan quản lý xuất nhập cảnh."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "护照号码变更涉及外国人居留证件登记信息变更，依法应在登记事项变更后10日内申请办理；住宿登记信息也需按规定更新。"
+              "text": "护照号码变更涉及外国人居留证件登记信息变更，依法应在登记事项变更后10日内申请办理；住宿登记信息也需按规定更新。",
+              "text_vi": "Đổi số hộ chiếu làm thay đổi thông tin trên giấy phép cư trú; theo luật Trung Quốc, thay đổi thông tin đăng ký phải xin sửa trong 10 ngày, và nên cập nhật thông tin lưu trú theo quy định."
             }
           ],
           "pinyin": "xīn hù zhào hái yào dēng jì ma",
-          "when_to_use": "在中国拿到补发的新护照，担心原居留许可和住宿登记还登记了旧护照号，向部门询问。"
+          "when_to_use": "在中国拿到补发的新护照，担心原居留许可和住宿登记还登记了旧护照号，向部门询问。",
+          "meaning_vi": "Có hộ chiếu mới thì phải cập nhật đăng ký nữa không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0011",
@@ -3065,22 +3118,27 @@
           "replies": [
             {
               "text": "出入境问题可以咨询。",
-              "id": "s50_5_0011_reply01"
+              "id": "s50_5_0011_reply01",
+              "meaning_vi": "Vấn đề xuất nhập cảnh có thể hỏi."
             },
             {
               "text": "也可以问当地窗口。",
-              "id": "s50_5_0011_reply02"
+              "id": "s50_5_0011_reply02",
+              "meaning_vi": "Bạn cũng có thể hỏi quầy địa phương."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "12367是中国国家移民管理相关咨询服务号码，不是报警110或医疗急救120；紧急危险时应使用相应应急号码。"
+              "text": "12367是中国国家移民管理相关咨询服务号码，不是报警110或医疗急救120；紧急危险时应使用相应应急号码。",
+              "text_vi": "12367 là tổng đài tư vấn xuất nhập cảnh Trung Quốc, không phải số cảnh sát 110 hay cấp cứu 120; nguy hiểm cần gọi số khẩn cấp tương ứng."
             }
           ],
           "pinyin": "néng dǎ zī xún ma",
-          "when_to_use": "遇到外国人签证、居留或出入境疑问，询问能否拨打中国移民管理服务电话12367。"
+          "when_to_use": "遇到外国人签证、居留或出入境疑问，询问能否拨打中国移民管理服务电话12367。",
+          "meaning_vi": "Có thể gọi 12367 hỏi không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0018",
@@ -3090,27 +3148,33 @@
           "alternatives": [
             {
               "text": "护照丢了，报失证明去哪儿办？",
-              "id": "s50_5_0018_alt01"
+              "id": "s50_5_0018_alt01",
+              "meaning_vi": "Mất hộ chiếu thì xin giấy trình báo mất ở đâu?"
             }
           ],
           "replies": [
             {
               "text": "先到遗失地派出所咨询。",
-              "id": "s50_5_0018_reply01"
+              "id": "s50_5_0018_reply01",
+              "meaning_vi": "Trước tiên hỏi đồn công an nơi làm mất."
             },
             {
               "text": "先确认使领馆要求哪种证明。",
-              "id": "s50_5_0018_reply02"
+              "id": "s50_5_0018_reply02",
+              "meaning_vi": "Hỏi cơ quan đại diện yêu cầu loại chứng nhận nào."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“报失证明”是报失相关凭证，具体名称和签发机关按当地公安及使领馆要求确定；不能自行伪造证明。"
+              "text": "“报失证明”是报失相关凭证，具体名称和签发机关按当地公安及使领馆要求确定；不能自行伪造证明。",
+              "text_vi": "“报失证明” là giấy tờ liên quan việc trình báo mất, tên và cơ quan cấp tùy công an địa phương và sứ quán; không làm giả."
             }
           ],
-          "pinyin": "hù zhào bào shī zhèng míng zài nǎr kāi"
+          "pinyin": "hù zhào bào shī zhèng míng zài nǎr kāi",
+          "meaning_vi": "Giấy trình báo mất hộ chiếu làm ở đâu?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0019",
@@ -3120,27 +3184,33 @@
           "alternatives": [
             {
               "text": "新护照的号码和旧的不一样。",
-              "id": "s50_5_0019_alt01"
+              "id": "s50_5_0019_alt01",
+              "meaning_vi": "Số hộ chiếu mới khác số cũ."
             }
           ],
           "replies": [
             {
               "text": "需要核对居留许可登记信息。",
-              "id": "s50_5_0019_reply01"
+              "id": "s50_5_0019_reply01",
+              "meaning_vi": "Cần đối chiếu thông tin đăng ký trên giấy phép cư trú."
             },
             {
               "text": "带新旧护照资料来确认。",
-              "id": "s50_5_0019_reply02"
+              "id": "s50_5_0019_reply02",
+              "meaning_vi": "Mang thông tin hộ chiếu cũ và mới đến xác nhận."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“新护照号码变了”是护照号更换，持有效居留许可者涉及登记事项变更时依法应在10日内申请变更。"
+              "text": "“新护照号码变了”是护照号更换，持有效居留许可者涉及登记事项变更时依法应在10日内申请变更。",
+              "text_vi": "Số hộ chiếu mới khác số cũ; nếu làm thay đổi thông tin ghi trên giấy cư trú hợp lệ phải nộp xin thay đổi trong 10 ngày."
             }
           ],
-          "pinyin": "xīn hù zhào hào mǎ biàn le"
+          "pinyin": "xīn hù zhào hào mǎ biàn le",
+          "meaning_vi": "Số hộ chiếu mới đã đổi rồi.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0020",
@@ -3150,27 +3220,33 @@
           "alternatives": [
             {
               "text": "居留许可上的护照号要更新吗？",
-              "id": "s50_5_0020_alt01"
+              "id": "s50_5_0020_alt01",
+              "meaning_vi": "Số hộ chiếu trên giấy phép cư trú có cần cập nhật không?"
             }
           ],
           "replies": [
             {
               "text": "登记事项变了，要按规定办理。",
-              "id": "s50_5_0020_reply01"
+              "id": "s50_5_0020_reply01",
+              "meaning_vi": "Nếu thông tin đăng ký thay đổi thì phải làm theo quy định."
             },
             {
               "text": "带新护照去出入境窗口确认。",
-              "id": "s50_5_0020_reply02"
+              "id": "s50_5_0020_reply02",
+              "meaning_vi": "Mang hộ chiếu mới đến quầy xuất nhập cảnh xác nhận."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“信息要改吗”问居留证件登记事项是否发生变更，不等于必须重新申请所有签证或工作许可；相关部门逐项确认。"
+              "text": "“信息要改吗”问居留证件登记事项是否发生变更，不等于必须重新申请所有签证或工作许可；相关部门逐项确认。",
+              "text_vi": "Hỏi sửa thông tin cư trú không có nghĩa phải xin lại mọi loại visa/giấy phép lao động; xác nhận từng mục với cơ quan phụ trách."
             }
           ],
-          "pinyin": "jū liú xǔ kě xìn xī yào gǎi ma"
+          "pinyin": "jū liú xǔ kě xìn xī yào gǎi ma",
+          "meaning_vi": "Có phải sửa thông tin giấy phép cư trú không?",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0012",
@@ -3180,22 +3256,27 @@
           "replies": [
             {
               "text": "是我的护照。",
-              "id": "s50_5_0012_reply01"
+              "id": "s50_5_0012_reply01",
+              "meaning_vi": "Là hộ chiếu của tôi."
             },
             {
               "text": "我丢的是居留证件。",
-              "id": "s50_5_0012_reply02"
+              "id": "s50_5_0012_reply02",
+              "meaning_vi": "Tôi làm mất giấy phép cư trú."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“证件”是统称，不是只有护照；不同证件补发部门不同，回答时要说具体名称。"
+              "text": "“证件”是统称，不是只有护照；不同证件补发部门不同，回答时要说具体名称。",
+              "text_vi": "“证件” là tên chung cho nhiều giấy tờ; khi trả lời cần nói chính xác loại bị mất vì cơ quan cấp lại khác nhau."
             }
           ],
           "pinyin": "xiān què rèn diū le shén me zhèng jiàn",
-          "when_to_use": "你说证件丢了，工作人员先确认到底是护照、居留许可还是别的证件。"
+          "when_to_use": "你说证件丢了，工作人员先确认到底是护照、居留许可还是别的证件。",
+          "meaning_vi": "Trước tiên xác định giấy tờ nào bị mất.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0013",
@@ -3205,22 +3286,27 @@
           "replies": [
             {
               "text": "好，我现在联系。",
-              "id": "s50_5_0013_reply01"
+              "id": "s50_5_0013_reply01",
+              "meaning_vi": "Được, tôi liên hệ ngay."
             },
             {
               "text": "联系方式在哪儿查？",
-              "id": "s50_5_0013_reply02"
+              "id": "s50_5_0013_reply02",
+              "meaning_vi": "Tra thông tin liên hệ ở đâu?"
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“使领馆”包括使馆和领事馆，处理本国护照问题；中国签证、居留证件补发还需向中国出入境机构办理。"
+              "text": "“使领馆”包括使馆和领事馆，处理本国护照问题；中国签证、居留证件补发还需向中国出入境机构办理。",
+              "text_vi": "“使领馆” gồm đại sứ quán và lãnh sự quán, xử lý hộ chiếu của công dân mình; giấy cư trú, visa Trung Quốc vẫn theo cơ quan xuất nhập cảnh Trung Quốc."
             }
           ],
           "pinyin": "bǔ hù zhào xiān lián xì shǐ lǐng guǎn",
-          "when_to_use": "护照遗失，工作人员提醒外国申请者先联系本国使领馆咨询新护照或旅行证。"
+          "when_to_use": "护照遗失，工作人员提醒外国申请者先联系本国使领馆咨询新护照或旅行证。",
+          "meaning_vi": "Mất hộ chiếu thì trước tiên liên hệ cơ quan đại diện.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0014",
@@ -3230,22 +3316,27 @@
           "replies": [
             {
               "text": "应该去哪个部门？",
-              "id": "s50_5_0014_reply01"
+              "id": "s50_5_0014_reply01",
+              "meaning_vi": "Tôi nên đến cơ quan nào?"
             },
             {
               "text": "能一起办理吗？",
-              "id": "s50_5_0014_reply02"
+              "id": "s50_5_0014_reply02",
+              "meaning_vi": "Có thể làm chung không?"
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“另办”指分开办理不同证件，不表示同一份报失证明一定够所有业务。"
+              "text": "“另办”指分开办理不同证件，不表示同一份报失证明一定够所有业务。",
+              "text_vi": "“另办” là làm giấy tờ khác theo thủ tục riêng, không mặc định một giấy báo mất đủ cho mọi dịch vụ."
             }
           ],
           "pinyin": "qí tā zhèng jiàn yào lìng bàn",
-          "when_to_use": "护照和居留许可可能都不见了，窗口提醒不同证件需按各自手续办理。"
+          "when_to_use": "护照和居留许可可能都不见了，窗口提醒不同证件需按各自手续办理。",
+          "meaning_vi": "Các giấy tờ khác phải làm riêng.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0015",
@@ -3255,22 +3346,27 @@
           "replies": [
             {
               "text": "好，我收好了。",
-              "id": "s50_5_0015_reply01"
+              "id": "s50_5_0015_reply01",
+              "meaning_vi": "Được, tôi cất kỹ rồi."
             },
             {
               "text": "补办时要出示吗？",
-              "id": "s50_5_0015_reply02"
+              "id": "s50_5_0015_reply02",
+              "meaning_vi": "Lúc làm lại có phải xuất trình không?"
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“收好”是保管文件，不意味着拿到报失证明就可以直接出境旅行；出行证件仍需向有关机构确认。"
+              "text": "“收好”是保管文件，不意味着拿到报失证明就可以直接出境旅行；出行证件仍需向有关机构确认。",
+              "text_vi": "Giữ giấy báo mất không có nghĩa đã có thể xuất nhập cảnh; cần hỏi cơ quan liên quan về giấy thông hành hợp lệ."
             }
           ],
           "pinyin": "bào shī zhèng míng yào shōu hǎo",
-          "when_to_use": "报失后获得证明材料，工作人员提醒好好保存用于后续手续。"
+          "when_to_use": "报失后获得证明材料，工作人员提醒好好保存用于后续手续。",
+          "meaning_vi": "Giữ cẩn thận giấy xác nhận trình báo mất.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0016",
@@ -3280,22 +3376,27 @@
           "replies": [
             {
               "text": "还需要更新什么？",
-              "id": "s50_5_0016_reply01"
+              "id": "s50_5_0016_reply01",
+              "meaning_vi": "Còn phải cập nhật gì?"
             },
             {
               "text": "好，我去咨询。",
-              "id": "s50_5_0016_reply02"
+              "id": "s50_5_0016_reply02",
+              "meaning_vi": "Được, tôi đi hỏi."
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“核对新护照”不止看封面；如果护照号改变，还要办理相应居留证件信息变更。"
+              "text": "“核对新护照”不止看封面；如果护照号改变，还要办理相应居留证件信息变更。",
+              "text_vi": "Kiểm tra hộ chiếu mới không chỉ bìa; khi số đổi phải cập nhật thông tin trên giấy phép cư trú tương ứng."
             }
           ],
           "pinyin": "xīn hù zhào bàn hǎo yào hé duì",
-          "when_to_use": "补发的新护照终于领取，工作人员提醒核对姓名、生日、护照号码和有效期。"
+          "when_to_use": "补发的新护照终于领取，工作人员提醒核对姓名、生日、护照号码和有效期。",
+          "meaning_vi": "Làm xong hộ chiếu mới thì phải kiểm tra thông tin.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         },
         {
           "id": "s50_5_0017",
@@ -3305,24 +3406,32 @@
           "replies": [
             {
               "text": "好，我打电话问问。",
-              "id": "s50_5_0017_reply01"
+              "id": "s50_5_0017_reply01",
+              "meaning_vi": "Được, tôi gọi hỏi."
             },
             {
               "text": "当地也能咨询吗？",
-              "id": "s50_5_0017_reply02"
+              "id": "s50_5_0017_reply02",
+              "meaning_vi": "Có thể hỏi tại địa phương không?"
             }
           ],
           "lesson_id": "50.5",
           "lesson_title": "50.5 证件丢失与补办",
           "mistakes": [
             {
-              "text": "“可打12367”是咨询途径，不是保证能在电话中直接补发护照或批准居留；实际办理仍按规定提交申请。"
+              "text": "“可打12367”是咨询途径，不是保证能在电话中直接补发护照或批准居留；实际办理仍按规定提交申请。",
+              "text_vi": "Gọi 12367 là hỏi tư vấn, không thể nhận hộ chiếu mới hoặc được duyệt cư trú chỉ qua cuộc gọi; phải nộp hồ sơ theo quy định."
             }
           ],
           "pinyin": "chū rù jìng wèn tí kě dǎ",
-          "when_to_use": "遇到外国人出入境、签证延期或居留问题，工作人员提醒可以打12367咨询。"
+          "when_to_use": "遇到外国人出入境、签证延期或居留问题，工作人员提醒可以打12367咨询。",
+          "meaning_vi": "Có thể gọi 12367 để hỏi vấn đề xuất nhập cảnh.",
+          "lesson_title_vi": "50.5 Mất giấy tờ và xin cấp lại"
         }
-      ]
+      ],
+      "title_vi": "50.5 Mất giấy tờ và xin cấp lại",
+      "subtitle_vi": "20 thẻ giao tiếp",
+      "opening_vi": "Luyện báo mất hộ chiếu, thẻ cư trú, liên hệ cảnh sát và cơ quan đại diện quốc gia, xin giấy chứng nhận và cập nhật số hộ chiếu mới."
     },
     {
       "id": "50.6",
