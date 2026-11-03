@@ -1,0 +1,2520 @@
+{
+  "theme_id": "56",
+  "version": 1,
+  "updated_at": "2026-11-03T03:40:23.609Z",
+  "theme_title": "56 工资合同离职",
+  "quality_standard": "Fully localized Vietnamese main/alternative/reply sentences and all unique Mandarin training notes; original Chinese/pinyin/IDs/sequence intact. PRC labor law 30-day/3-day standard termination notices and contract copies checked; native speaker and legal professional/editorial and app/audio verification pending.",
+  "source_phrase_count": 76,
+  "lessons": [
+    {
+      "id": "56.1",
+      "title": "56.1 工资发放",
+      "phrases": [
+        {
+          "id": "s56_1_0001",
+          "level": "must",
+          "text": "工资还没到账。",
+          "alternatives": [
+            {
+              "text": "怎么还没发工资？",
+              "id": "s56_1_0001_alt01",
+              "meaning_vi": "Sao vẫn chưa được trả lương nhỉ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我查一下转账记录。",
+              "id": "s56_1_0001_reply01",
+              "meaning_vi": "Để tôi kiểm tra giao dịch chuyển khoản."
+            },
+            {
+              "text": "我帮你问下财务。",
+              "id": "s56_1_0001_reply02",
+              "meaning_vi": "Tôi hỏi phòng kế toán giúp bạn."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“没到账”是银行尚未显示入账，不一定等于公司完全没发；先核对发薪日期与转账记录。",
+              "text_vi": "“Chưa vào tài khoản” nghĩa là ngân hàng chưa ghi nhận tiền đến, chưa chắc công ty chưa chuyển; hãy đối chiếu ngày trả lương và giao dịch."
+            }
+          ],
+          "pinyin": "gōng zī hái méi dào zhàng",
+          "when_to_use": "发薪日过了还没收到银行入账短信，向财务说明工资尚未到账。",
+          "meaning_vi": "Lương vẫn chưa vào tài khoản.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0002",
+          "level": "must",
+          "text": "工资条在哪儿？",
+          "alternatives": [
+            {
+              "text": "在哪儿看工资条？",
+              "id": "s56_1_0002_alt01",
+              "meaning_vi": "Xem phiếu lương ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在公司系统里查。",
+              "id": "s56_1_0002_reply01",
+              "meaning_vi": "Tra trong hệ thống của công ty."
+            },
+            {
+              "text": "已经发到邮箱了。",
+              "id": "s56_1_0002_reply02",
+              "meaning_vi": "Đã gửi qua email rồi."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“工资条”是工资明细，不是银行卡余额；通常可看到应发、扣款和实发等项目。",
+              "text_vi": "Phiếu lương ghi số đáng lẽ được nhận, các khoản khấu trừ và số thực nhận; không phải chỉ là số dư ngân hàng."
+            }
+          ],
+          "pinyin": "gōng zī tiáo zài nǎr",
+          "when_to_use": "拿到工资后想核对明细，问工资条在系统还是邮箱里。",
+          "meaning_vi": "Phiếu lương ở đâu?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0003",
+          "level": "must",
+          "text": "这个月工资不对。",
+          "alternatives": [
+            {
+              "text": "这月工资算错了。",
+              "id": "s56_1_0003_alt01",
+              "meaning_vi": "Lương tháng này bị tính sai rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪里算错了？",
+              "id": "s56_1_0003_reply01",
+              "meaning_vi": "Sai ở khoản nào?"
+            },
+            {
+              "text": "把工资条给我看看。",
+              "id": "s56_1_0003_reply02",
+              "meaning_vi": "Đưa tôi xem phiếu lương nhé."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“不对”是提出疑问，不能未核对就断定原因；准备工资条和真实考勤记录。",
+              "text_vi": "“Không đúng” là nêu điều cần kiểm tra, chưa xác định nguyên nhân; nên có phiếu lương và lịch chấm công thật."
+            }
+          ],
+          "pinyin": "zhè ge yuè gōng zī bú duì",
+          "when_to_use": "本月工资与自己记录不符，先向财务提出核对。",
+          "meaning_vi": "Lương tháng này không đúng.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0004",
+          "level": "must",
+          "text": "工资少了三百。",
+          "alternatives": [
+            {
+              "text": "少发了三百。",
+              "id": "s56_1_0004_alt01",
+              "meaning_vi": "Công ty trả thiếu 300 tệ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你查下原因。",
+              "id": "s56_1_0004_reply01",
+              "meaning_vi": "Để tôi kiểm tra nguyên nhân."
+            },
+            {
+              "text": "先对一下出勤记录。",
+              "id": "s56_1_0004_reply02",
+              "meaning_vi": "Đối chiếu bảng chấm công trước nhé."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“少三百”是金额差额，不说明是哪项被扣；工资条与到账记录要一起核对。",
+              "text_vi": "“Thiếu 300” là chênh lệch tiền, chưa rõ bị trừ khoản nào; phải so sánh phiếu lương với tiền đã vào tài khoản."
+            }
+          ],
+          "pinyin": "gōng zī shǎo le sān bǎi",
+          "when_to_use": "发现实际到账比预期少三百元，明确说出差额。",
+          "meaning_vi": "Lương bị thiếu 300 tệ.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0005",
+          "level": "must",
+          "text": "扣的是什么钱？",
+          "alternatives": [
+            {
+              "text": "为什么扣钱？",
+              "id": "s56_1_0005_alt01",
+              "meaning_vi": "Sao lại bị trừ tiền?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这笔是社保费用。",
+              "id": "s56_1_0005_reply01",
+              "meaning_vi": "Khoản này là tiền bảo hiểm xã hội."
+            },
+            {
+              "text": "这笔是个人所得税。",
+              "id": "s56_1_0005_reply02",
+              "meaning_vi": "Khoản này là thuế thu nhập cá nhân."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "社保、个人所得税与其他扣款要分别核对依据；“扣款”不能一律解释成罚款，也不代表一定合法。",
+              "text_vi": "Các khoản bảo hiểm xã hội, thuế thu nhập cá nhân và khấu trừ khác cần xác minh từng căn cứ; trừ lương không phải lúc nào cũng là phạt hoặc hợp pháp."
+            }
+          ],
+          "pinyin": "kòu de shì shén me qián",
+          "when_to_use": "工资条出现不认识的扣款项目时，直接问具体用途。",
+          "meaning_vi": "Khoản tiền bị trừ là tiền gì?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0006",
+          "level": "must",
+          "text": "工资条和实发不一样。",
+          "alternatives": [
+            {
+              "text": "实发金额对不上。",
+              "id": "s56_1_0006_alt01",
+              "meaning_vi": "Số tiền thực nhận không khớp."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我核对下实发金额。",
+              "id": "s56_1_0006_reply01",
+              "meaning_vi": "Để tôi đối chiếu số tiền thực nhận."
+            },
+            {
+              "text": "你把银行记录发来。",
+              "id": "s56_1_0006_reply02",
+              "meaning_vi": "Gửi tôi chứng từ ngân hàng nhé."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“应发”和“实发”不同；向财务提供证明时注意遮挡无关银行账号等敏感信息。",
+              "text_vi": "Lương phải trả và số thực nhận khác nhau; khi gửi chứng từ cho kế toán, che thông tin tài khoản không cần thiết."
+            }
+          ],
+          "pinyin": "gōng zī tiáo hé shí fā bù yí yàng",
+          "when_to_use": "工资条上写的实发数额与银行实际入账不符时，要求查账。",
+          "meaning_vi": "Số thực nhận không khớp với phiếu lương.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0007",
+          "level": "must",
+          "text": "奖金什么时候发？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "月底跟工资一起发。",
+              "id": "s56_1_0007_reply01",
+              "meaning_vi": "Cuối tháng trả cùng lương."
+            },
+            {
+              "text": "还没定，确定后通知。",
+              "id": "s56_1_0007_reply02",
+              "meaning_vi": "Chưa chốt, khi nào rõ sẽ thông báo."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“奖金”与“底薪”不同；是否发、何时发，须看真实约定与考核条件。",
+              "text_vi": "Tiền thưởng khác lương cơ bản; có nhận, ngày nhận và điều kiện phụ thuộc cam kết và đánh giá thực tế."
+            }
+          ],
+          "pinyin": "jiǎng jīn shén me shí hou fā",
+          "when_to_use": "公司承诺有奖金但尚未发，向财务确认发放时间。",
+          "meaning_vi": "Khi nào trả tiền thưởng?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0008",
+          "level": "must",
+          "text": "扣款明细在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "工资条下面有明细。",
+              "id": "s56_1_0008_reply01",
+              "meaning_vi": "Có bảng chi tiết ở cuối phiếu lương."
+            },
+            {
+              "text": "去找财务要一份。",
+              "id": "s56_1_0008_reply02",
+              "meaning_vi": "Bạn có thể xin một bản ở phòng kế toán."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“扣款明细”要看每笔数额和依据；不要只听“公司规定”就认为金额已经解释清楚。",
+              "text_vi": "Bảng khấu trừ cần ghi từng khoản, số tiền và căn cứ; không chỉ chấp nhận lời giải thích chung “theo quy định công ty”."
+            }
+          ],
+          "pinyin": "kòu kuǎn míng xì zài nǎr",
+          "when_to_use": "工资条有好几项扣款，想查看每笔明细与计算方式。",
+          "meaning_vi": "Xem chi tiết các khoản khấu trừ ở đâu?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0009",
+          "level": "must",
+          "text": "这月有加班费吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，工资条里写着。",
+              "id": "s56_1_0009_reply01",
+              "meaning_vi": "Có, trong phiếu lương có ghi."
+            },
+            {
+              "text": "还在核算，下月补发。",
+              "id": "s56_1_0009_reply02",
+              "meaning_vi": "Vẫn đang tính, tháng sau trả bổ sung."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“有加班费吗”问本月是否计入，具体金额应结合真实加班时数和适用计算规则。",
+              "text_vi": "Hỏi tháng này đã tính tiền tăng ca chưa; mức tiền phải đối chiếu giờ làm thêm thực tế với cách tính theo quy định áp dụng."
+            }
+          ],
+          "pinyin": "zhè yuè yǒu jiā bān fèi ma",
+          "when_to_use": "这个月确实加过班，想确认加班费是否计入工资。",
+          "meaning_vi": "Tháng này có tính tiền tăng ca không?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0016",
+          "level": "must",
+          "text": "工资什么时候补发？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“工资什么时候补发？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "少发的工资什么时候补？",
+              "id": "s56_1_0016_alt01",
+              "meaning_vi": "Khoản lương trả thiếu khi nào được trả bù?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "核对完会通知你。",
+              "id": "s56_1_0016_reply01",
+              "meaning_vi": "Đối chiếu xong sẽ thông báo."
+            },
+            {
+              "text": "我先确认补发日期。",
+              "id": "s56_1_0016_reply02",
+              "meaning_vi": "Để tôi xác nhận ngày trả bù trước."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "pinyin": "gōng zī shén me shí hou bǔ fā",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Khi nào trả bổ sung số tiền lương thiếu?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0017",
+          "level": "must",
+          "text": "这个月的工资怎么算？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“这个月的工资怎么算？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "这月工资按什么算？",
+              "id": "s56_1_0017_alt01",
+              "meaning_vi": "Tháng này tính lương theo cách nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按实际出勤和合同核算。",
+              "id": "s56_1_0017_reply01",
+              "meaning_vi": "Tính theo ngày công thực tế và hợp đồng."
+            },
+            {
+              "text": "我把明细发给你。",
+              "id": "s56_1_0017_reply02",
+              "meaning_vi": "Tôi gửi bảng chi tiết cho bạn."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "pinyin": "zhè ge yuè de gōng zī zěn me suàn",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Lương tháng này được tính thế nào?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0018",
+          "level": "must",
+          "text": "能给我一份工资明细吗？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“能给我一份工资明细吗？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "能发我工资条吗？",
+              "id": "s56_1_0018_alt01",
+              "meaning_vi": "Bạn gửi phiếu lương cho tôi được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，发到你的邮箱。",
+              "id": "s56_1_0018_reply01",
+              "meaning_vi": "Được, tôi gửi vào email của bạn."
+            },
+            {
+              "text": "你可以在系统里下载。",
+              "id": "s56_1_0018_reply02",
+              "meaning_vi": "Bạn có thể tải xuống từ hệ thống."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "pinyin": "néng gěi wǒ yí fèn gōng zī míng xì ma",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Cho tôi xin bảng chi tiết tiền lương được không?",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0010",
+          "level": "listen",
+          "text": "工资条发邮箱了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我去查收一下。",
+              "id": "s56_1_0010_reply01",
+              "meaning_vi": "Để tôi kiểm tra hộp thư."
+            },
+            {
+              "text": "我还没收到，能重发吗？",
+              "id": "s56_1_0010_reply02",
+              "meaning_vi": "Tôi vẫn chưa nhận được, gửi lại được không?"
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“发邮箱了”不代表收件人一定收到；收件箱与垃圾邮件都可检查。",
+              "text_vi": "Đã gửi qua email không bảo đảm người nhận thấy; có thể kiểm tra hộp thư đến và thư rác."
+            }
+          ],
+          "pinyin": "gōng zī tiáo fā yóu xiāng le",
+          "when_to_use": "财务通知工资条已发邮箱，员工可以确认是否收到。",
+          "meaning_vi": "Đã gửi phiếu lương qua email rồi.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0011",
+          "level": "listen",
+          "text": "这是社保扣款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是我个人交的部分吗？",
+              "id": "s56_1_0011_reply01",
+              "meaning_vi": "Đây là phần bảo hiểm tôi phải đóng à?"
+            },
+            {
+              "text": "每月都扣这么多吗？",
+              "id": "s56_1_0011_reply02",
+              "meaning_vi": "Tháng nào cũng trừ chừng này sao?"
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“这是社保扣款”不能直接推出所有外籍员工适用同一标准；参保和缴费依据需单独核实。",
+              "text_vi": "Khoản trừ bảo hiểm xã hội tùy điều kiện áp dụng, kể cả người lao động nước ngoài; cần xem lịch sử tham gia và căn cứ."
+            }
+          ],
+          "pinyin": "zhè shì shè bǎo kòu kuǎn",
+          "when_to_use": "财务说明某笔扣款是社保个人承担部分，员工追问金额。",
+          "meaning_vi": "Đây là khoản trừ bảo hiểm xã hội.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0012",
+          "level": "listen",
+          "text": "我帮你核对。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我把工资条发你。",
+              "id": "s56_1_0012_reply01",
+              "meaning_vi": "Cảm ơn, tôi gửi phiếu lương cho bạn."
+            },
+            {
+              "text": "大概什么时候能查好？",
+              "id": "s56_1_0012_reply02",
+              "meaning_vi": "Khoảng khi nào kiểm tra xong?"
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“我帮你核对”只是答应检查，尚不等于确认差额或作出补发承诺。",
+              "text_vi": "“Tôi đối chiếu giúp” chỉ đồng ý kiểm tra, chưa xác nhận thiếu tiền hoặc hứa ngày trả bổ sung."
+            }
+          ],
+          "pinyin": "wǒ bāng nǐ hé duì",
+          "when_to_use": "财务说愿意帮你核对工资，练习继续提供材料并询问时效。",
+          "meaning_vi": "Tôi đối chiếu giúp bạn.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0013",
+          "level": "listen",
+          "text": "工资已经打到卡里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我去查下余额。",
+              "id": "s56_1_0013_reply01",
+              "meaning_vi": "Để tôi kiểm tra số dư."
+            },
+            {
+              "text": "我这边还没显示到账。",
+              "id": "s56_1_0013_reply02",
+              "meaning_vi": "Tài khoản của tôi vẫn chưa hiển thị tiền vào."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“已经打到卡里”描述付款方操作，不等于你的银行实时到账；核对支付日期与收款账号。",
+              "text_vi": "“Đã chuyển vào thẻ” nói phía trả tiền đã thao tác; không bảo đảm ngân hàng nhận ghi có tức thì."
+            }
+          ],
+          "pinyin": "gōng zī yǐ jīng dǎ dào kǎ lǐ",
+          "when_to_use": "工资方说钱已转入银行卡，但自己尚未看到入账时回应。",
+          "meaning_vi": "Lương đã được chuyển vào thẻ ngân hàng.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0014",
+          "level": "listen",
+          "text": "这是考勤扣款。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "扣的是哪一天？",
+              "id": "s56_1_0014_reply01",
+              "meaning_vi": "Bị trừ vào ngày nào?"
+            },
+            {
+              "text": "我想核对考勤记录。",
+              "id": "s56_1_0014_reply02",
+              "meaning_vi": "Tôi muốn đối chiếu bảng chấm công."
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "考勤扣款不等于任何罚款都合法；先核实真实出勤和计薪依据，必要时咨询劳动部门。",
+              "text_vi": "Khoản trừ theo chấm công cần so với số giờ làm thực tế và căn cứ lương; không phải phạt nào cũng hợp pháp."
+            }
+          ],
+          "pinyin": "zhè shì kǎo qín kòu kuǎn",
+          "when_to_use": "工资条出现考勤相关扣款时，先问哪一天、什么记录导致的。",
+          "meaning_vi": "Đây là khoản trừ do chấm công.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        },
+        {
+          "id": "s56_1_0015",
+          "level": "listen",
+          "text": "有问题可以找人事。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我带工资条过去。",
+              "id": "s56_1_0015_reply01",
+              "meaning_vi": "Tôi mang phiếu lương qua."
+            },
+            {
+              "text": "人事部现在有人吗？",
+              "id": "s56_1_0015_reply02",
+              "meaning_vi": "Giờ phòng nhân sự có ai không?"
+            }
+          ],
+          "lesson_id": "56.1",
+          "lesson_title": "56.1 工资发放",
+          "mistakes": [
+            {
+              "text": "“找人事”是公司内部核实渠道；若争议无法解决，可另行咨询当地劳动保障维权渠道。",
+              "text_vi": "Phòng nhân sự là kênh kiểm tra nội bộ; nếu không giải quyết được tranh chấp, có thể hỏi cơ quan lao động địa phương."
+            }
+          ],
+          "pinyin": "yǒu wèn tí kě yǐ zhǎo rén shì",
+          "when_to_use": "工资、扣款和考勤有疑问时，负责人建议找人事部核对。",
+          "meaning_vi": "Có vấn đề thì liên hệ phòng nhân sự.",
+          "lesson_title_vi": "56.1 Trả lương và đối chiếu bảng lương"
+        }
+      ],
+      "title_vi": "56.1 Trả lương và đối chiếu bảng lương",
+      "subtitle_vi": "18 câu giao tiếp",
+      "opening_vi": "Luyện hỏi lương chưa vào tài khoản, đọc phiếu lương, đối chiếu ngày công, số tiền bị trừ và khoản trả bổ sung."
+    },
+    {
+      "id": "56.2",
+      "title": "56.2 加班费福利",
+      "phrases": [
+        {
+          "id": "s56_2_0001",
+          "level": "must",
+          "text": "有夜班补贴吗？",
+          "alternatives": [
+            {
+              "text": "夜班有补助吗？",
+              "id": "s56_2_0001_alt01",
+              "meaning_vi": "Làm ca đêm có trợ cấp không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，每晚补五十。",
+              "id": "s56_2_0001_reply01",
+              "meaning_vi": "Có, mỗi đêm được thêm 50 tệ."
+            },
+            {
+              "text": "我们这里没有夜班补贴。",
+              "id": "s56_2_0001_reply02",
+              "meaning_vi": "Chỗ chúng tôi không có phụ cấp ca đêm."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "yǒu yè bān bǔ tiē ma",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“有夜班补贴吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Có phụ cấp ca đêm không?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0002",
+          "level": "must",
+          "text": "公司给交社保吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "会按规定办理参保。",
+              "id": "s56_2_0002_reply01",
+              "meaning_vi": "Công ty làm thủ tục tham gia theo quy định."
+            },
+            {
+              "text": "缴费明细可以找人事查。",
+              "id": "s56_2_0002_reply02",
+              "meaning_vi": "Bạn có thể hỏi nhân sự xem chi tiết đóng bảo hiểm."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "外国员工在中国的社会保险适用情况，应按中国现行规定及适用的社会保障协定核对。",
+              "text_vi": "Bảo hiểm xã hội đối với người nước ngoài tại Trung Quốc cần căn cứ quy định hiện hành và hiệp định an sinh xã hội có hiệu lực nếu áp dụng."
+            }
+          ],
+          "pinyin": "gōng sī gěi jiāo shè bǎo ma",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“公司给交社保吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Công ty có đóng bảo hiểm xã hội không?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0003",
+          "level": "must",
+          "text": "有餐补吗？",
+          "alternatives": [
+            {
+              "text": "有饭补吗？",
+              "id": "s56_2_0003_alt01",
+              "meaning_vi": "Có trợ cấp ăn uống không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，每天补二十。",
+              "id": "s56_2_0003_reply01",
+              "meaning_vi": "Có, mỗi ngày hỗ trợ 20 tệ."
+            },
+            {
+              "text": "没有，公司提供午餐。",
+              "id": "s56_2_0003_reply02",
+              "meaning_vi": "Không, công ty cung cấp bữa trưa."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "yǒu cān bǔ ma",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“有餐补吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Có phụ cấp tiền ăn không?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0004",
+          "level": "must",
+          "text": "住宿收费吗？",
+          "alternatives": [
+            {
+              "text": "宿舍要钱吗？",
+              "id": "s56_2_0004_alt01",
+              "meaning_vi": "Ở ký túc xá phải trả tiền không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不用交住宿费。",
+              "id": "s56_2_0004_reply01",
+              "meaning_vi": "Không cần đóng phí ở."
+            },
+            {
+              "text": "要，每月交两百。",
+              "id": "s56_2_0004_reply02",
+              "meaning_vi": "Có, mỗi tháng trả 200 tệ."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "zhù sù shōu fèi ma",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“住宿收费吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Ký túc xá có thu phí không?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0005",
+          "level": "must",
+          "text": "这笔费用能报销吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能，留好发票。",
+              "id": "s56_2_0005_reply01",
+              "meaning_vi": "Được, nhớ giữ hóa đơn."
+            },
+            {
+              "text": "这笔不在报销范围内。",
+              "id": "s56_2_0005_reply02",
+              "meaning_vi": "Khoản này không thuộc diện thanh toán."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "zhè bǐ fèi yòng néng bào xiāo ma",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“这笔费用能报销吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Khoản chi này có được hoàn lại không?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0006",
+          "level": "must",
+          "text": "加班费什么时候发？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "下个月发工资时一起给。",
+              "id": "s56_2_0006_reply01",
+              "meaning_vi": "Tháng sau trả cùng lương."
+            },
+            {
+              "text": "这月月底单独发。",
+              "id": "s56_2_0006_reply02",
+              "meaning_vi": "Cuối tháng này trả riêng."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "jiā bān fèi shén me shí hou fā",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“加班费什么时候发？”说明真实情况并确认下一步。",
+          "meaning_vi": "Khi nào trả tiền tăng ca?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0007",
+          "level": "must",
+          "text": "社保从几月开始交？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "从入职当月开始办理。",
+              "id": "s56_2_0007_reply01",
+              "meaning_vi": "Bắt đầu làm thủ tục từ tháng nhận việc."
+            },
+            {
+              "text": "我查一下参保日期。",
+              "id": "s56_2_0007_reply02",
+              "meaning_vi": "Để tôi kiểm tra ngày bắt đầu tham gia."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "shè bǎo cóng jǐ yuè kāi shǐ jiāo",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“社保从几月开始交？”说明真实情况并确认下一步。",
+          "meaning_vi": "Công ty bắt đầu đóng bảo hiểm xã hội từ tháng nào?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0008",
+          "level": "must",
+          "text": "报销需要发票吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，发票留好。",
+              "id": "s56_2_0008_reply01",
+              "meaning_vi": "Có, nhớ giữ hóa đơn."
+            },
+            {
+              "text": "这笔可以用电子发票。",
+              "id": "s56_2_0008_reply02",
+              "meaning_vi": "Khoản này dùng hóa đơn điện tử được."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "bào xiāo xū yào fā piào ma",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“报销需要发票吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Hoàn chi phí có cần hóa đơn không?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0009",
+          "level": "must",
+          "text": "夜班补贴怎么算？",
+          "alternatives": [
+            {
+              "text": "夜班补助怎么算？",
+              "id": "s56_2_0009_alt01",
+              "meaning_vi": "Trợ cấp ca đêm tính ra sao?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按上夜班的天数算。",
+              "id": "s56_2_0009_reply01",
+              "meaning_vi": "Tính theo số đêm làm ca."
+            },
+            {
+              "text": "每个月固定发一笔。",
+              "id": "s56_2_0009_reply02",
+              "meaning_vi": "Mỗi tháng trả một khoản cố định."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "yè bān bǔ tiē zěn me suàn",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“夜班补贴怎么算？”说明真实情况并确认下一步。",
+          "meaning_vi": "Phụ cấp ca đêm được tính thế nào?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0017",
+          "level": "must",
+          "text": "加班少算了两小时。",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“加班少算了两小时。”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "加班记录少了两个小时。",
+              "id": "s56_2_0017_alt01",
+              "meaning_vi": "Bảng ghi tăng ca bị thiếu hai tiếng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "把实际打卡时间发我。",
+              "id": "s56_2_0017_reply01",
+              "meaning_vi": "Gửi tôi giờ chấm công thực tế."
+            },
+            {
+              "text": "我帮你跟考勤核对。",
+              "id": "s56_2_0017_reply02",
+              "meaning_vi": "Để tôi đối chiếu với bộ phận chấm công giúp."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "pinyin": "jiā bān shǎo suàn le liǎng xiǎo shí",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Số giờ tăng ca bị tính thiếu hai tiếng.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0018",
+          "level": "must",
+          "text": "夜班补贴算在工资里吗？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“夜班补贴算在工资里吗？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "夜班补助单独发吗？",
+              "id": "s56_2_0018_alt01",
+              "meaning_vi": "Phụ cấp ca đêm được trả riêng à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "工资条里有单独一项。",
+              "id": "s56_2_0018_reply01",
+              "meaning_vi": "Trong phiếu lương có một mục riêng."
+            },
+            {
+              "text": "这个月还没核算完。",
+              "id": "s56_2_0018_reply02",
+              "meaning_vi": "Tháng này vẫn chưa tính xong."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "pinyin": "yè bān bǔ tiē suàn zài gōng zī lǐ ma",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Phụ cấp ca đêm có tính trong lương không?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0019",
+          "level": "must",
+          "text": "社保缴费记录怎么查？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“社保缴费记录怎么查？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "在哪里看社保记录？",
+              "id": "s56_2_0019_alt01",
+              "meaning_vi": "Xem lịch sử đóng bảo hiểm ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先向人事确认查询方式。",
+              "id": "s56_2_0019_reply01",
+              "meaning_vi": "Trước tiên hỏi phòng nhân sự cách tra."
+            },
+            {
+              "text": "我帮你核对参保信息。",
+              "id": "s56_2_0019_reply02",
+              "meaning_vi": "Tôi đối chiếu thông tin tham gia giúp bạn."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "pinyin": "shè bǎo jiǎo fèi jì lù zěn me chá",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Tra lịch sử đóng bảo hiểm xã hội thế nào?",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0010",
+          "level": "listen",
+          "text": "加班费按工时算。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那每小时多少钱？",
+              "id": "s56_2_0010_reply01",
+              "meaning_vi": "Vậy mỗi giờ được bao nhiêu?"
+            },
+            {
+              "text": "我想看下计算明细。",
+              "id": "s56_2_0010_reply02",
+              "meaning_vi": "Tôi muốn xem chi tiết cách tính."
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "jiā bān fèi àn gōng shí suàn",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“加班费按工时算。”说明真实情况并确认下一步。",
+          "meaning_vi": "Tiền tăng ca tính theo số giờ.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0011",
+          "level": "listen",
+          "text": "夜班有补贴。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "一晚补多少钱？",
+              "id": "s56_2_0011_reply01",
+              "meaning_vi": "Một đêm được thêm bao nhiêu?"
+            },
+            {
+              "text": "跟工资一起发吗？",
+              "id": "s56_2_0011_reply02",
+              "meaning_vi": "Có trả cùng lương không?"
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "yè bān yǒu bǔ tiē",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“夜班有补贴。”说明真实情况并确认下一步。",
+          "meaning_vi": "Ca đêm có phụ cấp.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0012",
+          "level": "listen",
+          "text": "住宿免费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "水电费也免费吗？",
+              "id": "s56_2_0012_reply01",
+              "meaning_vi": "Điện nước cũng miễn phí à?"
+            },
+            {
+              "text": "几个人住一间？",
+              "id": "s56_2_0012_reply02",
+              "meaning_vi": "Một phòng mấy người ở?"
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "zhù sù miǎn fèi",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“住宿免费。”说明真实情况并确认下一步。",
+          "meaning_vi": "Chỗ ở miễn phí.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0013",
+          "level": "listen",
+          "text": "这笔费用可以报销。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要找谁报销？",
+              "id": "s56_2_0013_reply01",
+              "meaning_vi": "Tôi nộp yêu cầu hoàn phí cho ai?"
+            },
+            {
+              "text": "发票需要原件吗？",
+              "id": "s56_2_0013_reply02",
+              "meaning_vi": "Có phải nộp hóa đơn bản gốc không?"
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "zhè bǐ fèi yòng kě yǐ bào xiāo",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“这笔费用可以报销。”说明真实情况并确认下一步。",
+          "meaning_vi": "Khoản chi này được thanh toán lại.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0014",
+          "level": "listen",
+          "text": "餐补和工资一起发。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "工资条上能看到吗？",
+              "id": "s56_2_0014_reply01",
+              "meaning_vi": "Trên phiếu lương có hiện không?"
+            },
+            {
+              "text": "每月补多少？",
+              "id": "s56_2_0014_reply02",
+              "meaning_vi": "Mỗi tháng được hỗ trợ bao nhiêu?"
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "cān bǔ hé gōng zī yì qǐ fā",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“餐补和工资一起发。”说明真实情况并确认下一步。",
+          "meaning_vi": "Phụ cấp ăn uống được trả cùng lương.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0015",
+          "level": "listen",
+          "text": "报销要交发票。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "电子发票也行吗？",
+              "id": "s56_2_0015_reply01",
+              "meaning_vi": "Hóa đơn điện tử cũng được à?"
+            },
+            {
+              "text": "交到财务部吗？",
+              "id": "s56_2_0015_reply02",
+              "meaning_vi": "Nộp cho phòng kế toán phải không?"
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "bào xiāo yào jiāo fā piào",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“报销要交发票。”说明真实情况并确认下一步。",
+          "meaning_vi": "Muốn thanh toán chi phí phải nộp hóa đơn.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        },
+        {
+          "id": "s56_2_0016",
+          "level": "listen",
+          "text": "公司会依法办社保。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我怎么查参保记录？",
+              "id": "s56_2_0016_reply01",
+              "meaning_vi": "Làm sao tra lịch sử tham gia bảo hiểm?"
+            },
+            {
+              "text": "我需要提供什么资料？",
+              "id": "s56_2_0016_reply02",
+              "meaning_vi": "Tôi cần cung cấp giấy tờ gì?"
+            }
+          ],
+          "lesson_id": "56.2",
+          "lesson_title": "56.2 加班费福利",
+          "mistakes": [
+            {
+              "text": "福利与法定工资项目不同；按合同、公司实际政策和适用法规核对金额。",
+              "text_vi": "Phúc lợi không đồng nhất với tiền lương bắt buộc theo luật; mức và điều kiện phải đối chiếu hợp đồng, chính sách công ty và quy định áp dụng."
+            }
+          ],
+          "pinyin": "gōng sī huì yī fǎ bàn shè bǎo",
+          "when_to_use": "在加班费、夜班补助、社保或食宿福利时，用“公司会依法办社保。”说明真实情况并确认下一步。",
+          "meaning_vi": "Công ty sẽ làm thủ tục bảo hiểm xã hội theo pháp luật.",
+          "lesson_title_vi": "56.2 Tiền làm thêm giờ và phúc lợi"
+        }
+      ],
+      "title_vi": "56.2 Tiền làm thêm giờ và phúc lợi",
+      "subtitle_vi": "19 câu giao tiếp",
+      "opening_vi": "Luyện hỏi phụ cấp ca đêm, tiền ăn, ký túc xá, bảo hiểm xã hội, hóa đơn và hoàn trả chi phí. Mức trong ví dụ không phải quy định chung."
+    },
+    {
+      "id": "56.3",
+      "title": "56.3 合同试用期",
+      "phrases": [
+        {
+          "id": "s56_3_0001",
+          "level": "must",
+          "text": "合同签几年？",
+          "alternatives": [
+            {
+              "text": "劳动合同签多久？",
+              "id": "s56_3_0001_alt01",
+              "meaning_vi": "Hợp đồng lao động có thời hạn bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这份合同签两年。",
+              "id": "s56_3_0001_reply01",
+              "meaning_vi": "Hợp đồng này có thời hạn hai năm."
+            },
+            {
+              "text": "期限写在第一页。",
+              "id": "s56_3_0001_reply02",
+              "meaning_vi": "Thời hạn ghi ở trang đầu."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "hé tóng qiān jǐ nián",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“合同签几年？”说明真实情况并确认下一步。",
+          "meaning_vi": "Hợp đồng ký mấy năm?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0002",
+          "level": "must",
+          "text": "试用期多久？",
+          "alternatives": [
+            {
+              "text": "试用期几个月？",
+              "id": "s56_3_0002_alt01",
+              "meaning_vi": "Thời gian thử việc mấy tháng?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "合同写的是两个月。",
+              "id": "s56_3_0002_reply01",
+              "meaning_vi": "Trong hợp đồng ghi hai tháng."
+            },
+            {
+              "text": "要按合同期限来定。",
+              "id": "s56_3_0002_reply02",
+              "meaning_vi": "Phải xác định theo thời hạn hợp đồng."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期长短与劳动合同期限和法律规定相关，不是所有工作都固定三个月。",
+              "text_vi": "Thử việc dài bao lâu phụ thuộc thời hạn hợp đồng và giới hạn pháp luật, không phải mọi công việc đều thử ba tháng."
+            }
+          ],
+          "pinyin": "shì yòng qī duō jiǔ",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“试用期多久？”说明真实情况并确认下一步。",
+          "meaning_vi": "Thử việc bao lâu?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0003",
+          "level": "must",
+          "text": "什么时候转正？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "考核通过后就转正。",
+              "id": "s56_3_0003_reply01",
+              "meaning_vi": "Qua đánh giá thì được nhận chính thức."
+            },
+            {
+              "text": "下个月初可以转正。",
+              "id": "s56_3_0003_reply02",
+              "meaning_vi": "Đầu tháng sau có thể được nhận chính thức."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "shén me shí hou zhuǎn zhèng",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“什么时候转正？”说明真实情况并确认下一步。",
+          "meaning_vi": "Khi nào tôi được nhận chính thức?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0004",
+          "level": "must",
+          "text": "这里要签字吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，在这里签名。",
+              "id": "s56_3_0004_reply01",
+              "meaning_vi": "Đúng, ký vào đây."
+            },
+            {
+              "text": "先看完条款再签。",
+              "id": "s56_3_0004_reply02",
+              "meaning_vi": "Đọc hết điều khoản rồi hãy ký."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "zhè lǐ yào qiān zì ma",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“这里要签字吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Tôi ký tên ở đây à?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0005",
+          "level": "must",
+          "text": "合同能先看吗？",
+          "alternatives": [
+            {
+              "text": "能先看看合同吗？",
+              "id": "s56_3_0005_alt01",
+              "meaning_vi": "Tôi đọc hợp đồng trước được chứ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，你先仔细看。",
+              "id": "s56_3_0005_reply01",
+              "meaning_vi": "Được, bạn đọc kỹ trước."
+            },
+            {
+              "text": "不明白的可以问我。",
+              "id": "s56_3_0005_reply02",
+              "meaning_vi": "Chỗ nào không rõ có thể hỏi tôi."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "hé tóng néng xiān kàn ma",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“合同能先看吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Cho tôi xem hợp đồng trước được không?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0006",
+          "level": "must",
+          "text": "试用期能提前结束吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以先跟人事商量。",
+              "id": "s56_3_0006_reply01",
+              "meaning_vi": "Bạn có thể trao đổi với phòng nhân sự trước."
+            },
+            {
+              "text": "要先确认考核结果。",
+              "id": "s56_3_0006_reply02",
+              "meaning_vi": "Cần xác nhận kết quả đánh giá trước."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "shì yòng qī néng tí qián jié shù ma",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“试用期能提前结束吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Có thể kết thúc thử việc sớm không?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0007",
+          "level": "must",
+          "text": "合同到期怎么续？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先跟人事确认续签。",
+              "id": "s56_3_0007_reply01",
+              "meaning_vi": "Trước tiên hỏi nhân sự việc ký tiếp."
+            },
+            {
+              "text": "公司会联系你谈续签。",
+              "id": "s56_3_0007_reply02",
+              "meaning_vi": "Công ty sẽ trao đổi với bạn về việc gia hạn."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "hé tóng dào qī zěn me xù",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“合同到期怎么续？”说明真实情况并确认下一步。",
+          "meaning_vi": "Hợp đồng hết hạn thì gia hạn thế nào?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0008",
+          "level": "must",
+          "text": "转正要考核吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，会安排考核。",
+              "id": "s56_3_0008_reply01",
+              "meaning_vi": "Có, công ty sẽ tổ chức đánh giá."
+            },
+            {
+              "text": "这个岗位看工作表现。",
+              "id": "s56_3_0008_reply02",
+              "meaning_vi": "Vị trí này căn cứ vào kết quả làm việc."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "zhuǎn zhèng yào kǎo hé ma",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“转正要考核吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Muốn được nhận chính thức có phải qua đánh giá không?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0009",
+          "level": "must",
+          "text": "合同我能留一份吗？",
+          "alternatives": [
+            {
+              "text": "我能拿一份合同吗？",
+              "id": "s56_3_0009_alt01",
+              "meaning_vi": "Cho tôi nhận một bản hợp đồng được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，双方各留一份。",
+              "id": "s56_3_0009_reply01",
+              "meaning_vi": "Được, mỗi bên giữ một bản."
+            },
+            {
+              "text": "签好就给你一份。",
+              "id": "s56_3_0009_reply02",
+              "meaning_vi": "Ký xong sẽ giao cho bạn một bản."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "劳动合同文本应由用人单位与劳动者各执一份。",
+              "text_vi": "Theo luật Trung Quốc, người lao động và bên sử dụng lao động mỗi bên giữ một bản hợp đồng lao động."
+            }
+          ],
+          "pinyin": "hé tóng wǒ néng liú yí fèn ma",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“合同我能留一份吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Tôi có thể giữ một bản hợp đồng không?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0017",
+          "level": "must",
+          "text": "合同里的工资和说的不一样。",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“合同里的工资和说的不一样。”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "合同工资跟约定的不一样。",
+              "id": "s56_3_0017_alt01",
+              "meaning_vi": "Lương trong hợp đồng không khớp mức đã thống nhất."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别急着签，我们核对一下。",
+              "id": "s56_3_0017_reply01",
+              "meaning_vi": "Đừng ký vội, chúng ta đối chiếu lại."
+            },
+            {
+              "text": "我请人事重新说明。",
+              "id": "s56_3_0017_reply02",
+              "meaning_vi": "Tôi nhờ nhân sự giải thích lại."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "pinyin": "hé tong lǐ de gōng zī hé shuō de bù yí yàng",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Mức lương trong hợp đồng khác với mức đã thỏa thuận.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0018",
+          "level": "must",
+          "text": "合同里这一条是什么意思？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“合同里这一条是什么意思？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "这条我没看懂。",
+              "id": "s56_3_0018_alt01",
+              "meaning_vi": "Tôi chưa hiểu điều khoản này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我解释给你听。",
+              "id": "s56_3_0018_reply01",
+              "meaning_vi": "Để tôi giải thích cho bạn."
+            },
+            {
+              "text": "不清楚可以先不签。",
+              "id": "s56_3_0018_reply02",
+              "meaning_vi": "Chưa rõ thì bạn có thể chưa ký."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "pinyin": "hé tong lǐ zhè yì tiáo shì shén me yì si",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Điều khoản này trong hợp đồng nghĩa là gì?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0019",
+          "level": "must",
+          "text": "试用期工资是多少？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“试用期工资是多少？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "试用期拿多少钱？",
+              "id": "s56_3_0019_alt01",
+              "meaning_vi": "Trong thời gian thử việc nhận được bao nhiêu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "工资标准写在合同里。",
+              "id": "s56_3_0019_reply01",
+              "meaning_vi": "Mức lương ghi trong hợp đồng."
+            },
+            {
+              "text": "我把明细给你看。",
+              "id": "s56_3_0019_reply02",
+              "meaning_vi": "Tôi cho bạn xem bảng chi tiết."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "pinyin": "shì yòng qī gōng zī shì duō shǎo",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Lương thử việc là bao nhiêu?",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0010",
+          "level": "listen",
+          "text": "试用期是三个月。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "合同期限是几年？",
+              "id": "s56_3_0010_reply01",
+              "meaning_vi": "Hợp đồng có thời hạn mấy năm?"
+            },
+            {
+              "text": "我能看一下合同吗？",
+              "id": "s56_3_0010_reply02",
+              "meaning_vi": "Tôi xem hợp đồng được không?"
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "shì yòng qī shì sān ge yuè",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“试用期是三个月。”说明真实情况并确认下一步。",
+          "meaning_vi": "Thời gian thử việc là ba tháng.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0011",
+          "level": "listen",
+          "text": "转正后会调工资。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "会调整多少？",
+              "id": "s56_3_0011_reply01",
+              "meaning_vi": "Lương được điều chỉnh bao nhiêu?"
+            },
+            {
+              "text": "什么时候开始按新工资算？",
+              "id": "s56_3_0011_reply02",
+              "meaning_vi": "Từ khi nào bắt đầu tính theo mức lương mới?"
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "zhuǎn zhèng hòu huì tiáo gōng zī",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“转正后会调工资。”说明真实情况并确认下一步。",
+          "meaning_vi": "Sau khi được nhận chính thức sẽ điều chỉnh lương.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0012",
+          "level": "listen",
+          "text": "合同一式两份。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我能拿一份吗？",
+              "id": "s56_3_0012_reply01",
+              "meaning_vi": "Tôi nhận một bản được chứ?"
+            },
+            {
+              "text": "两份都要签字吗？",
+              "id": "s56_3_0012_reply02",
+              "meaning_vi": "Cả hai bản đều phải ký à?"
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "hé tóng yí shì liǎng fèn",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“合同一式两份。”说明真实情况并确认下一步。",
+          "meaning_vi": "Hợp đồng được lập thành hai bản.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0013",
+          "level": "listen",
+          "text": "先看清楚再签。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先看工资那一栏。",
+              "id": "s56_3_0013_reply01",
+              "meaning_vi": "Tôi xem mục tiền lương trước."
+            },
+            {
+              "text": "不懂的可以问您吗？",
+              "id": "s56_3_0013_reply02",
+              "meaning_vi": "Không hiểu tôi hỏi anh/chị được không?"
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "xiān kàn qīng chǔ zài qiān",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“先看清楚再签。”说明真实情况并确认下一步。",
+          "meaning_vi": "Đọc kỹ rồi mới ký.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0014",
+          "level": "listen",
+          "text": "考核通过就转正。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "考核看哪些内容？",
+              "id": "s56_3_0014_reply01",
+              "meaning_vi": "Đánh giá những nội dung nào?"
+            },
+            {
+              "text": "结果什么时候通知？",
+              "id": "s56_3_0014_reply02",
+              "meaning_vi": "Khi nào thông báo kết quả?"
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "kǎo hé tōng guò jiù zhuǎn zhèng",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“考核通过就转正。”说明真实情况并确认下一步。",
+          "meaning_vi": "Đạt đánh giá thì được nhận chính thức.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0015",
+          "level": "listen",
+          "text": "到期前通知续签。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概提前多久？",
+              "id": "s56_3_0015_reply01",
+              "meaning_vi": "Thường báo trước bao lâu?"
+            },
+            {
+              "text": "我想先看新合同。",
+              "id": "s56_3_0015_reply02",
+              "meaning_vi": "Tôi muốn đọc hợp đồng mới trước."
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "dào qī qián tōng zhī xù qiān",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“到期前通知续签。”说明真实情况并确认下一步。",
+          "meaning_vi": "Trước khi hết hạn sẽ thông báo việc ký tiếp.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        },
+        {
+          "id": "s56_3_0016",
+          "level": "listen",
+          "text": "合同双方各留一份。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我这份什么时候拿？",
+              "id": "s56_3_0016_reply01",
+              "meaning_vi": "Khi nào tôi được nhận bản của mình?"
+            },
+            {
+              "text": "能先拍照留底吗？",
+              "id": "s56_3_0016_reply02",
+              "meaning_vi": "Tôi có thể chụp ảnh để lưu trước không?"
+            }
+          ],
+          "lesson_id": "56.3",
+          "lesson_title": "56.3 合同试用期",
+          "mistakes": [
+            {
+              "text": "试用期、转正、工资标准需依合同和劳动法核对；看不懂先询问，不必当场签。",
+              "text_vi": "Thời gian thử việc, ngày nhận chính thức và lương phải đúng hợp đồng và pháp luật; chưa hiểu điều khoản thì hỏi trước, không cần vội ký."
+            }
+          ],
+          "pinyin": "hé tóng shuāng fāng gè liú yí fèn",
+          "when_to_use": "在阅读劳动合同、确认试用期和转正条件时，用“合同双方各留一份。”说明真实情况并确认下一步。",
+          "meaning_vi": "Mỗi bên giữ một bản hợp đồng.",
+          "lesson_title_vi": "56.3 Hợp đồng lao động và thời gian thử việc"
+        }
+      ],
+      "title_vi": "56.3 Hợp đồng lao động và thời gian thử việc",
+      "subtitle_vi": "19 câu giao tiếp",
+      "opening_vi": "Luyện hỏi hạn hợp đồng, lương thử việc, ngày chính thức, điều khoản chưa hiểu và nhận một bản hợp đồng đã ký."
+    },
+    {
+      "id": "56.4",
+      "title": "56.4 辞职交接",
+      "phrases": [
+        {
+          "id": "s56_4_0001",
+          "level": "must",
+          "text": "我想辞职。",
+          "alternatives": [
+            {
+              "text": "我准备离职。",
+              "id": "s56_4_0001_alt01",
+              "meaning_vi": "Tôi dự định thôi việc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "你准备哪天离职？",
+              "id": "s56_4_0001_reply01",
+              "meaning_vi": "Bạn định nghỉ ngày nào?"
+            },
+            {
+              "text": "先把书面通知交人事。",
+              "id": "s56_4_0001_reply02",
+              "meaning_vi": "Trước tiên nộp thông báo bằng văn bản cho nhân sự."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "wǒ xiǎng cí zhí",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“我想辞职。”说明真实情况并确认下一步。",
+          "meaning_vi": "Tôi muốn nghỉ việc.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0002",
+          "level": "must",
+          "text": "辞职要提前多久说？",
+          "alternatives": [
+            {
+              "text": "辞职要提前几天说？",
+              "id": "s56_4_0002_alt01",
+              "meaning_vi": "Phải báo trước mấy ngày khi xin nghỉ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "一般要提前三十天书面通知。",
+              "id": "s56_4_0002_reply01",
+              "meaning_vi": "Thông thường phải thông báo bằng văn bản trước 30 ngày."
+            },
+            {
+              "text": "试用期一般提前三天。",
+              "id": "s56_4_0002_reply02",
+              "meaning_vi": "Trong thời gian thử việc thông thường báo trước 3 ngày."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般情形下劳动者提前三十日书面通知；试用期内一般提前三日通知。另有依法即时解除等特殊情形，不要一概套用。",
+              "text_vi": "Thông thường người lao động phải báo nghỉ bằng văn bản trước 30 ngày; trong thử việc báo trước 3 ngày. Có các trường hợp pháp luật cho phép chấm dứt ngay."
+            }
+          ],
+          "pinyin": "cí zhí yào tí qián duō jiǔ shuō",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“辞职要提前多久说？”说明真实情况并确认下一步。",
+          "meaning_vi": "Nghỉ việc phải báo trước bao lâu?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0003",
+          "level": "must",
+          "text": "我最后哪天上班？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "你做到本月三十号。",
+              "id": "s56_4_0003_reply01",
+              "meaning_vi": "Bạn làm đến ngày 30 tháng này."
+            },
+            {
+              "text": "我帮你核对通知日期。",
+              "id": "s56_4_0003_reply02",
+              "meaning_vi": "Để tôi đối chiếu ngày thông báo giúp bạn."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "wǒ zuì hòu nǎ tiān shàng bān",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“我最后哪天上班？”说明真实情况并确认下一步。",
+          "meaning_vi": "Ngày làm việc cuối cùng của tôi là ngày nào?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0004",
+          "level": "must",
+          "text": "工作怎么交接？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先把待办事项列出来。",
+              "id": "s56_4_0004_reply01",
+              "meaning_vi": "Liệt kê các việc còn đang làm trước."
+            },
+            {
+              "text": "资料交给接手的同事。",
+              "id": "s56_4_0004_reply02",
+              "meaning_vi": "Giao tài liệu cho đồng nghiệp nhận việc."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "gōng zuò zěn me jiāo jiē",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“工作怎么交接？”说明真实情况并确认下一步。",
+          "meaning_vi": "Bàn giao công việc thế nào?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0005",
+          "level": "must",
+          "text": "离职手续去哪办？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先去人事部登记。",
+              "id": "s56_4_0005_reply01",
+              "meaning_vi": "Đến phòng nhân sự đăng ký trước."
+            },
+            {
+              "text": "交接完再去人事办。",
+              "id": "s56_4_0005_reply02",
+              "meaning_vi": "Bàn giao xong rồi đến nhân sự làm thủ tục."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "lí zhí shǒu xù qù nǎ bàn",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“离职手续去哪办？”说明真实情况并确认下一步。",
+          "meaning_vi": "Làm thủ tục thôi việc ở đâu?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0006",
+          "level": "must",
+          "text": "能开离职证明吗？",
+          "alternatives": [
+            {
+              "text": "能给我离职证明吗？",
+              "id": "s56_4_0006_alt01",
+              "meaning_vi": "Công ty cho tôi giấy chứng nhận nghỉ việc được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，人事会给你开。",
+              "id": "s56_4_0006_reply01",
+              "meaning_vi": "Được, phòng nhân sự sẽ cấp."
+            },
+            {
+              "text": "离职时就可以领取。",
+              "id": "s56_4_0006_reply02",
+              "meaning_vi": "Khi nghỉ bạn có thể nhận."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "néng kāi lí zhí zhèng míng ma",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“能开离职证明吗？”说明真实情况并确认下一步。",
+          "meaning_vi": "Công ty cấp giấy xác nhận thôi việc được không?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0007",
+          "level": "must",
+          "text": "离职流程怎么走？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先交离职通知。",
+              "id": "s56_4_0007_reply01",
+              "meaning_vi": "Trước tiên nộp thông báo nghỉ việc."
+            },
+            {
+              "text": "再办理工作交接。",
+              "id": "s56_4_0007_reply02",
+              "meaning_vi": "Sau đó bàn giao công việc."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "lí zhí liú chéng zěn me zǒu",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“离职流程怎么走？”说明真实情况并确认下一步。",
+          "meaning_vi": "Quy trình thôi việc gồm những bước nào?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0008",
+          "level": "must",
+          "text": "工作交接给谁？",
+          "alternatives": [
+            {
+              "text": "工作交给哪位？",
+              "id": "s56_4_0008_alt01",
+              "meaning_vi": "Tôi giao việc lại cho người nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "交给小王。",
+              "id": "s56_4_0008_reply01",
+              "meaning_vi": "Giao cho Tiểu Vương."
+            },
+            {
+              "text": "主管会安排接手的人。",
+              "id": "s56_4_0008_reply02",
+              "meaning_vi": "Quản lý sẽ chỉ định người tiếp nhận."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "gōng zuò jiāo jiē gěi shéi",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“工作交接给谁？”说明真实情况并确认下一步。",
+          "meaning_vi": "Bàn giao công việc cho ai?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0009",
+          "level": "must",
+          "text": "离职证明哪天拿？",
+          "alternatives": [
+            {
+              "text": "离职证明什么时候给？",
+              "id": "s56_4_0009_alt01",
+              "meaning_vi": "Bao giờ công ty cấp giấy xác nhận nghỉ việc?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "办离职时就给你。",
+              "id": "s56_4_0009_reply01",
+              "meaning_vi": "Khi làm thủ tục nghỉ việc sẽ giao cho bạn."
+            },
+            {
+              "text": "今天可以找人事领取。",
+              "id": "s56_4_0009_reply02",
+              "meaning_vi": "Hôm nay bạn có thể tới nhân sự lấy."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "lí zhí zhèng míng nǎ tiān ná",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“离职证明哪天拿？”说明真实情况并确认下一步。",
+          "meaning_vi": "Khi nào nhận giấy xác nhận thôi việc?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0010",
+          "level": "must",
+          "text": "离职后工作许可怎么办？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "公司会按规定申请注销。",
+              "id": "s56_4_0010_reply01",
+              "meaning_vi": "Công ty sẽ làm thủ tục đề nghị hủy theo quy định."
+            },
+            {
+              "text": "具体手续去问人事。",
+              "id": "s56_4_0010_reply02",
+              "meaning_vi": "Hỏi bộ phận nhân sự về các bước cụ thể."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "外国人离职后的工作许可、居留许可并非同一证件，应及时向雇主及主管部门核实注销和后续手续。",
+              "text_vi": "Giấy phép lao động và giấy phép cư trú của người nước ngoài là hai giấy tờ khác nhau; sau khi nghỉ phải hỏi công ty và cơ quan có thẩm quyền về hủy, thay đổi và thủ tục tiếp theo."
+            }
+          ],
+          "pinyin": "lí zhí hòu gōng zuò xǔ kě zěn me bàn",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“离职后工作许可怎么办？”说明真实情况并确认下一步。",
+          "meaning_vi": "Sau khi nghỉ việc, giấy phép lao động xử lý thế nào?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0018",
+          "level": "must",
+          "text": "离职工资什么时候结清？",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“离职工资什么时候结清？”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "最后的工资什么时候发？",
+              "id": "s56_4_0018_alt01",
+              "meaning_vi": "Khi nào trả khoản lương cuối cùng?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我先核对结算清单。",
+              "id": "s56_4_0018_reply01",
+              "meaning_vi": "Tôi đối chiếu bảng quyết toán trước."
+            },
+            {
+              "text": "请人事说明结清时间。",
+              "id": "s56_4_0018_reply02",
+              "meaning_vi": "Nhờ phòng nhân sự giải thích ngày thanh toán đủ."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "pinyin": "lí zhí gōng zī shén me shí hou jié qīng",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Khi nghỉ việc, tiền lương còn lại được thanh toán khi nào?",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0019",
+          "level": "must",
+          "text": "我把交接清单发给你。",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“我把交接清单发给你。”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "交接事项我列好了。",
+              "id": "s56_4_0019_alt01",
+              "meaning_vi": "Tôi đã liệt kê xong các việc cần bàn giao."
+            }
+          ],
+          "replies": [
+            {
+              "text": "收到，我逐项确认。",
+              "id": "s56_4_0019_reply01",
+              "meaning_vi": "Nhận được, tôi đối chiếu từng mục."
+            },
+            {
+              "text": "还有未完成的任务吗？",
+              "id": "s56_4_0019_reply02",
+              "meaning_vi": "Còn nhiệm vụ nào chưa hoàn thành không?"
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "pinyin": "wǒ bǎ jiāo jiē qīng dān fā gěi nǐ",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Tôi gửi danh sách bàn giao công việc cho bạn.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0020",
+          "level": "must",
+          "text": "我想确认最后工作日。",
+          "when_to_use": "处理工资、合同或离职手续时，遇到“我想确认最后工作日。”的情况，应确认具体金额、文件或办理时间。",
+          "alternatives": [
+            {
+              "text": "最后一天是哪天？",
+              "id": "s56_4_0020_alt01",
+              "meaning_vi": "Ngày làm cuối cùng là ngày nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我们核对书面通知日期。",
+              "id": "s56_4_0020_reply01",
+              "meaning_vi": "Chúng ta đối chiếu ngày thông báo bằng văn bản."
+            },
+            {
+              "text": "确认后发消息给你。",
+              "id": "s56_4_0020_reply02",
+              "meaning_vi": "Xác nhận xong tôi nhắn bạn."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "pinyin": "wǒ xiǎng què rèn zuì hòu gōng zuò rì",
+          "mistakes": [
+            {
+              "text": "这是具体工作口语示例；工资、试用期、解除劳动关系和外籍工作资格应以实际合同及适用法律核实。",
+              "text_vi": "Đây là câu ví dụ trong công việc; cần đối chiếu lương, thử việc, nghỉ việc và quyền làm việc hợp pháp với hợp đồng thật và pháp luật áp dụng."
+            }
+          ],
+          "meaning_vi": "Tôi muốn xác nhận ngày làm việc cuối.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0011",
+          "level": "listen",
+          "text": "书面提前三十天通知。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "试用期也是三十天吗？",
+              "id": "s56_4_0011_reply01",
+              "meaning_vi": "Trong thử việc cũng phải báo trước 30 ngày à?"
+            },
+            {
+              "text": "我会写好通知交人事。",
+              "id": "s56_4_0011_reply02",
+              "meaning_vi": "Tôi viết thông báo rồi nộp cho nhân sự."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "shū miàn tí qián sān shí tiān tōng zhī",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“书面提前三十天通知。”说明真实情况并确认下一步。",
+          "meaning_vi": "Phải thông báo nghỉ việc trước 30 ngày bằng văn bản.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0012",
+          "level": "listen",
+          "text": "请交书面离职通知。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "发邮件可以吗？",
+              "id": "s56_4_0012_reply01",
+              "meaning_vi": "Gửi qua email có được không?"
+            },
+            {
+              "text": "我今天交给人事。",
+              "id": "s56_4_0012_reply02",
+              "meaning_vi": "Hôm nay tôi nộp cho nhân sự."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "qǐng jiāo shū miàn lí zhí tōng zhī",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“请交书面离职通知。”说明真实情况并确认下一步。",
+          "meaning_vi": "Vui lòng nộp thông báo nghỉ việc bằng văn bản.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0013",
+          "level": "listen",
+          "text": "工作交给小王。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我今天跟他交接。",
+              "id": "s56_4_0013_reply01",
+              "meaning_vi": "Hôm nay tôi bàn giao với anh ấy."
+            },
+            {
+              "text": "他什么时候有空？",
+              "id": "s56_4_0013_reply02",
+              "meaning_vi": "Khi nào anh ấy rảnh?"
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "gōng zuò jiāo gěi xiǎo wáng",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“工作交给小王。”说明真实情况并确认下一步。",
+          "meaning_vi": "Giao lại công việc cho Tiểu Vương.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0014",
+          "level": "listen",
+          "text": "最后去人事办手续。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要带哪些材料？",
+              "id": "s56_4_0014_reply01",
+              "meaning_vi": "Cần mang giấy tờ gì?"
+            },
+            {
+              "text": "工牌也在那里交吗？",
+              "id": "s56_4_0014_reply02",
+              "meaning_vi": "Có phải trả thẻ nhân viên ở đó không?"
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "zuì hòu qù rén shì bàn shǒu xù",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“最后去人事办手续。”说明真实情况并确认下一步。",
+          "meaning_vi": "Cuối cùng đến phòng nhân sự làm thủ tục.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0015",
+          "level": "listen",
+          "text": "工牌钥匙要交回。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "交到哪儿？",
+              "id": "s56_4_0015_reply01",
+              "meaning_vi": "Nộp ở đâu?"
+            },
+            {
+              "text": "我已经整理好了。",
+              "id": "s56_4_0015_reply02",
+              "meaning_vi": "Tôi đã chuẩn bị đủ rồi."
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "gōng pái yào shi yào jiāo huí",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“工牌钥匙要交回。”说明真实情况并确认下一步。",
+          "meaning_vi": "Phải trả lại thẻ nhân viên và chìa khóa.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0016",
+          "level": "listen",
+          "text": "离职证明会给你。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "今天能拿吗？",
+              "id": "s56_4_0016_reply01",
+              "meaning_vi": "Hôm nay tôi nhận được không?"
+            },
+            {
+              "text": "能开电子版吗？",
+              "id": "s56_4_0016_reply02",
+              "meaning_vi": "Có thể cấp bản điện tử không?"
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "lí zhí zhèng míng huì gěi nǐ",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“离职证明会给你。”说明真实情况并确认下一步。",
+          "meaning_vi": "Công ty sẽ cấp giấy xác nhận thôi việc.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        },
+        {
+          "id": "s56_4_0017",
+          "level": "listen",
+          "text": "交接内容要核对。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我会跟小王逐项确认。",
+              "id": "s56_4_0017_reply01",
+              "meaning_vi": "Tôi sẽ đối chiếu từng mục với Tiểu Vương."
+            },
+            {
+              "text": "交接清单要签字吗？",
+              "id": "s56_4_0017_reply02",
+              "meaning_vi": "Danh sách bàn giao có cần ký tên không?"
+            }
+          ],
+          "lesson_id": "56.4",
+          "lesson_title": "56.4 辞职交接",
+          "mistakes": [
+            {
+              "text": "一般辞职通知期限、试用期和特殊解除情形不同；外国员工还需及时确认工作许可与居留后续手续。",
+              "text_vi": "Thời hạn báo nghỉ phụ thuộc thử việc và lý do chấm dứt; người nước ngoài còn cần kiểm tra giấy phép lao động và cư trú sau khi nghỉ."
+            }
+          ],
+          "pinyin": "jiāo jiē nèi róng yào hé duì",
+          "when_to_use": "在提出辞职、确认最后工作日或办理交接时，用“交接内容要核对。”说明真实情况并确认下一步。",
+          "meaning_vi": "Nội dung bàn giao phải được kiểm tra lại.",
+          "lesson_title_vi": "56.4 Xin nghỉ việc và bàn giao"
+        }
+      ],
+      "title_vi": "56.4 Xin nghỉ việc và bàn giao",
+      "subtitle_vi": "20 câu giao tiếp",
+      "opening_vi": "Luyện thông báo nghỉ việc, xác định ngày cuối, bàn giao công việc, giấy xác nhận thôi việc và xử lý giấy phép lao động của người nước ngoài."
+    }
+  ],
+  "theme_title_vi": "56 Tiền lương, hợp đồng và nghỉ việc",
+  "card_count": 76,
+  "lesson_counts": [
+    18,
+    19,
+    19,
+    20
+  ]
+}
