@@ -1,9 +1,9 @@
 {
   "theme_id": "45",
-  "version": 1,
-  "updated_at": "2026-11-03T00:00:00Z",
+  "version": 2,
+  "updated_at": "2026-11-03T03:15:00Z",
   "theme_title": "45 药店用药",
-  "quality_standard": "Vietnamese main/alternative/reply translations complete. Original Chinese, pinyin, IDs and source note wording preserved. Vietnamese note text is interim general safety guidance; full source-specific note review and native-language editorial QA still pending. Emergency number 120 is for China as in original material.",
+  "quality_standard": "Source-aligned Vietnamese translation of all 86 medication teaching notes and 294 card/alternate/reply expressions. Original Chinese/pinyin/IDs preserved. Medical professional and Vietnamese native editorial reviews still required; 120 refers to mainland China.",
   "source_phrase_count": 86,
   "lessons": [
     {
@@ -40,7 +40,7 @@
           "mistakes": [
             {
               "text": "“感冒药”不是某一种固定成分的药；同时使用多个复方感冒药可能出现相同成分重复服用。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi muốn mua thuốc cảm.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“感冒药” không chỉ một hoạt chất cố định; uống đồng thời nhiều thuốc cảm phối hợp có thể bị trùng hoạt chất, dẫn đến dùng quá liều."
             }
           ],
           "meaning_vi": "Tôi muốn mua thuốc cảm.",
@@ -76,7 +76,7 @@
           "mistakes": [
             {
               "text": "退烧药是否适用要看年龄、健康状况及具体药物；“有药”不等于“所有人都能吃”。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có thuốc hạ sốt không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Thuốc hạ sốt có phù hợp hay không phụ thuộc tuổi, tình trạng sức khỏe và thuốc cụ thể; có bán không có nghĩa ai cũng dùng được."
             }
           ],
           "meaning_vi": "Có thuốc hạ sốt không?",
@@ -112,7 +112,7 @@
           "mistakes": [
             {
               "text": "“能吃吗”询问个人适用性，药师需要了解症状、过敏史和正在使用的其他药物，不能只看包装下结论。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi có dùng được thuốc này không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“能吃吗” hỏi thuốc có phù hợp với chính mình không; dược sĩ cần biết triệu chứng, tiền sử dị ứng và thuốc khác đang dùng, không chỉ nhìn hộp."
             }
           ],
           "meaning_vi": "Tôi có dùng được thuốc này không?",
@@ -148,7 +148,7 @@
           "mistakes": [
             {
               "text": "“不犯困”不意味着完全没有其他副作用；即使标注不易嗜睡，也要核对注意事项。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có thuốc nào không gây buồn ngủ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Không gây buồn ngủ” không có nghĩa không có tác dụng phụ khác; dù ít gây buồn ngủ vẫn cần đọc cảnh báo."
             }
           ],
           "meaning_vi": "Có thuốc nào không gây buồn ngủ không?",
@@ -183,7 +183,7 @@
           "mistakes": [
             {
               "text": "处方是医生开具的用药文件，不是药品使用说明书。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có cần đơn thuốc không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“处方” là đơn thuốc do bác sĩ kê, khác với tờ hướng dẫn dùng thuốc."
             }
           ],
           "when_to_use": "看到一种药想购买，但不知道是否必须先拿医生处方。",
@@ -220,7 +220,7 @@
           "mistakes": [
             {
               "text": "干咳和有痰的咳嗽表达不同；咳嗽很久、伴呼吸困难或高热时需要就医评估。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Bị ho thì uống thuốc gì?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Ho khan và ho có đờm cần phân biệt; ho kéo dài, khó thở hoặc sốt cao cần được nhân viên y tế đánh giá."
             }
           ],
           "meaning_vi": "Bị ho thì uống thuốc gì?",
@@ -250,7 +250,7 @@
           "mistakes": [
             {
               "text": "“直接买”不等于已经确认适合自己服用；非处方药同样需查看说明书和禁忌。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có thể mua trực tiếp thuốc này không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“直接买” không có nghĩa đã xác nhận thuốc phù hợp; thuốc không kê đơn vẫn cần đọc hướng dẫn và chống chỉ định."
             }
           ],
           "meaning_vi": "Có thể mua trực tiếp thuốc này không?",
@@ -280,7 +280,7 @@
           "mistakes": [
             {
               "text": "“多少钱”最好明确问一盒或一瓶的价格，避免与每片价格、不同规格价格混淆。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này bao nhiêu tiền?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Hỏi giá cần làm rõ giá một hộp hay một chai, tránh nhầm với giá mỗi viên hoặc các hàm lượng, quy cách khác nhau."
             }
           ],
           "meaning_vi": "Thuốc này bao nhiêu tiền?",
@@ -310,7 +310,7 @@
           "mistakes": [
             {
               "text": "不仅是处方药，其他非处方药、保健品或中药也值得向药师说明，防止重复用药或相互作用。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi đang uống thuốc khác.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Ngoài thuốc kê đơn, hãy nói với dược sĩ về thuốc không kê đơn, thực phẩm bổ sung và thuốc Đông y để tránh tương tác hoặc trùng lặp."
             }
           ],
           "meaning_vi": "Tôi đang uống thuốc khác.",
@@ -345,7 +345,7 @@
           "mistakes": [
             {
               "text": "曾经对某种药过敏，最好告诉医生具体药名和当时的症状。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trước đây tôi từng bị dị ứng thuốc.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Nếu trước đây dị ứng thuốc, tốt nhất nêu tên thuốc cụ thể và biểu hiện lúc dị ứng cho bác sĩ."
             }
           ],
           "when_to_use": "曾经吃某种药后起疹子或呼吸不适，买药时必须主动说明过敏史。",
@@ -382,7 +382,7 @@
           "mistakes": [
             {
               "text": "“看不懂”是不能理解说明，不等于药品一定能安全使用；问清药名、用法、注意事项后再按指导用药。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi không đọc hiểu chữ Trung trên hộp thuốc.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“看不懂” nghĩa là không hiểu hướng dẫn, không phải thuốc mặc nhiên an toàn; cần hỏi rõ tên, cách dùng và cảnh báo."
             }
           ],
           "meaning_vi": "Tôi không đọc hiểu chữ Trung trên hộp thuốc.",
@@ -418,7 +418,7 @@
           "mistakes": [
             {
               "text": "“药师”是负责药品专业指导的人员；不要因店员推荐就忽略处方、过敏史或已有用药。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Cho hỏi dược sĩ có ở đây không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“药师” là dược sĩ có chuyên môn về thuốc; không bỏ qua đơn bác sĩ, dị ứng và thuốc đang dùng chỉ vì nhân viên cửa hàng gợi ý."
             }
           ],
           "meaning_vi": "Cho hỏi dược sĩ có ở đây không?",
@@ -454,7 +454,7 @@
           "mistakes": [
             {
               "text": "儿童用药与成人可能不同；药师询问年龄、体重是为核对适用性，不要直接按成人片数给孩子吃。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này dành cho trẻ em.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Liều thuốc cho trẻ có thể khác người lớn; tuổi và cân nặng giúp chọn thuốc phù hợp, không lấy số viên của người lớn cho trẻ."
             }
           ],
           "meaning_vi": "Thuốc này dành cho trẻ em.",
@@ -484,7 +484,7 @@
           "mistakes": [
             {
               "text": "“非处方药”表示可不凭处方购买，不表示可以任意加量、与其他药随意合用。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Đây là thuốc không kê đơn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“非处方药” là thuốc không cần đơn khi mua, không có nghĩa được tự tăng liều hay tùy tiện phối hợp nhiều thuốc."
             }
           ],
           "meaning_vi": "Đây là thuốc không kê đơn.",
@@ -514,7 +514,7 @@
           "mistakes": [
             {
               "text": "“需要处方”是要医生开具用药处方，不是让学习者自行模仿处方或用旧处方买所有药。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này cần đơn bác sĩ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“需要处方” là phải có đơn do bác sĩ kê, không tự lập đơn hoặc dùng đơn cũ cho mọi loại thuốc."
             }
           ],
           "meaning_vi": "Thuốc này cần đơn bác sĩ.",
@@ -550,7 +550,7 @@
           "mistakes": [
             {
               "text": "量体温能帮助说明发热程度，但体温一个数字不能替代医生对其他症状的评估。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên đo nhiệt độ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Đo nhiệt độ giúp mô tả mức độ sốt; một con số không thay thế đánh giá các triệu chứng khác của bác sĩ."
             }
           ],
           "meaning_vi": "Trước tiên đo nhiệt độ.",
@@ -580,7 +580,7 @@
           "mistakes": [
             {
               "text": "“最好去医院看看”是建议就医，不代表所有情况都可以慢慢等；呼吸困难等急症应立即拨120。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tốt nhất bạn nên đi bệnh viện khám.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Tốt nhất nên đi khám” là lời khuyên y tế; nếu khó thở và dấu hiệu cấp cứu thì ở Trung Quốc đại lục phải gọi 120 ngay, không chờ."
             }
           ],
           "meaning_vi": "Tốt nhất bạn nên đi bệnh viện khám.",
@@ -610,7 +610,7 @@
           "mistakes": [
             {
               "text": "“可能犯困”表示有这种风险，不等于每个人都会犯困；但不能因此忽略驾驶及操作机器时的警告。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này có thể khiến bạn buồn ngủ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Có thể buồn ngủ” là có nguy cơ chứ không phải ai cũng gặp; vẫn phải chú ý khi lái xe hay vận hành máy."
             }
           ],
           "meaning_vi": "Thuốc này có thể khiến bạn buồn ngủ.",
@@ -640,7 +640,7 @@
           "mistakes": [
             {
               "text": "出现呼吸困难、突然嘴唇或喉咙肿胀等急症时不能等普通门诊，应在中国大陆立即拨120。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Nếu nghiêm trọng thì đừng tự mua thuốc uống.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Khó thở, sưng môi hoặc cổ họng đột ngột là dấu hiệu cấp cứu; ở Trung Quốc đại lục gọi 120 ngay, không chờ khám thường."
             }
           ],
           "meaning_vi": "Nếu nghiêm trọng thì đừng tự mua thuốc uống.",
@@ -670,7 +670,7 @@
           "mistakes": [
             {
               "text": "“一直没好”是持续不见好转，不是要求有危险症状时继续等；严重时应立即求助。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Nếu mãi không khỏi thì đi bệnh viện.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Mãi không khỏi” nghĩa là triệu chứng kéo dài không đỡ, không phải yêu cầu chờ khi có dấu hiệu nguy hiểm; nghiêm trọng cần cầu cứu ngay."
             }
           ],
           "meaning_vi": "Nếu mãi không khỏi thì đi bệnh viện.",
@@ -699,7 +699,7 @@
           "mistakes": [
             {
               "text": "药品说明书和医生处方不是同一种文件。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Dùng thuốc theo hướng dẫn hoặc chỉ định của bác sĩ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Tờ hướng dẫn sử dụng và đơn thuốc do bác sĩ kê là hai loại giấy tờ khác nhau."
             }
           ],
           "when_to_use": "拿到药时，药师提醒按照具体药品说明和医生指导正确使用。",
@@ -739,7 +739,7 @@
           "mistakes": [
             {
               "text": "“一天几次”问服药频率，不等于“每次几片”或“每片多少毫克”，三项都应核对。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này một ngày uống mấy lần?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Một ngày mấy lần” hỏi tần suất, khác “mỗi lần mấy viên” và “mỗi viên bao nhiêu mg”; cần kiểm tra cả ba."
             }
           ],
           "meaning_vi": "Thuốc này một ngày uống mấy lần?",
@@ -775,7 +775,7 @@
           "mistakes": [
             {
               "text": "片数不是有效成分剂量；同一药名不同规格也可能每次服用片数不同。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Mỗi lần uống mấy viên?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Số viên không trực tiếp cho biết lượng hoạt chất; cùng tên thuốc nhưng hàm lượng khác có thể cần số viên khác."
             }
           ],
           "meaning_vi": "Mỗi lần uống mấy viên?",
@@ -805,7 +805,7 @@
           "mistakes": [
             {
               "text": "“饭前”和“饭后”不是一回事，具体相隔多久要看这款药的说明及医嘱，不能一概而论。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống trước hay sau bữa ăn?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Trước bữa” khác “sau bữa”; thời gian cách bữa ăn tùy thuốc và chỉ định, không thể áp dụng chung."
             }
           ],
           "meaning_vi": "Uống trước hay sau bữa ăn?",
@@ -835,7 +835,7 @@
           "mistakes": [
             {
               "text": "不要因为提到“晚上”就自己加一剂，是否需要夜间服用须看具体安排。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Buổi tối có phải uống không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Đừng tự thêm một liều chỉ vì có nhắc “buổi tối”; có cần uống tối không phải theo lịch cụ thể."
             }
           ],
           "meaning_vi": "Buổi tối có phải uống không?",
@@ -871,7 +871,7 @@
           "mistakes": [
             {
               "text": "疗程“几天”与每天“几次”不同；不应因为症状改善就未经确认随意延长或缩短处方疗程。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này phải uống mấy ngày?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Số ngày điều trị khác số lần uống mỗi ngày; không tự kéo dài hoặc rút ngắn liệu trình kê đơn chỉ vì thấy đỡ."
             }
           ],
           "meaning_vi": "Thuốc này phải uống mấy ngày?",
@@ -906,7 +906,7 @@
           "mistakes": [
             {
               "text": "不同药物漏服后的处理可能不同，不可擅自加倍补服。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Quên uống một liều thì sao?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Xử lý khi quên liều tùy thuốc, không được tự ý uống gấp đôi để bù."
             }
           ],
           "when_to_use": "工作忙忘了一次药，不知道下一次该怎么办，先问药师具体药物的漏服处理。",
@@ -937,7 +937,7 @@
           "mistakes": [
             {
               "text": "中文“吃药”在日常口语里常指口服药；外用药、眼药等不能只按这个动词理解。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này dùng thế nào?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“吃药” trong khẩu ngữ thường nói uống thuốc; thuốc bôi, thuốc nhỏ mắt... không thể dùng giống thuốc uống."
             }
           ],
           "meaning_vi": "Thuốc này dùng thế nào?",
@@ -967,7 +967,7 @@
           "mistakes": [
             {
               "text": "药片有分割线也不保证一定能掰；缓释、控释等剂型尤其要先咨询专业人员。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có được bẻ viên thuốc ra uống không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Ngay cả viên có vạch chia chưa chắc được bẻ; thuốc giải phóng kéo dài hoặc kiểm soát cần hỏi người có chuyên môn."
             }
           ],
           "meaning_vi": "Có được bẻ viên thuốc ra uống không?",
@@ -1003,7 +1003,7 @@
           "mistakes": [
             {
               "text": "“隔几个小时”是两次之间的时间间隔，不能按另一种药的间隔照搬。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Hai lần uống phải cách nhau bao lâu?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Cách mấy tiếng” hỏi khoảng cách giữa hai lần uống; không sao chép lịch của thuốc khác."
             }
           ],
           "meaning_vi": "Hai lần uống phải cách nhau bao lâu?",
@@ -1033,7 +1033,7 @@
           "mistakes": [
             {
               "text": "“睡前”是相对的服药时间，不代表所有药都适合临睡前服用。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có thể uống trước khi đi ngủ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Trước khi ngủ” chỉ thời điểm tương đối, không phải mọi thuốc đều thích hợp uống ngay trước khi ngủ."
             }
           ],
           "meaning_vi": "Có thể uống trước khi đi ngủ không?",
@@ -1063,7 +1063,7 @@
           "mistakes": [
             {
               "text": "漏服后的补服规则因药而异，不应只因为“现在有空”就补吃，更不要自行加倍。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Bây giờ uống bù được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Quy tắc uống bù tùy loại thuốc; không tự uống vì “giờ đang rảnh”, càng không được tự uống gấp đôi."
             }
           ],
           "meaning_vi": "Bây giờ uống bù được không?",
@@ -1099,7 +1099,7 @@
           "mistakes": [
             {
               "text": "“口服”是从口中服用，“外用”不是口服；应确认具体剂型与适用部位，不要凭外观判断。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này dùng đường uống hay bôi ngoài da?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“口服” là dùng qua miệng, “外用” là dùng ngoài cơ thể; kiểm tra dạng thuốc và vị trí dùng, không đoán theo hình dáng."
             }
           ],
           "meaning_vi": "Thuốc này dùng đường uống hay bôi ngoài da?",
@@ -1135,7 +1135,7 @@
           "mistakes": [
             {
               "text": "“毫克”是药物含量单位，不等于服用片数；不同规格的同名药不能按相同片数直接替换。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Mỗi viên này bao nhiêu miligam?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“毫克” (mg) là đơn vị hàm lượng thuốc, khác số viên; không thay số viên y hệt giữa các hàm lượng khác nhau."
             }
           ],
           "meaning_vi": "Mỗi viên này bao nhiêu miligam?",
@@ -1171,7 +1171,7 @@
           "mistakes": [
             {
               "text": "“剂型”指片剂、胶囊、口服液等形式；不能擅自碾碎、掰开或更换药品。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Viên thuốc lớn quá, có dạng nào khác không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“剂型” là dạng viên, nang, siro...; không tự nghiền, bẻ hoặc đổi dạng thuốc."
             }
           ],
           "meaning_vi": "Viên thuốc lớn quá, có dạng nào khác không?",
@@ -1206,7 +1206,7 @@
           "mistakes": [
             {
               "text": "“一天三次”说的是一天服药三回，不是一次吃三片。这是某种药的示例对话，个人用药须核对自己的处方与药盒。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này uống ba lần một ngày.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Một ngày ba lần” là ba thời điểm uống, không phải ba viên mỗi lần; đây chỉ là ví dụ, phải đối chiếu đơn và hộp của chính mình."
             }
           ],
           "when_to_use": "药师核对具体药品及这次的处方后，直接告诉患者服药频率。听懂“一天三次”，再确认每次的片数。",
@@ -1242,7 +1242,7 @@
           "mistakes": [
             {
               "text": "“一次两片”是每次的片数，不是一天的总片数，也不表示每片的毫克含量；不同药品及规格不可照搬。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này mỗi lần uống hai viên.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Mỗi lần hai viên” là số viên trong một lần, không phải tổng số viên cả ngày hay số mg; không áp dụng sang thuốc khác."
             }
           ],
           "when_to_use": "药师核对你手里的药品规格后，直接说明每次要吃几片。练习听懂“一次两片”，并继续问一天几次。",
@@ -1273,7 +1273,7 @@
           "mistakes": [
             {
               "text": "“饭后吃”是针对某种具体药品的说明，不是全部药物都必须饭后服用。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống sau bữa ăn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Uống sau bữa ăn” là chỉ định của một thuốc cụ thể, không có nghĩa tất cả thuốc phải uống sau ăn."
             }
           ],
           "meaning_vi": "Uống sau bữa ăn.",
@@ -1308,7 +1308,7 @@
           "mistakes": [
             {
               "text": "“连续吃三天”说的是连续服药三天，不是一天三次；这只是特定处方对话，不能用于所有药物，也不代表三天后自行停药。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên uống liên tục ba ngày.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Uống liên tục ba ngày” là thời lượng ba ngày, không phải ba lần một ngày; chỉ là ví dụ đơn cụ thể, không tự ngừng sau ba ngày."
             }
           ],
           "when_to_use": "医生或药师核对这次处方后告诉患者先连续服用三天。练习听懂“连续”表示不中断，以及“复诊”的回应。",
@@ -1344,7 +1344,7 @@
           "mistakes": [
             {
               "text": "“隔六小时”说的是两次服药之间的时间，不是一天吃六次，也不一定意味着夜里要起床服药；以具体医嘱为准。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Hai lần uống thuốc cách nhau sáu tiếng.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Cách sáu giờ” là khoảng cách giữa hai liều, không phải ngày uống sáu lần hay chắc chắn phải thức đêm; theo chỉ định riêng."
             }
           ],
           "when_to_use": "药师说明这款药两次服药之间需要间隔多久。练习听懂“隔六小时”，并问清夜间是否需要服药。",
@@ -1375,7 +1375,7 @@
           "mistakes": [
             {
               "text": "“不能掰开”是对某种药片的要求；整片吞咽与能否磨碎、溶解都需要单独确认。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này không được bẻ viên.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Không được bẻ” áp dụng với viên này; việc nuốt nguyên, nghiền hay hòa tan phải kiểm tra riêng."
             }
           ],
           "meaning_vi": "Thuốc này không được bẻ viên.",
@@ -1405,7 +1405,7 @@
           "mistakes": [
             {
               "text": "“剂量”是服用的药量，需结合单片规格、服药频率和患者情况理解，不能只看数字。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống theo liều ghi trong hướng dẫn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“剂量” là liều dùng, phải xét hàm lượng mỗi viên, số lần và tình trạng người dùng, không chỉ nhìn số."
             }
           ],
           "meaning_vi": "Uống theo liều ghi trong hướng dẫn.",
@@ -1435,7 +1435,7 @@
           "mistakes": [
             {
               "text": "不能超过每日规定次数，同时还要核对单次剂量；“次数没超”不代表总剂量一定安全。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Không được vượt quá số lần quy định.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Không vượt số lần trong ngày và cũng phải kiểm tra liều mỗi lần; chưa vượt số lần không có nghĩa tổng liều an toàn."
             }
           ],
           "meaning_vi": "Không được vượt quá số lần quy định.",
@@ -1465,7 +1465,7 @@
           "mistakes": [
             {
               "text": "漏服不应未经咨询就把下一剂加倍；下一步怎么处理要看具体药物与时间。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Quên liều cũng đừng uống gấp đôi.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Khi quên liều không tự gấp đôi liều tiếp theo; xử lý cụ thể tùy thuốc và thời điểm."
             }
           ],
           "meaning_vi": "Quên liều cũng đừng uống gấp đôi.",
@@ -1504,7 +1504,7 @@
           "mistakes": [
             {
               "text": "“吃这药能喝酒吗”不是所有药的同一答案；未确认药物与酒精的相互作用前，不应擅自饮酒。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc này có được uống rượu không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Có uống rượu khi dùng thuốc hay không tùy thuốc; chưa kiểm tra tương tác thì không nên tự uống rượu."
             }
           ],
           "meaning_vi": "Uống thuốc này có được uống rượu không?",
@@ -1540,7 +1540,7 @@
           "mistakes": [
             {
               "text": "“一起吃”可能产生相互作用，也可能是同成分重复；提供全部药盒和正在使用的药物清单帮助核对。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Hai loại thuốc này có uống cùng nhau được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Dùng cùng hai thuốc có thể tương tác hoặc trùng hoạt chất; đưa tất cả hộp thuốc và danh sách đang sử dụng để kiểm tra."
             }
           ],
           "meaning_vi": "Hai loại thuốc này có uống cùng nhau được không?",
@@ -1570,7 +1570,7 @@
           "mistakes": [
             {
               "text": "“吃了会困吗”在问药物嗜睡风险，不等于只要当下不困就一定能安全开车或开机器。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống vào có buồn ngủ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Hỏi thuốc có gây buồn ngủ không; không buồn ngủ ngay lúc đó cũng chưa bảo đảm an toàn để lái xe hay vận hành máy."
             }
           ],
           "meaning_vi": "Uống vào có buồn ngủ không?",
@@ -1606,7 +1606,7 @@
           "mistakes": [
             {
               "text": "“开车”包括安全驾驶的实际能力，服药是否影响反应需要按具体药物警告判断。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc xong có lái xe được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Khả năng lái xe an toàn có thể bị thuốc làm chậm phản xạ; phải đọc cảnh báo của từng thuốc."
             }
           ],
           "meaning_vi": "Uống thuốc xong có lái xe được không?",
@@ -1636,7 +1636,7 @@
           "mistakes": [
             {
               "text": "“注意事项”不仅是怎么服用，还可能包括禁忌、过敏、相互作用及驾驶警告。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có điều gì cần lưu ý không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“注意事项” có thể gồm liều dùng, chống chỉ định, dị ứng, tương tác và cảnh báo lái xe."
             }
           ],
           "meaning_vi": "Có điều gì cần lưu ý không?",
@@ -1666,7 +1666,7 @@
           "mistakes": [
             {
               "text": "“忌口”是需要避免特定食物或饮料，不能默认所有药都有同一张忌口清单。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc này có phải kiêng ăn gì không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“忌口” là cần tránh thức ăn hoặc đồ uống cụ thể; không phải mọi thuốc đều có cùng danh sách kiêng."
             }
           ],
           "meaning_vi": "Uống thuốc này có phải kiêng ăn gì không?",
@@ -1696,7 +1696,7 @@
           "mistakes": [
             {
               "text": "曾对某种药过敏时必须主动告知；即便换了品牌，相同成分也可能仍有风险。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trước đây tôi từng bị dị ứng thuốc này.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Nếu từng dị ứng một thuốc, phải chủ động báo; đổi nhãn hiệu nhưng cùng hoạt chất vẫn có thể nguy hiểm."
             }
           ],
           "meaning_vi": "Trước đây tôi từng bị dị ứng thuốc này.",
@@ -1726,7 +1726,7 @@
           "mistakes": [
             {
               "text": "“副作用”不能单凭有没有回答一句“有/没有”判断，要了解具体药品说明及何时须就医。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này có tác dụng phụ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Tác dụng phụ không thể đánh giá chỉ bằng trả lời “có/không”; cần xem tờ hướng dẫn và dấu hiệu phải đi khám."
             }
           ],
           "meaning_vi": "Thuốc này có tác dụng phụ không?",
@@ -1761,7 +1761,7 @@
           "mistakes": [
             {
               "text": "孕期用药须根据具体药物和孕期情况咨询医生。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Phụ nữ mang thai có dùng được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Dùng thuốc khi mang thai cần hỏi bác sĩ theo loại thuốc và giai đoạn thai kỳ."
             }
           ],
           "when_to_use": "怀孕的人在买药前主动说明孕期情况，询问这款药是否适用。",
@@ -1792,7 +1792,7 @@
           "mistakes": [
             {
               "text": "咖啡与药的相互影响取决于药品及摄入量；不要把“可以喝”当作适用于所有药的结论。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc có được uống cà phê không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Tương tác giữa cà phê và thuốc tùy thuốc và lượng caffeine; không được suy rộng kết luận “uống được” cho mọi thuốc."
             }
           ],
           "meaning_vi": "Uống thuốc có được uống cà phê không?",
@@ -1828,7 +1828,7 @@
           "mistakes": [
             {
               "text": "“哺乳期”是母乳喂养时期，与怀孕不同；任何药物的适用性都应看具体成分和个人情况。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi đang cho con bú, có dùng được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“哺乳期” là thời kỳ cho con bú, khác với mang thai; mức phù hợp phụ thuộc thành phần thuốc và từng người."
             }
           ],
           "meaning_vi": "Tôi đang cho con bú, có dùng được không?",
@@ -1864,7 +1864,7 @@
           "mistakes": [
             {
               "text": "有慢性病要告诉医生或药师正在使用的全部药物；不同感冒药成分不同，不能只按病名判断。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi bị cao huyết áp, uống thuốc này được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Nếu có bệnh mạn tính, cần nói tất cả thuốc đang uống; thành phần thuốc cảm khác nhau, không chỉ dựa vào tên bệnh."
             }
           ],
           "meaning_vi": "Tôi bị cao huyết áp, uống thuốc này được không?",
@@ -1900,7 +1900,7 @@
           "mistakes": [
             {
               "text": "“有效期”是药品到期日期；开封后可用期限可能另有要求，包装破损、保存不当也需要咨询。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này hết hạn chưa?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“有效期” là hạn sử dụng; thuốc đã mở có thể có thời hạn riêng, bao bì hỏng hoặc bảo quản sai cũng cần hỏi."
             }
           ],
           "meaning_vi": "Thuốc này hết hạn chưa?",
@@ -1930,7 +1930,7 @@
           "mistakes": [
             {
               "text": "药师针对这一具体药物提醒禁酒，不代表所有药的禁酒期限相同。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Khi uống thuốc này đừng uống rượu.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Lời nhắc tránh rượu dành cho thuốc cụ thể, không đồng nghĩa thời gian kiêng rượu của mọi thuốc giống nhau."
             }
           ],
           "meaning_vi": "Khi uống thuốc này đừng uống rượu.",
@@ -1959,7 +1959,7 @@
           "mistakes": [
             {
               "text": "有些药会引起嗜睡或反应迟钝；工作需要开车或操作机器时，应先咨询药师。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trước khi đi làm có uống thuốc này được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Một số thuốc gây buồn ngủ hoặc chậm phản xạ; trước công việc lái xe hay vận hành máy phải hỏi dược sĩ."
             }
           ],
           "when_to_use": "工厂值班前，需要操作机器，想问吃药后是否会影响反应速度。",
@@ -1990,7 +1990,7 @@
           "mistakes": [
             {
               "text": "“这两种药不能一起吃”是核对后的具体结论，不等于每两种药都不能同用；勿擅自停掉医生处方药。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Không được uống hai loại thuốc này cùng nhau.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Không dùng chung” là kết luận cho hai loại thuốc cụ thể sau khi kiểm tra, không phải mọi cặp thuốc đều cấm; không tự dừng thuốc kê đơn."
             }
           ],
           "meaning_vi": "Không được uống hai loại thuốc này cùng nhau.",
@@ -2020,7 +2020,7 @@
           "mistakes": [
             {
               "text": "如果出现呼吸困难、喉咙发紧或突然嘴唇肿胀，不要只等回电，应在中国大陆立即拨120。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Nghi dị ứng thuốc, mau liên hệ bác sĩ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Nếu khó thở, cổ họng thắt hoặc môi đột ngột sưng, không chỉ chờ bác sĩ gọi lại; ở Trung Quốc đại lục gọi 120 ngay."
             }
           ],
           "meaning_vi": "Nghi dị ứng thuốc, mau liên hệ bác sĩ.",
@@ -2049,7 +2049,7 @@
           "mistakes": [
             {
               "text": "能否恢复驾驶取决于具体药物和个人反应，不能假设只等一小会儿就安全。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc này xong đừng lái xe vội.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Khi nào lái xe trở lại phụ thuộc thuốc và phản ứng của từng người; không mặc định chờ một lát là an toàn."
             }
           ],
           "when_to_use": "药师提醒某种药可能影响驾驶，吃完先不要开车。",
@@ -2079,7 +2079,7 @@
           "mistakes": [
             {
               "text": "两种药即使商品名不同，也可能含相同有效成分。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Đừng uống trùng các thuốc có cùng thành phần.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Hai thuốc khác tên thương mại vẫn có thể chứa cùng hoạt chất, gây trùng liều."
             }
           ],
           "when_to_use": "两盒感冒药名字不同，药师提醒有效成分可能重复。",
@@ -2110,7 +2110,7 @@
           "mistakes": [
             {
               "text": "“难受得厉害”涵盖多种严重症状；若伴呼吸困难或胸痛等急症，应立即呼叫急救而不是自行驾驶去医院。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Nếu khó chịu nghiêm trọng thì đi bệnh viện.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Khó chịu nghiêm trọng” gồm nhiều triệu chứng; nếu khó thở hoặc đau ngực cấp tính phải gọi cấp cứu ngay, không tự lái xe tới viện."
             }
           ],
           "meaning_vi": "Nếu khó chịu nghiêm trọng thì đi bệnh viện.",
@@ -2149,7 +2149,7 @@
           "mistakes": [
             {
               "text": "“头晕”可有多种原因，不能凭出现时间就确定一定是药物副作用；伴昏厥、胸痛或严重呼吸困难时应立即求救。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc xong tôi bị chóng mặt.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Chóng mặt có nhiều nguyên nhân, không thể khẳng định do thuốc chỉ vì xảy ra sau uống; ngất, đau ngực hoặc khó thở nặng phải cầu cứu ngay."
             }
           ],
           "meaning_vi": "Uống thuốc xong tôi bị chóng mặt.",
@@ -2185,7 +2185,7 @@
           "mistakes": [
             {
               "text": "“恶心”是反胃想吐，“吐了”是已经呕吐；向医生说明两者区别有助于理解症状。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi hơi buồn nôn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“恶心” là buồn nôn, “吐了” là đã nôn; phân biệt hai tình trạng khi mô tả với bác sĩ."
             }
           ],
           "meaning_vi": "Tôi hơi buồn nôn.",
@@ -2215,7 +2215,7 @@
           "mistakes": [
             {
               "text": "皮肤瘙痒可能与药物有关，也可能有其他原因；出现迅速加重、脸唇肿胀或呼吸困难要立即急救。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Người tôi ngứa lắm.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Ngứa có thể do thuốc hoặc nguyên nhân khác; nếu nhanh chóng nặng lên, sưng mặt/môi hoặc khó thở cần cấp cứu ngay."
             }
           ],
           "meaning_vi": "Người tôi ngứa lắm.",
@@ -2250,7 +2250,7 @@
           "mistakes": [
             {
               "text": "如果出现喉咙发紧、呼吸困难等严重过敏征象，不能等待一般停药咨询，应立即呼叫急救。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Có cần ngừng thuốc không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Cổ họng thắt hoặc khó thở sau thuốc có thể là dị ứng nghiêm trọng; gọi cấp cứu ngay, không chờ hỏi thông thường về dừng thuốc."
             }
           ],
           "when_to_use": "出现疑似药物不良反应，不敢自行决定是否停用处方药，向医生询问。",
@@ -2281,7 +2281,7 @@
           "mistakes": [
             {
               "text": "怀疑过敏需要专业判断；即使最初只有皮疹，如果随后出现喉咙紧或呼吸困难应立即呼叫120。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Đây có phải phản ứng dị ứng không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Nghi dị ứng cần chuyên gia đánh giá; dù ban đầu chỉ nổi mẩn, nếu sau đó họng thắt/khó thở thì ở Trung Quốc đại lục gọi 120 ngay."
             }
           ],
           "meaning_vi": "Đây có phải phản ứng dị ứng không?",
@@ -2317,7 +2317,7 @@
           "mistakes": [
             {
               "text": "“要去医院吗”是求助问法，不应把“等一等”当作严重症状的默认选择。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Như vậy có cần đi bệnh viện không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Có cần đi viện không?” là câu hỏi xin hỗ trợ; không lấy “đợi xem sao” làm mặc định khi có triệu chứng nặng."
             }
           ],
           "meaning_vi": "Như vậy có cần đi bệnh viện không?",
@@ -2347,7 +2347,7 @@
           "mistakes": [
             {
               "text": "越来越严重表明症状在加重，不能仅凭“先坐下”延误就医评估。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi càng lúc càng chóng mặt.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Triệu chứng “càng lúc càng nặng” cần được đánh giá khẩn, không chỉ ngồi xuống rồi trì hoãn đi khám."
             }
           ],
           "meaning_vi": "Tôi càng lúc càng chóng mặt.",
@@ -2377,7 +2377,7 @@
           "mistakes": [
             {
               "text": "红点不一定就是药物过敏，尤其合并嘴唇肿、喉咙紧或呼吸困难时，应立即急救。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trên người tôi nổi các nốt đỏ rồi.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Nốt đỏ chưa chắc là dị ứng thuốc; nếu kèm sưng môi, thắt họng hoặc khó thở thì cần cấp cứu ngay."
             }
           ],
           "meaning_vi": "Trên người tôi nổi các nốt đỏ rồi.",
@@ -2406,7 +2406,7 @@
           "mistakes": [
             {
               "text": "服药后嘴唇肿可能是严重过敏的警讯，应立即寻求急诊帮助。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Môi tôi hơi sưng.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Môi sưng sau uống thuốc có thể cảnh báo dị ứng nghiêm trọng; cần tìm trợ giúp cấp cứu ngay."
             }
           ],
           "when_to_use": "服药后嘴唇突然肿胀，可能是严重过敏信号，要立刻寻求医疗帮助。",
@@ -2437,7 +2437,7 @@
           "mistakes": [
             {
               "text": "心跳快并不一定由药引起；伴明显胸痛、胸闷、呼吸困难或晕厥时应立即拨打急救电话。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tim tôi đập hơi nhanh.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Tim nhanh không nhất thiết do thuốc; nếu kèm đau ngực, tức ngực rõ, khó thở hoặc ngất thì gọi cấp cứu ngay."
             }
           ],
           "meaning_vi": "Tim tôi đập hơi nhanh.",
@@ -2466,7 +2466,7 @@
           "mistakes": [
             {
               "text": "服药后喉咙发紧可能影响呼吸，应立即急救，不宜等待观察。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Cổ họng tôi hơi thắt lại.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Cổ họng thắt sau dùng thuốc có thể cản trở hô hấp; phải gọi cấp cứu ngay, không chờ quan sát."
             }
           ],
           "when_to_use": "服药后喉咙紧、吞咽或呼吸受影响，是急救场景，需要立即呼救。",
@@ -2503,7 +2503,7 @@
           "mistakes": [
             {
               "text": "吃错药不代表一定没事，尤其儿童或高风险药品应尽快求助；保留药盒，但不要因为找药盒延误急救。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Hình như tôi uống nhầm thuốc rồi.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Uống nhầm thuốc chưa chắc vô hại; nhất là trẻ em hoặc thuốc nguy cơ cao phải cầu cứu nhanh; giữ hộp thuốc nhưng không trì hoãn cấp cứu để tìm."
             }
           ],
           "meaning_vi": "Hình như tôi uống nhầm thuốc rồi.",
@@ -2539,7 +2539,7 @@
           "mistakes": [
             {
               "text": "多服不一定只是小问题，药名、剂量、时间很重要；有严重症状时立即求救，不要通过自己减下次药量来抵消。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi lỡ uống thêm một liều.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Uống dư một liều có thể nguy hiểm; tên thuốc, lượng và giờ dùng rất quan trọng; có dấu hiệu nặng thì cấp cứu, đừng tự giảm liều sau để bù."
             }
           ],
           "meaning_vi": "Tôi lỡ uống thêm một liều.",
@@ -2575,7 +2575,7 @@
           "mistakes": [
             {
               "text": "服药后呼吸困难、喉咙发紧可能是严重过敏反应，应立即急救；中国大陆拨120，其他地区用当地急救号码。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Tôi uống thuốc xong thì khó thở.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Khó thở hoặc thắt họng sau uống thuốc có thể là dị ứng nặng; tại Trung Quốc đại lục gọi 120, nơi khác gọi số cấp cứu địa phương."
             }
           ],
           "meaning_vi": "Tôi uống thuốc xong thì khó thở.",
@@ -2611,7 +2611,7 @@
           "mistakes": [
             {
               "text": "中国大陆急救电话为120；求助时说明准确位置和主要症状，严重不适时不要自行开车就医。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Bạn giúp tôi gọi xe cứu thương được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "120 là số cấp cứu y tế của Trung Quốc đại lục; khi gọi nêu địa chỉ chính xác và triệu chứng chính, không tự lái xe khi bệnh nặng."
             }
           ],
           "meaning_vi": "Bạn giúp tôi gọi xe cứu thương được không?",
@@ -2640,7 +2640,7 @@
           "mistakes": [
             {
               "text": "一般不良反应应尽快咨询医生是否调整用药；但如果喉咙发紧、呼吸困难或突发嘴唇肿胀，应立即呼叫120，不能等一般咨询。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên hỏi bác sĩ có cần ngừng thuốc không.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Với tác dụng phụ thông thường hãy sớm hỏi bác sĩ về ngừng hoặc đổi thuốc; nếu thắt họng, khó thở hoặc môi sưng đột ngột thì gọi 120 ngay."
             }
           ],
           "when_to_use": "一般不良反应出现后，药师提醒尽快询问医生是否调整用药；严重过敏另须紧急处理。",
@@ -2671,7 +2671,7 @@
           "mistakes": [
             {
               "text": "“严重”不应模糊处理：呼吸困难、喉咙发紧或突发嘴唇肿胀要拨急救电话，而非独自驾车就医。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Nếu nghiêm trọng thì đến bệnh viện ngay.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“Nghiêm trọng” cần xác định rõ: khó thở, họng thắt hoặc môi đột ngột sưng thì gọi cấp cứu, không tự lái xe đi viện."
             }
           ],
           "meaning_vi": "Nếu nghiêm trọng thì đến bệnh viện ngay.",
@@ -2701,7 +2701,7 @@
           "mistakes": [
             {
               "text": "“是不是药物反应”只能由医疗人员结合药物、症状和时间判断，不宜自行确认或排除。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên phải kiểm tra có phải phản ứng do thuốc không.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Chỉ nhân viên y tế mới có thể đánh giá có phải phản ứng do thuốc hay không từ loại thuốc, triệu chứng và thời gian; đừng tự khẳng định hoặc loại trừ."
             }
           ],
           "meaning_vi": "Trước tiên phải kiểm tra có phải phản ứng do thuốc không.",
@@ -2737,7 +2737,7 @@
           "mistakes": [
             {
               "text": "不要因感觉没效果就自行加量；也不要自行合并含相同成分的药品。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Đừng tự ý tăng liều.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Đừng tự tăng liều vì thấy chưa hiệu quả; cũng không tự kết hợp thuốc có cùng hoạt chất."
             }
           ],
           "meaning_vi": "Đừng tự ý tăng liều.",
@@ -2766,7 +2766,7 @@
           "mistakes": [
             {
               "text": "120 是中国大陆的医疗急救号码，其他地区请使用当地急救电话。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Nếu khó thở thì gọi 120 ngay.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "120 là số cấp cứu y tế của Trung Quốc đại lục; ở nơi khác dùng số cấp cứu địa phương."
             }
           ],
           "when_to_use": "听到严重过敏可能导致呼吸困难，需要记住中国大陆医疗急救号码120。",
@@ -2797,7 +2797,7 @@
           "mistakes": [
             {
               "text": "“剂量”是实际服用多少，不仅是吃药次数；就医时药名、规格、服药时间均重要。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Cho bác sĩ biết tên thuốc và liều dùng.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "“剂量” là lượng thuốc đã uống, không chỉ số lần; khi khám cần nói tên thuốc, hàm lượng và thời điểm dùng."
             }
           ],
           "meaning_vi": "Cho bác sĩ biết tên thuốc và liều dùng.",
@@ -2826,7 +2826,7 @@
           "mistakes": [
             {
               "text": "就医时药盒或处方有助于核对药名和剂量；但若出现呼吸困难、喉咙发紧等急症，不要为找药盒而耽误呼救。",
-              "text_vi": "Lưu ý về cách diễn đạt: “Mang hộp thuốc đến bệnh viện.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+              "text_vi": "Mang hộp thuốc hoặc đơn giúp bác sĩ kiểm tra tên và liều; nhưng nếu khó thở hoặc họng thắt thì không trì hoãn cầu cứu để tìm hộp."
             }
           ],
           "when_to_use": "因疑似药物反应准备就医，有条件时把药盒带上帮助医生核对。",
