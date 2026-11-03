@@ -1,9 +1,9 @@
 {
   "theme_id": "57",
-  "version": 0,
-  "updated_at": "2026-11-03T03:41:19.900Z",
+  "version": 1,
+  "updated_at": "2026-11-03T03:42:34.263Z",
   "theme_title": "57 服务行业工作",
-  "quality_standard": "DRAFT: first three lessons translated; remaining six pending. Do not publish or merge until complete.",
+  "quality_standard": "All 129 Mandarin cards, 42 alternatives, 258 replies, 129 source-aligned teaching notes translated to Vietnamese. Mandarin text/pinyin/ID unchanged; native speaker, food safety, retail and app QA pending.",
   "source_phrase_count": 129,
   "lessons": [
     {
@@ -2813,28 +2813,34 @@
           "alternatives": [
             {
               "text": "请问有预订吗？",
-              "id": "s57_7_0001_alt01"
+              "id": "s57_7_0001_alt01",
+              "meaning_vi": "Xin hỏi quý khách đã có đặt phòng chưa?"
             }
           ],
           "replies": [
             {
               "text": "有，用我的名字订的。",
-              "id": "s57_7_0001_reply01"
+              "id": "s57_7_0001_reply01",
+              "meaning_vi": "Có, tôi đặt bằng tên của mình."
             },
             {
               "text": "没有，还有空房吗？",
-              "id": "s57_7_0001_reply02"
+              "id": "s57_7_0001_reply02",
+              "meaning_vi": "Chưa, khách sạn còn phòng trống không?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "nín hǎo yǒu yù dìng ma",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“您好，有预订吗？”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“您好，有预订吗？”，并根据顾客反馈接话。",
+          "meaning_vi": "Xin chào, quý khách đã đặt phòng chưa ạ?",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0002",
@@ -2843,28 +2849,34 @@
           "alternatives": [
             {
               "text": "我先查一下订单。",
-              "id": "s57_7_0002_alt01"
+              "id": "s57_7_0002_alt01",
+              "meaning_vi": "Tôi tra đơn đặt phòng trước nhé."
             }
           ],
           "replies": [
             {
               "text": "我订了两晚。",
-              "id": "s57_7_0002_reply01"
+              "id": "s57_7_0002_reply01",
+              "meaning_vi": "Tôi đặt hai đêm."
             },
             {
               "text": "需要给您订单号吗？",
-              "id": "s57_7_0002_reply02"
+              "id": "s57_7_0002_reply02",
+              "meaning_vi": "Có cần cho số đặt phòng không?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "wǒ hé duì yí xià yù dìng",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“我核对一下预订。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“我核对一下预订。”，并根据顾客反馈接话。",
+          "meaning_vi": "Để tôi kiểm tra thông tin đặt phòng.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0003",
@@ -2874,22 +2886,27 @@
           "replies": [
             {
               "text": "谢谢，房间几楼？",
-              "id": "s57_7_0003_reply01"
+              "id": "s57_7_0003_reply01",
+              "meaning_vi": "Cảm ơn, phòng ở tầng mấy?"
             },
             {
               "text": "一共给几张房卡？",
-              "id": "s57_7_0003_reply02"
+              "id": "s57_7_0003_reply02",
+              "meaning_vi": "Được cấp tổng cộng mấy thẻ phòng?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "zhè shì nín de fáng kǎ",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“这是您的房卡。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“这是您的房卡。”，并根据顾客反馈接话。",
+          "meaning_vi": "Đây là thẻ phòng của quý khách.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0004",
@@ -2899,22 +2916,27 @@
           "replies": [
             {
               "text": "几点开始供应？",
-              "id": "s57_7_0004_reply01"
+              "id": "s57_7_0004_reply01",
+              "meaning_vi": "Mấy giờ bắt đầu phục vụ?"
             },
             {
               "text": "房费包含早餐吗？",
-              "id": "s57_7_0004_reply02"
+              "id": "s57_7_0004_reply02",
+              "meaning_vi": "Giá phòng đã bao gồm bữa sáng chưa?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "zǎo cān zài èr lóu",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“早餐在二楼。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“早餐在二楼。”，并根据顾客反馈接话。",
+          "meaning_vi": "Bữa sáng phục vụ ở tầng hai.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0005",
@@ -2923,28 +2945,34 @@
           "alternatives": [
             {
               "text": "十二点前要退房。",
-              "id": "s57_7_0005_alt01"
+              "id": "s57_7_0005_alt01",
+              "meaning_vi": "Phải trả phòng trước 12 giờ trưa."
             }
           ],
           "replies": [
             {
               "text": "能延迟一小时吗？",
-              "id": "s57_7_0005_reply01"
+              "id": "s57_7_0005_reply01",
+              "meaning_vi": "Tôi trả muộn một tiếng được không?"
             },
             {
               "text": "要把房卡交前台吗？",
-              "id": "s57_7_0005_reply02"
+              "id": "s57_7_0005_reply02",
+              "meaning_vi": "Có phải nộp thẻ phòng ở lễ tân không?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "zhōng wǔ shí èr diǎn qián tuì fáng",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“中午十二点前退房。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“中午十二点前退房。”，并根据顾客反馈接话。",
+          "meaning_vi": "Quý khách cần trả phòng trước 12 giờ trưa.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0006",
@@ -2954,22 +2982,27 @@
           "replies": [
             {
               "text": "押金什么时候退？",
-              "id": "s57_7_0006_reply01"
+              "id": "s57_7_0006_reply01",
+              "meaning_vi": "Khi nào hoàn tiền đặt cọc?"
             },
             {
               "text": "需要等查房吗？",
-              "id": "s57_7_0006_reply02"
+              "id": "s57_7_0006_reply02",
+              "meaning_vi": "Có cần đợi kiểm tra phòng không?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "wǒ bāng nín bàn lǐ tuì fáng",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“我帮您办理退房。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“我帮您办理退房。”，并根据顾客反馈接话。",
+          "meaning_vi": "Để tôi làm thủ tục trả phòng giúp quý khách.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0007",
@@ -2978,28 +3011,34 @@
           "alternatives": [
             {
               "text": "行李可以先放这儿。",
-              "id": "s57_7_0007_alt01"
+              "id": "s57_7_0007_alt01",
+              "meaning_vi": "Có thể để tạm hành lý ở đây."
             }
           ],
           "replies": [
             {
               "text": "能寄存到下午吗？",
-              "id": "s57_7_0007_reply01"
+              "id": "s57_7_0007_reply01",
+              "meaning_vi": "Tôi gửi đến chiều được không?"
             },
             {
               "text": "需要拿寄存牌吗？",
-              "id": "s57_7_0007_reply02"
+              "id": "s57_7_0007_reply02",
+              "meaning_vi": "Có cần lấy thẻ giữ hành lý không?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "xíng lǐ kě yǐ jì cún zài zhèr",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“行李可以寄存在这儿。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“行李可以寄存在这儿。”，并根据顾客反馈接话。",
+          "meaning_vi": "Quý khách có thể gửi hành lý tại đây.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0008",
@@ -3009,22 +3048,27 @@
           "replies": [
             {
               "text": "好，我们都有护照。",
-              "id": "s57_7_0008_reply01"
+              "id": "s57_7_0008_reply01",
+              "meaning_vi": "Vâng, chúng tôi đều có hộ chiếu."
             },
             {
               "text": "要一起到前台吗？",
-              "id": "s57_7_0008_reply02"
+              "id": "s57_7_0008_reply02",
+              "meaning_vi": "Cả hai phải cùng đến quầy à?"
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "酒店登记客人证件和个人信息时，只收集依法和业务必要的信息并妥善保管。"
+              "text": "酒店登记客人证件和个人信息时，只收集依法和业务必要的信息并妥善保管。",
+              "text_vi": "Khách sạn chỉ thu thập thông tin giấy tờ và cá nhân cần thiết theo luật và phục vụ lưu trú, đồng thời phải bảo quản an toàn."
             }
           ],
           "pinyin": "liǎng wèi dōu xū yào dēng jì",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“两位都需要登记。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“两位都需要登记。”，并根据顾客反馈接话。",
+          "meaning_vi": "Cả hai khách đều cần đăng ký lưu trú.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0010",
@@ -3034,17 +3078,20 @@
           "alternatives": [
             {
               "text": "麻烦出示登记证件。",
-              "id": "s57_7_0010_alt01"
+              "id": "s57_7_0010_alt01",
+              "meaning_vi": "Phiền quý khách xuất trình giấy tờ đăng ký."
             }
           ],
           "replies": [
             {
               "text": "用护照可以吗？",
-              "id": "s57_7_0010_reply01"
+              "id": "s57_7_0010_reply01",
+              "meaning_vi": "Dùng hộ chiếu được không?"
             },
             {
               "text": "需要原件吗？",
-              "id": "s57_7_0010_reply02"
+              "id": "s57_7_0010_reply02",
+              "meaning_vi": "Có cần bản gốc không?"
             }
           ],
           "lesson_id": "57.7",
@@ -3052,9 +3099,12 @@
           "pinyin": "qǐng chū shì yǒu xiào zhèng jiàn",
           "mistakes": [
             {
-              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。"
+              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。",
+              "text_vi": "Cần xác nhận yêu cầu khách và quy trình thực tế; không cam đoan điều chưa kiểm tra về dị ứng, hoàn tiền, giấy tờ hoặc vệ sinh."
             }
-          ]
+          ],
+          "meaning_vi": "Vui lòng xuất trình giấy tờ tùy thân còn hiệu lực.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0011",
@@ -3064,17 +3114,20 @@
           "alternatives": [
             {
               "text": "押金多久能退回？",
-              "id": "s57_7_0011_alt01"
+              "id": "s57_7_0011_alt01",
+              "meaning_vi": "Bao lâu thì tiền cọc được trả lại?"
             }
           ],
           "replies": [
             {
               "text": "我核对一下退款状态。",
-              "id": "s57_7_0011_reply01"
+              "id": "s57_7_0011_reply01",
+              "meaning_vi": "Tôi kiểm tra trạng thái hoàn tiền nhé."
             },
             {
               "text": "到账时间要看支付渠道。",
-              "id": "s57_7_0011_reply02"
+              "id": "s57_7_0011_reply02",
+              "meaning_vi": "Tiền vào lúc nào còn tùy kênh thanh toán."
             }
           ],
           "lesson_id": "57.7",
@@ -3082,9 +3135,12 @@
           "pinyin": "yā jīn shén me shí hou tuì",
           "mistakes": [
             {
-              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。"
+              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。",
+              "text_vi": "Cần xác nhận yêu cầu khách và quy trình thực tế; không cam đoan điều chưa kiểm tra về dị ứng, hoàn tiền, giấy tờ hoặc vệ sinh."
             }
-          ]
+          ],
+          "meaning_vi": "Khi nào hoàn lại tiền đặt cọc?",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         },
         {
           "id": "s57_7_0009",
@@ -3094,24 +3150,32 @@
           "replies": [
             {
               "text": "请问预订姓名？",
-              "id": "s57_7_0009_reply01"
+              "id": "s57_7_0009_reply01",
+              "meaning_vi": "Xin hỏi tên người đặt phòng?"
             },
             {
               "text": "麻烦出示预订信息。",
-              "id": "s57_7_0009_reply02"
+              "id": "s57_7_0009_reply02",
+              "meaning_vi": "Phiền cho xem thông tin đặt phòng."
             }
           ],
           "lesson_id": "57.7",
           "lesson_title": "57.7 酒店前台入住退房",
           "mistakes": [
             {
-              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。"
+              "text": "入住登记须核验必要证件与本人信息，保护隐私；押金退还及退房时间按实际预订政策核对。",
+              "text_vi": "Khi nhận phòng cần xác minh giấy tờ và thông tin người ở theo quy định, bảo vệ riêng tư; giờ trả phòng và hoàn tiền cọc theo chính sách đặt phòng thực tế."
             }
           ],
           "pinyin": "wǒ yǒu yù dìng",
-          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“我有预订。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店前台预订、入住、退房与证件登记时，听懂或说出“我有预订。”，并根据顾客反馈接话。",
+          "meaning_vi": "Tôi đã đặt phòng rồi.",
+          "lesson_title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng"
         }
-      ]
+      ],
+      "title_vi": "57.7 Lễ tân khách sạn: nhận và trả phòng",
+      "subtitle_vi": "11 câu giao tiếp",
+      "opening_vi": "Học cách xác nhận đặt phòng, nhận thẻ phòng, hỏi bữa sáng, nhận/trả phòng, gửi hành lý và kiểm tra tiền đặt cọc."
     },
     {
       "id": "57.8",
@@ -3125,22 +3189,27 @@
           "replies": [
             {
               "text": "请尽快帮我处理。",
-              "id": "s57_8_0001_reply01"
+              "id": "s57_8_0001_reply01",
+              "meaning_vi": "Phiền xử lý giúp tôi sớm nhé."
             },
             {
               "text": "能换个房间吗？",
-              "id": "s57_8_0001_reply02"
+              "id": "s57_8_0001_reply02",
+              "meaning_vi": "Có thể đổi sang phòng khác không?"
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "gěi nín tiān má fan le bào qiàn",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“给您添麻烦了，抱歉。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“给您添麻烦了，抱歉。”，并根据顾客反馈接话。",
+          "meaning_vi": "Xin lỗi đã làm phiền quý khách.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0002",
@@ -3149,28 +3218,34 @@
           "alternatives": [
             {
               "text": "我马上叫人来修。",
-              "id": "s57_8_0002_alt01"
+              "id": "s57_8_0002_alt01",
+              "meaning_vi": "Tôi gọi thợ đến sửa ngay."
             }
           ],
           "replies": [
             {
               "text": "大概多久能来？",
-              "id": "s57_8_0002_reply01"
+              "id": "s57_8_0002_reply01",
+              "meaning_vi": "Khoảng bao lâu họ tới?"
             },
             {
               "text": "我先在房间等。",
-              "id": "s57_8_0002_reply02"
+              "id": "s57_8_0002_reply02",
+              "meaning_vi": "Tôi đợi trong phòng trước."
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "wǒ mǎ shàng ān pái wéi xiū",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我马上安排维修。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我马上安排维修。”，并根据顾客反馈接话。",
+          "meaning_vi": "Tôi sẽ sắp xếp người đến sửa ngay.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0003",
@@ -3180,22 +3255,27 @@
           "replies": [
             {
               "text": "谢谢，送到房间就好。",
-              "id": "s57_8_0003_reply01"
+              "id": "s57_8_0003_reply01",
+              "meaning_vi": "Cảm ơn, cứ mang đến phòng nhé."
             },
             {
               "text": "大概几分钟到？",
-              "id": "s57_8_0003_reply02"
+              "id": "s57_8_0003_reply02",
+              "meaning_vi": "Khoảng mấy phút thì tới?"
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "gěi nín sòng liǎng tiáo máo jīn",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“给您送两条毛巾。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“给您送两条毛巾。”，并根据顾客反馈接话。",
+          "meaning_vi": "Tôi mang thêm hai chiếc khăn tắm lên cho quý khách.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0004",
@@ -3205,22 +3285,27 @@
           "replies": [
             {
               "text": "好，我再试着连接。",
-              "id": "s57_8_0004_reply01"
+              "id": "s57_8_0004_reply01",
+              "meaning_vi": "Được, tôi thử kết nối lại."
             },
             {
               "text": "如果还不行怎么办？",
-              "id": "s57_8_0004_reply02"
+              "id": "s57_8_0004_reply02",
+              "meaning_vi": "Nếu vẫn không được thì sao?"
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "wǒ bāng nín chóng qǐ wǎng luò",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我帮您重启网络。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我帮您重启网络。”，并根据顾客反馈接话。",
+          "meaning_vi": "Để tôi khởi động lại mạng giúp quý khách.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0005",
@@ -3229,28 +3314,34 @@
           "alternatives": [
             {
               "text": "我帮您看看空房。",
-              "id": "s57_8_0005_alt01"
+              "id": "s57_8_0005_alt01",
+              "meaning_vi": "Tôi xem giúp quý khách còn phòng nào không."
             }
           ],
           "replies": [
             {
               "text": "最好换间安静点的。",
-              "id": "s57_8_0005_reply01"
+              "id": "s57_8_0005_reply01",
+              "meaning_vi": "Tốt nhất cho tôi phòng yên tĩnh hơn."
             },
             {
               "text": "换房需要加钱吗？",
-              "id": "s57_8_0005_reply02"
+              "id": "s57_8_0005_reply02",
+              "meaning_vi": "Đổi phòng có phải trả thêm tiền không?"
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "wǒ chá xià hái yǒu méi yǒu kōng fáng",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我查下还有没有空房。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我查下还有没有空房。”，并根据顾客反馈接话。",
+          "meaning_vi": "Để tôi kiểm tra xem còn phòng trống không.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0006",
@@ -3260,22 +3351,27 @@
           "replies": [
             {
               "text": "麻烦给我打电话。",
-              "id": "s57_8_0006_reply01"
+              "id": "s57_8_0006_reply01",
+              "meaning_vi": "Phiền gọi điện cho tôi nhé."
             },
             {
               "text": "好，请尽快通知我。",
-              "id": "s57_8_0006_reply02"
+              "id": "s57_8_0006_reply02",
+              "meaning_vi": "Vâng, vui lòng báo sớm."
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "chǔ lǐ hǎo le zài lián xì nín",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“处理好了再联系您。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“处理好了再联系您。”，并根据顾客反馈接话。",
+          "meaning_vi": "Xử lý xong tôi sẽ liên hệ lại quý khách.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0007",
@@ -3285,22 +3381,27 @@
           "replies": [
             {
               "text": "我在房间等着。",
-              "id": "s57_8_0007_reply01"
+              "id": "s57_8_0007_reply01",
+              "meaning_vi": "Tôi đợi trong phòng."
             },
             {
               "text": "请先敲门，谢谢。",
-              "id": "s57_8_0007_reply02"
+              "id": "s57_8_0007_reply02",
+              "meaning_vi": "Phiền gõ cửa trước, cảm ơn."
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "kè fáng rén yuán mǎ shàng guò qù",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“客房人员马上过去。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“客房人员马上过去。”，并根据顾客反馈接话。",
+          "meaning_vi": "Nhân viên buồng phòng sẽ tới ngay.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0010",
@@ -3310,17 +3411,20 @@
           "alternatives": [
             {
               "text": "洗澡没有热水。",
-              "id": "s57_8_0010_alt01"
+              "id": "s57_8_0010_alt01",
+              "meaning_vi": "Tắm không có nước nóng."
             }
           ],
           "replies": [
             {
               "text": "抱歉，我马上找人检查。",
-              "id": "s57_8_0010_reply01"
+              "id": "s57_8_0010_reply01",
+              "meaning_vi": "Xin lỗi, tôi gọi người đến kiểm tra ngay."
             },
             {
               "text": "现在方便维修人员进来吗？",
-              "id": "s57_8_0010_reply02"
+              "id": "s57_8_0010_reply02",
+              "meaning_vi": "Bây giờ nhân viên kỹ thuật vào phòng có tiện không?"
             }
           ],
           "lesson_id": "57.8",
@@ -3328,9 +3432,12 @@
           "pinyin": "fáng jiān lǐ méi yǒu rè shuǐ",
           "mistakes": [
             {
-              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。"
+              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。",
+              "text_vi": "Cần xác nhận yêu cầu khách và quy trình thực tế; không cam đoan điều chưa kiểm tra về dị ứng, hoàn tiền, giấy tờ hoặc vệ sinh."
             }
-          ]
+          ],
+          "meaning_vi": "Trong phòng không có nước nóng.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0011",
@@ -3340,17 +3447,20 @@
           "alternatives": [
             {
               "text": "房间太吵，想换一间。",
-              "id": "s57_8_0011_alt01"
+              "id": "s57_8_0011_alt01",
+              "meaning_vi": "Phòng quá ồn, tôi muốn đổi phòng."
             }
           ],
           "replies": [
             {
               "text": "我先查一下空房。",
-              "id": "s57_8_0011_reply01"
+              "id": "s57_8_0011_reply01",
+              "meaning_vi": "Để tôi kiểm tra phòng trống trước."
             },
             {
               "text": "我请工作人员了解一下。",
-              "id": "s57_8_0011_reply02"
+              "id": "s57_8_0011_reply02",
+              "meaning_vi": "Tôi sẽ nhờ nhân viên kiểm tra tình hình."
             }
           ],
           "lesson_id": "57.8",
@@ -3358,9 +3468,12 @@
           "pinyin": "gé bì tài chǎo le néng huàn fáng ma",
           "mistakes": [
             {
-              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。"
+              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。",
+              "text_vi": "Cần xác nhận yêu cầu khách và quy trình thực tế; không cam đoan điều chưa kiểm tra về dị ứng, hoàn tiền, giấy tờ hoặc vệ sinh."
             }
-          ]
+          ],
+          "meaning_vi": "Phòng bên cạnh ồn quá, đổi phòng được không?",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0008",
@@ -3370,22 +3483,27 @@
           "replies": [
             {
               "text": "抱歉，我安排人检查。",
-              "id": "s57_8_0008_reply01"
+              "id": "s57_8_0008_reply01",
+              "meaning_vi": "Xin lỗi, tôi sắp xếp người tới kiểm tra."
             },
             {
               "text": "先帮您换房可以吗？",
-              "id": "s57_8_0008_reply02"
+              "id": "s57_8_0008_reply02",
+              "meaning_vi": "Trước tiên đổi phòng khác cho quý khách được không?"
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "kōng tiáo huài le",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“空调坏了。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“空调坏了。”，并根据顾客反馈接话。",
+          "meaning_vi": "Máy lạnh hỏng rồi.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         },
         {
           "id": "s57_8_0009",
@@ -3395,24 +3513,32 @@
           "replies": [
             {
               "text": "好的，我帮您联系。",
-              "id": "s57_8_0009_reply01"
+              "id": "s57_8_0009_reply01",
+              "meaning_vi": "Vâng, tôi liên hệ giúp quý khách."
             },
             {
               "text": "经理暂时不在，我请他回电。",
-              "id": "s57_8_0009_reply02"
+              "id": "s57_8_0009_reply02",
+              "meaning_vi": "Quản lý hiện đi vắng, tôi nhờ anh ấy gọi lại."
             }
           ],
           "lesson_id": "57.8",
           "lesson_title": "57.8 酒店客诉与客房服务",
           "mistakes": [
             {
-              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。"
+              "text": "维修人员进客房前应确认客人是否方便；客诉要记录并及时跟进，不能保证未核实的解决时间。",
+              "text_vi": "Trước khi nhân viên sửa chữa vào phòng phải hỏi khách có tiện không; ghi nhận và theo dõi phàn nàn, không hứa thời hạn giải quyết chưa xác minh."
             }
           ],
           "pinyin": "wǒ xiǎng zhǎo jīng lǐ",
-          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我想找经理。”，并根据顾客反馈接话。"
+          "when_to_use": "在酒店客房故障、客诉和维修安排时，听懂或说出“我想找经理。”，并根据顾客反馈接话。",
+          "meaning_vi": "Tôi muốn gặp quản lý.",
+          "lesson_title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn"
         }
-      ]
+      ],
+      "title_vi": "57.8 Xử lý phàn nàn và dịch vụ phòng khách sạn",
+      "subtitle_vi": "11 câu giao tiếp",
+      "opening_vi": "Luyện xin lỗi, gọi kỹ thuật, thêm khăn tắm, khắc phục mạng, đổi phòng và xin gặp quản lý. Phải xin phép khách trước khi nhân viên vào phòng."
     },
     {
       "id": "57.9",
@@ -3425,28 +3551,34 @@
           "alternatives": [
             {
               "text": "想剪什么发型？",
-              "id": "s57_9_0001_alt01"
+              "id": "s57_9_0001_alt01",
+              "meaning_vi": "Quý khách muốn cắt kiểu tóc gì?"
             }
           ],
           "replies": [
             {
               "text": "两边剪短一点。",
-              "id": "s57_9_0001_reply01"
+              "id": "s57_9_0001_reply01",
+              "meaning_vi": "Cắt hai bên ngắn một chút."
             },
             {
               "text": "就修一修，不要太短。",
-              "id": "s57_9_0001_reply02"
+              "id": "s57_9_0001_reply02",
+              "meaning_vi": "Chỉ tỉa thôi, đừng cắt quá ngắn."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "nín hǎo xiǎng zěn me jiǎn",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“您好，想怎么剪？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“您好，想怎么剪？”，并根据顾客反馈接话。",
+          "meaning_vi": "Xin chào, quý khách muốn cắt kiểu nào?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0002",
@@ -3456,22 +3588,27 @@
           "replies": [
             {
               "text": "剪短一点就好。",
-              "id": "s57_9_0002_reply01"
+              "id": "s57_9_0002_reply01",
+              "meaning_vi": "Cắt ngắn một chút là được."
             },
             {
               "text": "按这张照片剪。",
-              "id": "s57_9_0002_reply02"
+              "id": "s57_9_0002_reply02",
+              "meaning_vi": "Cắt giống ảnh này nhé."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "liǎng biān jiǎn duō duǎn",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“两边剪多短？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“两边剪多短？”，并根据顾客反馈接话。",
+          "meaning_vi": "Hai bên muốn cắt ngắn đến mức nào?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0003",
@@ -3481,22 +3618,27 @@
           "replies": [
             {
               "text": "上面别剪太短。",
-              "id": "s57_9_0003_reply01"
+              "id": "s57_9_0003_reply01",
+              "meaning_vi": "Phần trên đừng cắt quá ngắn."
             },
             {
               "text": "留三厘米左右。",
-              "id": "s57_9_0003_reply02"
+              "id": "s57_9_0003_reply02",
+              "meaning_vi": "Để lại khoảng ba xăng-ti-mét."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "shàng miàn liú duō cháng",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“上面留多长？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“上面留多长？”，并根据顾客反馈接话。",
+          "meaning_vi": "Phần tóc trên đỉnh muốn để dài bao nhiêu?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0004",
@@ -3505,28 +3647,34 @@
           "alternatives": [
             {
               "text": "前面的头发要剪吗？",
-              "id": "s57_9_0004_alt01"
+              "id": "s57_9_0004_alt01",
+              "meaning_vi": "Có muốn cắt phần tóc phía trước không?"
             }
           ],
           "replies": [
             {
               "text": "稍微修一下就行。",
-              "id": "s57_9_0004_reply01"
+              "id": "s57_9_0004_reply01",
+              "meaning_vi": "Chỉ tỉa một chút thôi."
             },
             {
               "text": "不用，刘海留着。",
-              "id": "s57_9_0004_reply02"
+              "id": "s57_9_0004_reply02",
+              "meaning_vi": "Không cần, để lại tóc mái."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "liú hǎi yào jiǎn ma",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“刘海要剪吗？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“刘海要剪吗？”，并根据顾客反馈接话。",
+          "meaning_vi": "Có cắt tóc mái không?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0005",
@@ -3536,22 +3684,27 @@
           "replies": [
             {
               "text": "可以，就这样。",
-              "id": "s57_9_0005_reply01"
+              "id": "s57_9_0005_reply01",
+              "meaning_vi": "Được, cứ thế nhé."
             },
             {
               "text": "再短一点点。",
-              "id": "s57_9_0005_reply02"
+              "id": "s57_9_0005_reply02",
+              "meaning_vi": "Cắt ngắn thêm một chút xíu."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "zhè ge cháng dù kě yǐ ma",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“这个长度可以吗？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“这个长度可以吗？”，并根据顾客反馈接话。",
+          "meaning_vi": "Độ dài thế này được chưa?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0006",
@@ -3561,22 +3714,27 @@
           "replies": [
             {
               "text": "要，剪完再洗吧。",
-              "id": "s57_9_0006_reply01"
+              "id": "s57_9_0006_reply01",
+              "meaning_vi": "Có, cắt xong gội nhé."
             },
             {
               "text": "不用，直接剪就行。",
-              "id": "s57_9_0006_reply02"
+              "id": "s57_9_0006_reply02",
+              "meaning_vi": "Không cần, cắt luôn là được."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "xū yào xǐ tóu ma",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“需要洗头吗？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“需要洗头吗？”，并根据顾客反馈接话。",
+          "meaning_vi": "Có cần gội đầu không?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0007",
@@ -3585,28 +3743,34 @@
           "alternatives": [
             {
               "text": "头发要打薄吗？",
-              "id": "s57_9_0007_alt01"
+              "id": "s57_9_0007_alt01",
+              "meaning_vi": "Có muốn tỉa thưa tóc không?"
             }
           ],
           "replies": [
             {
               "text": "稍微打薄一点。",
-              "id": "s57_9_0007_reply01"
+              "id": "s57_9_0007_reply01",
+              "meaning_vi": "Tỉa mỏng chút thôi."
             },
             {
               "text": "不用打薄。",
-              "id": "s57_9_0007_reply02"
+              "id": "s57_9_0007_reply02",
+              "meaning_vi": "Không cần tỉa mỏng."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "打薄是减少头发厚重感，不等于把长度剪短。"
+              "text": "打薄是减少头发厚重感，不等于把长度剪短。",
+              "text_vi": "Tỉa mỏng làm bớt độ dày của tóc, không đồng nghĩa cắt ngắn chiều dài tóc."
             }
           ],
           "pinyin": "yào dǎ báo yì diǎn ma",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“要打薄一点吗？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“要打薄一点吗？”，并根据顾客反馈接话。",
+          "meaning_vi": "Có muốn tỉa mỏng bớt không?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0008",
@@ -3616,22 +3780,27 @@
           "replies": [
             {
               "text": "很好，就这样吧。",
-              "id": "s57_9_0008_reply01"
+              "id": "s57_9_0008_reply01",
+              "meaning_vi": "Đẹp rồi, cứ thế đi."
             },
             {
               "text": "后面能再修一下吗？",
-              "id": "s57_9_0008_reply02"
+              "id": "s57_9_0008_reply02",
+              "meaning_vi": "Phần sau tỉa thêm chút được không?"
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "jiǎn hǎo le nín kàn kàn",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“剪好了，您看看。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“剪好了，您看看。”，并根据顾客反馈接话。",
+          "meaning_vi": "Cắt xong rồi, quý khách xem thử nhé.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0009",
@@ -3641,22 +3810,27 @@
           "replies": [
             {
               "text": "对，别剪太多。",
-              "id": "s57_9_0009_reply01"
+              "id": "s57_9_0009_reply01",
+              "meaning_vi": "Đúng, đừng cắt nhiều quá."
             },
             {
               "text": "不是，我想剪短一点。",
-              "id": "s57_9_0009_reply02"
+              "id": "s57_9_0009_reply02",
+              "meaning_vi": "Không, tôi muốn cắt ngắn hơn."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "nín zhǐ xiū yí xià ma",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“您只修一下吗？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“您只修一下吗？”，并根据顾客反馈接话。",
+          "meaning_vi": "Quý khách chỉ muốn tỉa sơ thôi à?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0010",
@@ -3666,22 +3840,27 @@
           "replies": [
             {
               "text": "要，耳朵露出来。",
-              "id": "s57_9_0010_reply01"
+              "id": "s57_9_0010_reply01",
+              "meaning_vi": "Có, cắt để lộ tai."
             },
             {
               "text": "不用，稍微盖一点。",
-              "id": "s57_9_0010_reply02"
+              "id": "s57_9_0010_reply02",
+              "meaning_vi": "Không, để tóc che tai một chút."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "ěr duǒ páng biān yào lòu chū lái ma",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“耳朵旁边要露出来吗？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“耳朵旁边要露出来吗？”，并根据顾客反馈接话。",
+          "meaning_vi": "Có muốn cắt lộ tai không?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0011",
@@ -3691,22 +3870,27 @@
           "replies": [
             {
               "text": "大概要等多久？",
-              "id": "s57_9_0011_reply01"
+              "id": "s57_9_0011_reply01",
+              "meaning_vi": "Khoảng phải đợi bao lâu?"
             },
             {
               "text": "那我等一下吧。",
-              "id": "s57_9_0011_reply02"
+              "id": "s57_9_0011_reply02",
+              "meaning_vi": "Vậy tôi đợi một chút."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "qián miàn hái yǒu liǎng wèi",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“前面还有两位。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“前面还有两位。”，并根据顾客反馈接话。",
+          "meaning_vi": "Phía trước còn hai khách đang chờ.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0012",
@@ -3716,22 +3900,27 @@
           "replies": [
             {
               "text": "好，我坐这儿等。",
-              "id": "s57_9_0012_reply01"
+              "id": "s57_9_0012_reply01",
+              "meaning_vi": "Được, tôi ngồi đây đợi."
             },
             {
               "text": "那我晚点再来。",
-              "id": "s57_9_0012_reply02"
+              "id": "s57_9_0012_reply02",
+              "meaning_vi": "Vậy lát nữa tôi quay lại."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "dà gài yào děng èr shí fēn zhōng",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“大概要等二十分钟。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“大概要等二十分钟。”，并根据顾客反馈接话。",
+          "meaning_vi": "Chắc phải đợi khoảng hai mươi phút.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0021",
@@ -3741,17 +3930,20 @@
           "alternatives": [
             {
               "text": "我先确认留多长。",
-              "id": "s57_9_0021_alt01"
+              "id": "s57_9_0021_alt01",
+              "meaning_vi": "Để tôi hỏi rõ muốn giữ lại dài bao nhiêu."
             }
           ],
           "replies": [
             {
               "text": "就修两厘米左右。",
-              "id": "s57_9_0021_reply01"
+              "id": "s57_9_0021_reply01",
+              "meaning_vi": "Chỉ tỉa khoảng hai xăng-ti-mét."
             },
             {
               "text": "我给您看一下照片。",
-              "id": "s57_9_0021_reply02"
+              "id": "s57_9_0021_reply02",
+              "meaning_vi": "Để tôi cho quý khách xem ảnh."
             }
           ],
           "lesson_id": "57.9",
@@ -3759,9 +3951,12 @@
           "pinyin": "jiǎn zhī qián xiān què rèn yí xià cháng dù",
           "mistakes": [
             {
-              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。"
+              "text": "应确认顾客实际要求及店铺流程；涉及过敏、退款、证件与卫生问题时不要做未经核实的保证。",
+              "text_vi": "Cần xác nhận yêu cầu khách và quy trình thực tế; không cam đoan điều chưa kiểm tra về dị ứng, hoàn tiền, giấy tờ hoặc vệ sinh."
             }
-          ]
+          ],
+          "meaning_vi": "Trước khi cắt, tôi xác nhận độ dài trước nhé.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0013",
@@ -3770,28 +3965,34 @@
           "alternatives": [
             {
               "text": "我来剪头发。",
-              "id": "s57_9_0013_alt01"
+              "id": "s57_9_0013_alt01",
+              "meaning_vi": "Tôi đến cắt tóc."
             }
           ],
           "replies": [
             {
               "text": "好的，想怎么剪？",
-              "id": "s57_9_0013_reply01"
+              "id": "s57_9_0013_reply01",
+              "meaning_vi": "Được, bạn muốn cắt kiểu nào?"
             },
             {
               "text": "前面还有一位，稍等。",
-              "id": "s57_9_0013_reply02"
+              "id": "s57_9_0013_reply02",
+              "meaning_vi": "Phía trước còn một người, chờ chút nhé."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "wǒ xiǎng jiǎn tóu fā",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“我想剪头发。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“我想剪头发。”，并根据顾客反馈接话。",
+          "meaning_vi": "Tôi muốn cắt tóc.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0014",
@@ -3801,22 +4002,27 @@
           "replies": [
             {
               "text": "好，上面要留长吗？",
-              "id": "s57_9_0014_reply01"
+              "id": "s57_9_0014_reply01",
+              "meaning_vi": "Được, phần trên muốn để dài à?"
             },
             {
               "text": "要露出耳朵吗？",
-              "id": "s57_9_0014_reply02"
+              "id": "s57_9_0014_reply02",
+              "meaning_vi": "Có muốn cắt lộ tai không?"
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "liǎng biān duǎn yì diǎn",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“两边短一点。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“两边短一点。”，并根据顾客反馈接话。",
+          "meaning_vi": "Hai bên ngắn hơn một chút.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0015",
@@ -3826,22 +4032,27 @@
           "replies": [
             {
               "text": "好的，顶部少剪点。",
-              "id": "s57_9_0015_reply01"
+              "id": "s57_9_0015_reply01",
+              "meaning_vi": "Được, phía trên tôi cắt ít thôi."
             },
             {
               "text": "大概留几厘米？",
-              "id": "s57_9_0015_reply02"
+              "id": "s57_9_0015_reply02",
+              "meaning_vi": "Muốn để lại chừng mấy xăng-ti-mét?"
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "shàng miàn liú cháng yì diǎn",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“上面留长一点。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“上面留长一点。”，并根据顾客反馈接话。",
+          "meaning_vi": "Phần tóc trên đỉnh để dài một chút.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0016",
@@ -3851,22 +4062,27 @@
           "replies": [
             {
               "text": "好，我先少剪一点。",
-              "id": "s57_9_0016_reply01"
+              "id": "s57_9_0016_reply01",
+              "meaning_vi": "Được, tôi cắt ít trước."
             },
             {
               "text": "我剪一点给您看看。",
-              "id": "s57_9_0016_reply02"
+              "id": "s57_9_0016_reply02",
+              "meaning_vi": "Tôi cắt thử một chút cho bạn xem."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "bié jiǎn tài duǎn",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“别剪太短。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“别剪太短。”，并根据顾客反馈接话。",
+          "meaning_vi": "Đừng cắt quá ngắn nhé.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0017",
@@ -3876,22 +4092,27 @@
           "replies": [
             {
               "text": "剪到眉毛上面吗？",
-              "id": "s57_9_0017_reply01"
+              "id": "s57_9_0017_reply01",
+              "meaning_vi": "Có cắt tới trên lông mày không?"
             },
             {
               "text": "好，稍微修整一下。",
-              "id": "s57_9_0017_reply02"
+              "id": "s57_9_0017_reply02",
+              "meaning_vi": "Được, tỉa gọn nhẹ thôi."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "liú hǎi jiǎn yì diǎn",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“刘海剪一点。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“刘海剪一点。”，并根据顾客反馈接话。",
+          "meaning_vi": "Tỉa tóc mái một chút.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0018",
@@ -3901,22 +4122,27 @@
           "replies": [
             {
               "text": "好，不会剪太短。",
-              "id": "s57_9_0018_reply01"
+              "id": "s57_9_0018_reply01",
+              "meaning_vi": "Được, tôi sẽ không cắt ngắn quá."
             },
             {
               "text": "两边也稍微修吗？",
-              "id": "s57_9_0018_reply02"
+              "id": "s57_9_0018_reply02",
+              "meaning_vi": "Hai bên cũng tỉa một chút chứ?"
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "wǒ zhǐ xiǎng xiū yí xià",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“我只想修一下。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“我只想修一下。”，并根据顾客反馈接话。",
+          "meaning_vi": "Tôi chỉ muốn tỉa sơ thôi.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0019",
@@ -3926,22 +4152,27 @@
           "replies": [
             {
               "text": "好，只稍微修一下。",
-              "id": "s57_9_0019_reply01"
+              "id": "s57_9_0019_reply01",
+              "meaning_vi": "Được, chỉ tỉa sơ thôi."
             },
             {
               "text": "那我不打薄了。",
-              "id": "s57_9_0019_reply02"
+              "id": "s57_9_0019_reply02",
+              "meaning_vi": "Vậy tôi không tỉa mỏng nữa."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "bié dǎ de tài báo",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“别打得太薄。”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“别打得太薄。”，并根据顾客反馈接话。",
+          "meaning_vi": "Đừng tỉa mỏng quá.",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         },
         {
           "id": "s57_9_0020",
@@ -3951,24 +4182,32 @@
           "replies": [
             {
               "text": "普通剪发三十元。",
-              "id": "s57_9_0020_reply01"
+              "id": "s57_9_0020_reply01",
+              "meaning_vi": "Cắt thường 30 tệ."
             },
             {
               "text": "洗剪一起是五十元。",
-              "id": "s57_9_0020_reply02"
+              "id": "s57_9_0020_reply02",
+              "meaning_vi": "Gội và cắt cùng nhau 50 tệ."
             }
           ],
           "lesson_id": "57.9",
           "lesson_title": "57.9 理发店接待与剪发确认",
           "mistakes": [
             {
-              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。"
+              "text": "“修一下”“打薄”“剪短”是不同操作；没有确认长度之前不要擅自剪得过短。",
+              "text_vi": "“Tỉa sơ”, “tỉa mỏng” và “cắt ngắn” là các thao tác khác nhau; phải xác nhận độ dài trước, không tự ý cắt quá ngắn."
             }
           ],
           "pinyin": "jiǎn fā dà gài duō shǎo qián",
-          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“剪发大概多少钱？”，并根据顾客反馈接话。"
+          "when_to_use": "在理发前咨询、剪发长度和完成后的确认时，听懂或说出“剪发大概多少钱？”，并根据顾客反馈接话。",
+          "meaning_vi": "Cắt tóc khoảng bao nhiêu tiền?",
+          "lesson_title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc"
         }
-      ]
+      ],
+      "title_vi": "57.9 Tiệm cắt tóc: đón khách và xác nhận kiểu tóc",
+      "subtitle_vi": "21 câu giao tiếp",
+      "opening_vi": "Luyện hỏi kiểu tóc, độ dài hai bên, mái, tỉa mỏng, gội đầu, thời gian chờ và giá cắt; xác nhận chiều dài trước khi cắt."
     }
   ],
   "theme_title_vi": "57 Công việc ngành dịch vụ",
