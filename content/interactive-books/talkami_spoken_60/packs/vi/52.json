@@ -1,0 +1,2108 @@
+{
+  "theme_id": "52",
+  "version": 1,
+  "updated_at": "2026-11-03T03:00:10.765Z",
+  "theme_title": "52 入职报到",
+  "quality_standard": "Vietnamese translations provided for all primary/alternative/reply lines and every distinct Mandarin teaching-note message; exact original Mandarin text, pinyin, IDs preserved; native/editorial and app QA pending.",
+  "source_phrase_count": 64,
+  "lessons": [
+    {
+      "id": "52.1",
+      "title": "52.1 第一天报到",
+      "phrases": [
+        {
+          "id": "s52_1_0001",
+          "level": "must",
+          "text": "我是来报到的。",
+          "alternatives": [
+            {
+              "text": "我来办理入职。",
+              "id": "s52_1_0001_alt01",
+              "meaning_vi": "Tôi đến làm thủ tục nhận việc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "欢迎，先去人事部。",
+              "id": "s52_1_0001_reply01",
+              "meaning_vi": "Chào mừng bạn, trước tiên đến phòng nhân sự."
+            },
+            {
+              "text": "好，请先登记一下。",
+              "id": "s52_1_0001_reply02",
+              "meaning_vi": "Được, vui lòng đăng ký trước."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“报到”指到场办理手续，“报道”是新闻报道；还没完成手续不代表已可以直接上岗。",
+              "text_vi": "“报到” là đến trình diện làm thủ tục, khác “报道” là đưa tin; chưa xong thủ tục không có nghĩa đã được làm việc."
+            }
+          ],
+          "pinyin": "wǒ shì lái bào dào de",
+          "when_to_use": "第一次到单位门口或前台，说明自己是来办理入职手续的。",
+          "meaning_vi": "Tôi đến để trình diện nhận việc.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0002",
+          "level": "must",
+          "text": "我今天入职。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，先去前台登记。",
+              "id": "s52_1_0002_reply01",
+              "meaning_vi": "Được, đăng ký tại quầy lễ tân trước."
+            },
+            {
+              "text": "欢迎，跟我来吧。",
+              "id": "s52_1_0002_reply02",
+              "meaning_vi": "Chào mừng, đi theo tôi nhé."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“入职”是到单位办理入职，不等于外国人不需要核实合法工作资格。",
+              "text_vi": "“入职” là nhận việc tại công ty, không có nghĩa lao động nước ngoài được miễn yêu cầu làm việc hợp pháp."
+            }
+          ],
+          "pinyin": "wǒ jīn tiān rù zhí",
+          "when_to_use": "前台问你来做什么时，说明今天是自己约定的入职日期。",
+          "meaning_vi": "Hôm nay tôi bắt đầu nhận việc.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0003",
+          "level": "must",
+          "text": "我先找人事吗？",
+          "alternatives": [
+            {
+              "text": "先去找人事吗？",
+              "id": "s52_1_0003_alt01",
+              "meaning_vi": "Đến gặp nhân sự trước phải không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "对，先去人事部。",
+              "id": "s52_1_0003_reply01",
+              "meaning_vi": "Đúng, đến phòng nhân sự trước."
+            },
+            {
+              "text": "不用，先在前台登记。",
+              "id": "s52_1_0003_reply02",
+              "meaning_vi": "Không cần, đăng ký ở lễ tân trước."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“人事”是人力资源相关工作人员，不是所有公司都叫“人事部”；对方说“先登记”就先照流程做。",
+              "text_vi": "“人事” chỉ nhân viên nhân sự (HR), không phải công ty nào cũng gọi là phòng nhân sự; hãy làm theo thứ tự được hướng dẫn."
+            }
+          ],
+          "pinyin": "wǒ xiān zhǎo rén shì ma",
+          "when_to_use": "到了新单位，不知道是先去人事还是先登记，用问句确认顺序。",
+          "meaning_vi": "Tôi tìm phòng nhân sự trước à?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0004",
+          "level": "must",
+          "text": "在哪儿登记？",
+          "alternatives": [
+            {
+              "text": "在哪里登记？",
+              "id": "s52_1_0004_alt01",
+              "meaning_vi": "Đăng ký chỗ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "去二楼人事部。",
+              "id": "s52_1_0004_reply01",
+              "meaning_vi": "Đến phòng nhân sự tầng hai."
+            },
+            {
+              "text": "在前台登记就行。",
+              "id": "s52_1_0004_reply02",
+              "meaning_vi": "Chỉ cần đăng ký ở lễ tân."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“登记”是登记信息，“签到”是到场打卡或签到，不一定在同一个地方。",
+              "text_vi": "“登记” là đăng ký thông tin, còn “签到” là điểm danh khi đến; hai việc có thể làm ở nơi khác nhau."
+            }
+          ],
+          "pinyin": "zài nǎr dēng jì",
+          "when_to_use": "到了厂门或写字楼大厅，寻找新员工办理登记的位置。",
+          "meaning_vi": "Đăng ký ở đâu?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0005",
+          "level": "must",
+          "text": "还要交什么材料？",
+          "alternatives": [
+            {
+              "text": "还缺什么材料？",
+              "id": "s52_1_0005_alt01",
+              "meaning_vi": "Còn thiếu giấy tờ nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "还缺护照复印件。",
+              "id": "s52_1_0005_reply01",
+              "meaning_vi": "Còn thiếu bản photocopy hộ chiếu."
+            },
+            {
+              "text": "还要一张照片。",
+              "id": "s52_1_0005_reply02",
+              "meaning_vi": "Còn cần một ảnh thẻ."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“交材料”不等于同意长期交出护照原件；核对需要原件查验还是复印件归档。",
+              "text_vi": "Nộp hồ sơ không có nghĩa đồng ý để người khác giữ hộ chiếu gốc lâu dài; phải phân biệt bản gốc để kiểm tra và bản sao để lưu."
+            }
+          ],
+          "pinyin": "hái yào jiāo shén me cái liào",
+          "when_to_use": "HR已核对一部分材料，你想确认还缺哪些文件或照片。",
+          "meaning_vi": "Còn phải nộp giấy tờ gì?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0006",
+          "level": "must",
+          "text": "培训几点开始？",
+          "alternatives": [
+            {
+              "text": "几点开始培训？",
+              "id": "s52_1_0006_alt01",
+              "meaning_vi": "Đào tạo bắt đầu lúc mấy giờ?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "早上九点开始。",
+              "id": "s52_1_0006_reply01",
+              "meaning_vi": "Bắt đầu lúc chín giờ sáng."
+            },
+            {
+              "text": "下午两点开始。",
+              "id": "s52_1_0006_reply02",
+              "meaning_vi": "Bắt đầu lúc hai giờ chiều."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“培训开始时间”与“正式开工时间”不一定一致；需要确认培训地点与是否要提前签到。",
+              "text_vi": "Giờ đào tạo có thể khác giờ bắt đầu làm chính thức; cần xác nhận địa điểm và việc điểm danh trước."
+            }
+          ],
+          "pinyin": "péi xùn jǐ diǎn kāi shǐ",
+          "when_to_use": "报道当天收到培训安排，想知道培训从几点开始。",
+          "meaning_vi": "Mấy giờ bắt đầu đào tạo?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0007",
+          "level": "must",
+          "text": "今天是我第一天上班。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "欢迎，先来签到。",
+              "id": "s52_1_0007_reply01",
+              "meaning_vi": "Chào mừng, đến điểm danh trước."
+            },
+            {
+              "text": "好，我带你熟悉一下。",
+              "id": "s52_1_0007_reply02",
+              "meaning_vi": "Được, để tôi dẫn bạn làm quen."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“第一天上班”只是介绍当天情况，不意味着所有设备已经培训完可以自行操作。",
+              "text_vi": "Ngày đi làm đầu tiên không có nghĩa đã được đào tạo đủ để tự vận hành mọi thiết bị."
+            }
+          ],
+          "pinyin": "jīn tiān shì wǒ dì yī tiān shàng bān",
+          "when_to_use": "第一次到新单位向同事打招呼，说明自己是新来的员工。",
+          "meaning_vi": "Hôm nay là ngày đi làm đầu tiên của tôi.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0008",
+          "level": "must",
+          "text": "人事部在哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "二楼左边。",
+              "id": "s52_1_0008_reply01",
+              "meaning_vi": "Bên trái tầng hai."
+            },
+            {
+              "text": "走廊尽头右转。",
+              "id": "s52_1_0008_reply02",
+              "meaning_vi": "Cuối hành lang rẽ phải."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“人事部”可简称“人事”，中国建筑的一楼通常是地面层；不确定时确认具体楼层。",
+              "text_vi": "“人事部” có thể nói gọn là “人事”; tại Trung Quốc tầng một thường là tầng mặt đất, nên hỏi rõ tầng khi chưa chắc."
+            }
+          ],
+          "pinyin": "rén shì bù zài nǎr",
+          "when_to_use": "前台让你去人事部，向工作人员问位置和楼层。",
+          "meaning_vi": "Phòng nhân sự ở đâu?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0009",
+          "level": "must",
+          "text": "工牌什么时候发？",
+          "alternatives": [
+            {
+              "text": "什么时候领工牌？",
+              "id": "s52_1_0009_alt01",
+              "meaning_vi": "Khi nào nhận thẻ nhân viên?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "今天下午发。",
+              "id": "s52_1_0009_reply01",
+              "meaning_vi": "Chiều nay phát."
+            },
+            {
+              "text": "明天到人事部领。",
+              "id": "s52_1_0009_reply02",
+              "meaning_vi": "Ngày mai đến phòng nhân sự nhận."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“发工牌”是公司发放，“领工牌”是自己去领取；两者动作方向不同。",
+              "text_vi": "“发工牌” là phía công ty phát thẻ, “领工牌” là người lao động đến nhận; khác nhau về chủ thể thực hiện."
+            }
+          ],
+          "pinyin": "gōng pái shén me shí hou fā",
+          "when_to_use": "登记完成后，向人事询问员工工牌何时发放。",
+          "meaning_vi": "Bao giờ phát thẻ nhân viên?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0010",
+          "level": "must",
+          "text": "培训要多久？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "大概半天。",
+              "id": "s52_1_0010_reply01",
+              "meaning_vi": "Khoảng nửa ngày."
+            },
+            {
+              "text": "两个小时左右。",
+              "id": "s52_1_0010_reply02",
+              "meaning_vi": "Khoảng hai tiếng."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“多久”问持续时间，不是几点开始；若为设备操作培训，还需确认完成考核后才能操作。",
+              "text_vi": "“多久” hỏi thời lượng, không phải mấy giờ bắt đầu; việc vận hành máy còn cần đào tạo và đủ điều kiện an toàn."
+            }
+          ],
+          "pinyin": "péi xùn yào duō jiǔ",
+          "when_to_use": "收到新员工培训计划，想知道大概需要半天还是几小时。",
+          "meaning_vi": "Đào tạo mất bao lâu?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0019",
+          "level": "must",
+          "text": "这栏怎么填？",
+          "alternatives": [
+            {
+              "text": "这个地方填什么？",
+              "id": "s52_1_0019_alt01",
+              "meaning_vi": "Chỗ này phải điền gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "填你的联系电话。",
+              "id": "s52_1_0019_reply01",
+              "meaning_vi": "Điền số điện thoại liên hệ của bạn."
+            },
+            {
+              "text": "不明白的地方我给你解释。",
+              "id": "s52_1_0019_reply02",
+              "meaning_vi": "Chỗ nào không hiểu tôi giải thích."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "pinyin": "zhè lán zěn me tián",
+          "when_to_use": "入职第一天遇到“这栏怎么填？”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu trong tình huống nhận việc; giấy phép lao động, hợp đồng và an toàn máy móc phải theo thủ tục thực tế, đào tạo và nội quy."
+            }
+          ],
+          "meaning_vi": "Ô này điền thế nào?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0020",
+          "level": "must",
+          "text": "合同能先让我看看吗？",
+          "alternatives": [
+            {
+              "text": "我想先看看合同。",
+              "id": "s52_1_0020_alt01",
+              "meaning_vi": "Tôi muốn xem hợp đồng trước."
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，先看清楚再签。",
+              "id": "s52_1_0020_reply01",
+              "meaning_vi": "Được, đọc kỹ rồi hãy ký."
+            },
+            {
+              "text": "不懂的条款可以问人事。",
+              "id": "s52_1_0020_reply02",
+              "meaning_vi": "Điều khoản nào không hiểu có thể hỏi nhân sự."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "pinyin": "hé tong néng xiān ràng wǒ kàn kan ma",
+          "when_to_use": "入职第一天遇到“合同能先让我看看吗？”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu trong tình huống nhận việc; giấy phép lao động, hợp đồng và an toàn máy móc phải theo thủ tục thực tế, đào tạo và nội quy."
+            }
+          ],
+          "meaning_vi": "Cho tôi đọc hợp đồng trước được không?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0021",
+          "level": "must",
+          "text": "我的工作许可办好了吗？",
+          "alternatives": [
+            {
+              "text": "工作许可办下来了吗？",
+              "id": "s52_1_0021_alt01",
+              "meaning_vi": "Giấy phép lao động đã được cấp chưa?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你问一下人事。",
+              "id": "s52_1_0021_reply01",
+              "meaning_vi": "Để tôi hỏi nhân sự giúp bạn."
+            },
+            {
+              "text": "还在办理，先别上岗。",
+              "id": "s52_1_0021_reply02",
+              "meaning_vi": "Vẫn đang làm thủ tục, chưa được bắt đầu làm việc."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "pinyin": "wǒ de gōng zuò xǔ kě bàn hǎo le ma",
+          "when_to_use": "入职第一天遇到“我的工作许可办好了吗？”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu trong tình huống nhận việc; giấy phép lao động, hợp đồng và an toàn máy móc phải theo thủ tục thực tế, đào tạo và nội quy."
+            }
+          ],
+          "meaning_vi": "Giấy phép lao động của tôi làm xong chưa?",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0011",
+          "level": "listen",
+          "text": "先填这张表。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "填完交给谁？",
+              "id": "s52_1_0011_reply01",
+              "meaning_vi": "Điền xong giao cho ai?"
+            },
+            {
+              "text": "这栏要填什么？",
+              "id": "s52_1_0011_reply02",
+              "meaning_vi": "Ô này phải điền gì?"
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“填表”是填写表格；看不懂中文栏位可以请人说明，不要猜填证件号码或隐私信息。",
+              "text_vi": "“填表” là điền biểu mẫu; không hiểu ô chữ Trung thì hỏi, không đoán số giấy tờ hay thông tin cá nhân."
+            }
+          ],
+          "pinyin": "xiān tián zhè zhāng biǎo",
+          "when_to_use": "工作人员给你一张入职登记表，你要听懂先填写再交回。",
+          "meaning_vi": "Trước tiên điền tờ đơn này.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0012",
+          "level": "listen",
+          "text": "请出示证件。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这是我的护照。",
+              "id": "s52_1_0012_reply01",
+              "meaning_vi": "Đây là hộ chiếu của tôi."
+            },
+            {
+              "text": "需要看原件吗？",
+              "id": "s52_1_0012_reply02",
+              "meaning_vi": "Có cần xem bản gốc không?"
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "办理入职时先核对需要的是原件还是复印件；个人证件原件不要随意交由他人长期保管。",
+              "text_vi": "Khi làm thủ tục nhận việc, hỏi rõ cần bản gốc hay bản sao; không tùy tiện giao giấy tờ gốc để người khác giữ lâu."
+            }
+          ],
+          "pinyin": "qǐng chū shì zhèng jiàn",
+          "when_to_use": "前台或人事核验身份时，请你出示护照等有效证件。",
+          "meaning_vi": "Vui lòng xuất trình giấy tờ.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0013",
+          "level": "listen",
+          "text": "九点参加培训。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "培训室在哪儿？",
+              "id": "s52_1_0013_reply01",
+              "meaning_vi": "Phòng đào tạo ở đâu?"
+            },
+            {
+              "text": "好，我九点过去。",
+              "id": "s52_1_0013_reply02",
+              "meaning_vi": "Được, chín giờ tôi tới."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“九点”这里要结合上下文确定是上午九点；不清楚时可追问“上午还是下午”。",
+              "text_vi": "“Chín giờ” phải hiểu theo ngữ cảnh là sáng hay tối; chưa rõ hãy hỏi “上午还是下午”."
+            }
+          ],
+          "pinyin": "jiǔ diǎn cān jiā péi xùn",
+          "when_to_use": "HR通知上午九点参加培训，学习准确听懂时间。",
+          "meaning_vi": "Chín giờ tham gia đào tạo.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0014",
+          "level": "listen",
+          "text": "先去二楼。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "电梯在哪儿？",
+              "id": "s52_1_0014_reply01",
+              "meaning_vi": "Thang máy ở đâu?"
+            },
+            {
+              "text": "人事部在二楼吗？",
+              "id": "s52_1_0014_reply02",
+              "meaning_vi": "Phòng nhân sự ở tầng hai à?"
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“先去二楼”只说先到的楼层，没有明确最终房间；到楼上还可以继续问。",
+              "text_vi": "“Lên tầng hai trước” chỉ cho biết tầng, chưa xác định phòng nào; lên đó có thể hỏi tiếp."
+            }
+          ],
+          "pinyin": "xiān qù èr lóu",
+          "when_to_use": "工作人员让你先上二楼，再找办公室或培训室。",
+          "meaning_vi": "Trước tiên lên tầng hai.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0015",
+          "level": "listen",
+          "text": "材料交给人事。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在送过去。",
+              "id": "s52_1_0015_reply01",
+              "meaning_vi": "Được, tôi mang đến ngay."
+            },
+            {
+              "text": "要交原件吗？",
+              "id": "s52_1_0015_reply02",
+              "meaning_vi": "Có phải nộp bản gốc không?"
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“交给人事”要区分证件原件临时核验与交复印件；不应让人无故扣押个人证件。",
+              "text_vi": "“Giao cho nhân sự” cần phân biệt đưa bản gốc đối chiếu tạm thời và nộp bản sao; không để bị giữ giấy tờ vô cớ."
+            }
+          ],
+          "pinyin": "cái liào jiāo gěi rén shì",
+          "when_to_use": "人事提醒把缺少的入职材料交到HR部门。",
+          "meaning_vi": "Nộp hồ sơ cho phòng nhân sự.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0016",
+          "level": "listen",
+          "text": "下午领工牌。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "几点可以领？",
+              "id": "s52_1_0016_reply01",
+              "meaning_vi": "Mấy giờ nhận được?"
+            },
+            {
+              "text": "到哪里领？",
+              "id": "s52_1_0016_reply02",
+              "meaning_vi": "Đến đâu nhận?"
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“下午”是中午以后，不等于准确两点；需要具体取件时间可再问“几点”。",
+              "text_vi": "“Buổi chiều” là sau trưa, không nhất thiết đúng hai giờ; muốn chính xác hãy hỏi mấy giờ."
+            }
+          ],
+          "pinyin": "xià wǔ lǐng gōng pái",
+          "when_to_use": "新员工完成上午报到后，下午需要去领取工牌。",
+          "meaning_vi": "Chiều đến nhận thẻ nhân viên.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0017",
+          "level": "listen",
+          "text": "培训完去找主管。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "主管在哪里？",
+              "id": "s52_1_0017_reply01",
+              "meaning_vi": "Người quản lý ở đâu?"
+            },
+            {
+              "text": "好，培训完就去。",
+              "id": "s52_1_0017_reply02",
+              "meaning_vi": "Được, đào tạo xong tôi đến ngay."
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“培训完”指培训结束之后，不是培训开始之前；不清楚主管是谁时可追问。",
+              "text_vi": "“Đào tạo xong” nghĩa là sau khi kết thúc đào tạo, không phải trước khi học; có thể hỏi tên quản lý."
+            }
+          ],
+          "pinyin": "péi xùn wán qù zhǎo zhǔ guǎn",
+          "when_to_use": "培训人员说培训结束后去找主管，练习听懂先后顺序。",
+          "meaning_vi": "Đào tạo xong hãy tìm người quản lý trực tiếp.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        },
+        {
+          "id": "s52_1_0018",
+          "level": "listen",
+          "text": "报到后去培训室。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "培训室在哪儿？",
+              "id": "s52_1_0018_reply01",
+              "meaning_vi": "Phòng đào tạo ở đâu?"
+            },
+            {
+              "text": "先登记完再去吧？",
+              "id": "s52_1_0018_reply02",
+              "meaning_vi": "Đăng ký xong rồi mới đến, đúng không?"
+            }
+          ],
+          "lesson_id": "52.1",
+          "lesson_title": "52.1 第一天报到",
+          "mistakes": [
+            {
+              "text": "“报到后”表示先办理到场手续、再去培训室；不要和“上岗后”混淆。",
+              "text_vi": "“Sau khi trình diện” là làm thủ tục đến nơi trước rồi mới tới phòng đào tạo, không phải sau khi chính thức làm việc."
+            }
+          ],
+          "pinyin": "bào dào hòu qù péi xùn shì",
+          "when_to_use": "人事说明报到结束后到培训室，练习听懂下一步地点。",
+          "meaning_vi": "Trình diện xong hãy đến phòng đào tạo.",
+          "lesson_title_vi": "52.1 Ngày đầu tiên nhận việc"
+        }
+      ],
+      "title_vi": "52.1 Ngày đầu tiên nhận việc",
+      "subtitle_vi": "21 thẻ giao tiếp",
+      "opening_vi": "Luyện trình diện ngày đầu, tìm phòng nhân sự, nộp hồ sơ, hỏi thời gian đào tạo, hợp đồng và thẻ nhân viên. Trước khi đi làm phải xác nhận đủ điều kiện hợp pháp."
+    },
+    {
+      "id": "52.2",
+      "title": "52.2 找主管、工位和第一项任务",
+      "phrases": [
+        {
+          "id": "s52_2_0001",
+          "level": "must",
+          "text": "我的主管是谁？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "是王主管。",
+              "id": "s52_2_0001_reply01",
+              "meaning_vi": "Là quản lý Vương."
+            },
+            {
+              "text": "你归张组长负责。",
+              "id": "s52_2_0001_reply02",
+              "meaning_vi": "Bạn thuộc tổ do tổ trưởng Trương phụ trách."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ de zhǔ guǎn shì shéi",
+          "when_to_use": "新员工第一次到岗，遇到“我的主管是谁？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Ai là người quản lý trực tiếp của tôi?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0002",
+          "level": "must",
+          "text": "今天谁带我？",
+          "alternatives": [
+            {
+              "text": "谁负责带我？",
+              "id": "s52_2_0002_alt01",
+              "meaning_vi": "Ai phụ trách hướng dẫn tôi?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "王师傅带你。",
+              "id": "s52_2_0002_reply01",
+              "meaning_vi": "Thợ Vương hướng dẫn bạn."
+            },
+            {
+              "text": "先跟小张学。",
+              "id": "s52_2_0002_reply02",
+              "meaning_vi": "Trước tiên học cùng Tiểu Trương."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "jīn tiān shéi dài wǒ",
+          "when_to_use": "新员工第一次到岗，遇到“今天谁带我？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Hôm nay ai hướng dẫn tôi?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0003",
+          "level": "must",
+          "text": "工作向谁汇报？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "直接跟王主管说。",
+              "id": "s52_2_0003_reply01",
+              "meaning_vi": "Báo trực tiếp cho quản lý Vương."
+            },
+            {
+              "text": "先找你们组长。",
+              "id": "s52_2_0003_reply02",
+              "meaning_vi": "Trước tiên tìm tổ trưởng của nhóm bạn."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "gōng zuò xiàng shéi huì bào",
+          "when_to_use": "新员工第一次到岗，遇到“工作向谁汇报？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Tôi báo cáo công việc cho ai?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0004",
+          "level": "must",
+          "text": "我的岗位是什么？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "你是包装员。",
+              "id": "s52_2_0004_reply01",
+              "meaning_vi": "Bạn làm nhân viên đóng gói."
+            },
+            {
+              "text": "你做仓库理货。",
+              "id": "s52_2_0004_reply02",
+              "meaning_vi": "Bạn làm công việc sắp xếp hàng trong kho."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ de gǎng wèi shì shén me",
+          "when_to_use": "新员工第一次到岗，遇到“我的岗位是什么？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Vị trí công việc của tôi là gì?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0005",
+          "level": "must",
+          "text": "我在哪儿上班？",
+          "alternatives": [
+            {
+              "text": "我的工位在哪儿？",
+              "id": "s52_2_0005_alt01",
+              "meaning_vi": "Chỗ làm việc của tôi ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在车间三号线。",
+              "id": "s52_2_0005_reply01",
+              "meaning_vi": "Ở dây chuyền số ba trong xưởng."
+            },
+            {
+              "text": "就在这边工位。",
+              "id": "s52_2_0005_reply02",
+              "meaning_vi": "Ngay vị trí làm việc bên này."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ zài nǎr shàng bān",
+          "when_to_use": "新员工第一次到岗，遇到“我在哪儿上班？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Tôi làm việc ở đâu?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0006",
+          "level": "must",
+          "text": "我负责什么？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "你负责打包。",
+              "id": "s52_2_0006_reply01",
+              "meaning_vi": "Bạn phụ trách đóng gói."
+            },
+            {
+              "text": "先负责贴标签。",
+              "id": "s52_2_0006_reply02",
+              "meaning_vi": "Trước tiên phụ trách dán nhãn."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ fù zé shén me",
+          "when_to_use": "新员工第一次到岗，遇到“我负责什么？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Tôi phụ trách việc gì?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0007",
+          "level": "must",
+          "text": "今天先做什么？",
+          "alternatives": [
+            {
+              "text": "我今天做什么？",
+              "id": "s52_2_0007_alt01",
+              "meaning_vi": "Hôm nay tôi phải làm những gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看操作流程。",
+              "id": "s52_2_0007_reply01",
+              "meaning_vi": "Xem quy trình thao tác trước."
+            },
+            {
+              "text": "先跟小张学。",
+              "id": "s52_2_0007_reply02",
+              "meaning_vi": "Học cùng Tiểu Trương trước."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "第一次操作机器或工具前，应先接受现场培训和安全指导。",
+              "text_vi": "Lần đầu vận hành máy hoặc dùng dụng cụ phải được đào tạo tại chỗ và hướng dẫn an toàn trước."
+            }
+          ],
+          "pinyin": "jīn tiān xiān zuò shén me",
+          "when_to_use": "新员工第一次到岗，遇到“今天先做什么？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Hôm nay tôi làm gì trước?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0008",
+          "level": "must",
+          "text": "工具放哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "柜子第二层。",
+              "id": "s52_2_0008_reply01",
+              "meaning_vi": "Ngăn thứ hai của tủ."
+            },
+            {
+              "text": "在墙边工具架上。",
+              "id": "s52_2_0008_reply02",
+              "meaning_vi": "Trên giá dụng cụ cạnh tường."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "gōng jù fàng nǎr",
+          "when_to_use": "新员工第一次到岗，遇到“工具放哪儿？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Dụng cụ để ở đâu?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0009",
+          "level": "must",
+          "text": "主管是哪位？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这位是王主管。",
+              "id": "s52_2_0009_reply01",
+              "meaning_vi": "Đây là quản lý Vương."
+            },
+            {
+              "text": "那位是张主管。",
+              "id": "s52_2_0009_reply02",
+              "meaning_vi": "Kia là quản lý Trương."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "zhǔ guǎn shì nǎ wèi",
+          "when_to_use": "新员工第一次到岗，遇到“主管是哪位？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Ai là người quản lý?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0010",
+          "level": "must",
+          "text": "我坐哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "坐靠窗的位置。",
+              "id": "s52_2_0010_reply01",
+              "meaning_vi": "Ngồi chỗ cạnh cửa sổ."
+            },
+            {
+              "text": "你的座位在那边。",
+              "id": "s52_2_0010_reply02",
+              "meaning_vi": "Chỗ ngồi của bạn ở bên kia."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ zuò nǎr",
+          "when_to_use": "新员工第一次到岗，遇到“我坐哪儿？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Tôi ngồi ở đâu?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0011",
+          "level": "must",
+          "text": "我先做哪一项？",
+          "alternatives": [
+            {
+              "text": "先做哪一项？",
+              "id": "s52_2_0011_alt01",
+              "meaning_vi": "Trước tiên làm mục nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先贴产品标签。",
+              "id": "s52_2_0011_reply01",
+              "meaning_vi": "Dán nhãn sản phẩm trước."
+            },
+            {
+              "text": "先把这箱货点清。",
+              "id": "s52_2_0011_reply02",
+              "meaning_vi": "Kiểm đếm đủ hàng trong thùng này trước."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "wǒ xiān zuò nǎ yí xiàng",
+          "when_to_use": "新员工第一次到岗，遇到“我先做哪一项？”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Tôi làm mục nào trước?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0020",
+          "level": "must",
+          "text": "能先教我一遍吗？",
+          "alternatives": [
+            {
+              "text": "可以先示范一下吗？",
+              "id": "s52_2_0020_alt01",
+              "meaning_vi": "Có thể làm mẫu cho tôi xem không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "可以，你先看我操作。",
+              "id": "s52_2_0020_reply01",
+              "meaning_vi": "Được, trước tiên xem tôi thao tác."
+            },
+            {
+              "text": "先做安全培训，再动手。",
+              "id": "s52_2_0020_reply02",
+              "meaning_vi": "Phải học an toàn trước rồi mới tự làm."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "pinyin": "néng xiān jiāo wǒ yí biàn ma",
+          "when_to_use": "入职第一天遇到“能先教我一遍吗？”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu khi nhận việc; giấy phép lao động, hợp đồng và an toàn thiết bị phải dựa vào thủ tục, đào tạo và nội quy thực tế."
+            }
+          ],
+          "meaning_vi": "Bạn hướng dẫn cho tôi một lần trước được không?",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0021",
+          "level": "must",
+          "text": "这台机器我不会操作。",
+          "alternatives": [
+            {
+              "text": "我还不会用这台机器。",
+              "id": "s52_2_0021_alt01",
+              "meaning_vi": "Tôi vẫn chưa biết dùng máy này."
+            }
+          ],
+          "replies": [
+            {
+              "text": "那先别动，我叫师傅来。",
+              "id": "s52_2_0021_reply01",
+              "meaning_vi": "Vậy đừng động vào, để tôi gọi người hướng dẫn."
+            },
+            {
+              "text": "先培训，学会后再操作。",
+              "id": "s52_2_0021_reply02",
+              "meaning_vi": "Phải được đào tạo, biết rồi mới thao tác."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "pinyin": "zhè tái jī qì wǒ bú huì cāo zuò",
+          "when_to_use": "入职第一天遇到“这台机器我不会操作。”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu khi nhận việc; giấy phép lao động, hợp đồng và an toàn thiết bị phải dựa vào thủ tục, đào tạo và nội quy thực tế."
+            }
+          ],
+          "meaning_vi": "Tôi chưa biết vận hành máy này.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0022",
+          "level": "must",
+          "text": "我没听清，请再说一遍。",
+          "alternatives": [
+            {
+              "text": "麻烦再说一遍。",
+              "id": "s52_2_0022_alt01",
+              "meaning_vi": "Phiền nói lại lần nữa."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我说慢一点。",
+              "id": "s52_2_0022_reply01",
+              "meaning_vi": "Được, tôi nói chậm hơn."
+            },
+            {
+              "text": "我再演示一次。",
+              "id": "s52_2_0022_reply02",
+              "meaning_vi": "Tôi làm mẫu lại một lần."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "pinyin": "wǒ méi tīng qīng qǐng zài shuō yí biàn",
+          "when_to_use": "入职第一天遇到“我没听清，请再说一遍。”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu khi nhận việc; giấy phép lao động, hợp đồng và an toàn thiết bị phải dựa vào thủ tục, đào tạo và nội quy thực tế."
+            }
+          ],
+          "meaning_vi": "Tôi nghe không rõ, xin nhắc lại.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0012",
+          "level": "listen",
+          "text": "王师傅带你。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去找他。",
+              "id": "s52_2_0012_reply01",
+              "meaning_vi": "Được, tôi đến tìm anh ấy."
+            },
+            {
+              "text": "王师傅在哪儿？",
+              "id": "s52_2_0012_reply02",
+              "meaning_vi": "Thợ Vương ở đâu?"
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "wáng shī fu dài nǐ",
+          "when_to_use": "新员工第一次到岗，遇到“王师傅带你。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Thợ Vương sẽ hướng dẫn bạn.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0013",
+          "level": "listen",
+          "text": "有事先找组长。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "组长是谁？",
+              "id": "s52_2_0013_reply01",
+              "meaning_vi": "Tổ trưởng là ai?"
+            },
+            {
+              "text": "好，有问题我先问他。",
+              "id": "s52_2_0013_reply02",
+              "meaning_vi": "Được, có vấn đề tôi sẽ hỏi tổ trưởng trước."
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "yǒu shì xiān zhǎo zǔ zhǎng",
+          "when_to_use": "新员工第一次到岗，遇到“有事先找组长。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Có việc thì tìm tổ trưởng trước.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0014",
+          "level": "listen",
+          "text": "以后先向主管汇报。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我记住了。",
+              "id": "s52_2_0014_reply01",
+              "meaning_vi": "Được, tôi nhớ rồi."
+            },
+            {
+              "text": "每天都要汇报吗？",
+              "id": "s52_2_0014_reply02",
+              "meaning_vi": "Ngày nào cũng phải báo cáo à?"
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "yǐ hòu xiān xiàng zhǔ guǎn huì bào",
+          "when_to_use": "新员工第一次到岗，遇到“以后先向主管汇报。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Sau này hãy báo cáo cho quản lý trước.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0015",
+          "level": "listen",
+          "text": "你负责打包。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先包哪一批？",
+              "id": "s52_2_0015_reply01",
+              "meaning_vi": "Đóng gói lô hàng nào trước?"
+            },
+            {
+              "text": "需要先培训吗？",
+              "id": "s52_2_0015_reply02",
+              "meaning_vi": "Có cần đào tạo trước không?"
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "nǐ fù zé dǎ bāo",
+          "when_to_use": "新员工第一次到岗，遇到“你负责打包。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Bạn phụ trách đóng gói.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0016",
+          "level": "listen",
+          "text": "工位在那边。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "谢谢，我过去。",
+              "id": "s52_2_0016_reply01",
+              "meaning_vi": "Cảm ơn, tôi qua đó."
+            },
+            {
+              "text": "是靠门那个吗？",
+              "id": "s52_2_0016_reply02",
+              "meaning_vi": "Là chỗ gần cửa à?"
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "gōng wèi zài nà biān",
+          "when_to_use": "新员工第一次到岗，遇到“工位在那边。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Vị trí làm việc ở bên kia.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0017",
+          "level": "listen",
+          "text": "先跟着小张。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去找他。",
+              "id": "s52_2_0017_reply01",
+              "meaning_vi": "Được, tôi đến tìm anh ấy."
+            },
+            {
+              "text": "小张是哪位？",
+              "id": "s52_2_0017_reply02",
+              "meaning_vi": "Tiểu Trương là ai?"
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "xiān gēn zhe xiǎo zhāng",
+          "when_to_use": "新员工第一次到岗，遇到“先跟着小张。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Trước tiên theo Tiểu Trương.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0018",
+          "level": "listen",
+          "text": "工具在柜子里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "哪个柜子？",
+              "id": "s52_2_0018_reply01",
+              "meaning_vi": "Tủ nào?"
+            },
+            {
+              "text": "拿完要放回去吗？",
+              "id": "s52_2_0018_reply02",
+              "meaning_vi": "Lấy xong có cần trả lại không?"
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "gōng jù zài guì zi lǐ",
+          "when_to_use": "新员工第一次到岗，遇到“工具在柜子里。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Dụng cụ ở trong tủ.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        },
+        {
+          "id": "s52_2_0019",
+          "level": "listen",
+          "text": "上午先看流程。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先跟着学。",
+              "id": "s52_2_0019_reply01",
+              "meaning_vi": "Được, tôi theo học trước."
+            },
+            {
+              "text": "下午再动手吗？",
+              "id": "s52_2_0019_reply02",
+              "meaning_vi": "Chiều tôi mới tự làm à?"
+            }
+          ],
+          "lesson_id": "52.2",
+          "lesson_title": "52.2 找主管、工位和第一项任务",
+          "mistakes": [
+            {
+              "text": "“工位”“主管”“组长”“具体任务”各不相同；机器、工具和危险工序须先接受培训，不能只凭听到任务名称就操作。",
+              "text_vi": "Vị trí làm việc, quản lý trực tiếp, tổ trưởng và nhiệm vụ là những khái niệm khác nhau; phải được đào tạo trước khi dùng máy móc hay thực hiện công đoạn nguy hiểm."
+            }
+          ],
+          "pinyin": "shàng wǔ xiān kàn liú chéng",
+          "when_to_use": "新员工第一次到岗，遇到“上午先看流程。”这样的任务、位置或人员安排时，及时确认后再行动。",
+          "meaning_vi": "Buổi sáng xem quy trình trước.",
+          "lesson_title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên"
+        }
+      ],
+      "title_vi": "52.2 Tìm quản lý, vị trí làm việc và nhiệm vụ đầu tiên",
+      "subtitle_vi": "22 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi ai hướng dẫn, báo cáo cho ai, vị trí làm việc, công đoạn, dụng cụ và nhiệm vụ. Trước khi vận hành máy phải được đào tạo về an toàn."
+    },
+    {
+      "id": "52.3",
+      "title": "52.3 工牌制服与上岗规则",
+      "phrases": [
+        {
+          "id": "s52_3_0001",
+          "level": "must",
+          "text": "工牌在哪儿领？",
+          "alternatives": [
+            {
+              "text": "哪里领工牌？",
+              "id": "s52_3_0001_alt01",
+              "meaning_vi": "Thẻ nhân viên nhận ở đâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "去人事部领。",
+              "id": "s52_3_0001_reply01",
+              "meaning_vi": "Đến phòng nhân sự nhận."
+            },
+            {
+              "text": "前台可以领。",
+              "id": "s52_3_0001_reply02",
+              "meaning_vi": "Có thể nhận tại lễ tân."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "gōng pái zài nǎr lǐng",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“工牌在哪儿领？”对应的现场要求。",
+          "meaning_vi": "Nhận thẻ nhân viên ở đâu?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0002",
+          "level": "must",
+          "text": "要穿工作服吗？",
+          "alternatives": [
+            {
+              "text": "必须穿工作服吗？",
+              "id": "s52_3_0002_alt01",
+              "meaning_vi": "Bắt buộc mặc đồ làm việc không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，上班必须穿。",
+              "id": "s52_3_0002_reply01",
+              "meaning_vi": "Có, khi làm phải mặc."
+            },
+            {
+              "text": "不用，穿便服就行。",
+              "id": "s52_3_0002_reply02",
+              "meaning_vi": "Không, mặc đồ bình thường được."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "yào chuān gōng zuò fú ma",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“要穿工作服吗？”对应的现场要求。",
+          "meaning_vi": "Có phải mặc đồng phục không?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0003",
+          "level": "must",
+          "text": "工作服放哪儿？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "放在更衣室。",
+              "id": "s52_3_0003_reply01",
+              "meaning_vi": "Để trong phòng thay đồ."
+            },
+            {
+              "text": "在你自己的柜子里。",
+              "id": "s52_3_0003_reply02",
+              "meaning_vi": "Trong tủ riêng của bạn."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "gōng zuò fú fàng nǎr",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“工作服放哪儿？”对应的现场要求。",
+          "meaning_vi": "Đồng phục để ở đâu?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0004",
+          "level": "must",
+          "text": "要戴帽子吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要，进车间得戴。",
+              "id": "s52_3_0004_reply01",
+              "meaning_vi": "Có, vào xưởng phải đội."
+            },
+            {
+              "text": "这个区域不用戴。",
+              "id": "s52_3_0004_reply02",
+              "meaning_vi": "Khu này không cần đội."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "yào dài mào zi ma",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“要戴帽子吗？”对应的现场要求。",
+          "meaning_vi": "Có phải đội mũ không?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0005",
+          "level": "must",
+          "text": "手机能带进去吗？",
+          "alternatives": [
+            {
+              "text": "能带手机吗？",
+              "id": "s52_3_0005_alt01",
+              "meaning_vi": "Được mang điện thoại không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不行，放储物柜里。",
+              "id": "s52_3_0005_reply01",
+              "meaning_vi": "Không, để trong tủ đồ."
+            },
+            {
+              "text": "可以带，但不能拍照。",
+              "id": "s52_3_0005_reply02",
+              "meaning_vi": "Có thể mang, nhưng không được chụp ảnh."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "可否携带手机与能否拍照是不同的规定，需要分别确认。",
+              "text_vi": "Được mang điện thoại vào và được chụp ảnh là hai quy định khác nhau; cần hỏi riêng từng việc."
+            }
+          ],
+          "pinyin": "shǒu jī néng dài jìn qù ma",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“手机能带进去吗？”对应的现场要求。",
+          "meaning_vi": "Có thể mang điện thoại vào không?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0006",
+          "level": "must",
+          "text": "有什么规定？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "进车间要穿安全鞋。",
+              "id": "s52_3_0006_reply01",
+              "meaning_vi": "Vào xưởng phải mang giày bảo hộ."
+            },
+            {
+              "text": "离岗前要通知组长。",
+              "id": "s52_3_0006_reply02",
+              "meaning_vi": "Trước khi rời vị trí phải báo tổ trưởng."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "yǒu shén me guī dìng",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“有什么规定？”对应的现场要求。",
+          "meaning_vi": "Có những quy định gì?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0007",
+          "level": "must",
+          "text": "必须穿制服吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "必须穿，统一发放。",
+              "id": "s52_3_0007_reply01",
+              "meaning_vi": "Bắt buộc, công ty phát thống nhất."
+            },
+            {
+              "text": "办公区不用穿。",
+              "id": "s52_3_0007_reply02",
+              "meaning_vi": "Khu văn phòng không cần mặc."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "bì xū chuān zhì fu ma",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“必须穿制服吗？”对应的现场要求。",
+          "meaning_vi": "Bắt buộc mặc đồng phục à?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0008",
+          "level": "must",
+          "text": "工牌要一直戴吗？",
+          "alternatives": [
+            {
+              "text": "工牌得一直戴吗？",
+              "id": "s52_3_0008_alt01",
+              "meaning_vi": "Phải đeo thẻ mọi lúc à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "上班期间要戴。",
+              "id": "s52_3_0008_reply01",
+              "meaning_vi": "Trong giờ làm phải đeo."
+            },
+            {
+              "text": "进出厂区要刷卡。",
+              "id": "s52_3_0008_reply02",
+              "meaning_vi": "Ra vào khu nhà máy phải quét thẻ."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "gōng pái yào yì zhí dài ma",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“工牌要一直戴吗？”对应的现场要求。",
+          "meaning_vi": "Có phải luôn đeo thẻ nhân viên không?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0009",
+          "level": "must",
+          "text": "柜子有钥匙吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有，钥匙在这里。",
+              "id": "s52_3_0009_reply01",
+              "meaning_vi": "Có, chìa khóa ở đây."
+            },
+            {
+              "text": "没有，用密码锁。",
+              "id": "s52_3_0009_reply02",
+              "meaning_vi": "Không, dùng khóa số."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "guì zi yǒu yào shi ma",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“柜子有钥匙吗？”对应的现场要求。",
+          "meaning_vi": "Tủ có chìa khóa không?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0010",
+          "level": "must",
+          "text": "安全鞋自己买吗？",
+          "alternatives": [
+            {
+              "text": "安全鞋要自己出钱吗？",
+              "id": "s52_3_0010_alt01",
+              "meaning_vi": "Phải tự trả tiền mua giày bảo hộ à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "不用，公司会发。",
+              "id": "s52_3_0010_reply01",
+              "meaning_vi": "Không, công ty sẽ cấp."
+            },
+            {
+              "text": "先去仓库领一双。",
+              "id": "s52_3_0010_reply02",
+              "meaning_vi": "Trước tiên đến kho nhận một đôi."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "安全防护用品的发放和费用应按适用规定核实，不能默认必须自己购买。",
+              "text_vi": "Việc cấp đồ bảo hộ và ai chịu phí tùy quy định áp dụng; không được mặc định người lao động phải tự mua."
+            }
+          ],
+          "pinyin": "ān quán xié zì jǐ mǎi ma",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“安全鞋自己买吗？”对应的现场要求。",
+          "meaning_vi": "Giày bảo hộ phải tự mua à?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0019",
+          "level": "must",
+          "text": "今天要打卡吗？",
+          "alternatives": [
+            {
+              "text": "第一天也要打卡吗？",
+              "id": "s52_3_0019_alt01",
+              "meaning_vi": "Ngày đầu cũng phải chấm công à?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "要，先到门口打卡。",
+              "id": "s52_3_0019_reply01",
+              "meaning_vi": "Có, đến cổng chấm công trước."
+            },
+            {
+              "text": "今天先由人事登记。",
+              "id": "s52_3_0019_reply02",
+              "meaning_vi": "Hôm nay phòng nhân sự đăng ký cho bạn."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "pinyin": "jīn tiān yào dǎ kǎ ma",
+          "when_to_use": "入职第一天遇到“今天要打卡吗？”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu khi nhận việc; giấy phép lao động, hợp đồng và an toàn thiết bị phải dựa vào thủ tục, đào tạo và nội quy thực tế."
+            }
+          ],
+          "meaning_vi": "Hôm nay có phải chấm công không?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0020",
+          "level": "must",
+          "text": "工作服有大一点的吗？",
+          "alternatives": [
+            {
+              "text": "能换大一码吗？",
+              "id": "s52_3_0020_alt01",
+              "meaning_vi": "Có thể đổi cỡ lớn hơn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "有，我帮你换。",
+              "id": "s52_3_0020_reply01",
+              "meaning_vi": "Có, tôi đổi giúp."
+            },
+            {
+              "text": "先试穿，看看合不合身。",
+              "id": "s52_3_0020_reply02",
+              "meaning_vi": "Mặc thử xem vừa không."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "pinyin": "gōng zuò fú yǒu dà yì diǎn de ma",
+          "when_to_use": "入职第一天遇到“工作服有大一点的吗？”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu khi nhận việc; giấy phép lao động, hợp đồng và an toàn thiết bị phải dựa vào thủ tục, đào tạo và nội quy thực tế."
+            }
+          ],
+          "meaning_vi": "Có đồng phục lớn hơn một chút không?",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0021",
+          "level": "must",
+          "text": "这个地方有安全隐患。",
+          "alternatives": [
+            {
+              "text": "这里不太安全。",
+              "id": "s52_3_0021_alt01",
+              "meaning_vi": "Khu này không an toàn lắm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别靠近，我通知主管。",
+              "id": "s52_3_0021_reply01",
+              "meaning_vi": "Đừng đến gần trước, tôi báo quản lý."
+            },
+            {
+              "text": "具体哪里有问题？",
+              "id": "s52_3_0021_reply02",
+              "meaning_vi": "Cụ thể chỗ nào có vấn đề?"
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "pinyin": "zhè ge dì fang yǒu ān quán yǐn huàn",
+          "when_to_use": "入职第一天遇到“这个地方有安全隐患。”这一实际沟通需求时，及时询问或报告，涉及工作资格和设备安全时先核对再操作。",
+          "mistakes": [
+            {
+              "text": "这是具体入职场景的口语示例；涉及工作许可、合同和设备安全，应以实际手续、培训与现场规定为准。",
+              "text_vi": "Đây là câu mẫu khi nhận việc; giấy phép lao động, hợp đồng và an toàn thiết bị phải dựa vào thủ tục, đào tạo và nội quy thực tế."
+            }
+          ],
+          "meaning_vi": "Chỗ này có nguy cơ mất an toàn.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0011",
+          "level": "listen",
+          "text": "上班必须戴工牌。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "工牌在哪儿领？",
+              "id": "s52_3_0011_reply01",
+              "meaning_vi": "Nhận thẻ ở đâu?"
+            },
+            {
+              "text": "好，我会戴着。",
+              "id": "s52_3_0011_reply02",
+              "meaning_vi": "Được, tôi sẽ đeo."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "shàng bān bì xū dài gōng pái",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“上班必须戴工牌。”对应的现场要求。",
+          "meaning_vi": "Trong giờ làm phải đeo thẻ nhân viên.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0012",
+          "level": "listen",
+          "text": "进车间要换鞋。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "鞋在哪儿领？",
+              "id": "s52_3_0012_reply01",
+              "meaning_vi": "Nhận giày ở đâu?"
+            },
+            {
+              "text": "有我的尺码吗？",
+              "id": "s52_3_0012_reply02",
+              "meaning_vi": "Có cỡ chân tôi không?"
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "jìn chē jiān yào huàn xié",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“进车间要换鞋。”对应的现场要求。",
+          "meaning_vi": "Vào xưởng phải thay giày.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0013",
+          "level": "listen",
+          "text": "手机放柜子里。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "柜子在哪儿？",
+              "id": "s52_3_0013_reply01",
+              "meaning_vi": "Tủ ở đâu?"
+            },
+            {
+              "text": "好，我先放好。",
+              "id": "s52_3_0013_reply02",
+              "meaning_vi": "Được, để tôi cất trước."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "shǒu jī fàng guì zi lǐ",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“手机放柜子里。”对应的现场要求。",
+          "meaning_vi": "Để điện thoại trong tủ.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0014",
+          "level": "listen",
+          "text": "这里不能拍照。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "明白，我不拍。",
+              "id": "s52_3_0014_reply01",
+              "meaning_vi": "Tôi hiểu, tôi sẽ không chụp."
+            },
+            {
+              "text": "哪里可以拍？",
+              "id": "s52_3_0014_reply02",
+              "meaning_vi": "Chỗ nào được chụp ảnh?"
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "zhè lǐ bù néng pāi zhào",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“这里不能拍照。”对应的现场要求。",
+          "meaning_vi": "Ở đây không được chụp ảnh.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0015",
+          "level": "listen",
+          "text": "钥匙要自己保管。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我收好了。",
+              "id": "s52_3_0015_reply01",
+              "meaning_vi": "Được, tôi cất kỹ rồi."
+            },
+            {
+              "text": "丢了要找谁？",
+              "id": "s52_3_0015_reply02",
+              "meaning_vi": "Làm mất thì tìm ai?"
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "yào shi yào zì jǐ bǎo guǎn",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“钥匙要自己保管。”对应的现场要求。",
+          "meaning_vi": "Phải tự giữ chìa khóa.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0016",
+          "level": "listen",
+          "text": "进工作区要戴帽子。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "帽子在哪儿领？",
+              "id": "s52_3_0016_reply01",
+              "meaning_vi": "Nhận mũ ở đâu?"
+            },
+            {
+              "text": "好，我现在戴上。",
+              "id": "s52_3_0016_reply02",
+              "meaning_vi": "Được, tôi đội ngay."
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "jìn gōng zuò qū yào dài mào zi",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“进工作区要戴帽子。”对应的现场要求。",
+          "meaning_vi": "Vào khu làm việc phải đội mũ.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0017",
+          "level": "listen",
+          "text": "离岗前先跟主管说。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我会先说。",
+              "id": "s52_3_0017_reply01",
+              "meaning_vi": "Được, tôi sẽ báo trước."
+            },
+            {
+              "text": "找不到主管怎么办？",
+              "id": "s52_3_0017_reply02",
+              "meaning_vi": "Không tìm thấy quản lý thì sao?"
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "lí gǎng qián xiān gēn zhǔ guǎn shuō",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“离岗前先跟主管说。”对应的现场要求。",
+          "meaning_vi": "Trước khi rời vị trí phải báo quản lý.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        },
+        {
+          "id": "s52_3_0018",
+          "level": "listen",
+          "text": "要遵守安全规定。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "请告诉我注意什么。",
+              "id": "s52_3_0018_reply01",
+              "meaning_vi": "Xin cho tôi biết phải chú ý gì."
+            },
+            {
+              "text": "有安全培训吗？",
+              "id": "s52_3_0018_reply02",
+              "meaning_vi": "Có đào tạo an toàn không?"
+            }
+          ],
+          "lesson_id": "52.3",
+          "lesson_title": "52.3 工牌制服与上岗规则",
+          "mistakes": [
+            {
+              "text": "不同工作区域的工牌、制服及安全防护要求可能不同；涉及安全鞋、帽子或机器操作时，应以现场培训和具体危险防护要求为准。",
+              "text_vi": "Mỗi khu làm việc có quy định riêng về thẻ, đồng phục và bảo hộ; giày bảo hộ, mũ và vận hành máy phải tuân thủ đào tạo và yêu cầu an toàn tại chỗ."
+            }
+          ],
+          "pinyin": "yào zūn shǒu ān quán guī dìng",
+          "when_to_use": "新员工领取工牌、工作服或进入车间前，听懂并确认“要遵守安全规定。”对应的现场要求。",
+          "meaning_vi": "Phải tuân thủ quy định an toàn.",
+          "lesson_title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc"
+        }
+      ],
+      "title_vi": "52.3 Thẻ nhân viên, đồng phục và an toàn khi làm việc",
+      "subtitle_vi": "21 thẻ giao tiếp",
+      "opening_vi": "Luyện nhận thẻ, mặc đồng phục, đội mũ, đi giày bảo hộ, bảo quản đồ đạc và nhận biết nguy hiểm trong xưởng. Phải tuân thủ quy trình an toàn."
+    }
+  ],
+  "theme_title_vi": "52 Nhận việc và định hướng ban đầu",
+  "card_count": 64,
+  "lesson_counts": [
+    21,
+    22,
+    21
+  ]
+}
