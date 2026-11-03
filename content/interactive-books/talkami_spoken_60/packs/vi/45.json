@@ -1,0 +1,2876 @@
+{
+  "theme_id": "45",
+  "version": 1,
+  "updated_at": "2026-11-03T00:00:00Z",
+  "theme_title": "45 药店用药",
+  "quality_standard": "Vietnamese main/alternative/reply translations complete. Original Chinese, pinyin, IDs and source note wording preserved. Vietnamese note text is interim general safety guidance; full source-specific note review and native-language editorial QA still pending. Emergency number 120 is for China as in original material.",
+  "source_phrase_count": 86,
+  "lessons": [
+    {
+      "id": "45.1",
+      "title": "45.1 药店买药",
+      "phrases": [
+        {
+          "id": "s45_1_0001",
+          "level": "must",
+          "text": "我想买感冒药。",
+          "alternatives": [
+            {
+              "text": "我想买点感冒药。",
+              "id": "s45_1_0001_alt01",
+              "meaning_vi": "Tôi muốn mua một ít thuốc cảm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "有什么症状？",
+              "id": "s45_1_0001_reply01",
+              "meaning_vi": "Bạn có những triệu chứng gì?"
+            },
+            {
+              "text": "有没有发烧？",
+              "id": "s45_1_0001_reply02",
+              "meaning_vi": "Bạn có bị sốt không?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "wǒ xiǎng mǎi gǎn mào yào",
+          "when_to_use": "到药店想买感冒药，先说购买目的，让药师进一步询问症状。",
+          "mistakes": [
+            {
+              "text": "“感冒药”不是某一种固定成分的药；同时使用多个复方感冒药可能出现相同成分重复服用。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi muốn mua thuốc cảm.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi muốn mua thuốc cảm.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0002",
+          "level": "must",
+          "text": "有退烧药吗？",
+          "alternatives": [
+            {
+              "text": "有能退烧的药吗？",
+              "id": "s45_1_0002_alt01",
+              "meaning_vi": "Có thuốc giúp hạ sốt không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "给大人还是小孩？",
+              "id": "s45_1_0002_reply01",
+              "meaning_vi": "Dùng cho người lớn hay trẻ em?"
+            },
+            {
+              "text": "量过体温吗？",
+              "id": "s45_1_0002_reply02",
+              "meaning_vi": "Đã đo nhiệt độ chưa?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "yǒu tuì shāo yào ma",
+          "when_to_use": "自己或家人发烧，到药店先问是否有退烧药，并准备说明年龄和体温。",
+          "mistakes": [
+            {
+              "text": "退烧药是否适用要看年龄、健康状况及具体药物；“有药”不等于“所有人都能吃”。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có thuốc hạ sốt không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Có thuốc hạ sốt không?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0003",
+          "level": "must",
+          "text": "这药我能吃吗？",
+          "alternatives": [
+            {
+              "text": "这药我可以吃吗？",
+              "id": "s45_1_0003_alt01",
+              "meaning_vi": "Tôi có thể uống thuốc này không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "现在有什么症状？",
+              "id": "s45_1_0003_reply01",
+              "meaning_vi": "Bạn đang có triệu chứng gì?"
+            },
+            {
+              "text": "还在吃别的药吗？",
+              "id": "s45_1_0003_reply02",
+              "meaning_vi": "Bạn còn dùng thuốc nào khác không?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zhè yào wǒ néng chī ma",
+          "when_to_use": "手里拿着一盒不熟悉的药，想知道自己目前的情况是否适合服用。",
+          "mistakes": [
+            {
+              "text": "“能吃吗”询问个人适用性，药师需要了解症状、过敏史和正在使用的其他药物，不能只看包装下结论。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi có dùng được thuốc này không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi có dùng được thuốc này không?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0004",
+          "level": "must",
+          "text": "有没有不犯困的药？",
+          "alternatives": [
+            {
+              "text": "有不容易犯困的吗？",
+              "id": "s45_1_0004_alt01",
+              "meaning_vi": "Có loại nào ít gây buồn ngủ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这种可能会犯困。",
+              "id": "s45_1_0004_reply01",
+              "meaning_vi": "Loại này có thể gây buồn ngủ."
+            },
+            {
+              "text": "我帮你找找别的。",
+              "id": "s45_1_0004_reply02",
+              "meaning_vi": "Để tôi tìm loại khác cho bạn."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "yǒu méi yǒu bú fàn kùn de yào",
+          "when_to_use": "第二天要上班或操作机器，不想因吃药犯困，事先告知药师。",
+          "mistakes": [
+            {
+              "text": "“不犯困”不意味着完全没有其他副作用；即使标注不易嗜睡，也要核对注意事项。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có thuốc nào không gây buồn ngủ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Có thuốc nào không gây buồn ngủ không?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0005",
+          "level": "must",
+          "text": "需要处方吗？",
+          "alternatives": [
+            {
+              "text": "买这药要处方吗？",
+              "id": "s45_1_0005_alt01",
+              "meaning_vi": "Mua thuốc này có cần đơn bác sĩ không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "这个要医生处方。",
+              "id": "s45_1_0005_reply01",
+              "meaning_vi": "Thuốc này cần đơn của bác sĩ."
+            },
+            {
+              "text": "这个不用处方。",
+              "id": "s45_1_0005_reply02",
+              "meaning_vi": "Thuốc này không cần đơn."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "xū yào chǔ fāng ma",
+          "mistakes": [
+            {
+              "text": "处方是医生开具的用药文件，不是药品使用说明书。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có cần đơn thuốc không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "看到一种药想购买，但不知道是否必须先拿医生处方。",
+          "meaning_vi": "Có cần đơn thuốc không?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0006",
+          "level": "must",
+          "text": "咳嗽吃什么药？",
+          "alternatives": [
+            {
+              "text": "咳嗽该吃什么药？",
+              "id": "s45_1_0006_alt01",
+              "meaning_vi": "Ho thì nên uống thuốc gì?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "干咳还是有痰？",
+              "id": "s45_1_0006_reply01",
+              "meaning_vi": "Ho khan hay ho có đờm?"
+            },
+            {
+              "text": "咳了多久了？",
+              "id": "s45_1_0006_reply02",
+              "meaning_vi": "Bạn ho bao lâu rồi?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "ké sou chī shén me yào",
+          "when_to_use": "咳嗽来药店求助，先描述症状，再让药师了解是干咳还是有痰。",
+          "mistakes": [
+            {
+              "text": "干咳和有痰的咳嗽表达不同；咳嗽很久、伴呼吸困难或高热时需要就医评估。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Bị ho thì uống thuốc gì?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Bị ho thì uống thuốc gì?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0007",
+          "level": "must",
+          "text": "这药能直接买吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可以，不用处方。",
+              "id": "s45_1_0007_reply01",
+              "meaning_vi": "Được, không cần đơn."
+            },
+            {
+              "text": "这个得凭处方买。",
+              "id": "s45_1_0007_reply02",
+              "meaning_vi": "Thuốc này phải có đơn mới mua được."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zhè yào néng zhí jiē mǎi ma",
+          "when_to_use": "想知道这盒药能否在药店直接买，而不是必须凭处方购买。",
+          "mistakes": [
+            {
+              "text": "“直接买”不等于已经确认适合自己服用；非处方药同样需查看说明书和禁忌。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có thể mua trực tiếp thuốc này không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Có thể mua trực tiếp thuốc này không?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0008",
+          "level": "must",
+          "text": "这个药多少钱？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮你查下价格。",
+              "id": "s45_1_0008_reply01",
+              "meaning_vi": "Để tôi kiểm tra giá giúp bạn."
+            },
+            {
+              "text": "这两种包装价格不一样。",
+              "id": "s45_1_0008_reply02",
+              "meaning_vi": "Hai quy cách đóng gói này có giá khác nhau."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zhè ge yào duō shǎo qián",
+          "when_to_use": "已经找到一种药，付款前向店员确认整盒的价格。",
+          "mistakes": [
+            {
+              "text": "“多少钱”最好明确问一盒或一瓶的价格，避免与每片价格、不同规格价格混淆。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này bao nhiêu tiền?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này bao nhiêu tiền?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0009",
+          "level": "must",
+          "text": "我正在吃别的药。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "吃的是什么药？",
+              "id": "s45_1_0009_reply01",
+              "meaning_vi": "Bạn đang uống thuốc gì?"
+            },
+            {
+              "text": "药盒带了吗？",
+              "id": "s45_1_0009_reply02",
+              "meaning_vi": "Bạn có mang theo hộp thuốc không?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "wǒ zhèng zài chī bié de yào",
+          "when_to_use": "准备买新药前，主动告诉药师自己目前还在用其他药。",
+          "mistakes": [
+            {
+              "text": "不仅是处方药，其他非处方药、保健品或中药也值得向药师说明，防止重复用药或相互作用。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi đang uống thuốc khác.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi đang uống thuốc khác.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0010",
+          "level": "must",
+          "text": "我以前吃药过敏。",
+          "alternatives": [
+            {
+              "text": "我有药物过敏史。",
+              "id": "s45_1_0010_alt01",
+              "meaning_vi": "Tôi có tiền sử dị ứng thuốc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "对哪种药过敏？",
+              "id": "s45_1_0010_reply01",
+              "meaning_vi": "Bạn dị ứng với thuốc nào?"
+            },
+            {
+              "text": "当时有什么反应？",
+              "id": "s45_1_0010_reply02",
+              "meaning_vi": "Lúc đó có phản ứng gì?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "wǒ yǐ qián chī yào guò mǐn",
+          "mistakes": [
+            {
+              "text": "曾经对某种药过敏，最好告诉医生具体药名和当时的症状。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trước đây tôi từng bị dị ứng thuốc.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "曾经吃某种药后起疹子或呼吸不适，买药时必须主动说明过敏史。",
+          "meaning_vi": "Trước đây tôi từng bị dị ứng thuốc.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0019",
+          "level": "must",
+          "text": "我看不懂药盒上的中文。",
+          "when_to_use": "初次到中国药店，拿到的药盒只有中文，想请药师帮忙解释用法和警告。",
+          "alternatives": [
+            {
+              "text": "药盒上的中文我看不懂。",
+              "id": "s45_1_0019_alt01",
+              "meaning_vi": "Tôi không hiểu tiếng Trung trên hộp thuốc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你看看用法用量。",
+              "id": "s45_1_0019_reply01",
+              "meaning_vi": "Để tôi xem giúp cách dùng và liều lượng."
+            },
+            {
+              "text": "有不明白的地方可以问药师。",
+              "id": "s45_1_0019_reply02",
+              "meaning_vi": "Nếu chưa hiểu, bạn có thể hỏi dược sĩ."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "wǒ kàn bù dǒng yào hé shàng de zhōng wén",
+          "mistakes": [
+            {
+              "text": "“看不懂”是不能理解说明，不等于药品一定能安全使用；问清药名、用法、注意事项后再按指导用药。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi không đọc hiểu chữ Trung trên hộp thuốc.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi không đọc hiểu chữ Trung trên hộp thuốc.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0020",
+          "level": "must",
+          "text": "请问药师在吗？",
+          "when_to_use": "买药前想咨询药物相互作用或慢性病用药，询问药店是否有药师可以核对。",
+          "alternatives": [
+            {
+              "text": "能请药师帮我看一下吗？",
+              "id": "s45_1_0020_alt01",
+              "meaning_vi": "Có thể nhờ dược sĩ xem giúp tôi không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "在，我请药师过来。",
+              "id": "s45_1_0020_reply01",
+              "meaning_vi": "Có, tôi mời dược sĩ ra."
+            },
+            {
+              "text": "他暂时不在，您可以稍等。",
+              "id": "s45_1_0020_reply02",
+              "meaning_vi": "Hiện dược sĩ không có ở đây, bạn chờ chút nhé."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "qǐng wèn yào shī zài ma",
+          "mistakes": [
+            {
+              "text": "“药师”是负责药品专业指导的人员；不要因店员推荐就忽略处方、过敏史或已有用药。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Cho hỏi dược sĩ có ở đây không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Cho hỏi dược sĩ có ở đây không?",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0021",
+          "level": "must",
+          "text": "这是给孩子用的。",
+          "when_to_use": "给小孩买药时主动说明使用者不是自己，避免被按成人用药场景理解。",
+          "alternatives": [
+            {
+              "text": "是给小孩用的。",
+              "id": "s45_1_0021_alt01",
+              "meaning_vi": "Thuốc này dùng cho trẻ nhỏ."
+            }
+          ],
+          "replies": [
+            {
+              "text": "孩子几岁，体重多少？",
+              "id": "s45_1_0021_reply01",
+              "meaning_vi": "Bé mấy tuổi và nặng bao nhiêu ký?"
+            },
+            {
+              "text": "先确认有没有适合儿童的剂型。",
+              "id": "s45_1_0021_reply02",
+              "meaning_vi": "Trước tiên kiểm tra có dạng thuốc phù hợp cho trẻ không."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zhè shì gěi hái zi yòng de",
+          "mistakes": [
+            {
+              "text": "儿童用药与成人可能不同；药师询问年龄、体重是为核对适用性，不要直接按成人片数给孩子吃。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này dành cho trẻ em.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này dành cho trẻ em.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0011",
+          "level": "listen",
+          "text": "这是非处方药。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我能直接买吗？",
+              "id": "s45_1_0011_reply01",
+              "meaning_vi": "Vậy tôi mua trực tiếp được không?"
+            },
+            {
+              "text": "这药怎么用？",
+              "id": "s45_1_0011_reply02",
+              "meaning_vi": "Thuốc này dùng thế nào?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zhè shì fēi chǔ fāng yào",
+          "when_to_use": "药师介绍药品类别时说这是非处方药，你要确认其意义和用法。",
+          "mistakes": [
+            {
+              "text": "“非处方药”表示可不凭处方购买，不表示可以任意加量、与其他药随意合用。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Đây là thuốc không kê đơn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Đây là thuốc không kê đơn.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0012",
+          "level": "listen",
+          "text": "这个需要处方。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我没带处方。",
+              "id": "s45_1_0012_reply01",
+              "meaning_vi": "Tôi không mang đơn thuốc."
+            },
+            {
+              "text": "去哪儿开处方？",
+              "id": "s45_1_0012_reply02",
+              "meaning_vi": "Tôi có thể xin đơn ở đâu?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zhè ge xū yào chǔ fāng",
+          "when_to_use": "想买的药属于处方药，店员说明必须先出示医生处方。",
+          "mistakes": [
+            {
+              "text": "“需要处方”是要医生开具用药处方，不是让学习者自行模仿处方或用旧处方买所有药。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này cần đơn bác sĩ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này cần đơn bác sĩ.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0013",
+          "level": "listen",
+          "text": "先量一下体温。",
+          "alternatives": [
+            {
+              "text": "先测下体温。",
+              "id": "s45_1_0013_alt01",
+              "meaning_vi": "Đo nhiệt độ trước đã."
+            }
+          ],
+          "replies": [
+            {
+              "text": "体温计在哪儿？",
+              "id": "s45_1_0013_reply01",
+              "meaning_vi": "Nhiệt kế ở đâu?"
+            },
+            {
+              "text": "我刚量过了。",
+              "id": "s45_1_0013_reply02",
+              "meaning_vi": "Tôi vừa đo rồi."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "xiān liáng yí xià tǐ wēn",
+          "when_to_use": "因发热去咨询药师，对方建议先确认体温。",
+          "mistakes": [
+            {
+              "text": "量体温能帮助说明发热程度，但体温一个数字不能替代医生对其他症状的评估。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên đo nhiệt độ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Trước tiên đo nhiệt độ.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0014",
+          "level": "listen",
+          "text": "最好去医院看看。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去看看。",
+              "id": "s45_1_0014_reply01",
+              "meaning_vi": "Được, tôi sẽ đi khám."
+            },
+            {
+              "text": "要挂什么科？",
+              "id": "s45_1_0014_reply02",
+              "meaning_vi": "Tôi nên đăng ký khoa nào?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zuì hǎo qù yī yuàn kàn kan",
+          "when_to_use": "药师认为仅靠在药店选药不妥，建议到医院进一步诊治。",
+          "mistakes": [
+            {
+              "text": "“最好去医院看看”是建议就医，不代表所有情况都可以慢慢等；呼吸困难等急症应立即拨120。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tốt nhất bạn nên đi bệnh viện khám.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tốt nhất bạn nên đi bệnh viện khám.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0015",
+          "level": "listen",
+          "text": "这药可能让人犯困。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我先不开车。",
+              "id": "s45_1_0015_reply01",
+              "meaning_vi": "Vậy tôi sẽ không lái xe."
+            },
+            {
+              "text": "有不犯困的吗？",
+              "id": "s45_1_0015_reply02",
+              "meaning_vi": "Có loại nào không gây buồn ngủ không?"
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "zhè yào kě néng ràng rén fàn kùn",
+          "when_to_use": "药师提醒某种药可能造成嗜睡，特别注意自己还要工作或驾驶。",
+          "mistakes": [
+            {
+              "text": "“可能犯困”表示有这种风险，不等于每个人都会犯困；但不能因此忽略驾驶及操作机器时的警告。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này có thể khiến bạn buồn ngủ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này có thể khiến bạn buồn ngủ.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0016",
+          "level": "listen",
+          "text": "严重的话别自己买药。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我去医院看看。",
+              "id": "s45_1_0016_reply01",
+              "meaning_vi": "Vậy tôi đi bệnh viện khám."
+            },
+            {
+              "text": "明白，我先不自己吃药。",
+              "id": "s45_1_0016_reply02",
+              "meaning_vi": "Tôi hiểu, tôi sẽ không tự ý dùng thuốc."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "yán zhòng de huà bié zì jǐ mǎi yào",
+          "when_to_use": "症状明显严重时，药师提醒不要只靠自行买药处理。",
+          "mistakes": [
+            {
+              "text": "出现呼吸困难、突然嘴唇或喉咙肿胀等急症时不能等普通门诊，应在中国大陆立即拨120。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Nếu nghiêm trọng thì đừng tự mua thuốc uống.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Nếu nghiêm trọng thì đừng tự mua thuốc uống.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0017",
+          "level": "listen",
+          "text": "一直没好就去医院。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我尽快去看看。",
+              "id": "s45_1_0017_reply01",
+              "meaning_vi": "Được, tôi sẽ đi khám sớm."
+            },
+            {
+              "text": "我已经不舒服好几天了。",
+              "id": "s45_1_0017_reply02",
+              "meaning_vi": "Tôi đã khó chịu mấy ngày rồi."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "yì zhí méi hǎo jiù qù yī yuàn",
+          "when_to_use": "已经连续几天没好转，药师建议去医院而不是继续随便换药。",
+          "mistakes": [
+            {
+              "text": "“一直没好”是持续不见好转，不是要求有危险症状时继续等；严重时应立即求助。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Nếu mãi không khỏi thì đi bệnh viện.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Nếu mãi không khỏi thì đi bệnh viện.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        },
+        {
+          "id": "s45_1_0018",
+          "level": "listen",
+          "text": "按说明书或医嘱用药。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "说明书在哪儿？",
+              "id": "s45_1_0018_reply01",
+              "meaning_vi": "Tờ hướng dẫn sử dụng ở đâu?"
+            },
+            {
+              "text": "好，我不会乱加量。",
+              "id": "s45_1_0018_reply02",
+              "meaning_vi": "Được, tôi sẽ không tự ý tăng liều."
+            }
+          ],
+          "lesson_id": "45.1",
+          "lesson_title": "45.1 药店买药",
+          "pinyin": "àn shuō míng shū huò yī zhǔ yòng yào",
+          "mistakes": [
+            {
+              "text": "药品说明书和医生处方不是同一种文件。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Dùng thuốc theo hướng dẫn hoặc chỉ định của bác sĩ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "拿到药时，药师提醒按照具体药品说明和医生指导正确使用。",
+          "meaning_vi": "Dùng thuốc theo hướng dẫn hoặc chỉ định của bác sĩ.",
+          "lesson_title_vi": "45.1 Mua thuốc ở hiệu thuốc"
+        }
+      ],
+      "title_vi": "45.1 Mua thuốc ở hiệu thuốc",
+      "subtitle_vi": "21 thẻ giao tiếp",
+      "opening_vi": "Thực hành trao đổi với dược sĩ về triệu chứng, đơn thuốc, tiền sử dị ứng và thuốc dùng cho trẻ em. Không tự chọn thuốc khi chưa rõ thành phần hoặc tình trạng bệnh."
+    },
+    {
+      "id": "45.2",
+      "title": "45.2 用法用量",
+      "phrases": [
+        {
+          "id": "s45_2_0001",
+          "level": "must",
+          "text": "这个药一天吃几次？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "得看是哪种药。",
+              "id": "s45_2_0001_reply01",
+              "meaning_vi": "Còn tùy là thuốc gì."
+            },
+            {
+              "text": "我帮你看说明书。",
+              "id": "s45_2_0001_reply02",
+              "meaning_vi": "Để tôi xem hướng dẫn sử dụng."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè ge yào yì tiān chī jǐ cì",
+          "when_to_use": "拿到一盒药却不知道服药频率，先向药师询问一天要服几次。",
+          "mistakes": [
+            {
+              "text": "“一天几次”问服药频率，不等于“每次几片”或“每片多少毫克”，三项都应核对。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này một ngày uống mấy lần?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này một ngày uống mấy lần?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0002",
+          "level": "must",
+          "text": "一次吃几片？",
+          "alternatives": [
+            {
+              "text": "每次吃几片？",
+              "id": "s45_2_0002_alt01",
+              "meaning_vi": "Mỗi lần uống bao nhiêu viên?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "得先看每片多少毫克。",
+              "id": "s45_2_0002_reply01",
+              "meaning_vi": "Trước tiên cần xem mỗi viên bao nhiêu miligam."
+            },
+            {
+              "text": "把药盒给我看看。",
+              "id": "s45_2_0002_reply02",
+              "meaning_vi": "Đưa tôi xem hộp thuốc nhé."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "yí cì chī jǐ piàn",
+          "when_to_use": "处方写了某种片剂，你不确定每次应服用几片，向药师核对。",
+          "mistakes": [
+            {
+              "text": "片数不是有效成分剂量；同一药名不同规格也可能每次服用片数不同。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Mỗi lần uống mấy viên?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Mỗi lần uống mấy viên?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0003",
+          "level": "must",
+          "text": "饭前还是饭后？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "看药品说明书。",
+              "id": "s45_2_0003_reply01",
+              "meaning_vi": "Xem hướng dẫn sử dụng thuốc."
+            },
+            {
+              "text": "我帮你确认一下。",
+              "id": "s45_2_0003_reply02",
+              "meaning_vi": "Để tôi xác nhận giúp."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "fàn qián hái shì fàn hòu",
+          "when_to_use": "药盒上写有用药时间，但你不懂“饭前”“饭后”，便请药师确认。",
+          "mistakes": [
+            {
+              "text": "“饭前”和“饭后”不是一回事，具体相隔多久要看这款药的说明及医嘱，不能一概而论。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống trước hay sau bữa ăn?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống trước hay sau bữa ăn?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0004",
+          "level": "must",
+          "text": "晚上要吃吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "按医生开的时间吃。",
+              "id": "s45_2_0004_reply01",
+              "meaning_vi": "Uống theo giờ bác sĩ kê."
+            },
+            {
+              "text": "把药单给我看看。",
+              "id": "s45_2_0004_reply02",
+              "meaning_vi": "Đưa tôi xem đơn thuốc."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "wǎn shang yào chī ma",
+          "when_to_use": "白天上班、晚上回宿舍，担心漏掉晚上那次药，想确认处方安排。",
+          "mistakes": [
+            {
+              "text": "不要因为提到“晚上”就自己加一剂，是否需要夜间服用须看具体安排。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Buổi tối có phải uống không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Buổi tối có phải uống không?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0005",
+          "level": "must",
+          "text": "这个药要吃几天？",
+          "alternatives": [
+            {
+              "text": "这个要吃多久？",
+              "id": "s45_2_0005_alt01",
+              "meaning_vi": "Thuốc này uống trong bao lâu?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "按医生嘱咐的天数。",
+              "id": "s45_2_0005_reply01",
+              "meaning_vi": "Theo số ngày bác sĩ dặn."
+            },
+            {
+              "text": "我帮你核对一下处方。",
+              "id": "s45_2_0005_reply02",
+              "meaning_vi": "Để tôi kiểm tra lại đơn thuốc."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè ge yào yào chī jǐ tiān",
+          "when_to_use": "不清楚医生让自己用药几天，想在药店核对疗程。",
+          "mistakes": [
+            {
+              "text": "疗程“几天”与每天“几次”不同；不应因为症状改善就未经确认随意延长或缩短处方疗程。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này phải uống mấy ngày?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này phải uống mấy ngày?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0006",
+          "level": "must",
+          "text": "忘吃一次怎么办？",
+          "alternatives": [
+            {
+              "text": "漏服一次怎么办？",
+              "id": "s45_2_0006_alt01",
+              "meaning_vi": "Bỏ lỡ một liều thì làm sao?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先别自己加倍吃。",
+              "id": "s45_2_0006_reply01",
+              "meaning_vi": "Trước tiên đừng tự uống gấp đôi."
+            },
+            {
+              "text": "告诉我药名和原定服药时间。",
+              "id": "s45_2_0006_reply02",
+              "meaning_vi": "Hãy cho biết tên thuốc và giờ uống dự kiến."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "wàng chī yí cì zěn me bàn",
+          "mistakes": [
+            {
+              "text": "不同药物漏服后的处理可能不同，不可擅自加倍补服。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Quên uống một liều thì sao?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "工作忙忘了一次药，不知道下一次该怎么办，先问药师具体药物的漏服处理。",
+          "meaning_vi": "Quên uống một liều thì sao?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0007",
+          "level": "must",
+          "text": "这个药怎么吃？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我看看说明书。",
+              "id": "s45_2_0007_reply01",
+              "meaning_vi": "Để tôi xem hướng dẫn sử dụng."
+            },
+            {
+              "text": "先确认这是口服药还是外用药。",
+              "id": "s45_2_0007_reply02",
+              "meaning_vi": "Trước tiên kiểm tra thuốc này để uống hay bôi ngoài da."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè ge yào zěn me chī",
+          "when_to_use": "拿到新药不知道如何使用，向药师请教是口服、外用还是其他方式。",
+          "mistakes": [
+            {
+              "text": "中文“吃药”在日常口语里常指口服药；外用药、眼药等不能只按这个动词理解。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này dùng thế nào?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này dùng thế nào?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0008",
+          "level": "must",
+          "text": "药片能掰开吃吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有的药片不能掰。",
+              "id": "s45_2_0008_reply01",
+              "meaning_vi": "Có những viên thuốc không được bẻ."
+            },
+            {
+              "text": "得看具体药片。",
+              "id": "s45_2_0008_reply02",
+              "meaning_vi": "Phải xem loại viên thuốc cụ thể."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "yào piàn néng bāi kāi chī ma",
+          "when_to_use": "药片很大不容易吞下，想确认这款药能否掰开。",
+          "mistakes": [
+            {
+              "text": "药片有分割线也不保证一定能掰；缓释、控释等剂型尤其要先咨询专业人员。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có được bẻ viên thuốc ra uống không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Có được bẻ viên thuốc ra uống không?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0009",
+          "level": "must",
+          "text": "两次要隔多久？",
+          "alternatives": [
+            {
+              "text": "隔几个小时吃一次？",
+              "id": "s45_2_0009_alt01",
+              "meaning_vi": "Cách mấy tiếng uống một lần?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你看看用药说明。",
+              "id": "s45_2_0009_reply01",
+              "meaning_vi": "Để tôi xem hướng dẫn dùng thuốc."
+            },
+            {
+              "text": "别自己缩短间隔。",
+              "id": "s45_2_0009_reply02",
+              "meaning_vi": "Đừng tự rút ngắn khoảng cách."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "liǎng cì yào gé duō jiǔ",
+          "when_to_use": "处方标有服药间隔，但你没看懂具体的小时数。",
+          "mistakes": [
+            {
+              "text": "“隔几个小时”是两次之间的时间间隔，不能按另一种药的间隔照搬。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Hai lần uống phải cách nhau bao lâu?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Hai lần uống phải cách nhau bao lâu?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0010",
+          "level": "must",
+          "text": "睡前吃可以吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看具体是什么药。",
+              "id": "s45_2_0010_reply01",
+              "meaning_vi": "Còn tùy là thuốc nào."
+            },
+            {
+              "text": "先核对服药时间。",
+              "id": "s45_2_0010_reply02",
+              "meaning_vi": "Trước tiên kiểm tra giờ dùng thuốc."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "shuì qián chī kě yǐ ma",
+          "when_to_use": "平时白天忙，想改在睡前服药，但先向药师确认能否改变时间。",
+          "mistakes": [
+            {
+              "text": "“睡前”是相对的服药时间，不代表所有药都适合临睡前服用。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có thể uống trước khi đi ngủ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Có thể uống trước khi đi ngủ không?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0011",
+          "level": "must",
+          "text": "现在补吃行吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看漏了多久。",
+              "id": "s45_2_0011_reply01",
+              "meaning_vi": "Còn tùy đã quên bao lâu."
+            },
+            {
+              "text": "先别吃双倍。",
+              "id": "s45_2_0011_reply02",
+              "meaning_vi": "Trước tiên đừng uống liều gấp đôi."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "xiàn zài bǔ chī xíng ma",
+          "when_to_use": "发现上一剂没吃，想确认现在补服是否合适，而不是自行决定。",
+          "mistakes": [
+            {
+              "text": "漏服后的补服规则因药而异，不应只因为“现在有空”就补吃，更不要自行加倍。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Bây giờ uống bù được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Bây giờ uống bù được không?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0021",
+          "level": "must",
+          "text": "这是口服的还是外用的？",
+          "when_to_use": "买到不同剂型的药品时，不确定应吞服还是在皮肤等部位外用，先核对正确用法。",
+          "alternatives": [
+            {
+              "text": "这药是口服还是外用？",
+              "id": "s45_2_0021_alt01",
+              "meaning_vi": "Thuốc này để uống hay bôi ngoài da?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先看包装上写的使用方法。",
+              "id": "s45_2_0021_reply01",
+              "meaning_vi": "Trước tiên xem cách dùng ghi trên bao bì."
+            },
+            {
+              "text": "外用药不能当成口服药吃。",
+              "id": "s45_2_0021_reply02",
+              "meaning_vi": "Không được uống thuốc dùng ngoài da."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè shì kǒu fú de hái shì wài yòng de",
+          "mistakes": [
+            {
+              "text": "“口服”是从口中服用，“外用”不是口服；应确认具体剂型与适用部位，不要凭外观判断。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này dùng đường uống hay bôi ngoài da?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này dùng đường uống hay bôi ngoài da?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0022",
+          "level": "must",
+          "text": "这一片是多少毫克？",
+          "when_to_use": "你看到药盒上有毫克和片数两种信息，想知道每片的规格，避免混淆片数与含量。",
+          "alternatives": [
+            {
+              "text": "每片有多少毫克？",
+              "id": "s45_2_0022_alt01",
+              "meaning_vi": "Một viên chứa bao nhiêu miligam?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我看看包装上的规格。",
+              "id": "s45_2_0022_reply01",
+              "meaning_vi": "Để tôi xem hàm lượng ghi trên bao bì."
+            },
+            {
+              "text": "毫克数和每次吃几片不是一回事。",
+              "id": "s45_2_0022_reply02",
+              "meaning_vi": "Số miligam và số viên uống mỗi lần không phải một."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè yí piàn shì duō shǎo háo kè",
+          "mistakes": [
+            {
+              "text": "“毫克”是药物含量单位，不等于服用片数；不同规格的同名药不能按相同片数直接替换。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Mỗi viên này bao nhiêu miligam?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Mỗi viên này bao nhiêu miligam?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0023",
+          "level": "must",
+          "text": "药片太大，有别的剂型吗？",
+          "when_to_use": "药片较大，自己很难吞下，想问是否有适合吞咽的其他剂型。",
+          "alternatives": [
+            {
+              "text": "有更好吞的剂型吗？",
+              "id": "s45_2_0023_alt01",
+              "meaning_vi": "Có dạng thuốc nào dễ nuốt hơn không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你问问有没有其他剂型。",
+              "id": "s45_2_0023_reply01",
+              "meaning_vi": "Để tôi hỏi xem có dạng thuốc khác không."
+            },
+            {
+              "text": "别自己碾碎药片，先确认能不能改。",
+              "id": "s45_2_0023_reply02",
+              "meaning_vi": "Đừng tự nghiền viên thuốc, trước tiên phải xác nhận có được đổi dạng không."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "yào piàn tài dà yǒu bié de jì xíng ma",
+          "mistakes": [
+            {
+              "text": "“剂型”指片剂、胶囊、口服液等形式；不能擅自碾碎、掰开或更换药品。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Viên thuốc lớn quá, có dạng nào khác không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Viên thuốc lớn quá, có dạng nào khác không?",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0012",
+          "level": "listen",
+          "text": "这药一天吃三次。",
+          "alternatives": [
+            {
+              "text": "这张药单写着一天三次。",
+              "id": "s45_2_0012_alt01",
+              "meaning_vi": "Trên đơn ghi uống ba lần một ngày."
+            }
+          ],
+          "replies": [
+            {
+              "text": "一次吃几片？",
+              "id": "s45_2_0012_reply01",
+              "meaning_vi": "Mỗi lần uống mấy viên?"
+            },
+            {
+              "text": "要间隔多久？",
+              "id": "s45_2_0012_reply02",
+              "meaning_vi": "Cần cách nhau bao lâu?"
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè yào yì tiān chī sān cì",
+          "mistakes": [
+            {
+              "text": "“一天三次”说的是一天服药三回，不是一次吃三片。这是某种药的示例对话，个人用药须核对自己的处方与药盒。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này uống ba lần một ngày.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "药师核对具体药品及这次的处方后，直接告诉患者服药频率。听懂“一天三次”，再确认每次的片数。",
+          "meaning_vi": "Thuốc này uống ba lần một ngày.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0013",
+          "level": "listen",
+          "text": "这药一次吃两片。",
+          "alternatives": [
+            {
+              "text": "这张药单写着一次两片。",
+              "id": "s45_2_0013_alt01",
+              "meaning_vi": "Trên đơn ghi mỗi lần uống hai viên."
+            }
+          ],
+          "replies": [
+            {
+              "text": "一天吃几次？",
+              "id": "s45_2_0013_reply01",
+              "meaning_vi": "Một ngày uống mấy lần?"
+            },
+            {
+              "text": "饭前还是饭后？",
+              "id": "s45_2_0013_reply02",
+              "meaning_vi": "Uống trước hay sau bữa ăn?"
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè yào yí cì chī liǎng piàn",
+          "mistakes": [
+            {
+              "text": "“一次两片”是每次的片数，不是一天的总片数，也不表示每片的毫克含量；不同药品及规格不可照搬。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này mỗi lần uống hai viên.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "药师核对你手里的药品规格后，直接说明每次要吃几片。练习听懂“一次两片”，并继续问一天几次。",
+          "meaning_vi": "Thuốc này mỗi lần uống hai viên.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0014",
+          "level": "listen",
+          "text": "饭后吃。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "吃完马上吃吗？",
+              "id": "s45_2_0014_reply01",
+              "meaning_vi": "Ăn xong uống ngay à?"
+            },
+            {
+              "text": "好，我记住了。",
+              "id": "s45_2_0014_reply02",
+              "meaning_vi": "Được, tôi nhớ rồi."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "fàn hòu chī",
+          "when_to_use": "药师对着一盒具体药品解释它的服用时间，提醒你饭后服用。",
+          "mistakes": [
+            {
+              "text": "“饭后吃”是针对某种具体药品的说明，不是全部药物都必须饭后服用。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống sau bữa ăn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống sau bữa ăn.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0015",
+          "level": "listen",
+          "text": "先连续吃三天。",
+          "alternatives": [
+            {
+              "text": "药单上写着先吃三天。",
+              "id": "s45_2_0015_alt01",
+              "meaning_vi": "Trên đơn ghi trước tiên uống ba ngày."
+            }
+          ],
+          "replies": [
+            {
+              "text": "三天后要复诊吗？",
+              "id": "s45_2_0015_reply01",
+              "meaning_vi": "Sau ba ngày có cần tái khám không?"
+            },
+            {
+              "text": "那我按这张药单来。",
+              "id": "s45_2_0015_reply02",
+              "meaning_vi": "Vậy tôi sẽ làm theo đơn này."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "xiān lián xù chī sān tiān",
+          "mistakes": [
+            {
+              "text": "“连续吃三天”说的是连续服药三天，不是一天三次；这只是特定处方对话，不能用于所有药物，也不代表三天后自行停药。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên uống liên tục ba ngày.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "医生或药师核对这次处方后告诉患者先连续服用三天。练习听懂“连续”表示不中断，以及“复诊”的回应。",
+          "meaning_vi": "Trước tiên uống liên tục ba ngày.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0016",
+          "level": "listen",
+          "text": "两次服药隔六小时。",
+          "alternatives": [
+            {
+              "text": "药单上写着间隔六小时。",
+              "id": "s45_2_0016_alt01",
+              "meaning_vi": "Trên đơn ghi cách nhau sáu tiếng."
+            }
+          ],
+          "replies": [
+            {
+              "text": "晚上也要吃吗？",
+              "id": "s45_2_0016_reply01",
+              "meaning_vi": "Ban đêm cũng phải uống à?"
+            },
+            {
+              "text": "我把时间记下来。",
+              "id": "s45_2_0016_reply02",
+              "meaning_vi": "Tôi sẽ ghi lại giờ uống."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "liǎng cì fú yào gé liù xiǎo shí",
+          "mistakes": [
+            {
+              "text": "“隔六小时”说的是两次服药之间的时间，不是一天吃六次，也不一定意味着夜里要起床服药；以具体医嘱为准。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Hai lần uống thuốc cách nhau sáu tiếng.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "药师说明这款药两次服药之间需要间隔多久。练习听懂“隔六小时”，并问清夜间是否需要服药。",
+          "meaning_vi": "Hai lần uống thuốc cách nhau sáu tiếng.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0017",
+          "level": "listen",
+          "text": "这药不能掰开吃。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要整片吞服吗？",
+              "id": "s45_2_0017_reply01",
+              "meaning_vi": "Phải nuốt nguyên viên à?"
+            },
+            {
+              "text": "好，我不掰了。",
+              "id": "s45_2_0017_reply02",
+              "meaning_vi": "Được, tôi không bẻ nữa."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "zhè yào bù néng bāi kāi chī",
+          "when_to_use": "药师拿着一盒特定药片，提醒你这种药片不能掰开服用。",
+          "mistakes": [
+            {
+              "text": "“不能掰开”是对某种药片的要求；整片吞咽与能否磨碎、溶解都需要单独确认。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này không được bẻ viên.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này không được bẻ viên.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0018",
+          "level": "listen",
+          "text": "按说明书上的剂量吃。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "剂量写在哪儿？",
+              "id": "s45_2_0018_reply01",
+              "meaning_vi": "Liều lượng ghi ở đâu?"
+            },
+            {
+              "text": "好，我先看说明书。",
+              "id": "s45_2_0018_reply02",
+              "meaning_vi": "Được, tôi sẽ đọc hướng dẫn trước."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "àn shuō míng shū shàng de jì liàng chī",
+          "when_to_use": "药师请你查看对应药盒的剂量说明，并核对具体药名。",
+          "mistakes": [
+            {
+              "text": "“剂量”是服用的药量，需结合单片规格、服药频率和患者情况理解，不能只看数字。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống theo liều ghi trong hướng dẫn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống theo liều ghi trong hướng dẫn.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0019",
+          "level": "listen",
+          "text": "不要超过规定次数。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "每天最多几次？",
+              "id": "s45_2_0019_reply01",
+              "meaning_vi": "Mỗi ngày tối đa mấy lần?"
+            },
+            {
+              "text": "好，我不会多吃。",
+              "id": "s45_2_0019_reply02",
+              "meaning_vi": "Được, tôi sẽ không uống thêm."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "bú yào chāo guò guī dìng cì shù",
+          "when_to_use": "在药店听到提醒：不能因为症状没好就擅自增加每天的服药次数。",
+          "mistakes": [
+            {
+              "text": "不能超过每日规定次数，同时还要核对单次剂量；“次数没超”不代表总剂量一定安全。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Không được vượt quá số lần quy định.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Không được vượt quá số lần quy định.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        },
+        {
+          "id": "s45_2_0020",
+          "level": "listen",
+          "text": "漏服也别加倍吃。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先看是哪种药。",
+              "id": "s45_2_0020_reply01",
+              "meaning_vi": "Trước tiên phải xem là thuốc gì."
+            },
+            {
+              "text": "好，我先问医生。",
+              "id": "s45_2_0020_reply02",
+              "meaning_vi": "Được, tôi sẽ hỏi bác sĩ trước."
+            }
+          ],
+          "lesson_id": "45.2",
+          "lesson_title": "45.2 用法用量",
+          "pinyin": "lòu fú yě bié jiā bèi chī",
+          "when_to_use": "你之前漏服了一次，药师提醒不要自行把下次药量加倍。",
+          "mistakes": [
+            {
+              "text": "漏服不应未经咨询就把下一剂加倍；下一步怎么处理要看具体药物与时间。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Quên liều cũng đừng uống gấp đôi.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Quên liều cũng đừng uống gấp đôi.",
+          "lesson_title_vi": "45.2 Cách dùng và liều lượng thuốc"
+        }
+      ],
+      "title_vi": "45.2 Cách dùng và liều lượng thuốc",
+      "subtitle_vi": "23 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi số lần uống, số viên, thời điểm uống, khoảng cách giữa liều, quên liều và dạng thuốc. Liều dùng cụ thể phải đối chiếu đơn thuốc hoặc nhãn thuốc."
+    },
+    {
+      "id": "45.3",
+      "title": "45.3 注意与禁忌",
+      "phrases": [
+        {
+          "id": "s45_3_0001",
+          "level": "must",
+          "text": "吃这药能喝酒吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先别喝酒。",
+              "id": "s45_3_0001_reply01",
+              "meaning_vi": "Trước tiên đừng uống rượu."
+            },
+            {
+              "text": "得看这药的禁忌。",
+              "id": "s45_3_0001_reply02",
+              "meaning_vi": "Phải xem chống chỉ định của thuốc này."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chī zhè yào néng hē jiǔ ma",
+          "when_to_use": "买药后想知道服药期间是否需要避免喝酒，主动问药师。",
+          "mistakes": [
+            {
+              "text": "“吃这药能喝酒吗”不是所有药的同一答案；未确认药物与酒精的相互作用前，不应擅自饮酒。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc này có được uống rượu không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống thuốc này có được uống rượu không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0002",
+          "level": "must",
+          "text": "这两个药能一起吃吗？",
+          "alternatives": [
+            {
+              "text": "这俩药能一起吃吗？",
+              "id": "s45_3_0002_alt01",
+              "meaning_vi": "Hai thuốc này uống chung được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "给我看看药名。",
+              "id": "s45_3_0002_reply01",
+              "meaning_vi": "Cho tôi xem tên thuốc."
+            },
+            {
+              "text": "得先核对成分。",
+              "id": "s45_3_0002_reply02",
+              "meaning_vi": "Trước tiên phải kiểm tra thành phần."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "zhè liǎng ge yào néng yì qǐ chī ma",
+          "when_to_use": "手上有新药和正在服用的旧药，担心相互影响，请药师核对两种成分。",
+          "mistakes": [
+            {
+              "text": "“一起吃”可能产生相互作用，也可能是同成分重复；提供全部药盒和正在使用的药物清单帮助核对。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Hai loại thuốc này có uống cùng nhau được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Hai loại thuốc này có uống cùng nhau được không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0003",
+          "level": "must",
+          "text": "吃了会困吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有些人会犯困。",
+              "id": "s45_3_0003_reply01",
+              "meaning_vi": "Một số người sẽ buồn ngủ."
+            },
+            {
+              "text": "开车前先确认。",
+              "id": "s45_3_0003_reply02",
+              "meaning_vi": "Trước khi lái xe phải kiểm tra."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chī le huì kùn ma",
+          "when_to_use": "白天需要工作，想确认药物会不会让人昏昏欲睡。",
+          "mistakes": [
+            {
+              "text": "“吃了会困吗”在问药物嗜睡风险，不等于只要当下不困就一定能安全开车或开机器。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống vào có buồn ngủ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống vào có buồn ngủ không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0004",
+          "level": "must",
+          "text": "吃药后能开车吗？",
+          "alternatives": [
+            {
+              "text": "吃这药能开车吗？",
+              "id": "s45_3_0004_alt01",
+              "meaning_vi": "Uống thuốc này có lái xe được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先核对这药会不会影响开车。",
+              "id": "s45_3_0004_reply01",
+              "meaning_vi": "Trước tiên kiểm tra thuốc có ảnh hưởng đến khả năng lái xe không."
+            },
+            {
+              "text": "如果会犯困，就不要开车。",
+              "id": "s45_3_0004_reply02",
+              "meaning_vi": "Nếu gây buồn ngủ thì không được lái xe."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chī yào hòu néng kāi chē ma",
+          "when_to_use": "下班还要骑车或开车，想确认这款药是否可能影响驾驶能力。",
+          "mistakes": [
+            {
+              "text": "“开车”包括安全驾驶的实际能力，服药是否影响反应需要按具体药物警告判断。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc xong có lái xe được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống thuốc xong có lái xe được không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0005",
+          "level": "must",
+          "text": "有什么要注意的？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先按说明书用药。",
+              "id": "s45_3_0005_reply01",
+              "meaning_vi": "Trước tiên dùng theo hướng dẫn sử dụng."
+            },
+            {
+              "text": "有不适要及时咨询医生或药师。",
+              "id": "s45_3_0005_reply02",
+              "meaning_vi": "Nếu khó chịu, kịp thời hỏi bác sĩ hoặc dược sĩ."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "yǒu shén me yào zhù yì de",
+          "when_to_use": "在药店听不懂较长的用药提醒，直接请药师说明最重要的注意事项。",
+          "mistakes": [
+            {
+              "text": "“注意事项”不仅是怎么服用，还可能包括禁忌、过敏、相互作用及驾驶警告。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có điều gì cần lưu ý không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Có điều gì cần lưu ý không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0006",
+          "level": "must",
+          "text": "吃这个要忌口吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看是哪种药。",
+              "id": "s45_3_0006_reply01",
+              "meaning_vi": "Còn tùy thuốc nào."
+            },
+            {
+              "text": "我帮你查一下。",
+              "id": "s45_3_0006_reply02",
+              "meaning_vi": "Để tôi kiểm tra giúp."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chī zhè ge yào jì kǒu ma",
+          "when_to_use": "听说某些药需要避开特定食物，想核对自己买的这款药是否如此。",
+          "mistakes": [
+            {
+              "text": "“忌口”是需要避免特定食物或饮料，不能默认所有药都有同一张忌口清单。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc này có phải kiêng ăn gì không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống thuốc này có phải kiêng ăn gì không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0007",
+          "level": "must",
+          "text": "我以前吃这个过敏。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那先别再吃。",
+              "id": "s45_3_0007_reply01",
+              "meaning_vi": "Vậy trước mắt đừng dùng lại."
+            },
+            {
+              "text": "当时什么反应？",
+              "id": "s45_3_0007_reply02",
+              "meaning_vi": "Lúc đó bạn có phản ứng gì?"
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "wǒ yǐ qián chī zhè ge guò mǐn",
+          "when_to_use": "药师推荐的药与你以前过敏的药看起来相同，马上说明过敏经历。",
+          "mistakes": [
+            {
+              "text": "曾对某种药过敏时必须主动告知；即便换了品牌，相同成分也可能仍有风险。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trước đây tôi từng bị dị ứng thuốc này.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Trước đây tôi từng bị dị ứng thuốc này.",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0008",
+          "level": "must",
+          "text": "这药有副作用吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看具体药名。",
+              "id": "s45_3_0008_reply01",
+              "meaning_vi": "Phải xem tên thuốc cụ thể."
+            },
+            {
+              "text": "我帮你看说明书。",
+              "id": "s45_3_0008_reply02",
+              "meaning_vi": "Để tôi kiểm tra tờ hướng dẫn."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "zhè yào yǒu fù zuò yòng ma",
+          "when_to_use": "购买新药时，想了解其常见不良反应及遇到问题应如何咨询。",
+          "mistakes": [
+            {
+              "text": "“副作用”不能单凭有没有回答一句“有/没有”判断，要了解具体药品说明及何时须就医。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này có tác dụng phụ không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này có tác dụng phụ không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0009",
+          "level": "must",
+          "text": "孕妇可以用吗？",
+          "alternatives": [
+            {
+              "text": "怀孕能用这药吗？",
+              "id": "s45_3_0009_alt01",
+              "meaning_vi": "Mang thai có dùng thuốc này được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "孕期用药先问医生。",
+              "id": "s45_3_0009_reply01",
+              "meaning_vi": "Dùng thuốc khi mang thai nên hỏi bác sĩ trước."
+            },
+            {
+              "text": "先不要自己决定用药。",
+              "id": "s45_3_0009_reply02",
+              "meaning_vi": "Đừng tự quyết định dùng thuốc."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "yùn fù kě yǐ yòng ma",
+          "mistakes": [
+            {
+              "text": "孕期用药须根据具体药物和孕期情况咨询医生。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Phụ nữ mang thai có dùng được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "怀孕的人在买药前主动说明孕期情况，询问这款药是否适用。",
+          "meaning_vi": "Phụ nữ mang thai có dùng được không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0010",
+          "level": "must",
+          "text": "吃药能喝咖啡吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有些药和咖啡因会相互影响。",
+              "id": "s45_3_0010_reply01",
+              "meaning_vi": "Một số thuốc có thể tương tác với caffeine."
+            },
+            {
+              "text": "先确认药名。",
+              "id": "s45_3_0010_reply02",
+              "meaning_vi": "Trước tiên xác nhận tên thuốc."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chī yào néng hē kā fēi ma",
+          "when_to_use": "平时每天喝咖啡，买药时想知道药物是否会与咖啡因相互影响。",
+          "mistakes": [
+            {
+              "text": "咖啡与药的相互影响取决于药品及摄入量；不要把“可以喝”当作适用于所有药的结论。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc có được uống cà phê không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống thuốc có được uống cà phê không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0018",
+          "level": "must",
+          "text": "我在哺乳期，能用吗？",
+          "when_to_use": "正在给孩子喂母乳，买药前告诉药师这个情况并询问适用性。",
+          "alternatives": [
+            {
+              "text": "哺乳期能用这药吗？",
+              "id": "s45_3_0018_alt01",
+              "meaning_vi": "Đang cho con bú có dùng thuốc này được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先向医生或药师确认。",
+              "id": "s45_3_0018_reply01",
+              "meaning_vi": "Trước tiên hỏi bác sĩ hoặc dược sĩ."
+            },
+            {
+              "text": "要看具体药物和你的情况。",
+              "id": "s45_3_0018_reply02",
+              "meaning_vi": "Phải xem thuốc cụ thể và tình trạng của bạn."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "wǒ zài bǔ rǔ qī néng yòng ma",
+          "mistakes": [
+            {
+              "text": "“哺乳期”是母乳喂养时期，与怀孕不同；任何药物的适用性都应看具体成分和个人情况。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi đang cho con bú, có dùng được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi đang cho con bú, có dùng được không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0019",
+          "level": "must",
+          "text": "我有高血压，能吃这药吗？",
+          "when_to_use": "本来就有高血压，买感冒药之前先问药师是否与病情或已有药物冲突。",
+          "alternatives": [
+            {
+              "text": "高血压能吃这个吗？",
+              "id": "s45_3_0019_alt01",
+              "meaning_vi": "Cao huyết áp có dùng thuốc này được không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "你还在吃降压药吗？",
+              "id": "s45_3_0019_reply01",
+              "meaning_vi": "Bạn có đang uống thuốc hạ huyết áp không?"
+            },
+            {
+              "text": "先让药师核对成分和禁忌。",
+              "id": "s45_3_0019_reply02",
+              "meaning_vi": "Trước tiên nhờ dược sĩ kiểm tra thành phần và chống chỉ định."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "wǒ yǒu gāo xuè yā néng chī zhè yào ma",
+          "mistakes": [
+            {
+              "text": "有慢性病要告诉医生或药师正在使用的全部药物；不同感冒药成分不同，不能只按病名判断。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi bị cao huyết áp, uống thuốc này được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi bị cao huyết áp, uống thuốc này được không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0020",
+          "level": "must",
+          "text": "这个药过期了吗？",
+          "when_to_use": "买药或在家翻出旧药时想确认有效期是否还在。",
+          "alternatives": [
+            {
+              "text": "这药还在有效期内吗？",
+              "id": "s45_3_0020_alt01",
+              "meaning_vi": "Thuốc này còn hạn sử dụng không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "我帮你看看有效期。",
+              "id": "s45_3_0020_reply01",
+              "meaning_vi": "Để tôi kiểm tra hạn dùng."
+            },
+            {
+              "text": "过期了就别用了。",
+              "id": "s45_3_0020_reply02",
+              "meaning_vi": "Thuốc hết hạn thì đừng dùng."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "zhè ge yào guò qī le ma",
+          "mistakes": [
+            {
+              "text": "“有效期”是药品到期日期；开封后可用期限可能另有要求，包装破损、保存不当也需要咨询。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Thuốc này hết hạn chưa?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Thuốc này hết hạn chưa?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0011",
+          "level": "listen",
+          "text": "吃这药别喝酒。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "停药后多久能喝？",
+              "id": "s45_3_0011_reply01",
+              "meaning_vi": "Sau khi ngừng thuốc bao lâu thì được uống?"
+            },
+            {
+              "text": "好，先不喝。",
+              "id": "s45_3_0011_reply02",
+              "meaning_vi": "Được, trước mắt tôi không uống rượu."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chī zhè yào bié hē jiǔ",
+          "when_to_use": "药师明确提醒正在购买的这一种药不可与酒同用。",
+          "mistakes": [
+            {
+              "text": "药师针对这一具体药物提醒禁酒，不代表所有药的禁酒期限相同。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Khi uống thuốc này đừng uống rượu.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Khi uống thuốc này đừng uống rượu.",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0012",
+          "level": "listen",
+          "text": "上班前能吃这药吗？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看药和工作内容。",
+              "id": "s45_3_0012_reply01",
+              "meaning_vi": "Còn tùy thuốc và tính chất công việc."
+            },
+            {
+              "text": "操作机器就先问药师。",
+              "id": "s45_3_0012_reply02",
+              "meaning_vi": "Nếu vận hành máy móc thì hỏi dược sĩ trước."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "shàng bān qián néng chī zhè yào ma",
+          "mistakes": [
+            {
+              "text": "有些药会引起嗜睡或反应迟钝；工作需要开车或操作机器时，应先咨询药师。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trước khi đi làm có uống thuốc này được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "工厂值班前，需要操作机器，想问吃药后是否会影响反应速度。",
+          "meaning_vi": "Trước khi đi làm có uống thuốc này được không?",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0013",
+          "level": "listen",
+          "text": "这两种药不能一起吃。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那要请医生确认用药方案。",
+              "id": "s45_3_0013_reply01",
+              "meaning_vi": "Vậy phải nhờ bác sĩ xác nhận lại cách dùng."
+            },
+            {
+              "text": "我先问医生怎么调整。",
+              "id": "s45_3_0013_reply02",
+              "meaning_vi": "Tôi sẽ hỏi bác sĩ cách điều chỉnh trước."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "zhè liǎng zhǒng yào bù néng yì qǐ chī",
+          "when_to_use": "药师核对具体药品后，提醒这两种药不适合一起服用。",
+          "mistakes": [
+            {
+              "text": "“这两种药不能一起吃”是核对后的具体结论，不等于每两种药都不能同用；勿擅自停掉医生处方药。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Không được uống hai loại thuốc này cùng nhau.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Không được uống hai loại thuốc này cùng nhau.",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0014",
+          "level": "listen",
+          "text": "怀疑药物过敏，快联系医生。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在联系。",
+              "id": "s45_3_0014_reply01",
+              "meaning_vi": "Được, tôi liên hệ ngay."
+            },
+            {
+              "text": "如果喘不过气，就直接打120。",
+              "id": "s45_3_0014_reply02",
+              "meaning_vi": "Nếu không thở được thì gọi 120 ngay."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "huái yí yào wù guò mǐn kuài lián xì yī shēng",
+          "when_to_use": "吃药后出现怀疑过敏的表现，药师要求及时联系医生。",
+          "mistakes": [
+            {
+              "text": "如果出现呼吸困难、喉咙发紧或突然嘴唇肿胀，不要只等回电，应在中国大陆立即拨120。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Nghi dị ứng thuốc, mau liên hệ bác sĩ.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Nghi dị ứng thuốc, mau liên hệ bác sĩ.",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0015",
+          "level": "listen",
+          "text": "吃这药后先别开车。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那我打车回去。",
+              "id": "s45_3_0015_reply01",
+              "meaning_vi": "Vậy tôi đi taxi về."
+            },
+            {
+              "text": "多久后能开车？",
+              "id": "s45_3_0015_reply02",
+              "meaning_vi": "Bao lâu sau mới lái xe được?"
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chī zhè yào hòu xiān bié kāi chē",
+          "mistakes": [
+            {
+              "text": "能否恢复驾驶取决于具体药物和个人反应，不能假设只等一小会儿就安全。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc này xong đừng lái xe vội.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "药师提醒某种药可能影响驾驶，吃完先不要开车。",
+          "meaning_vi": "Uống thuốc này xong đừng lái xe vội.",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0016",
+          "level": "listen",
+          "text": "成分一样的药别重复吃。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这两盒成分相同吗？",
+              "id": "s45_3_0016_reply01",
+              "meaning_vi": "Hai hộp này có cùng thành phần không?"
+            },
+            {
+              "text": "那我先核对一下。",
+              "id": "s45_3_0016_reply02",
+              "meaning_vi": "Vậy tôi kiểm tra lại trước."
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "chéng fèn yí yàng de yào bié chóng fù chī",
+          "mistakes": [
+            {
+              "text": "两种药即使商品名不同，也可能含相同有效成分。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Đừng uống trùng các thuốc có cùng thành phần.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "两盒感冒药名字不同，药师提醒有效成分可能重复。",
+          "meaning_vi": "Đừng uống trùng các thuốc có cùng thành phần.",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        },
+        {
+          "id": "s45_3_0017",
+          "level": "listen",
+          "text": "难受得厉害就去医院。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我去看医生。",
+              "id": "s45_3_0017_reply01",
+              "meaning_vi": "Được, tôi đi khám bác sĩ."
+            },
+            {
+              "text": "要带上药盒吗？",
+              "id": "s45_3_0017_reply02",
+              "meaning_vi": "Có cần mang hộp thuốc theo không?"
+            }
+          ],
+          "lesson_id": "45.3",
+          "lesson_title": "45.3 注意与禁忌",
+          "pinyin": "nán shòu de lì hai jiù qù yī yuàn",
+          "when_to_use": "药师发现你的不适症状比较严重，建议尽快去医院。",
+          "mistakes": [
+            {
+              "text": "“难受得厉害”涵盖多种严重症状；若伴呼吸困难或胸痛等急症，应立即呼叫急救而不是自行驾驶去医院。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Nếu khó chịu nghiêm trọng thì đi bệnh viện.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Nếu khó chịu nghiêm trọng thì đi bệnh viện.",
+          "lesson_title_vi": "45.3 Lưu ý và chống chỉ định"
+        }
+      ],
+      "title_vi": "45.3 Lưu ý và chống chỉ định",
+      "subtitle_vi": "20 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi về uống rượu, lái xe, tương tác thuốc, dị ứng, thai kỳ, cho con bú và bệnh nền. Không tự suy diễn một loại thuốc phù hợp cho mọi người."
+    },
+    {
+      "id": "45.4",
+      "title": "45.4 不良反应与停药",
+      "phrases": [
+        {
+          "id": "s45_4_0001",
+          "level": "must",
+          "text": "吃了以后头晕。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "什么时候吃的药？",
+              "id": "s45_4_0001_reply01",
+              "meaning_vi": "Bạn uống thuốc lúc nào?"
+            },
+            {
+              "text": "先别开车，联系医生。",
+              "id": "s45_4_0001_reply02",
+              "meaning_vi": "Trước tiên đừng lái xe, hãy liên hệ bác sĩ."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "chī le yǐ hòu tóu yūn",
+          "when_to_use": "服用新药后开始头晕，向药师或医生说明症状出现的时间。",
+          "mistakes": [
+            {
+              "text": "“头晕”可有多种原因，不能凭出现时间就确定一定是药物副作用；伴昏厥、胸痛或严重呼吸困难时应立即求救。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Uống thuốc xong tôi bị chóng mặt.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Uống thuốc xong tôi bị chóng mặt.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0002",
+          "level": "must",
+          "text": "我有点恶心。",
+          "alternatives": [
+            {
+              "text": "我有点想吐。",
+              "id": "s45_4_0002_alt01",
+              "meaning_vi": "Tôi hơi muốn ói."
+            }
+          ],
+          "replies": [
+            {
+              "text": "吃药后才这样吗？",
+              "id": "s45_4_0002_reply01",
+              "meaning_vi": "Bạn chỉ bị vậy sau khi uống thuốc à?"
+            },
+            {
+              "text": "吐了没有？",
+              "id": "s45_4_0002_reply02",
+              "meaning_vi": "Bạn đã nôn chưa?"
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "wǒ yǒu diǎn ě xīn",
+          "when_to_use": "吃药后感到反胃但尚未确定原因，先说明自己有些恶心。",
+          "mistakes": [
+            {
+              "text": "“恶心”是反胃想吐，“吐了”是已经呕吐；向医生说明两者区别有助于理解症状。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi hơi buồn nôn.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi hơi buồn nôn.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0003",
+          "level": "must",
+          "text": "身上很痒。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "起疹子了吗？",
+              "id": "s45_4_0003_reply01",
+              "meaning_vi": "Có nổi mẩn không?"
+            },
+            {
+              "text": "吃药后开始的吗？",
+              "id": "s45_4_0003_reply02",
+              "meaning_vi": "Bắt đầu sau khi uống thuốc à?"
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "shēn shang hěn yǎng",
+          "when_to_use": "服药后全身发痒，向医生描述身体感觉，以便评估是否可能过敏。",
+          "mistakes": [
+            {
+              "text": "皮肤瘙痒可能与药物有关，也可能有其他原因；出现迅速加重、脸唇肿胀或呼吸困难要立即急救。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Người tôi ngứa lắm.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Người tôi ngứa lắm.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0004",
+          "level": "must",
+          "text": "要停药吗？",
+          "alternatives": [
+            {
+              "text": "要不要停药？",
+              "id": "s45_4_0004_alt01",
+              "meaning_vi": "Có nên ngừng thuốc không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先联系开药的医生。",
+              "id": "s45_4_0004_reply01",
+              "meaning_vi": "Trước tiên liên hệ bác sĩ kê đơn."
+            },
+            {
+              "text": "呼吸困难就马上急救。",
+              "id": "s45_4_0004_reply02",
+              "meaning_vi": "Nếu khó thở thì phải gọi cấp cứu ngay."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "yào tíng yào ma",
+          "mistakes": [
+            {
+              "text": "如果出现喉咙发紧、呼吸困难等严重过敏征象，不能等待一般停药咨询，应立即呼叫急救。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Có cần ngừng thuốc không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "出现疑似药物不良反应，不敢自行决定是否停用处方药，向医生询问。",
+          "meaning_vi": "Có cần ngừng thuốc không?",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0005",
+          "level": "must",
+          "text": "这是不是过敏反应？",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "得让医生判断。",
+              "id": "s45_4_0005_reply01",
+              "meaning_vi": "Phải để bác sĩ đánh giá."
+            },
+            {
+              "text": "有没有呼吸困难？",
+              "id": "s45_4_0005_reply02",
+              "meaning_vi": "Bạn có bị khó thở không?"
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "zhè shì bú shì guò mǐn fǎn yìng",
+          "when_to_use": "服药后皮肤出现异常，担心是过敏，但不确定，需要医生判断。",
+          "mistakes": [
+            {
+              "text": "怀疑过敏需要专业判断；即使最初只有皮疹，如果随后出现喉咙紧或呼吸困难应立即呼叫120。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Đây có phải phản ứng dị ứng không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Đây có phải phản ứng dị ứng không?",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0006",
+          "level": "must",
+          "text": "这样要去医院吗？",
+          "alternatives": [
+            {
+              "text": "要不要去医院？",
+              "id": "s45_4_0006_alt01",
+              "meaning_vi": "Có cần đến bệnh viện không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "症状加重就尽快就医。",
+              "id": "s45_4_0006_reply01",
+              "meaning_vi": "Nếu triệu chứng nặng lên thì đi khám sớm."
+            },
+            {
+              "text": "呼吸困难要急救。",
+              "id": "s45_4_0006_reply02",
+              "meaning_vi": "Khó thở thì phải gọi cấp cứu."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "zhè yàng yào qù yī yuàn ma",
+          "when_to_use": "不舒服的程度明显加重，想知道是否需要到医院接受评估。",
+          "mistakes": [
+            {
+              "text": "“要去医院吗”是求助问法，不应把“等一等”当作严重症状的默认选择。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Như vậy có cần đi bệnh viện không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Như vậy có cần đi bệnh viện không?",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0007",
+          "level": "must",
+          "text": "头晕越来越厉害。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先坐下，别开车。",
+              "id": "s45_4_0007_reply01",
+              "meaning_vi": "Ngồi xuống trước, đừng lái xe."
+            },
+            {
+              "text": "尽快去医院检查。",
+              "id": "s45_4_0007_reply02",
+              "meaning_vi": "Mau đến bệnh viện kiểm tra."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "tóu yūn yuè lái yuè lì hai",
+          "when_to_use": "吃药后头晕越来越严重，向身边人求助，不再自己开车。",
+          "mistakes": [
+            {
+              "text": "越来越严重表明症状在加重，不能仅凭“先坐下”延误就医评估。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi càng lúc càng chóng mặt.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi càng lúc càng chóng mặt.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0008",
+          "level": "must",
+          "text": "身上起红点了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "会痒吗？",
+              "id": "s45_4_0008_reply01",
+              "meaning_vi": "Có ngứa không?"
+            },
+            {
+              "text": "尽快告诉医生。",
+              "id": "s45_4_0008_reply02",
+              "meaning_vi": "Mau báo cho bác sĩ."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "shēn shang qǐ hóng diǎn le",
+          "when_to_use": "发现服药后皮肤出现红点，向医生说明新出现的皮肤症状。",
+          "mistakes": [
+            {
+              "text": "红点不一定就是药物过敏，尤其合并嘴唇肿、喉咙紧或呼吸困难时，应立即急救。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trên người tôi nổi các nốt đỏ rồi.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Trên người tôi nổi các nốt đỏ rồi.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0009",
+          "level": "must",
+          "text": "嘴唇有点肿。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "嘴唇突然肿起来，要立即就医！",
+              "id": "s45_4_0009_reply01",
+              "meaning_vi": "Nếu môi đột ngột sưng lên, phải đi khám ngay!"
+            },
+            {
+              "text": "喉咙紧或喘不过气，马上打120！",
+              "id": "s45_4_0009_reply02",
+              "meaning_vi": "Nếu nghẹn họng hoặc khó thở, gọi 120 ngay!"
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "zuǐ chún yǒu diǎn zhǒng",
+          "mistakes": [
+            {
+              "text": "服药后嘴唇肿可能是严重过敏的警讯，应立即寻求急诊帮助。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Môi tôi hơi sưng.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "服药后嘴唇突然肿胀，可能是严重过敏信号，要立刻寻求医疗帮助。",
+          "meaning_vi": "Môi tôi hơi sưng.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0010",
+          "level": "must",
+          "text": "心跳有点快。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有没有胸闷？",
+              "id": "s45_4_0010_reply01",
+              "meaning_vi": "Có bị tức ngực không?"
+            },
+            {
+              "text": "尽快让医生看看。",
+              "id": "s45_4_0010_reply02",
+              "meaning_vi": "Mau để bác sĩ kiểm tra."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "xīn tiào yǒu diǎn kuài",
+          "when_to_use": "服药后感到心跳明显加快，向医生报告并说明有无胸痛或气短。",
+          "mistakes": [
+            {
+              "text": "心跳快并不一定由药引起；伴明显胸痛、胸闷、呼吸困难或晕厥时应立即拨打急救电话。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tim tôi đập hơi nhanh.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tim tôi đập hơi nhanh.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0011",
+          "level": "must",
+          "text": "喉咙有点紧。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "可能严重过敏，立即打120！",
+              "id": "s45_4_0011_reply01",
+              "meaning_vi": "Có thể là dị ứng nghiêm trọng, gọi 120 ngay!"
+            },
+            {
+              "text": "别等，马上求救！",
+              "id": "s45_4_0011_reply02",
+              "meaning_vi": "Đừng chờ, mau cầu cứu!"
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "hóu long yǒu diǎn jǐn",
+          "mistakes": [
+            {
+              "text": "服药后喉咙发紧可能影响呼吸，应立即急救，不宜等待观察。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Cổ họng tôi hơi thắt lại.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "服药后喉咙紧、吞咽或呼吸受影响，是急救场景，需要立即呼救。",
+          "meaning_vi": "Cổ họng tôi hơi thắt lại.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0019",
+          "level": "must",
+          "text": "我好像吃错药了。",
+          "when_to_use": "发现自己可能把别人的药或相似包装的药吃错了，向医生说明情况求助。",
+          "alternatives": [
+            {
+              "text": "我可能吃错药了。",
+              "id": "s45_4_0019_alt01",
+              "meaning_vi": "Có thể tôi uống nhầm thuốc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "吃的什么药，什么时候吃的？",
+              "id": "s45_4_0019_reply01",
+              "meaning_vi": "Bạn uống thuốc gì, vào lúc nào?"
+            },
+            {
+              "text": "尽快联系医生，严重不适马上急救。",
+              "id": "s45_4_0019_reply02",
+              "meaning_vi": "Mau liên hệ bác sĩ; nếu khó chịu nghiêm trọng thì gọi cấp cứu ngay."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "wǒ hǎo xiàng chī cuò yào le",
+          "mistakes": [
+            {
+              "text": "吃错药不代表一定没事，尤其儿童或高风险药品应尽快求助；保留药盒，但不要因为找药盒延误急救。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Hình như tôi uống nhầm thuốc rồi.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Hình như tôi uống nhầm thuốc rồi.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0020",
+          "level": "must",
+          "text": "我不小心多吃了一次。",
+          "when_to_use": "已经按计划服了一次，忘记后又重复服药，想问医生如何处理。",
+          "alternatives": [
+            {
+              "text": "我多服了一次药。",
+              "id": "s45_4_0020_alt01",
+              "meaning_vi": "Tôi uống dư một liều thuốc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "请说清药名、服用量和时间。",
+              "id": "s45_4_0020_reply01",
+              "meaning_vi": "Hãy nói rõ tên thuốc, lượng dùng và thời gian uống."
+            },
+            {
+              "text": "尽快联系医生，别自己改下次用量。",
+              "id": "s45_4_0020_reply02",
+              "meaning_vi": "Mau liên hệ bác sĩ, đừng tự chỉnh liều tiếp theo."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "wǒ bù xiǎo xīn duō chī le yí cì",
+          "mistakes": [
+            {
+              "text": "多服不一定只是小问题，药名、剂量、时间很重要；有严重症状时立即求救，不要通过自己减下次药量来抵消。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi lỡ uống thêm một liều.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi lỡ uống thêm một liều.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0021",
+          "level": "must",
+          "text": "吃药后喘不过气。",
+          "when_to_use": "吃药后出现明显呼吸困难，属于急症，需要立即向身边人求助。",
+          "alternatives": [
+            {
+              "text": "吃了药后呼吸困难。",
+              "id": "s45_4_0021_alt01",
+              "meaning_vi": "Sau khi uống thuốc tôi bị khó thở."
+            }
+          ],
+          "replies": [
+            {
+              "text": "马上打120，别等！",
+              "id": "s45_4_0021_reply01",
+              "meaning_vi": "Gọi 120 ngay, đừng chờ!"
+            },
+            {
+              "text": "告诉急救人员你在哪儿。",
+              "id": "s45_4_0021_reply02",
+              "meaning_vi": "Cho nhân viên cấp cứu biết bạn đang ở đâu."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "chī yào hòu chuǎn bú guò qì",
+          "mistakes": [
+            {
+              "text": "服药后呼吸困难、喉咙发紧可能是严重过敏反应，应立即急救；中国大陆拨120，其他地区用当地急救号码。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Tôi uống thuốc xong thì khó thở.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Tôi uống thuốc xong thì khó thở.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0022",
+          "level": "must",
+          "text": "能帮我叫救护车吗？",
+          "when_to_use": "有人突发严重不适，自己可能没法清楚打电话，需要请旁人帮忙呼叫急救车。",
+          "alternatives": [
+            {
+              "text": "请帮我打120。",
+              "id": "s45_4_0022_alt01",
+              "meaning_vi": "Làm ơn gọi 120 giúp tôi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "我现在打120。",
+              "id": "s45_4_0022_reply01",
+              "meaning_vi": "Tôi gọi 120 ngay."
+            },
+            {
+              "text": "把你现在的位置告诉我。",
+              "id": "s45_4_0022_reply02",
+              "meaning_vi": "Cho tôi biết vị trí hiện tại của bạn."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "néng bāng wǒ jiào jiù hù chē ma",
+          "mistakes": [
+            {
+              "text": "中国大陆急救电话为120；求助时说明准确位置和主要症状，严重不适时不要自行开车就医。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Bạn giúp tôi gọi xe cứu thương được không?” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Bạn giúp tôi gọi xe cứu thương được không?",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0012",
+          "level": "listen",
+          "text": "先问医生要不要停药。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在联系医生。",
+              "id": "s45_4_0012_reply01",
+              "meaning_vi": "Được, tôi sẽ liên hệ bác sĩ ngay."
+            },
+            {
+              "text": "我把症状告诉医生。",
+              "id": "s45_4_0012_reply02",
+              "meaning_vi": "Tôi sẽ báo triệu chứng cho bác sĩ."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "xiān wèn yī shēng yào bú yào tíng yào",
+          "mistakes": [
+            {
+              "text": "一般不良反应应尽快咨询医生是否调整用药；但如果喉咙发紧、呼吸困难或突发嘴唇肿胀，应立即呼叫120，不能等一般咨询。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên hỏi bác sĩ có cần ngừng thuốc không.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "一般不良反应出现后，药师提醒尽快询问医生是否调整用药；严重过敏另须紧急处理。",
+          "meaning_vi": "Trước tiên hỏi bác sĩ có cần ngừng thuốc không.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0013",
+          "level": "listen",
+          "text": "严重就马上去医院。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "呼吸困难要马上打120。",
+              "id": "s45_4_0013_reply01",
+              "meaning_vi": "Khó thở thì gọi 120 ngay."
+            },
+            {
+              "text": "好，我去急诊。",
+              "id": "s45_4_0013_reply02",
+              "meaning_vi": "Được, tôi đến khoa cấp cứu."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "yán zhòng jiù mǎ shàng qù yī yuàn",
+          "when_to_use": "症状已经严重到影响正常活动，药师提醒尽快就医，急症时立即求救。",
+          "mistakes": [
+            {
+              "text": "“严重”不应模糊处理：呼吸困难、喉咙发紧或突发嘴唇肿胀要拨急救电话，而非独自驾车就医。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Nếu nghiêm trọng thì đến bệnh viện ngay.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Nếu nghiêm trọng thì đến bệnh viện ngay.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0014",
+          "level": "listen",
+          "text": "得先查是不是药物反应。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要做什么检查？",
+              "id": "s45_4_0014_reply01",
+              "meaning_vi": "Cần làm xét nghiệm gì?"
+            },
+            {
+              "text": "那我把药盒带来。",
+              "id": "s45_4_0014_reply02",
+              "meaning_vi": "Vậy tôi mang hộp thuốc đến."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "děi xiān chá shì bú shì yào wù fǎn yìng",
+          "when_to_use": "医生怀疑症状可能与药物有关，解释还需要核对服药史与身体状况。",
+          "mistakes": [
+            {
+              "text": "“是不是药物反应”只能由医疗人员结合药物、症状和时间判断，不宜自行确认或排除。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Trước tiên phải kiểm tra có phải phản ứng do thuốc không.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Trước tiên phải kiểm tra có phải phản ứng do thuốc không.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0015",
+          "level": "listen",
+          "text": "不要自己加量。",
+          "alternatives": [
+            {
+              "text": "别自己加药量。",
+              "id": "s45_4_0015_alt01",
+              "meaning_vi": "Đừng tự tăng liều thuốc."
+            }
+          ],
+          "replies": [
+            {
+              "text": "没效果怎么办？",
+              "id": "s45_4_0015_reply01",
+              "meaning_vi": "Nếu không có tác dụng thì sao?"
+            },
+            {
+              "text": "好，我先问医生。",
+              "id": "s45_4_0015_reply02",
+              "meaning_vi": "Được, tôi sẽ hỏi bác sĩ trước."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "bú yào zì jǐ jiā liàng",
+          "when_to_use": "症状没好转时有人想增加药量，药师明确提醒不可以自己加量。",
+          "mistakes": [
+            {
+              "text": "不要因感觉没效果就自行加量；也不要自行合并含相同成分的药品。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Đừng tự ý tăng liều.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Đừng tự ý tăng liều.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0016",
+          "level": "listen",
+          "text": "呼吸困难就马上打120。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我现在打。",
+              "id": "s45_4_0016_reply01",
+              "meaning_vi": "Được, tôi gọi ngay."
+            },
+            {
+              "text": "我把地址告诉他们。",
+              "id": "s45_4_0016_reply02",
+              "meaning_vi": "Tôi sẽ báo địa chỉ cho họ."
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "hū xī kùn nán jiù mǎ shàng dǎ yāo èr líng",
+          "mistakes": [
+            {
+              "text": "120 是中国大陆的医疗急救号码，其他地区请使用当地急救电话。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Nếu khó thở thì gọi 120 ngay.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "听到严重过敏可能导致呼吸困难，需要记住中国大陆医疗急救号码120。",
+          "meaning_vi": "Nếu khó thở thì gọi 120 ngay.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0017",
+          "level": "listen",
+          "text": "把药名和剂量告诉医生。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我给您看药盒。",
+              "id": "s45_4_0017_reply01",
+              "meaning_vi": "Tôi đưa bác sĩ xem hộp thuốc."
+            },
+            {
+              "text": "还要说吃药时间吗？",
+              "id": "s45_4_0017_reply02",
+              "meaning_vi": "Có cần nói cả giờ uống không?"
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "bǎ yào míng hé jì liàng gào su yī shēng",
+          "when_to_use": "就诊时医生问正在用什么药，你需要报出药名、用药量和服用时间。",
+          "mistakes": [
+            {
+              "text": "“剂量”是实际服用多少，不仅是吃药次数；就医时药名、规格、服药时间均重要。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Cho bác sĩ biết tên thuốc và liều dùng.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "meaning_vi": "Cho bác sĩ biết tên thuốc và liều dùng.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        },
+        {
+          "id": "s45_4_0018",
+          "level": "listen",
+          "text": "带上药盒去医院。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我带着。",
+              "id": "s45_4_0018_reply01",
+              "meaning_vi": "Được, tôi mang theo."
+            },
+            {
+              "text": "处方也要带吗？",
+              "id": "s45_4_0018_reply02",
+              "meaning_vi": "Có cần mang cả đơn thuốc không?"
+            }
+          ],
+          "lesson_id": "45.4",
+          "lesson_title": "45.4 不良反应与停药",
+          "pinyin": "dài shàng yào hé qù yī yuàn",
+          "mistakes": [
+            {
+              "text": "就医时药盒或处方有助于核对药名和剂量；但若出现呼吸困难、喉咙发紧等急症，不要为找药盒而耽误呼救。",
+              "text_vi": "Lưu ý về cách diễn đạt: “Mang hộp thuốc đến bệnh viện.” Nội dung học giao tiếp, không phải hướng dẫn tự kê đơn. Phải xác nhận thuốc, liều lượng, chống chỉ định và triệu chứng với bác sĩ hoặc dược sĩ; nếu khó thở, sưng họng hoặc phản ứng nặng hãy gọi cấp cứu ngay."
+            }
+          ],
+          "when_to_use": "因疑似药物反应准备就医，有条件时把药盒带上帮助医生核对。",
+          "meaning_vi": "Mang hộp thuốc đến bệnh viện.",
+          "lesson_title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc"
+        }
+      ],
+      "title_vi": "45.4 Phản ứng bất lợi và ngừng thuốc",
+      "subtitle_vi": "22 thẻ giao tiếp",
+      "opening_vi": "Luyện báo cho nhân viên y tế về chóng mặt, nổi mẩn, sưng môi, khó thở và nghi dùng quá liều. Với dấu hiệu phản ứng nghiêm trọng, cần gọi cấp cứu tại địa phương ngay."
+    }
+  ],
+  "quality_notes": {
+    "canonical": "packs/45.json and source/45.json synchronized at V5",
+    "native_review": "AI bilingual editorial review only; Burmese native teacher and licensed pharmacist have not independently signed off",
+    "medical_safety": "Numeric dosing examples explicitly refer to an illustrative medicine list, never universal instructions. Confirm personal dosage, frequency, course, contraindications and interactions with a qualified pharmacist/doctor and actual package/prescription. Sudden mouth, throat swelling or difficulty breathing requires immediate emergency response; 120 in mainland China.",
+    "stable_id_policy": "73 original parent IDs preserved; 13 newly added main IDs; 204 unique child IDs assigned; never reuse old IDs.",
+    "legacy_count_mismatch": "V4's source_phrase_count 75 did not match 73 published primary cards; V5 now uses the verified current count 86.",
+    "tts_rebuild_parent_ids": [
+      "s45_1_0017"
+    ],
+    "pronunciation_note": "Burmese phonetic fields are approximate study aids and require native audio verification.",
+    "spoken_dose_reinstated_V6": [
+      "s45_2_0012",
+      "s45_2_0013",
+      "s45_2_0015",
+      "s45_2_0016"
+    ],
+    "new_V6_child_alt_ids": [
+      "s45_2_0012_alt01",
+      "s45_2_0013_alt01",
+      "s45_2_0015_alt01",
+      "s45_2_0016_alt01"
+    ],
+    "safety_scope": "These are listening examples of a pharmacist explaining an individually identified medication, not blanket patient dosing advice. Confirm the actual medicine and prescription.",
+    "tts_diff_V5_to_V6": "Regenerate voice for the 4 restored main card texts under their existing IDs and generate 4 new alternative IDs. V4 main wording has been reinstated exactly; old V4 recordings may be reused only after file/content and pronunciation verification.",
+    "prior_V5_dose_change_note": "V5 expanded medication context by replacing four common oral instructions with label-reading sentences; V6 retains both, prioritizing conversational comprehension."
+  },
+  "theme_title_vi": "45 Mua và sử dụng thuốc",
+  "card_count": 86,
+  "lesson_counts": [
+    21,
+    23,
+    20,
+    22
+  ]
+}
