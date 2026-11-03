@@ -1,9 +1,9 @@
 {
   "theme_id": "50",
   "version": 1,
-  "updated_at": "2026-11-03T02:49:57.314Z",
+  "updated_at": "2026-11-03T02:52:03.417Z",
   "theme_title": "50 证件签证办事",
-  "quality_standard": "DRAFT ON FEATURE BRANCH: lessons 50.1–50.3 complete; 50.4–50.6 translation pending. Do not merge until all QA passes.",
+  "quality_standard": "All 127 main, 34 alternative, 254 reply and 127 Mandarin-specific learning notes are now translated into Vietnamese. Original Chinese, pinyin, IDs and ordering intact. High-risk Chinese visa/work permit statements checked with NIA and official work-permit guides; native-editor and app/audio verification still pending.",
   "source_phrase_count": 127,
   "lessons": [
     {
@@ -3444,28 +3444,34 @@
           "alternatives": [
             {
               "text": "证件好了吗？",
-              "id": "s50_6_0001_alt01"
+              "id": "s50_6_0001_alt01",
+              "meaning_vi": "Giấy tờ đã có chưa?"
             }
           ],
           "replies": [
             {
               "text": "还在审核。",
-              "id": "s50_6_0001_reply01"
+              "id": "s50_6_0001_reply01",
+              "meaning_vi": "Vẫn đang xét duyệt."
             },
             {
               "text": "办好了，可以领取了。",
-              "id": "s50_6_0001_reply02"
+              "id": "s50_6_0001_reply02",
+              "meaning_vi": "Đã xong, có thể đến nhận."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“办好了吗”问是否办理完成；“已受理”或“正在审核”都不等于证件已经办好。"
+              "text": "“办好了吗”问是否办理完成；“已受理”或“正在审核”都不等于证件已经办好。",
+              "text_vi": "“办好了吗” hỏi đã xong thủ tục chưa; mới tiếp nhận hoặc đang xét duyệt thì chưa phải đã xong."
             }
           ],
           "pinyin": "zhèng jiàn bàn hǎo le ma",
-          "when_to_use": "证件申请已递交一段时间，向窗口询问是否审批完成可以领取。"
+          "when_to_use": "证件申请已递交一段时间，向窗口询问是否审批完成可以领取。",
+          "meaning_vi": "Giấy tờ làm xong chưa?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0002",
@@ -3475,22 +3481,27 @@
           "replies": [
             {
               "text": "可以在网上查询。",
-              "id": "s50_6_0002_reply01"
+              "id": "s50_6_0002_reply01",
+              "meaning_vi": "Có thể tra trực tuyến."
             },
             {
               "text": "拿受理号到窗口问。",
-              "id": "s50_6_0002_reply02"
+              "id": "s50_6_0002_reply02",
+              "meaning_vi": "Mang mã tiếp nhận hỏi tại quầy."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“查进度”是看申请处于哪一步，不代表获取审批结果；注意只在官方查询渠道输入个人资料。"
+              "text": "“查进度”是看申请处于哪一步，不代表获取审批结果；注意只在官方查询渠道输入个人资料。",
+              "text_vi": "“查进度” là xem hồ sơ ở bước nào, chưa phải nhận kết quả cuối; chỉ nhập dữ liệu trên cổng chính thức."
             }
           ],
           "pinyin": "zěn me chá jìn dù",
-          "when_to_use": "护照或居留证件的申请已提交，想知道用受理号从什么渠道查询。"
+          "when_to_use": "护照或居留证件的申请已提交，想知道用受理号从什么渠道查询。",
+          "meaning_vi": "Kiểm tra tiến độ thế nào?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0003",
@@ -3499,28 +3510,34 @@
           "alternatives": [
             {
               "text": "哪天能领？",
-              "id": "s50_6_0003_alt01"
+              "id": "s50_6_0003_alt01",
+              "meaning_vi": "Ngày nào nhận được?"
             }
           ],
           "replies": [
             {
               "text": "看回执上的日期。",
-              "id": "s50_6_0003_reply01"
+              "id": "s50_6_0003_reply01",
+              "meaning_vi": "Xem ngày trên giấy biên nhận."
             },
             {
               "text": "等通知再来。",
-              "id": "s50_6_0003_reply02"
+              "id": "s50_6_0003_reply02",
+              "meaning_vi": "Đợi thông báo rồi tới."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“什么时候能领”是领证时间，不等于最晚申请时间；以回执和官方通知的实际安排为准。"
+              "text": "“什么时候能领”是领证时间，不等于最晚申请时间；以回执和官方通知的实际安排为准。",
+              "text_vi": "“Khi nào nhận” là ngày nhận giấy, không phải hạn cuối nộp hồ sơ; theo giấy biên nhận và thông báo."
             }
           ],
           "pinyin": "shén me shí hou néng lǐng",
-          "when_to_use": "收到受理回执但没记清领证日期，向工作人员询问什么时候能来拿。"
+          "when_to_use": "收到受理回执但没记清领证日期，向工作人员询问什么时候能来拿。",
+          "meaning_vi": "Khi nào có thể nhận?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0004",
@@ -3530,22 +3547,27 @@
           "replies": [
             {
               "text": "会，注意查收。",
-              "id": "s50_6_0004_reply01"
+              "id": "s50_6_0004_reply01",
+              "meaning_vi": "Có, hãy chú ý tin nhắn."
             },
             {
               "text": "不发短信，请查进度。",
-              "id": "s50_6_0004_reply02"
+              "id": "s50_6_0004_reply02",
+              "meaning_vi": "Không gửi SMS, vui lòng tự tra tiến độ."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "并非所有窗口都短信通知；短信也可能是诈骗，需在官网或原办理窗口独立核实，不要随便点击链接。"
+              "text": "并非所有窗口都短信通知；短信也可能是诈骗，需在官网或原办理窗口独立核实，不要随便点击链接。",
+              "text_vi": "Không phải quầy nào cũng nhắn SMS; tin nhắn có thể giả, xác minh độc lập qua web/quầy chính thức, không nhấn link tùy tiện."
             }
           ],
           "pinyin": "huì fā duǎn xìn ma",
-          "when_to_use": "已经申请居留证件，想知道审批结束后是否会通过短信通知。"
+          "when_to_use": "已经申请居留证件，想知道审批结束后是否会通过短信通知。",
+          "meaning_vi": "Có gửi tin nhắn SMS không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0005",
@@ -3555,22 +3577,27 @@
           "replies": [
             {
               "text": "好，我核对一下。",
-              "id": "s50_6_0005_reply01"
+              "id": "s50_6_0005_reply01",
+              "meaning_vi": "Được, để tôi kiểm tra."
             },
             {
               "text": "还需要看护照。",
-              "id": "s50_6_0005_reply02"
+              "id": "s50_6_0005_reply02",
+              "meaning_vi": "Còn cần xem hộ chiếu."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“受理回执”是申请受理凭证，不是已经签发的居留许可，也不是国际旅行证件。"
+              "text": "“受理回执”是申请受理凭证，不是已经签发的居留许可，也不是国际旅行证件。",
+              "text_vi": "Giấy biên nhận chỉ chứng minh đã tiếp nhận hồ sơ, không phải giấy phép cư trú đã cấp hay giấy đi quốc tế."
             }
           ],
           "pinyin": "zhè shì wǒ de shòu lǐ huí zhí",
-          "when_to_use": "到出入境窗口查询或领证，出示自己申请时拿到的受理回执。"
+          "when_to_use": "到出入境窗口查询或领证，出示自己申请时拿到的受理回执。",
+          "meaning_vi": "Đây là giấy biên nhận tiếp nhận hồ sơ của tôi.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0006",
@@ -3580,22 +3607,27 @@
           "replies": [
             {
               "text": "请先出示回执。",
-              "id": "s50_6_0006_reply01"
+              "id": "s50_6_0006_reply01",
+              "meaning_vi": "Vui lòng xuất trình giấy biên nhận trước."
             },
             {
               "text": "先核对一下身份。",
-              "id": "s50_6_0006_reply02"
+              "id": "s50_6_0006_reply02",
+              "meaning_vi": "Trước tiên xác minh danh tính."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“来领证件”是取回证件，不一定表示持证资格可无限期延续；领取后还需核对姓名、号码和有效期。"
+              "text": "“来领证件”是取回证件，不一定表示持证资格可无限期延续；领取后还需核对姓名、号码和有效期。",
+              "text_vi": "“来领证件” là đến lấy giấy, không có nghĩa quyền của người sở hữu kéo dài vô hạn; nhận xong kiểm tra tên, số và hạn."
             }
           ],
           "pinyin": "wǒ lái lǐng zhèng jiàn",
-          "when_to_use": "办理通知上写证件可领取，你来到办事大厅向窗口说明来领证件。"
+          "when_to_use": "办理通知上写证件可领取，你来到办事大厅向窗口说明来领证件。",
+          "meaning_vi": "Tôi đến nhận giấy tờ.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0007",
@@ -3605,22 +3637,27 @@
           "replies": [
             {
               "text": "这项需要本人领取。",
-              "id": "s50_6_0007_reply01"
+              "id": "s50_6_0007_reply01",
+              "meaning_vi": "Mục này phải chính chủ nhận."
             },
             {
               "text": "能否代领要看规定。",
-              "id": "s50_6_0007_reply02"
+              "id": "s50_6_0007_reply02",
+              "meaning_vi": "Có cho người nhận thay không còn tùy quy định."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“本人领取”是申请人亲自到场；代办或代领的允许情形随业务及规定不同，不能直接假设任何证件都可代领。"
+              "text": "“本人领取”是申请人亲自到场；代办或代领的允许情形随业务及规定不同，不能直接假设任何证件都可代领。",
+              "text_vi": "“本人领取” là chính chủ tới, còn có được ủy quyền nhận thay hay không tùy loại thủ tục và quy định."
             }
           ],
           "pinyin": "bì xū běn rén lái lǐng ma",
-          "when_to_use": "本人工作忙不方便亲自来领居留证件，想知道是否必须亲自领取。"
+          "when_to_use": "本人工作忙不方便亲自来领居留证件，想知道是否必须亲自领取。",
+          "meaning_vi": "Có bắt buộc đích thân đến nhận không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0008",
@@ -3630,22 +3667,27 @@
           "replies": [
             {
               "text": "可以，给我受理号。",
-              "id": "s50_6_0008_reply01"
+              "id": "s50_6_0008_reply01",
+              "meaning_vi": "Được, cho tôi mã hồ sơ."
             },
             {
               "text": "请到查询窗口。",
-              "id": "s50_6_0008_reply02"
+              "id": "s50_6_0008_reply02",
+              "meaning_vi": "Vui lòng đến quầy tra cứu."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“查一下”是请求核实，不是催促保证办好；需向正式窗口出示必要受理资料。"
+              "text": "“查一下”是请求核实，不是催促保证办好；需向正式窗口出示必要受理资料。",
+              "text_vi": "“查一下” là nhờ kiểm tra tiến độ, không phải yêu cầu bảo đảm làm xong; chỉ đưa thông tin cần thiết cho quầy chính thức."
             }
           ],
           "pinyin": "néng bāng wǒ chá xià jìn dù ma",
-          "when_to_use": "受理回执上有编号，想请窗口人员帮忙查申请当前进度。"
+          "when_to_use": "受理回执上有编号，想请窗口人员帮忙查申请当前进度。",
+          "meaning_vi": "Bạn giúp tôi tra tiến độ được không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0009",
@@ -3654,28 +3696,34 @@
           "alternatives": [
             {
               "text": "可以代领吗？",
-              "id": "s50_6_0009_alt01"
+              "id": "s50_6_0009_alt01",
+              "meaning_vi": "Có thể nhận thay không?"
             }
           ],
           "replies": [
             {
               "text": "这项不允许代领。",
-              "id": "s50_6_0009_reply01"
+              "id": "s50_6_0009_reply01",
+              "meaning_vi": "Mục này không cho nhận thay."
             },
             {
               "text": "请先问受理窗口。",
-              "id": "s50_6_0009_reply02"
+              "id": "s50_6_0009_reply02",
+              "meaning_vi": "Trước tiên hỏi quầy tiếp nhận."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“代领”是让别人取证，与“代办申请”不是一回事；某些移民证件需本人到场或有特殊授权要求。"
+              "text": "“代领”是让别人取证，与“代办申请”不是一回事；某些移民证件需本人到场或有特殊授权要求。",
+              "text_vi": "“代领” là nhận thay, khác “代办申请” là nộp hồ sơ thay; một số giấy nhập cư đòi chính chủ hoặc ủy quyền đặc biệt."
             }
           ],
           "pinyin": "néng ràng bié rén dài lǐng ma",
-          "when_to_use": "不能去窗口领证，想让同事或家人代为领取，先问许可与材料条件。"
+          "when_to_use": "不能去窗口领证，想让同事或家人代为领取，先问许可与材料条件。",
+          "meaning_vi": "Có thể nhờ người khác nhận hộ không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0010",
@@ -3685,22 +3733,27 @@
           "replies": [
             {
               "text": "这项可以申请邮寄。",
-              "id": "s50_6_0010_reply01"
+              "id": "s50_6_0010_reply01",
+              "meaning_vi": "Mục này có thể xin nhận qua bưu điện."
             },
             {
               "text": "不行，要到窗口领取。",
-              "id": "s50_6_0010_reply02"
+              "id": "s50_6_0010_reply02",
+              "meaning_vi": "Không, phải đến quầy nhận."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“邮寄给我”指将证件寄送给申请人，不代表所有行政机关都提供邮寄服务；收件地址务必核对。"
+              "text": "“邮寄给我”指将证件寄送给申请人，不代表所有行政机关都提供邮寄服务；收件地址务必核对。",
+              "text_vi": "“邮寄给我” là gửi giấy tờ tới địa chỉ của mình, không phải mọi cơ quan đều cung cấp; phải kiểm tra địa chỉ nhận."
             }
           ],
           "pinyin": "kě yǐ yóu jì gěi wǒ ma",
-          "when_to_use": "住得离出入境办证大厅较远，想知道证件办好后能否邮寄到住处。"
+          "when_to_use": "住得离出入境办证大厅较远，想知道证件办好后能否邮寄到住处。",
+          "meaning_vi": "Có thể gửi qua bưu điện cho tôi không?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0019",
@@ -3710,27 +3763,33 @@
           "alternatives": [
             {
               "text": "领证短信还没收到。",
-              "id": "s50_6_0019_alt01"
+              "id": "s50_6_0019_alt01",
+              "meaning_vi": "Tin nhắn thông báo nhận giấy tờ chưa đến."
             }
           ],
           "replies": [
             {
               "text": "我帮你核对一下登记的手机号。",
-              "id": "s50_6_0019_reply01"
+              "id": "s50_6_0019_reply01",
+              "meaning_vi": "Để tôi kiểm tra lại số điện thoại đã đăng ký."
             },
             {
               "text": "可以先通过官方渠道查进度。",
-              "id": "s50_6_0019_reply02"
+              "id": "s50_6_0019_reply02",
+              "meaning_vi": "Bạn có thể tra qua kênh chính thức trước."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“没收到短信”不等于申请未获批；可能是通知未发或手机号码有误，需用官方渠道查证。"
+              "text": "“没收到短信”不等于申请未获批；可能是通知未发或手机号码有误，需用官方渠道查证。",
+              "text_vi": "Chưa có SMS không đồng nghĩa chưa được duyệt; có thể chưa gửi hoặc đăng ký sai số, cần tra chính thức."
             }
           ],
-          "pinyin": "wǒ hái méi shōu dào duǎn xìn"
+          "pinyin": "wǒ hái méi shōu dào duǎn xìn",
+          "meaning_vi": "Tôi vẫn chưa nhận được SMS.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0020",
@@ -3740,27 +3799,33 @@
           "alternatives": [
             {
               "text": "申请受理编号在哪里？",
-              "id": "s50_6_0020_alt01"
+              "id": "s50_6_0020_alt01",
+              "meaning_vi": "Mã số hồ sơ tiếp nhận ở đâu?"
             }
           ],
           "replies": [
             {
               "text": "受理回执上有。",
-              "id": "s50_6_0020_reply01"
+              "id": "s50_6_0020_reply01",
+              "meaning_vi": "Có trên giấy biên nhận."
             },
             {
               "text": "我帮你指一下编号的位置。",
-              "id": "s50_6_0020_reply02"
+              "id": "s50_6_0020_reply02",
+              "meaning_vi": "Để tôi chỉ vị trí mã."
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“受理号”是办理申请的受理编号，不是排队号码、护照号或手机验证码；不要在陌生网站泄露受理信息。"
+              "text": "“受理号”是办理申请的受理编号，不是排队号码、护照号或手机验证码；不要在陌生网站泄露受理信息。",
+              "text_vi": "“受理号” là mã hồ sơ tiếp nhận, không phải số xếp hàng, số hộ chiếu hay OTP; đừng đưa cho website lạ."
             }
           ],
-          "pinyin": "shòu lǐ hào zài nǎr kàn"
+          "pinyin": "shòu lǐ hào zài nǎr kàn",
+          "meaning_vi": "Mã tiếp nhận xem ở đâu?",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0011",
@@ -3770,22 +3835,27 @@
           "replies": [
             {
               "text": "大概还要几天？",
-              "id": "s50_6_0011_reply01"
+              "id": "s50_6_0011_reply01",
+              "meaning_vi": "Khoảng mấy ngày nữa?"
             },
             {
               "text": "可以网上查询吗？",
-              "id": "s50_6_0011_reply02"
+              "id": "s50_6_0011_reply02",
+              "meaning_vi": "Có thể tra trực tuyến không?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“还在审核”表示未最终批准，不等于材料不足；若通知补件应按要求补交。"
+              "text": "“还在审核”表示未最终批准，不等于材料不足；若通知补件应按要求补交。",
+              "text_vi": "“还在审核” là chưa có quyết định cuối, không nhất thiết thiếu giấy; nếu có yêu cầu bổ sung thì nộp đúng."
             }
           ],
           "pinyin": "hái zài shěn hé",
-          "when_to_use": "系统显示申请仍在审核，申请者想知道还需等待多久。"
+          "when_to_use": "系统显示申请仍在审核，申请者想知道还需等待多久。",
+          "meaning_vi": "Vẫn đang xét duyệt.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0012",
@@ -3795,22 +3865,27 @@
           "replies": [
             {
               "text": "好，我什么时候来领？",
-              "id": "s50_6_0012_reply01"
+              "id": "s50_6_0012_reply01",
+              "meaning_vi": "Được, khi nào tôi đến nhận?"
             },
             {
               "text": "需要带什么来？",
-              "id": "s50_6_0012_reply02"
+              "id": "s50_6_0012_reply02",
+              "meaning_vi": "Cần mang gì khi đến?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“已经办好了”指业务已完成，但还需实际领取并核对证件信息，不能只凭口头通知出境。"
+              "text": "“已经办好了”指业务已完成，但还需实际领取并核对证件信息，不能只凭口头通知出境。",
+              "text_vi": "“已经办好了” là thủ tục hoàn tất nhưng còn phải nhận và kiểm tra giấy; đừng xuất cảnh chỉ dựa vào lời thông báo."
             }
           ],
           "pinyin": "yǐ jīng bàn hǎo le",
-          "when_to_use": "窗口告知你证件已办妥，你准备再问何时和带什么材料来取。"
+          "when_to_use": "窗口告知你证件已办妥，你准备再问何时和带什么材料来取。",
+          "meaning_vi": "Đã làm xong rồi.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0013",
@@ -3820,22 +3895,27 @@
           "replies": [
             {
               "text": "好，我注意看短信。",
-              "id": "s50_6_0013_reply01"
+              "id": "s50_6_0013_reply01",
+              "meaning_vi": "Được, tôi sẽ để ý tin nhắn."
             },
             {
               "text": "没收到能查进度吗？",
-              "id": "s50_6_0013_reply02"
+              "id": "s50_6_0013_reply02",
+              "meaning_vi": "Nếu không nhận SMS có thể tra tiến độ không?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“收到短信再来”在这次业务中是领证安排，不是所有业务都统一如此；陌生短信中索取验证码的内容要警惕。"
+              "text": "“收到短信再来”在这次业务中是领证安排，不是所有业务都统一如此；陌生短信中索取验证码的内容要警惕。",
+              "text_vi": "“收到短信再来” là hướng dẫn nhận giấy cho thủ tục này, không áp dụng mọi nơi; cảnh giác SMS xin mã OTP."
             }
           ],
           "pinyin": "shōu dào duǎn xìn zài lái",
-          "when_to_use": "现场工作人员说办理结果会短信通知，提醒你收到信息后再来领。"
+          "when_to_use": "现场工作人员说办理结果会短信通知，提醒你收到信息后再来领。",
+          "meaning_vi": "Nhận được SMS rồi hãy đến.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0014",
@@ -3845,22 +3925,27 @@
           "replies": [
             {
               "text": "好，我带着。",
-              "id": "s50_6_0014_reply01"
+              "id": "s50_6_0014_reply01",
+              "meaning_vi": "Được, tôi mang theo."
             },
             {
               "text": "还需要带护照吗？",
-              "id": "s50_6_0014_reply02"
+              "id": "s50_6_0014_reply02",
+              "meaning_vi": "Còn cần mang hộ chiếu không?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“领证时带回执”指携带受理凭证，不是只出示手机里的聊天截图；是否还要护照或其他身份证件需确认。"
+              "text": "“领证时带回执”指携带受理凭证，不是只出示手机里的聊天截图；是否还要护照或其他身份证件需确认。",
+              "text_vi": "Mang giấy biên nhận là mang chứng từ tiếp nhận, không chỉ ảnh chụp chat; hỏi có cần hộ chiếu hoặc giấy khác không."
             }
           ],
           "pinyin": "lǐng zhèng shí dài shàng huí zhí",
-          "when_to_use": "拿到工作人员的领证提醒，听到必须带上办理时发的受理回执。"
+          "when_to_use": "拿到工作人员的领证提醒，听到必须带上办理时发的受理回执。",
+          "meaning_vi": "Khi nhận giấy tờ hãy mang biên nhận.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0015",
@@ -3870,22 +3955,27 @@
           "replies": [
             {
               "text": "好，我本人来。",
-              "id": "s50_6_0015_reply01"
+              "id": "s50_6_0015_reply01",
+              "meaning_vi": "Được, tôi tự đến."
             },
             {
               "text": "能改领取时间吗？",
-              "id": "s50_6_0015_reply02"
+              "id": "s50_6_0015_reply02",
+              "meaning_vi": "Có thể đổi giờ nhận không?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“这项不能代领”是针对当前具体证件业务，不应泛化为所有办事项目都必须本人领取。"
+              "text": "“这项不能代领”是针对当前具体证件业务，不应泛化为所有办事项目都必须本人领取。",
+              "text_vi": "“不能代领” chỉ dành cho loại hồ sơ hiện tại, không có nghĩa mọi dịch vụ đều cấm người nhận thay."
             }
           ],
           "pinyin": "zhè xiàng bù néng dài lǐng",
-          "when_to_use": "向窗口提出让家属代取，工作人员明确说此项不能代领。"
+          "when_to_use": "向窗口提出让家属代取，工作人员明确说此项不能代领。",
+          "meaning_vi": "Mục này không được nhận thay.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0016",
@@ -3895,22 +3985,27 @@
           "replies": [
             {
               "text": "好的，我会来。",
-              "id": "s50_6_0016_reply01"
+              "id": "s50_6_0016_reply01",
+              "meaning_vi": "Được, tôi sẽ tới."
             },
             {
               "text": "要提前预约吗？",
-              "id": "s50_6_0016_reply02"
+              "id": "s50_6_0016_reply02",
+              "meaning_vi": "Có phải đặt lịch trước không?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“本人来领取”表示需要本人到场，与允许代领的业务不同；问清领证地址、时间和证明文件。"
+              "text": "“本人来领取”表示需要本人到场，与允许代领的业务不同；问清领证地址、时间和证明文件。",
+              "text_vi": "“本人来领取” là phải tự đến quầy; hỏi giờ, địa chỉ và giấy tờ phải đem."
             }
           ],
           "pinyin": "qǐng běn rén lái lǐng qǔ",
-          "when_to_use": "证件办好后，柜员要求申请人亲自带材料到现场领取。"
+          "when_to_use": "证件办好后，柜员要求申请人亲自带材料到现场领取。",
+          "meaning_vi": "Vui lòng chính chủ đến nhận.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0017",
@@ -3920,22 +4015,27 @@
           "replies": [
             {
               "text": "在哪个网站查？",
-              "id": "s50_6_0017_reply01"
+              "id": "s50_6_0017_reply01",
+              "meaning_vi": "Tra trên website nào?"
             },
             {
               "text": "需要受理号吗？",
-              "id": "s50_6_0017_reply02"
+              "id": "s50_6_0017_reply02",
+              "meaning_vi": "Có cần mã tiếp nhận không?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“网上可以查”不等于任何网站都可信；谨防仿冒政务页面，使用官方链接或受理回执标注的入口。"
+              "text": "“网上可以查”不等于任何网站都可信；谨防仿冒政务页面，使用官方链接或受理回执标注的入口。",
+              "text_vi": "Tra online chỉ qua trang chính thức, tránh website giả mạo; dùng link từ biên nhận hoặc cổng cơ quan."
             }
           ],
           "pinyin": "wǎng shàng kě yǐ chá jìn dù",
-          "when_to_use": "申请表已经提交，工作人员告知可以通过官网线上查办理状态。"
+          "when_to_use": "申请表已经提交，工作人员告知可以通过官网线上查办理状态。",
+          "meaning_vi": "Có thể tra tiến độ qua mạng.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         },
         {
           "id": "s50_6_0018",
@@ -3945,24 +4045,32 @@
           "replies": [
             {
               "text": "好，我记住了。",
-              "id": "s50_6_0018_reply01"
+              "id": "s50_6_0018_reply01",
+              "meaning_vi": "Được, tôi nhớ rồi."
             },
             {
               "text": "那天需要预约吗？",
-              "id": "s50_6_0018_reply02"
+              "id": "s50_6_0018_reply02",
+              "meaning_vi": "Ngày đó có phải đặt lịch không?"
             }
           ],
           "lesson_id": "50.6",
           "lesson_title": "50.6 查询进度与领取证件",
           "mistakes": [
             {
-              "text": "“按回执日期”是依当前受理安排，不保证中途绝对不会变更；出行前可核对官方通知。"
+              "text": "“按回执日期”是依当前受理安排，不保证中途绝对不会变更；出行前可核对官方通知。",
+              "text_vi": "“按回执日期” dựa vào lịch trên giấy biên nhận, chưa chắc tuyệt đối không thay đổi; xem thông báo trước khi đến."
             }
           ],
           "pinyin": "àn huí zhí rì qī lái lǐng",
-          "when_to_use": "受理回执上写有预计领证日期，柜员提醒届时按日期来取。"
+          "when_to_use": "受理回执上写有预计领证日期，柜员提醒届时按日期来取。",
+          "meaning_vi": "Đến nhận theo ngày ghi trên giấy biên nhận.",
+          "lesson_title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ"
         }
-      ]
+      ],
+      "title_vi": "50.6 Kiểm tra hồ sơ và nhận giấy tờ",
+      "subtitle_vi": "20 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi tình trạng xét duyệt, mã biên nhận, thời gian trả kết quả, nhận qua bưu điện và điều kiện nhận thay, đồng thời cảnh giác tin nhắn giả."
     }
   ],
   "quality_notes": {
