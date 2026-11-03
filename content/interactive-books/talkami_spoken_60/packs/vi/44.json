@@ -1,0 +1,2118 @@
+{
+  "theme_id": "44",
+  "lessons": [
+    {
+      "id": "44.1",
+      "title": "44.1 描述症状",
+      "phrases": [
+        {
+          "id": "s44_1_0001",
+          "level": "must",
+          "text": "我头疼。",
+          "when_to_use": "到诊室后指着头部向医生说明主要不适是头疼。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "什么时候开始头疼的？",
+              "id": "s44_1_0001_reply01",
+              "meaning_vi": "Bạn bắt đầu đau đầu từ khi nào?"
+            },
+            {
+              "text": "除了头疼，还有别的不舒服吗？",
+              "id": "s44_1_0001_reply02",
+              "meaning_vi": "Ngoài đau đầu, bạn còn khó chịu ở đâu nữa không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ tóu téng",
+          "mistakes": [
+            {
+              "text": "“头疼”只描述症状，不等于已经知道是偏头痛；还要说开始时间和程度。",
+              "text_vi": "Lưu ý về tình huống: “Tôi bị đau đầu.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi bị đau đầu.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0002",
+          "level": "must",
+          "text": "我发烧了。",
+          "when_to_use": "测到体温升高后向医护人员报告自己发烧。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "量过体温吗？",
+              "id": "s44_1_0002_reply01",
+              "meaning_vi": "Bạn đã đo nhiệt độ chưa?"
+            },
+            {
+              "text": "最高烧到多少度？",
+              "id": "s44_1_0002_reply02",
+              "meaning_vi": "Nhiệt độ cao nhất là bao nhiêu?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ fā shāo le",
+          "mistakes": [
+            {
+              "text": "“发烧”与仅觉得热不同，最好提供实际测得的体温，不能凭感觉报数字。",
+              "text_vi": "Lưu ý về tình huống: “Tôi bị sốt rồi.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi bị sốt rồi.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0003",
+          "level": "must",
+          "text": "我一直咳嗽。",
+          "when_to_use": "向医生说明咳嗽反复持续，想知道是否需要进一步检查。",
+          "alternatives": [
+            {
+              "text": "一直咳嗽。",
+              "id": "s44_1_0003_alt01",
+              "meaning_vi": "Tôi cứ ho mãi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "咳嗽多久了？",
+              "id": "s44_1_0003_reply01",
+              "meaning_vi": "Bạn ho bao lâu rồi?"
+            },
+            {
+              "text": "有没有发烧？",
+              "id": "s44_1_0003_reply02",
+              "meaning_vi": "Có bị sốt không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ yì zhí ké sou",
+          "mistakes": [
+            {
+              "text": "“一直”强调持续或反复，不等于每一秒都咳；应补充持续几天。",
+              "text_vi": "Lưu ý về tình huống: “Tôi ho suốt.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi ho suốt.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0004",
+          "level": "must",
+          "text": "我肚子不舒服。",
+          "when_to_use": "看病时尚不确定是胃痛还是腹泻，先说腹部不舒服让医生追问。",
+          "alternatives": [
+            {
+              "text": "肚子不舒服。",
+              "id": "s44_1_0004_alt01",
+              "meaning_vi": "Tôi thấy bụng khó chịu."
+            }
+          ],
+          "replies": [
+            {
+              "text": "哪里最不舒服？",
+              "id": "s44_1_0004_reply01",
+              "meaning_vi": "Bạn khó chịu nhất ở chỗ nào?"
+            },
+            {
+              "text": "有没有想吐或者拉肚子？",
+              "id": "s44_1_0004_reply02",
+              "meaning_vi": "Có buồn nôn hay tiêu chảy không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ dù zi bù shū fu",
+          "mistakes": [
+            {
+              "text": "“不舒服”比较笼统；医生会问具体部位、疼痛或腹泻等，不要直接当作确诊胃病。",
+              "text_vi": "Lưu ý về tình huống: “Tôi khó chịu ở bụng.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi khó chịu ở bụng.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0005",
+          "level": "must",
+          "text": "我不舒服两天了。",
+          "when_to_use": "医生问症状多久了，你说明已经连续不舒服两天。",
+          "alternatives": [
+            {
+              "text": "已经不舒服两天了。",
+              "id": "s44_1_0005_alt01",
+              "meaning_vi": "Tôi khó chịu đã hai ngày rồi."
+            }
+          ],
+          "replies": [
+            {
+              "text": "这两天越来越严重吗？",
+              "id": "s44_1_0005_reply01",
+              "meaning_vi": "Hai ngày nay có nặng hơn không?"
+            },
+            {
+              "text": "有没有吃过药？",
+              "id": "s44_1_0005_reply02",
+              "meaning_vi": "Bạn đã uống thuốc gì chưa?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ bù shū fu liǎng tiān le",
+          "mistakes": [
+            {
+              "text": "“两天了”说症状持续的时间，不是两天前看过医生；起始日期如实回答。",
+              "text_vi": "Lưu ý về tình huống: “Tôi khó chịu hai ngày rồi.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi khó chịu hai ngày rồi.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0006",
+          "level": "must",
+          "text": "今天比昨天更严重。",
+          "when_to_use": "复诊时告诉医生今天的症状比昨天重了。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "哪里变得更严重了？",
+              "id": "s44_1_0006_reply01",
+              "meaning_vi": "Triệu chứng nào nặng hơn?"
+            },
+            {
+              "text": "我先了解一下你的症状。",
+              "id": "s44_1_0006_reply02",
+              "meaning_vi": "Trước tiên tôi hỏi thêm về triệu chứng của bạn."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "jīn tiān bǐ zuó tiān gèng yán zhòng",
+          "mistakes": [
+            {
+              "text": "“更严重”是在比较病情变化，不等于已经知道是什么病；要举出变化的症状。",
+              "text_vi": "Lưu ý về tình huống: “Hôm nay nặng hơn hôm qua.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Hôm nay nặng hơn hôm qua.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0022",
+          "level": "must",
+          "text": "我想吐。",
+          "when_to_use": "感觉恶心、可能会呕吐时，向医生说明想吐。",
+          "alternatives": [
+            {
+              "text": "我有点想吐。",
+              "id": "s44_1_0022_alt01",
+              "meaning_vi": "Tôi hơi buồn nôn."
+            }
+          ],
+          "replies": [
+            {
+              "text": "吐过吗？",
+              "id": "s44_1_0022_reply01",
+              "meaning_vi": "Bạn đã nôn chưa?"
+            },
+            {
+              "text": "还有肚子疼或者头晕吗？",
+              "id": "s44_1_0022_reply02",
+              "meaning_vi": "Có đau bụng hoặc chóng mặt không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ xiǎng tù",
+          "mistakes": [
+            {
+              "text": "“想吐”是恶心、想呕吐，不等于已经吐过；“吐了”才表示发生了呕吐。",
+              "text_vi": "Lưu ý về tình huống: “Tôi buồn nôn.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi buồn nôn.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0023",
+          "level": "must",
+          "text": "我拉肚子了。",
+          "when_to_use": "腹泻后就诊，告诉医生出现了拉肚子的情况。",
+          "alternatives": [
+            {
+              "text": "我一直拉肚子。",
+              "id": "s44_1_0023_alt01",
+              "meaning_vi": "Tôi bị tiêu chảy liên tục."
+            }
+          ],
+          "replies": [
+            {
+              "text": "今天拉了几次？",
+              "id": "s44_1_0023_reply01",
+              "meaning_vi": "Hôm nay bạn đi ngoài mấy lần rồi?"
+            },
+            {
+              "text": "有没有肚子疼？",
+              "id": "s44_1_0023_reply02",
+              "meaning_vi": "Có đau bụng không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ lā dù zi le",
+          "mistakes": [
+            {
+              "text": "“拉肚子”是腹泻口语，不是单纯肚子疼；说明次数及是否脱水。",
+              "text_vi": "Lưu ý về tình huống: “Tôi bị tiêu chảy.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi bị tiêu chảy.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0009",
+          "level": "must",
+          "text": "我有点头晕。",
+          "when_to_use": "站起身感觉头晕时，将这种感觉告诉医护人员。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "头晕多久了？",
+              "id": "s44_1_0009_reply01",
+              "meaning_vi": "Bạn chóng mặt bao lâu rồi?"
+            },
+            {
+              "text": "站起来的时候更晕吗？",
+              "id": "s44_1_0009_reply02",
+              "meaning_vi": "Khi đứng dậy có chóng mặt hơn không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ yǒu diǎn tóu yūn",
+          "mistakes": [
+            {
+              "text": "“头晕”与“头疼”不同；有快昏倒的感觉时要及时报告，避免跌倒。",
+              "text_vi": "Lưu ý về tình huống: “Tôi hơi chóng mặt.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi hơi chóng mặt.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0011",
+          "level": "must",
+          "text": "我今天没力气。",
+          "when_to_use": "今天身体乏力、做事吃力时向医生说明。",
+          "alternatives": [
+            {
+              "text": "我今天没什么力气。",
+              "id": "s44_1_0011_alt01",
+              "meaning_vi": "Hôm nay tôi hơi mệt, không có sức."
+            }
+          ],
+          "replies": [
+            {
+              "text": "从什么时候开始没力气的？",
+              "id": "s44_1_0011_reply01",
+              "meaning_vi": "Bạn bắt đầu thấy yếu sức từ lúc nào?"
+            },
+            {
+              "text": "还有其他不舒服吗？",
+              "id": "s44_1_0011_reply02",
+              "meaning_vi": "Còn khó chịu chỗ nào khác không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ jīn tiān méi lì qi",
+          "mistakes": [
+            {
+              "text": "“没力气”是主观乏力，不代表肌肉已经失去功能；医生还需了解其他症状。",
+              "text_vi": "Lưu ý về tình huống: “Hôm nay tôi thấy không có sức.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Hôm nay tôi thấy không có sức.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0012",
+          "level": "must",
+          "text": "我喉咙疼。",
+          "when_to_use": "吞咽时喉咙痛，向医生指出疼痛的位置。",
+          "alternatives": [
+            {
+              "text": "我喉咙很痛。",
+              "id": "s44_1_0012_alt01",
+              "meaning_vi": "Họng tôi đau lắm."
+            }
+          ],
+          "replies": [
+            {
+              "text": "喉咙疼多久了？",
+              "id": "s44_1_0012_reply01",
+              "meaning_vi": "Bạn đau họng bao lâu rồi?"
+            },
+            {
+              "text": "吞咽的时候疼吗？",
+              "id": "s44_1_0012_reply02",
+              "meaning_vi": "Nuốt có đau không?"
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ hóu lóng téng",
+          "mistakes": [
+            {
+              "text": "“喉咙”指咽喉部位，不是整个脖子；可补充吞咽是否疼痛。",
+              "text_vi": "Lưu ý về tình huống: “Tôi bị đau họng.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi bị đau họng.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0013",
+          "level": "must",
+          "text": "我有点胸闷。",
+          "when_to_use": "在诊室感觉胸口闷、不容易舒畅呼吸时立即告诉医护人员。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "胸闷什么时候开始的？",
+              "id": "s44_1_0013_reply01",
+              "meaning_vi": "Bạn bắt đầu tức ngực khi nào?"
+            },
+            {
+              "text": "如果胸闷明显加重，要马上告诉医护人员。",
+              "id": "s44_1_0013_reply02",
+              "meaning_vi": "Nếu tức ngực nặng lên rõ rệt, hãy báo ngay cho nhân viên y tế."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "wǒ yǒu diǎn xiōng mēn",
+          "mistakes": [
+            {
+              "text": "胸闷若伴严重胸痛、呼吸困难或晕厥，应立即寻求急救，不要因“有点”而忽视危险。",
+              "text_vi": "Lưu ý về tình huống: “Tôi hơi tức ngực.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi hơi tức ngực.",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0014",
+          "level": "listen",
+          "text": "疼多久了？",
+          "when_to_use": "医生询问疼痛持续时间，以判断是否需要进一步检查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "已经疼两天了。",
+              "id": "s44_1_0014_reply01",
+              "meaning_vi": "Tôi đau hai ngày rồi."
+            },
+            {
+              "text": "从昨天开始疼。",
+              "id": "s44_1_0014_reply02",
+              "meaning_vi": "Tôi bắt đầu đau từ hôm qua."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "téng duō jiǔ le",
+          "mistakes": [
+            {
+              "text": "“多久”问持续时长，不是今天几点开始；可以说几小时或几天。",
+              "text_vi": "Lưu ý về tình huống: “Bạn đau bao lâu rồi?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Bạn đau bao lâu rồi?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0015",
+          "level": "listen",
+          "text": "有没有发烧？",
+          "when_to_use": "医生核对你是否出现过发热症状。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "有一点发烧。",
+              "id": "s44_1_0015_reply01",
+              "meaning_vi": "Tôi hơi sốt."
+            },
+            {
+              "text": "没有发烧。",
+              "id": "s44_1_0015_reply02",
+              "meaning_vi": "Tôi không bị sốt."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "yǒu méi yǒu fā shāo",
+          "mistakes": [
+            {
+              "text": "“有没有”可答“有”或“没有”，不是问最高体温是多少。",
+              "text_vi": "Lưu ý về tình huống: “Bạn có bị sốt không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Bạn có bị sốt không?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0016",
+          "level": "listen",
+          "text": "还有哪里不舒服？",
+          "when_to_use": "医生已了解主要症状，再问身体其他部位是否难受。",
+          "alternatives": [
+            {
+              "text": "还哪里难受？",
+              "id": "s44_1_0016_alt01",
+              "meaning_vi": "Còn chỗ nào khó chịu không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "喉咙也有点疼。",
+              "id": "s44_1_0016_reply01",
+              "meaning_vi": "Họng tôi cũng hơi đau."
+            },
+            {
+              "text": "还有点头晕。",
+              "id": "s44_1_0016_reply02",
+              "meaning_vi": "Tôi còn hơi chóng mặt."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "hái yǒu nǎ li bù shū fu",
+          "mistakes": [
+            {
+              "text": "“还有”表示在已说症状之外再补充，别把原来的同一症状重复当新症状。",
+              "text_vi": "Lưu ý về tình huống: “Bạn còn khó chịu ở đâu nữa?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Bạn còn khó chịu ở đâu nữa?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0017",
+          "level": "listen",
+          "text": "最高烧到多少度？",
+          "when_to_use": "医生想知道你测到的最高体温，以了解发热过程。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "最高到三十八度多。",
+              "id": "s44_1_0017_reply01",
+              "meaning_vi": "Cao nhất hơn 38 độ."
+            },
+            {
+              "text": "我没量过。",
+              "id": "s44_1_0017_reply02",
+              "meaning_vi": "Tôi chưa đo."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "zuì gāo shāo dào duō shǎo dù",
+          "mistakes": [
+            {
+              "text": "“最高”不是当前体温；没测量就说没测，不要猜测度数。",
+              "text_vi": "Lưu ý về tình huống: “Nhiệt độ cao nhất là bao nhiêu?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Nhiệt độ cao nhất là bao nhiêu?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0018",
+          "level": "listen",
+          "text": "什么时候开始的？",
+          "when_to_use": "医生问这次不适最初在什么时候出现。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "昨天开始的。",
+              "id": "s44_1_0018_reply01",
+              "meaning_vi": "Từ hôm qua."
+            },
+            {
+              "text": "今天早上开始的。",
+              "id": "s44_1_0018_reply02",
+              "meaning_vi": "Từ sáng nay."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "shén me shí hou kāi shǐ de",
+          "mistakes": [
+            {
+              "text": "“什么时候开始”问起始时刻，与“持续多久”不同。",
+              "text_vi": "Lưu ý về tình huống: “Bắt đầu từ khi nào?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Bắt đầu từ khi nào?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0019",
+          "level": "listen",
+          "text": "疼得厉害吗？",
+          "when_to_use": "医生询问疼痛是否很强烈，以判断严重程度。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "挺疼的。",
+              "id": "s44_1_0019_reply01",
+              "meaning_vi": "Đau khá nhiều."
+            },
+            {
+              "text": "不是很疼。",
+              "id": "s44_1_0019_reply02",
+              "meaning_vi": "Không đau lắm."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "téng dé lì hài ma",
+          "mistakes": [
+            {
+              "text": "“厉害”这里指程度重，不是称赞某人有本事；如实描述疼痛。",
+              "text_vi": "Lưu ý về tình huống: “Đau nhiều không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Đau nhiều không?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0020",
+          "level": "listen",
+          "text": "有没有吃过药？",
+          "when_to_use": "医生问你有没有自己服药、服过什么药。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "吃过一次。",
+              "id": "s44_1_0020_reply01",
+              "meaning_vi": "Tôi uống một lần rồi."
+            },
+            {
+              "text": "还没吃过药。",
+              "id": "s44_1_0020_reply02",
+              "meaning_vi": "Tôi chưa uống thuốc."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "yǒu méi yǒu chī guò yào",
+          "mistakes": [
+            {
+              "text": "“吃过药”问是否已经服用，不是让你现在吃；最好说出药名及剂量。",
+              "text_vi": "Lưu ý về tình huống: “Bạn đã uống thuốc chưa?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Bạn đã uống thuốc chưa?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        },
+        {
+          "id": "s44_1_0021",
+          "level": "listen",
+          "text": "体温是多少？",
+          "when_to_use": "护士测量体温后向你询问或确认具体数值。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "刚才量的是三十八度。",
+              "id": "s44_1_0021_reply01",
+              "meaning_vi": "Vừa nãy đo được 38 độ."
+            },
+            {
+              "text": "我还没量。",
+              "id": "s44_1_0021_reply02",
+              "meaning_vi": "Tôi chưa đo."
+            }
+          ],
+          "lesson_id": "44.1",
+          "lesson_title": "44.1 描述症状",
+          "pinyin": "tǐ wēn shì duō shǎo",
+          "mistakes": [
+            {
+              "text": "“体温”是人体温度，通常用摄氏度报告，不等于室内天气温度。",
+              "text_vi": "Lưu ý về tình huống: “Nhiệt độ cơ thể bao nhiêu?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Nhiệt độ cơ thể bao nhiêu?",
+          "lesson_title_vi": "44.1 Mô tả triệu chứng"
+        }
+      ],
+      "title_vi": "44.1 Mô tả triệu chứng",
+      "subtitle_vi": "20 thẻ giao tiếp",
+      "opening_vi": "Luyện trình bày triệu chứng và thời gian xuất hiện để nhân viên y tế nắm tình trạng. Cảm giác đau ngực hoặc khó thở nặng cần báo ngay."
+    },
+    {
+      "id": "44.2",
+      "title": "44.2 挂号科室",
+      "phrases": [
+        {
+          "id": "s44_2_0001",
+          "level": "must",
+          "text": "我想挂号。",
+          "when_to_use": "第一次到中国医院，向挂号窗口说明需要挂号看医生。",
+          "alternatives": [
+            {
+              "text": "我想挂个号。",
+              "id": "s44_2_0001_alt01",
+              "meaning_vi": "Tôi muốn lấy số khám."
+            }
+          ],
+          "replies": [
+            {
+              "text": "先说一下哪里不舒服。",
+              "id": "s44_2_0001_reply01",
+              "meaning_vi": "Trước tiên cho biết bạn khó chịu ở đâu."
+            },
+            {
+              "text": "可以先到挂号处问一下。",
+              "id": "s44_2_0001_reply02",
+              "meaning_vi": "Bạn có thể hỏi ở quầy đăng ký trước."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "wǒ xiǎng guà hào",
+          "mistakes": [
+            {
+              "text": "“挂号”是获得就诊资格或号码，不是直接做身体检查。",
+              "text_vi": "Lưu ý về tình huống: “Tôi muốn đăng ký khám.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi muốn đăng ký khám.",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0002",
+          "level": "must",
+          "text": "应该挂什么科？",
+          "when_to_use": "不清楚头疼、肚子疼等症状应看哪个科室，向分诊护士询问。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先去分诊台问一下。",
+              "id": "s44_2_0002_reply01",
+              "meaning_vi": "Trước tiên hỏi quầy phân loại bệnh nhân."
+            },
+            {
+              "text": "把症状告诉工作人员，他们会帮你判断挂哪个科。",
+              "id": "s44_2_0002_reply02",
+              "meaning_vi": "Hãy mô tả triệu chứng cho nhân viên, họ sẽ hướng dẫn chọn khoa."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "yīng gāi guà shén me kē",
+          "mistakes": [
+            {
+              "text": "“什么科”是医院科室，不是学校学科；无法自己判断时应咨询分诊。",
+              "text_vi": "Lưu ý về tình huống: “Tôi nên đăng ký khám khoa nào?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi nên đăng ký khám khoa nào?",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0003",
+          "level": "must",
+          "text": "我有预约。",
+          "when_to_use": "已在手机或医院预约就诊，来到窗口报到时说明有预约。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，把预约信息给我看一下。",
+              "id": "s44_2_0003_reply01",
+              "meaning_vi": "Được, cho tôi xem thông tin đặt lịch."
+            },
+            {
+              "text": "请按预约时间去候诊。",
+              "id": "s44_2_0003_reply02",
+              "meaning_vi": "Vui lòng đến khu chờ khám đúng giờ hẹn."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "wǒ yǒu yù yuē",
+          "mistakes": [
+            {
+              "text": "“预约”是提前约好，不代表到院可免登记、立即见医生。",
+              "text_vi": "Lưu ý về tình huống: “Tôi có lịch hẹn rồi.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi có lịch hẹn rồi.",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0004",
+          "level": "must",
+          "text": "急诊在哪儿？",
+          "when_to_use": "到了医院却找不到急诊区域时，问服务台急诊方向。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮你指一下方向。",
+              "id": "s44_2_0004_reply01",
+              "meaning_vi": "Để tôi chỉ đường."
+            },
+            {
+              "text": "情况紧急的话直接问急诊工作人员。",
+              "id": "s44_2_0004_reply02",
+              "meaning_vi": "Nếu khẩn cấp, hãy hỏi ngay nhân viên khoa cấp cứu."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "jí zhěn zài nǎr",
+          "mistakes": [
+            {
+              "text": "“急诊”处理需紧急评估的情况，不是普通挂号速度更快的替代入口。",
+              "text_vi": "Lưu ý về tình huống: “Khoa cấp cứu ở đâu?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Khoa cấp cứu ở đâu?",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0005",
+          "level": "must",
+          "text": "今天还有号吗？",
+          "when_to_use": "未提前预约，想确认今天是否还有可挂的就诊号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮你查一下今天还有没有号。",
+              "id": "s44_2_0005_reply01",
+              "meaning_vi": "Để tôi kiểm tra hôm nay còn số không."
+            },
+            {
+              "text": "如果今天满了，可以问问其他时间。",
+              "id": "s44_2_0005_reply02",
+              "meaning_vi": "Nếu hết số, bạn có thể hỏi giờ khác."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "jīn tiān hái yǒu hào ma",
+          "mistakes": [
+            {
+              "text": "“号”是挂号名额，不是问医生电话号码；额满可询问其他时段。",
+              "text_vi": "Lưu ý về tình huống: “Hôm nay còn số khám không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Hôm nay còn số khám không?",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0006",
+          "level": "must",
+          "text": "挂号在哪里？",
+          "when_to_use": "进入医院大厅后，找不到挂号窗口或自助机，向工作人员问路。",
+          "alternatives": [
+            {
+              "text": "挂号去哪个窗口？",
+              "id": "s44_2_0006_alt01",
+              "meaning_vi": "Đăng ký khám ở quầy nào?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "前面就是挂号处。",
+              "id": "s44_2_0006_reply01",
+              "meaning_vi": "Phía trước là quầy đăng ký."
+            },
+            {
+              "text": "不确定的话问服务台就行。",
+              "id": "s44_2_0006_reply02",
+              "meaning_vi": "Nếu chưa rõ, cứ hỏi quầy hướng dẫn."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "guà hào zài nǎ li",
+          "mistakes": [
+            {
+              "text": "“在哪里”问地点，与“今天还有号吗”问是否有名额不同。",
+              "text_vi": "Lưu ý về tình huống: “Chỗ đăng ký khám ở đâu?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Chỗ đăng ký khám ở đâu?",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0008",
+          "level": "must",
+          "text": "没有预约可以看吗？",
+          "when_to_use": "没有预约而身体不舒服，向医院咨询能否当天现场就诊。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要看这家医院当天的挂号安排。",
+              "id": "s44_2_0008_reply01",
+              "meaning_vi": "Còn tùy quy định đăng ký khám trong ngày của bệnh viện."
+            },
+            {
+              "text": "先去挂号处问一下。",
+              "id": "s44_2_0008_reply02",
+              "meaning_vi": "Bạn hỏi quầy đăng ký trước nhé."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "méi yǒu yù yuē kě yǐ kàn ma",
+          "mistakes": [
+            {
+              "text": "“可以看吗”问可否看诊，不保证一定有医生或马上轮到。",
+              "text_vi": "Lưu ý về tình huống: “Không đặt hẹn trước thì có khám được không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Không đặt hẹn trước thì có khám được không?",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0009",
+          "level": "must",
+          "text": "这种情况要去急诊吗？",
+          "when_to_use": "症状突然加重但不知道是否属于急症时，向医护人员询问。",
+          "alternatives": [
+            {
+              "text": "这个情况要去急诊吗？",
+              "id": "s44_2_0009_alt01",
+              "meaning_vi": "Trường hợp này có phải vào cấp cứu không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "先让医护人员评估一下情况。",
+              "id": "s44_2_0009_reply01",
+              "meaning_vi": "Trước tiên để nhân viên y tế đánh giá."
+            },
+            {
+              "text": "如果情况突然明显加重，马上告诉工作人员。",
+              "id": "s44_2_0009_reply02",
+              "meaning_vi": "Nếu tình trạng đột ngột nặng lên, báo ngay cho nhân viên."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "zhè zhǒng qíng kuàng yào qù jí zhěn ma",
+          "mistakes": [
+            {
+              "text": "严重胸痛、呼吸困难、意识改变等应立即求助急救，不能只等普通挂号。",
+              "text_vi": "Lưu ý về tình huống: “Tình trạng này có cần vào cấp cứu không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tình trạng này có cần vào cấp cứu không?",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0010",
+          "level": "must",
+          "text": "可以用护照挂号吗？",
+          "when_to_use": "缅甸旅客带护照去中国医院，不清楚是否接受护照挂号，就询问窗口。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "很多医院可以用护照挂号，但具体看医院要求。",
+              "id": "s44_2_0010_reply01",
+              "meaning_vi": "Nhiều bệnh viện chấp nhận hộ chiếu nhưng còn tùy quy định từng nơi."
+            },
+            {
+              "text": "把护照带上，到了柜台再确认。",
+              "id": "s44_2_0010_reply02",
+              "meaning_vi": "Mang hộ chiếu đến quầy để xác nhận."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "kě yǐ yòng hù zhào guà hào ma",
+          "mistakes": [
+            {
+              "text": "“护照挂号”是用有效身份文件登记就医，不代表所有医院自助机都能直接识别外国护照。",
+              "text_vi": "Lưu ý về tình huống: “Có đăng ký khám bằng hộ chiếu được không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Có đăng ký khám bằng hộ chiếu được không?",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0012",
+          "level": "listen",
+          "text": "先去挂号。",
+          "when_to_use": "分诊护士告知你先登记挂号，再去指定科室候诊。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，挂号在哪里？",
+              "id": "s44_2_0012_reply01",
+              "meaning_vi": "Được, đăng ký ở đâu?"
+            },
+            {
+              "text": "知道了，我先去挂号。",
+              "id": "s44_2_0012_reply02",
+              "meaning_vi": "Tôi hiểu rồi, tôi đi đăng ký trước."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "xiān qù guà hào",
+          "mistakes": [
+            {
+              "text": "“先”表示步骤顺序，不是要同时挂号和看诊。",
+              "text_vi": "Lưu ý về tình huống: “Trước tiên đi đăng ký khám.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Trước tiên đi đăng ký khám.",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0013",
+          "level": "listen",
+          "text": "挂内科。",
+          "when_to_use": "医护人员根据初步分诊建议你去内科挂号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，内科在哪里？",
+              "id": "s44_2_0013_reply01",
+              "meaning_vi": "Được, khoa nội ở đâu?"
+            },
+            {
+              "text": "知道了，我去内科。",
+              "id": "s44_2_0013_reply02",
+              "meaning_vi": "Tôi hiểu rồi, tôi đến khoa nội."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "guà nèi kē",
+          "mistakes": [
+            {
+              "text": "“内科”是科室，不是说已经确诊内脏疾病；具体分诊听医护人员。",
+              "text_vi": "Lưu ý về tình huống: “Đăng ký khám nội khoa.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Đăng ký khám nội khoa.",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0014",
+          "level": "listen",
+          "text": "今天号满了。",
+          "when_to_use": "挂号窗口当天名额用完，工作人员告诉你今天号已满。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "那还有别的时间吗？",
+              "id": "s44_2_0014_reply01",
+              "meaning_vi": "Vậy còn giờ khác không?"
+            },
+            {
+              "text": "可以约其他医生吗？",
+              "id": "s44_2_0014_reply02",
+              "meaning_vi": "Có thể đặt bác sĩ khác không?"
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "jīn tiān hào mǎn le",
+          "mistakes": [
+            {
+              "text": "“号满”表示预约/挂号名额用完，不是医院所有区域都没有空间。",
+              "text_vi": "Lưu ý về tình huống: “Hôm nay hết số khám rồi.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Hôm nay hết số khám rồi.",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0017",
+          "level": "listen",
+          "text": "先去分诊台。",
+          "when_to_use": "初到医院不确定看哪个科室，工作人员让你先到分诊台。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，分诊台在哪里？",
+              "id": "s44_2_0017_reply01",
+              "meaning_vi": "Được, quầy đó ở đâu?"
+            },
+            {
+              "text": "知道了，我先过去。",
+              "id": "s44_2_0017_reply02",
+              "meaning_vi": "Tôi hiểu rồi, tôi qua đó trước."
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "xiān qù fēn zhěn tái",
+          "mistakes": [
+            {
+              "text": "“分诊”是按症状判断适合的科室或紧急程度，不是收费或取药窗口。",
+              "text_vi": "Lưu ý về tình huống: “Trước tiên đến quầy phân loại bệnh nhân.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Trước tiên đến quầy phân loại bệnh nhân.",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        },
+        {
+          "id": "s44_2_0019",
+          "level": "listen",
+          "text": "请按号码候诊。",
+          "when_to_use": "拿到就诊号码后，护士提醒你按叫号顺序在候诊区等待。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我等叫号。",
+              "id": "s44_2_0019_reply01",
+              "meaning_vi": "Được, tôi đợi gọi số."
+            },
+            {
+              "text": "大概要等多久？",
+              "id": "s44_2_0019_reply02",
+              "meaning_vi": "Khoảng bao lâu nữa?"
+            }
+          ],
+          "lesson_id": "44.2",
+          "lesson_title": "44.2 挂号科室",
+          "pinyin": "qǐng àn hào mǎ hòu zhěn",
+          "mistakes": [
+            {
+              "text": "“候诊”是等医生看诊，不是已经开始治疗；留意显示屏和叫号。",
+              "text_vi": "Lưu ý về tình huống: “Vui lòng chờ đến số thứ tự của mình.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Vui lòng chờ đến số thứ tự của mình.",
+          "lesson_title_vi": "44.2 Đăng ký khám và chọn khoa"
+        }
+      ],
+      "title_vi": "44.2 Đăng ký khám và chọn khoa",
+      "subtitle_vi": "14 thẻ giao tiếp",
+      "opening_vi": "Học cách đăng ký khám, chọn khoa, hỏi phòng cấp cứu, xác nhận lịch hẹn, số thứ tự và dùng hộ chiếu khi đăng ký."
+    },
+    {
+      "id": "44.3",
+      "title": "44.3 医生检查",
+      "phrases": [
+        {
+          "id": "s44_3_0001",
+          "level": "must",
+          "text": "还需要做检查吗？",
+          "when_to_use": "医生检查后尚未说明安排，你问是否还需化验或其他检查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "还需要做一项检查，我给你开单。",
+              "id": "s44_3_0001_reply01",
+              "meaning_vi": "Cần làm thêm một xét nghiệm, tôi sẽ viết phiếu cho bạn."
+            },
+            {
+              "text": "暂时不用再做检查。",
+              "id": "s44_3_0001_reply02",
+              "meaning_vi": "Hiện chưa cần làm thêm."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "hái xū yào zuò jiǎn chá ma",
+          "mistakes": [
+            {
+              "text": "“还需要”问额外检查，不等于已经决定必须检查。",
+              "text_vi": "Lưu ý về tình huống: “Có cần làm thêm xét nghiệm không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Có cần làm thêm xét nghiệm không?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0002",
+          "level": "must",
+          "text": "要抽血吗？",
+          "when_to_use": "医生开检查单时，想先弄清楚是否要抽血。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要，我给你开了抽血检查。",
+              "id": "s44_3_0002_reply01",
+              "meaning_vi": "Có, tôi đã chỉ định xét nghiệm máu."
+            },
+            {
+              "text": "暂时不用抽血。",
+              "id": "s44_3_0002_reply02",
+              "meaning_vi": "Hiện chưa cần lấy máu."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "yào chōu xuè ma",
+          "mistakes": [
+            {
+              "text": "“抽血”是采集血样检查，不是输血或打针给药。",
+              "text_vi": "Lưu ý về tình huống: “Có cần lấy máu xét nghiệm không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Có cần lấy máu xét nghiệm không?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0003",
+          "level": "must",
+          "text": "这个检查在哪里做？",
+          "when_to_use": "拿到化验单但不知道检查室在哪层，向护士询问。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我帮你看一下检查单上的地点。",
+              "id": "s44_3_0003_reply01",
+              "meaning_vi": "Để tôi xem địa điểm trên phiếu xét nghiệm."
+            },
+            {
+              "text": "不确定的话可以问护士。",
+              "id": "s44_3_0003_reply02",
+              "meaning_vi": "Nếu không rõ, bạn có thể hỏi điều dưỡng."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "zhè ge jiǎn chá zài nǎ li zuò",
+          "mistakes": [
+            {
+              "text": "“这个检查”指检查单上的具体项目，不一定全部在同一个房间做。",
+              "text_vi": "Lưu ý về tình huống: “Làm xét nghiệm này ở đâu?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Làm xét nghiệm này ở đâu?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0004",
+          "level": "must",
+          "text": "需要空腹吗？",
+          "when_to_use": "准备抽血或做影像检查前，问医生是否必须空腹。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这个检查需要空腹。",
+              "id": "s44_3_0004_reply01",
+              "meaning_vi": "Xét nghiệm này cần nhịn ăn."
+            },
+            {
+              "text": "这个检查不用空腹。",
+              "id": "s44_3_0004_reply02",
+              "meaning_vi": "Xét nghiệm này không cần nhịn ăn."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "xū yào kōng fù ma",
+          "mistakes": [
+            {
+              "text": "“空腹”通常涉及进食限制，但喝水要求因项目而异；不可自行停药，应向医护确认。",
+              "text_vi": "Lưu ý về tình huống: “Có cần nhịn ăn không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Có cần nhịn ăn không?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0006",
+          "level": "must",
+          "text": "这个检查疼吗？",
+          "when_to_use": "第一次做某种检查，担心会疼，事先向医生询问。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不同检查感觉不一样，可以先问医生。",
+              "id": "s44_3_0006_reply01",
+              "meaning_vi": "Mỗi xét nghiệm có cảm giác khác nhau, bạn có thể hỏi bác sĩ trước."
+            },
+            {
+              "text": "检查时不舒服就及时告诉医护人员。",
+              "id": "s44_3_0006_reply02",
+              "meaning_vi": "Nếu khó chịu khi làm, hãy báo ngay nhân viên y tế."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "zhè ge jiǎn chá téng ma",
+          "mistakes": [
+            {
+              "text": "“疼吗”问是否疼痛，不等于检查有危险；有疑虑可问过程及注意事项。",
+              "text_vi": "Lưu ý về tình huống: “Xét nghiệm này có đau không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Xét nghiệm này có đau không?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0007",
+          "level": "must",
+          "text": "先做哪个检查？",
+          "when_to_use": "拿到多项检查单，不清楚检查先后顺序时询问护士。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "先做这一项，做完再看下一项。",
+              "id": "s44_3_0007_reply01",
+              "meaning_vi": "Làm mục này trước, xong rồi xem mục tiếp theo."
+            },
+            {
+              "text": "我帮你看一下检查单上的顺序。",
+              "id": "s44_3_0007_reply02",
+              "meaning_vi": "Để tôi xem thứ tự trên phiếu cho bạn."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "xiān zuò nǎ ge jiǎn chá",
+          "mistakes": [
+            {
+              "text": "“先做哪个”问顺序，和“哪里做”问地点不同。",
+              "text_vi": "Lưu ý về tình huống: “Làm xét nghiệm nào trước?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Làm xét nghiệm nào trước?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0008",
+          "level": "must",
+          "text": "检查结果什么时候出来？",
+          "when_to_use": "抽完血后想知道结果何时可以查看。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这个项目出结果的时间要看检查安排。",
+              "id": "s44_3_0008_reply01",
+              "meaning_vi": "Thời gian trả kết quả còn tùy lịch xét nghiệm."
+            },
+            {
+              "text": "我帮你确认一下什么时候能看到结果。",
+              "id": "s44_3_0008_reply02",
+              "meaning_vi": "Để tôi xác nhận khi nào bạn xem được kết quả."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "jiǎn chá jié guǒ shén me shí hou chū lái",
+          "mistakes": [
+            {
+              "text": "“出来”在这里表示结果生成，不是人从检查室走出来。",
+              "text_vi": "Lưu ý về tình huống: “Khi nào có kết quả xét nghiệm?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Khi nào có kết quả xét nghiệm?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0010",
+          "level": "must",
+          "text": "检查前可以喝水吗？",
+          "when_to_use": "已被要求空腹，想知道检查前能否喝少量水，向医生确认。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "能不能喝水要看检查要求。",
+              "id": "s44_3_0010_reply01",
+              "meaning_vi": "Có được uống nước hay không tùy yêu cầu xét nghiệm."
+            },
+            {
+              "text": "不确定就先问医生或护士。",
+              "id": "s44_3_0010_reply02",
+              "meaning_vi": "Nếu chưa rõ thì hỏi bác sĩ hoặc điều dưỡng trước."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "jiǎn chá qián kě yǐ hē shuǐ ma",
+          "mistakes": [
+            {
+              "text": "“空腹”不自动等于完全禁止喝水；要根据检查项目和医嘱确认。",
+              "text_vi": "Lưu ý về tình huống: “Trước khi xét nghiệm có được uống nước không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Trước khi xét nghiệm có được uống nước không?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0011",
+          "level": "must",
+          "text": "要拍片吗？",
+          "when_to_use": "医生建议进一步检查，你确认是否需要拍X光等影像。",
+          "alternatives": [
+            {
+              "text": "需要拍片吗？",
+              "id": "s44_3_0011_alt01",
+              "meaning_vi": "Có phải chụp chiếu không?"
+            }
+          ],
+          "replies": [
+            {
+              "text": "需要，我给你开了拍片检查。",
+              "id": "s44_3_0011_reply01",
+              "meaning_vi": "Có, tôi đã chỉ định chụp chiếu."
+            },
+            {
+              "text": "暂时不用拍片。",
+              "id": "s44_3_0011_reply02",
+              "meaning_vi": "Hiện chưa cần chụp."
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "yào pāi piàn ma",
+          "mistakes": [
+            {
+              "text": "“拍片”口语通常指影像检查，不能自行决定是哪一种或是否有辐射。",
+              "text_vi": "Lưu ý về tình huống: “Có cần chụp chiếu không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Có cần chụp chiếu không?",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0012",
+          "level": "listen",
+          "text": "先量血压。",
+          "when_to_use": "护士要求先测量血压，再进行后续检查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我先量。",
+              "id": "s44_3_0012_reply01",
+              "meaning_vi": "Được, tôi đo trước."
+            },
+            {
+              "text": "量完以后去哪里？",
+              "id": "s44_3_0012_reply02",
+              "meaning_vi": "Đo xong thì đi đâu?"
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "xiān liáng xuè yā",
+          "mistakes": [
+            {
+              "text": "“量血压”是测量血压，不等于抽血，两者不要混淆。",
+              "text_vi": "Lưu ý về tình huống: “Trước tiên đo huyết áp.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Trước tiên đo huyết áp.",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0014",
+          "level": "listen",
+          "text": "明天早上空腹来。",
+          "when_to_use": "医生安排次日晨间检查，并要求你按医嘱空腹到院。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，明早我不吃东西。",
+              "id": "s44_3_0014_reply01",
+              "meaning_vi": "Được, sáng mai tôi không ăn gì."
+            },
+            {
+              "text": "水可以喝吗？",
+              "id": "s44_3_0014_reply02",
+              "meaning_vi": "Có được uống nước không?"
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "míng tiān zǎo shang kōng fù lái",
+          "mistakes": [
+            {
+              "text": "检查前能否喝水、是否继续服药应向医护确认，不要一概停止饮水或用药。",
+              "text_vi": "Lưu ý về tình huống: “Sáng mai đến khi bụng đói nhé.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Sáng mai đến khi bụng đói nhé.",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0016",
+          "level": "listen",
+          "text": "先做检查再回来。",
+          "when_to_use": "医生开单后让你先完成检查，再带着结果回诊室。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，做完检查我再回来。",
+              "id": "s44_3_0016_reply01",
+              "meaning_vi": "Được, làm xong tôi quay lại."
+            },
+            {
+              "text": "检查做完去哪里等？",
+              "id": "s44_3_0016_reply02",
+              "meaning_vi": "Làm xong thì chờ ở đâu?"
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "xiān zuò jiǎn chá zài huí lái",
+          "mistakes": [
+            {
+              "text": "“再回来”是完成前一个步骤后返回，不是马上空手返回。",
+              "text_vi": "Lưu ý về tình huống: “Làm xét nghiệm trước rồi quay lại.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Làm xét nghiệm trước rồi quay lại.",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0017",
+          "level": "listen",
+          "text": "这个项目需要预约。",
+          "when_to_use": "检查室预约名额有限，护士解释该项目必须提前预约。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，在哪里预约？",
+              "id": "s44_3_0017_reply01",
+              "meaning_vi": "Được, đặt lịch ở đâu?"
+            },
+            {
+              "text": "最早可以约什么时候？",
+              "id": "s44_3_0017_reply02",
+              "meaning_vi": "Sớm nhất có thể đặt khi nào?"
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "zhè ge xiàng mù xū yào yù yuē",
+          "mistakes": [
+            {
+              "text": "“预约”是预先订时间，不代表挂号成功就自动预约了检查。",
+              "text_vi": "Lưu ý về tình huống: “Xét nghiệm này phải đặt lịch.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Xét nghiệm này phải đặt lịch.",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        },
+        {
+          "id": "s44_3_0020",
+          "level": "listen",
+          "text": "请先去缴费。",
+          "when_to_use": "拿着检查单准备去检查室时，工作人员提醒应先按医院流程缴费。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，在哪里缴费？",
+              "id": "s44_3_0020_reply01",
+              "meaning_vi": "Được, thanh toán ở đâu?"
+            },
+            {
+              "text": "缴完费再去做检查吗？",
+              "id": "s44_3_0020_reply02",
+              "meaning_vi": "Thanh toán xong mới đi xét nghiệm à?"
+            }
+          ],
+          "lesson_id": "44.3",
+          "lesson_title": "44.3 医生检查",
+          "pinyin": "qǐng xiān qù jiǎo fèi",
+          "mistakes": [
+            {
+              "text": "“缴费”是支付检查项目费用，不是办理挂号；是否已通过医保结算可询问窗口。",
+              "text_vi": "Lưu ý về tình huống: “Vui lòng thanh toán trước.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Vui lòng thanh toán trước.",
+          "lesson_title_vi": "44.3 Khám và xét nghiệm"
+        }
+      ],
+      "title_vi": "44.3 Khám và xét nghiệm",
+      "subtitle_vi": "14 thẻ giao tiếp",
+      "opening_vi": "Học cách hỏi về xét nghiệm máu, chụp chiếu, nhịn ăn, thanh toán, lấy kết quả và lịch hẹn. Hướng dẫn chuẩn bị xét nghiệm phải xác nhận với bác sĩ."
+    },
+    {
+      "id": "44.4",
+      "title": "44.4 结果复诊",
+      "phrases": [
+        {
+          "id": "s44_4_0001",
+          "level": "must",
+          "text": "检查结果怎么样？",
+          "when_to_use": "拿到化验报告回诊室，请医生解释结果。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我先结合你的症状一起看一下。",
+              "id": "s44_4_0001_reply01",
+              "meaning_vi": "Để tôi xem cùng với triệu chứng của bạn."
+            },
+            {
+              "text": "有几项结果我再给你解释一下。",
+              "id": "s44_4_0001_reply02",
+              "meaning_vi": "Có vài chỉ số tôi sẽ giải thích thêm cho bạn."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "jiǎn chá jié guǒ zěn me yàng",
+          "mistakes": [
+            {
+              "text": "“怎么样”是请解释整体情况，不等于报告上某项数值本身就能确定疾病。",
+              "text_vi": "Lưu ý về tình huống: “Kết quả xét nghiệm thế nào?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Kết quả xét nghiệm thế nào?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0002",
+          "level": "must",
+          "text": "这个指标正常吗？",
+          "when_to_use": "看到报告上某项数值偏离参考范围，询问医生是否正常。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这个要结合参考范围和你的情况看。",
+              "id": "s44_4_0002_reply01",
+              "meaning_vi": "Phải đối chiếu khoảng tham chiếu và tình trạng của bạn."
+            },
+            {
+              "text": "我再帮你看一下其他结果。",
+              "id": "s44_4_0002_reply02",
+              "meaning_vi": "Để tôi xem thêm các kết quả khác."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "zhè ge zhǐ biāo zhèng cháng ma",
+          "mistakes": [
+            {
+              "text": "“指标”是检验数值；是否异常要综合参考范围、症状和医生判断。",
+              "text_vi": "Lưu ý về tình huống: “Chỉ số này bình thường không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Chỉ số này bình thường không?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0003",
+          "level": "must",
+          "text": "什么时候复查？",
+          "when_to_use": "医生提出之后需要再次化验，你确认具体日期。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "具体时间我会告诉你。",
+              "id": "s44_4_0003_reply01",
+              "meaning_vi": "Tôi sẽ nói rõ thời gian cụ thể."
+            },
+            {
+              "text": "按我给你的复查时间再来。",
+              "id": "s44_4_0003_reply02",
+              "meaning_vi": "Bạn quay lại đúng lịch kiểm tra tôi đã dặn."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "shén me shí hou fù chá",
+          "mistakes": [
+            {
+              "text": "“复查”是重新做检查，跟“复诊”再次见医生相关但并非同一件事。",
+              "text_vi": "Lưu ý về tình huống: “Khi nào cần kiểm tra lại?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Khi nào cần kiểm tra lại?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0004",
+          "level": "must",
+          "text": "还要再来吗？",
+          "when_to_use": "一次就诊结束前，问医生后续是否还要再到医院。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "需要的话，我会告诉你复诊时间。",
+              "id": "s44_4_0004_reply01",
+              "meaning_vi": "Nếu cần, tôi sẽ cho bạn biết lịch tái khám."
+            },
+            {
+              "text": "先按这次医嘱观察，有变化再来。",
+              "id": "s44_4_0004_reply02",
+              "meaning_vi": "Trước tiên theo dõi theo chỉ định lần này, có thay đổi thì quay lại."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "hái yào zài lái ma",
+          "mistakes": [
+            {
+              "text": "“再来”是再次到院，不等于已经确定必须复查某个项目。",
+              "text_vi": "Lưu ý về tình huống: “Tôi có cần quay lại khám không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi có cần quay lại khám không?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0005",
+          "level": "must",
+          "text": "需要注意什么？",
+          "when_to_use": "看诊结束时，请医生说明回家以后需要注意的事项。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "我把需要注意的地方跟你说一下。",
+              "id": "s44_4_0005_reply01",
+              "meaning_vi": "Tôi sẽ nói rõ những điều cần lưu ý."
+            },
+            {
+              "text": "不明白的地方可以再问我。",
+              "id": "s44_4_0005_reply02",
+              "meaning_vi": "Chỗ nào chưa hiểu bạn cứ hỏi lại."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "xū yào zhù yì shén me",
+          "mistakes": [
+            {
+              "text": "“注意什么”范围很广，可进一步问休息、复诊和服药；不要自己推断禁忌。",
+              "text_vi": "Lưu ý về tình huống: “Tôi cần chú ý điều gì?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi cần chú ý điều gì?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0006",
+          "level": "must",
+          "text": "如果没好转怎么办？",
+          "when_to_use": "按医嘱治疗几天后仍不见好转，向医生询问下一步怎么办。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "如果没有好转，可以按医生说的时间复诊。",
+              "id": "s44_4_0006_reply01",
+              "meaning_vi": "Nếu không đỡ, bạn có thể tái khám theo lịch bác sĩ dặn."
+            },
+            {
+              "text": "如果症状明显加重，要及时就医。",
+              "id": "s44_4_0006_reply02",
+              "meaning_vi": "Nếu triệu chứng nặng lên rõ rệt, hãy đi khám kịp thời."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "rú guǒ méi hǎo zhuǎn zěn me bàn",
+          "mistakes": [
+            {
+              "text": "“没好转”表示没有明显改善，不是说已经严重恶化；若呼吸困难等危险症状应立即求医。",
+              "text_vi": "Lưu ý về tình huống: “Nếu không đỡ thì làm sao?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Nếu không đỡ thì làm sao?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0008",
+          "level": "must",
+          "text": "我要复查。",
+          "when_to_use": "按医生要求过一段时间再次做检验，向医院表示要复查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，把之前的检查结果带上。",
+              "id": "s44_4_0008_reply01",
+              "meaning_vi": "Được, mang theo các kết quả xét nghiệm trước đây."
+            },
+            {
+              "text": "先按医院要求挂复诊号。",
+              "id": "s44_4_0008_reply02",
+              "meaning_vi": "Trước tiên đăng ký tái khám theo quy định bệnh viện."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "wǒ yào fù chá",
+          "mistakes": [
+            {
+              "text": "“我要复查”说明目的，通常仍需要检查单或按医院流程登记。",
+              "text_vi": "Lưu ý về tình huống: “Tôi muốn tái kiểm tra.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tôi muốn tái kiểm tra.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0009",
+          "level": "must",
+          "text": "平时需要注意饮食吗？",
+          "when_to_use": "医生开完检查结果后，你想了解饮食方面是否有特别限制。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要结合你的情况，我给你说明一下。",
+              "id": "s44_4_0009_reply01",
+              "meaning_vi": "Còn tùy tình trạng của bạn, để tôi giải thích."
+            },
+            {
+              "text": "如果有需要注意的饮食，我会告诉你。",
+              "id": "s44_4_0009_reply02",
+              "meaning_vi": "Nếu cần kiêng gì, tôi sẽ dặn."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "píng shí xū yào zhù yì yǐn shí ma",
+          "mistakes": [
+            {
+              "text": "“饮食”指吃喝习惯；具体忌口要结合病情，不是所有病人都一样。",
+              "text_vi": "Lưu ý về tình huống: “Bình thường tôi có cần chú ý ăn uống không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Bình thường tôi có cần chú ý ăn uống không?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0010",
+          "level": "must",
+          "text": "这个结果需要吃药吗？",
+          "when_to_use": "拿着检验报告，问医生是否需要服药而不是自行购买。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "要不要吃药要结合症状和其他结果。",
+              "id": "s44_4_0010_reply01",
+              "meaning_vi": "Có cần dùng thuốc hay không phải xét cùng triệu chứng và các kết quả khác."
+            },
+            {
+              "text": "先不要自己加药，按医嘱来。",
+              "id": "s44_4_0010_reply02",
+              "meaning_vi": "Đừng tự ý thêm thuốc, hãy làm theo chỉ định."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "zhè ge jié guǒ xū yào chī yào ma",
+          "mistakes": [
+            {
+              "text": "“需要吃药吗”是询问治疗安排，不表示自行判断报告后就能用药。",
+              "text_vi": "Lưu ý về tình huống: “Kết quả này có cần dùng thuốc không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Kết quả này có cần dùng thuốc không?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0011",
+          "level": "must",
+          "text": "复诊要重新挂号吗？",
+          "when_to_use": "准备按照医嘱返回医院复诊，询问是否重新挂号。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "不同医院复诊挂号方式可能不一样。",
+              "id": "s44_4_0011_reply01",
+              "meaning_vi": "Mỗi bệnh viện có thể có cách đăng ký tái khám khác nhau."
+            },
+            {
+              "text": "离开前可以在柜台确认一下。",
+              "id": "s44_4_0011_reply02",
+              "meaning_vi": "Trước khi về bạn hỏi xác nhận tại quầy nhé."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "fù zhěn yào chóng xīn guà hào ma",
+          "mistakes": [
+            {
+              "text": "“复诊”是再次看医生，“重新挂号”是办理挂号流程；各医院要求可能不同。",
+              "text_vi": "Lưu ý về tình huống: “Tái khám có cần đăng ký lại không?” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Tái khám có cần đăng ký lại không?",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0012",
+          "level": "listen",
+          "text": "问题不大。",
+          "when_to_use": "医护人员解释某项情况暂时不算严重，你听到“问题不大”。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我还需要注意什么？",
+              "id": "s44_4_0012_reply01",
+              "meaning_vi": "Được, tôi còn cần chú ý gì không?"
+            },
+            {
+              "text": "那还需要复查吗？",
+              "id": "s44_4_0012_reply02",
+              "meaning_vi": "Vậy có cần kiểm tra lại không?"
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "wèn tí bú dà",
+          "mistakes": [
+            {
+              "text": "“问题不大”是相对评估，不等于保证完全没病或无需随访。",
+              "text_vi": "Lưu ý về tình huống: “Vấn đề không nghiêm trọng lắm.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Vấn đề không nghiêm trọng lắm.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0013",
+          "level": "listen",
+          "text": "需要再检查。",
+          "when_to_use": "医生看完初步结果后，告诉你还要补做进一步检查。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，还需要做什么检查？",
+              "id": "s44_4_0013_reply01",
+              "meaning_vi": "Được, còn phải làm xét nghiệm nào?"
+            },
+            {
+              "text": "什么时候再检查？",
+              "id": "s44_4_0013_reply02",
+              "meaning_vi": "Khi nào làm lại?"
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "xū yào zài jiǎn chá",
+          "mistakes": [
+            {
+              "text": "“再检查”是额外或重复检查，不等于前一次检查一定有错误。",
+              "text_vi": "Lưu ý về tình huống: “Cần xét nghiệm lại.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Cần xét nghiệm lại.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0014",
+          "level": "listen",
+          "text": "过一段时间再复诊。",
+          "when_to_use": "医生让你过些时间再回医院复诊，当前还未说具体日期。",
+          "alternatives": [
+            {
+              "text": "过几天再来复诊。",
+              "id": "s44_4_0014_alt01",
+              "meaning_vi": "Vài hôm nữa quay lại tái khám."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，到时候我再来。",
+              "id": "s44_4_0014_reply01",
+              "meaning_vi": "Được, đến lúc đó tôi quay lại."
+            },
+            {
+              "text": "需要提前预约吗？",
+              "id": "s44_4_0014_reply02",
+              "meaning_vi": "Có phải đặt lịch trước không?"
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "guò yí duàn shí jiān zài fù zhěn",
+          "mistakes": [
+            {
+              "text": "“过一段时间”时间不具体，离开前应问清楚日期和预约方式。",
+              "text_vi": "Lưu ý về tình huống: “Một thời gian nữa quay lại tái khám.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Một thời gian nữa quay lại tái khám.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0015",
+          "level": "listen",
+          "text": "注意休息。",
+          "when_to_use": "诊疗结束后医生提醒近期要保证休息。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我会多休息。",
+              "id": "s44_4_0015_reply01",
+              "meaning_vi": "Được, tôi sẽ nghỉ ngơi nhiều hơn."
+            },
+            {
+              "text": "还有其他要注意的吗？",
+              "id": "s44_4_0015_reply02",
+              "meaning_vi": "Còn điều gì cần chú ý không?"
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "zhù yì xiū xi",
+          "mistakes": [
+            {
+              "text": "“注意休息”是休息建议，不是替代全部其他治疗和复诊要求。",
+              "text_vi": "Lưu ý về tình huống: “Chú ý nghỉ ngơi.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Chú ý nghỉ ngơi.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0016",
+          "level": "listen",
+          "text": "这个指标有点高。",
+          "when_to_use": "医生看化验单时指出某项数值稍高，让你了解情况。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "这个数值高很多吗？",
+              "id": "s44_4_0016_reply01",
+              "meaning_vi": "Chỉ số này cao nhiều không?"
+            },
+            {
+              "text": "还需要再检查吗？",
+              "id": "s44_4_0016_reply02",
+              "meaning_vi": "Có cần kiểm tra thêm không?"
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "zhè ge zhǐ biāo yǒu diǎn gāo",
+          "mistakes": [
+            {
+              "text": "“有点高”只是数值偏高的描述，不能仅凭这一项自我确诊。",
+              "text_vi": "Lưu ý về tình huống: “Chỉ số này hơi cao.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Chỉ số này hơi cao.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0017",
+          "level": "listen",
+          "text": "先观察一段时间。",
+          "when_to_use": "医生认为目前应先观察症状变化，再决定是否需要复诊。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，要观察多久？",
+              "id": "s44_4_0017_reply01",
+              "meaning_vi": "Được, cần theo dõi bao lâu?"
+            },
+            {
+              "text": "如果不舒服加重怎么办？",
+              "id": "s44_4_0017_reply02",
+              "meaning_vi": "Nếu khó chịu nặng hơn thì sao?"
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "xiān guān chá yí duàn shí jiān",
+          "mistakes": [
+            {
+              "text": "“观察”是留意变化，不是忽视病情；有危险症状要及时求医。",
+              "text_vi": "Lưu ý về tình huống: “Trước tiên theo dõi một thời gian.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Trước tiên theo dõi một thời gian.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0018",
+          "level": "listen",
+          "text": "按时吃药。",
+          "when_to_use": "医生已经开具用药方案，提醒按医嘱在规定时间服药。",
+          "alternatives": [],
+          "replies": [
+            {
+              "text": "好，我按医嘱吃药。",
+              "id": "s44_4_0018_reply01",
+              "meaning_vi": "Được, tôi uống thuốc theo chỉ định."
+            },
+            {
+              "text": "如果吃药后不舒服怎么办？",
+              "id": "s44_4_0018_reply02",
+              "meaning_vi": "Nếu uống thuốc xong thấy khó chịu thì sao?"
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "àn shí chī yào",
+          "mistakes": [
+            {
+              "text": "“按时”指按医嘱时间和剂量，不等于想起来时吃；不能自行加减药量。",
+              "text_vi": "Lưu ý về tình huống: “Uống thuốc đúng giờ.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Uống thuốc đúng giờ.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        },
+        {
+          "id": "s44_4_0020",
+          "level": "listen",
+          "text": "如果症状加重，要及时就医。",
+          "when_to_use": "医生向患者说明，如果原来的症状明显加重应尽快就医。",
+          "alternatives": [
+            {
+              "text": "症状加重就及时就医。",
+              "id": "s44_4_0020_alt01",
+              "meaning_vi": "Nếu triệu chứng nặng lên thì đi khám ngay."
+            }
+          ],
+          "replies": [
+            {
+              "text": "好，我会注意症状变化。",
+              "id": "s44_4_0020_reply01",
+              "meaning_vi": "Được, tôi sẽ theo dõi sự thay đổi triệu chứng."
+            },
+            {
+              "text": "如果明显加重，我会及时就医。",
+              "id": "s44_4_0020_reply02",
+              "meaning_vi": "Nếu nặng lên rõ rệt, tôi sẽ đi khám kịp thời."
+            }
+          ],
+          "lesson_id": "44.4",
+          "lesson_title": "44.4 结果复诊",
+          "pinyin": "rú guǒ zhèng zhuàng jiā zhòng yào jí shí jiù yī",
+          "mistakes": [
+            {
+              "text": "“及时就医”不是等到下次预约才看医生；出现严重呼吸困难或意识异常应立即急救。",
+              "text_vi": "Lưu ý về tình huống: “Nếu triệu chứng nặng lên, hãy đi khám ngay.” Dùng câu này để trao đổi với nhân viên y tế; triệu chứng, kết quả và quyết định điều trị cần được nhân viên y tế đánh giá, không tự chẩn đoán hoặc đổi thuốc."
+            }
+          ],
+          "meaning_vi": "Nếu triệu chứng nặng lên, hãy đi khám ngay.",
+          "lesson_title_vi": "44.4 Kết quả và tái khám"
+        }
+      ],
+      "title_vi": "44.4 Kết quả và tái khám",
+      "subtitle_vi": "18 thẻ giao tiếp",
+      "opening_vi": "Luyện hỏi kết quả khám, chỉ số xét nghiệm, việc dùng thuốc, tái khám và dấu hiệu cần đi khám ngay. Không tự suy đoán bệnh chỉ từ một chỉ số."
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-11-03T00:00:00Z",
+  "theme_title_vi": "44 Khám bệnh tại bệnh viện",
+  "theme_title": "44 医院看病",
+  "card_count": 66,
+  "source_phrase_count": 66,
+  "lesson_counts": [
+    20,
+    14,
+    14,
+    18
+  ],
+  "quality_standard": "Vietnamese main, alternative and reply translations complete. Source Mandarin, pinyin and Chinese pedagogy unchanged. Vietnamese notes are interim contextual reminders; source-specific note translation and native review required. Medical expressions are language training, not treatment advice."
+}
