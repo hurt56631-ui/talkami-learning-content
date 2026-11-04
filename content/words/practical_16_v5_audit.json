@@ -1,6 +1,6 @@
 {
-  "version": "v5-recheck2",
-  "date": "2026-11-02",
+  "version": "v6-examples-01-04",
+  "date": "2026-11-05",
   "source": "Talkami_实用中缅四列词典_4500条_V4_完整精校版.txt",
   "compare_reference": "content/words/packs/hsk1_3_0.json",
   "totals": {
@@ -13,25 +13,29 @@
     "last_id": 1004500,
     "full_four_column_rows": 4500,
     "words_with_collocations": 0,
-    "words_with_examples": 0,
+    "words_with_examples": 1090,
     "confirmed_pinyin_corrections": 6,
     "burmese_meaning_enhancements": 11,
     "reclassified_words": 86,
     "subcategory_labels_refined": 5,
-    "phonetic_syllable_alignment_errors": 0
+    "phonetic_syllable_alignment_errors": 0,
+    "total_examples": 1519
   },
   "quality_notes": [
     "所有 ID 与 V4 源顺序绑定：id=1000000+source_order。移动类别及拼音排序不改变 ID。",
     "四列译文中的缅语依据 V4 原稿，做了定向中文/HSK 对照和多义词补充；不是 4500 条重新人工翻译。",
     "未完成缅语母语教师逐词终审；没有足够依据的音调或语言差异不自动覆盖。",
-    "每词仅中文词目需要一条音频（应用端单独生成），本 PR 未提供音频文件；搭配和例句完全不包含内容。",
+    "词目中文 TTS 仍可按需生成，本次 01–04 类只新增文字例句、拼音和缅文翻译，不生成例句音频，也不生成任何搭配。",
     "WiFi、U盘、T恤 等混合拉丁字母词目，TTS 读取需在应用端试听或配置朗读策略。",
     "词库主题分类不等同于官方 HSK 等级。practical 标记实用词典，不应显示成 HSK1-4 考试词。",
     "Release 构建器的 safe_asset_name 不接受斜杠，本次把目录草案 data_url 改为平铺 JSON 文件名。",
-    "本次只准备 4500 个中文词目对应的可选 TTS 清单；没有搭配、例句配音任务，也未生成音频。特殊词目需先试听。",
+    "先前提供的 4500 个中文词目 TTS 清单仍可单独使用；新增例句均为文字内容，不涉及新增音频文件。",
     "封面为无缅文文字的主题图标，16 个标题由 catalog title 显示，避免在图像中文字识别错误。",
-    "此次接入不更改 4500 词条的四列内容、稳定 ID、分类或 HSK1–4 原文件。",
-    "content-v1.6.40 Release 已发布且校验通过；在 App 设备端实际显示和语音功能仍需测试。"
+    "稳定词目 ID、四列释义和分类不改；本次为 01–04 类新增文字例句并提升词包数据版本，其余 05–16 类和原 HSK1–4 词包未改。",
+    "content-v1.6.40 Release 已发布且校验通过；在 App 设备端实际显示和语音功能仍需测试。",
+    "2026-11-05：实用词 01–04 分类共 1090 词补齐 1519 条中缅例句，例句有稳定 ID / hanzi / pinyin / burmese；05–16 类仍无例句。",
+    "本轮中文拼音通过词库映射及定向修正，缅文采用复用 HSK 示例及场景翻译，并完成格式检查；新编译文未经过缅语母语教师逐条人工终审。",
+    "目录从版本 7 升至 8，01–04 类 data_version 从 2 升至 3，发布文件名变更为 talkami-practical-0X-v6.json；仍需发布新的 GitHub Release 才能被 App 获取。"
   ],
   "categories": [
     {
@@ -39,112 +43,144 @@
       "title": "基础中文与交流",
       "item_count": 225,
       "subcategory_count": 9,
-      "preview": "拜拜 / 拜托 / 帮"
+      "preview": "拜拜 / 拜托 / 帮",
+      "words_with_examples": 225,
+      "examples": 299
     },
     {
       "id": "02",
       "title": "数字时间与方位",
       "item_count": 378,
       "subcategory_count": 9,
-      "preview": "安排 / 八 / 把"
+      "preview": "安排 / 八 / 把",
+      "words_with_examples": 378,
+      "examples": 594
     },
     {
       "id": "03",
       "title": "人物家庭与身份",
       "item_count": 137,
       "subcategory_count": 3,
-      "preview": "爱人 / 阿姨 / 爸"
+      "preview": "爱人 / 阿姨 / 爸",
+      "words_with_examples": 137,
+      "examples": 213
     },
     {
       "id": "04",
       "title": "饮食食材与餐饮",
       "item_count": 350,
       "subcategory_count": 13,
-      "preview": "白菜 / 白醋 / 白粥"
+      "preview": "白菜 / 白醋 / 白粥",
+      "words_with_examples": 350,
+      "examples": 413
     },
     {
       "id": "05",
       "title": "居家生活与日用品",
       "item_count": 250,
       "subcategory_count": 8,
-      "preview": "搬家 / 宝宝车 / 薄毯"
+      "preview": "搬家 / 宝宝车 / 薄毯",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "06",
       "title": "衣服穿戴与个人护理",
       "item_count": 195,
       "subcategory_count": 6,
-      "preview": "安全帽 / 白色 / 半身裙"
+      "preview": "安全帽 / 白色 / 半身裙",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "07",
       "title": "购物金钱与物流",
       "item_count": 291,
       "subcategory_count": 14,
-      "preview": "按件卖 / 按斤卖 / 搬货"
+      "preview": "按件卖 / 按斤卖 / 搬货",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "08",
       "title": "交通出行与地点",
       "item_count": 254,
       "subcategory_count": 10,
-      "preview": "安检 / 安全带 / 爆胎"
+      "preview": "安检 / 安全带 / 爆胎",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "09",
       "title": "工作求职与工厂",
       "item_count": 467,
       "subcategory_count": 25,
-      "preview": "按钮 / 安全培训 / 安全通道"
+      "preview": "按钮 / 安全培训 / 安全通道",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "10",
       "title": "身体健康与医疗",
       "item_count": 254,
       "subcategory_count": 6,
-      "preview": "饱 / 饱了 / 背部"
+      "preview": "饱 / 饱了 / 背部",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "11",
       "title": "学习语言与教育",
       "item_count": 221,
       "subcategory_count": 7,
-      "preview": "报名 / 报纸 / 笔"
+      "preview": "报名 / 报纸 / 笔",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "12",
       "title": "手机网络与数码",
       "item_count": 180,
       "subcategory_count": 7,
-      "preview": "按键手机 / 安装 / 版本"
+      "preview": "按键手机 / 安装 / 版本",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "13",
       "title": "社交情绪与休闲",
       "item_count": 239,
       "subcategory_count": 12,
-      "preview": "爱 / 爱好 / 爱情"
+      "preview": "爱 / 爱好 / 爱情",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "14",
       "title": "办事证件与安全",
       "item_count": 184,
       "subcategory_count": 13,
-      "preview": "安全出口 / 帮忙 / 办结"
+      "preview": "安全出口 / 帮忙 / 办结",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "15",
       "title": "自然天气与动植物",
       "item_count": 108,
       "subcategory_count": 8,
-      "preview": "暴雨 / 暴雨预警 / 避难所"
+      "preview": "暴雨 / 暴雨预警 / 避难所",
+      "words_with_examples": 0,
+      "examples": 0
     },
     {
       "id": "16",
       "title": "常用动作与描述",
       "item_count": 767,
       "subcategory_count": 13,
-      "preview": "啊 / 矮 / 按"
+      "preview": "啊 / 矮 / 按",
+      "words_with_examples": 0,
+      "examples": 0
     }
   ],
   "subcategories": [
