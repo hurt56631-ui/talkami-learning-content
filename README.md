@@ -140,4 +140,11 @@ Android 项目的：
 
 ### 4500 实用中缅词典（2026-11-02）
 
-最新 [content-v1.6.40](https://github.com/hurt56631-ui/talkami-learning-content/releases/tag/content-v1.6.40) 已增加 16 个实用主题词分类、4500 个词目和 16 张独立封面。实用词典不含例句与搭配，因此只需词目中文 TTS；HSK 旧版 600 词原内容保留。若 Android 项目还使用原所有者 Hurt6465-ai 的远程 URL，建议改为当前规范的 `hurt56631-ui` Release 地址，并刷新线上词库目录缓存。
+最新 [content-v1.6.40](https://github.com/hurt56631-ui/talkami-learning-content/releases/tag/content-v1.6.40) 已增加 16 个实用主题词分类、4500 个词目和 16 张独立封面。首次发布的实用词典不含例句与搭配；2026-11-05 已在内容源码中为第 01–04 类共 1090 个词新增 1519 条文字双语例句，仍不含搭配和新增音频；第 05–16 类保持原样。需发布新的 Release 后 App 才能获取这项更新。HSK 旧版 600 词原内容保留。若 Android 项目还使用原所有者 Hurt6465-ai 的远程 URL，建议改为当前规范的 `hurt56631-ui` Release 地址，并刷新线上词库目录缓存。
+
+### 实用词分类 01–04：2026-11-05 例句补充
+
+- 第 01 类：225 词、299 例句；第 02 类：378 词、594 例句；第 03 类：137 词、213 例句；第 04 类：350 词、413 例句，共 1519 条。
+- 每词保留原词目 ID 和中文/拼音/缅文原释义，新增 1–2 条含 ID、中文、拼音、缅文的例句；**没有搭配**。
+- 目录版本 `8`；第 01–04 类资源由 `talkami-practical-0X-v5.json` 升级为 `talkami-practical-0X-v6.json`，对应 `data_version: 3`；其余分类和 HSK 不改。
+- 此处源代码更新并不等于线上 Release 已更新；需要通过 Actions 发布新的版本。
