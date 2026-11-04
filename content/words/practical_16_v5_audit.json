@@ -1,5 +1,5 @@
 {
-  "version": "v7-examples-01-08",
+  "version": "v8-examples-01-08-and-12",
   "date": "2026-11-05",
   "source": "Talkami_实用中缅四列词典_4500条_V4_完整精校版.txt",
   "compare_reference": "content/words/packs/hsk1_3_0.json",
@@ -13,13 +13,13 @@
     "last_id": 1004500,
     "full_four_column_rows": 4500,
     "words_with_collocations": 0,
-    "words_with_examples": 2080,
+    "words_with_examples": 2260,
     "confirmed_pinyin_corrections": 6,
     "burmese_meaning_enhancements": 11,
     "reclassified_words": 86,
     "subcategory_labels_refined": 5,
     "phonetic_syllable_alignment_errors": 0,
-    "total_examples": 2666
+    "total_examples": 2846
   },
   "quality_notes": [
     "所有 ID 与 V4 源顺序绑定：id=1000000+source_order。移动类别及拼音排序不改变 ID。",
@@ -38,7 +38,9 @@
     "目录从版本 7 升至 8，01–04 类 data_version 从 2 升至 3，发布文件名变更为 talkami-practical-0X-v6.json；仍需发布新的 GitHub Release 才能被 App 获取。",
     "2026-11-05：05–08 类新增 990 词 / 1147 条中文、拼音、缅文例句；01–08 类累计 2080 词 / 2666 例句，所有实用词仍无搭配。",
     "分类 09–16 保持纯词典形式无例句；原 HSK1–4 词包不修改。第 05–08 类发布资源从 v5 改为 v6、data_version 从 2 改为 3，目录版本从 8 改为 9。",
-    "新编例句拼音由词库词音及针对性的人工修正规则得出，尚未完成人工逐字声调复核；缅语翻译未经过母语教师逐条终审，建议发布前集中语言校对。"
+    "新编例句拼音由词库词音及针对性的人工修正规则得出，尚未完成人工逐字声调复核；缅语翻译未经过母语教师逐条终审，建议发布前集中语言校对。",
+    "2026-11-05：第 12 类手机网络与数码 180 个词各补 1 条中缅文字例句，累计 2260 个词 / 2846 条例句。第 09–11 与 13–16 类仍仅有词目。无新增搭配或音频。",
+    "第 12 类新增例句经过 ID、词目包含、字段与缅文字符检查；拼音及缅文仍需逐条人工母语语言终审。"
   ],
   "categories": [
     {
@@ -146,8 +148,8 @@
       "item_count": 180,
       "subcategory_count": 7,
       "preview": "按键手机 / 安装 / 版本",
-      "words_with_examples": 0,
-      "examples": 0
+      "words_with_examples": 180,
+      "examples": 180
     },
     {
       "id": "13",
