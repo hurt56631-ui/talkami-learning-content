@@ -15,6 +15,7 @@ EXPECTED = {f"{i:02}": n for i, n in enumerate(
     [225, 378, 137, 350, 250, 195, 291, 254,
      467, 254, 221, 180, 239, 184, 108, 767], start=1
 )}
+EXAMPLE_COUNTS = {"01": 299, "02": 594, "03": 213, "04": 413}
 REQUIRED = ("id", "hanzi", "pinyin", "phonetic_my", "burmese",
             "category_id", "subcategory_id", "source_order", "content_status")
 
@@ -62,7 +63,7 @@ def verify_png(path):
 
 def main():
     catalog = read_json(WORDS / "catalog.json")
-    check(catalog.get("version", 0) >= 7, "catalog version must be >=7")
+    check(catalog.get("version", 0) >= 8, "catalog version must be >=8")
     items = catalog.get("items", [])
     practical = {item["id"]: item for item in items if str(item.get("id", "")).startswith("practical_")}
     check(len(practical) == 16, "expected exactly 16 practical catalog entries")
@@ -71,6 +72,9 @@ def main():
     ids, headwords, subcategories = set(), set(), set()
     by_id = {}
     total = 0
+    example_count = 0
+    example_ids = set()
+    examples_by_category = {}
 
     for code, declared in EXPECTED.items():
         item_id = f"practical_{code}"
@@ -82,8 +86,13 @@ def main():
         cover = f"content/words/covers/practical_{code}.png"
         check(item.get("source_data") == pack, f"invalid source_data for {code}")
         check(item.get("source_cover") == cover, f"invalid source_cover for {code}")
-        check(item.get("data_version") == 2 and item.get("cover_version") == 1,
+        example_enabled = code in EXAMPLE_COUNTS
+        data_version = 3 if example_enabled else 2
+        asset_version = 6 if example_enabled else 5
+        check(item.get("data_version") == data_version and item.get("cover_version") == 1,
               f"invalid version for {code}")
+        check(item.get("data_url") == f"talkami-practical-{code}-v{asset_version}.json",
+              f"unexpected release filename for {code}")
         for field, suffix in (("data_url", ".json"), ("cover_url", ".png")):
             name = item.get(field, "")
             check(isinstance(name, str) and name.endswith(suffix)
@@ -97,6 +106,7 @@ def main():
         check(isinstance(rows, list) and len(rows) == declared,
               f"pack count incorrect for {code}")
         check(item.get("item_count") == declared, f"catalog count incorrect for {code}")
+        category_examples = 0
         for row in rows:
             check(isinstance(row, dict) and all(row.get(k) not in (None, "") for k in REQUIRED),
                   f"missing word field in {code}")
@@ -112,18 +122,49 @@ def main():
                   and row["subcategory_id"].startswith(code + "."),
                   f"wrong category: {ident}")
             subcategories.add(row["subcategory_id"])
+            status = "examples_ready" if example_enabled else "dictionary_only"
             check(row.get("level") == "practical"
-                  and row.get("content_status") == "dictionary_only",
-                  f"non-dictionary word: {ident}")
-            for k in ("collocations", "collocations_pinyin", "collocations_my", "examples"):
+                  and row.get("content_status") == status,
+                  f"unexpected word content status: {ident}")
+            for k in ("collocations", "collocations_pinyin", "collocations_my"):
                 check(row.get(k) == [], f"unexpected {k} at {ident}")
             check(row.get("collocation_ids") == {}, f"unexpected collocation IDs at {ident}")
+            examples = row.get("examples")
+            if example_enabled:
+                check(isinstance(examples, list) and 1 <= len(examples) <= 2,
+                      f"expected 1–2 examples for {ident}")
+                for index, example in enumerate(examples, start=1):
+                    check(isinstance(example, dict), f"invalid example object for {ident}")
+                    exid = f"{ident}_ex{index:02d}"
+                    check(example.get("id") == exid and exid not in example_ids,
+                          f"invalid or repeated example ID: {exid}")
+                    example_ids.add(exid)
+                    hanzi = example.get("hanzi", "")
+                    pinyin = example.get("pinyin", "")
+                    burmese = example.get("burmese", "")
+                    check(isinstance(hanzi, str) and row["hanzi"] in hanzi,
+                          f"target word missing from example: {exid}")
+                    check(isinstance(pinyin, str) and bool(pinyin.strip()),
+                          f"missing pinyin in example: {exid}")
+                    check(isinstance(burmese, str) and bool(burmese.strip())
+                          and re.search(r"[\u1000-\u109F\uAA60-\uAA7F]", burmese),
+                          f"missing Myanmar example translation: {exid}")
+                category_examples += len(examples)
+            else:
+                check(examples == [], f"unexpected examples at {ident}")
+        expected_examples = EXAMPLE_COUNTS.get(code, 0)
+        check(category_examples == expected_examples,
+              f"example count incorrect for {code}: {category_examples} != {expected_examples}")
+        examples_by_category[code] = category_examples
+        example_count += category_examples
         total += len(rows)
 
     check(total == 4500 and len(ids) == 4500 and len(headwords) == 4500,
           "word count/uniqueness mismatch")
     check(ids == set(range(1_000_001, 1_004_501)), "noncontiguous stable IDs")
     check(len(subcategories) == 163, "wrong subcategory count")
+    check(example_count == 1519 and len(example_ids) == 1519,
+          "total example count/uniqueness mismatch")
     manifest = WORDS / "practical_16_v5_audio_words_only.csv"
     with manifest.open(encoding="utf-8", newline="") as handle:
         csv_rows = list(csv.DictReader(handle))
@@ -141,7 +182,8 @@ def main():
               and item["audio_filename"] == f"practical_{ident}.mp3",
               f"incorrect manifest row: {ident}")
     print(f"PASS: {total} words, 16 categories, 163 subcategories, 16 PNG covers, "
-          f"{len(csv_rows)} word-only audio rows, 0 collocations/examples")
+          f"{len(csv_rows)} word-only audio rows, 0 collocations, "
+          f"{example_count} bilingual examples in categories 01–04")
 
 
 if __name__ == "__main__":
