@@ -15,7 +15,8 @@ EXPECTED = {f"{i:02}": n for i, n in enumerate(
     [225, 378, 137, 350, 250, 195, 291, 254,
      467, 254, 221, 180, 239, 184, 108, 767], start=1
 )}
-EXAMPLE_COUNTS = {"01": 299, "02": 594, "03": 213, "04": 413}
+EXAMPLE_COUNTS = {"01": 299, "02": 594, "03": 213, "04": 413,
+                  "05": 277, "06": 218, "07": 320, "08": 332}
 REQUIRED = ("id", "hanzi", "pinyin", "phonetic_my", "burmese",
             "category_id", "subcategory_id", "source_order", "content_status")
 
@@ -63,7 +64,7 @@ def verify_png(path):
 
 def main():
     catalog = read_json(WORDS / "catalog.json")
-    check(catalog.get("version", 0) >= 8, "catalog version must be >=8")
+    check(catalog.get("version", 0) >= 9, "catalog version must be >=9")
     items = catalog.get("items", [])
     practical = {item["id"]: item for item in items if str(item.get("id", "")).startswith("practical_")}
     check(len(practical) == 16, "expected exactly 16 practical catalog entries")
@@ -163,7 +164,7 @@ def main():
           "word count/uniqueness mismatch")
     check(ids == set(range(1_000_001, 1_004_501)), "noncontiguous stable IDs")
     check(len(subcategories) == 163, "wrong subcategory count")
-    check(example_count == 1519 and len(example_ids) == 1519,
+    check(example_count == 2666 and len(example_ids) == 2666,
           "total example count/uniqueness mismatch")
     manifest = WORDS / "practical_16_v5_audio_words_only.csv"
     with manifest.open(encoding="utf-8", newline="") as handle:
@@ -183,7 +184,7 @@ def main():
               f"incorrect manifest row: {ident}")
     print(f"PASS: {total} words, 16 categories, 163 subcategories, 16 PNG covers, "
           f"{len(csv_rows)} word-only audio rows, 0 collocations, "
-          f"{example_count} bilingual examples in categories 01–04")
+          f"{example_count} bilingual examples in categories 01–08")
 
 
 if __name__ == "__main__":
