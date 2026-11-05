@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "version": 12,
+  "version": 13,
   "updated_at": "2026-11-05T00:00:00Z",
   "type": "words",
   "title": "单词库",
-  "subtitle": "HSK1–3（旧版 600 词）＋ 实用中缅主题词典（4500 词 / 16 分类）。实用词第 01–09、11–12 类附中缅双语例句；10、13–16 类仅有词目；全部实用词无搭配。",
+  "subtitle": "HSK1–3（旧版 600 词）＋ 实用中缅主题词典（4500 词 / 16 分类）。实用词第 01–12 类附中缅双语例句；13–16 类仅有词目；全部实用词无搭配。",
   "items": [
     {
       "id": "hsk1_demo",
@@ -219,13 +219,13 @@
     {
       "id": "practical_10",
       "title": "身体健康与医疗",
-      "subtitle": "254 个中缅实用词 · 主题分类速查",
+      "subtitle": "254 个身体健康与医疗实用词，附中缅文字例句",
       "preview": "饱 / 饱了 / 背部",
       "badge": "实用",
       "target": "word",
       "level": "practical_10",
-      "data_url": "talkami-practical-10-v5.json",
-      "data_version": 2,
+      "data_url": "talkami-practical-10-v6.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 254,
       "source_data": "content/words/packs/practical_16_v5/category_10.json",
