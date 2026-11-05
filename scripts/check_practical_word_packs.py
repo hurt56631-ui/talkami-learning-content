@@ -184,7 +184,7 @@ def main():
               f"incorrect manifest row: {ident}")
     print(f"PASS: {total} words, 16 categories, 163 subcategories, 16 PNG covers, "
           f"{len(csv_rows)} word-only audio rows, 0 collocations, "
-          f"{example_count} bilingual examples in categories 01–08 and 12")
+          f"{example_count} bilingual examples in categories 01–08 and 11–12")
 
 
 if __name__ == "__main__":
