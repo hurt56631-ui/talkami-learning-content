@@ -6,25 +6,37 @@
   "theme_title_my": "ကိုယ်ရေးအချက်အလက်",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-11",
-  "phrase_count": 165,
+  "phrase_count": 164,
   "original_count": 115,
-  "added_count": 50,
-  "note": "原有115条主句ID保留，新补50条；只制作高频实用候选稿。缅甸语母语逐句终审、普通话拼音与缅文谐音尚未完成，禁止当成正式教材上架。",
+  "added_count": 49,
+  "note": "原115个主句ID保留，新增49条，删掉与原句重复的一条S027，新ID不回填。回复、类似说法和说明按需添加。当前独立草稿，母语教师终审和发音审校尚未完成。",
   "scenes": [
     {
       "id": "02.01.01",
       "title": "姓名年龄",
       "title_my": "အမည်နှင့် အသက်",
       "original_count": 23,
-      "added_count": 8,
-      "phrase_count": 31,
+      "added_count": 7,
+      "phrase_count": 30,
       "phrases": [
         {
           "id": "02.01.01-S001",
           "text": "请问怎么称呼您？",
           "meaning_my": "ဘယ်လိုခေါ်ပေးရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.01-S001_reply01",
+              "text": "叫我小敏就好。",
+              "meaning_my": "ရှောင်မင်လို့ပဲ ခေါ်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.01-S001_alt01",
+              "text": "我该怎么称呼您？",
+              "meaning_my": "ဘယ်လိုခေါ်ရမလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -34,7 +46,13 @@
           "id": "02.01.01-S002",
           "text": "我可以叫你小敏吗？",
           "meaning_my": "ရှောင်မင်လို့ ခေါ်လို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S002_reply01",
+              "text": "可以，没问题。",
+              "meaning_my": "ရပါတယ်၊ ပြဿနာမရှိဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -45,8 +63,20 @@
           "id": "02.01.01-S003",
           "text": "你叫什么名字？",
           "meaning_my": "နာမည် ဘယ်လိုခေါ်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.01-S003_reply01",
+              "text": "我叫敏敏。",
+              "meaning_my": "မင်းမင်းလို့ ခေါ်ပါတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.01-S003_alt01",
+              "text": "你叫什么？",
+              "meaning_my": "နာမည် ဘယ်လိုခေါ်လဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -67,12 +97,25 @@
           "id": "02.01.01-S005",
           "text": "你姓什么？",
           "meaning_my": "မျိုးရိုးနာမည် ဘာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S005_reply01",
+              "text": "我没有姓。",
+              "meaning_my": "မျိုးရိုးနာမည် မရှိဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“姓”是汉语姓名中的姓氏。许多缅甸人的姓名没有汉式姓氏。",
+              "text_my": "“姓” က တရုတ်နာမည်ထဲက မျိုးရိုးနာမည်ပါ။ မြန်မာနာမည်အများစုမှာ အဲဒီလို မျိုးရိုးနာမည် မရှိဘူး။"
+            }
+          ]
         },
         {
           "id": "02.01.01-S006",
@@ -89,8 +132,20 @@
           "id": "02.01.01-S007",
           "text": "你多大了？",
           "meaning_my": "အသက် ဘယ်လောက်ရှိပြီလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.01-S007_reply01",
+              "text": "我二十五岁。",
+              "meaning_my": "အသက် နှစ်ဆယ့်ငါးနှစ်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.01-S007_alt01",
+              "text": "你今年多大？",
+              "meaning_my": "ဒီနှစ် အသက် ဘယ်လောက်ရှိပြီလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -111,7 +166,13 @@
           "id": "02.01.01-S009",
           "text": "你的名字怎么写？",
           "meaning_my": "နာမည်ကို ဘယ်လိုရေးရလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S009_reply01",
+              "text": "我写给你看。",
+              "meaning_my": "ရေးပြမယ်နော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -155,7 +216,13 @@
           "id": "02.01.01-S013",
           "text": "这几个字写对了吗？",
           "meaning_my": "ဒီစာလုံးတွေ ရေးထားတာ မှန်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S013_reply01",
+              "text": "对，写对了。",
+              "meaning_my": "ဟုတ်တယ်၊ ရေးတာ မှန်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -167,7 +234,13 @@
           "text": "我的中文名字叫小敏。",
           "meaning_my": "တရုတ်နာမည်က ရှောင်မင်ပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.01.01-S014_alt01",
+              "text": "我的中文名叫小敏。",
+              "meaning_my": "တရုတ်နာမည်က ရှောင်မင်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -210,12 +283,25 @@
           "id": "02.01.01-S018",
           "text": "没有姓，表格怎么填？",
           "meaning_my": "မျိုးရိုးနာမည် မရှိရင် ဖောင်ကို ဘယ်လိုဖြည့်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S018_reply01",
+              "text": "先问问工作人员吧。",
+              "meaning_my": "ဝန်ထမ်းကို အရင်မေးကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "没有姓氏时不要自行编造。护照、签证和银行表格应按证件要求填写。",
+              "text_my": "မျိုးရိုးနာမည် မရှိရင် ကိုယ့်ဘာသာ မထည့်ပါနဲ့။ ဖောင်တွေကို သတ်မှတ်ချက်အတိုင်း ဖြည့်ပါ။"
+            }
+          ]
         },
         {
           "id": "02.01.01-S019",
@@ -254,7 +340,13 @@
           "id": "02.01.01-S022",
           "text": "你有中文名字吗？",
           "meaning_my": "တရုတ်နာမည် ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S022_reply01",
+              "text": "有，我叫小敏。",
+              "meaning_my": "ရှိတယ်၊ ရှောင်မင်လို့ ခေါ်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -265,8 +357,20 @@
           "id": "02.01.01-S023",
           "text": "你是哪年出生的？",
           "meaning_my": "ဘယ်နှစ်မှာ မွေးတာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.01-S023_reply01",
+              "text": "我是二〇〇〇年出生的。",
+              "meaning_my": "၂၀၀၀ ခုနှစ်မှာ မွေးတာပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.01-S023_alt01",
+              "text": "你是哪一年生的？",
+              "meaning_my": "ဘယ်နှစ်ခုနှစ်မှာ မွေးတာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -276,8 +380,20 @@
           "id": "02.01.01-S024",
           "text": "这是必填的吗？",
           "meaning_my": "ဒါကို မဖြစ်မနေ ဖြည့်ရမှာလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.01-S024_reply01",
+              "text": "对，这是必填的。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒါ မဖြစ်မနေ ဖြည့်ရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.01-S024_alt01",
+              "text": "这个一定要填吗？",
+              "meaning_my": "ဒါကို မဖြစ်မနေ ဖြည့်ရမှာလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -287,30 +403,38 @@
           "id": "02.01.01-S025",
           "text": "名字用英文写可以吗？",
           "meaning_my": "နာမည်ကို အင်္ဂလိပ်စာလုံးနဲ့ ရေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S025_reply01",
+              "text": "可以，按证件上的写。",
+              "meaning_my": "ရတယ်၊ သက်သေခံစာရွက်မှာပါတဲ့အတိုင်း ရေးပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“用英文写名字”通常是用拉丁字母拼写姓名，不是另取英文名字。",
+              "text_my": "“နာမည်ကို အင်္ဂလိပ်လိုရေး” ဆိုတာ အက္ခရာနဲ့ ရေးတာပါ။ နာမည်အသစ် ပြောင်းတာ မဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.01.01-S026",
           "text": "请按护照上的名字填写。",
           "meaning_my": "နိုင်ငံကူးလက်မှတ်မှာ ရေးထားတဲ့ နာမည်အတိုင်း ဖြည့်ပါ။",
           "replies": [],
-          "alternatives": [],
-          "pinyin": null,
-          "phonetic_my": null,
-          "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
-        },
-        {
-          "id": "02.01.01-S027",
-          "text": "你是哪一年出生的？",
-          "meaning_my": "ဘယ်နှစ်ခုနှစ်မှာ မွေးတာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.01.01-S026_alt01",
+              "text": "按照护照上的名字填。",
+              "meaning_my": "နိုင်ငံကူးလက်မှတ်မှာပါတဲ့ နာမည်အတိုင်း ဖြည့်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -342,7 +466,13 @@
           "id": "02.01.01-S030",
           "text": "这里填全名吗？",
           "meaning_my": "ဒီမှာ နာမည်အပြည့်အစုံ ဖြည့်ရမှာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S030_reply01",
+              "text": "对，填全名。",
+              "meaning_my": "ဟုတ်တယ်၊ နာမည်အပြည့်အစုံ ဖြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -353,7 +483,13 @@
           "id": "02.01.01-S031",
           "text": "我的名字拼错了。",
           "meaning_my": "နာမည် စာလုံးပေါင်း မှားနေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.01-S031_reply01",
+              "text": "我帮你改一下。",
+              "meaning_my": "နည်းနည်း ပြင်ပေးမယ်နော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -374,8 +510,20 @@
           "id": "02.01.02-S001",
           "text": "你是哪国人？",
           "meaning_my": "ဘယ်နိုင်ငံသားလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.02-S001_reply01",
+              "text": "我是缅甸人。",
+              "meaning_my": "မြန်မာနိုင်ငံသားပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.02-S001_alt01",
+              "text": "你是哪国的？",
+              "meaning_my": "ဘယ်နိုင်ငံကလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -396,12 +544,31 @@
           "id": "02.01.02-S003",
           "text": "你是哪里人？",
           "meaning_my": "ဘယ်ကလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.02-S003_reply01",
+              "text": "我从仰光来的。",
+              "meaning_my": "ရန်ကုန်က လာတာပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.02-S003_alt01",
+              "text": "你老家是哪儿的？",
+              "meaning_my": "ဇာတိ ဘယ်ကလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“哪里人”常问来自哪里或家乡，不一定问现在住在哪里。",
+              "text_my": "“哪里人” က ဘယ်ကလဲ၊ ဇာတိဘယ်မှာလဲ မေးတာပါ။ အခု နေရာကို မေးတာ မဟုတ်နိုင်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.01.02-S004",
@@ -429,7 +596,13 @@
           "id": "02.01.02-S006",
           "text": "你老家在哪儿？",
           "meaning_my": "ဇာတိ ဘယ်မှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.02-S006_reply01",
+              "text": "我老家在曼德勒。",
+              "meaning_my": "ဇာတိက မန္တလေးပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -451,7 +624,13 @@
           "id": "02.01.02-S008",
           "text": "你是本地人吗？",
           "meaning_my": "ဒီဒေသခံလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.02-S008_reply01",
+              "text": "不是，我从外地来的。",
+              "meaning_my": "မဟုတ်ဘူး၊ တခြားဒေသက လာတာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -484,7 +663,13 @@
           "id": "02.01.02-S011",
           "text": "你老家离这儿远吗？",
           "meaning_my": "ဇာတိက ဒီကနေ ဝေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.02-S011_reply01",
+              "text": "挺远的，坐车要一天。",
+              "meaning_my": "တော်တော်ဝေးတယ်၊ ကားနဲ့ တစ်ရက်လောက် ကြာတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -495,8 +680,20 @@
           "id": "02.01.02-S012",
           "text": "你来中国多久了？",
           "meaning_my": "တရုတ်နိုင်ငံကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.02-S012_reply01",
+              "text": "来两年了。",
+              "meaning_my": "ရောက်တာ နှစ်နှစ်ရှိပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.02-S012_alt01",
+              "text": "你到中国多久了？",
+              "meaning_my": "တရုတ်နိုင်ငံကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -561,7 +758,13 @@
           "id": "02.01.02-S018",
           "text": "你在哪儿长大的？",
           "meaning_my": "ဘယ်မှာ ကြီးပြင်းခဲ့တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.02-S018_reply01",
+              "text": "我在仰光长大的。",
+              "meaning_my": "ရန်ကုန်မှာ ကြီးပြင်းခဲ့တာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -572,7 +775,13 @@
           "id": "02.01.02-S019",
           "text": "你从哪个城市来的？",
           "meaning_my": "ဘယ်မြို့က လာတာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.02-S019_reply01",
+              "text": "从曼德勒来的。",
+              "meaning_my": "မန္တလေးက လာတာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -583,7 +792,13 @@
           "id": "02.01.02-S020",
           "text": "你学中文多久了？",
           "meaning_my": "တရုတ်စကား လေ့လာနေတာ ဘယ်လောက်ကြာပြီလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.02-S020_reply01",
+              "text": "学了半年多了。",
+              "meaning_my": "သင်လာတာ ခြောက်လကျော်ပြီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -594,8 +809,20 @@
           "id": "02.01.02-S021",
           "text": "你从哪儿来？",
           "meaning_my": "ဘယ်က လာတာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.02-S021_reply01",
+              "text": "从缅甸来的。",
+              "meaning_my": "မြန်မာနိုင်ငံက လာတာ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.02-S021_alt01",
+              "text": "你是从哪里来的？",
+              "meaning_my": "ဘယ်က လာတာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -639,7 +866,13 @@
           "text": "我是来旅游的。",
           "meaning_my": "အလည်အပတ် လာတာပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.01.02-S025_alt01",
+              "text": "我是来玩的。",
+              "meaning_my": "အလည်လာတာပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -649,7 +882,13 @@
           "id": "02.01.02-S026",
           "text": "你来这边多久了？",
           "meaning_my": "ဒီဘက်ကို ရောက်တာ ဘယ်လောက်ကြာပြီလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.02-S026_reply01",
+              "text": "才一个月。",
+              "meaning_my": "တစ်လပဲ ရှိသေးတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -681,8 +920,20 @@
           "id": "02.01.03-S001",
           "text": "你住哪儿？",
           "meaning_my": "ဘယ်မှာ နေလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.03-S001_reply01",
+              "text": "我住在公司附近。",
+              "meaning_my": "ကုမ္ပဏီနားမှာ နေတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.03-S001_alt01",
+              "text": "你住在哪里？",
+              "meaning_my": "ဘယ်မှာ နေလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -726,17 +977,36 @@
           "text": "我和朋友合租。",
           "meaning_my": "သူငယ်ချင်းနဲ့ အိမ်ခန်းအတူငှားနေတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.01.03-S005_alt01",
+              "text": "我跟朋友一起租房。",
+              "meaning_my": "သူငယ်ချင်းနဲ့ အိမ်ခန်းအတူငှားနေတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“合租”是与别人一起租房并分担费用。",
+              "text_my": "“合租” က တခြားသူတွေနဲ့ အိမ်ခန်းအတူငှားပြီး ကုန်ကျစရိတ် ဝေမျှတာပါ။"
+            }
+          ]
         },
         {
           "id": "02.01.03-S006",
           "text": "你住得远不远？",
           "meaning_my": "နေတဲ့နေရာက ဝေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S006_reply01",
+              "text": "不远，走路十分钟。",
+              "meaning_my": "မဝေးဘူး၊ လမ်းလျှောက် ဆယ်မိနစ်ပဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -813,7 +1083,13 @@
           "id": "02.01.03-S013",
           "text": "你上班路上要多久？",
           "meaning_my": "အလုပ်သွားဖို့ ဘယ်လောက်ကြာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S013_reply01",
+              "text": "大概半小时。",
+              "meaning_my": "နာရီဝက်လောက်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -846,7 +1122,13 @@
           "id": "02.01.03-S016",
           "text": "地址我发给你。",
           "meaning_my": "လိပ်စာ ပို့ပေးမယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S016_reply01",
+              "text": "好，你发我吧。",
+              "meaning_my": "ကောင်းပြီ၊ ပို့ပေးနော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -923,7 +1205,13 @@
           "id": "02.01.03-S023",
           "text": "地址你发我一下。",
           "meaning_my": "လိပ်စာ ပို့ပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S023_reply01",
+              "text": "好，我马上发给你。",
+              "meaning_my": "ကောင်းပြီ၊ ချက်ချင်း ပို့ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -956,18 +1244,37 @@
           "id": "02.01.03-S026",
           "text": "你住几楼？",
           "meaning_my": "ဘယ်နှထပ်မှာ နေလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S026_reply01",
+              "text": "住三楼。",
+              "meaning_my": "တတိယထပ်မှာ နေတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "中国大陆地面层一般叫“一楼”，楼层叫法可能与缅甸不同。",
+              "text_my": "တရုတ်ပြည်မကြီးမှာ မြေညီထပ်ကို “一楼” လို့ ခေါ်တတ်တယ်။ မြန်မာနဲ့ ကွာနိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "02.01.03-S027",
           "text": "这附近租房贵吗？",
           "meaning_my": "ဒီနားမှာ အိမ်ငှားခ ဈေးကြီးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S027_reply01",
+              "text": "有点贵，我还在找。",
+              "meaning_my": "နည်းနည်း ဈေးကြီးတယ်၊ ရှာနေတုန်းပဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -978,8 +1285,20 @@
           "id": "02.01.03-S028",
           "text": "房租一个月多少？",
           "meaning_my": "အိမ်ငှားခ တစ်လ ဘယ်လောက်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.03-S028_reply01",
+              "text": "一个月八百块。",
+              "meaning_my": "တစ်လ ယွမ်ရှစ်ရာ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.03-S028_alt01",
+              "text": "一个月房租多少？",
+              "meaning_my": "တစ်လ အိမ်ငှားခ ဘယ်လောက်လဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -989,7 +1308,13 @@
           "id": "02.01.03-S029",
           "text": "水电费另算吗？",
           "meaning_my": "ရေဖိုး မီးဖိုး သပ်သပ်ပေးရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S029_reply01",
+              "text": "对，水电费另外付。",
+              "meaning_my": "ဟုတ်တယ်၊ ရေဖိုး မီးဖိုး သပ်သပ်ပေးရတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1000,8 +1325,20 @@
           "id": "02.01.03-S030",
           "text": "可以看房吗？",
           "meaning_my": "အခန်း ကြည့်လို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.03-S030_reply01",
+              "text": "可以，下午过来看吧。",
+              "meaning_my": "ရတယ်၊ နေ့လယ်နောက်ပိုင်း လာကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.03-S030_alt01",
+              "text": "能看看房子吗？",
+              "meaning_my": "အိမ်ခန်း ကြည့်လို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1011,7 +1348,13 @@
           "id": "02.01.03-S031",
           "text": "有电梯吗？",
           "meaning_my": "ဓာတ်လှေကား ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S031_reply01",
+              "text": "有，楼里有电梯。",
+              "meaning_my": "ရှိတယ်၊ အဆောက်အအုံမှာ ဓာတ်လှေကား ရှိတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1022,7 +1365,13 @@
           "id": "02.01.03-S032",
           "text": "房间带家具吗？",
           "meaning_my": "အခန်းထဲမှာ ပရိဘောဂ ပါလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.03-S032_reply01",
+              "text": "有床和桌子。",
+              "meaning_my": "ကုတင်နဲ့ စားပွဲ ရှိတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1054,7 +1403,7 @@
         {
           "id": "02.01.03-S035",
           "text": "我骑电动车上班。",
-          "meaning_my": "လျှပ်စစ်ဆိုင်ကယ်နဲ့ အလုပ်သွားတယ်။",
+          "meaning_my": "လျှပ်စစ်စက်ဘီးနဲ့ အလုပ်သွားတယ်။",
           "replies": [],
           "alternatives": [],
           "pinyin": null,
@@ -1077,12 +1426,31 @@
           "id": "02.01.03-S037",
           "text": "要交押金吗？",
           "meaning_my": "စပေါ်ငွေ ပေးရလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.03-S037_reply01",
+              "text": "要，押一个月房租。",
+              "meaning_my": "ပေးရတယ်၊ တစ်လစာ အိမ်ငှားခနဲ့ ညီတဲ့ စပေါ်ငွေ ပေးရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.03-S037_alt01",
+              "text": "需要交押金吗？",
+              "meaning_my": "စပေါ်ငွေ ပေးဖို့လိုလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“押金”是保证金，不等于每月房租；退还规则应查看租约。",
+              "text_my": "“押金” က စပေါ်ငွေပါ။ လစဉ် အိမ်ငှားခနဲ့ မတူဘူး။ ပြန်ရမရ စာချုပ်ကြည့်ပါ။"
+            }
+          ]
         }
       ]
     },
@@ -1098,8 +1466,20 @@
           "id": "02.01.04-S001",
           "text": "你做什么工作？",
           "meaning_my": "ဘာအလုပ်လုပ်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.04-S001_reply01",
+              "text": "我在工厂上班。",
+              "meaning_my": "စက်ရုံမှာ အလုပ်လုပ်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.04-S001_alt01",
+              "text": "你是做什么的？",
+              "meaning_my": "ဘာအလုပ်လုပ်တာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1131,7 +1511,13 @@
           "id": "02.01.04-S004",
           "text": "你在哪儿当服务员？",
           "meaning_my": "ဘယ်မှာ စားပွဲထိုးလုပ်တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S004_reply01",
+              "text": "在一家餐厅。",
+              "meaning_my": "စားသောက်ဆိုင်တစ်ဆိုင်မှာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1153,8 +1539,20 @@
           "id": "02.01.04-S006",
           "text": "你在哪儿工作？",
           "meaning_my": "ဘယ်မှာ အလုပ်လုပ်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.04-S006_reply01",
+              "text": "我在酒店工作。",
+              "meaning_my": "ဟိုတယ်မှာ အလုပ်လုပ်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.04-S006_alt01",
+              "text": "你在哪里上班？",
+              "meaning_my": "ဘယ်မှာ အလုပ်လုပ်လဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1208,7 +1606,13 @@
           "id": "02.01.04-S011",
           "text": "我刚换了工作。",
           "meaning_my": "အခုမှ အလုပ်ပြောင်းထားတာ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S011_reply01",
+              "text": "新工作怎么样？",
+              "meaning_my": "အလုပ်အသစ် ဘယ်လိုလဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1286,7 +1690,13 @@
           "text": "我刚入职。",
           "meaning_my": "အခုမှ အလုပ်ဝင်တာ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.01.04-S018_alt01",
+              "text": "我是新来的。",
+              "meaning_my": "အခုမှ အလုပ်ဝင်လာတာပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1296,18 +1706,37 @@
           "id": "02.01.04-S019",
           "text": "你上白班还是夜班？",
           "meaning_my": "နေ့ဆိုင်းလား၊ ညဆိုင်းလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S019_reply01",
+              "text": "我上白班。",
+              "meaning_my": "နေ့ဆိုင်း ဆင်းတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“白班”“夜班”指白天和夜晚的工作班次。",
+              "text_my": "“白班”“夜班” က နေ့ဆိုင်းနဲ့ ညဆိုင်းကို ဆိုလိုတယ်။"
+            }
+          ]
         },
         {
           "id": "02.01.04-S020",
           "text": "你在这里工作多久了？",
           "meaning_my": "ဒီမှာ အလုပ်လုပ်တာ ဘယ်လောက်ကြာပြီလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S020_reply01",
+              "text": "在这儿做了一年了。",
+              "meaning_my": "ဒီမှာ လုပ်လာတာ တစ်နှစ်ရှိပြီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1318,7 +1747,13 @@
           "id": "02.01.04-S021",
           "text": "你平时几点下班？",
           "meaning_my": "ပုံမှန် ဘယ်နှနာရီ အလုပ်ပြီးလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S021_reply01",
+              "text": "六点下班。",
+              "meaning_my": "ခြောက်နာရီ အလုပ်ပြီးတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1329,7 +1764,13 @@
           "id": "02.01.04-S022",
           "text": "你现在还在那家公司吗？",
           "meaning_my": "အခု အဲဒီကုမ္ပဏီမှာပဲ အလုပ်လုပ်နေသေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S022_reply01",
+              "text": "没有，我换工作了。",
+              "meaning_my": "မဟုတ်တော့ဘူး၊ အလုပ်ပြောင်းလိုက်ပြီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1428,7 +1869,13 @@
           "id": "02.01.04-S031",
           "text": "公司包吃住吗？",
           "meaning_my": "ကုမ္ပဏီက စားစရိတ်နဲ့ နေစရိတ် စီစဉ်ပေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S031_reply01",
+              "text": "包吃住，不用自己付。",
+              "meaning_my": "စားစရိတ်နဲ့ နေစရိတ်ကို ကုမ္ပဏီက စီစဉ်ပေးလို့ ကိုယ်တိုင် ပေးစရာမလိုဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1439,18 +1886,43 @@
           "id": "02.01.04-S032",
           "text": "有加班费吗？",
           "meaning_my": "အချိန်ပိုခ ရလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.04-S032_reply01",
+              "text": "有，加班另外算钱。",
+              "meaning_my": "ရတယ်၊ အချိန်ပိုခ သပ်သပ်တွက်ပေးတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.04-S032_alt01",
+              "text": "加班有钱吗？",
+              "meaning_my": "အချိန်ပိုဆင်းရင် ပိုက်ဆံရလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“加班费”是超出正常工作时间的额外报酬。",
+              "text_my": "“加班费” က ပုံမှန်အလုပ်ချိန်ထက် ပိုလုပ်လို့ ရတဲ့ အပိုလုပ်အားခပါ။"
+            }
+          ]
         },
         {
           "id": "02.01.04-S033",
           "text": "一天上几个小时班？",
           "meaning_my": "တစ်နေ့ ဘယ်နှနာရီ အလုပ်လုပ်ရလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.04-S033_reply01",
+              "text": "每天八小时。",
+              "meaning_my": "တစ်နေ့ ရှစ်နာရီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1466,7 +1938,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“试用期”是新工作试用阶段，具体约定要看劳动合同。",
+              "text_my": "“试用期” က အလုပ်သစ်ရဲ့ အစမ်းခန့်ကာလပါ။ သတ်မှတ်ချက်တွေကို စာချုပ်မှာ ကြည့်ပါ။"
+            }
+          ]
         },
         {
           "id": "02.01.04-S035",
@@ -1493,8 +1972,20 @@
           "id": "02.01.05-S001",
           "text": "你手机号是多少？",
           "meaning_my": "ဖုန်းနံပါတ် ဘာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.05-S001_reply01",
+              "text": "我发给你。",
+              "meaning_my": "ပို့ပေးမယ်နော်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.05-S001_alt01",
+              "text": "你的手机号码是多少？",
+              "meaning_my": "ဖုန်းနံပါတ် ဘယ်လောက်လဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1503,7 +1994,7 @@
         {
           "id": "02.01.05-S002",
           "text": "这是我的手机号。",
-          "meaning_my": "ဒါက ကျွန်တော့်ဖုန်းနံပါတ်ပါ။",
+          "meaning_my": "ဒါ ဖုန်းနံပါတ်ပါ။",
           "replies": [],
           "alternatives": [],
           "pinyin": null,
@@ -1526,19 +2017,38 @@
           "id": "02.01.05-S004",
           "text": "你微信号是什么？",
           "meaning_my": "ဝီချတ်အိုင်ဒီ ဘာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S004_reply01",
+              "text": "我把微信号发给你。",
+              "meaning_my": "ဝီချတ်အိုင်ဒီ ပို့ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "微信号是账号标识，不一定是手机号。",
+              "text_my": "ဝီချတ်အိုင်ဒီက အကောင့်အမှတ်အသားပါ။ ဖုန်းနံပါတ်နဲ့ အမြဲမတူဘူး။"
+            }
+          ]
         },
         {
           "id": "02.01.05-S005",
           "text": "给我发消息。",
           "meaning_my": "စာပို့ပေးပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.01.05-S005_alt01",
+              "text": "发个消息给我。",
+              "meaning_my": "စာတစ်စောင် ပို့ပေးပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1548,8 +2058,20 @@
           "id": "02.01.05-S006",
           "text": "怎么联系你？",
           "meaning_my": "ဘယ်လို ဆက်သွယ်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.05-S006_reply01",
+              "text": "你加我微信吧。",
+              "meaning_my": "ဝီချတ်မှာ လာအပ်လိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.05-S006_alt01",
+              "text": "怎么才能联系到你？",
+              "meaning_my": "ဘယ်လို ဆက်သွယ်လို့ရမလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1592,7 +2114,13 @@
           "id": "02.01.05-S010",
           "text": "你有微信吗？",
           "meaning_my": "ဝီချတ် သုံးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S010_reply01",
+              "text": "有，我发给你。",
+              "meaning_my": "သုံးတယ်၊ ပို့ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1625,7 +2153,13 @@
           "id": "02.01.05-S013",
           "text": "这个号码对吗？",
           "meaning_my": "ဒီနံပါတ် မှန်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S013_reply01",
+              "text": "对，没错。",
+              "meaning_my": "ဟုတ်တယ်၊ မှန်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1670,7 +2204,13 @@
           "text": "号码我再说一遍。",
           "meaning_my": "နံပါတ်ကို နောက်တစ်ခေါက် ပြောမယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.01.05-S017_alt01",
+              "text": "号码我重新说一下。",
+              "meaning_my": "နံပါတ်ကို နောက်တစ်ခေါက် ပြောပြမယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1713,12 +2253,31 @@
           "id": "02.01.05-S021",
           "text": "方便加个微信吗？",
           "meaning_my": "ဝီချတ်မှာ အဆက်အသွယ်ဖြစ်အောင် ထည့်လို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.05-S021_reply01",
+              "text": "可以，扫我的码吧。",
+              "meaning_my": "ရတယ်၊ ဒီ QR ကုဒ်ကို စကန်ဖတ်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.05-S021_alt01",
+              "text": "可以加你微信吗？",
+              "meaning_my": "ဝီချတ်မှာ အပ်လို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“加个微信”是互加联系人，并不是注册新账号。",
+              "text_my": "“加个微信” က ဝီချတ်မှာ အဆက်အသွယ်အဖြစ် အပ်တာပါ။ အကောင့်အသစ်ဖွင့်တာ မဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.01.05-S022",
@@ -1735,7 +2294,13 @@
           "id": "02.01.05-S023",
           "text": "请再说一遍号码。",
           "meaning_my": "နံပါတ်ကို နောက်တစ်ခေါက် ပြန်ပြောပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S023_reply01",
+              "text": "好，你慢点说。",
+              "meaning_my": "ကောင်းပြီ၊ ဖြည်းဖြည်း ပြောပေးနော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1746,7 +2311,13 @@
           "id": "02.01.05-S024",
           "text": "加个好友吧。",
           "meaning_my": "အကောင့်ချင်း အပ်ထားကြရအောင်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S024_reply01",
+              "text": "好，我加你。",
+              "meaning_my": "ကောင်းပြီ၊ အပ်လိုက်မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1756,7 +2327,7 @@
         {
           "id": "02.01.05-S025",
           "text": "扫一下我的二维码。",
-          "meaning_my": "ကျွန်တော့် QR ကုဒ်ကို စကန်ဖတ်ပေးပါ။",
+          "meaning_my": "ဒီ QR ကုဒ်ကို စကန်ဖတ်ပေးပါ။",
           "replies": [],
           "alternatives": [],
           "pinyin": null,
@@ -1768,7 +2339,13 @@
           "id": "02.01.05-S026",
           "text": "我发给你了。",
           "meaning_my": "ပို့ပေးလိုက်ပြီ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S026_reply01",
+              "text": "收到了，谢谢。",
+              "meaning_my": "ရပြီ၊ ကျေးဇူးပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1779,8 +2356,20 @@
           "id": "02.01.05-S027",
           "text": "收到了吗？",
           "meaning_my": "ရပြီလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.05-S027_reply01",
+              "text": "收到了。",
+              "meaning_my": "ရပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.05-S027_alt01",
+              "text": "你收到没有？",
+              "meaning_my": "ရပြီလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1790,7 +2379,13 @@
           "id": "02.01.05-S028",
           "text": "没收到。",
           "meaning_my": "မရသေးဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S028_reply01",
+              "text": "那我再发一遍。",
+              "meaning_my": "ဒါဆို နောက်တစ်ခေါက် ထပ်ပို့မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1801,8 +2396,20 @@
           "id": "02.01.05-S029",
           "text": "电话打不通。",
           "meaning_my": "ဖုန်းဆက်လို့ မရဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.05-S029_reply01",
+              "text": "等会儿再打吧。",
+              "meaning_my": "ခဏနေမှ ထပ်ဆက်ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.05-S029_alt01",
+              "text": "电话一直打不通。",
+              "meaning_my": "ဖုန်းဆက်လို့ မရဖြစ်နေတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1856,8 +2463,20 @@
           "id": "02.01.05-S034",
           "text": "你用 Telegram 吗？",
           "meaning_my": "Telegram သုံးလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.01.05-S034_reply01",
+              "text": "我用 Telegram。",
+              "meaning_my": "Telegram သုံးတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.01.05-S034_alt01",
+              "text": "你有 Telegram 吗？",
+              "meaning_my": "Telegram သုံးလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1867,7 +2486,13 @@
           "id": "02.01.05-S035",
           "text": "你用哪个软件聊天？",
           "meaning_my": "ဘယ်အက်ပ်နဲ့ စကားပြောလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.01.05-S035_reply01",
+              "text": "我一般用微信。",
+              "meaning_my": "ပုံမှန် ဝီချတ် သုံးတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1876,5 +2501,10 @@
         }
       ]
     }
-  ]
+  ],
+  "extras_summary": {
+    "replies": 63,
+    "alternatives": 29,
+    "notes": 12
+  }
 }
