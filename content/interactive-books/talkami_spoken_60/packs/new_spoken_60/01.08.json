@@ -1,0 +1,944 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v2",
+  "status": "draft",
+  "theme_id": "01.08",
+  "theme_title": "原因结果",
+  "theme_title_my": "အကြောင်းရင်းနှင့် ရလဒ်",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 127,
+  "original_count": 78,
+  "added_count": 49,
+  "note": "独立新版草稿。原78句中文与ID不变，少量缅语释义微调，精选新增49句高频原因、进展与结果表达。保留可批量TTS的完整短句，不把未填空的语法模板作为配音主句。缅语母语终审及音频试听未完成。",
+  "scenes": [
+    {
+      "id": "01.08.01",
+      "title": "询问原因与猜测",
+      "title_my": "အကြောင်းရင်းမေးမြန်းခြင်းနှင့် ခန့်မှန်းခြင်း",
+      "phrase_count": 26,
+      "original_count": 15,
+      "added_count": 11,
+      "phrases": [
+        {
+          "id": "01.08.01-S001",
+          "text": "为什么？",
+          "meaning_my": "ဘာလို့လဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S002",
+          "text": "怎么了？",
+          "meaning_my": "ဘာဖြစ်တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S003",
+          "text": "怎么回事？",
+          "meaning_my": "ဘာတွေ ဖြစ်နေတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S004",
+          "text": "怎么会这样？",
+          "meaning_my": "ဘာလို့ ဒီလိုဖြစ်တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S005",
+          "text": "哪里出问题了？",
+          "meaning_my": "ဘယ်နေရာမှာ ပြဿနာဖြစ်တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S006",
+          "text": "为什么还没做完？",
+          "meaning_my": "ဘာလို့ အခုထိ မပြီးသေးတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S007",
+          "text": "为什么不能用？",
+          "meaning_my": "ဘာလို့ သုံးလို့မရတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S008",
+          "text": "今天怎么来这么晚？",
+          "meaning_my": "ဒီနေ့ ဘာလို့ ဒီလောက် နောက်ကျမှ ရောက်တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S009",
+          "text": "怎么突然没电了？",
+          "meaning_my": "ဘာလို့ ရုတ်တရက် မီးပျက်သွားတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S010",
+          "text": "怎么这么贵？",
+          "meaning_my": "ဘာလို့ ဒီလောက် ဈေးကြီးတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S011",
+          "text": "怎么还没到？",
+          "meaning_my": "ဘာလို့ အခုထိ မရောက်သေးတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S012",
+          "text": "是不是路上堵车了？",
+          "meaning_my": "လမ်းမှာ ကားပိတ်နေတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S013",
+          "text": "今天怎么没开门？",
+          "meaning_my": "ဒီနေ့ ဘာလို့ ဆိုင်မဖွင့်တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S014",
+          "text": "是机器坏了吗？",
+          "meaning_my": "စက်ပျက်သွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S015",
+          "text": "是不是没收到消息？",
+          "meaning_my": "စာမရောက်သေးတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S016",
+          "text": "是不是忘了？",
+          "meaning_my": "မေ့သွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S017",
+          "text": "是不是弄错了？",
+          "meaning_my": "မှားသွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S018",
+          "text": "是不是太忙了？",
+          "meaning_my": "အလုပ်များလွန်းနေလို့လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S019",
+          "text": "是不是不舒服？",
+          "meaning_my": "နေလို့မကောင်းတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S020",
+          "text": "是不是手机没电了？",
+          "meaning_my": "ဖုန်းအားကုန်သွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S021",
+          "text": "是不是网络有问题？",
+          "meaning_my": "အင်တာနက်လိုင်းမှာ ပြဿနာရှိနေတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S022",
+          "text": "是不是坏了？",
+          "meaning_my": "ပျက်သွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S023",
+          "text": "出什么事了？",
+          "meaning_my": "ဘာကိစ္စဖြစ်သွားတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S024",
+          "text": "你觉得是什么原因？",
+          "meaning_my": "ဘာကြောင့်လို့ ထင်လဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S025",
+          "text": "怎么突然停了？",
+          "meaning_my": "ဘာလို့ ရုတ်တရက် ရပ်သွားတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.01-S026",
+          "text": "是不是忘记通知了？",
+          "meaning_my": "အကြောင်းကြားဖို့ မေ့သွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.08.02",
+      "title": "解释原因",
+      "title_my": "အကြောင်းရင်းရှင်းပြခြင်း",
+      "phrase_count": 35,
+      "original_count": 22,
+      "added_count": 13,
+      "phrases": [
+        {
+          "id": "01.08.02-S001",
+          "text": "因为堵车。",
+          "meaning_my": "ကားပိတ်လို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S002",
+          "text": "临时有事。",
+          "meaning_my": "ရုတ်တရက် ကိစ္စပေါ်လာလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S003",
+          "text": "我不舒服。",
+          "meaning_my": "နေလို့မကောင်းဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S004",
+          "text": "刚才没注意时间。",
+          "meaning_my": "ခုနက အချိန်ကို သတိမထားမိဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S005",
+          "text": "我没带齐材料。",
+          "meaning_my": "လိုအပ်တဲ့ စာရွက်စာတမ်းတွေ မစုံခဲ့ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S006",
+          "text": "机器出了点问题。",
+          "meaning_my": "စက်မှာ နည်းနည်း ပြဿနာဖြစ်သွားတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S007",
+          "text": "机器还没修好。",
+          "meaning_my": "စက်ကို ပြင်လို့ မပြီးသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S008",
+          "text": "材料还没到。",
+          "meaning_my": "လိုအပ်တဲ့ပစ္စည်းတွေ မရောက်သေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S009",
+          "text": "我出门晚了。",
+          "meaning_my": "အိမ်က ထွက်တာ နောက်ကျသွားလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S010",
+          "text": "我没提前准备好。",
+          "meaning_my": "ကြိုတင် မပြင်ဆင်ထားမိဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S011",
+          "text": "家里有点事。",
+          "meaning_my": "အိမ်မှာ နည်းနည်း ကိစ္စရှိလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S012",
+          "text": "刚才没看手机。",
+          "meaning_my": "ခုနက ဖုန်းမကြည့်မိဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S013",
+          "text": "刚才停电了。",
+          "meaning_my": "ခုနက မီးပျက်သွားတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S014",
+          "text": "我一个人忙不过来。",
+          "meaning_my": "တစ်ယောက်တည်းနဲ့ မနိုင်တော့ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S015",
+          "text": "下雨了，路上不好走。",
+          "meaning_my": "မိုးရွာလို့ လမ်းသွားရတာ ခက်တယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S016",
+          "text": "因为店里没货了。",
+          "meaning_my": "ဆိုင်မှာ ပစ္စည်းကုန်သွားလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S017",
+          "text": "时间临时改了。",
+          "meaning_my": "အချိန်ကို ရုတ်တရက် ပြောင်းလိုက်လို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S018",
+          "text": "今天人手不够。",
+          "meaning_my": "ဒီနေ့ လူမလောက်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S019",
+          "text": "主要是时间不够。",
+          "meaning_my": "အဓိကက အချိန်မလောက်တာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S020",
+          "text": "我这边临时走不开。",
+          "meaning_my": "ဒီဘက်မှာ ရုတ်တရက် ကိစ္စပေါ်လာလို့ မထွက်နိုင်သေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S021",
+          "text": "我没赶上公交车。",
+          "meaning_my": "ဘတ်စ်ကား မမီလိုက်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S022",
+          "text": "我还没收到资料。",
+          "meaning_my": "အချက်အလက်တွေ မရသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S023",
+          "text": "手机没电了。",
+          "meaning_my": "ဖုန်းအားကုန်သွားပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S024",
+          "text": "网络断了。",
+          "meaning_my": "အင်တာနက်လိုင်း ပြတ်သွားလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S025",
+          "text": "我刚看到消息。",
+          "meaning_my": "အခုမှ စာတွေ့တာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S026",
+          "text": "天气不好，出不去。",
+          "meaning_my": "ရာသီဥတု မကောင်းလို့ အပြင်မထွက်နိုင်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S027",
+          "text": "我忘带东西了。",
+          "meaning_my": "ပစ္စည်း ယူလာဖို့ မေ့သွားလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S028",
+          "text": "我以为是明天。",
+          "meaning_my": "မနက်ဖြန်လို့ ထင်ထားတာ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S029",
+          "text": "我也没想到会这样。",
+          "meaning_my": "ဒီလိုဖြစ်မယ်လို့ မထင်ထားဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S030",
+          "text": "不是不想去，是真没空。",
+          "meaning_my": "မသွားချင်လို့ မဟုတ်ဘူး၊ တကယ် မအားလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S031",
+          "text": "路上耽误了一会儿。",
+          "meaning_my": "လမ်းမှာ နည်းနည်း ကြန့်ကြာသွားလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S032",
+          "text": "主要是没准备好。",
+          "meaning_my": "အဓိကက သေချာ မပြင်ဆင်ထားမိလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S033",
+          "text": "这事说来话长。",
+          "meaning_my": "ဒီကိစ္စက ပြောရရင် နည်းနည်း ရှည်တယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S034",
+          "text": "因为通知得太晚了。",
+          "meaning_my": "အကြောင်းကြားတာ နောက်ကျလွန်းလို့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.02-S035",
+          "text": "所以我才没来。",
+          "meaning_my": "အဲဒါကြောင့်ပဲ မလာဖြစ်တာ။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.08.03",
+      "title": "询问进展与回应",
+      "title_my": "လုပ်ငန်းအခြေအနေ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "phrase_count": 31,
+      "original_count": 19,
+      "added_count": 12,
+      "phrases": [
+        {
+          "id": "01.08.03-S001",
+          "text": "现在怎么样？",
+          "meaning_my": "အခု ဘယ်လိုအခြေအနေလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S002",
+          "text": "找到原因了吗？",
+          "meaning_my": "အကြောင်းရင်း ရှာတွေ့ပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S003",
+          "text": "好了吗？",
+          "meaning_my": "ပြီးပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S004",
+          "text": "还没有，再等一下。",
+          "meaning_my": "မပြီးသေးဘူး၊ ခဏထပ်စောင့်ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S005",
+          "text": "还有问题吗？",
+          "meaning_my": "ပြဿနာ ရှိသေးလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S006",
+          "text": "有人在处理吗？",
+          "meaning_my": "ကိုင်တွယ်ဖြေရှင်းပေးနေတဲ့သူ ရှိလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S007",
+          "text": "什么时候有结果？",
+          "meaning_my": "ဘယ်တော့ ရလဒ်ထွက်မလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S008",
+          "text": "现在到哪一步了？",
+          "meaning_my": "အခု ဘယ်အဆင့်ရောက်ပြီလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S009",
+          "text": "已经到最后一步了。",
+          "meaning_my": "နောက်ဆုံးအဆင့် ရောက်နေပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S010",
+          "text": "还要多久能好？",
+          "meaning_my": "ပြီးဖို့ ဘယ်လောက်ကြာဦးမလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S011",
+          "text": "联系上负责人了吗？",
+          "meaning_my": "တာဝန်ခံကို ဆက်သွယ်လို့ရပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S012",
+          "text": "现在能用了吗？",
+          "meaning_my": "အခု သုံးလို့ရပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S013",
+          "text": "今天能修好吗？",
+          "meaning_my": "ဒီနေ့ ပြင်ပြီးနိုင်မလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S014",
+          "text": "还没处理。",
+          "meaning_my": "မဖြေရှင်းရသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S015",
+          "text": "正在弄。",
+          "meaning_my": "လုပ်နေတုန်းပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S016",
+          "text": "快好了。",
+          "meaning_my": "ပြီးတော့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S017",
+          "text": "还要等一会儿。",
+          "meaning_my": "ခဏလောက် ထပ်စောင့်ရဦးမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S018",
+          "text": "还不知道哪里出了问题。",
+          "meaning_my": "ဘယ်နေရာမှာ ပြဿနာဖြစ်လဲ မသိသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S019",
+          "text": "明天才有结果。",
+          "meaning_my": "မနက်ဖြန်မှ ရလဒ်ရမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S020",
+          "text": "有进展吗？",
+          "meaning_my": "တိုးတက်မှု ရှိလာပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S021",
+          "text": "还在处理。",
+          "meaning_my": "ဖြေရှင်းနေတုန်းပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S022",
+          "text": "差不多了。",
+          "meaning_my": "ပြီးခါနီးပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S023",
+          "text": "刚弄完。",
+          "meaning_my": "အခုမှ လုပ်ပြီးတာ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S024",
+          "text": "正在等回复。",
+          "meaning_my": "ပြန်စာကို စောင့်နေတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S025",
+          "text": "一有结果就告诉你。",
+          "meaning_my": "ရလဒ်ရတာနဲ့ ပြောပေးမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S026",
+          "text": "今天能弄完吗？",
+          "meaning_my": "ဒီနေ့ အပြီးလုပ်နိုင်မလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S027",
+          "text": "有没有遇到什么困难？",
+          "meaning_my": "အခက်အခဲ တစ်ခုခု တွေ့နေလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S028",
+          "text": "这边还在确认。",
+          "meaning_my": "ဒီဘက်မှာ အတည်ပြုစစ်ဆေးနေတုန်းပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S029",
+          "text": "现在还差什么？",
+          "meaning_my": "အခု ဘာလိုနေသေးလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S030",
+          "text": "有消息了吗？",
+          "meaning_my": "သတင်းထူး ရှိပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.03-S031",
+          "text": "还没回复我。",
+          "meaning_my": "သူ့ဆီက ပြန်စာ မရသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.08.04",
+      "title": "表达结果与影响",
+      "title_my": "ရလဒ်နှင့် သက်ရောက်မှုကို ပြောခြင်း",
+      "phrase_count": 35,
+      "original_count": 22,
+      "added_count": 13,
+      "phrases": [
+        {
+          "id": "01.08.04-S001",
+          "text": "已经好了。",
+          "meaning_my": "ပြီးသွားပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S002",
+          "text": "还没弄完。",
+          "meaning_my": "မပြီးသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S003",
+          "text": "事情办成了。",
+          "meaning_my": "ကိစ္စ အဆင်ပြေသွားပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S004",
+          "text": "没做成。",
+          "meaning_my": "မအောင်မြင်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S005",
+          "text": "来不及了。",
+          "meaning_my": "မမီတော့ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S006",
+          "text": "这会影响后面的安排。",
+          "meaning_my": "ဒါက နောက်အစီအစဉ်တွေကိုပါ ထိခိုက်စေမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S007",
+          "text": "终于联系上他了。",
+          "meaning_my": "နောက်ဆုံးတော့ သူနဲ့ ဆက်သွယ်လို့ရပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S008",
+          "text": "今天做不完了。",
+          "meaning_my": "ဒီနေ့ မပြီးနိုင်တော့ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S009",
+          "text": "都安排好了。",
+          "meaning_my": "အားလုံး စီစဉ်ပြီးပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S010",
+          "text": "现在可以正常用了。",
+          "meaning_my": "အခု ပုံမှန် သုံးလို့ရပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S011",
+          "text": "那就得晚一天了。",
+          "meaning_my": "ဒါဆို တစ်ရက်နောက်ကျတော့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S012",
+          "text": "还差最后一步。",
+          "meaning_my": "နောက်ဆုံးအဆင့်တစ်ခုပဲ ကျန်တော့တယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S013",
+          "text": "结果出来了。",
+          "meaning_my": "ရလဒ်ထွက်လာပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S014",
+          "text": "全部弄好了，可以交了。",
+          "meaning_my": "အားလုံးပြီးပြီ၊ အပ်လို့ရပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S015",
+          "text": "还差一点。",
+          "meaning_my": "နည်းနည်းပဲ ကျန်တော့တယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S016",
+          "text": "可能要晚一点。",
+          "meaning_my": "နည်းနည်း နောက်ကျနိုင်တယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S017",
+          "text": "没什么影响。",
+          "meaning_my": "သိပ်မထိခိုက်ပါဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S018",
+          "text": "要重新做。",
+          "meaning_my": "အစကနေ ပြန်လုပ်ရမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S019",
+          "text": "结果没问题。",
+          "meaning_my": "ရလဒ်မှာ ပြဿနာမရှိဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S020",
+          "text": "还得再检查一遍。",
+          "meaning_my": "နောက်တစ်ခေါက် စစ်ရဦးမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S021",
+          "text": "还好，问题不大。",
+          "meaning_my": "တော်သေးတယ်၊ ပြဿနာမကြီးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S022",
+          "text": "这下总算弄好了。",
+          "meaning_my": "နောက်ဆုံးတော့ ပြီးသွားပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S023",
+          "text": "搞定了。",
+          "meaning_my": "အားလုံး အဆင်ပြေသွားပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S024",
+          "text": "没搞定。",
+          "meaning_my": "မပြီးမြောက်သေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S025",
+          "text": "成功了。",
+          "meaning_my": "အောင်မြင်သွားပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S026",
+          "text": "失败了。",
+          "meaning_my": "မအောင်မြင်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S027",
+          "text": "白忙一场。",
+          "meaning_my": "အလုပ်ရှုပ်လိုက်ရတာ အလကားပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S028",
+          "text": "比想象中顺利。",
+          "meaning_my": "ထင်ထားတာထက် ပိုအဆင်ပြေသွားတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S029",
+          "text": "比想象中麻烦。",
+          "meaning_my": "ထင်ထားတာထက် ပိုအလုပ်ရှုပ်တယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S030",
+          "text": "只能往后推了。",
+          "meaning_my": "နောက်ကို ရွှေ့ရတော့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S031",
+          "text": "得重新安排了。",
+          "meaning_my": "အစီအစဉ် ပြန်စီစဉ်ရတော့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S032",
+          "text": "还好赶上了。",
+          "meaning_my": "တော်သေးတယ်၊ အချိန်မီသွားတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S033",
+          "text": "可惜没赶上。",
+          "meaning_my": "မမီလိုက်တာ နှမြောစရာပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S034",
+          "text": "这下麻烦了。",
+          "meaning_my": "အခုတော့ ဒုက္ခပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.08.04-S035",
+          "text": "影响挺大的。",
+          "meaning_my": "တော်တော် ထိခိုက်တယ်။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    }
+  ]
+}
