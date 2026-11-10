@@ -6,10 +6,10 @@
   "theme_title_my": "ကျေးဇူးတင်ခြင်းနှင့် တောင်းပန်ခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-10",
-  "phrase_count": 78,
+  "phrase_count": 77,
   "original_count": 44,
-  "added_count": 34,
-  "note": "新主题独立草稿，沿用44个原始主句ID；新加34句高频表达，少量原句缅语修正。回复、类似说法和说明按需添加，母语教师终审与配音尚未完成。",
+  "added_count": 33,
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.02.01",
@@ -165,13 +165,7 @@
               "meaning_my": "ရပါတယ်၊ အခုမှပဲ ရောက်တာ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.02.01-S008_alt01",
-              "text": "让你久等了。",
-              "meaning_my": "အကြာကြီး စောင့်ခိုင်းမိပြီ။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.02.01-S009",
@@ -388,13 +382,7 @@
           "text": "小事，不用谢。",
           "meaning_my": "ကိစ္စသေးသေးလေးပါ၊ ကျေးဇူးတင်စရာ မလိုပါဘူး။",
           "replies": [],
-          "alternatives": [
-            {
-              "id": "01.02.01-S023_alt01",
-              "text": "举手之劳，不用谢。",
-              "meaning_my": "ကူညီပေးရတာ မခက်ပါဘူး၊ ကျေးဇူးတင်စရာ မလိုပါဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.02.01-S024",
@@ -448,7 +436,9 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 17,
+      "removed_count": 0
     },
     {
       "id": "01.02.02",
@@ -482,13 +472,7 @@
           "id": "01.02.02-S002",
           "text": "不好意思，我来晚了。",
           "meaning_my": "တောင်းပန်ပါတယ်၊ နောက်ကျသွားလို့။",
-          "replies": [
-            {
-              "id": "01.02.02-S002_reply01",
-              "text": "没事，我也刚到。",
-              "meaning_my": "ရပါတယ်၊ အခုမှပဲ ရောက်တာ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.02.02-S002_alt01",
@@ -890,13 +874,7 @@
               "meaning_my": "ရပါတယ်၊ ဒီရက်ပိုင်း အလုပ်များနေလို့လား။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.02.02-S026_alt01",
-              "text": "不好意思，才看到消息。",
-              "meaning_my": "အားနာပါတယ်၊ အခုမှ စာတွေ့လို့။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.02.02-S027",
@@ -930,15 +908,17 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 15,
+      "removed_count": 0
     },
     {
       "id": "01.02.03",
       "title": "礼貌开口与回应",
       "title_my": "ယဉ်ယဉ်ကျေးကျ စကားစခြင်းနှင့် ပြန်ဖြေခြင်း",
-      "phrase_count": 23,
+      "phrase_count": 22,
       "original_count": 12,
-      "added_count": 11,
+      "added_count": 10,
       "phrases": [
         {
           "id": "01.02.03-S001",
@@ -1071,13 +1051,7 @@
           "id": "01.02.03-S007",
           "text": "请进。",
           "meaning_my": "ဝင်ခဲ့ပါ။",
-          "replies": [
-            {
-              "id": "01.02.03-S007_reply01",
-              "text": "谢谢。",
-              "meaning_my": "ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.02.03-S007_alt01",
@@ -1236,13 +1210,7 @@
           "id": "01.02.03-S016",
           "text": "请问怎么走？",
           "meaning_my": "ဘယ်လိုသွားရမလဲ မေးပါရစေ။",
-          "replies": [
-            {
-              "id": "01.02.03-S016_reply01",
-              "text": "我也不太清楚。",
-              "meaning_my": "ဒီဘက်လည်း သိပ်မသိဘူး။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         },
         {
@@ -1323,25 +1291,6 @@
           ]
         },
         {
-          "id": "01.02.03-S022",
-          "text": "能帮我拍张照吗？",
-          "meaning_my": "ဓာတ်ပုံတစ်ပုံလောက် ရိုက်ပေးလို့ ရမလား။",
-          "replies": [
-            {
-              "id": "01.02.03-S022_reply01",
-              "text": "可以，你想怎么拍？",
-              "meaning_my": "ရပါတယ်၊ ဘယ်လို ရိုက်ပေးရမလဲ။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.02.03-S022_alt01",
-              "text": "能帮我拍一下吗？",
-              "meaning_my": "ဓာတ်ပုံတစ်ပုံလောက် ရိုက်ပေးလို့ ရမလား။"
-            }
-          ]
-        },
-        {
           "id": "01.02.03-S023",
           "text": "你先请。",
           "meaning_my": "အရင်သွားပါဦး။",
@@ -1361,15 +1310,27 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 12,
+      "removed_count": 1
     }
   ],
   "extras_summary": {
-    "replies": 66,
-    "reply_phrases": 64,
-    "alternatives": 45,
-    "alternative_phrases": 45,
+    "replies": 62,
+    "reply_phrases": 60,
+    "alternatives": 41,
+    "alternative_phrases": 41,
     "notes": 16,
-    "note_phrases": 16
+    "note_phrases": 16,
+    "fixed_expressions": 0
+  },
+  "source_original_count": 44,
+  "source_added_count": 34,
+  "source_phrase_count": 78,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }

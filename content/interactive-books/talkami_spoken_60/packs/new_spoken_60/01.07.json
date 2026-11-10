@@ -6,18 +6,18 @@
   "theme_title_my": "အမြင်နှင့် အကဲဖြတ်ချက်",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-11",
-  "phrase_count": 123,
-  "original_count": 75,
-  "added_count": 48,
-  "note": "独立新版候选稿，原75句中文和主句ID固定、部分缅语微调，新增48句高频口语。按需加入回复、类似说法和中缅文化说明；母语审校和音频试听待完成。",
+  "phrase_count": 120,
+  "original_count": 73,
+  "added_count": 47,
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.07.01",
       "title": "表达看法与回应",
       "title_my": "အမြင်ပြောခြင်းနှင့် ပြန်ဖြေခြင်း",
-      "phrase_count": 28,
-      "original_count": 18,
-      "added_count": 10,
+      "phrase_count": 25,
+      "original_count": 16,
+      "added_count": 9,
       "phrases": [
         {
           "id": "01.07.01-S001",
@@ -87,25 +87,6 @@
               "type": "usage",
               "text": "“你觉得呢？”是问对方的意见，不一定表示自己不同意。",
               "text_my": "“你觉得呢？” က တစ်ဖက်လူရဲ့ အမြင်ကို မေးတာပါ။ သဘောမတူလို့ မေးတာလို့ အမြဲ မဟုတ်ဘူး။"
-            }
-          ]
-        },
-        {
-          "id": "01.07.01-S004",
-          "text": "我再想想。",
-          "meaning_my": "ထပ်စဉ်းစားကြည့်ဦးမယ်။",
-          "replies": [
-            {
-              "id": "01.07.01-S004_reply01",
-              "text": "好，你想好了再说。",
-              "meaning_my": "ကောင်းပြီ၊ စဉ်းစားပြီးမှ ပြောနော်။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.07.01-S004_alt01",
-              "text": "让我再考虑一下。",
-              "meaning_my": "ထပ်စဉ်းစားကြည့်ပါဦးမယ်။"
             }
           ]
         },
@@ -201,19 +182,6 @@
               "id": "01.07.01-S009_reply01",
               "text": "看来我们想的一样。",
               "meaning_my": "အတွေးတူနေကြတာပဲနော်။"
-            }
-          ],
-          "alternatives": []
-        },
-        {
-          "id": "01.07.01-S010",
-          "text": "我没意见。",
-          "meaning_my": "ကန့်ကွက်စရာ မရှိဘူး။",
-          "replies": [
-            {
-              "id": "01.07.01-S010_reply01",
-              "text": "好，那就这么定。",
-              "meaning_my": "ကောင်းပြီ၊ ဒါဆို ဒီအတိုင်း အတည်ပြုကြမယ်။"
             }
           ],
           "alternatives": []
@@ -422,13 +390,7 @@
               "meaning_my": "ဟုတ်တယ်၊ လက်တွေ့အခြေအနေကိုလည်း ကြည့်ရမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.07.01-S022_alt01",
-              "text": "还得看情况。",
-              "meaning_my": "အခြေအနေကိုလည်း ကြည့်ရဦးမယ်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.07.01-S023",
@@ -453,25 +415,6 @@
               "type": "usage",
               "text": "“这只是我的看法”常用来缓和语气，尊重别人可能有不同意见。",
               "text_my": "“这只是我的看法” က ကိုယ့်အမြင်ပဲလို့ ပြောပြီး တစ်ဖက်လူရဲ့ အမြင်ကိုလည်း လေးစားတဲ့ သဘောပါ။"
-            }
-          ]
-        },
-        {
-          "id": "01.07.01-S024",
-          "text": "我还没想好。",
-          "meaning_my": "မဆုံးဖြတ်ရသေးဘူး။",
-          "replies": [
-            {
-              "id": "01.07.01-S024_reply01",
-              "text": "那就再考虑考虑。",
-              "meaning_my": "ဒါဆို ထပ်စဉ်းစားကြည့်ဦးနော်။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.07.01-S024_alt01",
-              "text": "我还没决定。",
-              "meaning_my": "မဆုံးဖြတ်ရသေးဘူး။"
             }
           ]
         },
@@ -533,7 +476,9 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 18,
+      "removed_count": 3
     },
     {
       "id": "01.07.02",
@@ -720,20 +665,8 @@
           "id": "01.07.02-S010",
           "text": "我想要便宜一点的。",
           "meaning_my": "ဈေးနည်းနည်းသက်သာတာ လိုချင်တယ်။",
-          "replies": [
-            {
-              "id": "01.07.02-S010_reply01",
-              "text": "这个便宜一点。",
-              "meaning_my": "ဒီဟာက နည်းနည်း ပိုဈေးသက်သာတယ်။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.07.02-S010_alt01",
-              "text": "有便宜一点的吗？",
-              "meaning_my": "ဒီထက် ဈေးသက်သာတာ ရှိလား။"
-            }
-          ]
+          "replies": [],
+          "alternatives": []
         },
         {
           "id": "01.07.02-S011",
@@ -791,13 +724,7 @@
               "meaning_my": "ဘယ်ဘက်က ဟိုဟာကို ကြိုက်တယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.07.02-S013_alt01",
-              "text": "你更喜欢哪个？",
-              "meaning_my": "ဘယ်ဟာကို ပိုကြိုက်လဲ။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.07.02-S014",
@@ -822,13 +749,7 @@
           "id": "01.07.02-S015",
           "text": "要大的还是小的？",
           "meaning_my": "အကြီးလိုချင်လား၊ အသေးလိုချင်လား။",
-          "replies": [
-            {
-              "id": "01.07.02-S015_reply01",
-              "text": "要小一点的。",
-              "meaning_my": "နည်းနည်း သေးတဲ့ဟာ လိုချင်တယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.07.02-S015_alt01",
@@ -996,13 +917,7 @@
               "meaning_my": "သိပြီ၊ ငရုတ်သီး မထည့်ပေးဘူး။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.07.02-S024_alt01",
-              "text": "我吃不了辣。",
-              "meaning_my": "အစပ် မစားနိုင်ဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.07.02-S025",
@@ -1073,13 +988,7 @@
               "meaning_my": "ဒါဆို ဒီနှစ်ခုကို အရင် မရွေးသေးနဲ့။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.07.02-S029_alt01",
-              "text": "这两个都不喜欢。",
-              "meaning_my": "ဒီနှစ်ခုလုံး မကြိုက်ဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.07.02-S030",
@@ -1113,7 +1022,9 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 17,
+      "removed_count": 0
     },
     {
       "id": "01.07.03",
@@ -1854,7 +1765,9 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 25,
+      "removed_count": 0
     },
     {
       "id": "01.07.04",
@@ -2046,13 +1959,7 @@
           "id": "01.07.04-S010",
           "text": "你要哪个？",
           "meaning_my": "ဘယ်ဟာ လိုချင်လဲ။",
-          "replies": [
-            {
-              "id": "01.07.04-S010_reply01",
-              "text": "我要这个。",
-              "meaning_my": "ဒီဟာ လိုချင်တယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.07.04-S010_alt01",
@@ -2283,13 +2190,7 @@
               "meaning_my": "ဒီဟာကို ပိုအကြံပြုချင်တယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.07.04-S022_alt01",
-              "text": "你觉得哪个更好？",
-              "meaning_my": "ဘယ်ဟာ ပိုကောင်းတယ်လို့ ထင်လဲ။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -2357,7 +2258,7 @@
             {
               "id": "01.07.04-S026_reply01",
               "text": "那就选适合你的。",
-              "meaning_my": "ဒါဆို ကိုယ့်အတွက် သင့်တော်တာ ရွေးနော်。"
+              "meaning_my": "ဒါဆို ကိုယ့်အတွက် သင့်တော်တာ ရွေးနော်။"
             }
           ],
           "alternatives": [
@@ -2368,15 +2269,27 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 15,
+      "removed_count": 0
     }
   ],
   "extras_summary": {
-    "replies": 123,
-    "reply_phrases": 123,
-    "alternatives": 92,
-    "alternative_phrases": 92,
+    "replies": 117,
+    "reply_phrases": 117,
+    "alternatives": 84,
+    "alternative_phrases": 84,
     "notes": 24,
-    "note_phrases": 24
+    "note_phrases": 24,
+    "fixed_expressions": 0
+  },
+  "source_original_count": 75,
+  "source_added_count": 48,
+  "source_phrase_count": 123,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }

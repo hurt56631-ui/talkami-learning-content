@@ -6,18 +6,18 @@
   "theme_title_my": "အကူအညီတောင်းခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-11",
-  "phrase_count": 105,
-  "original_count": 58,
-  "added_count": 47,
-  "note": "独立新版候选数据：保留用户原有58句的ID及中文，部分缅语释义优化；从建议中择优并自补47句高频实用表达。配套回复、类似说法及双语说明按需增加。缅语母语终审与配音试听尚未完成。",
+  "phrase_count": 103,
+  "original_count": 57,
+  "added_count": 46,
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.05.01",
       "title": "请求帮忙与回应",
       "title_my": "အကူအညီတောင်းခြင်းနှင့် ပြန်ဖြေခြင်း",
-      "phrase_count": 43,
+      "phrase_count": 42,
       "original_count": 24,
-      "added_count": 19,
+      "added_count": 18,
       "phrases": [
         {
           "id": "01.05.01-S001",
@@ -28,11 +28,6 @@
               "id": "01.05.01-S001_reply01",
               "text": "可以，怎么了？",
               "meaning_my": "ရပါတယ်၊ ဘာကိစ္စရှိလို့လဲ။"
-            },
-            {
-              "id": "01.05.01-S001_reply02",
-              "text": "不好意思，我现在有点忙。",
-              "meaning_my": "အားနာပါတယ်၊ အခု နည်းနည်း အလုပ်များနေတယ်။"
             }
           ],
           "alternatives": [
@@ -234,13 +229,7 @@
               "meaning_my": "ကောင်းပြီ၊ ဆက်သွယ်ပေးမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.05.01-S011_alt01",
-              "text": "能帮我找一下负责人吗？",
-              "meaning_my": "တာဝန်ခံကို ရှာပေးလို့ရမလား။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.05.01-S012",
@@ -259,13 +248,7 @@
           "id": "01.05.01-S013",
           "text": "我帮你问问。",
           "meaning_my": "မေးပေးမယ်နော်။",
-          "replies": [
-            {
-              "id": "01.05.01-S013_reply01",
-              "text": "好，谢谢你。",
-              "meaning_my": "ကောင်းပြီ၊ ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         },
         {
@@ -305,13 +288,7 @@
               "meaning_my": "ကျေးဇူးပါ၊ ဒီမှာ စောင့်နေမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.05.01-S015_alt01",
-              "text": "我找个人来帮你。",
-              "meaning_my": "ကူညီပေးမယ့်သူ တစ်ယောက် ရှာပေးမယ်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.05.01-S016",
@@ -592,7 +569,7 @@
         {
           "id": "01.05.01-S032",
           "text": "能借我个充电器吗？",
-          "meaning_my": "အားသွင်းကြိုးနဲ့ ခေါင်းလေး ခဏ ငှားပေးလို့ရမလား။",
+          "meaning_my": "အားသွင်းစက်လေး ခဏ ငှားပေးလို့ရမလား။",
           "replies": [
             {
               "id": "01.05.01-S032_reply01",
@@ -693,25 +670,6 @@
           ]
         },
         {
-          "id": "01.05.01-S037",
-          "text": "当然可以。",
-          "meaning_my": "ရတာပေါ့။",
-          "replies": [
-            {
-              "id": "01.05.01-S037_reply01",
-              "text": "太好了，谢谢你。",
-              "meaning_my": "အရမ်းကောင်းတာပေါ့၊ ကျေးဇူးပါ။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.05.01-S037_alt01",
-              "text": "没问题。",
-              "meaning_my": "ပြဿနာမရှိဘူး။"
-            }
-          ]
-        },
-        {
           "id": "01.05.01-S038",
           "text": "稍等，我马上来。",
           "meaning_my": "ခဏစောင့်နော်၊ ချက်ချင်း လာမယ်။",
@@ -735,13 +693,7 @@
               "meaning_my": "ရပါတယ်၊ တခြားသူကို ထပ်အကူအညီတောင်းကြည့်မယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.05.01-S039_alt01",
-              "text": "抱歉，这个我不会。",
-              "meaning_my": "အားနာပါတယ်၊ ဒါကို မလုပ်တတ်ဘူး။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -767,13 +719,7 @@
           "id": "01.05.01-S041",
           "text": "需要帮忙随时叫我。",
           "meaning_my": "အကူအညီလိုရင် အချိန်မရွေး ခေါ်နော်။",
-          "replies": [
-            {
-              "id": "01.05.01-S041_reply01",
-              "text": "好，谢谢你。",
-              "meaning_my": "ကောင်းပြီ၊ ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.05.01-S041_alt01",
@@ -806,15 +752,11 @@
               "meaning_my": "ကောင်းပြီ၊ အလုပ်ပြီးရင် ကူညီပေးမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.05.01-S043_alt01",
-              "text": "不着急，等你有空再说。",
-              "meaning_my": "အလျင်မလိုဘူး၊ အားတဲ့အခါမှ ပြောကြမယ်။"
-            }
-          ]
+          "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 24,
+      "removed_count": 1
     },
     {
       "id": "01.05.02",
@@ -982,13 +924,7 @@
               "meaning_my": "ရပါတယ်၊ ဖြည်းဖြည်း သင်ပေးမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.05.02-S009_alt01",
-              "text": "我还没做过。",
-              "meaning_my": "ဒီလို မလုပ်ဖူးသေးဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.05.02-S010",
@@ -1442,14 +1378,16 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 19,
+      "removed_count": 0
     },
     {
       "id": "01.05.03",
       "title": "请求带路与回应",
       "title_my": "လမ်းပြပေးရန် တောင်းဆိုခြင်းနှင့် ပြန်ဖြေခြင်း",
-      "phrase_count": 26,
-      "original_count": 15,
+      "phrase_count": 25,
+      "original_count": 14,
       "added_count": 11,
       "phrases": [
         {
@@ -1495,13 +1433,7 @@
               "meaning_my": "ဟိုဘက်မှာပဲ၊ လိုက်ပို့ပေးမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.05.03-S003_alt01",
-              "text": "入口在哪儿？",
-              "meaning_my": "ဝင်ပေါက် ဘယ်မှာလဲ။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.05.03-S004",
@@ -1639,25 +1571,6 @@
           "alternatives": []
         },
         {
-          "id": "01.05.03-S011",
-          "text": "就在前面。",
-          "meaning_my": "ရှေ့နားလေးမှာပဲ။",
-          "replies": [
-            {
-              "id": "01.05.03-S011_reply01",
-              "text": "好，我自己过去。",
-              "meaning_my": "ကောင်းပြီ၊ ကိုယ့်ဘာသာ သွားလိုက်မယ်။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.05.03-S011_alt01",
-              "text": "就在前头。",
-              "meaning_my": "ရှေ့နားမှာပဲ။"
-            }
-          ]
-        },
-        {
           "id": "01.05.03-S012",
           "text": "从这边走。",
           "meaning_my": "ဒီဘက်က သွားပါ။",
@@ -1713,13 +1626,7 @@
               "meaning_my": "ဘယ်လောက်ကြာကြာ လျှောက်ရမလဲ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.05.03-S015_alt01",
-              "text": "一直往前走。",
-              "meaning_my": "ရှေ့တည့်တည့် ဆက်သွားပါ။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.05.03-S016",
@@ -1751,13 +1658,7 @@
           "id": "01.05.03-S017",
           "text": "在大厅等我。",
           "meaning_my": "ဧည့်ခန်းမမှာ စောင့်နေနော်။",
-          "replies": [
-            {
-              "id": "01.05.03-S017_reply01",
-              "text": "好，我在这儿等。",
-              "meaning_my": "ကောင်းပြီ၊ ဒီမှာ စောင့်နေမယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.05.03-S017_alt01",
@@ -1822,13 +1723,7 @@
           "id": "01.05.03-S022",
           "text": "快到了。",
           "meaning_my": "ရောက်တော့မယ်။",
-          "replies": [
-            {
-              "id": "01.05.03-S022_reply01",
-              "text": "还有多远？",
-              "meaning_my": "နောက်ထပ် ဘယ်လောက်ဝေးသေးလဲ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.05.03-S022_alt01",
@@ -1914,15 +1809,27 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 15,
+      "removed_count": 1
     }
   ],
   "extras_summary": {
-    "replies": 102,
-    "reply_phrases": 101,
-    "alternatives": 66,
-    "alternative_phrases": 66,
+    "replies": 95,
+    "reply_phrases": 95,
+    "alternatives": 57,
+    "alternative_phrases": 57,
     "notes": 19,
-    "note_phrases": 19
+    "note_phrases": 19,
+    "fixed_expressions": 0
+  },
+  "source_original_count": 58,
+  "source_added_count": 47,
+  "source_phrase_count": 105,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }

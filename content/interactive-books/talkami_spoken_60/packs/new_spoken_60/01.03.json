@@ -6,10 +6,10 @@
   "theme_title_my": "နားလည်ခြင်းနှင့် ပြန်လည်တုံ့ပြန်ခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-10",
-  "phrase_count": 80,
+  "phrase_count": 79,
   "original_count": 47,
-  "added_count": 33,
-  "note": "独立新版候选数据：保留原47句固定主句ID，补充33句短口语（部分旧译文语气微调）。回复、类似说法及双语说明仅在适合时添加；缅语母语终审与配音尚未完成。",
+  "added_count": 32,
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.03.01",
@@ -225,13 +225,7 @@
               "meaning_my": "ကောင်းပြီ၊ ဒီမှာ စောင့်နေမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.03.01-S014_alt01",
-              "text": "好的，收到。",
-              "meaning_my": "ဟုတ်ကဲ့၊ သိပါပြီ။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -454,7 +448,9 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 17,
+      "removed_count": 0
     },
     {
       "id": "01.03.02",
@@ -494,13 +490,7 @@
           "id": "01.03.02-S002",
           "text": "我没听清。",
           "meaning_my": "သေချာ မကြားလိုက်ဘူး။",
-          "replies": [
-            {
-              "id": "01.03.02-S002_reply01",
-              "text": "好，我再说一遍。",
-              "meaning_my": "ကောင်းပြီ၊ နောက်တစ်ခေါက် ထပ်ပြောမယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.03.02-S002_alt01",
@@ -624,13 +614,7 @@
               "meaning_my": "ခဏ စောင့်ပါဦးလို့ ပြောတာ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.03.02-S011_alt01",
-              "text": "抱歉，刚才没听清。",
-              "meaning_my": "တောင်းပန်ပါတယ်၊ ခုနက သေချာ မကြားလိုက်လို့။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.03.02-S012",
@@ -772,13 +756,7 @@
               "meaning_my": "အားနာပါတယ်၊ ဖြည်းဖြည်း ပြောပေးမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.03.02-S019_alt01",
-              "text": "能说慢点吗？",
-              "meaning_my": "နည်းနည်း ဖြည်းဖြည်း ပြောပေးလို့ရမလား။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.03.02-S020",
@@ -865,27 +843,23 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 13,
+      "removed_count": 0
     },
     {
       "id": "01.03.03",
       "title": "请求解释、展示与回应",
       "title_my": "ရှင်းပြခိုင်းခြင်း၊ ပြခိုင်းခြင်းနှင့် ပြန်ဖြေခြင်း",
-      "phrase_count": 28,
+      "phrase_count": 27,
       "original_count": 17,
-      "added_count": 11,
+      "added_count": 10,
       "phrases": [
         {
           "id": "01.03.03-S001",
           "text": "能说慢一点吗？",
           "meaning_my": "နည်းနည်း ဖြည်းဖြည်း ပြောပေးလို့ရမလား။",
-          "replies": [
-            {
-              "id": "01.03.03-S001_reply01",
-              "text": "好，我说慢一点。",
-              "meaning_my": "ကောင်းပြီ၊ ဖြည်းဖြည်း ပြောပေးမယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.03.03-S001_alt01",
@@ -1177,25 +1151,6 @@
           ]
         },
         {
-          "id": "01.03.03-S019",
-          "text": "这个怎么用？",
-          "meaning_my": "ဒါကို ဘယ်လိုသုံးရလဲ။",
-          "replies": [
-            {
-              "id": "01.03.03-S019_reply01",
-              "text": "我给你举个例子。",
-              "meaning_my": "ဥပမာတစ်ခုနဲ့ ရှင်းပြပေးမယ်။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.03.03-S019_alt01",
-              "text": "这个要怎么用？",
-              "meaning_my": "ဒါကို ဘယ်လိုသုံးရလဲ။"
-            }
-          ]
-        },
-        {
           "id": "01.03.03-S020",
           "text": "能做给我看吗？",
           "meaning_my": "ဘယ်လိုလုပ်ရလဲ လုပ်ပြပေးလို့ရမလား။",
@@ -1323,13 +1278,7 @@
               "meaning_my": "ဒါဆို နည်းနည်း ပိုချဲ့ပြမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.03.03-S027_alt01",
-              "text": "字太小了，我看不清。",
-              "meaning_my": "စာလုံး သေးလွန်းလို့ သေချာ မမြင်ရဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.03.03-S028",
@@ -1344,15 +1293,27 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 17,
+      "removed_count": 1
     }
   ],
   "extras_summary": {
-    "replies": 65,
-    "reply_phrases": 63,
-    "alternatives": 42,
-    "alternative_phrases": 42,
+    "replies": 62,
+    "reply_phrases": 60,
+    "alternatives": 37,
+    "alternative_phrases": 37,
     "notes": 15,
-    "note_phrases": 15
+    "note_phrases": 15,
+    "fixed_expressions": 0
+  },
+  "source_original_count": 47,
+  "source_added_count": 33,
+  "source_phrase_count": 80,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }

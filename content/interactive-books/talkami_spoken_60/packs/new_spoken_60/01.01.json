@@ -6,18 +6,18 @@
   "theme_title_my": "နှုတ်ဆက်ခြင်းနှင့် စကားစမြည်",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-10",
-  "phrase_count": 111,
-  "original_count": 61,
-  "added_count": 50,
-  "note": "新版主题草稿：保留111个主句与主句ID；有需要才添加回复、类似说法和中缅说明。母语教师终审和音频尚未完成。",
+  "phrase_count": 109,
+  "original_count": 60,
+  "added_count": 49,
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.01.01",
       "title": "日常打招呼",
       "title_my": "နေ့စဉ်နှုတ်ဆက်ခြင်း",
-      "phrase_count": 28,
+      "phrase_count": 27,
       "original_count": 16,
-      "added_count": 12,
+      "added_count": 11,
       "phrases": [
         {
           "id": "01.01.01-S001",
@@ -30,13 +30,7 @@
               "meaning_my": "မင်္ဂလာပါနော်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.01.01-S001_alt01",
-              "text": "你好啊。",
-              "meaning_my": "မင်္ဂလာပါနော်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.01.01-S002",
@@ -88,6 +82,11 @@
               "type": "culture",
               "text": "“早啊”是在早晨打招呼，不是说对方来得早。",
               "text_my": "“早啊” က မနက်ခင်း နှုတ်ဆက်စကားပါ။ တစ်ဖက်လူ စောစောရောက်လာတယ်လို့ ပြောတာ မဟုတ်ဘူး။"
+            },
+            {
+              "type": "culture",
+              "text": "“早啊”是早上随口打招呼；缅语日常可以用“မင်္ဂလာပါ”，不必逐字翻译“早”。",
+              "text_my": "“早啊” က မနက်ပိုင်းမှာ ပေါ့ပေါ့ပါးပါး နှုတ်ဆက်တာပါ။ မြန်မာလို နေ့စဉ် “မင်္ဂလာပါ” လို့ပဲ နှုတ်ဆက်တတ်တယ်။"
             }
           ]
         },
@@ -280,13 +279,7 @@
               "meaning_my": "ရောက်ပြီ၊ အခုမှ ရောက်တာ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.01.01-S017_alt01",
-              "text": "你来啦。",
-              "meaning_my": "ရောက်လာပြီနော်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.01.01-S018",
@@ -435,35 +428,10 @@
           "alternatives": []
         },
         {
-          "id": "01.01.01-S027",
-          "text": "请进。",
-          "meaning_my": "ဝင်လာပါဦး။",
-          "replies": [
-            {
-              "id": "01.01.01-S027_reply01",
-              "text": "好，谢谢。",
-              "meaning_my": "ဟုတ်ကဲ့၊ ကျေးဇူးပါ။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.01.01-S027_alt01",
-              "text": "进来坐。",
-              "meaning_my": "ဝင်ထိုင်ပါဦး။"
-            }
-          ]
-        },
-        {
           "id": "01.01.01-S028",
           "text": "请坐。",
           "meaning_my": "ထိုင်ပါဦး။",
-          "replies": [
-            {
-              "id": "01.01.01-S028_reply01",
-              "text": "谢谢。",
-              "meaning_my": "ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.01.01-S028_alt01",
@@ -472,14 +440,16 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 16,
+      "removed_count": 1
     },
     {
       "id": "01.01.02",
       "title": "熟人寒暄",
       "title_my": "ရင်းနှီးသူနဲ့ စကားစမြည်",
-      "phrase_count": 29,
-      "original_count": 16,
+      "phrase_count": 28,
+      "original_count": 15,
       "added_count": 13,
       "phrases": [
         {
@@ -590,26 +560,6 @@
             }
           ],
           "alternatives": []
-        },
-        {
-          "id": "01.01.02-S009",
-          "text": "周末休息吗？",
-          "meaning_my": "စနေ၊ တနင်္ဂနွေ နားရလား။",
-          "replies": [
-            {
-              "id": "01.01.02-S009_reply01",
-              "text": "周日休息，周六上班。",
-              "meaning_my": "တနင်္ဂနွေ နားရတယ်၊ စနေနေ့တော့ အလုပ်ဆင်းရတယ်။"
-            }
-          ],
-          "alternatives": [],
-          "notes": [
-            {
-              "type": "usage",
-              "text": "“周末”通常指周六、周日，但有些工作需要周末上班。",
-              "text_my": "“周末” က များသောအားဖြင့် စနေနဲ့ တနင်္ဂနွေပါ။ ဒါပေမဲ့ အလုပ်တချို့က ပိတ်ရက်မှာလည်း ဆင်းရတယ်။"
-            }
-          ]
         },
         {
           "id": "01.01.02-S010",
@@ -928,7 +878,9 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 16,
+      "removed_count": 1
     },
     {
       "id": "01.01.03",
@@ -1143,13 +1095,7 @@
           "id": "01.01.03-S014",
           "text": "我没事。",
           "meaning_my": "ဘာမှမဖြစ်ပါဘူး။",
-          "replies": [
-            {
-              "id": "01.01.03-S014_reply01",
-              "text": "那就好。",
-              "meaning_my": "ဒါဆို ကောင်းတာပေါ့။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         },
         {
@@ -1176,13 +1122,7 @@
           "id": "01.01.03-S017",
           "text": "早点休息。",
           "meaning_my": "စောစောအနားယူနော်။",
-          "replies": [
-            {
-              "id": "01.01.03-S017_reply01",
-              "text": "好，谢谢。",
-              "meaning_my": "ဟုတ်ကဲ့၊ ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.01.03-S017_alt01",
@@ -1392,7 +1332,9 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 17,
+      "removed_count": 0
     },
     {
       "id": "01.01.04",
@@ -1574,13 +1516,7 @@
           "id": "01.01.04-S011",
           "text": "有空再聊。",
           "meaning_my": "အားတဲ့အခါမှ ဆက်ပြောကြမယ်။",
-          "replies": [
-            {
-              "id": "01.01.04-S011_reply01",
-              "text": "好，你先忙。",
-              "meaning_my": "ကောင်းပြီ၊ လုပ်စရာရှိတာ အရင်လုပ်နော်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.01.04-S011_alt01",
@@ -1811,24 +1747,30 @@
           "id": "01.01.04-S024",
           "text": "到时候见。",
           "meaning_my": "အဲဒီအချိန်ကျ တွေ့ကြမယ်နော်။",
-          "replies": [
-            {
-              "id": "01.01.04-S024_reply01",
-              "text": "好，到时候见。",
-              "meaning_my": "ကောင်းပြီ၊ အဲဒီအချိန်ကျ တွေ့ကြမယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 12,
+      "removed_count": 0
     }
   ],
   "extras_summary": {
-    "replies": 98,
-    "reply_phrases": 92,
-    "alternatives": 50,
-    "alternative_phrases": 50,
+    "replies": 91,
+    "reply_phrases": 85,
+    "alternatives": 47,
+    "alternative_phrases": 47,
     "notes": 16,
-    "note_phrases": 16
+    "note_phrases": 15,
+    "fixed_expressions": 0
+  },
+  "source_original_count": 61,
+  "source_added_count": 50,
+  "source_phrase_count": 111,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }

@@ -9,7 +9,7 @@
   "phrase_count": 127,
   "original_count": 78,
   "added_count": 49,
-  "note": "独立新版草稿。原78句中文与ID不变，少量缅语释义微调，精选新增49句高频原因、进展与结果表达。保留可批量TTS的完整短句，不把未填空的语法模板作为配音主句。缅语母语终审及音频试听未完成。",
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.08.01",
@@ -42,13 +42,7 @@
           "id": "01.08.01-S002",
           "text": "怎么了？",
           "meaning_my": "ဘာဖြစ်တာလဲ။",
-          "replies": [
-            {
-              "id": "01.08.01-S002_reply01",
-              "text": "没事，就是有点累。",
-              "meaning_my": "ဘာမှမဟုတ်ပါဘူး၊ နည်းနည်း ပင်ပန်းနေလို့။"
-            }
-          ],
+          "replies": [],
           "alternatives": [],
           "notes": [
             {
@@ -157,13 +151,7 @@
           "id": "01.08.01-S008",
           "text": "今天怎么来这么晚？",
           "meaning_my": "ဒီနေ့ ဘာလို့ ဒီလောက် နောက်ကျမှ ရောက်တာလဲ။",
-          "replies": [
-            {
-              "id": "01.08.01-S008_reply01",
-              "text": "路上堵车了。",
-              "meaning_my": "လမ်းမှာ ကားပိတ်သွားလို့ပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.08.01-S008_alt01",
@@ -183,13 +171,7 @@
               "meaning_my": "မီးဘရိတ်ကာ ကျသွားတာ ဖြစ်နိုင်တယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.01-S009_alt01",
-              "text": "怎么突然断电了？",
-              "meaning_my": "ဘာလို့ ရုတ်တရက် မီးပြတ်သွားတာလဲ။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -305,13 +287,7 @@
               "meaning_my": "အခုလေးတင်မှ တွေ့တာ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.01-S015_alt01",
-              "text": "是不是没看到消息？",
-              "meaning_my": "စာမတွေ့လိုက်တာလား။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.08.01-S016",
@@ -494,7 +470,9 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 15,
+      "removed_count": 0
     },
     {
       "id": "01.08.02",
@@ -515,13 +493,7 @@
               "meaning_my": "ဒါဆို ဖြည်းဖြည်းလာနော်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.02-S001_alt01",
-              "text": "路上堵车了。",
-              "meaning_my": "လမ်းမှာ ကားပိတ်နေလို့ပါ။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -816,13 +788,7 @@
               "meaning_my": "ဒါဆို ဘယ်တော့ ပစ္စည်းပြန်ရမလဲ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.02-S016_alt01",
-              "text": "店里卖完了。",
-              "meaning_my": "ဆိုင်မှာ ရောင်းကုန်သွားပြီ။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.08.02-S017",
@@ -892,13 +858,7 @@
           "id": "01.08.02-S020",
           "text": "我这边临时走不开。",
           "meaning_my": "ဒီဘက်မှာ ရုတ်တရက် ကိစ္စပေါ်လာလို့ မထွက်နိုင်သေးဘူး။",
-          "replies": [
-            {
-              "id": "01.08.02-S020_reply01",
-              "text": "没事，你先忙。",
-              "meaning_my": "ရပါတယ်၊ အရင် အလုပ်လုပ်နော်။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         },
         {
@@ -931,13 +891,7 @@
               "meaning_my": "ဘယ်တော့ ရနိုင်မလဲ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.02-S022_alt01",
-              "text": "资料还没发给我。",
-              "meaning_my": "အချက်အလက်တွေ မပို့ပေးသေးဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.08.02-S023",
@@ -950,13 +904,7 @@
               "meaning_my": "ဒါဆို အရင် အားသွင်းလိုက်နော်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.02-S023_alt01",
-              "text": "手机没电关机了。",
-              "meaning_my": "ဖုန်းအားကုန်လို့ ပိတ်သွားတာ။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.08.02-S024",
@@ -1071,13 +1019,7 @@
               "meaning_my": "ရပါတယ်၊ နောက်တစ်ခါမှ ပြန်ချိန်းကြမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.02-S030_alt01",
-              "text": "真不是不想去。",
-              "meaning_my": "တကယ် မသွားချင်လို့ မဟုတ်ဘူး။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -1154,13 +1096,7 @@
           "id": "01.08.02-S035",
           "text": "所以我才没来。",
           "meaning_my": "အဲဒါကြောင့်ပဲ မလာဖြစ်တာ။",
-          "replies": [
-            {
-              "id": "01.08.02-S035_reply01",
-              "text": "好，我明白了。",
-              "meaning_my": "ကောင်းပြီ၊ နားလည်ပါပြီ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.08.02-S035_alt01",
@@ -1176,7 +1112,9 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 22,
+      "removed_count": 0
     },
     {
       "id": "01.08.03",
@@ -1190,13 +1128,7 @@
           "id": "01.08.03-S001",
           "text": "现在怎么样？",
           "meaning_my": "အခု ဘယ်လိုအခြေအနေလဲ။",
-          "replies": [
-            {
-              "id": "01.08.03-S001_reply01",
-              "text": "还在处理。",
-              "meaning_my": "ဖြေရှင်းနေတုန်းပဲ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.08.03-S001_alt01",
@@ -1535,13 +1467,7 @@
               "meaning_my": "အကြောင်းရင်းကို အရင် စစ်ကြည့်ကြမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.03-S018_alt01",
-              "text": "还没查出问题在哪儿。",
-              "meaning_my": "ဘယ်နေရာ ပြဿနာဖြစ်လဲ မစစ်တွေ့သေးဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.08.03-S019",
@@ -1669,13 +1595,7 @@
           "id": "01.08.03-S025",
           "text": "一有结果就告诉你。",
           "meaning_my": "ရလဒ်ရတာနဲ့ ပြောပေးမယ်။",
-          "replies": [
-            {
-              "id": "01.08.03-S025_reply01",
-              "text": "好，谢谢。",
-              "meaning_my": "ကောင်းပြီ၊ ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.08.03-S025_alt01",
@@ -1752,13 +1672,7 @@
           "id": "01.08.03-S029",
           "text": "现在还差什么？",
           "meaning_my": "အခု ဘာလိုနေသေးလဲ။",
-          "replies": [
-            {
-              "id": "01.08.03-S029_reply01",
-              "text": "还差最后一步。",
-              "meaning_my": "နောက်ဆုံးအဆင့်တစ်ခုပဲ ကျန်တော့တယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.08.03-S029_alt01",
@@ -1799,7 +1713,9 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 19,
+      "removed_count": 0
     },
     {
       "id": "01.08.04",
@@ -1832,13 +1748,7 @@
           "id": "01.08.04-S002",
           "text": "还没弄完。",
           "meaning_my": "မပြီးသေးဘူး။",
-          "replies": [
-            {
-              "id": "01.08.04-S002_reply01",
-              "text": "还要多久？",
-              "meaning_my": "ဘယ်လောက်ကြာဦးမလဲ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.08.04-S002_alt01",
@@ -2164,13 +2074,7 @@
               "meaning_my": "ဒါဆို ပြန်လုပ်ကြမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.08.04-S018_alt01",
-              "text": "得从头再做。",
-              "meaning_my": "အစကနေ ပြန်လုပ်ရမယ်။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -2258,7 +2162,7 @@
         {
           "id": "01.08.04-S023",
           "text": "搞定了。",
-          "meaning_my": "အားလုံး အဆင်ပြေသွားပြီ။",
+          "meaning_my": "ကိစ္စ အဆင်ပြေသွားပြီ။",
           "replies": [
             {
               "id": "01.08.04-S023_reply01",
@@ -2284,7 +2188,7 @@
         {
           "id": "01.08.04-S024",
           "text": "没搞定。",
-          "meaning_my": "မပြီးမြောက်သေးဘူး။",
+          "meaning_my": "ကိစ္စ မအဆင်ပြေသေးဘူး။",
           "replies": [
             {
               "id": "01.08.04-S024_reply01",
@@ -2523,15 +2427,27 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 22,
+      "removed_count": 0
     }
   ],
   "extras_summary": {
-    "replies": 127,
-    "reply_phrases": 127,
-    "alternatives": 108,
-    "alternative_phrases": 108,
+    "replies": 119,
+    "reply_phrases": 119,
+    "alternatives": 99,
+    "alternative_phrases": 99,
     "notes": 25,
-    "note_phrases": 25
+    "note_phrases": 25,
+    "fixed_expressions": 0
+  },
+  "source_original_count": 78,
+  "source_added_count": 49,
+  "source_phrase_count": 127,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }

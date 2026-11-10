@@ -6,18 +6,18 @@
   "theme_title_my": "သဘောတူခြင်းနှင့် ငြင်းဆိုခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-11",
-  "phrase_count": 124,
+  "phrase_count": 121,
   "original_count": 77,
-  "added_count": 47,
-  "note": "独立新版候选稿，原77句中文及主句ID不变，新增47句高频实用表达；回复/类似说法/中缅文化说明按需添加。3个高频固定表达标记引用主句，不另行重复配音；母语教师终审及试听未完成。",
+  "added_count": 44,
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.06.01",
       "title": "同意与答应",
       "title_my": "သဘောတူခြင်းနှင့် လက်ခံခြင်း",
-      "phrase_count": 32,
+      "phrase_count": 31,
       "original_count": 21,
-      "added_count": 11,
+      "added_count": 10,
       "phrases": [
         {
           "id": "01.06.01-S001",
@@ -102,13 +102,7 @@
               "meaning_my": "အရမ်းကောင်းတာပေါ့၊ ကူညီပေးပါဦးနော်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.01-S005_alt01",
-              "text": "没事，交给我。",
-              "meaning_my": "ကိစ္စမရှိဘူး၊ တာဝန်ယူလိုက်မယ်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.06.01-S006",
@@ -133,13 +127,7 @@
           "id": "01.06.01-S007",
           "text": "按你说的来。",
           "meaning_my": "ပြောတဲ့အတိုင်းပဲ လုပ်မယ်။",
-          "replies": [
-            {
-              "id": "01.06.01-S007_reply01",
-              "text": "好，有问题再问我。",
-              "meaning_my": "ကောင်းပြီ၊ မရှင်းတာရှိရင် ထပ်မေးနော်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.06.01-S007_alt01",
@@ -165,13 +153,7 @@
           "id": "01.06.01-S009",
           "text": "行，到时候我联系你。",
           "meaning_my": "ကောင်းပြီ၊ အဲဒီအချိန်ကျ ဆက်သွယ်မယ်။",
-          "replies": [
-            {
-              "id": "01.06.01-S009_reply01",
-              "text": "好，我等你消息。",
-              "meaning_my": "ကောင်းပြီ၊ စာကို စောင့်နေမယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         },
         {
@@ -383,13 +365,7 @@
           "id": "01.06.01-S023",
           "text": "当然可以。",
           "meaning_my": "ရတာပေါ့။",
-          "replies": [
-            {
-              "id": "01.06.01-S023_reply01",
-              "text": "好，谢谢你。",
-              "meaning_my": "ဟုတ်ကဲ့၊ ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.06.01-S023_alt01",
@@ -422,13 +398,7 @@
               "meaning_my": "ဒါဆို စလုပ်ကြရအောင်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.01-S025_alt01",
-              "text": "可不是嘛。",
-              "meaning_my": "ဟုတ်တာပေါ့။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -484,13 +454,6 @@
               "text_my": "“包在我身上” က ဒီကိစ္စကို ကိုယ်တာဝန်ယူပြီး လုပ်ပေးမယ်ဆိုတဲ့ စကားပါ။ အထုပ်တစ်ထုပ်အကြောင်း မဟုတ်ဘူး။"
             }
           ]
-        },
-        {
-          "id": "01.06.01-S028",
-          "text": "小事一桩。",
-          "meaning_my": "ဒါ ကိစ္စသေးသေးလေးပါ။",
-          "replies": [],
-          "alternatives": []
         },
         {
           "id": "01.06.01-S029",
@@ -576,15 +539,17 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 21,
+      "removed_count": 1
     },
     {
       "id": "01.06.02",
       "title": "提出异议与商量",
       "title_my": "သဘောထားမတူခြင်းနှင့် ညှိနှိုင်းခြင်း",
-      "phrase_count": 31,
+      "phrase_count": 30,
       "original_count": 19,
-      "added_count": 12,
+      "added_count": 11,
       "phrases": [
         {
           "id": "01.06.02-S001",
@@ -597,13 +562,7 @@
               "meaning_my": "ဘယ်နေရာက အဆင်မပြေဘူးလို့ ထင်တာလဲ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.02-S001_alt01",
-              "text": "我不太赞成。",
-              "meaning_my": "သိပ်သဘောမတူဘူး။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -655,13 +614,7 @@
               "meaning_my": "ကောင်းပြီ၊ ပြောကြည့်ပါဦး။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.02-S004_alt01",
-              "text": "我有个建议。",
-              "meaning_my": "အကြံတစ်ခု ရှိတယ်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.06.02-S005",
@@ -674,13 +627,7 @@
               "meaning_my": "ကောင်းပြီ၊ အလောတကြီး မဆုံးဖြတ်သေးဘူး။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.02-S005_alt01",
-              "text": "先观望一下吧。",
-              "meaning_my": "ခဏ စောင့်ကြည့်ကြဦးမယ်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.06.02-S006",
@@ -853,13 +800,7 @@
           "id": "01.06.02-S016",
           "text": "哪里不合适？",
           "meaning_my": "ဘယ်နေရာက အဆင်မပြေတာလဲ။",
-          "replies": [
-            {
-              "id": "01.06.02-S016_reply01",
-              "text": "主要是时间不够。",
-              "meaning_my": "အဓိကက အချိန်မလောက်တာ။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         },
         {
@@ -900,25 +841,6 @@
             }
           ],
           "alternatives": []
-        },
-        {
-          "id": "01.06.02-S020",
-          "text": "我觉得没必要。",
-          "meaning_my": "မလိုအပ်ဘူးလို့ ထင်တယ်။",
-          "replies": [
-            {
-              "id": "01.06.02-S020_reply01",
-              "text": "那就先别做。",
-              "meaning_my": "ဒါဆို အခု မလုပ်ကြသေးဘူး။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.06.02-S020_alt01",
-              "text": "我看没这个必要。",
-              "meaning_my": "ဒီလိုလုပ်ဖို့ မလိုအပ်ဘူးထင်တယ်။"
-            }
-          ]
         },
         {
           "id": "01.06.02-S021",
@@ -1119,15 +1041,17 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 19,
+      "removed_count": 1
     },
     {
       "id": "01.06.03",
       "title": "直接拒绝与说明",
       "title_my": "တိုက်ရိုက်ငြင်းဆိုခြင်းနှင့် အကြောင်းပြခြင်း",
-      "phrase_count": 29,
+      "phrase_count": 28,
       "original_count": 18,
-      "added_count": 11,
+      "added_count": 10,
       "phrases": [
         {
           "id": "01.06.03-S001",
@@ -1300,13 +1224,7 @@
           "id": "01.06.03-S011",
           "text": "不好意思，我帮不了你。",
           "meaning_my": "တောင်းပန်ပါတယ်၊ မကူညီနိုင်ဘူး။",
-          "replies": [
-            {
-              "id": "01.06.03-S011_reply01",
-              "text": "没事，你先忙。",
-              "meaning_my": "ရပါတယ်၊ အလုပ်ရှိတာ အရင်လုပ်နော်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.06.03-S011_alt01",
@@ -1371,13 +1289,7 @@
               "meaning_my": "ကောင်းပြီ၊ တာဝန်ခံကို သွားမေးလိုက်မယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.03-S015_alt01",
-              "text": "这事得找负责人。",
-              "meaning_my": "ဒီကိစ္စကို တာဝန်ခံဆီ မေးရမယ်။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -1602,19 +1514,6 @@
           ]
         },
         {
-          "id": "01.06.03-S027",
-          "text": "我实在抽不开身。",
-          "meaning_my": "တကယ် ဒီအလုပ်ကနေ မခွာနိုင်သေးဘူး။",
-          "replies": [
-            {
-              "id": "01.06.03-S027_reply01",
-              "text": "好，那你先忙。",
-              "meaning_my": "ကောင်းပြီ၊ ဒါဆို အရင် အလုပ်လုပ်နော်။"
-            }
-          ],
-          "alternatives": []
-        },
-        {
           "id": "01.06.03-S028",
           "text": "我不愿意。",
           "meaning_my": "မလုပ်ချင်ဘူး။",
@@ -1640,7 +1539,9 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 18,
+      "removed_count": 1
     },
     {
       "id": "01.06.04",
@@ -1821,13 +1722,7 @@
               "meaning_my": "ရပါတယ်၊ နောက်တစ်ခါမှ ပြောကြမယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.04-S010_alt01",
-              "text": "这次就先不去了。",
-              "meaning_my": "ဒီတစ်ခါတော့ မသွားတော့ဘူး။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.06.04-S011",
@@ -1846,13 +1741,7 @@
           "id": "01.06.04-S012",
           "text": "等我有空再联系你。",
           "meaning_my": "အားတဲ့အခါ ဆက်သွယ်လိုက်မယ်။",
-          "replies": [
-            {
-              "id": "01.06.04-S012_reply01",
-              "text": "好，等你消息。",
-              "meaning_my": "ကောင်းပြီ၊ စာကို စောင့်နေမယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.06.04-S012_alt01",
@@ -1898,13 +1787,7 @@
               "meaning_my": "ဟုတ်ကဲ့၊ ရပါတယ်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.04-S015_alt01",
-              "text": "不用麻烦了，谢谢。",
-              "meaning_my": "ဒုက္ခမခံပါနဲ့တော့၊ ကျေးဇူးပါ။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.06.04-S016",
@@ -1917,13 +1800,7 @@
               "meaning_my": "ကောင်းပြီ၊ တိုင်ပင်ပြီးရင် ပြောနော်။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.06.04-S016_alt01",
-              "text": "我得先跟家里商量一下。",
-              "meaning_my": "အိမ်ကလူတွေနဲ့ အရင် တိုင်ပင်ကြည့်ရဦးမယ်။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.06.04-S017",
@@ -2233,16 +2110,27 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 19,
+      "removed_count": 0
     }
   ],
   "extras_summary": {
-    "replies": 117,
-    "reply_phrases": 117,
-    "alternatives": 74,
-    "alternative_phrases": 74,
+    "replies": 109,
+    "reply_phrases": 109,
+    "alternatives": 64,
+    "alternative_phrases": 64,
     "notes": 23,
     "note_phrases": 23,
     "fixed_expressions": 3
+  },
+  "source_original_count": 77,
+  "source_added_count": 47,
+  "source_phrase_count": 124,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }

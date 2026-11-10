@@ -6,10 +6,10 @@
   "theme_title_my": "မေးမြန်းခြင်းနှင့် အတည်ပြုခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-11",
-  "phrase_count": 99,
+  "phrase_count": 98,
   "original_count": 60,
-  "added_count": 39,
-  "note": "独立新版草稿：原60句主句ID和中文不变（部分缅译微调），新增39句高频表达；回复、类似说法与中缅说明按需添加。母语终审与配音尚未完成。",
+  "added_count": 38,
+  "note": "2026-11-11高频口语复审稿：删除不实用及重复主句、剔除不等义的类似说法；保留条目ID不变且不补号。已修明显语义问题，尚需缅语母语逐句终审、音频试听。",
   "scenes": [
     {
       "id": "01.04.01",
@@ -87,13 +87,7 @@
           "id": "01.04.01-S004",
           "text": "这个怎么用？",
           "meaning_my": "ဒါကို ဘယ်လိုသုံးရလဲ။",
-          "replies": [
-            {
-              "id": "01.04.01-S004_reply01",
-              "text": "先按这个按钮。",
-              "meaning_my": "အရင် ဒီခလုတ်ကို နှိပ်ပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.04.01-S004_alt01",
@@ -132,20 +126,8 @@
           "id": "01.04.01-S006",
           "text": "这个字怎么读？",
           "meaning_my": "ဒီတရုတ်စာလုံးကို ဘယ်လိုအသံထွက်ရလဲ။",
-          "replies": [
-            {
-              "id": "01.04.01-S006_reply01",
-              "text": "我读给你听。",
-              "meaning_my": "ဖတ်ပြပေးမယ်။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.04.01-S006_alt01",
-              "text": "这个字怎么念？",
-              "meaning_my": "ဒီတရုတ်စာလုံးကို ဘယ်လိုဖတ်ရလဲ။"
-            }
-          ],
+          "replies": [],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -327,13 +309,7 @@
               "meaning_my": "မပျက်ဘူး၊ အားကုန်သွားတာ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.04.01-S017_alt01",
-              "text": "是不是坏了？",
-              "meaning_my": "ပျက်သွားတာလား။"
-            }
-          ]
+          "alternatives": []
         },
         {
           "id": "01.04.01-S018",
@@ -367,15 +343,17 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 11,
+      "removed_count": 0
     },
     {
       "id": "01.04.02",
       "title": "问路、指路与回应",
       "title_my": "လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
-      "phrase_count": 31,
+      "phrase_count": 30,
       "original_count": 18,
-      "added_count": 13,
+      "added_count": 12,
       "phrases": [
         {
           "id": "01.04.02-S001",
@@ -748,13 +726,7 @@
           "id": "01.04.02-S022",
           "text": "就在前面。",
           "meaning_my": "ရှေ့နားမှာပဲ။",
-          "replies": [
-            {
-              "id": "01.04.02-S022_reply01",
-              "text": "好，谢谢。",
-              "meaning_my": "ဟုတ်ကဲ့၊ ကျေးဇူးပါ။"
-            }
-          ],
+          "replies": [],
           "alternatives": [
             {
               "id": "01.04.02-S022_alt01",
@@ -875,25 +847,6 @@
           "alternatives": []
         },
         {
-          "id": "01.04.02-S029",
-          "text": "我带你过去。",
-          "meaning_my": "လိုက်ပို့ပေးမယ်။",
-          "replies": [
-            {
-              "id": "01.04.02-S029_reply01",
-              "text": "谢谢，那麻烦你了。",
-              "meaning_my": "ကျေးဇူးပါ၊ ဒါဆို အကူအညီတောင်းပါရစေ။"
-            }
-          ],
-          "alternatives": [
-            {
-              "id": "01.04.02-S029_alt01",
-              "text": "我领你过去。",
-              "meaning_my": "လိုက်ပို့ပေးမယ်။"
-            }
-          ]
-        },
-        {
           "id": "01.04.02-S030",
           "text": "到路口再问一下。",
           "meaning_my": "လမ်းဆုံရောက်ရင် ထပ်မေးကြည့်ပါ။",
@@ -925,7 +878,9 @@
             }
           ]
         }
-      ]
+      ],
+      "source_original_count": 18,
+      "removed_count": 1
     },
     {
       "id": "01.04.03",
@@ -976,7 +931,7 @@
             {
               "id": "01.04.03-S003_alt01",
               "text": "这是你的东西吗？",
-              "meaning_my": "ဒါ ကိုယ့်ပစ္စည်းလား။"
+              "meaning_my": "ဒါ ခင်ဗျားပစ္စည်းလား။"
             }
           ]
         },
@@ -1272,7 +1227,9 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 14,
+      "removed_count": 0
     },
     {
       "id": "01.04.04",
@@ -1348,8 +1305,8 @@
           "alternatives": [
             {
               "id": "01.04.04-S004_alt01",
-              "text": "是下午三点吧？",
-              "meaning_my": "နေ့လယ်သုံးနာရီ ဟုတ်တယ်နော်။"
+              "text": "是三点吧？",
+              "meaning_my": "သုံးနာရီပဲ ဟုတ်တယ်နော်။"
             }
           ]
         },
@@ -1591,13 +1548,7 @@
           "id": "01.04.04-S020",
           "text": "确定。",
           "meaning_my": "သေချာတယ်။",
-          "replies": [
-            {
-              "id": "01.04.04-S020_reply01",
-              "text": "好，那就按这个来。",
-              "meaning_my": "ကောင်းပြီ၊ ဒါဆို ဒီအတိုင်း လုပ်ကြမယ်။"
-            }
-          ],
+          "replies": [],
           "alternatives": []
         },
         {
@@ -1694,13 +1645,7 @@
               "meaning_my": "ဟုတ်တယ်၊ ဒါ နောက်ဆုံးဗားရှင်းပါ။"
             }
           ],
-          "alternatives": [
-            {
-              "id": "01.04.04-S026_alt01",
-              "text": "这是最新版本吗？",
-              "meaning_my": "ဒါ နောက်ဆုံးဗားရှင်း ဟုတ်လား။"
-            }
-          ],
+          "alternatives": [],
           "notes": [
             {
               "type": "usage",
@@ -1722,15 +1667,27 @@
           ],
           "alternatives": []
         }
-      ]
+      ],
+      "source_original_count": 17,
+      "removed_count": 0
     }
   ],
   "extras_summary": {
-    "replies": 83,
-    "reply_phrases": 83,
-    "alternatives": 57,
-    "alternative_phrases": 57,
+    "replies": 78,
+    "reply_phrases": 78,
+    "alternatives": 53,
+    "alternative_phrases": 53,
     "notes": 20,
-    "note_phrases": 20
+    "note_phrases": 20,
+    "fixed_expressions": 0
+  },
+  "source_original_count": 60,
+  "source_added_count": 39,
+  "source_phrase_count": 99,
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "全量结构/ID/配音检查、主句逐场景人工复核、补充语义定向剔除",
+    "removed_ids_not_reused": true
   }
 }
