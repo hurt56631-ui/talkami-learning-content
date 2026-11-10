@@ -1,0 +1,832 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v1",
+  "status": "draft",
+  "theme_id": "01.01",
+  "theme_title": "问候寒暄",
+  "theme_title_my": "နှုတ်ဆက်ခြင်းနှင့် စကားစမြည်",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-10",
+  "phrase_count": 111,
+  "original_count": 61,
+  "added_count": 50,
+  "note": "新主题候选稿，不覆盖现有 packs/01.json；缅语母语教师终审与录音尚未完成。",
+  "scenes": [
+    {
+      "id": "01.01.01",
+      "title": "日常打招呼",
+      "title_my": "နေ့စဉ်နှုတ်ဆက်ခြင်း",
+      "phrase_count": 28,
+      "original_count": 16,
+      "added_count": 12,
+      "phrases": [
+        {
+          "id": "01.01.01-S001",
+          "text": "你好。",
+          "meaning_my": "မင်္ဂလာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S002",
+          "text": "您好。",
+          "meaning_my": "မင်္ဂလာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S003",
+          "text": "你好，很高兴认识你。",
+          "meaning_my": "မင်္ဂလာပါ၊ တွေ့ရတာ ဝမ်းသာပါတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S004",
+          "text": "早啊。",
+          "meaning_my": "မင်္ဂလာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S005",
+          "text": "你今天来得挺早啊。",
+          "meaning_my": "ဒီနေ့ စောစောရောက်လာတာပဲနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S006",
+          "text": "最近怎么样？",
+          "meaning_my": "အခုတလော ဘယ်လိုနေလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S007",
+          "text": "你呢？",
+          "meaning_my": "ခင်ဗျားကရော။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S008",
+          "text": "今天上班吗？",
+          "meaning_my": "ဒီနေ့ အလုပ်ဆင်းရလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S009",
+          "text": "早上好。",
+          "meaning_my": "မင်္ဂလာနံနက်ခင်းပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S010",
+          "text": "刚下班吗？",
+          "meaning_my": "အခုမှ အလုပ်ပြီးတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S011",
+          "text": "你也在这儿啊？",
+          "meaning_my": "အော်၊ ဒီမှာလည်း ရှိနေတာပဲနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S012",
+          "text": "好，你先忙。",
+          "meaning_my": "ကောင်းပြီ၊ လုပ်စရာရှိတာ အရင်လုပ်ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S013",
+          "text": "你也是第一次来？",
+          "meaning_my": "ခင်ဗျားလည်း ပထမဆုံးလာတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S014",
+          "text": "晚上好。",
+          "meaning_my": "မင်္ဂလာညချမ်းပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S015",
+          "text": "你一个人来的吗？",
+          "meaning_my": "တစ်ယောက်တည်း လာတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S016",
+          "text": "好久不见。",
+          "meaning_my": "မတွေ့တာကြာပြီနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S017",
+          "text": "来啦？",
+          "meaning_my": "ရောက်လာပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S018",
+          "text": "最近还好吧？",
+          "meaning_my": "အခုတလော နေကောင်းရဲ့လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S019",
+          "text": "挺好的，谢谢。",
+          "meaning_my": "အဆင်ပြေပါတယ်၊ ကျေးဇူးပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S020",
+          "text": "今天怎么样？",
+          "meaning_my": "ဒီနေ့ ဘယ်လိုလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S021",
+          "text": "在忙吗？",
+          "meaning_my": "အလုပ်ရှုပ်နေလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S022",
+          "text": "现在有空吗？",
+          "meaning_my": "အခု အားလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S023",
+          "text": "刚到吗？",
+          "meaning_my": "အခုမှ ရောက်တာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S024",
+          "text": "吃饭了吗？",
+          "meaning_my": "ထမင်းစားပြီးပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S025",
+          "text": "吃过了。",
+          "meaning_my": "စားပြီးပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S026",
+          "text": "还没吃。",
+          "meaning_my": "မစားရသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S027",
+          "text": "请进。",
+          "meaning_my": "ဝင်လာပါဦး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.01-S028",
+          "text": "请坐。",
+          "meaning_my": "ထိုင်ပါဦး။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.01.02",
+      "title": "熟人寒暄",
+      "title_my": "ရင်းနှီးသူနဲ့ စကားစမြည်",
+      "phrase_count": 29,
+      "original_count": 16,
+      "added_count": 13,
+      "phrases": [
+        {
+          "id": "01.01.02-S001",
+          "text": "最近忙吗？",
+          "meaning_my": "ဒီရက်ပိုင်း အလုပ်များလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S002",
+          "text": "还好，不太忙。",
+          "meaning_my": "အဆင်ပြေပါတယ်၊ သိပ်မများပါဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S003",
+          "text": "工作怎么样？",
+          "meaning_my": "အလုပ်က ဘယ်လိုလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S004",
+          "text": "最近在忙什么？",
+          "meaning_my": "အခုတလော ဘာတွေလုပ်နေလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S005",
+          "text": "最近事情有点多。",
+          "meaning_my": "ဒီရက်ပိုင်း လုပ်စရာတွေ နည်းနည်းများနေတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S006",
+          "text": "还可以。",
+          "meaning_my": "အဆင်ပြေပါတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S007",
+          "text": "最近有点累。",
+          "meaning_my": "ဒီရက်ပိုင်း နည်းနည်းပင်ပန်းနေတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S008",
+          "text": "家里人都好吗？",
+          "meaning_my": "အိမ်ကလူတွေ အားလုံး နေကောင်းကြလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S009",
+          "text": "周末休息吗？",
+          "meaning_my": "စနေ၊ တနင်္ဂနွေ နားရလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S010",
+          "text": "这几天真热啊。",
+          "meaning_my": "ဒီရက်ပိုင်း တော်တော်ပူတာပဲနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S011",
+          "text": "有空一起吃个饭吧。",
+          "meaning_my": "အားရင် တစ်နေ့နေ့ အတူတူ ထမင်းစားကြရအောင်နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S012",
+          "text": "最近都没怎么见到你。",
+          "meaning_my": "ဒီရက်ပိုင်း သိပ်မတွေ့ဖြစ်ဘူးနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S013",
+          "text": "吃晚饭了吗？",
+          "meaning_my": "ညစာ စားပြီးပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S014",
+          "text": "今天忙了一天吧？",
+          "meaning_my": "ဒီနေ့ တစ်နေ့လုံး အလုပ်များခဲ့တယ်မဟုတ်လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S015",
+          "text": "真巧，在这儿碰到你。",
+          "meaning_my": "တိုက်တိုက်ဆိုင်ဆိုင် ဒီမှာ တွေ့ရတာပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S016",
+          "text": "今天不用上班吗？",
+          "meaning_my": "ဒီနေ့ အလုပ်မဆင်းရဘူးလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S017",
+          "text": "最近工作顺利吗？",
+          "meaning_my": "အခုတလော အလုပ်အဆင်ပြေလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S018",
+          "text": "忙完了吗？",
+          "meaning_my": "လုပ်စရာတွေ ပြီးပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S019",
+          "text": "刚回来吗？",
+          "meaning_my": "အခုမှ ပြန်ရောက်တာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S020",
+          "text": "要出去吗？",
+          "meaning_my": "အပြင်သွားမလို့လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S021",
+          "text": "这几天辛苦了。",
+          "meaning_my": "ဒီရက်ပိုင်း ပင်ပန်းသွားပြီနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S022",
+          "text": "有空来家里坐。",
+          "meaning_my": "အားရင် အိမ်လာလည်ဦးနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S023",
+          "text": "改天一起喝茶。",
+          "meaning_my": "နောက်နေ့ အတူ လက်ဖက်ရည်သောက်ကြရအောင်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S024",
+          "text": "今天怎么这么晚？",
+          "meaning_my": "ဒီနေ့ ဘာလို့ ဒီလောက် နောက်ကျတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S025",
+          "text": "我刚忙完。",
+          "meaning_my": "အခုမှ အလုပ်ပြီးတာ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S026",
+          "text": "正准备出门。",
+          "meaning_my": "အပြင်ထွက်မလို့ ပြင်နေတာ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S027",
+          "text": "周末有空吗？",
+          "meaning_my": "စနေ၊ တနင်္ဂနွေ အားလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S028",
+          "text": "还在原来的地方上班吗？",
+          "meaning_my": "အရင်နေရာမှာပဲ အလုပ်လုပ်နေတုန်းလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.02-S029",
+          "text": "最近常加班吗？",
+          "meaning_my": "အခုတလော အချိန်ပို ခဏခဏ ဆင်းရလား။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.01.03",
+      "title": "关心近况与回应",
+      "title_my": "အခြေအနေ ဂရုစိုက်မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "phrase_count": 30,
+      "original_count": 17,
+      "added_count": 13,
+      "phrases": [
+        {
+          "id": "01.01.03-S001",
+          "text": "你怎么了？",
+          "meaning_my": "ဘာဖြစ်နေတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S002",
+          "text": "累不累？",
+          "meaning_my": "ပင်ပန်းလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S003",
+          "text": "好点了吗？",
+          "meaning_my": "သက်သာလာပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S004",
+          "text": "还没好，还是有点不舒服。",
+          "meaning_my": "မသက်သာသေးဘူး၊ နည်းနည်း နေလို့မကောင်းသေးဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S005",
+          "text": "要不要休息一下？",
+          "meaning_my": "ခဏလောက် နားမလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S006",
+          "text": "哪里不舒服？",
+          "meaning_my": "ဘယ်နေရာက နေလို့မကောင်းတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S007",
+          "text": "我先去休息一会儿。",
+          "meaning_my": "ခဏလောက် သွားနားလိုက်ဦးမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S008",
+          "text": "有事跟我说。",
+          "meaning_my": "ဘာကိစ္စရှိရှိ ပြောနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S009",
+          "text": "今天感觉怎么样？",
+          "meaning_my": "ဒီနေ့ ဘယ်လိုနေလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S010",
+          "text": "要不要我送你回家？",
+          "meaning_my": "အိမ်ကို လိုက်ပို့ပေးရမလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S011",
+          "text": "要不要喝点水？",
+          "meaning_my": "ရေနည်းနည်း သောက်မလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S012",
+          "text": "要不要去医院？",
+          "meaning_my": "ဆေးရုံသွားမလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S013",
+          "text": "先不用，我休息一下。",
+          "meaning_my": "အခုတော့ မလိုသေးဘူး၊ ခဏနားလိုက်မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S014",
+          "text": "我没事。",
+          "meaning_my": "ဘာမှမဖြစ်ပါဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S015",
+          "text": "好多了。",
+          "meaning_my": "အများကြီး သက်သာလာပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S016",
+          "text": "别担心。",
+          "meaning_my": "စိတ်မပူနဲ့။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S017",
+          "text": "早点休息。",
+          "meaning_my": "စောစောအနားယူနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S018",
+          "text": "没事吧？",
+          "meaning_my": "အဆင်ပြေရဲ့လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S019",
+          "text": "你脸色不太好。",
+          "meaning_my": "မျက်နှာကြည့်ရတာ နေမကောင်းသလိုပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S020",
+          "text": "昨晚没睡好吗？",
+          "meaning_my": "မနေ့ညက ကောင်းကောင်း မအိပ်ရဘူးလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S021",
+          "text": "吃药了吗？",
+          "meaning_my": "ဆေးသောက်ပြီးပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S022",
+          "text": "看过医生了吗？",
+          "meaning_my": "ဆရာဝန် ပြပြီးပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S023",
+          "text": "多喝点热水。",
+          "meaning_my": "ရေနွေး များများသောက်နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S024",
+          "text": "多休息。",
+          "meaning_my": "ကောင်းကောင်း အနားယူနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S025",
+          "text": "需要帮忙就叫我。",
+          "meaning_my": "အကူအညီလိုရင် ခေါ်နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S026",
+          "text": "我陪你去。",
+          "meaning_my": "လိုက်ပေးမယ်နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S027",
+          "text": "那就好。",
+          "meaning_my": "ဒါဆို ကောင်းတာပေါ့။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S028",
+          "text": "没事就好。",
+          "meaning_my": "ဘာမှမဖြစ်ရင် တော်သေးတာပေါ့။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S029",
+          "text": "谢谢关心。",
+          "meaning_my": "စိတ်ပူပေးလို့ ကျေးဇူးပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.03-S030",
+          "text": "别太累了。",
+          "meaning_my": "အရမ်း ပင်ပန်းမခံနဲ့နော်။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.01.04",
+      "title": "告别与叮嘱",
+      "title_my": "နှုတ်ဆက်ခြင်းနှင့် ဂရုစိုက်စကား",
+      "phrase_count": 24,
+      "original_count": 12,
+      "added_count": 12,
+      "phrases": [
+        {
+          "id": "01.01.04-S001",
+          "text": "我先走了。",
+          "meaning_my": "အရင်သွားနှင့်တော့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S002",
+          "text": "再见。",
+          "meaning_my": "နောက်မှတွေ့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S003",
+          "text": "明天见。",
+          "meaning_my": "မနက်ဖြန်တွေ့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S004",
+          "text": "晚安。",
+          "meaning_my": "ကောင်းကောင်းအိပ်ပါနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S005",
+          "text": "好，到了给你发消息。",
+          "meaning_my": "ကောင်းပြီ၊ ရောက်ရင် စာပို့လိုက်မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S006",
+          "text": "到家告诉我。",
+          "meaning_my": "အိမ်ရောက်ရင် ပြောနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S007",
+          "text": "东西都带齐了吗？",
+          "meaning_my": "ပစ္စည်းတွေ အကုန်ယူပြီးပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S008",
+          "text": "我得去赶车了。",
+          "meaning_my": "ကားမီအောင် သွားရတော့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S009",
+          "text": "明天再联系。",
+          "meaning_my": "မနက်ဖြန်မှ ပြန်ဆက်သွယ်ကြမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S010",
+          "text": "下次再约。",
+          "meaning_my": "နောက်တစ်ခါမှ ပြန်ချိန်းကြမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S011",
+          "text": "有空再聊。",
+          "meaning_my": "အားတဲ့အခါမှ ဆက်ပြောကြမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S012",
+          "text": "路上小心点。",
+          "meaning_my": "လမ်းမှာ သတိထားသွားနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S013",
+          "text": "我先回去了。",
+          "meaning_my": "အရင်ပြန်နှင့်တော့မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S014",
+          "text": "一路顺风。",
+          "meaning_my": "ခရီးလမ်း အဆင်ပြေပါစေ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S015",
+          "text": "有事打电话。",
+          "meaning_my": "ကိစ္စရှိရင် ဖုန်းဆက်နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S016",
+          "text": "保持联系。",
+          "meaning_my": "အဆက်အသွယ် မပြတ်နဲ့နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S017",
+          "text": "先这样，回头聊。",
+          "meaning_my": "ဒီလောက်ပဲနော်၊ နောက်မှ ဆက်ပြောကြမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S018",
+          "text": "不用送。",
+          "meaning_my": "လိုက်ပို့စရာ မလိုပါဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S019",
+          "text": "我送送你。",
+          "meaning_my": "လိုက်ပို့ပေးမယ်နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S020",
+          "text": "下次再来玩。",
+          "meaning_my": "နောက်တစ်ခါ လာလည်ဦးနော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S021",
+          "text": "到家了吗？",
+          "meaning_my": "အိမ်ရောက်ပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S022",
+          "text": "我到家了。",
+          "meaning_my": "အိမ်ရောက်ပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S023",
+          "text": "路上慢点。",
+          "meaning_my": "လမ်းမှာ အလျင်မလိုနဲ့နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.01.04-S024",
+          "text": "到时候见。",
+          "meaning_my": "အဲဒီအချိန်ကျ တွေ့ကြမယ်နော်။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    }
+  ]
+}
