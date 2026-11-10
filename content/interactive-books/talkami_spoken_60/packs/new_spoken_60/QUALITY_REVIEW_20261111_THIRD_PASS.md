@@ -1,0 +1,79 @@
+# 01.01—01.10 第三轮审核（2026-11-11）
+
+## 完成的定向修正
+- 32条主句注音：重点检查尽量 liàng、A不A问句轻声、动补之间不的轻声、过的轻声、不的变调、一的变调。
+- 17条类似说法定向检查：时间、人称、语气、具体物品、中文口语自然度，保留同义。
+- 2条主句缅语：01.07.02-S029（多个都不喜欢），01.10.02-S012（每月几号发工资）。
+- 1171主句、1031回复、750类似说法，全部固定ID未增删。
+- 生成或同步受影响的JSON、TXT、发音对照TXT和音频manifest。
+
+## 仍未完成
+- 缅甸语母语教师对全部2952条的逐句终审；不能断言语义零错误。
+- 拼音轻声、儿化、变调的教师听音终审；主句缅文谐音仍为待审稿。
+- 回复和类似说法还未配发音；MP3尚未录制；网站没有接入新版。
+
+## 详细修正记录
+- 01.01.01-S025 pinyin: chī guò le => chī guo le
+- 01.01.03-S022 pinyin: kàn guò yīshēng le ma => kàn guo yīshēng le ma
+- 01.07.01-S027 pinyin: wǒ méi xiǎng guò zhè ge => wǒ méi xiǎng guo zhè ge
+- 01.01.03-S013 pinyin: xiān bù yòng wǒ xiū xi yí xià => xiān bú yòng wǒ xiū xi yí xià
+- 01.04.02-S025 pinyin: guò le hóng-lǜdēng yòu zhuǎn => guò le hóng lǜ dēng yòu zhuǎn
+- 01.05.01-S010 pinyin: wǒ xiàn zài zǒu bù kāi wǎn diǎn xíng ma => wǒ xiàn zài zǒu bu kāi wǎn diǎn xíng ma
+- 01.05.01-S023 pinyin: zhè dōng xi wǒ yí ge rén bān bù dòng => zhè dōng xi wǒ yí ge rén bān bu dòng
+- 01.05.03-S002 pinyin: bù hǎo yì si wǒ xiàn zài zǒu bù kāi => bù hǎo yì si wǒ xiàn zài zǒu bu kāi
+- 01.05.03-S024 pinyin: wǒ dài nǐ zǒu yì duàn => wǒ dài nǐ zǒu yí duàn
+- 01.03.01-S008 pinyin: wǒ tīng de dǒng dàn shuō bù hǎo => wǒ tīng de dǒng dàn shuō bu hǎo
+- 01.03.03-S027 pinyin: wǒ kàn bù qīng => wǒ kàn bu qīng
+- 01.04.04-S023 pinyin: wǒ shì bú shì lǐjiě cuò le => wǒ shì bu shì lǐjiě cuò le
+- 01.06.01-S031 pinyin: wǒ jǐn liáng => wǒ jǐn liàng
+- 01.06.02-S023 pinyin: yào bu xiān fàng yì fàng => yào bu xiān fàng yi fàng
+- 01.06.02-S028 pinyin: néng bù néng shāowēi gǎi yí xià => néng bu néng shāowēi gǎi yí xià
+- 01.06.03-S005 pinyin: zhè ge wǒ bú gǎn luàn dòng => zhè ge wǒ bù gǎn luàn dòng
+- 01.06.03-S012 pinyin: jīn tiān zhēn zǒu bù kāi => jīn tiān zhēn zǒu bu kāi
+- 01.06.03-S013 pinyin: zhè ge wǒ bú xū yào xiè xie => zhè ge wǒ bù xū yào xiè xie
+- 01.06.03-S018 pinyin: wǒ bú xiǎng cānjiā => wǒ bù xiǎng cānjiā
+- 01.06.03-S021 pinyin: bàoqiàn wǒ zuò bú dào => bàoqiàn wǒ zuò bu dào
+- 01.06.03-S025 pinyin: wǒ bú gǎn xìngqù => wǒ bù gǎn xìngqù
+- 01.06.04-S027 pinyin: wǒ jǐn liáng ān pái => wǒ jǐn liàng ān pái
+- 01.06.04-S030 pinyin: wǒ zànshí hái bú néng què dìng => wǒ zànshí hái bù néng què dìng
+- 01.07.02-S002 pinyin: wǒ bú xǐ huan tài tián de => wǒ bù xǐ huan tài tián de
+- 01.07.02-S019 pinyin: wǒ bú tiāo => wǒ bù tiāo
+- 01.07.02-S024 pinyin: wǒ bú chī là => wǒ bù chī là
+- 01.08.02-S014 pinyin: wǒ yí ge rén máng bú guò lái => wǒ yí ge rén máng bu guò lái
+- 01.08.02-S020 pinyin: wǒ zhè biān lín shí zǒu bù kāi => wǒ zhè biān lín shí zǒu bu kāi
+- 01.08.02-S026 pinyin: tiān qì bù hǎo chū bú qù => tiān qì bù hǎo chū bu qù
+- 01.08.03-S018 pinyin: hái bú zhī dào nǎ lǐ chū le wèn tí => hái bù zhī dào nǎ lǐ chū le wèn tí
+- 01.09.03-S024 pinyin: wǒ qù wèn wen qítā rén xíng bù xíng => wǒ qù wèn wen qítā rén xíng bu xíng
+- 01.09.03-S028 pinyin: néng bù néng gǎi dào míng tiān => néng bu néng gǎi dào míng tiān
+- 01.02.01-S020_alt01 text: 谢谢你请客。 => 谢谢你招待我。
+- 01.02.01-S020_alt01 meaning_my: ဝယ်ကျွေးလို့ ကျေးဇူးတင်ပါတယ်။ => ဧည့်ခံပေးလို့ ကျေးဇူးတင်ပါတယ်။
+- 01.02.02-S012_alt01 text: 下次注意。 => 下次我会小心点。
+- 01.02.02-S012_alt01 meaning_my: နောက်တစ်ခါ သတိထားမယ်။ => နောက်တစ်ခါ ပိုသတိထားပါ့မယ်။
+- 01.03.01-S015_alt01 text: 等会儿，我记一下。 => 等一下，我先记一下。
+- 01.03.01-S015_alt01 meaning_my: ခဏလေး၊ မှတ်ထားလိုက်ဦးမယ်။ => ခဏလေး၊ အရင် မှတ်ထားလိုက်ဦးမယ်။
+- 01.06.03-S013_alt01 text: 不需要了，谢谢。 => 这个我用不上，谢谢。
+- 01.06.03-S013_alt01 meaning_my: မလိုတော့ပါဘူး၊ ကျေးဇူးပါ။ => ဒီဟာကို မသုံးဖြစ်ဘူး၊ ကျေးဇူးပါ။
+- 01.07.03-S015_alt01 text: 你感觉如何？ => 你感觉怎么样？
+- 01.08.02-S010_alt01 text: 没来得及准备。 => 我之前没准备好。
+- 01.08.02-S010_alt01 meaning_my: ပြင်ဆင်ဖို့ အချိန်မမီလိုက်ဘူး။ => အရင်က သေချာ မပြင်ဆင်ထားမိဘူး။
+- 01.08.02-S021_alt01 text: 没赶上车。 => 公交车没赶上。
+- 01.08.02-S021_alt01 meaning_my: ကားမမီလိုက်ဘူး။ => ဘတ်စ်ကား မမီလိုက်ဘူး။
+- 01.09.02-S004_alt01 text: 三点准时出发。 => 下午三点走。
+- 01.09.02-S004_alt01 meaning_my: သုံးနာရီတိတိ ထွက်မယ်။ => မွန်းလွဲသုံးနာရီ ထွက်မယ်။
+- 01.09.02-S009_alt01 text: 下午两点碰头。 => 两点碰头。
+- 01.09.02-S009_alt01 meaning_my: နေ့လယ်နှစ်နာရီမှာ တွေ့ကြမယ်။ => နှစ်နာရီမှာ တွေ့ကြမယ်။
+- 01.09.02-S030_alt01 text: 你先走，我马上来。 => 你先走，我等会儿到。
+- 01.09.02-S030_alt01 meaning_my: အရင်သွားနှင့်ပါ၊ ချက်ချင်းလိုက်လာမယ်။ => အရင်သွားနှင့်ပါ၊ ခဏနေမှ ရောက်မယ်။
+- 01.10.01-S001_alt01 text: 现在多少点了？ => 现在几点了？
+- 01.10.02-S009_alt01 meaning_my: တစ်နေ့ကမှ ရောက်တာ။ => မနေ့တစ်နေ့ကမှ ရောက်တာ။
+- 01.10.02-S018_alt01 text: 下星期一开始上班。 => 下星期一去上班。
+- 01.10.02-S018_alt01 meaning_my: နောက်တနင်္လာနေ့ အလုပ်စဆင်းမယ်။ => နောက်တနင်္လာနေ့ အလုပ်ဆင်းမယ်။
+- 01.10.02-S031_alt01 text: 周末放假吗？ => 周六周日休息吗？
+- 01.10.05-S013_alt01 text: 几小时休息一次？ => 多长时间休息一次？
+- 01.10.05-S013_alt01 meaning_my: ဘယ်နှနာရီတစ်ခါ နားရလဲ။ => ဘယ်လောက်ကြာကြာ တစ်ခါ နားရလဲ။
+- 01.10.06-S008_alt01 text: 能不能晚一天交？ => 明天恐怕来不及，能往后推一天吗？
+- 01.10.06-S008_alt01 meaning_my: တစ်ရက် နောက်ကျမှ အပ်လို့ရမလား။ => မနက်ဖြန် မမီလောက်လို့ တစ်ရက် နောက်ရွှေ့လို့ရမလား။
+- 01.10.06-S020_alt01 text: 最迟明天早上给我。 => 最迟明天上午给我。
+- 01.10.06-S020_alt01 meaning_my: နောက်ဆုံး မနက်ဖြန် မနက် ပေးပါ။ => နောက်ဆုံး မနက်ဖြန် မနက်ပိုင်းမှာ ပေးပါ။
+- 01.07.02-S029 meaning_my: နှစ်ခုလုံး သိပ်မကြိုက်ဘူး။ => ဘယ်ဟာကိုမှ သိပ်မကြိုက်ဘူး။
+- 01.10.02-S012 meaning_my: ဘယ်နေ့ လစာထုတ်ပေးလဲ။ => ဘယ်နှရက်နေ့ လစာထုတ်ပေးလဲ။
