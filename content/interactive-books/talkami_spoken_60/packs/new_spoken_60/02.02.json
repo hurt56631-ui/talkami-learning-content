@@ -9,7 +9,7 @@
   "phrase_count": 151,
   "original_count": 101,
   "added_count": 50,
-  "note": "原有101句主句ID保留；新增50条高频口语，去除重复、过窄和不自然建议。待增补适量回复/类似说法/双语说明；母语终审与配音未完成。",
+  "note": "原有101主句ID保留，新增50句。按适用性补回复、类似说法和中缅说明；部分称呼与爱好类词义调整。独立草稿，未做母语配音终审。",
   "scenes": [
     {
       "id": "02.02.01",
@@ -23,12 +23,31 @@
           "id": "02.02.01-S001",
           "text": "你家有几口人？",
           "meaning_my": "မိသားစုမှာ လူဘယ်နှယောက် ရှိလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.01-S001_reply01",
+              "text": "四口人。",
+              "meaning_my": "လေးယောက်ရှိတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.01-S001_alt01",
+              "text": "你家几个人？",
+              "meaning_my": "မိသားစုမှာ လူဘယ်နှယောက် ရှိလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“几口人”是问家里有几个人，不是问房子住了多少人。",
+              "text_my": "“几口人” က မိသားစုဝင် ဘယ်နှယောက်ရှိလဲ မေးတာပါ။ အခန်းမှာ ဘယ်နှယောက်နေလဲ မေးတာမဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.01-S002",
@@ -56,8 +75,20 @@
           "id": "02.02.01-S004",
           "text": "你和爸妈住一起吗？",
           "meaning_my": "အဖေနဲ့အမေနဲ့ အတူနေလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.01-S004_reply01",
+              "text": "没有，我自己住。",
+              "meaning_my": "မနေဘူး၊ တစ်ယောက်တည်း နေတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.01-S004_alt01",
+              "text": "你跟父母一起住吗？",
+              "meaning_my": "မိဘတွေနဲ့ အတူနေလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -78,8 +109,20 @@
           "id": "02.02.01-S006",
           "text": "你有孩子吗？",
           "meaning_my": "ကလေးရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.01-S006_reply01",
+              "text": "有，一个女儿。",
+              "meaning_my": "ရှိတယ်၊ သမီးတစ်ယောက်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.01-S006_alt01",
+              "text": "你有小孩吗？",
+              "meaning_my": "ကလေးရှိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -101,7 +144,13 @@
           "text": "我爸妈都在缅甸。",
           "meaning_my": "အဖေနဲ့အမေက မြန်မာနိုင်ငံမှာပဲ ရှိတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.01-S008_alt01",
+              "text": "我父母都在缅甸。",
+              "meaning_my": "မိဘနှစ်ယောက်လုံး မြန်မာနိုင်ငံမှာ ရှိတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -122,7 +171,13 @@
           "id": "02.02.01-S010",
           "text": "你家人也在中国吗？",
           "meaning_my": "မိသားစုလည်း တရုတ်နိုင်ငံမှာ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.01-S010_reply01",
+              "text": "没有，他们都在缅甸。",
+              "meaning_my": "မရှိဘူး၊ သူတို့အားလုံး မြန်မာနိုင်ငံမှာပဲ ရှိတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -133,7 +188,13 @@
           "id": "02.02.01-S011",
           "text": "孩子多大了？",
           "meaning_my": "ကလေး အသက်ဘယ်လောက်ရှိပြီလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.01-S011_reply01",
+              "text": "五岁了。",
+              "meaning_my": "အသက် ငါးနှစ်ရှိပြီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -189,11 +250,24 @@
           "text": "我家就我一个孩子。",
           "meaning_my": "မိဘတွေမှာ သားသမီးဆိုလို့ ကိုယ်တစ်ယောက်ပဲ ရှိတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.01-S016_alt01",
+              "text": "我是独生子女。",
+              "meaning_my": "မိဘတွေရဲ့ တစ်ဦးတည်းသော သားသမီးပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“就我一个孩子”指自己是父母唯一的孩子，不是说自己只有一个孩子。",
+              "text_my": "“就我一个孩子” က မိဘတွေရဲ့ တစ်ဦးတည်းသောသားသမီး ဖြစ်တယ်လို့ ပြောတာပါ။ ကိုယ့်မှာ ကလေးတစ်ယောက်ပဲ ရှိတယ်လို့ မဆိုလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.01-S017",
@@ -254,8 +328,20 @@
           "id": "02.02.01-S022",
           "text": "你有兄弟姐妹吗？",
           "meaning_my": "မောင်နှမ ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.01-S022_reply01",
+              "text": "有一个哥哥和一个妹妹。",
+              "meaning_my": "အစ်ကိုတစ်ယောက်နဲ့ ညီမတစ်ယောက် ရှိတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.01-S022_alt01",
+              "text": "你有哥哥姐姐或者弟弟妹妹吗？",
+              "meaning_my": "အစ်ကို အစ်မ ညီ မောင်နှမ ရှိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -276,7 +362,13 @@
           "id": "02.02.01-S024",
           "text": "你多久回老家一次？",
           "meaning_my": "ဇာတိကို ဘယ်လောက်ကြာကြာ တစ်ခါ ပြန်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.01-S024_reply01",
+              "text": "大概一年回一次。",
+              "meaning_my": "တစ်နှစ်လောက်မှ တစ်ခါ ပြန်ဖြစ်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -287,12 +379,25 @@
           "id": "02.02.01-S025",
           "text": "我有两个弟弟。",
           "meaning_my": "ညီလေး နှစ်ယောက် ရှိတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.01-S025_reply01",
+              "text": "两个弟弟都在上学。",
+              "meaning_my": "ညီနှစ်ယောက်လုံး ကျောင်းတက်နေကြတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“弟弟”是比自己年纪小的男性兄弟。缅语称呼可依说话人的性别和家庭习惯调整。",
+              "text_my": "“弟弟” က ကိုယ့်ထက် ငယ်တဲ့ ယောက်ျားညီအစ်ကိုကို ဆိုလိုတယ်။ မြန်မာလို ခေါ်ပုံက ပြောသူနဲ့ မိသားစုအလေ့အထအပေါ် မူတည်နိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "02.02.01-S026",
@@ -331,19 +436,50 @@
           "id": "02.02.01-S029",
           "text": "我还没结婚。",
           "meaning_my": "အိမ်ထောင် မကျသေးဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.01-S029_reply01",
+              "text": "还没有。",
+              "meaning_my": "မရှိသေးဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.01-S029_alt01",
+              "text": "我还单身。",
+              "meaning_my": "အခုထိ အိမ်ထောင်မရှိသေးဘူး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“还没结婚”只是婚姻状态，不代表正在找对象。",
+              "text_my": "“还没结婚” က အိမ်ထောင်မကျသေးဘူးလို့ပဲ ဆိုလိုတယ်။ ချစ်သူရှာနေတယ်လို့ မဆိုလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.01-S030",
           "text": "你有几个孩子？",
           "meaning_my": "ကလေး ဘယ်နှယောက် ရှိလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.01-S030_reply01",
+              "text": "两个，一个儿子一个女儿。",
+              "meaning_my": "နှစ်ယောက်ရှိတယ်၊ သားတစ်ယောက်နဲ့ သမီးတစ်ယောက်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.01-S030_alt01",
+              "text": "你有几个小孩？",
+              "meaning_my": "ကလေး ဘယ်နှယောက် ရှိလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -397,7 +533,13 @@
           "id": "02.02.01-S035",
           "text": "你家人都在缅甸吗？",
           "meaning_my": "မိသားစုဝင်တွေအားလုံး မြန်မာနိုင်ငံမှာ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.01-S035_reply01",
+              "text": "对，都在缅甸。",
+              "meaning_my": "ဟုတ်တယ်၊ အားလုံး မြန်မာနိုင်ငံမှာပဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -419,7 +561,13 @@
           "text": "这是我朋友。",
           "meaning_my": "ဒါ သူငယ်ချင်းပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.02-S001_alt01",
+              "text": "这位是我朋友。",
+              "meaning_my": "ဒါ သူငယ်ချင်းပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -430,7 +578,13 @@
           "text": "他是我以前的同事。",
           "meaning_my": "သူက အရင်က အလုပ်ဖော်ပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.02-S002_alt01",
+              "text": "他以前跟我一起上班。",
+              "meaning_my": "သူက အရင်က အလုပ်အတူလုပ်ဖူးတဲ့သူပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -451,8 +605,20 @@
           "id": "02.02.02-S004",
           "text": "给你介绍一下。",
           "meaning_my": "မိတ်ဆက်ပေးမယ်နော်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.02-S004_reply01",
+              "text": "好啊，谢谢。",
+              "meaning_my": "ကောင်းတာပေါ့၊ ကျေးဇူးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.02-S004_alt01",
+              "text": "我给你们介绍一下。",
+              "meaning_my": "နှစ်ယောက်လုံးကို မိတ်ဆက်ပေးမယ်နော်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -462,7 +628,13 @@
           "id": "02.02.02-S005",
           "text": "你们还不认识吧？",
           "meaning_my": "တစ်ယောက်နဲ့တစ်ယောက် မသိကြသေးဘူးမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.02-S005_reply01",
+              "text": "对，我们还不认识。",
+              "meaning_my": "ဟုတ်တယ်၊ မသိကြသေးဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -473,7 +645,13 @@
           "id": "02.02.02-S006",
           "text": "你们以前见过吗？",
           "meaning_my": "အရင်က တွေ့ဖူးကြလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.02-S006_reply01",
+              "text": "见过，在上次聚会上。",
+              "meaning_my": "တွေ့ဖူးတယ်၊ အရင်တစ်ခါ လူစုတဲ့ပွဲမှာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -539,8 +717,20 @@
           "id": "02.02.02-S012",
           "text": "你们是怎么认识的？",
           "meaning_my": "ဘယ်လို သိခဲ့ကြတာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.02-S012_reply01",
+              "text": "以前一起上班认识的。",
+              "meaning_my": "အရင် အလုပ်အတူလုပ်ရင်း သိခဲ့တာ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.02-S012_alt01",
+              "text": "你们怎么认识的？",
+              "meaning_my": "ဘယ်လို သိခဲ့ကြတာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -561,7 +751,13 @@
           "id": "02.02.02-S014",
           "text": "我们见过吗？",
           "meaning_my": "အရင်က တွေ့ဖူးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.02-S014_reply01",
+              "text": "好像见过。",
+              "meaning_my": "တွေ့ဖူးသလိုပဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -588,14 +784,27 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“老同学”表示以前认识的同学，不是说同学年纪大。",
+              "text_my": "“老同学” က အရင်က ကျောင်းနေဖက်ပါ။ အသက်ကြီးတဲ့ အတန်းဖော်လို့ မဆိုလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.02-S017",
           "text": "以后常联系。",
           "meaning_my": "နောက်လည်း အဆက်အသွယ်လုပ်ကြနော်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.02-S017_alt01",
+              "text": "以后多联系。",
+              "meaning_my": "နောက်လည်း မကြာခဏ ဆက်သွယ်ကြနော်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -605,12 +814,31 @@
           "id": "02.02.02-S018",
           "text": "认识你很高兴。",
           "meaning_my": "တွေ့ရတာ ဝမ်းသာပါတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.02-S018_reply01",
+              "text": "我也很高兴认识你。",
+              "meaning_my": "တွေ့ရတာ ဝမ်းသာပါတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.02-S018_alt01",
+              "text": "很高兴认识你。",
+              "meaning_my": "တွေ့ရတာ ဝမ်းသာပါတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“认识你很高兴”在初次见面时常用，中文的“认识”不必逐字翻译。",
+              "text_my": "“认识你很高兴” က ပထမဆုံး မိတ်ဆက်တဲ့အခါ ပြောတတ်တယ်။ မြန်မာလို “တွေ့ရတာ ဝမ်းသာပါတယ်” ဆိုရင် သဘာဝကျတယ်။"
+            }
+          ]
         },
         {
           "id": "02.02.02-S019",
@@ -660,7 +888,13 @@
           "id": "02.02.02-S023",
           "text": "这是我邻居。",
           "meaning_my": "ဒါ အိမ်နီးချင်းပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.02-S023_reply01",
+              "text": "你好，很高兴认识你。",
+              "meaning_my": "မင်္ဂလာပါ၊ တွေ့ရတာ ဝမ်းသာပါတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -682,7 +916,13 @@
           "id": "02.02.02-S025",
           "text": "他刚来这边不久。",
           "meaning_my": "သူ ဒီဘက် ရောက်တာ မကြာသေးဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.02-S025_reply01",
+              "text": "嗯，他刚来一个月。",
+              "meaning_my": "အင်း၊ သူ ဒီဘက်ရောက်တာ တစ်လပဲ ရှိသေးတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -725,8 +965,20 @@
           "id": "02.02.03-S001",
           "text": "我能叫您王老师吗？",
           "meaning_my": "ဆရာဝမ်လို့ ခေါ်လို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.03-S001_reply01",
+              "text": "可以，叫我王老师就行。",
+              "meaning_my": "ရပါတယ်၊ ဆရာဝမ်လို့ပဲ ခေါ်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.03-S001_alt01",
+              "text": "我叫您王老师可以吗？",
+              "meaning_my": "ဆရာဝမ်လို့ ခေါ်လို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -747,7 +999,13 @@
           "id": "02.02.03-S003",
           "text": "李经理在吗？",
           "meaning_my": "လီမန်နေဂျာ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.03-S003_reply01",
+              "text": "在，您稍等。",
+              "meaning_my": "ရှိပါတယ်၊ ခဏစောင့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -769,12 +1027,31 @@
           "id": "02.02.03-S005",
           "text": "师傅，麻烦一下。",
           "meaning_my": "ဆရာ၊ နည်းနည်းလောက် ကူညီပါဦး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.03-S005_reply01",
+              "text": "好的，您说。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ပြောပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.03-S005_alt01",
+              "text": "师傅，打扰一下。",
+              "meaning_my": "ဆရာ၊ ခဏလောက် နှောင့်ယှက်ပါရစေ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "中文“师傅”可用于称呼司机、维修工等技术或服务人员，不一定真是自己的老师。",
+              "text_my": "တရုတ်လို “师傅” ကို ကားသမား၊ ပြုပြင်ရေးဝန်ထမ်းတို့ကိုလည်း ယဉ်ကျေးစွာ ခေါ်တတ်တယ်။ ကိုယ့်ကို စာသင်တဲ့ ဆရာဖြစ်ဖို့ မလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.03-S006",
@@ -785,7 +1062,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "叫店主或店员“老板”是常见口语，未必是在确认对方真的是老板。",
+              "text_my": "ဆိုင်မှာ “老板” လို့ ခေါ်တာ ပုံမှန်စကားပါ။ တကယ့်ဆိုင်ရှင်ဟုတ်မဟုတ် စစ်မေးတာ မဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.03-S007",
@@ -802,17 +1086,30 @@
           "id": "02.02.03-S008",
           "text": "张姐在吗？",
           "meaning_my": "ကျန်းအစ်မ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.03-S008_reply01",
+              "text": "在，我去叫她。",
+              "meaning_my": "ရှိတယ်၊ သွားခေါ်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "“张姐”“李哥”是姓加哥/姐的熟人称呼，不一定有血缘关系。",
+              "text_my": "“张姐”“李哥” ဆိုတာ မျိုးရိုးနာမည်နဲ့ အစ်ကို/အစ်မ ပေါင်းခေါ်တာပါ။ တကယ့်မောင်နှမ ဖြစ်ဖို့ မလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.03-S009",
           "text": "这是我们经理。",
-          "meaning_my": "ဒါ ကျွန်တော်တို့ရဲ့ မန်နေဂျာပါ။",
+          "meaning_my": "ဒါ ကျွန်တော်တို့ မန်နေဂျာပါ။",
           "replies": [],
           "alternatives": [],
           "pinyin": null,
@@ -829,7 +1126,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "中文“阿姨”常用来礼貌称呼年长女性，不一定是自己的亲戚。",
+              "text_my": "တရုတ်လို “阿姨” က အသက်ပိုကြီးတဲ့ အမျိုးသမီးကို ယဉ်ကျေးစွာ ခေါ်တာလည်း ဖြစ်နိုင်တယ်။ တကယ့်ဆွေမျိုးဖြစ်ဖို့ မလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.03-S011",
@@ -857,8 +1161,20 @@
           "id": "02.02.03-S013",
           "text": "找哪位？",
           "meaning_my": "ဘယ်သူနဲ့ တွေ့ချင်တာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.03-S013_reply01",
+              "text": "我找李经理。",
+              "meaning_my": "လီမန်နေဂျာကို တွေ့ချင်ပါတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.03-S013_alt01",
+              "text": "您找谁？",
+              "meaning_my": "ဘယ်သူနဲ့ တွေ့ချင်တာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -890,7 +1206,13 @@
           "id": "02.02.03-S016",
           "text": "要我帮你叫他吗？",
           "meaning_my": "သူ့ကို ခေါ်ပေးရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.03-S016_reply01",
+              "text": "好，麻烦你了。",
+              "meaning_my": "ကောင်းပြီ၊ ကျေးဇူးပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -912,7 +1234,13 @@
           "id": "02.02.03-S018",
           "text": "我该怎么称呼他？",
           "meaning_my": "သူ့ကို ဘယ်လို ခေါ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.03-S018_reply01",
+              "text": "叫他李哥就行。",
+              "meaning_my": "သူ့ကို အစ်ကိုလီလို့ပဲ ခေါ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -923,8 +1251,20 @@
           "id": "02.02.03-S019",
           "text": "不用这么客气，叫我小王就行。",
           "meaning_my": "ဒီလောက် မအားနာပါနဲ့၊ ရှောင်ဝမ်လို့ပဲ ခေါ်ပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.03-S019_reply01",
+              "text": "好，那我叫你小王。",
+              "meaning_my": "ကောင်းပြီ၊ ဒါဆို ရှောင်ဝမ်လို့ ခေါ်မယ်နော်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.03-S019_alt01",
+              "text": "不用这么见外，叫我小王吧。",
+              "meaning_my": "ဒီလောက် မအားနာပါနဲ့၊ ရှောင်ဝမ်လို့ပဲ ခေါ်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -935,7 +1275,13 @@
           "text": "叫名字就行。",
           "meaning_my": "နာမည်ပဲ ခေါ်ပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.03-S020_alt01",
+              "text": "直接叫我名字吧。",
+              "meaning_my": "နာမည်ပဲ တိုက်ရိုက်ခေါ်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -989,8 +1335,20 @@
           "id": "02.02.03-S025",
           "text": "请问您是？",
           "meaning_my": "တစ်ဆိတ်လောက်၊ ဘယ်သူပါလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.03-S025_reply01",
+              "text": "我是小李，来找王经理。",
+              "meaning_my": "ရှောင်လီပါ၊ ဝမ်မန်နေဂျာနဲ့ လာတွေ့တာပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.03-S025_alt01",
+              "text": "请问，您是哪位？",
+              "meaning_my": "တစ်ဆိတ်လောက်၊ ဘယ်သူပါလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1043,8 +1401,20 @@
           "id": "02.02.04-S001",
           "text": "你家人都好吗？",
           "meaning_my": "မိသားစု အားလုံး နေကောင်းကြလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.04-S001_reply01",
+              "text": "都挺好的，谢谢。",
+              "meaning_my": "အားလုံး နေကောင်းကြတယ်၊ ကျေးဇူးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.04-S001_alt01",
+              "text": "家里都好吗？",
+              "meaning_my": "အိမ်မှာ အားလုံး နေကောင်းကြလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1065,8 +1435,20 @@
           "id": "02.02.04-S003",
           "text": "你爸妈身体好吗？",
           "meaning_my": "အဖေနဲ့အမေ နေကောင်းကြလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.04-S003_reply01",
+              "text": "挺好的，谢谢关心。",
+              "meaning_my": "နေကောင်းကြတယ်၊ ဂရုစိုက်မေးလို့ ကျေးဇူးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.04-S003_alt01",
+              "text": "你父母身体还好吗？",
+              "meaning_my": "မိဘတွေ နေကောင်းကြလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1087,12 +1469,31 @@
           "id": "02.02.04-S005",
           "text": "替我问好。",
           "meaning_my": "နှုတ်ဆက်ပါတယ်လို့ ပြောပေးပါဦး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.04-S005_reply01",
+              "text": "好，一定帮你带到。",
+              "meaning_my": "ကောင်းပြီ၊ သေချာ ပြောပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.04-S005_alt01",
+              "text": "帮我问个好。",
+              "meaning_my": "နှုတ်ဆက်ပါတယ်လို့ ပြောပေးပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“替我问好”要把问候转达给双方都知道的人，未说是谁时不应擅自指定“家人”。",
+              "text_my": "“替我问好” က တစ်ဖက်လူဆီ နှုတ်ဆက်စကား ပြန်ပြောပေးခိုင်းတာပါ။ ဘယ်သူ့ကိုလဲ မပြောထားရင် မိသားစုလို့ မသတ်မှတ်သင့်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.04-S006",
@@ -1109,7 +1510,13 @@
           "id": "02.02.04-S007",
           "text": "你最近给家里打电话了吗？",
           "meaning_my": "ဒီရက်ပိုင်း အိမ်ကို ဖုန်းဆက်ပြီးပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.04-S007_reply01",
+              "text": "打了，昨天刚打过。",
+              "meaning_my": "ဆက်ပြီးပြီ၊ မနေ့ကမှ ဆက်ထားတာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1120,7 +1527,13 @@
           "id": "02.02.04-S008",
           "text": "什么时候回老家？",
           "meaning_my": "ဘယ်တော့ ဇာတိကို ပြန်မလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.04-S008_reply01",
+              "text": "下个月回去。",
+              "meaning_my": "နောက်လ ပြန်မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1154,7 +1567,13 @@
           "text": "有空给家里打个电话。",
           "meaning_my": "အားရင် အိမ်ကို ဖုန်းဆက်ပါဦး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.04-S011_alt01",
+              "text": "有时间给家里打个电话。",
+              "meaning_my": "အချိန်ရရင် အိမ်ကို ဖုန်းဆက်ပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1191,7 +1610,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "单说“过年”在中国通常指农历春节；缅甸新年不是同一天。",
+              "text_my": "တရုတ်မှာ “过年” လို့ ပြောရင် ပုံမှန် တရုတ်နှစ်သစ်ကူးကို ဆိုလိုတယ်။ မြန်မာနှစ်သစ်ကူးနဲ့ နေ့မတူဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.04-S015",
@@ -1208,7 +1634,13 @@
           "id": "02.02.04-S016",
           "text": "你多久没回老家了？",
           "meaning_my": "ဇာတိမပြန်တာ ဘယ်လောက်ကြာပြီလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.04-S016_reply01",
+              "text": "差不多一年了。",
+              "meaning_my": "တစ်နှစ်လောက် ရှိပြီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1219,7 +1651,13 @@
           "id": "02.02.04-S017",
           "text": "你跟家里联系上了吗？",
           "meaning_my": "အိမ်ကလူတွေနဲ့ ဆက်သွယ်လို့ရပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.04-S017_reply01",
+              "text": "联系上了，都挺好的。",
+              "meaning_my": "ဆက်သွယ်လို့ရပြီ၊ အားလုံး အဆင်ပြေတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1230,7 +1668,13 @@
           "id": "02.02.04-S018",
           "text": "孩子上几年级了？",
           "meaning_my": "ကလေး ဘယ်နှတန်းတက်နေပြီလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.04-S018_reply01",
+              "text": "上三年级了。",
+              "meaning_my": "တတိယတန်း တက်နေပြီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1241,8 +1685,20 @@
           "id": "02.02.04-S019",
           "text": "我最近有点想家。",
           "meaning_my": "ဒီရက်ပိုင်း အိမ်ကို နည်းနည်းလွမ်းနေတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.04-S019_reply01",
+              "text": "我也是，有时候特别想家。",
+              "meaning_my": "ကိုယ်လည်း အဲဒီလိုပဲ၊ တစ်ခါတလေ အိမ်ကို အရမ်းလွမ်းတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.04-S019_alt01",
+              "text": "最近有点想家了。",
+              "meaning_my": "ဒီရက်ပိုင်း အိမ်ကို နည်းနည်းလွမ်းနေတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1318,8 +1774,20 @@
           "id": "02.02.04-S026",
           "text": "有什么需要帮忙的吗？",
           "meaning_my": "ကူညီပေးရမယ့်ဟာ ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.04-S026_reply01",
+              "text": "暂时不用，谢谢。",
+              "meaning_my": "လောလောဆယ် မလိုသေးပါဘူး၊ ကျေးဇူးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.04-S026_alt01",
+              "text": "有什么我能帮忙的吗？",
+              "meaning_my": "ကူညီပေးလို့ရမယ့်ဟာ တစ်ခုခုရှိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1361,8 +1829,20 @@
           "id": "02.02.05-S001",
           "text": "你平时喜欢干什么？",
           "meaning_my": "ပုံမှန် ဘာလုပ်ရတာ ကြိုက်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.05-S001_reply01",
+              "text": "我喜欢听歌。",
+              "meaning_my": "သီချင်း နားထောင်ရတာ ကြိုက်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.05-S001_alt01",
+              "text": "平时有什么爱好？",
+              "meaning_my": "ပုံမှန် ဘာဝါသနာ ရှိလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1372,8 +1852,20 @@
           "id": "02.02.05-S002",
           "text": "周末一般干嘛？",
           "meaning_my": "ပိတ်ရက်ဆို ပုံမှန် ဘာလုပ်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.05-S002_reply01",
+              "text": "一般在家休息。",
+              "meaning_my": "ပုံမှန် အိမ်မှာ နားတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.05-S002_alt01",
+              "text": "周末都做什么？",
+              "meaning_my": "ပိတ်ရက်ဆို ဘာတွေလုပ်လဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1383,7 +1875,13 @@
           "id": "02.02.05-S003",
           "text": "你喜欢运动吗？",
           "meaning_my": "အားကစား လုပ်ရတာ ကြိုက်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S003_reply01",
+              "text": "喜欢，周末会去打球。",
+              "meaning_my": "ကြိုက်တယ်၊ ပိတ်ရက်ဆို ဘောလုံးသွားကစားတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1406,7 +1904,13 @@
           "text": "我平时喜欢打游戏。",
           "meaning_my": "ပုံမှန် ဂိမ်းဆော့ရတာ ကြိုက်တယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.05-S005_alt01",
+              "text": "我平时爱玩游戏。",
+              "meaning_my": "ပုံမှန် ဂိမ်းဆော့ရတာ ကြိုက်တယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1416,7 +1920,13 @@
           "id": "02.02.05-S006",
           "text": "最近在看什么电视剧？",
           "meaning_my": "ဒီရက်ပိုင်း ဘာဇာတ်လမ်းတွဲ ကြည့်နေလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S006_reply01",
+              "text": "最近在看一部中国电视剧。",
+              "meaning_my": "ဒီရက်ပိုင်း တရုတ်ဇာတ်လမ်းတွဲတစ်ခု ကြည့်နေတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1438,8 +1948,20 @@
           "id": "02.02.05-S008",
           "text": "有空一起看电影吧。",
           "meaning_my": "အားရင် အတူတူ ရုပ်ရှင်ကြည့်ကြရအောင်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.05-S008_reply01",
+              "text": "好啊，周末怎么样？",
+              "meaning_my": "ကောင်းတာပေါ့၊ ပိတ်ရက်ဆိုရင်ရော။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.05-S008_alt01",
+              "text": "改天一起去看电影吧。",
+              "meaning_my": "နောက်နေ့ အတူ ရုပ်ရှင်သွားကြည့်ကြရအောင်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1449,7 +1971,13 @@
           "id": "02.02.05-S009",
           "text": "你平时听什么音乐？",
           "meaning_my": "ပုံမှန် ဘာသီချင်း နားထောင်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S009_reply01",
+              "text": "我喜欢听中文歌。",
+              "meaning_my": "တရုတ်သီချင်း နားထောင်ရတာ ကြိုက်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1470,13 +1998,26 @@
         {
           "id": "02.02.05-S011",
           "text": "下次一起打球吧。",
-          "meaning_my": "နောက်တစ်ခါ အတူတူ ဘောလုံးကစားကြရအောင်။",
+          "meaning_my": "နောက်တစ်ခါ အတူတူ ဘောလုံးတစ်မျိုးမျိုး သွားကစားကြရအောင်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.05-S011_alt01",
+              "text": "下次一起去打球。",
+              "meaning_my": "နောက်တစ်ခါ အတူတူ ဘောလုံးကစားကြမယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“打球”可指打篮球、羽毛球等球类运动，单靠这句话不能断定是踢足球。",
+              "text_my": "“打球” က ဘတ်စကတ်ဘော၊ ကြက်တောင်စတဲ့ ဘောလုံးနဲ့ကစားတဲ့ အားကစားတွေကို ဆိုနိုင်တယ်။ ဘောလုံးကန်တာပဲလို့ မသတ်မှတ်သင့်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.05-S012",
@@ -1492,7 +2033,7 @@
         {
           "id": "02.02.05-S013",
           "text": "我平时喜欢健身。",
-          "meaning_my": "ပုံမှန် ကိုယ်လက်လှုပ်ရှား လေ့ကျင့်တာ ကြိုက်တယ်။",
+          "meaning_my": "ပုံမှန် ဂျင်သွားပြီး လေ့ကျင့်ရတာ ကြိုက်တယ်။",
           "replies": [],
           "alternatives": [],
           "pinyin": null,
@@ -1531,13 +2072,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“加油”可表示鼓励、打气，不一定是要去加汽油。",
+              "text_my": "“加油” က အားပေးတဲ့စကားလည်း ဖြစ်တယ်။ ဓာတ်ဆီဖြည့်တာပဲ မဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.02.05-S017",
           "text": "有空一起练中文吧。",
           "meaning_my": "အားရင် အတူတူ တရုတ်စကား လေ့ကျင့်ကြရအောင်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S017_reply01",
+              "text": "好，一起练吧。",
+              "meaning_my": "ကောင်းပြီ၊ အတူတူ လေ့ကျင့်ကြမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1548,7 +2102,13 @@
           "id": "02.02.05-S018",
           "text": "电影有中文字幕吗？",
           "meaning_my": "ရုပ်ရှင်မှာ တရုတ်စာတန်းထိုး ပါလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S018_reply01",
+              "text": "有，可以打开字幕。",
+              "meaning_my": "ပါတယ်၊ စာတန်းထိုး ဖွင့်လို့ရတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1559,7 +2119,13 @@
           "id": "02.02.05-S019",
           "text": "你喜欢看什么电影？",
           "meaning_my": "ဘယ်လိုရုပ်ရှင်မျိုး ကြိုက်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S019_reply01",
+              "text": "我喜欢看喜剧。",
+              "meaning_my": "ဟာသရုပ်ရှင်တွေ ကြိုက်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1570,7 +2136,13 @@
           "id": "02.02.05-S020",
           "text": "有好看的电影推荐吗？",
           "meaning_my": "ကောင်းတဲ့ ရုပ်ရှင်လေးတွေ ညွှန်းပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S020_reply01",
+              "text": "有，我发给你。",
+              "meaning_my": "ရှိတယ်၊ ပို့ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1580,9 +2152,15 @@
         {
           "id": "02.02.05-S021",
           "text": "你下班后一般干什么？",
-          "meaning_my": "အလုပ်ပြီးရင် ပုံမှန် ဘာလုပ်လေ့ရှိလဲ။",
+          "meaning_my": "အလုပ်ဆင်းပြီးရင် ပုံမှန် ဘာလုပ်လေ့ရှိလဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.05-S021_alt01",
+              "text": "下班一般做什么？",
+              "meaning_my": "အလုပ်ပြီးရင် ပုံမှန် ဘာလုပ်လဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1658,8 +2236,20 @@
           "id": "02.02.05-S028",
           "text": "这个周末你有安排吗？",
           "meaning_my": "ဒီစနေ၊ တနင်္ဂနွေ အစီအစဉ်ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.02.05-S028_reply01",
+              "text": "还没安排，怎么了？",
+              "meaning_my": "အစီအစဉ် မရှိသေးဘူး၊ ဘာလို့လဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.02.05-S028_alt01",
+              "text": "这周末有空吗？",
+              "meaning_my": "ဒီစနေ၊ တနင်္ဂနွေ အားလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1669,7 +2259,13 @@
           "id": "02.02.05-S029",
           "text": "周末一起去吃饭吧。",
           "meaning_my": "စနေ၊ တနင်္ဂနွေ အတူ ထမင်းသွားစားကြရအောင်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S029_reply01",
+              "text": "好啊，去哪儿吃？",
+              "meaning_my": "ကောင်းတာပေါ့၊ ဘယ်မှာ သွားစားကြမလဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1691,7 +2287,13 @@
           "id": "02.02.05-S031",
           "text": "我也想试试。",
           "meaning_my": "စမ်းကြည့်ချင်တယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S031_reply01",
+              "text": "我也想试试。",
+              "meaning_my": "စမ်းကြည့်ချင်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1703,7 +2305,13 @@
           "text": "听起来挺有意思的。",
           "meaning_my": "ကြားရတာ စိတ်ဝင်စားဖို့ ကောင်းတယ်နော်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.02.05-S032_alt01",
+              "text": "听着挺有意思。",
+              "meaning_my": "ကြားရတာ စိတ်ဝင်စားဖို့ ကောင်းတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1713,7 +2321,13 @@
           "id": "02.02.05-S033",
           "text": "有空教教我。",
           "meaning_my": "အားရင် သင်ပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.02.05-S033_reply01",
+              "text": "好，等我有空教你。",
+              "meaning_my": "ကောင်းပြီ၊ အားတဲ့အခါ သင်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1722,5 +2336,10 @@
         }
       ]
     }
-  ]
+  ],
+  "extras_summary": {
+    "replies": 52,
+    "alternatives": 34,
+    "notes": 14
+  }
 }
