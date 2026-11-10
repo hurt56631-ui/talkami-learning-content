@@ -1,0 +1,748 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v2",
+  "status": "draft",
+  "theme_id": "01.04",
+  "theme_title": "提问确认",
+  "theme_title_my": "မေးမြန်းခြင်းနှင့် အတည်ပြုခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 99,
+  "original_count": 60,
+  "added_count": 39,
+  "note": "独立新版候选稿，原60句主句ID及中文保持不变，少量缅语释义微调；补入39句高频提问、指路与确认表达。后续补充回复、类似说法与双语说明；缅语母语终审和配音尚未完成。",
+  "scenes": [
+    {
+      "id": "01.04.01",
+      "title": "询问名称、用途与回应",
+      "title_my": "အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "phrase_count": 19,
+      "original_count": 11,
+      "added_count": 8,
+      "phrases": [
+        {
+          "id": "01.04.01-S001",
+          "text": "这是什么？",
+          "meaning_my": "ဒါဘာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S002",
+          "text": "这个叫什么？",
+          "meaning_my": "ဒါကို ဘယ်လိုခေါ်လဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S003",
+          "text": "这是干什么用的？",
+          "meaning_my": "ဒါကို ဘာအတွက် သုံးတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S004",
+          "text": "这个怎么用？",
+          "meaning_my": "ဒါကို ဘယ်လိုသုံးရလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S005",
+          "text": "这个用中文怎么说？",
+          "meaning_my": "ဒါကို တရုတ်လို ဘယ်လိုပြောလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S006",
+          "text": "这个字怎么读？",
+          "meaning_my": "ဒီတရုတ်စာလုံးကို ဘယ်လိုအသံထွက်ရလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S007",
+          "text": "这个和那个有什么区别？",
+          "meaning_my": "ဒီနှစ်ခု ဘာကွာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S008",
+          "text": "用缅语怎么说？",
+          "meaning_my": "မြန်မာလို ဘယ်လိုပြောလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S009",
+          "text": "这两个一样吗？",
+          "meaning_my": "ဒီနှစ်ခု တူလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S010",
+          "text": "不一样，这个大一点。",
+          "meaning_my": "မတူဘူး၊ ဒါက နည်းနည်း ပိုကြီးတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S011",
+          "text": "这个怎么打开？",
+          "meaning_my": "ဒါကို ဘယ်လိုဖွင့်ရလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S012",
+          "text": "这个是什么意思？",
+          "meaning_my": "ဒါက ဘာအဓိပ္ပာယ်လဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S013",
+          "text": "这个怎么关？",
+          "meaning_my": "ဒါကို ဘယ်လိုပိတ်ရလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S014",
+          "text": "这个怎么弄？",
+          "meaning_my": "ဒါကို ဘယ်လိုလုပ်ရလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S015",
+          "text": "这个能吃吗？",
+          "meaning_my": "ဒါကို စားလို့ရလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S016",
+          "text": "这个还能用吗？",
+          "meaning_my": "ဒါကို သုံးလို့ရသေးလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S017",
+          "text": "这个坏了吗？",
+          "meaning_my": "ဒါ ပျက်သွားပြီလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S018",
+          "text": "这里写的是什么？",
+          "meaning_my": "ဒီမှာ ဘာရေးထားတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.01-S019",
+          "text": "要按哪个按钮？",
+          "meaning_my": "ဘယ်ခလုတ်ကို နှိပ်ရမလဲ။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.04.02",
+      "title": "问路、指路与回应",
+      "title_my": "လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "phrase_count": 31,
+      "original_count": 18,
+      "added_count": 13,
+      "phrases": [
+        {
+          "id": "01.04.02-S001",
+          "text": "厕所在哪儿？",
+          "meaning_my": "အိမ်သာ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S002",
+          "text": "往哪边走？",
+          "meaning_my": "ဘယ်ဘက်ကို သွားရမလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S003",
+          "text": "去车站怎么走？",
+          "meaning_my": "ကားဂိတ်ကို ဘယ်လိုသွားရမလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S004",
+          "text": "先下楼，再往右走。",
+          "meaning_my": "အရင် အောက်ဆင်းပြီး ညာဘက်ကို သွားပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S005",
+          "text": "在这边吗？",
+          "meaning_my": "ဒီဘက်မှာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S006",
+          "text": "楼上还是楼下？",
+          "meaning_my": "အပေါ်ထပ်လား၊ အောက်ထပ်လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S007",
+          "text": "附近有便利店吗？",
+          "meaning_my": "ဒီနားမှာ စတိုးဆိုင် ရှိလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S008",
+          "text": "这附近没有，得走远一点。",
+          "meaning_my": "ဒီနားမှာ မရှိဘူး၊ နည်းနည်း ဝေးဝေးသွားရမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S009",
+          "text": "离这里远吗？",
+          "meaning_my": "ဒီကနေ ဝေးလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S010",
+          "text": "有点远，最好坐车。",
+          "meaning_my": "နည်းနည်းဝေးတယ်၊ ကားစီးသွားတာ ပိုကောင်းမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S011",
+          "text": "从哪个门进去？",
+          "meaning_my": "ဘယ်တံခါးက ဝင်ရမလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S012",
+          "text": "入口在哪儿？",
+          "meaning_my": "ဝင်ပေါက် ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S013",
+          "text": "哪个出口近？",
+          "meaning_my": "ဘယ်ထွက်ပေါက်က ပိုနီးလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S014",
+          "text": "要上楼吗？",
+          "meaning_my": "အပေါ်တက်ရမလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S015",
+          "text": "电梯在哪儿？",
+          "meaning_my": "ဓာတ်လှေကား ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S016",
+          "text": "地铁口在哪边？",
+          "meaning_my": "မြေအောက်ရထား ဝင်ပေါက်က ဘယ်ဘက်မှာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S017",
+          "text": "我是不是走错了？",
+          "meaning_my": "လမ်းမှားသွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S018",
+          "text": "从这边能过去吗？",
+          "meaning_my": "ဒီဘက်ကနေ ဖြတ်သွားလို့ရလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S019",
+          "text": "直走。",
+          "meaning_my": "တည့်တည့်သွားပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S020",
+          "text": "左转。",
+          "meaning_my": "ဘယ်ဘက်ကွေ့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S021",
+          "text": "右转。",
+          "meaning_my": "ညာဘက်ကွေ့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S022",
+          "text": "就在前面。",
+          "meaning_my": "ရှေ့နားမှာပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S023",
+          "text": "在二楼。",
+          "meaning_my": "ဒုတိယထပ်မှာ ရှိတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S024",
+          "text": "在马路对面。",
+          "meaning_my": "ကားလမ်းတစ်ဖက်ခြမ်းမှာ ရှိတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S025",
+          "text": "过了红绿灯右转。",
+          "meaning_my": "မီးပွိုင့်ကို ကျော်ပြီး ညာဘက်ကွေ့ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S026",
+          "text": "很近，走路五分钟。",
+          "meaning_my": "နီးနီးလေးပါ၊ လမ်းလျှောက် ငါးမိနစ်လောက်ပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S027",
+          "text": "你走反了。",
+          "meaning_my": "လမ်းပြောင်းပြန် သွားမိပြီ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S028",
+          "text": "我也不太清楚。",
+          "meaning_my": "ဒီဘက်လည်း သိပ်မသိဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S029",
+          "text": "我带你过去。",
+          "meaning_my": "လိုက်ပို့ပေးမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S030",
+          "text": "到路口再问一下。",
+          "meaning_my": "လမ်းဆုံရောက်ရင် ထပ်မေးကြည့်ပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.02-S031",
+          "text": "走过去要多久？",
+          "meaning_my": "လမ်းလျှောက်သွားရင် ဘယ်လောက်ကြာမလဲ။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.04.03",
+      "title": "询问人物、归属与负责人",
+      "title_my": "လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+      "phrase_count": 22,
+      "original_count": 14,
+      "added_count": 8,
+      "phrases": [
+        {
+          "id": "01.04.03-S001",
+          "text": "这是谁的？",
+          "meaning_my": "ဒါ ဘယ်သူ့ဟာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S002",
+          "text": "不知道，不是我的。",
+          "meaning_my": "မသိဘူး၊ ကိုယ့်ဟာ မဟုတ်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S003",
+          "text": "是你的吗？",
+          "meaning_my": "ဒါ ခင်ဗျားဟာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S004",
+          "text": "哪位是主管？",
+          "meaning_my": "ဘယ်သူက ကြီးကြပ်ရေးမှူးလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S005",
+          "text": "这是谁放在这儿的？",
+          "meaning_my": "ဒါကို ဘယ်သူ ဒီမှာထားခဲ့တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S006",
+          "text": "我该找谁？",
+          "meaning_my": "ဘယ်သူ့ဆီ သွားမေးရမလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S007",
+          "text": "经理在吗？",
+          "meaning_my": "မန်နေဂျာ ရှိလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S008",
+          "text": "这个要交给谁？",
+          "meaning_my": "ဒါကို ဘယ်သူ့ဆီ ပေးရမလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S009",
+          "text": "谁能处理这个？",
+          "meaning_my": "ဒီကိစ္စကို ဘယ်သူ ဖြေရှင်းပေးနိုင်လဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S010",
+          "text": "这个得找技术人员。",
+          "meaning_my": "ဒီကိစ္စကို နည်းပညာဝန်ထမ်းဆီ အကူအညီတောင်းရမယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S011",
+          "text": "请问您找谁？",
+          "meaning_my": "ဘယ်သူနဲ့ တွေ့ချင်တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S012",
+          "text": "刚才是谁打的电话？",
+          "meaning_my": "ခုနက ဘယ်သူ ဖုန်းဆက်တာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S013",
+          "text": "是谁告诉你的？",
+          "meaning_my": "ဘယ်သူက ပြောပြတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S014",
+          "text": "今天谁负责这件事？",
+          "meaning_my": "ဒီနေ့ ဒီကိစ္စကို ဘယ်သူ တာဝန်ယူထားတာလဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S015",
+          "text": "这是我的。",
+          "meaning_my": "ဒါ ကိုယ့်ဟာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S016",
+          "text": "这是他的。",
+          "meaning_my": "ဒါ သူ့ဟာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S017",
+          "text": "这不是我的。",
+          "meaning_my": "ဒါ ကိုယ့်ဟာ မဟုတ်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S018",
+          "text": "负责人不在。",
+          "meaning_my": "တာဝန်ရှိသူ အခု မရှိဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S019",
+          "text": "他刚出去了。",
+          "meaning_my": "သူ အခုလေးတင် အပြင်ထွက်သွားတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S020",
+          "text": "我是来找他的。",
+          "meaning_my": "သူ့ကို လာတွေ့တာပါ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S021",
+          "text": "能帮我叫一下负责人吗？",
+          "meaning_my": "တာဝန်ရှိသူကို ခဏခေါ်ပေးလို့ ရမလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.03-S022",
+          "text": "我去叫他。",
+          "meaning_my": "သူ့ကို သွားခေါ်လိုက်မယ်။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    },
+    {
+      "id": "01.04.04",
+      "title": "核实信息与回应",
+      "title_my": "အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "phrase_count": 27,
+      "original_count": 17,
+      "added_count": 10,
+      "phrases": [
+        {
+          "id": "01.04.04-S001",
+          "text": "不是，是旁边那个。",
+          "meaning_my": "မဟုတ်ဘူး၊ ဘေးနားက ဟာ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S002",
+          "text": "这样对吗？",
+          "meaning_my": "ဒီလိုလုပ်တာ မှန်လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S003",
+          "text": "这样可以吗？",
+          "meaning_my": "ဒီလိုလုပ်လို့ရလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S004",
+          "text": "时间是三点，对吗？",
+          "meaning_my": "သုံးနာရီ ဟုတ်တယ်နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S005",
+          "text": "有。",
+          "meaning_my": "ရှိတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S006",
+          "text": "你的意思是先等一下？",
+          "meaning_my": "ဆိုလိုတာက အရင်စောင့်ရမယ်ပေါ့နော်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S007",
+          "text": "这个是免费的吗？",
+          "meaning_my": "ဒါ အခမဲ့လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S008",
+          "text": "我们在门口见，对吧？",
+          "meaning_my": "တံခါးဝမှာ တွေ့ကြမယ်နော်၊ ဟုတ်တယ်မလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S009",
+          "text": "没有。",
+          "meaning_my": "မရှိဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S010",
+          "text": "一共五个，对吗？",
+          "meaning_my": "စုစုပေါင်း ငါးခုနော်၊ ဟုတ်လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S011",
+          "text": "不对。",
+          "meaning_my": "မမှန်ဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S012",
+          "text": "不可以。",
+          "meaning_my": "မရဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S013",
+          "text": "你是说今天就要？",
+          "meaning_my": "ဒီနေ့ပဲ လုပ်ရမယ်လို့ ပြောတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S014",
+          "text": "这么填对吗？",
+          "meaning_my": "ဒီလိုဖြည့်တာ မှန်လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S015",
+          "text": "现在做还是等会儿做？",
+          "meaning_my": "အခုလုပ်မလား၊ ခဏနေမှလုပ်မလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S016",
+          "text": "你说的是这个号码吗？",
+          "meaning_my": "ဒီနံပါတ်ကို ပြောတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S017",
+          "text": "真的吗？",
+          "meaning_my": "တကယ်လား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S018",
+          "text": "没错。",
+          "meaning_my": "မှန်တယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S019",
+          "text": "你确定吗？",
+          "meaning_my": "သေချာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S020",
+          "text": "确定。",
+          "meaning_my": "သေချာတယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S021",
+          "text": "不确定。",
+          "meaning_my": "မသေချာဘူး။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S022",
+          "text": "我再确认一下。",
+          "meaning_my": "ထပ်ပြီး သေချာစစ်ကြည့်လိုက်မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S023",
+          "text": "我是不是理解错了？",
+          "meaning_my": "နားလည်မှားသွားတာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S024",
+          "text": "就是这一个。",
+          "meaning_my": "ဒီတစ်ခုပဲ။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S025",
+          "text": "我再问问别人。",
+          "meaning_my": "တခြားသူကို ထပ်မေးကြည့်မယ်။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S026",
+          "text": "这是最新的吗？",
+          "meaning_my": "ဒါ နောက်ဆုံးအသစ်ဆုံးဟာလား။",
+          "replies": [],
+          "alternatives": []
+        },
+        {
+          "id": "01.04.04-S027",
+          "text": "是这个地址吗？",
+          "meaning_my": "ဒီလိပ်စာ ဟုတ်လား။",
+          "replies": [],
+          "alternatives": []
+        }
+      ]
+    }
+  ]
+}
