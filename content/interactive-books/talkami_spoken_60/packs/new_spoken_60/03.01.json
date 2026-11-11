@@ -1,0 +1,1906 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "03.01",
+  "theme_title": "起居作息",
+  "theme_title_my": "နေ့စဉ် နေထိုင်မှုနှင့် အနားယူခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 116,
+  "original_count": 73,
+  "added_count": 43,
+  "note": "根据用户原81句及新增67句建议，人工优选116句主句并按场景高频实用性重排；不做凑数回复，部分缅语译法修订。未配音、拼音/缅语谐音未生成；中缅母语老师仍需终审。",
+  "source_counts": {
+    "user_original": 81,
+    "user_proposed_additions": 67,
+    "selected_main": 116,
+    "selected_from_original": 73,
+    "selected_from_additions": 43
+  },
+  "scenes": [
+    {
+      "id": "03.01.01",
+      "title": "起床睡觉",
+      "title_my": "အိပ်ရာထခြင်းနှင့် အိပ်ခြင်း",
+      "phrase_count": 32,
+      "phrases": [
+        {
+          "id": "03.01.01-S001",
+          "text": "你平时几点起床？",
+          "meaning_my": "ပုံမှန် မနက် ဘယ်နှနာရီ အိပ်ရာထလဲ။",
+          "replies": [
+            {
+              "id": "03.01.01-S001_reply01",
+              "text": "一般七点左右。",
+              "meaning_my": "ပုံမှန် မနက် ခုနစ်နာရီလောက်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.01.01-S001_alt01",
+              "text": "平时几点起？",
+              "meaning_my": "ပုံမှန် ဘယ်နှနာရီထလဲ။"
+            }
+          ],
+          "source_ref": "user_original_03.01.01_B022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S002",
+          "text": "我七点起床。",
+          "meaning_my": "မနက် ခုနစ်နာရီမှာ အိပ်ရာထတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S003",
+          "text": "明早几点起？",
+          "meaning_my": "မနက်ဖြန် မနက် ဘယ်နှနာရီထမလဲ။",
+          "replies": [
+            {
+              "id": "03.01.01-S003_reply01",
+              "text": "六点，得早点出门。",
+              "meaning_my": "မနက် ခြောက်နာရီ၊ စောစောထွက်ရမှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S004",
+          "text": "明天我要早起。",
+          "meaning_my": "မနက်ဖြန် စောစောထရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S005",
+          "text": "该起床了。",
+          "meaning_my": "အိပ်ရာထချိန် ရောက်ပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S006",
+          "text": "再睡五分钟。",
+          "meaning_my": "နောက်ထပ် ငါးမိနစ်လောက် အိပ်ဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S007",
+          "text": "我起不来。",
+          "meaning_my": "အိပ်ရာက မထနိုင်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S008",
+          "text": "我刚起床。",
+          "meaning_my": "အခုမှ အိပ်ရာထတာ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S009",
+          "text": "我睡过头了。",
+          "meaning_my": "အိပ်ရာထ နောက်ကျသွားတယ်။",
+          "replies": [
+            {
+              "id": "03.01.01-S009_reply01",
+              "text": "那快点，要迟到了。",
+              "meaning_my": "ဒါဆို မြန်မြန်လုပ်၊ နောက်ကျတော့မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.01.01-S009_alt01",
+              "text": "我起晚了。",
+              "meaning_my": "အိပ်ရာထ နောက်ကျသွားတယ်။"
+            }
+          ],
+          "source_ref": "user_original_03.01.01_B007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“睡过头”是超过计划起床时间，不只是周末起得晚。",
+              "text_my": "“睡过头” ဆိုတာ ထရမယ့်အချိန်ထက် နောက်ကျမှနိုးတာပါ။ ပိတ်ရက်မှာ ပုံမှန်နောက်ကျထတာနဲ့ မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.01.01-S010",
+          "text": "闹钟没响。",
+          "meaning_my": "နှိုးစက် မမြည်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S011",
+          "text": "我忘了设闹钟。",
+          "meaning_my": "နှိုးစက်ချိန်ဖို့ မေ့သွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S012",
+          "text": "明早记得叫我。",
+          "meaning_my": "မနက်ဖြန်မနက် နှိုးပေးဖို့ မမေ့နဲ့နော်။",
+          "replies": [
+            {
+              "id": "03.01.01-S012_reply01",
+              "text": "好，七点叫你。",
+              "meaning_my": "အင်း၊ မနက် ခုနစ်နာရီ နှိုးပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S013",
+          "text": "闹钟响了吗？",
+          "meaning_my": "နှိုးစက် မြည်ပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S014",
+          "text": "你几点睡？",
+          "meaning_my": "ည ဘယ်နှနာရီမှာ အိပ်လဲ။",
+          "replies": [
+            {
+              "id": "03.01.01-S014_reply01",
+              "text": "一般十一点左右。",
+              "meaning_my": "ပုံမှန် ည ဆယ့်တစ်နာရီလောက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S015",
+          "text": "我一般十一点左右睡。",
+          "meaning_my": "ပုံမှန် ည ဆယ့်တစ်နာရီလောက် အိပ်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S016",
+          "text": "你昨晚几点睡的？",
+          "meaning_my": "မနေ့ညက ဘယ်နှနာရီလောက် အိပ်တာလဲ။",
+          "replies": [
+            {
+              "id": "03.01.01-S016_reply01",
+              "text": "差不多十二点。",
+              "meaning_my": "ည ဆယ့်နှစ်နာရီလောက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N15",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S017",
+          "text": "最近都睡得比较晚。",
+          "meaning_my": "ဒီရက်ပိုင်း ညဘက် နောက်ကျမှ အိပ်ဖြစ်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S018",
+          "text": "周末我一般起得晚。",
+          "meaning_my": "ပိတ်ရက်ဆို ပုံမှန်ထက် နောက်ကျမှ အိပ်ရာထတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S019",
+          "text": "昨晚没睡好。",
+          "meaning_my": "မနေ့ညက ကောင်းကောင်း မအိပ်ရဘူး။",
+          "replies": [
+            {
+              "id": "03.01.01-S019_reply01",
+              "text": "怎么了，睡不着吗？",
+              "meaning_my": "ဘာဖြစ်လို့လဲ၊ အိပ်မပျော်ဘူးလား။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.01.01-S019_alt01",
+              "text": "昨晚没怎么睡好。",
+              "meaning_my": "မနေ့ညက ကောင်းကောင်း မအိပ်ရဘူး။"
+            }
+          ],
+          "source_ref": "user_original_03.01.01_B010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S020",
+          "text": "我有点困。",
+          "meaning_my": "နည်းနည်း အိပ်ငိုက်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S021",
+          "text": "我今天想早点睡。",
+          "meaning_my": "ဒီနေ့ စောစောအိပ်ချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S022",
+          "text": "我先睡了。",
+          "meaning_my": "အရင် အိပ်တော့မယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.01-S022_alt01",
+              "text": "我睡啦。",
+              "meaning_my": "အိပ်တော့မယ်နော်။"
+            }
+          ],
+          "source_ref": "user_original_03.01.01_B006",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S023",
+          "text": "该睡了。",
+          "meaning_my": "အိပ်ချိန်ရောက်ပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S024",
+          "text": "别睡太晚。",
+          "meaning_my": "ည အရမ်းနောက်ကျမှ မအိပ်နဲ့နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S025",
+          "text": "我睡不着。",
+          "meaning_my": "အိပ်မပျော်ဘူး။",
+          "replies": [
+            {
+              "id": "03.01.01-S025_reply01",
+              "text": "先别看手机了。",
+              "meaning_my": "ဖုန်း ခဏမကြည့်နဲ့ဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.01.01-S025_alt01",
+              "text": "睡不着觉。",
+              "meaning_my": "အိပ်မပျော်ဘူး။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.01_N08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“睡不着”是现在难以入睡；“失眠”通常更强调持续的睡眠问题。",
+              "text_my": "“睡不着” က အခု အိပ်မပျော်တာကို ပြောတာပါ။ “失眠” က မကြာခဏ အိပ်မပျော်တဲ့ ပြဿနာကို ပိုဆိုလိုတတ်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "03.01.01-S026",
+          "text": "我作息不太规律。",
+          "meaning_my": "အိပ်ချိန်၊ အိပ်ရာထချိန် သိပ်မမှန်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S027",
+          "text": "我习惯早睡早起。",
+          "meaning_my": "ပုံမှန် စောစောအိပ်ပြီး စောစောထတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S028",
+          "text": "睡前别玩手机。",
+          "meaning_my": "မအိပ်ခင် ဖုန်းသိပ်မသုံးနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S029",
+          "text": "睡前记得关灯。",
+          "meaning_my": "မအိပ်ခင် မီးပိတ်ဖို့ မမေ့နဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.01_B014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S030",
+          "text": "我先关灯了。",
+          "meaning_my": "မီး အရင်ပိတ်လိုက်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S031",
+          "text": "我午睡了一会儿。",
+          "meaning_my": "နေ့လယ် ခဏအိပ်လိုက်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.01-S032",
+          "text": "我一躺下就睡着了。",
+          "meaning_my": "လှဲလိုက်တာနဲ့ အိပ်ပျော်သွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.01_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.01.02",
+      "title": "洗漱洗澡",
+      "title_my": "သွားတိုက်၊ မျက်နှာသစ်၊ ရေချိုးခြင်း",
+      "phrase_count": 30,
+      "phrases": [
+        {
+          "id": "03.01.02-S001",
+          "text": "我去洗澡。",
+          "meaning_my": "ရေချိုးသွားဦးမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.02-S001_alt01",
+              "text": "我去冲个澡。",
+              "meaning_my": "ရေချိုးလိုက်ဦးမယ်။"
+            }
+          ],
+          "source_ref": "user_original_03.01.02_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S002",
+          "text": "洗完了吗？我也要用。",
+          "meaning_my": "ရေချိုးပြီးပြီလား၊ ဆက်သုံးချင်လို့။",
+          "replies": [
+            {
+              "id": "03.01.02-S002_reply01",
+              "text": "快了，再等五分钟。",
+              "meaning_my": "ပြီးတော့မယ်၊ နောက်ထပ် ငါးမိနစ်လောက် စောင့်ပေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S003",
+          "text": "卫生间有人吗？",
+          "meaning_my": "အိမ်သာထဲ လူရှိလား။",
+          "replies": [
+            {
+              "id": "03.01.02-S003_reply01",
+              "text": "有人，稍等一下。",
+              "meaning_my": "ရှိတယ်၊ ခဏစောင့်ဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S004",
+          "text": "里面有人。",
+          "meaning_my": "အထဲမှာ လူရှိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S005",
+          "text": "我去刷牙洗脸。",
+          "meaning_my": "သွားတိုက်ပြီး မျက်နှာသစ်ဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "刷牙=သွားတိုက်，洗脸=မျက်နှာသစ်，洗头=ခေါင်းလျှော်；不要都译成“洗”。",
+              "text_my": "“刷牙” က သွားတိုက်၊ “洗脸” က မျက်နှာသစ်၊ “洗头” က ခေါင်းလျှော် ပါ။ လုပ်ဆောင်ချက်တွေ မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.01.02-S006",
+          "text": "我先去洗把脸。",
+          "meaning_my": "မျက်နှာ အရင်သစ်ဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.02_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S007",
+          "text": "牙刷在哪儿？",
+          "meaning_my": "သွားတိုက်တံ ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.01.02-S007_reply01",
+              "text": "在洗手台上。",
+              "meaning_my": "လက်ဆေးဘေစင်ပေါ်မှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S008",
+          "text": "牙膏没了。",
+          "meaning_my": "သွားတိုက်ဆေး ကုန်သွားပြီ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.02-S008_alt01",
+              "text": "牙膏用完了。",
+              "meaning_my": "သွားတိုက်ဆေး ကုန်သွားပြီ။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.02_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S009",
+          "text": "毛巾在哪儿？",
+          "meaning_my": "မျက်နှာသုတ်ပဝါ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S010",
+          "text": "能帮我拿条毛巾吗？",
+          "meaning_my": "မျက်နှာသုတ်ပဝါ တစ်ထည်လောက် ယူပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S011",
+          "text": "洗发水放哪儿了？",
+          "meaning_my": "ခေါင်းလျှော်ရည် ဘယ်မှာထားလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S012",
+          "text": "洗发水快用完了。",
+          "meaning_my": "ခေါင်းလျှော်ရည် ကုန်တော့မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.02_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S013",
+          "text": "肥皂在哪儿？",
+          "meaning_my": "ဆပ်ပြာ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.02_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S014",
+          "text": "我先洗个头。",
+          "meaning_my": "အရင် ခေါင်းလျှော်ဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S015",
+          "text": "我忘带毛巾了。",
+          "meaning_my": "မျက်နှာသုတ်ပဝါ ယူဖို့ မေ့သွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S016",
+          "text": "有热水吗？",
+          "meaning_my": "ရေနွေး ရလား။",
+          "replies": [
+            {
+              "id": "03.01.02-S016_reply01",
+              "text": "有，但要等一会儿。",
+              "meaning_my": "ရတယ်၊ ဒါပေမဲ့ ခဏစောင့်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "洗澡用的“热水”与饮用的“开水”（烧开过的水）不同。",
+              "text_my": "ရေချိုးတဲ့ “热水” က ရေနွေးဖြစ်ပြီး သောက်ဖို့ ရေကျိုထားတဲ့ “开水” နဲ့ မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.01.02-S017",
+          "text": "热水怎么开？",
+          "meaning_my": "ရေနွေး ဘယ်လိုဖွင့်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.01.02-S017_reply01",
+              "text": "往红色那边转。",
+              "meaning_my": "အနီရောင်ဘက်ကို လှည့်လိုက်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.01.02-S017_alt01",
+              "text": "怎么开热水？",
+              "meaning_my": "ရေနွေး ဘယ်လိုဖွင့်ရမလဲ။"
+            }
+          ],
+          "source_ref": "user_original_03.01.02_B004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S018",
+          "text": "热水器刚打开，还得等一会儿。",
+          "meaning_my": "ရေပူစက် အခုမှ ဖွင့်ထားတာ၊ ခဏစောင့်ရဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S019",
+          "text": "热水要等多久？",
+          "meaning_my": "ရေနွေးရဖို့ ဘယ်လောက်စောင့်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.01.02-S019_reply01",
+              "text": "再等两分钟。",
+              "meaning_my": "နောက်ထပ် နှစ်မိနစ်လောက် စောင့်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S020",
+          "text": "水太凉了。",
+          "meaning_my": "ရေ အရမ်းအေးနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B006",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S021",
+          "text": "水温怎么调？",
+          "meaning_my": "ရေအပူချိန် ဘယ်လိုချိန်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.01.02-S021_reply01",
+              "text": "往热水那边调一点。",
+              "meaning_my": "ရေနွေးဘက်ကို နည်းနည်း လှည့်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S022",
+          "text": "往热水那边调一点。",
+          "meaning_my": "ရေနွေးဘက်ကို နည်းနည်း လှည့်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S023",
+          "text": "慢慢调，先试试水温。",
+          "meaning_my": "ဖြည်းဖြည်းချိန်၊ ရေအပူချိန်ကို အရင်စမ်းကြည့်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S024",
+          "text": "热水还没出来。",
+          "meaning_my": "ရေနွေး မလာသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S025",
+          "text": "洗完记得关水龙头。",
+          "meaning_my": "ရေချိုးပြီးရင် ရေဘုံဘိုင်ပိတ်ဖို့ မမေ့နဲ့နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.02_B019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S026",
+          "text": "水太小了。",
+          "meaning_my": "ရေထွက်အား နည်းလွန်းတယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.02-S026_alt01",
+              "text": "出水太小了。",
+              "meaning_my": "ရေထွက်အား နည်းလွန်းတယ်။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.02_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S027",
+          "text": "下水道堵了。",
+          "meaning_my": "ရေဆင်းပိုက် ပိတ်နေတယ်။",
+          "replies": [
+            {
+              "id": "03.01.02-S027_reply01",
+              "text": "先别放水了。",
+              "meaning_my": "ရေ မဖွင့်နဲ့ဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.01.02-S027_alt01",
+              "text": "排水管堵了。",
+              "meaning_my": "ရေဆင်းပိုက် ပိတ်နေတယ်။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.02_N09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S028",
+          "text": "热水器坏了。",
+          "meaning_my": "ရေပူစက် ပျက်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.02_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S029",
+          "text": "有吹风机吗？",
+          "meaning_my": "ဆံပင်အခြောက်ခံစက် ရှိလား။",
+          "replies": [
+            {
+              "id": "03.01.02-S029_reply01",
+              "text": "有，在柜子里。",
+              "meaning_my": "ရှိတယ်၊ ဗီရိုထဲမှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.02_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.02-S030",
+          "text": "我先洗，你等一下。",
+          "meaning_my": "အရင် ရေချိုးလိုက်မယ်၊ ခဏစောင့်ဦးနော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.02_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.01.03",
+      "title": "天气与穿衣",
+      "title_my": "ရာသီဥတုနှင့် အဝတ်အစား",
+      "phrase_count": 31,
+      "phrases": [
+        {
+          "id": "03.01.03-S001",
+          "text": "今天天气怎么样？",
+          "meaning_my": "ဒီနေ့ ရာသီဥတု ဘယ်လိုလဲ။",
+          "replies": [
+            {
+              "id": "03.01.03-S001_reply01",
+              "text": "有点热，下午可能下雨。",
+              "meaning_my": "နည်းနည်းပူတယ်၊ မွန်းလွဲပိုင်း မိုးရွာနိုင်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S002",
+          "text": "今天怎么这么热？",
+          "meaning_my": "ဒီနေ့ ဘာလို့ ဒီလောက်ပူတာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S003",
+          "text": "外面很热。",
+          "meaning_my": "အပြင်မှာ အရမ်းပူတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S004",
+          "text": "真冷啊。",
+          "meaning_my": "အေးလိုက်တာ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.03-S004_alt01",
+              "text": "好冷啊。",
+              "meaning_my": "အေးလိုက်တာ။"
+            }
+          ],
+          "source_ref": "user_original_03.01.03_B004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S005",
+          "text": "外面有点凉。",
+          "meaning_my": "အပြင်မှာ နည်းနည်းချမ်းတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S006",
+          "text": "今天比昨天冷。",
+          "meaning_my": "ဒီနေ့ မနေ့ကထက် ပိုအေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S007",
+          "text": "今天降温了。",
+          "meaning_my": "ဒီနေ့ အပူချိန် ကျသွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S008",
+          "text": "今天好闷。",
+          "meaning_my": "ဒီနေ့ ပူအိုက်လိုက်တာ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.03-S008_alt01",
+              "text": "今天太闷热了。",
+              "meaning_my": "ဒီနေ့ ပူအိုက်လွန်းတယ်။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.03_N09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "形容天气的“闷”常指又热又不透气，常说“闷热”，不是单说湿度大。",
+              "text_my": "ရာသီဥတု “闷” ဆိုတာ ပူအိုက်ပြီး လေမဝင်သလို ခံစားရတာပါ။ စိုထိုင်းဆများတာတစ်ခုတည်းကို ပြောတာ မဟုတ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.01.03-S009",
+          "text": "下雨了。",
+          "meaning_my": "မိုးရွာနေပြီ။",
+          "replies": [
+            {
+              "id": "03.01.03-S009_reply01",
+              "text": "快把衣服收进来。",
+              "meaning_my": "အဝတ်တွေ အမြန် အထဲသိမ်းလိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S010",
+          "text": "雨大不大？",
+          "meaning_my": "မိုးသည်းလား။",
+          "replies": [
+            {
+              "id": "03.01.03-S010_reply01",
+              "text": "挺大的，等小点再走。",
+              "meaning_my": "မိုးတော်တော်သည်းတယ်၊ နည်းနည်းစဲမှ သွားရအောင်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S011",
+          "text": "雨下大了。",
+          "meaning_my": "မိုး ပိုသည်းလာပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S012",
+          "text": "雨停了。",
+          "meaning_my": "မိုးတိတ်သွားပြီ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.03-S012_alt01",
+              "text": "不下雨了。",
+              "meaning_my": "မိုးမရွာတော့ဘူး။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.03_N06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S013",
+          "text": "看样子要下雨。",
+          "meaning_my": "မိုးရွာတော့မယ့် ပုံပဲ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.03-S013_alt01",
+              "text": "好像要下雨了。",
+              "meaning_my": "မိုးရွာတော့မယ့်ပုံပဲ။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.03_N05",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S014",
+          "text": "下午可能有雨。",
+          "meaning_my": "မွန်းလွဲပိုင်း မိုးရွာနိုင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S015",
+          "text": "明天会下雨吗？",
+          "meaning_my": "မနက်ဖြန် မိုးရွာမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S016",
+          "text": "明天天气怎么样？",
+          "meaning_my": "မနက်ဖြန် ရာသီဥတု ဘယ်လိုလဲ။",
+          "replies": [
+            {
+              "id": "03.01.03-S016_reply01",
+              "text": "听说明天会降温。",
+              "meaning_my": "မနက်ဖြန် ပိုအေးမယ်လို့ ကြားတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N16",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S017",
+          "text": "带伞吧。",
+          "meaning_my": "ထီးယူသွားနော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S018",
+          "text": "今天阴天。",
+          "meaning_my": "ဒီနေ့ မိုးအုံ့နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S019",
+          "text": "天晴了。",
+          "meaning_my": "နေပြန်သာလာပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S020",
+          "text": "风有点大。",
+          "meaning_my": "လေ နည်းနည်းပြင်းတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S021",
+          "text": "今天太阳真大。",
+          "meaning_my": "ဒီနေ့ နေ အရမ်းပြင်းတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S022",
+          "text": "穿厚一点。",
+          "meaning_my": "အဝတ်ထူထူ ဝတ်ထားနော်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.03-S022_alt01",
+              "text": "多穿点。",
+              "meaning_my": "အဝတ် နည်းနည်းပိုဝတ်။"
+            }
+          ],
+          "source_ref": "user_original_03.01.03_B005",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S023",
+          "text": "要带外套吗？",
+          "meaning_my": "အပေါ်အင်္ကျီ ယူသွားရမလား။",
+          "replies": [
+            {
+              "id": "03.01.03-S023_reply01",
+              "text": "带上吧，晚上会冷。",
+              "meaning_my": "ယူသွားနော်၊ ညဘက် အေးလိမ့်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S024",
+          "text": "出门记得带外套。",
+          "meaning_my": "အပြင်ထွက်ရင် အပေါ်အင်္ကျီ ယူသွားနော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S025",
+          "text": "不用穿太厚。",
+          "meaning_my": "အဝတ် အရမ်းထူထူ ဝတ်စရာမလိုဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.03_B018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S026",
+          "text": "我穿少了。",
+          "meaning_my": "အဝတ်ပါးပါးပဲ ဝတ်လာမိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“穿少了”通常是衣服不够保暖；“穿多了”表示穿得太厚或层数太多。",
+              "text_my": "“穿少了” က အဝတ်မလုံလောက်လို့ ချမ်းတာကို ပြောတတ်တယ်။ “穿多了” က အဝတ်ထူလွန်းတာ၊ အထပ်များလွန်းတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.01.03-S027",
+          "text": "我穿多了。",
+          "meaning_my": "အဝတ်ထူထူ ဝတ်လာမိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S028",
+          "text": "早晚温差大。",
+          "meaning_my": "မနက်နဲ့ ည အပူအအေး တော်တော်ကွာတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S029",
+          "text": "你穿这件挺好看。",
+          "meaning_my": "ဒီအင်္ကျီနဲ့ တော်တော်လိုက်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S030",
+          "text": "换件薄一点的。",
+          "meaning_my": "ပိုပါးတဲ့အင်္ကျီ တစ်ထည် လဲဝတ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.03-S031",
+          "text": "天气预报说会下雨。",
+          "meaning_my": "မိုးလေဝသခန့်မှန်းချက်မှာ မိုးရွာမယ်လို့ ပြောထားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.03_N17",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.01.04",
+      "title": "日常休息",
+      "title_my": "နေ့စဉ် နားယူခြင်း",
+      "phrase_count": 23,
+      "phrases": [
+        {
+          "id": "03.01.04-S001",
+          "text": "我有点累。",
+          "meaning_my": "နည်းနည်း ပင်ပန်းနေတယ်။",
+          "replies": [
+            {
+              "id": "03.01.04-S001_reply01",
+              "text": "那先休息一下。",
+              "meaning_my": "ဒါဆို အရင် ခဏနားလိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“累”偏身体或精神疲劳；“困”偏想睡觉。两者不能全部按一个词理解。",
+              "text_my": "“累” က ပင်ပန်းတာ၊ “困” က အိပ်ငိုက်တာပါ။ အဓိပ္ပာယ် မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.01.04-S002",
+          "text": "我休息一下。",
+          "meaning_my": "ခဏနားဦးမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.04-S002_alt01",
+              "text": "我歇一会儿。",
+              "meaning_my": "ခဏနားဦးမယ်။"
+            }
+          ],
+          "source_ref": "user_original_03.01.04_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S003",
+          "text": "歇一会儿吧。",
+          "meaning_my": "ခဏနားလိုက်ပါဦး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.04-S003_alt01",
+              "text": "先歇会儿吧。",
+              "meaning_my": "အရင် ခဏနားလိုက်ပါဦး။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.04_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S004",
+          "text": "我先歇十分钟。",
+          "meaning_my": "ဆယ်မိနစ်လောက် အရင်နားဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S005",
+          "text": "你先休息一会儿。",
+          "meaning_my": "အရင် ခဏနားလိုက်ပါ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.04-S005_alt01",
+              "text": "你先歇会儿。",
+              "meaning_my": "အရင် ခဏနားလိုက်ပါ။"
+            }
+          ],
+          "source_ref": "user_original_03.01.04_B016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S006",
+          "text": "我出去透透气。",
+          "meaning_my": "အပြင်ထွက်ပြီး လေကောင်းလေသန့် ရှူဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S007",
+          "text": "这儿能坐一会儿吗？",
+          "meaning_my": "ဒီမှာ ခဏထိုင်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "03.01.04-S007_reply01",
+              "text": "可以，坐吧。",
+              "meaning_my": "ရတယ်၊ ထိုင်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S008",
+          "text": "我坐一会儿再继续。",
+          "meaning_my": "ခဏထိုင်ပြီးမှ ဆက်လုပ်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S009",
+          "text": "我想喝点水再继续。",
+          "meaning_my": "ရေ နည်းနည်းသောက်ပြီးမှ ဆက်လုပ်ချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S010",
+          "text": "我想躺一会儿。",
+          "meaning_my": "ခဏလောက် လှဲချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S011",
+          "text": "要不要躺一下？",
+          "meaning_my": "ခဏလှဲမလား။",
+          "replies": [
+            {
+              "id": "03.01.04-S011_reply01",
+              "text": "好，我先躺一会儿。",
+              "meaning_my": "အင်း၊ ခဏလှဲလိုက်ဦးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N14",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S012",
+          "text": "我打个盹儿。",
+          "meaning_my": "ခဏလေး တစ်ရေးအိပ်လိုက်ဦးမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.01.04-S012_alt01",
+              "text": "我眯一会儿。",
+              "meaning_my": "ခဏ တစ်ရေးအိပ်ဦးမယ်။"
+            }
+          ],
+          "source_ref": "user_addition_03.01.04_N10",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S013",
+          "text": "我去趟洗手间。",
+          "meaning_my": "အိမ်သာ ခဏသွားဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S014",
+          "text": "我出去一下。",
+          "meaning_my": "အပြင် ခဏထွက်ဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S015",
+          "text": "我站久了，腿有点酸。",
+          "meaning_my": "ကြာကြာရပ်နေရလို့ ခြေထောက် နည်းနည်းညောင်းနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S016",
+          "text": "坐久了腰疼。",
+          "meaning_my": "ကြာကြာထိုင်နေရလို့ ခါးနာတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S017",
+          "text": "我眼睛有点酸。",
+          "meaning_my": "မျက်စိ နည်းနည်းညောင်းနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S018",
+          "text": "你看起来挺累的。",
+          "meaning_my": "ပင်ပန်းနေပုံပဲနော်။",
+          "replies": [
+            {
+              "id": "03.01.04-S018_reply01",
+              "text": "是啊，今天忙了一天。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒီနေ့ တစ်နေ့လုံး အလုပ်ရှုပ်နေတာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N13",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S019",
+          "text": "我歇好了，可以继续了。",
+          "meaning_my": "နားလို့ဝပြီ၊ ဆက်လုပ်လို့ရပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S020",
+          "text": "我们先休息五分钟吧。",
+          "meaning_my": "အရင် ငါးမိနစ်လောက် နားကြရအောင်။",
+          "replies": [
+            {
+              "id": "03.01.04-S020_reply01",
+              "text": "好，五分钟后继续。",
+              "meaning_my": "ကောင်းပြီ၊ ငါးမိနစ်နေရင် ဆက်လုပ်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S021",
+          "text": "听会儿音乐放松一下。",
+          "meaning_my": "သီချင်း ခဏနားထောင်ပြီး အပန်းဖြေလိုက်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S022",
+          "text": "你先坐着，我来吧。",
+          "meaning_my": "အရင် ထိုင်နားပါဦး၊ ဒီဟာတော့ လုပ်ပေးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_03.01.04_B012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.01.04-S023",
+          "text": "你该休息了。",
+          "meaning_my": "နားသင့်ပြီနော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_03.01.04_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 116,
+    "replies": 27,
+    "alternatives": 19,
+    "notes": 7,
+    "total_audio": 162
+  },
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "criteria": [
+      "高频实用优先",
+      "口语简短自然",
+      "去除低价值及近义重复",
+      "回复按需添加",
+      "缅语避免性别限定"
+    ],
+    "original_ids_reindexed": true,
+    "notes": "编辑审校不等于缅甸语母语终审；口语优先级并非真实语料频率统计。"
+  }
+}
