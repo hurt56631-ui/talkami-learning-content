@@ -1,0 +1,1554 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "05.01",
+  "theme_title": "超市便利店",
+  "theme_title_my": "စူပါမားကတ်နှင့် ကုန်စုံဆိုင်",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 86,
+  "original_count": 49,
+  "added_count": 37,
+  "note": "依据原90句与补充58条候选筛选：寻找商品、称重、保质期、自助结账。优先自然常用短句，店员回答放在怎么回，删去同义重复及跨主题精确重复；复核斤/半斤、临期/过期、条码/会员码/付款码概念。缅甸语母语终审、拼音谐音、MP3未完成。",
+  "source_counts": {
+    "original_main_candidates": 90,
+    "suggested_additions": 58,
+    "retained_from_original": 49,
+    "retained_from_additions": 33,
+    "editorial_new": 4
+  },
+  "scenes": [
+    {
+      "id": "05.01.01",
+      "title": "寻找商品",
+      "title_my": "စူပါမားကတ်မှာ ပစ္စည်းရှာခြင်း",
+      "phrase_count": 23,
+      "phrases": [
+        {
+          "id": "05.01.01-S001",
+          "text": "这个在哪儿？",
+          "meaning_my": "ဒါ ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "05.01.01-S001_reply01",
+              "text": "在第三排。",
+              "meaning_my": "တတိယအတန်းမှာပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.01.01-S001_alt01",
+              "text": "这个放在哪一排？",
+              "meaning_my": "ဒါ ဘယ်အတန်းမှာ ထားထားလဲ။"
+            }
+          ],
+          "source_ref": "user_addition_05.01.01_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S002",
+          "text": "请问牛奶在哪儿？",
+          "meaning_my": "နို့ ဘယ်မှာရှိလဲ။",
+          "replies": [
+            {
+              "id": "05.01.01-S002_reply01",
+              "text": "在冷藏区。",
+              "meaning_my": "အအေးခန်းဘက်မှာပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S003",
+          "text": "方便面在哪儿？",
+          "meaning_my": "ခေါက်ဆွဲခြောက် ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "05.01.01-S003_reply01",
+              "text": "往前走，右手边。",
+              "meaning_my": "ရှေ့တည့်တည့်သွား၊ ညာဘက်မှာပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S004",
+          "text": "纸巾在哪一排？",
+          "meaning_my": "တစ်ရှူးတွေ ဘယ်အတန်းမှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S005",
+          "text": "收银台在哪边？",
+          "meaning_my": "ငွေရှင်းကောင်တာ ဘယ်နားမှာလဲ။",
+          "replies": [
+            {
+              "id": "05.01.01-S005_reply01",
+              "text": "就在出口旁边。",
+              "meaning_my": "ထွက်ပေါက်ဘေးမှာပဲ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S006",
+          "text": "能指给我看吗？",
+          "meaning_my": "ပြပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "05.01.01-S006_reply01",
+              "text": "我带您过去。",
+              "meaning_my": "လိုက်ပြပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S007",
+          "text": "这个在哪个货架上？",
+          "meaning_my": "ဒါ ဘယ်ပစ္စည်းစင်ပေါ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“货架”是超市陈列商品的架子；“第几排”常表示通道或货架的排列位置。",
+              "text_my": "“货架” က ပစ္စည်းတင်တဲ့ စင်ပါ။ “第几排” က စင်တန်း ဒါမှမဟုတ် လမ်းကြောင်း ဘယ်အတန်းလဲဆိုတာ မေးတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.01-S008",
+          "text": "我找不到这个牌子。",
+          "meaning_my": "ဒီအမှတ်တံဆိပ်ကို ရှာမတွေ့ဘူး။",
+          "replies": [
+            {
+              "id": "05.01.01-S008_reply01",
+              "text": "这个牌子暂时没货。",
+              "meaning_my": "ဒီအမှတ်တံဆိပ် လောလောဆယ် ပစ္စည်းပြတ်နေတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S009",
+          "text": "这个牌子还有吗？",
+          "meaning_my": "ဒီအမှတ်တံဆိပ် ရှိသေးလား။",
+          "replies": [
+            {
+              "id": "05.01.01-S009_reply01",
+              "text": "有，今天刚补货。",
+              "meaning_my": "ရှိပါတယ်၊ ဒီနေ့မှ ပစ္စည်းပြန်ဖြည့်ထားတာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S010",
+          "text": "还有别的牌子吗？",
+          "meaning_my": "တခြားအမှတ်တံဆိပ် ရှိသေးလား။",
+          "replies": [
+            {
+              "id": "05.01.01-S010_reply01",
+              "text": "有，旁边还有一种。",
+              "meaning_my": "ရှိတယ်၊ ဘေးမှာ နောက်တစ်မျိုး ရှိသေးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S011",
+          "text": "这个有小包装吗？",
+          "meaning_my": "ဒါ အထုပ်သေး ရှိလား။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.01.01-S011_alt01",
+              "text": "有没有小包的？",
+              "meaning_my": "အထုပ်သေးလေး ရှိလား။"
+            }
+          ],
+          "source_ref": "user_original_05.01.01_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S012",
+          "text": "有便宜一点的吗？",
+          "meaning_my": "ဈေးနည်းနည်း ပိုသက်သာတာ ရှိလား။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.01.01-S012_alt01",
+              "text": "有没有再便宜一点的？",
+              "meaning_my": "ဒီထက် ဈေးသက်သာတာ ရှိသေးလား။"
+            }
+          ],
+          "source_ref": "user_original_05.01.01_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S013",
+          "text": "我要大瓶的。",
+          "meaning_my": "ပုလင်းကြီး လိုချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S014",
+          "text": "促销区在哪儿？",
+          "meaning_my": "ပရိုမိုးရှင်းပစ္စည်းတွေ ထားတဲ့နေရာ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S015",
+          "text": "货架上没了，仓库还有吗？",
+          "meaning_my": "စင်ပေါ်မှာ ကုန်သွားပြီ၊ ဂိုဒေါင်ထဲမှာ ရှိသေးလား။",
+          "replies": [
+            {
+              "id": "05.01.01-S015_reply01",
+              "text": "我帮您去查一下。",
+              "meaning_my": "သွားစစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O023",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S016",
+          "text": "日用品在几楼？",
+          "meaning_my": "နေ့စဉ်သုံးပစ္စည်းတွေ ဘယ်အထပ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S017",
+          "text": "有牙膏吗？",
+          "meaning_my": "သွားတိုက်ဆေး ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S018",
+          "text": "有电池吗？",
+          "meaning_my": "ဓာတ်ခဲ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S019",
+          "text": "有矿泉水吗？",
+          "meaning_my": "သတ္တုဓာတ်ပါတဲ့ ရေသန့်ဘူး ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.01_O002",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S020",
+          "text": "饮料在哪一排？",
+          "meaning_my": "သောက်စရာတွေ ဘယ်အတန်းမှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S021",
+          "text": "买二送一吗？",
+          "meaning_my": "နှစ်ခုဝယ်ရင် တစ်ခု အလကားရလား။",
+          "replies": [
+            {
+              "id": "05.01.01-S021_reply01",
+              "text": "对，买两个再送一个。",
+              "meaning_my": "ဟုတ်တယ်၊ နှစ်ခုဝယ်ရင် နောက်တစ်ခု လက်ဆောင်ရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.01.01-S021_alt01",
+              "text": "买两个送一个吗？",
+              "meaning_my": "နှစ်ခုဝယ်ရင် တစ်ခု လက်ဆောင်ရလား။"
+            }
+          ],
+          "source_ref": "user_addition_05.01.01_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“买二送一”通常是买两件送一件，但具体商品和限制要查看促销说明。",
+              "text_my": "“买二送一” က ပစ္စည်းနှစ်ခုဝယ်ရင် နောက်တစ်ခု လက်ဆောင်ရတာပါ။ ဘယ်ပစ္စည်းတွေ အကျုံးဝင်လဲဆိုတာ စစ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.01-S022",
+          "text": "有雨伞卖吗？",
+          "meaning_my": "ထီး ရောင်းလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.01-S023",
+          "text": "一包多少钱？",
+          "meaning_my": "တစ်ထုပ် ဘယ်လောက်လဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.01_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.01.02",
+      "title": "生鲜称重",
+      "title_my": "သစ်သီးဟင်းသီးဟင်းရွက် ရွေးခြင်းနှင့် အလေးချိန်ချိန်ခြင်း",
+      "phrase_count": 21,
+      "phrases": [
+        {
+          "id": "05.01.02-S001",
+          "text": "帮我称一下。",
+          "meaning_my": "ချိန်ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "05.01.02-S001_reply01",
+              "text": "可以，挑好以后拿过来。",
+              "meaning_my": "ရပါတယ်၊ ရွေးပြီးမှ ယူလာပေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S002",
+          "text": "我要一斤。",
+          "meaning_my": "တရုတ်တစ်ကျင်း ယူမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.01.02-S002_alt01",
+              "text": "给我称一斤。",
+              "meaning_my": "တရုတ်တစ်ကျင်း ချိန်ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_05.01.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "measure",
+              "text": "中国大陆超市的“1斤”等于500克，“半斤”等于250克；不要直接当作缅甸传统重量单位。",
+              "text_my": "တရုတ်ပြည်မကြီးမှာ “တစ်ကျင်း” ဆိုတာ ၅၀၀ ဂရမ်၊ “ကျင်းတစ်ဝက်” က ၂၅၀ ဂရမ်ပါ။ မြန်မာ့ရိုးရာ အလေးချိန်ယူနစ်တွေနဲ့ မရောပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.02-S003",
+          "text": "这个今天多少钱一斤？",
+          "meaning_my": "ဒီနေ့ ဒါ တရုတ်တစ်ကျင်း ဘယ်လောက်လဲ။",
+          "replies": [
+            {
+              "id": "05.01.02-S003_reply01",
+              "text": "今天一斤九块八。",
+              "meaning_my": "ဒီနေ့ တရုတ်တစ်ကျင်း ကိုးယွမ်ရှစ်မော်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.01.02-S003_alt01",
+              "text": "这个一斤多少钱？",
+              "meaning_my": "ဒါ တရုတ်တစ်ကျင်း ဘယ်လောက်လဲ။"
+            }
+          ],
+          "source_ref": "user_original_05.01.02_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S004",
+          "text": "这个按斤卖还是按个卖？",
+          "meaning_my": "ဒါ တရုတ်တစ်ကျင်းနဲ့ ရောင်းတာလား၊ တစ်လုံးချင်း ရောင်းတာလား။",
+          "replies": [
+            {
+              "id": "05.01.02-S004_reply01",
+              "text": "这个按斤卖。",
+              "meaning_my": "ဒါ တရုတ်တစ်ကျင်းနဲ့ ရောင်းတာပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S005",
+          "text": "这个能自己挑吗？",
+          "meaning_my": "ဒါ ကိုယ်တိုင် ရွေးလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.01.02-S005_reply01",
+              "text": "可以，自己挑就行。",
+              "meaning_my": "ရပါတယ်၊ ကိုယ်တိုင် ရွေးလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S006",
+          "text": "帮我挑几个熟一点的。",
+          "meaning_my": "နည်းနည်းမှည့်တာတွေ ရွေးပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S007",
+          "text": "袋子在哪儿拿？",
+          "meaning_my": "အိတ်ကို ဘယ်မှာ ယူရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S008",
+          "text": "这些要分开称吗？",
+          "meaning_my": "ဒါတွေ ခွဲပြီး ချိန်ရမလား။",
+          "replies": [
+            {
+              "id": "05.01.02-S008_reply01",
+              "text": "对，要分别称重。",
+              "meaning_my": "ဟုတ်ပါတယ်၊ ခွဲပြီး ချိန်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S009",
+          "text": "标签贴哪里？",
+          "meaning_my": "ဈေးနှုန်းတံဆိပ်ကို ဘယ်မှာ ကပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.01.02-S009_reply01",
+              "text": "贴在袋子上。",
+              "meaning_my": "အိတ်ပေါ်မှာ ကပ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "散装生鲜在部分超市需要先称重并打印价格标签，再带去收银台；也有门店结账时直接称重。",
+              "text_my": "တချို့ စူပါမားကတ်တွေမှာ သစ်သီးဟင်းသီးဟင်းရွက်ကို အရင်ချိန်ပြီး ဈေးနှုန်းတံဆိပ် ကပ်ရတယ်။ တချို့ဆိုင်တွေမှာ ငွေရှင်းတဲ့နေရာမှာပဲ ချိန်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.02-S010",
+          "text": "称完以后去哪里结账？",
+          "meaning_my": "ချိန်ပြီးရင် ဘယ်မှာ ငွေရှင်းရမလဲ။",
+          "replies": [
+            {
+              "id": "05.01.02-S010_reply01",
+              "text": "称完去收银台结账。",
+              "meaning_my": "ချိန်ပြီးရင် ငွေရှင်းကောင်တာမှာ သွားရှင်းပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S011",
+          "text": "帮我称半斤。",
+          "meaning_my": "တရုတ်ကျင်းတစ်ဝက် ချိန်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.01.02-S011_alt01",
+              "text": "半斤就行。",
+              "meaning_my": "တရုတ်ကျင်းတစ်ဝက်ပဲ ရပြီ။"
+            }
+          ],
+          "source_ref": "user_original_05.01.02_O025",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S012",
+          "text": "要两斤。",
+          "meaning_my": "တရုတ်နှစ်ကျင်း ယူမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.02_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S013",
+          "text": "太多了，少一点。",
+          "meaning_my": "များသွားပြီ၊ နည်းနည်း လျှော့ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.02_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S014",
+          "text": "有点少，再加一点。",
+          "meaning_my": "နည်းသေးတယ်၊ နည်းနည်း ထပ်ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.02_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S015",
+          "text": "这些就够了。",
+          "meaning_my": "ဒီလောက်ဆို ရပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.02_N04",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S016",
+          "text": "这袋已经称好了吗？",
+          "meaning_my": "ဒီအိတ် ချိန်ပြီးပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O024",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S017",
+          "text": "这把青菜多少钱？",
+          "meaning_my": "ဒီဟင်းရွက်တစ်စည်း ဘယ်လောက်လဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S018",
+          "text": "西红柿多少钱一斤？",
+          "meaning_my": "ခရမ်းချဉ်သီး တရုတ်တစ်ကျင်း ဘယ်လောက်လဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.02_O021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S019",
+          "text": "标签打不出来。",
+          "meaning_my": "ဈေးနှုန်းတံဆိပ် ထုတ်မရဘူး။",
+          "replies": [
+            {
+              "id": "05.01.02-S019_reply01",
+              "text": "我帮您重新打印。",
+              "meaning_my": "ပြန်ထုတ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.02_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S020",
+          "text": "这个能削皮吗？",
+          "meaning_my": "ဒါ အခွံခွာပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.02_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.02-S021",
+          "text": "这个能先尝一下吗？",
+          "meaning_my": "ဒါ နည်းနည်း မြည်းကြည့်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.02_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.01.03",
+      "title": "日期保质期",
+      "title_my": "ထုတ်လုပ်ရက်နှင့် သက်တမ်းကုန်ရက် စစ်ခြင်း",
+      "phrase_count": 18,
+      "phrases": [
+        {
+          "id": "05.01.03-S001",
+          "text": "生产日期在哪儿？",
+          "meaning_my": "ထုတ်လုပ်ရက်စွဲ ဘယ်မှာ ရေးထားလဲ။",
+          "replies": [
+            {
+              "id": "05.01.03-S001_reply01",
+              "text": "请看包装背面。",
+              "meaning_my": "အထုပ်နောက်ဘက်မှာ ကြည့်ပေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“生产日期”是生产的那天；“保质期”是标签规定的保质时长；“到期日”是标示的截止日期，不能混淆。",
+              "text_my": "“生产日期” က ထုတ်လုပ်ရက်၊ “保质期” က သတ်မှတ်ထားတဲ့ သက်တမ်းကာလ၊ “到期日” က သက်တမ်းကုန်မယ့် ရက်စွဲပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.03-S002",
+          "text": "保质期多久？",
+          "meaning_my": "သက်တမ်း ဘယ်လောက်ခံလဲ။",
+          "replies": [
+            {
+              "id": "05.01.03-S002_reply01",
+              "text": "保质期六个月。",
+              "meaning_my": "သက်တမ်း ခြောက်လခံပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S003",
+          "text": "什么时候过期？",
+          "meaning_my": "ဘယ်တော့ သက်တမ်းကုန်မလဲ။",
+          "replies": [
+            {
+              "id": "05.01.03-S003_reply01",
+              "text": "明天到期。",
+              "meaning_my": "မနက်ဖြန် သက်တမ်းကုန်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.01.03-S003_alt01",
+              "text": "这个几号到期？",
+              "meaning_my": "ဒါ ဘယ်နှရက်နေ့ သက်တမ်းကုန်မှာလဲ။"
+            }
+          ],
+          "source_ref": "user_original_05.01.03_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S004",
+          "text": "这个已经过期了。",
+          "meaning_my": "ဒါ သက်တမ်းကုန်သွားပြီ။",
+          "replies": [
+            {
+              "id": "05.01.03-S004_reply01",
+              "text": "不好意思，我帮您换一件。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ နောက်တစ်ခု လဲပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.01.03-S004_alt01",
+              "text": "这个过期了。",
+              "meaning_my": "ဒါ သက်တမ်းကုန်နေပြီ။"
+            }
+          ],
+          "source_ref": "user_addition_05.01.03_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S005",
+          "text": "这个还没过期吧？",
+          "meaning_my": "ဒါ သက်တမ်း မကုန်သေးဘူးနော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.03_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S006",
+          "text": "今天到期吗？",
+          "meaning_my": "ဒီနေ့ သက်တမ်းကုန်မှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S007",
+          "text": "临期有优惠吗？",
+          "meaning_my": "သက်တမ်းကုန်ခါနီး ပစ္စည်းတွေ လျှော့ဈေးရှိလား။",
+          "replies": [
+            {
+              "id": "05.01.03-S007_reply01",
+              "text": "快到期的有打折。",
+              "meaning_my": "သက်တမ်းကုန်ခါနီးတဲ့ ပစ္စည်းတွေ ဈေးလျှော့ပေးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "“临期”是接近标示到期日，不等于已经过期；应核对日期和储存条件，不建议购买已过期食品。",
+              "text_my": "“临期” က သက်တမ်းကုန်ခါနီးတာ၊ “过期” က သက်တမ်းကုန်ပြီးတာပါ။ ရက်စွဲနဲ့ သိမ်းဆည်းပုံကို စစ်ပါ။ သက်တမ်းကုန်ပြီးသား အစားအစာ မဝယ်သင့်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.03-S008",
+          "text": "这个新鲜吗？",
+          "meaning_my": "ဒါ လတ်ဆတ်လား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S009",
+          "text": "有新鲜一点的吗？",
+          "meaning_my": "ပိုလတ်ဆတ်တာ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.03_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S010",
+          "text": "这个要放冰箱吗？",
+          "meaning_my": "ဒါ ရေခဲသေတ္တာထဲ ထားရမလား။",
+          "replies": [
+            {
+              "id": "05.01.03-S010_reply01",
+              "text": "要冷藏保存。",
+              "meaning_my": "ရေခဲသေတ္တာထဲမှာ အအေးခံ သိမ်းထားရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S011",
+          "text": "常温放行吗？",
+          "meaning_my": "အခန်းအပူချိန်မှာ ထားလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.03_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S012",
+          "text": "开封后怎么保存？",
+          "meaning_my": "အထုပ်ဖွင့်ပြီးရင် ဘယ်လို သိမ်းထားရမလဲ။",
+          "replies": [
+            {
+              "id": "05.01.03-S012_reply01",
+              "text": "开封后冷藏，尽快吃完。",
+              "meaning_my": "အထုပ်ဖွင့်ပြီးရင် အအေးခံသိမ်းပြီး အမြန်ဆုံး စားကုန်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "开封后储存方式和可食用时间可能不同于未开封状态，按产品标签要求保存；不确定时不应仅凭气味判断安全。",
+              "text_my": "အထုပ်ဖွင့်ပြီးရင် သိမ်းဆည်းပုံနဲ့ စားလို့ရမယ့်ကာလ ပြောင်းနိုင်တယ်။ အထုပ်ပေါ်က ညွှန်ကြားချက်အတိုင်း သိမ်းပါ။ အနံ့တစ်ခုတည်းနဲ့ မဆုံးဖြတ်ပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.03-S013",
+          "text": "开封后几天内吃完？",
+          "meaning_my": "အထုပ်ဖွင့်ပြီး ဘယ်နှရက်အတွင်း စားကုန်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.03_N08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S014",
+          "text": "上面的日期看不清。",
+          "meaning_my": "အပေါ်က ရက်စွဲကို သေချာ ဖတ်မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S015",
+          "text": "这个是今天到货的吗？",
+          "meaning_my": "ဒါ ဒီနေ့မှ ပစ္စည်းရောက်တာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S016",
+          "text": "这个还有几天到期？",
+          "meaning_my": "ဒါ သက်တမ်းကုန်ဖို့ ဘယ်နှရက် ကျန်သေးလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.03_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S017",
+          "text": "这个是哪天生产的？",
+          "meaning_my": "ဒါ ဘယ်နေ့က ထုတ်ထားတာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.03_O008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.03-S018",
+          "text": "买到过期的可以退吗？",
+          "meaning_my": "သက်တမ်းကုန်တဲ့ ပစ္စည်း ဝယ်မိရင် ပြန်အမ်းလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.03_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.01.04",
+      "title": "自助结账",
+      "title_my": "ကိုယ်တိုင်ငွေရှင်းစက် သုံးခြင်း",
+      "phrase_count": 24,
+      "phrases": [
+        {
+          "id": "05.01.04-S001",
+          "text": "自助结账在哪儿？",
+          "meaning_my": "ကိုယ်တိုင်ငွေရှင်းကောင်တာ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S002",
+          "text": "这个自助收银怎么用？",
+          "meaning_my": "ဒီကိုယ်တိုင်ငွေရှင်းစက်ကို ဘယ်လို သုံးရမလဲ။",
+          "replies": [
+            {
+              "id": "05.01.04-S002_reply01",
+              "text": "先扫商品，再按屏幕提示付款。",
+              "meaning_my": "အရင် ပစ္စည်းတွေ စကန်ဖတ်၊ ပြီးရင် ဖန်သားပြင်ညွှန်ကြားချက်အတိုင်း ငွေရှင်းပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_05.01.04_E01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S003",
+          "text": "这个怎么扫？",
+          "meaning_my": "ဒါကို ဘယ်လို စကန်ဖတ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S004",
+          "text": "这个条码扫不出来。",
+          "meaning_my": "ဒီဘားကုဒ်ကို စကန်ဖတ်လို့ မရဘူး။",
+          "replies": [
+            {
+              "id": "05.01.04-S004_reply01",
+              "text": "请再扫一次，还是不行我来帮您。",
+              "meaning_my": "နောက်တစ်ခါ စကန်ဖတ်ကြည့်ပါ၊ မရသေးရင် ကူပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“条码”通常是商品的编码；“会员码”用于会员识别，“付款码”用于付款，三者功能不同。",
+              "text_my": "“条码” က ပစ္စည်းဘားကုဒ်၊ “会员码” က အသင်းဝင်ကုဒ်၊ “付款码” က ငွေပေးချေမှုကုဒ်ပါ။ သုံးပုံ မတူပါဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.04-S005",
+          "text": "这个没有条码。",
+          "meaning_my": "ဒီပစ္စည်းမှာ ဘားကုဒ် မရှိဘူး။",
+          "replies": [
+            {
+              "id": "05.01.04-S005_reply01",
+              "text": "我帮您查一下商品信息。",
+              "meaning_my": "ပစ္စည်းအချက်အလက်ကို စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S006",
+          "text": "我刚才多扫了一次。",
+          "meaning_my": "ခုနက တစ်ခါ ပိုစကန်ဖတ်မိသွားတယ်။",
+          "replies": [
+            {
+              "id": "05.01.04-S006_reply01",
+              "text": "我帮您删掉多扫的那件。",
+              "meaning_my": "ပိုစကန်ဖတ်ထားတဲ့ တစ်ခုကို ဖယ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.01.04-S006_alt01",
+              "text": "这个扫重复了。",
+              "meaning_my": "ဒီပစ္စည်းကို နှစ်ခါ စကန်ဖတ်မိသွားတယ်။"
+            }
+          ],
+          "source_ref": "user_original_05.01.04_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "商品被重复扫描时，应在付款前请工作人员核对并删除多余的那件，避免重复计费。",
+              "text_my": "ပစ္စည်းကို နှစ်ခါစကန်ဖတ်မိရင် ငွေမရှင်းခင် ဝန်ထမ်းကို စာရင်းစစ်ပြီး ပိုနေတဲ့တစ်ခုကို ဖယ်ခိုင်းပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.01.04-S007",
+          "text": "能帮我取消这一件吗？",
+          "meaning_my": "ဒီတစ်ခုကို စာရင်းထဲက ဖယ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "05.01.04-S007_reply01",
+              "text": "可以，我帮您从清单里删掉。",
+              "meaning_my": "ရပါတယ်၊ စာရင်းထဲက ဖယ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S008",
+          "text": "商品要放哪里？",
+          "meaning_my": "ပစ္စည်းတွေ ဘယ်မှာ ထားရမလဲ။",
+          "replies": [
+            {
+              "id": "05.01.04-S008_reply01",
+              "text": "扫完放在旁边的称重区。",
+              "meaning_my": "စကန်ပြီးရင် ဘေးက ချိန်တဲ့နေရာမှာ ထားပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S009",
+          "text": "袋子在哪儿选？",
+          "meaning_my": "အိတ်ကို ဘယ်နေရာမှာ ရွေးရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S010",
+          "text": "会员码在哪里扫？",
+          "meaning_my": "အသင်းဝင် QR ကုဒ်ကို ဘယ်မှာ စကန်ဖတ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.01.04-S010_reply01",
+              "text": "先扫会员码，再结账。",
+              "meaning_my": "အသင်းဝင်ကုဒ်ကို အရင် စကန်ဖတ်၊ ပြီးမှ ငွေရှင်းပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S011",
+          "text": "没有会员。",
+          "meaning_my": "အသင်းဝင်အကောင့် မရှိဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S012",
+          "text": "要袋子。",
+          "meaning_my": "အိတ် လိုတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S013",
+          "text": "我买的东西有点多。",
+          "meaning_my": "ကျွန်တော် ဝယ်ထားတဲ့ပစ္စည်း နည်းနည်းများတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S014",
+          "text": "不要小票。",
+          "meaning_my": "ငွေရှင်းပြေစာ မလိုဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.01.04_O012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S015",
+          "text": "怎么打印小票？",
+          "meaning_my": "ငွေရှင်းပြေစာကို ဘယ်လို ထုတ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S016",
+          "text": "这台可以用现金吗？",
+          "meaning_my": "ဒီစက်မှာ ငွေသားနဲ့ ရှင်းလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.01.04-S016_reply01",
+              "text": "这台只支持手机支付。",
+              "meaning_my": "ဒီစက်က ဖုန်းနဲ့ ငွေပေးချေတာပဲ ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S017",
+          "text": "怎么付不了？",
+          "meaning_my": "ဘာလို့ ငွေရှင်းလို့ မရတာလဲ။",
+          "replies": [
+            {
+              "id": "05.01.04-S017_reply01",
+              "text": "您换一种支付方式试试。",
+              "meaning_my": "တခြားငွေပေးနည်းနဲ့ စမ်းကြည့်ပါဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S018",
+          "text": "付款码扫不上。",
+          "meaning_my": "ငွေပေးချေမှု QR ကုဒ်ကို စကန်ဖတ်လို့ မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S019",
+          "text": "能叫工作人员来一下吗？",
+          "meaning_my": "ဝန်ထမ်းတစ်ယောက်ကို ခေါ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "05.01.04-S019_reply01",
+              "text": "好的，我马上过来。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အခု လာခဲ့မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.01.04-S019_alt01",
+              "text": "麻烦工作人员帮我一下。",
+              "meaning_my": "ဝန်ထမ်းတစ်ယောက်လောက် ကူပေးပါဦး။"
+            }
+          ],
+          "source_ref": "user_original_05.01.04_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S020",
+          "text": "能重新来一遍吗？",
+          "meaning_my": "အစကနေ ပြန်လုပ်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S021",
+          "text": "机器卡住了。",
+          "meaning_my": "စက်က ရပ်တန့်ပြီး ဘာမှ ဆက်လုပ်လို့ မရတော့ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_05.01.04_E02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S022",
+          "text": "这个价格不对。",
+          "meaning_my": "ဒီပစ္စည်းရဲ့ ဈေးနှုန်း မမှန်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_05.01.04_E03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S023",
+          "text": "这件我不买了。",
+          "meaning_my": "ဒီတစ်ခု မဝယ်တော့ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.01.04_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.01.04-S024",
+          "text": "这种水果在自助机上怎么称重？",
+          "meaning_my": "ဒီသစ်သီးမျိုးကို ကိုယ်တိုင်ငွေရှင်းစက်မှာ ဘယ်လို ချိန်ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.01.04-S024_reply01",
+              "text": "先在屏幕上选水果，再放到秤上。",
+              "meaning_my": "ဖန်သားပြင်မှာ သစ်သီးအမျိုးအစားရွေးပြီးမှ ချိန်ခွင်ပေါ် တင်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_05.01.04_E04",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 86,
+    "replies": 36,
+    "alternatives": 11,
+    "notes": 9,
+    "total_audio": 133
+  },
+  "core_words": [
+    {
+      "word": "货架",
+      "meaning_my": "ပစ္စည်းစင်",
+      "phrase_id": "05.01.01-S007"
+    },
+    {
+      "word": "称重",
+      "meaning_my": "အလေးချိန်ချိန်",
+      "phrase_id": "05.01.02-S001"
+    },
+    {
+      "word": "过期",
+      "meaning_my": "သက်တမ်းကုန်",
+      "phrase_id": "05.01.03-S004"
+    },
+    {
+      "word": "结账",
+      "meaning_my": "ငွေရှင်း",
+      "phrase_id": "05.01.04-S001"
+    }
+  ],
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "date": "2026-11-11",
+    "frequency_order": "editorial_practicality_not_measured_corpus",
+    "native_burmese_final_review": false,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}

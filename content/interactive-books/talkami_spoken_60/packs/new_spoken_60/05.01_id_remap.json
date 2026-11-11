@@ -1,0 +1,439 @@
+{
+  "theme_id": "05.01",
+  "date": "2026-11-11",
+  "original_candidates": 90,
+  "added_candidates": 58,
+  "current_main": 86,
+  "mapping": [
+    {
+      "source_ref": "user_addition_05.01.01_N01",
+      "id": "05.01.01-S001",
+      "text": "这个在哪儿？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O001",
+      "id": "05.01.01-S002",
+      "text": "请问牛奶在哪儿？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N04",
+      "id": "05.01.01-S003",
+      "text": "方便面在哪儿？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O003",
+      "id": "05.01.01-S004",
+      "text": "纸巾在哪一排？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N09",
+      "id": "05.01.01-S005",
+      "text": "收银台在哪边？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O005",
+      "id": "05.01.01-S006",
+      "text": "能指给我看吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O022",
+      "id": "05.01.01-S007",
+      "text": "这个在哪个货架上？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O004",
+      "id": "05.01.01-S008",
+      "text": "我找不到这个牌子。"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O006",
+      "id": "05.01.01-S009",
+      "text": "这个牌子还有吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O007",
+      "id": "05.01.01-S010",
+      "text": "还有别的牌子吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O011",
+      "id": "05.01.01-S011",
+      "text": "这个有小包装吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O010",
+      "id": "05.01.01-S012",
+      "text": "有便宜一点的吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N12",
+      "id": "05.01.01-S013",
+      "text": "我要大瓶的。"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O012",
+      "id": "05.01.01-S014",
+      "text": "促销区在哪儿？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O023",
+      "id": "05.01.01-S015",
+      "text": "货架上没了，仓库还有吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O008",
+      "id": "05.01.01-S016",
+      "text": "日用品在几楼？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N06",
+      "id": "05.01.01-S017",
+      "text": "有牙膏吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N07",
+      "id": "05.01.01-S018",
+      "text": "有电池吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.01_O002",
+      "id": "05.01.01-S019",
+      "text": "有矿泉水吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N05",
+      "id": "05.01.01-S020",
+      "text": "饮料在哪一排？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N15",
+      "id": "05.01.01-S021",
+      "text": "买二送一吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N08",
+      "id": "05.01.01-S022",
+      "text": "有雨伞卖吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.01_N14",
+      "id": "05.01.01-S023",
+      "text": "一包多少钱？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O002",
+      "id": "05.01.02-S001",
+      "text": "帮我称一下。"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O001",
+      "id": "05.01.02-S002",
+      "text": "我要一斤。"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O006",
+      "id": "05.01.02-S003",
+      "text": "这个今天多少钱一斤？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O011",
+      "id": "05.01.02-S004",
+      "text": "这个按斤卖还是按个卖？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O009",
+      "id": "05.01.02-S005",
+      "text": "这个能自己挑吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O008",
+      "id": "05.01.02-S006",
+      "text": "帮我挑几个熟一点的。"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O010",
+      "id": "05.01.02-S007",
+      "text": "袋子在哪儿拿？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O005",
+      "id": "05.01.02-S008",
+      "text": "这些要分开称吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O004",
+      "id": "05.01.02-S009",
+      "text": "标签贴哪里？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O007",
+      "id": "05.01.02-S010",
+      "text": "称完以后去哪里结账？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O025",
+      "id": "05.01.02-S011",
+      "text": "帮我称半斤。"
+    },
+    {
+      "source_ref": "user_addition_05.01.02_N03",
+      "id": "05.01.02-S012",
+      "text": "要两斤。"
+    },
+    {
+      "source_ref": "user_addition_05.01.02_N05",
+      "id": "05.01.02-S013",
+      "text": "太多了，少一点。"
+    },
+    {
+      "source_ref": "user_addition_05.01.02_N06",
+      "id": "05.01.02-S014",
+      "text": "有点少，再加一点。"
+    },
+    {
+      "source_ref": "user_addition_05.01.02_N04",
+      "id": "05.01.02-S015",
+      "text": "这些就够了。"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O024",
+      "id": "05.01.02-S016",
+      "text": "这袋已经称好了吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O020",
+      "id": "05.01.02-S017",
+      "text": "这把青菜多少钱？"
+    },
+    {
+      "source_ref": "user_original_05.01.02_O021",
+      "id": "05.01.02-S018",
+      "text": "西红柿多少钱一斤？"
+    },
+    {
+      "source_ref": "user_addition_05.01.02_N15",
+      "id": "05.01.02-S019",
+      "text": "标签打不出来。"
+    },
+    {
+      "source_ref": "user_addition_05.01.02_N13",
+      "id": "05.01.02-S020",
+      "text": "这个能削皮吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.02_N12",
+      "id": "05.01.02-S021",
+      "text": "这个能先尝一下吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O001",
+      "id": "05.01.03-S001",
+      "text": "生产日期在哪儿？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O002",
+      "id": "05.01.03-S002",
+      "text": "保质期多久？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O003",
+      "id": "05.01.03-S003",
+      "text": "什么时候过期？"
+    },
+    {
+      "source_ref": "user_addition_05.01.03_N03",
+      "id": "05.01.03-S004",
+      "text": "这个已经过期了。"
+    },
+    {
+      "source_ref": "user_addition_05.01.03_N02",
+      "id": "05.01.03-S005",
+      "text": "这个还没过期吧？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O005",
+      "id": "05.01.03-S006",
+      "text": "今天到期吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O006",
+      "id": "05.01.03-S007",
+      "text": "临期有优惠吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O004",
+      "id": "05.01.03-S008",
+      "text": "这个新鲜吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.03_N04",
+      "id": "05.01.03-S009",
+      "text": "有新鲜一点的吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O009",
+      "id": "05.01.03-S010",
+      "text": "这个要放冰箱吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.03_N07",
+      "id": "05.01.03-S011",
+      "text": "常温放行吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O010",
+      "id": "05.01.03-S012",
+      "text": "开封后怎么保存？"
+    },
+    {
+      "source_ref": "user_addition_05.01.03_N08",
+      "id": "05.01.03-S013",
+      "text": "开封后几天内吃完？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O011",
+      "id": "05.01.03-S014",
+      "text": "上面的日期看不清。"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O007",
+      "id": "05.01.03-S015",
+      "text": "这个是今天到货的吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.03_N13",
+      "id": "05.01.03-S016",
+      "text": "这个还有几天到期？"
+    },
+    {
+      "source_ref": "user_original_05.01.03_O008",
+      "id": "05.01.03-S017",
+      "text": "这个是哪天生产的？"
+    },
+    {
+      "source_ref": "user_addition_05.01.03_N11",
+      "id": "05.01.03-S018",
+      "text": "买到过期的可以退吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O001",
+      "id": "05.01.04-S001",
+      "text": "自助结账在哪儿？"
+    },
+    {
+      "source_ref": "editorial_new_05.01.04_E01",
+      "id": "05.01.04-S002",
+      "text": "这个自助收银怎么用？"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O002",
+      "id": "05.01.04-S003",
+      "text": "这个怎么扫？"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O003",
+      "id": "05.01.04-S004",
+      "text": "这个条码扫不出来。"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N03",
+      "id": "05.01.04-S005",
+      "text": "这个没有条码。"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O004",
+      "id": "05.01.04-S006",
+      "text": "我刚才多扫了一次。"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N07",
+      "id": "05.01.04-S007",
+      "text": "能帮我取消这一件吗？"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O007",
+      "id": "05.01.04-S008",
+      "text": "商品要放哪里？"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O008",
+      "id": "05.01.04-S009",
+      "text": "袋子在哪儿选？"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O009",
+      "id": "05.01.04-S010",
+      "text": "会员码在哪里扫？"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O011",
+      "id": "05.01.04-S011",
+      "text": "没有会员。"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O010",
+      "id": "05.01.04-S012",
+      "text": "要袋子。"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N14",
+      "id": "05.01.04-S013",
+      "text": "我买的东西有点多。"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O012",
+      "id": "05.01.04-S014",
+      "text": "不要小票。"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N15",
+      "id": "05.01.04-S015",
+      "text": "怎么打印小票？"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N08",
+      "id": "05.01.04-S016",
+      "text": "这台可以用现金吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N10",
+      "id": "05.01.04-S017",
+      "text": "怎么付不了？"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N11",
+      "id": "05.01.04-S018",
+      "text": "付款码扫不上。"
+    },
+    {
+      "source_ref": "user_original_05.01.04_O020",
+      "id": "05.01.04-S019",
+      "text": "能叫工作人员来一下吗？"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N12",
+      "id": "05.01.04-S020",
+      "text": "能重新来一遍吗？"
+    },
+    {
+      "source_ref": "editorial_new_05.01.04_E02",
+      "id": "05.01.04-S021",
+      "text": "机器卡住了。"
+    },
+    {
+      "source_ref": "editorial_new_05.01.04_E03",
+      "id": "05.01.04-S022",
+      "text": "这个价格不对。"
+    },
+    {
+      "source_ref": "user_addition_05.01.04_N06",
+      "id": "05.01.04-S023",
+      "text": "这件我不买了。"
+    },
+    {
+      "source_ref": "editorial_new_05.01.04_E04",
+      "id": "05.01.04-S024",
+      "text": "这种水果在自助机上怎么称重？"
+    }
+  ]
+}
