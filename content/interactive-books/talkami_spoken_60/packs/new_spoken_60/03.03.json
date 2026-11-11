@@ -1,0 +1,1543 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "03.03",
+  "theme_title": "楼宇出入与公共设施",
+  "theme_title_my": "အဆောက်အအုံဝင်ထွက်ခြင်းနှင့် အများသုံးအဆောက်အအုံအသုံးအဆောင်များ",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 86,
+  "original_count": 56,
+  "added_count": 30,
+  "note": "从用户原87句和补充59句中以实用性优先人工筛选重排；无实用价值的重复及模板不强制保留，回复/类似说法按需添加。中文和缅语经语义初审，未经缅甸母语教师逐条终审，拼音和谐音尚未生成，尚未录音。",
+  "source_counts": {
+    "original_main_count": 87,
+    "proposed_added_count": 59,
+    "selected_original_as_main": 56,
+    "selected_suggested_as_main": 30,
+    "original_or_suggested_moved_to_reply": 30,
+    "suggestion_moved_to_alternative": 2,
+    "omitted_original": 10,
+    "omitted_suggestions": 18
+  },
+  "scenes": [
+    {
+      "id": "03.03.01",
+      "title": "门锁钥匙",
+      "title_my": "တံခါးသော့နှင့် သော့များ",
+      "phrase_count": 22,
+      "phrases": [
+        {
+          "id": "03.03.01-S001",
+          "text": "我忘带钥匙了。",
+          "meaning_my": "သော့ ယူလာဖို့ မေ့သွားတယ်။",
+          "replies": [
+            {
+              "id": "03.03.01-S001_reply01",
+              "text": "我过来给你送钥匙。",
+              "meaning_my": "သော့ လာပို့ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.01-S001_alt01",
+              "text": "钥匙忘带了。",
+              "meaning_my": "သော့ ယူလာဖို့ မေ့သွားတယ်။"
+            }
+          ],
+          "source_ref": "03.03.01-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S002",
+          "text": "帮我开门。",
+          "meaning_my": "တံခါးလေး ဖွင့်ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "03.03.01-S002_reply01",
+              "text": "你先等等，我来开门。",
+              "meaning_my": "ခဏစောင့်ဦး၊ လာဖွင့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.01-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S003",
+          "text": "门锁了吗？",
+          "meaning_my": "တံခါး သော့ခတ်ပြီးပြီလား။",
+          "replies": [
+            {
+              "id": "03.03.01-S003_reply01",
+              "text": "门已经锁好了。",
+              "meaning_my": "တံခါး သော့ခတ်ပြီးပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.01-S003_alt01",
+              "text": "门锁好了没？",
+              "meaning_my": "တံခါး သော့ခတ်ပြီးပြီလား။"
+            }
+          ],
+          "source_ref": "03.03.01-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S004",
+          "text": "你带钥匙了吗？",
+          "meaning_my": "သော့ ယူလာခဲ့လား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-补15",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S005",
+          "text": "出门记得锁门。",
+          "meaning_my": "အပြင်ထွက်ရင် တံခါး သော့ခတ်ဖို့ မမေ့နဲ့နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S006",
+          "text": "门打不开。",
+          "meaning_my": "တံခါး ဖွင့်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S007",
+          "text": "门锁不上。",
+          "meaning_my": "တံခါး သော့ခတ်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S008",
+          "text": "门关不上。",
+          "meaning_my": "တံခါး ပိတ်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-补04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S009",
+          "text": "钥匙在你那儿吗？",
+          "meaning_my": "သော့ ရှိသေးလား။",
+          "replies": [
+            {
+              "id": "03.03.01-S009_reply01",
+              "text": "钥匙在桌上。",
+              "meaning_my": "သော့က စားပွဲပေါ်မှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.01-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S010",
+          "text": "备用钥匙在哪儿？",
+          "meaning_my": "အပိုသော့ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S011",
+          "text": "我把钥匙忘在屋里了。",
+          "meaning_my": "သော့ကို အခန်းထဲမှာ မေ့ကျန်ခဲ့တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S012",
+          "text": "钥匙丢了怎么办？",
+          "meaning_my": "သော့ ပျောက်သွားရင် ဘယ်လိုလုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.03.01-S012_reply01",
+              "text": "我去叫开锁师傅。",
+              "meaning_my": "သော့ဖွင့်သမားကို ခေါ်လိုက်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.01-S021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S013",
+          "text": "是不是从里面反锁了？",
+          "meaning_my": "အထဲကနေ သော့ခတ်ထားတာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“反锁”通常指从屋内把门锁住；遇到反锁打不开，先联系里面的人或物业，不要强行破坏门锁。",
+              "text_my": "“反锁” က အတွင်းဘက်ကနေ တံခါးသော့ခတ်ထားတာကို ပြောတာပါ။ မဖွင့်နိုင်ရင် အထဲကလူ ဒါမှမဟုတ် အဆောက်အအုံစီမံခန့်ခွဲရေးကို အရင်ဆက်သွယ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.03.01-S014",
+          "text": "钥匙插不进去。",
+          "meaning_my": "သော့ပေါက်ထဲ သော့ထိုးလို့မဝင်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S015",
+          "text": "钥匙转不动。",
+          "meaning_my": "သော့ လှည့်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.03.01-S015_alt01",
+              "text": "钥匙拧不动。",
+              "meaning_my": "သော့ လှည့်လို့မရဘူး။"
+            }
+          ],
+          "source_ref": "03.03.01-补01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S016",
+          "text": "门卡住了。",
+          "meaning_my": "တံခါး ညပ်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-补03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S017",
+          "text": "这个锁坏了。",
+          "meaning_my": "ဒီတံခါးသော့ ပျက်နေတယ်။",
+          "replies": [
+            {
+              "id": "03.03.01-S017_reply01",
+              "text": "这锁得换了。",
+              "meaning_my": "ဒီတံခါးသော့ လဲရတော့မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.01-S016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S018",
+          "text": "这门是推还是拉？",
+          "meaning_my": "ဒီတံခါးက တွန်းဖွင့်ရတာလား၊ ဆွဲဖွင့်ရတာလား။",
+          "replies": [
+            {
+              "id": "03.03.01-S018_reply01",
+              "text": "这个门要往里推。",
+              "meaning_my": "ဒီတံခါးကို အထဲဘက် တွန်းရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.01-S013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S019",
+          "text": "别从里面反锁，我一会儿回来。",
+          "meaning_my": "အထဲကနေ သော့မခတ်နဲ့ဦး၊ ခဏနေရင် ပြန်လာမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-S022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S020",
+          "text": "能配一把钥匙吗？",
+          "meaning_my": "သော့အပို တစ်ချောင်း ကူးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.01-补10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S021",
+          "text": "这是哪把钥匙？",
+          "meaning_my": "ဒါ ဘယ်တံခါးသော့လဲ။",
+          "replies": [
+            {
+              "id": "03.03.01-S021_reply01",
+              "text": "这把是楼下的。",
+              "meaning_my": "ဒါက အောက်ထပ်တံခါးသော့။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.01-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.01-S022",
+          "text": "门铃在哪儿？",
+          "meaning_my": "တံခါးခေါင်းလောင်း ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.03.01-S022_reply01",
+              "text": "就在门旁边。",
+              "meaning_my": "တံခါးဘေးမှာပဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.01-补05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.03.02",
+      "title": "门禁进出",
+      "title_my": "ဝင်ပေါက်လုံခြုံရေးနှင့် ဝင်ထွက်ခြင်း",
+      "phrase_count": 22,
+      "phrases": [
+        {
+          "id": "03.03.02-S001",
+          "text": "我可以进去吗？",
+          "meaning_my": "အထဲ ဝင်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "03.03.02-S001_reply01",
+              "text": "我帮你开。",
+              "meaning_my": "ဖွင့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S002",
+          "text": "门禁怎么开？",
+          "meaning_my": "ဝင်ပေါက်တံခါးကို ဘယ်လိုဖွင့်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.03.02-S002_reply01",
+              "text": "进去要刷卡。",
+              "meaning_my": "ဝင်မယ်ဆိုရင် ကတ်ထိရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“门禁”是出入口的权限控制；可以用门禁卡、密码、二维码等方式，具体以楼宇规定为准。",
+              "text_my": "“门禁” က ဝင်ထွက်ခွင့်ကို ထိန်းချုပ်တဲ့ စနစ်ပါ။ ကတ်၊ စကားဝှက်၊ QR ကုဒ် စတာတွေကို အဆောက်အအုံအလိုက် သုံးကြတယ်။"
+            }
+          ]
+        },
+        {
+          "id": "03.03.02-S003",
+          "text": "我没带卡。",
+          "meaning_my": "ဝင်ပေါက်ကတ် မယူလာဘူး။",
+          "replies": [
+            {
+              "id": "03.03.02-S003_reply01",
+              "text": "跟保安说一声。",
+              "meaning_my": "လုံခြုံရေးဝန်ထမ်းကို ပြောလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S004",
+          "text": "门禁卡怎么刷？",
+          "meaning_my": "ဝင်ပေါက်ကတ်ကို ဘယ်လိုသုံးရမလဲ။",
+          "replies": [
+            {
+              "id": "03.03.02-S004_reply01",
+              "text": "刷这里。",
+              "meaning_my": "ဒီနေရာမှာ ကတ်ကပ်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S005",
+          "text": "我的门禁卡刷不了了。",
+          "meaning_my": "ဝင်ပေါက်ကတ်က စကန်ဖတ်လို့ မရတော့ဘူး။",
+          "replies": [
+            {
+              "id": "03.03.02-S005_reply01",
+              "text": "门禁卡是不是过期了？",
+              "meaning_my": "ဝင်ပေါက်ကတ် သက်တမ်းကုန်သွားတာလား။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.02-S005_alt01",
+              "text": "门禁卡没反应。",
+              "meaning_my": "ဝင်ပေါက်ကတ် ဖတ်လို့မရဘူး။"
+            }
+          ],
+          "source_ref": "03.03.02-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S006",
+          "text": "密码是多少？",
+          "meaning_my": "စကားဝှက် ဘာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S007",
+          "text": "访客要登记吗？",
+          "meaning_my": "ဧည့်သည်တွေ စာရင်းသွင်းရမလား။",
+          "replies": [
+            {
+              "id": "03.03.02-S007_reply01",
+              "text": "访客要办临时卡。",
+              "meaning_my": "ဧည့်သည်တွေ ယာယီကတ် လုပ်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "中国一些小区、办公楼会要求访客登记或核验证件；请按现场规定办理，不随便向陌生人透露门禁密码。",
+              "text_my": "တရုတ်နိုင်ငံက အချို့အိမ်ရာနဲ့ ရုံးအဆောက်အအုံတွေမှာ ဧည့်သည်စာရင်းသွင်းဖို့၊ သက်သေခံကတ်ပြဖို့ လိုတတ်တယ်။ ဝင်ပေါက်စကားဝှက်ကို မသိတဲ့သူတွေကို မပြောသင့်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.03.02-S008",
+          "text": "访客从哪个门进？",
+          "meaning_my": "ဧည့်သည်တွေ ဘယ်ဝင်ပေါက်ကနေ ဝင်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.03.02-S008_reply01",
+              "text": "从侧门进去。",
+              "meaning_my": "ဘေးတံခါးကနေ ဝင်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S009",
+          "text": "扫这里吗？",
+          "meaning_my": "ဒီနေရာမှာ စကန်ဖတ်ရမှာလား။",
+          "replies": [
+            {
+              "id": "03.03.02-S009_reply01",
+              "text": "扫这个码。",
+              "meaning_my": "ဒီ QR ကုဒ်ကို စကန်ဖတ်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S010",
+          "text": "登记以后就能进去吗？",
+          "meaning_my": "စာရင်းသွင်းပြီးရင် ဝင်လို့ရပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S011",
+          "text": "这个密码不对。",
+          "meaning_my": "ဒီစကားဝှက် မမှန်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S012",
+          "text": "出去也要刷卡吗？",
+          "meaning_my": "အပြင်ထွက်ရင်လည်း ကတ်ထိရသေးလား။",
+          "replies": [
+            {
+              "id": "03.03.02-S012_reply01",
+              "text": "出去不用刷卡。",
+              "meaning_my": "အပြင်ထွက်ရင် ကတ်မလိုဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S013",
+          "text": "晚上十点后怎么进来？",
+          "meaning_my": "ည ဆယ်နာရီကျော်ရင် ဘယ်လို ပြန်ဝင်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S014",
+          "text": "请出示证件。",
+          "meaning_my": "သက်သေခံကတ်ပြား ပြပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S015",
+          "text": "门禁卡在哪儿办？",
+          "meaning_my": "ဝင်ပေါက်ကတ် ဘယ်မှာ သွားလုပ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S016",
+          "text": "能帮我刷一下门禁吗？",
+          "meaning_my": "ဝင်ပေါက်တံခါးလေး ကူဖွင့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S006",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S017",
+          "text": "这两个入口哪个能进？",
+          "meaning_my": "ဒီဝင်ပေါက်နှစ်ပေါက်ထဲက ဘယ်ပေါက်က ဝင်လို့ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-S023",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S018",
+          "text": "门禁卡丢了。",
+          "meaning_my": "ဝင်ပေါက်ကတ် ပျောက်သွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-补02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S019",
+          "text": "能补办门禁卡吗？",
+          "meaning_my": "ဝင်ပေါက်ကတ် အသစ်ပြန်လုပ်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-补03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S020",
+          "text": "门禁系统坏了。",
+          "meaning_my": "ဝင်ပေါက်လုံခြုံရေးစနစ် ပျက်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.02-补04",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S021",
+          "text": "对讲机怎么用？",
+          "meaning_my": "အင်တာကွန် ဘယ်လိုသုံးရမလဲ။",
+          "replies": [
+            {
+              "id": "03.03.02-S021_reply01",
+              "text": "按房号呼叫就行。",
+              "meaning_my": "အခန်းနံပါတ် နှိပ်ပြီး ခေါ်လိုက်ရုံပဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.02-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.02-S022",
+          "text": "刷脸能进吗？",
+          "meaning_my": "မျက်နှာစကန်နဲ့ ဝင်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.03.02-S022_alt01",
+              "text": "可以刷脸进去吗？",
+              "meaning_my": "မျက်နှာစကန်နဲ့ ဝင်လို့ရလား။"
+            }
+          ],
+          "source_ref": "03.03.02-补10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.03.03",
+      "title": "电梯楼层与楼栋",
+      "title_my": "ဓာတ်လှေကား၊ အထပ်နှင့် အဆောက်အအုံ",
+      "phrase_count": 22,
+      "phrases": [
+        {
+          "id": "03.03.03-S001",
+          "text": "去几楼？",
+          "meaning_my": "ဘယ်အထပ် သွားမလဲ။",
+          "replies": [
+            {
+              "id": "03.03.03-S001_reply01",
+              "text": "去十二楼。",
+              "meaning_my": "ဆယ့်နှစ်ထပ်ကို သွားမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.03-S001_alt01",
+              "text": "到几楼？",
+              "meaning_my": "ဘယ်အထပ် သွားမလဲ။"
+            }
+          ],
+          "source_ref": "03.03.03-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S002",
+          "text": "帮我按八楼。",
+          "meaning_my": "ရှစ်ထပ်ကို နှိပ်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.03.03-S002_alt01",
+              "text": "麻烦按一下八楼。",
+              "meaning_my": "ရှစ်ထပ်ကို နှိပ်ပေးပါဦး။"
+            }
+          ],
+          "source_ref": "03.03.03-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S003",
+          "text": "这是几号楼？",
+          "meaning_my": "ဒါ အဆောက်အအုံ နံပါတ်ဘယ်လောက်လဲ။",
+          "replies": [
+            {
+              "id": "03.03.03-S003_reply01",
+              "text": "三号楼。",
+              "meaning_my": "အဆောက်အအုံ နံပါတ်သုံး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.03-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S004",
+          "text": "这是几单元？",
+          "meaning_my": "ဒါ ဘယ်ယူနစ်လဲ။",
+          "replies": [
+            {
+              "id": "03.03.03-S004_reply01",
+              "text": "二单元。",
+              "meaning_my": "ယူနစ် နံပါတ်နှစ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.03-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "小区楼栋的“单元”多指某栋楼内的一个独立入口或楼梯单元，不等于门牌房号。",
+              "text_my": "အိမ်ရာအဆောက်အအုံထဲက “单元” က သီးခြားဝင်ပေါက် ဒါမှမဟုတ် လှေကားအပိုင်းကို ဆိုလိုတတ်တယ်။ အခန်းနံပါတ်နဲ့ မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.03.03-S005",
+          "text": "这个电梯到八楼吗？",
+          "meaning_my": "ဒီဓာတ်လှေကား ရှစ်ထပ်ရောက်လား။",
+          "replies": [
+            {
+              "id": "03.03.03-S005_reply01",
+              "text": "不到，要换一部。",
+              "meaning_my": "မရောက်ဘူး၊ တခြားဓာတ်လှေကား ပြောင်းစီးရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.03-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S006",
+          "text": "电梯在右边。",
+          "meaning_my": "ဓာတ်လှေကား ညာဘက်မှာ ရှိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S007",
+          "text": "A座从哪个门进？",
+          "meaning_my": "A ဆောင်ကို ဘယ်တံခါးက ဝင်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S008",
+          "text": "要换电梯吗？",
+          "meaning_my": "ဓာတ်လှေကား ပြောင်းစီးရမလား။",
+          "replies": [
+            {
+              "id": "03.03.03-S008_reply01",
+              "text": "不用，这一部能到。",
+              "meaning_my": "မလိုဘူး၊ ဒီတစ်စီး ရောက်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.03-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S009",
+          "text": "你在几楼？我上去。",
+          "meaning_my": "ဘယ်အထပ်မှာလဲ၊ အပေါ်တက်လာမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-S019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S010",
+          "text": "电梯来了，进来吧。",
+          "meaning_my": "ဓာတ်လှေကား ရောက်လာပြီ၊ ဝင်လာခဲ့။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.03.03-S010_alt01",
+              "text": "电梯来了。",
+              "meaning_my": "ဓာတ်လှေကား ရောက်လာပြီ။"
+            }
+          ],
+          "source_ref": "03.03.03-S021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S011",
+          "text": "得去旁边那栋楼。",
+          "meaning_my": "ဘေးက အဆောက်အအုံကို သွားရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-S016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S012",
+          "text": "电梯坏了。",
+          "meaning_my": "ဓာတ်လှေကား ပျက်နေတယ်။",
+          "replies": [
+            {
+              "id": "03.03.03-S012_reply01",
+              "text": "电梯在维修。",
+              "meaning_my": "ဓာတ်လှေကား ပြင်နေတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.03-S012_alt01",
+              "text": "电梯不能用了。",
+              "meaning_my": "ဓာတ်လှေကား သုံးလို့မရတော့ဘူး။"
+            }
+          ],
+          "source_ref": "03.03.03-补01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S013",
+          "text": "电梯满了，等下一趟。",
+          "meaning_my": "ဓာတ်လှေကား ပြည့်နေပြီ၊ နောက်တစ်စီး စောင့်ရအောင်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S014",
+          "text": "走楼梯吧。",
+          "meaning_my": "လှေကားနဲ့ သွားရအောင်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S015",
+          "text": "楼梯在哪儿？",
+          "meaning_my": "လှေကား ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S016",
+          "text": "按错楼层了。",
+          "meaning_my": "အထပ် မှားနှိပ်မိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S017",
+          "text": "电梯门关不上。",
+          "meaning_my": "ဓာတ်လှေကားတံခါး ပိတ်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S018",
+          "text": "这层电梯不停。",
+          "meaning_my": "ဒီအထပ်မှာ ဓာတ်လှေကား မရပ်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S019",
+          "text": "超载了，得出去一个。",
+          "meaning_my": "ဓာတ်လှေကား ဝန်ပိုသွားပြီ၊ တစ်ယောက်လောက် ထွက်ပေးရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "如果电梯发出超载警报，应按提示减轻载荷；电梯故障或停电时不要强行关门、乘坐。",
+              "text_my": "ဓာတ်လှေကား ဝန်ပိုသတိပေးသံမြည်ရင် ဝန်လျှော့ပေးပါ။ စက်ပျက်နေချိန်၊ မီးပျက်နေချိန်မှာ တံခါးကို အတင်းမပိတ်ဘဲ ဓာတ်လှေကားမစီးပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "03.03.03-S020",
+          "text": "帮我按住开门键。",
+          "meaning_my": "တံခါးဖွင့်ခလုတ်ကို ခဏဖိထားပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S021",
+          "text": "你先上，我坐下一趟。",
+          "meaning_my": "အရင်စီးလိုက်ပါ၊ နောက်တစ်စီးမှ စီးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-补15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.03-S022",
+          "text": "在一楼换电梯。",
+          "meaning_my": "မြေညီထပ်မှာ ဓာတ်လှေကား ပြောင်းစီးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.03-S017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "中国大陆通常把地面层叫“一楼”；不同国家的楼层标法可能不一样，需留意指示牌。",
+              "text_my": "တရုတ်ပြည်မမှာ မြေညီထပ်ကို ပုံမှန် “一楼” လို့ခေါ်တယ်။ နိုင်ငံအလိုက် အထပ်ရေတွက်ပုံ မတူနိုင်လို့ ဆိုင်းဘုတ်ကို ကြည့်ပါ။"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03.03.04",
+      "title": "公共卫生间",
+      "title_my": "အများသုံးအိမ်သာနှင့် အသုံးအဆောင်များ",
+      "phrase_count": 20,
+      "phrases": [
+        {
+          "id": "03.03.04-S001",
+          "text": "卫生间在哪儿？",
+          "meaning_my": "အိမ်သာ ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.03.04-S001_reply01",
+              "text": "男厕在左边。",
+              "meaning_my": "အမျိုးသားအိမ်သာ ဘယ်ဘက်မှာ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.04-S001_alt01",
+              "text": "厕所在哪儿？",
+              "meaning_my": "အိမ်သာ ဘယ်မှာလဲ။"
+            }
+          ],
+          "source_ref": "03.03.04-补01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S002",
+          "text": "这层有卫生间吗？",
+          "meaning_my": "ဒီအထပ်မှာ အိမ်သာ ရှိလား။",
+          "replies": [
+            {
+              "id": "03.03.04-S002_reply01",
+              "text": "楼上还有卫生间。",
+              "meaning_my": "အပေါ်ထပ်မှာလည်း အိမ်သာ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.04-S018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S003",
+          "text": "这间有人吗？",
+          "meaning_my": "ဒီအိမ်သာခန်းထဲ လူရှိလား။",
+          "replies": [
+            {
+              "id": "03.03.04-S003_reply01",
+              "text": "这间有人，你等一下。",
+              "meaning_my": "ဒီအခန်းထဲ လူရှိတယ်၊ ခဏစောင့်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.04-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S004",
+          "text": "这间能用吗？",
+          "meaning_my": "ဒီအိမ်သာခန်း သုံးလို့ရလား။",
+          "replies": [
+            {
+              "id": "03.03.04-S004_reply01",
+              "text": "先去楼上那间吧。",
+              "meaning_my": "အပေါ်ထပ်က အခန်းကို အရင်သွားရအောင်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.04-S004_alt01",
+              "text": "这个隔间能用吗？",
+              "meaning_my": "ဒီအိမ်သာခန်း သုံးလို့ရလား။"
+            }
+          ],
+          "source_ref": "03.03.04-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S005",
+          "text": "厕纸在哪儿？",
+          "meaning_my": "အိမ်သာသုံးစက္ကူ ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.03.04-S005_reply01",
+              "text": "厕纸在门口。",
+              "meaning_my": "အိမ်သာသုံးစက္ကူ တံခါးနားမှာ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.03.04-S005_alt01",
+              "text": "卫生纸在哪儿？",
+              "meaning_my": "အိမ်သာသုံးစက္ကူ ဘယ်မှာလဲ။"
+            }
+          ],
+          "source_ref": "03.03.04-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S006",
+          "text": "没纸了。",
+          "meaning_my": "အိမ်သာသုံးစက္ကူ ကုန်သွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S007",
+          "text": "这儿有洗手液吗？",
+          "meaning_my": "ဒီမှာ လက်ဆေးဆပ်ပြာရည် ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S008",
+          "text": "洗手液用完了。",
+          "meaning_my": "လက်ဆေးဆပ်ပြာရည် ကုန်သွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S009",
+          "text": "洗手池在哪儿？",
+          "meaning_my": "လက်ဆေးကန် ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.03.04-S009_reply01",
+              "text": "出门右边就是洗手池。",
+              "meaning_my": "အပြင်ထွက်ပြီး ညာဘက်မှာ လက်ဆေးကန် ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.03.04-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S010",
+          "text": "这间厕所没法冲水。",
+          "meaning_my": "ဒီအိမ်သာမှာ ရေဆွဲချလို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S011",
+          "text": "正在打扫。",
+          "meaning_my": "သန့်ရှင်းရေး လုပ်နေပါတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-S013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S012",
+          "text": "暂时不能用。",
+          "meaning_my": "ခဏတော့ သုံးလို့မရသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S013",
+          "text": "要排队吗？",
+          "meaning_my": "တန်းစီရမလား။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.03.04-S013_alt01",
+              "text": "现在要排队吗？",
+              "meaning_my": "အခု တန်းစီရမလား။"
+            }
+          ],
+          "source_ref": "03.03.04-S019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S014",
+          "text": "马桶堵了。",
+          "meaning_my": "အိမ်သာအိုး ပိတ်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-补02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S015",
+          "text": "水龙头关不上。",
+          "meaning_my": "ရေဘုံဘိုင် ပိတ်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-补03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S016",
+          "text": "洗手池堵了。",
+          "meaning_my": "လက်ဆေးကန် ရေဆင်းပေါက် ပိတ်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-补04",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S017",
+          "text": "无障碍卫生间在哪儿？",
+          "meaning_my": "မသန်စွမ်းသူတွေလည်း သုံးလို့ရတဲ့ အိမ်သာ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“无障碍卫生间”是便于轮椅使用者或行动不便者使用的设施，比旧称“残疾人厕所”更合适。",
+              "text_my": "“无障碍卫生间” က ဘီးတပ်ကုလားထိုင် သုံးသူတွေ၊ သွားလာရခက်သူတွေ အဆင်ပြေအောင် စီစဉ်ထားတဲ့ အိမ်သာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.03.04-S018",
+          "text": "有母婴室吗？",
+          "meaning_my": "ကလေးနို့တိုက်ခန်း ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-补08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“母婴室”通常提供哺乳、照护婴儿等空间；不一定就在公共卫生间里。",
+              "text_my": "“母婴室” က ကလေးနို့တိုက်တာ၊ ကလေးကို ပြုစုတာတွေအတွက် သီးသန့်အခန်းပါ။ အိမ်သာထဲမှာပဲ ရှိမယ်လို့ မဆိုလိုပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.03.04-S019",
+          "text": "垃圾桶在哪儿？",
+          "meaning_my": "အမှိုက်ပုံး ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-补09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.03.04-S020",
+          "text": "这间锁不上。",
+          "meaning_my": "ဒီအိမ်သာခန်း တံခါးသော့ခတ်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.03.04-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 86,
+    "replies": 31,
+    "alternatives": 13,
+    "notes": 8,
+    "total_audio": 130
+  },
+  "core_nouns": [
+    {
+      "cn": "钥匙",
+      "my": "သော့",
+      "example_id": "03.03.01-S001",
+      "priority": "core"
+    },
+    {
+      "cn": "电梯",
+      "my": "ဓာတ်လှေကား",
+      "example_id": "03.03.03-S012",
+      "priority": "core"
+    },
+    {
+      "cn": "卫生间",
+      "my": "အိမ်သာ",
+      "example_id": "03.03.04-S001",
+      "priority": "core"
+    },
+    {
+      "cn": "门",
+      "my": "တံခါး",
+      "example_id": "03.03.01-S002",
+      "priority": "core"
+    }
+  ],
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "utility-first spoken language editorial ranking, non-statistical",
+    "checklist": [
+      "main IDs continuous",
+      "audio IDs unique",
+      "TXT/JSON matching",
+      "source ID tracking",
+      "gender-neutral Burmese where feasible"
+    ],
+    "pronunciation_status": "not_generated",
+    "mp3_status": "not_recorded",
+    "native_burmese_teacher_review": "pending"
+  }
+}
