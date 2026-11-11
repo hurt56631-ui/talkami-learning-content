@@ -1,17 +1,19 @@
 {
-  "version": "v2_reply_value_20261111",
-  "policy": "Keep question replies unless excluded. Only keep statement replies with explicitly curated IDs; remove generic echo/forced responses, keep informative dialogues. No forced replies. Child reply IDs stay unchanged (gaps allowed), no audio made. Alternatives retained except exact/formulaic duplicates; main unchanged.",
+  "version": "v2_reply_value_refined_20261111",
+  "policy": "保留有对话教学价值的回复；问句通常保留一个自然回答，但显而易见、答非所问、机械重复的例子按ID删除；陈述句只有明确列入keep_statement_replies才保留。主句和类似说法暂时不删，回复ID保持原样，允许因删除而有编号空缺。缅语母语审校尚未完成。",
   "keep_statement_replies": {
     "01.01.01": [
       1,
       3,
       7,
+      14,
       20
     ],
     "01.01.02": [
       7,
       12,
       13,
+      14,
       16,
       20,
       21
@@ -19,6 +21,7 @@
     "01.01.03": [
       11,
       20,
+      26,
       27
     ],
     "01.01.04": [
@@ -463,13 +466,8 @@
       23,
       25
     ],
-    "01.01.02": [
-      17,
-      25
-    ],
+    "01.01.02": [],
     "01.01.03": [
-      5,
-      15,
       21
     ],
     "01.02.03": [
