@@ -1,0 +1,1122 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "03.04",
+  "theme_title": "水电空调与家电故障",
+  "theme_title_my": "ရေ၊ မီး၊ အဲကွန်းနှင့် အိမ်သုံးစက်ပစ္စည်းများ ပျက်ခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 65,
+  "original_count": 60,
+  "added_count": 5,
+  "note": "用户原有67句主句，经实用性筛选保留60句为主句、6句调整为回复、1句删除；另补5句核心口语。高频内容置前；缅语口语和安全提醒已做初审，但仍须母语教师逐句终审。未配音。",
+  "source_counts": {
+    "user_original_main": 67,
+    "selected_from_original": 60,
+    "original_moved_to_reply": 6,
+    "original_removed": 1,
+    "editorial_new_main": 5
+  },
+  "scenes": [
+    {
+      "id": "03.04.01",
+      "title": "空调温度",
+      "title_my": "အဲကွန်းနှင့် အပူချိန်ချိန်ညှိခြင်း",
+      "phrase_count": 18,
+      "phrases": [
+        {
+          "id": "03.04.01-S001",
+          "text": "开一下空调。",
+          "meaning_my": "အဲကွန်းလေး ဖွင့်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S002",
+          "text": "太热了。",
+          "meaning_my": "ပူလွန်းတယ်။",
+          "replies": [
+            {
+              "id": "03.04.01-S002_reply01",
+              "text": "那我调低一点。",
+              "meaning_my": "ဒါဆို အပူချိန် နည်းနည်းလျှော့ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.01-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S003",
+          "text": "太冷了。",
+          "meaning_my": "အေးလွန်းတယ်။",
+          "replies": [
+            {
+              "id": "03.04.01-S003_reply01",
+              "text": "我把温度调高一点。",
+              "meaning_my": "အပူချိန် နည်းနည်းမြှင့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.01-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S004",
+          "text": "温度调高一点。",
+          "meaning_my": "အပူချိန် နည်းနည်းမြှင့်ပေးပါ။",
+          "replies": [
+            {
+              "id": "03.04.01-S004_reply01",
+              "text": "已经调高了。",
+              "meaning_my": "အပူချိန် မြှင့်ထားပြီးပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.01-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "制冷模式下，调高设定温度通常会没那么冷；调低则通常更冷。不要把“调高”误解成让空调吹得更冷。",
+              "text_my": "အအေးပေးမုဒ်မှာ သတ်မှတ်အပူချိန် မြှင့်ရင် အေးတာ လျော့တတ်တယ်။ အပူချိန်လျှော့ရင် ပိုအေးတတ်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "03.04.01-S005",
+          "text": "温度调低一点。",
+          "meaning_my": "အပူချိန် နည်းနည်းလျှော့ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S006",
+          "text": "空调开多少度？",
+          "meaning_my": "အဲကွန်း ဘယ်နှဒီဂရီထားလဲ။",
+          "replies": [
+            {
+              "id": "03.04.01-S006_reply01",
+              "text": "现在调到二十四度了。",
+              "meaning_my": "အခု နှစ်ဆယ့်လေးဒီဂရီ ထားပြီးပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.04.01-S006_alt01",
+              "text": "空调调到几度了？",
+              "meaning_my": "အဲကွန်း ဘယ်နှဒီဂရီ ချိန်ထားလဲ။"
+            }
+          ],
+          "source_ref": "03.04.01-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S007",
+          "text": "调到二十四度可以吗？",
+          "meaning_my": "နှစ်ဆယ့်လေးဒီဂရီ ထားရင် ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S008",
+          "text": "遥控器在哪儿？",
+          "meaning_my": "ရီမုတ် ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.04.01-S008_reply01",
+              "text": "遥控器在桌上。",
+              "meaning_my": "ရီမုတ်က စားပွဲပေါ်မှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.01-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S009",
+          "text": "关一下空调。",
+          "meaning_my": "အဲကွန်းလေး ပိတ်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_N001_03.04.01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S010",
+          "text": "空调可以关了吗？",
+          "meaning_my": "အဲကွန်း ပိတ်လို့ရပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S011",
+          "text": "空调不制冷。",
+          "meaning_my": "အဲကွန်းက အေးမလာဘူး။",
+          "replies": [
+            {
+              "id": "03.04.01-S011_reply01",
+              "text": "先看看是不是制冷模式。",
+              "meaning_my": "အအေးပေးမုဒ် ဟုတ်မဟုတ် အရင်ကြည့်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.04.01-S011_alt01",
+              "text": "空调不凉了。",
+              "meaning_my": "အဲကွန်း အေးမလာတော့ဘူး။"
+            }
+          ],
+          "source_ref": "03.04.01-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“不制冷”是空调不能正常降温，不等于“空调没开”。",
+              "text_my": "“不制冷” က အဲကွန်းက ပုံမှန်အတိုင်း မအေးတာပါ။ “မဖွင့်ထားဘူး” ဆိုတာနဲ့ မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.04.01-S012",
+          "text": "风太大了，调小点吧。",
+          "meaning_my": "လေအရမ်းပြင်းတယ်၊ နည်းနည်းလျှော့ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S013",
+          "text": "空调别对着我吹。",
+          "meaning_my": "အဲကွန်းလေ ဒီဘက် တည့်တည့် မတိုက်အောင် လှည့်ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "03.04.01-S013_reply01",
+              "text": "好，我把风口往上调。",
+              "meaning_my": "ကောင်းပြီ၊ လေထွက်ပေါက်ကို အပေါ်ဘက် လှည့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.04.01-S013_alt01",
+              "text": "风口别对着我。",
+              "meaning_my": "လေထွက်ပေါက် ဒီဘက် တည့်တည့် မထားပါနဲ့။"
+            }
+          ],
+          "source_ref": "03.04.01-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S014",
+          "text": "温度别调太低。",
+          "meaning_my": "အပူချိန် အရမ်းမလျှော့နဲ့နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S015",
+          "text": "先关一会儿。",
+          "meaning_my": "ခဏ ပိတ်ထားလိုက်ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S016",
+          "text": "现在是制冷模式吗？",
+          "meaning_my": "အခု အအေးပေးမုဒ် ဖွင့်ထားတာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S017",
+          "text": "空调怎么调成制冷？",
+          "meaning_my": "အဲကွန်းကို အအေးပေးမုဒ် ဘယ်လိုပြောင်းရမလဲ။",
+          "replies": [
+            {
+              "id": "03.04.01-S017_reply01",
+              "text": "按模式键，选制冷。",
+              "meaning_my": "မုဒ်ခလုတ်ကို နှိပ်ပြီး အအေးပေးမုဒ် ရွေးလိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.01-S012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.01-S018",
+          "text": "风口能往上调吗？",
+          "meaning_my": "လေထွက်ပေါက်ကို အပေါ်ဘက် လှည့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.04.02",
+      "title": "停水停电",
+      "title_my": "ရေပြတ်ခြင်းနှင့် မီးပျက်ခြင်း",
+      "phrase_count": 23,
+      "phrases": [
+        {
+          "id": "03.04.02-S001",
+          "text": "停电了。",
+          "meaning_my": "မီးပျက်သွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S002",
+          "text": "停水了。",
+          "meaning_my": "ရေပြတ်သွားပြီ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.04.02-S002_alt01",
+              "text": "没水了。",
+              "meaning_my": "ရေမလာတော့ဘူး။"
+            }
+          ],
+          "source_ref": "editorial_new_N001_03.04.02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S003",
+          "text": "怎么没水了？",
+          "meaning_my": "ရေ ဘာလို့ မလာတော့တာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S004",
+          "text": "什么时候来电？",
+          "meaning_my": "မီး ဘယ်တော့ ပြန်လာမလဲ။",
+          "replies": [
+            {
+              "id": "03.04.02-S004_reply01",
+              "text": "通知说下午六点左右。",
+              "meaning_my": "အကြောင်းကြားစာမှာ ညနေ ခြောက်နာရီလောက်လို့ ရေးထားတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.02-S019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S005",
+          "text": "什么时候来水？",
+          "meaning_my": "ရေ ဘယ်တော့ ပြန်လာမလဲ။",
+          "replies": [
+            {
+              "id": "03.04.02-S005_reply01",
+              "text": "说是下午能恢复。",
+              "meaning_my": "မွန်းလွဲပိုင်း ပြန်လာမယ်လို့ ပြောတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.02-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S006",
+          "text": "来电了。",
+          "meaning_my": "မီးပြန်လာပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_N002_03.04.02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S007",
+          "text": "来水了。",
+          "meaning_my": "ရေပြန်လာပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_N003_03.04.02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S008",
+          "text": "要停多久？",
+          "meaning_my": "ဘယ်လောက်ကြာမှာလဲ။",
+          "replies": [
+            {
+              "id": "03.04.02-S008_reply01",
+              "text": "大概两小时后恢复。",
+              "meaning_my": "နှစ်နာရီလောက်နေရင် ပြန်လာမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.02-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S009",
+          "text": "今天能恢复吗？",
+          "meaning_my": "ဒီနေ့ ပြန်အဆင်ပြေမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S010",
+          "text": "只有我们家没电吗？",
+          "meaning_my": "ဒီအိမ်တစ်အိမ်တည်းပဲ မီးပျက်တာလား။",
+          "replies": [
+            {
+              "id": "03.04.02-S010_reply01",
+              "text": "不是，隔壁也停了。",
+              "meaning_my": "မဟုတ်ဘူး၊ ဘေးအိမ်လည်း မီးပျက်နေတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.02-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S011",
+          "text": "整层都没水吗？",
+          "meaning_my": "ဒီတစ်ထပ်လုံး ရေမလာတာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S012",
+          "text": "有通知吗？",
+          "meaning_my": "အကြောင်းကြားစာ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S013",
+          "text": "通知说几点来电？",
+          "meaning_my": "အကြောင်းကြားစာမှာ မီး ဘယ်နှနာရီ ပြန်လာမယ်လို့ ရေးထားလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S014",
+          "text": "物业怎么说？",
+          "meaning_my": "အဆောက်အအုံ စီမံခန့်ခွဲရေးဘက်က ဘာပြောလဲ။",
+          "replies": [
+            {
+              "id": "03.04.02-S014_reply01",
+              "text": "物业说下午来水。",
+              "meaning_my": "မွန်းလွဲပိုင်း ရေပြန်လာမယ်လို့ စီမံခန့်ခွဲရေးဘက်က ပြောတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.02-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "中国租房语境中的“物业”通常是小区或大楼的管理服务方，和“房东”（业主或出租人）不同。",
+              "text_my": "တရုတ်နိုင်ငံမှာ “物业” က အိမ်ရာ ဒါမှမဟုတ် အဆောက်အအုံကို စီမံခန့်ခွဲတဲ့ဘက်ပါ။ “房东” ဆိုတဲ့ အိမ်ရှင်နဲ့ မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.04.02-S015",
+          "text": "物业什么时候派人来？",
+          "meaning_my": "စီမံခန့်ခွဲရေးဘက်က ပြင်မယ့်သူကို ဘယ်တော့ လွှတ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.04.02-S015_reply01",
+              "text": "已经有人在修了。",
+              "meaning_my": "ပြင်နေတဲ့သူ ရှိနေပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.02-S017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S016",
+          "text": "已经通知物业了。",
+          "meaning_my": "စီမံခန့်ခွဲရေးဘက်ကို အကြောင်းကြားပြီးပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S017",
+          "text": "好像又停电了。",
+          "meaning_my": "မီး ထပ်ပျက်သွားပြန်ပြီ ထင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S023",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S018",
+          "text": "停电的时候电梯还能用吗？",
+          "meaning_my": "မီးပျက်နေချိန် ဓာတ်လှေကား သုံးလို့ရဦးမလား။",
+          "replies": [
+            {
+              "id": "03.04.02-S018_reply01",
+              "text": "先别坐，等来电再说。",
+              "meaning_my": "အခု မစီးနဲ့ဦး၊ မီးပြန်လာမှ စီး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.02-S018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "停电或供电异常时不要贸然乘电梯；即使有备用电源，也应先确认物业安全指引。",
+              "text_my": "မီးပျက်နေချိန်၊ မီးအားမမှန်ချိန်မှာ ဓာတ်လှေကားကို မစီးသင့်ပါ။ အရန်မီးရှိရင်တောင် စီမံခန့်ခွဲရေးရဲ့ လုံခြုံရေးညွှန်ကြားချက်ကို အရင်စစ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.04.02-S019",
+          "text": "水压怎么这么小？",
+          "meaning_my": "ရေအား ဘာလို့ ဒီလောက်နည်းနေတာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S020",
+          "text": "家里停水了，能去哪儿接水？",
+          "meaning_my": "အိမ်မှာ ရေမလာလို့ ဘယ်မှာ ရေသွားခပ်လို့ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S021",
+          "text": "停水之前能通知一声吗？",
+          "meaning_my": "ရေမဖြတ်ခင် ကြိုအကြောင်းကြားပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S022",
+          "text": "哪里可以看通知？",
+          "meaning_my": "အကြောင်းကြားစာကို ဘယ်မှာကြည့်လို့ရလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S009",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.02-S023",
+          "text": "楼道也停电了吗？",
+          "meaning_my": "အဆောက်အအုံ လျှောက်လမ်းမှာလည်း မီးပျက်နေလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.02-S020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.04.03",
+      "title": "家电故障",
+      "title_my": "အိမ်သုံးလျှပ်စစ်ပစ္စည်း ပျက်ခြင်းနှင့် ပြုပြင်ခြင်း",
+      "phrase_count": 24,
+      "phrases": [
+        {
+          "id": "03.04.03-S001",
+          "text": "洗衣机坏了。",
+          "meaning_my": "အဝတ်လျှော်စက် ပျက်သွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S002",
+          "text": "洗衣机不转了。",
+          "meaning_my": "အဝတ်လျှော်စက် မလည်တော့ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S003",
+          "text": "热水器没反应。",
+          "meaning_my": "ရေပူစက် ဖွင့်လိုက်လည်း အလုပ်မလုပ်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S004",
+          "text": "热水器不出热水。",
+          "meaning_my": "ရေပူစက်က ရေနွေးမထွက်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S005",
+          "text": "冰箱不制冷。",
+          "meaning_my": "ရေခဲသေတ္တာ အေးမလာဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S006",
+          "text": "灯不亮。",
+          "meaning_my": "မီးမလင်းဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S007",
+          "text": "插座没电了。",
+          "meaning_my": "ပလပ်ပေါက်မှာ မီးမလာဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S008",
+          "text": "插上电也没反应。",
+          "meaning_my": "ပလပ်ထိုးထားလည်း စက်က အလုပ်မလုပ်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S009",
+          "text": "是不是电源没插好？",
+          "meaning_my": "ပလပ်ကို သေချာ မထိုးထားလို့လား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S010",
+          "text": "这里一直漏水。",
+          "meaning_my": "ဒီနေရာက ရေ တောက်လျှောက် ယိုနေတယ်။",
+          "replies": [
+            {
+              "id": "03.04.03-S010_reply01",
+              "text": "先关水，别碰旁边的插座。",
+              "meaning_my": "ရေကို အရင်ပိတ်၊ ဘေးက ပလပ်ပေါက်ကို မထိနဲ့ဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.04.03-S010_alt01",
+              "text": "这儿漏水了。",
+              "meaning_my": "ဒီမှာ ရေယိုနေတယ်။"
+            }
+          ],
+          "source_ref": "03.04.03-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S011",
+          "text": "先把水关掉。",
+          "meaning_my": "ရေကို အရင်ပိတ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S012",
+          "text": "这个先别插电。",
+          "meaning_my": "ဒါကို ပလပ်မထိုးနဲ့ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S013",
+          "text": "先断电。",
+          "meaning_my": "အရင် မီးအားဖြတ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "遇到漏水、疑似漏电或焦味时不要自行拆修电器，也不要用湿手触碰电器、插头或开关；让专业维修人员处理。",
+              "text_my": "ရေယိုတာ၊ ဓာတ်လိုက်နိုင်တာ၊ မီးကျွမ်းနံ့ရတာတွေရှိရင် စက်ကို ကိုယ့်ဘာသာ မဖြုတ်ပြင်ပါနဲ့။ လက်စိုနဲ့ ပလပ်၊ ခလုတ်တွေ မကိုင်ပါနဲ့။ ကျွမ်းကျင်တဲ့ ပြင်သမားကို ခေါ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.04.03-S014",
+          "text": "先别用了，找师傅检查。",
+          "meaning_my": "ဆက်မသုံးနဲ့ဦး၊ ပြင်သမားကို ခေါ်ပြီး စစ်ခိုင်းရအောင်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S015",
+          "text": "能找人来看一下吗？",
+          "meaning_my": "ပြင်သမားတစ်ယောက် လာကြည့်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "03.04.03-S015_reply01",
+              "text": "可以，我联系师傅。",
+              "meaning_my": "ရတယ်၊ ပြင်သမားကို ဆက်သွယ်လိုက်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.03-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S016",
+          "text": "要不要叫电工来看看？",
+          "meaning_my": "လျှပ်စစ်ပြင်သမားကို ခေါ်ကြည့်ခိုင်းရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S017",
+          "text": "我问问房东能不能找人修。",
+          "meaning_my": "အိမ်ရှင်ကို ပြင်သမားခေါ်ပေးနိုင်မလားလို့ မေးကြည့်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S018",
+          "text": "今晚能上门修吗？",
+          "meaning_my": "ဒီည အိမ်လာပြင်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "03.04.03-S018_reply01",
+              "text": "今晚没空，明天上午可以。",
+              "meaning_my": "ဒီည မအားဘူး၊ မနက်ဖြန် မနက်ပိုင်းတော့ ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.01-S021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S019",
+          "text": "我白天上班，周末能来修吗？",
+          "meaning_my": "နေ့ဘက် အလုပ်ဆင်းရလို့ ပိတ်ရက်မှာ လာပြင်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.01-S022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S020",
+          "text": "维修大概要多少钱？",
+          "meaning_my": "ပြင်ရင် ဘယ်လောက်လောက် ကုန်မလဲ။",
+          "replies": [
+            {
+              "id": "03.04.03-S020_reply01",
+              "text": "得先看看是什么问题。",
+              "meaning_my": "ဘာပြဿနာလဲ အရင် ကြည့်ရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.04.03-S020_alt01",
+              "text": "修一下要多少钱？",
+              "meaning_my": "ပြင်ရင် ဘယ်လောက်ကုန်မလဲ။"
+            }
+          ],
+          "source_ref": "03.04.03-S016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S021",
+          "text": "上门费要另外收吗？",
+          "meaning_my": "အိမ်လာကြည့်ခ သီးသန့် ပေးရသေးလား။",
+          "replies": [
+            {
+              "id": "03.04.03-S021_reply01",
+              "text": "要，维修费另算。",
+              "meaning_my": "ပေးရတယ်၊ ပြင်ခက သီးသန့်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.04.03-S017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“上门费”是师傅到现场的费用，可能与“维修费”“材料费”分开计价，修前问清楚。",
+              "text_my": "“上门费” က ပြင်သမား အိမ်လာကြည့်တဲ့ခပါ။ ပြင်ခ၊ ပစ္စည်းဖိုးနဲ့ သီးခြားယူနိုင်လို့ မပြင်ခင် မေးထားပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.04.03-S022",
+          "text": "这个还能修好吗？",
+          "meaning_my": "ဒါ ပြန်ပြင်လို့ရသေးလား။",
+          "replies": [
+            {
+              "id": "03.04.03-S022_reply01",
+              "text": "能修，但得换个零件。",
+              "meaning_my": "ပြင်လို့ရတယ်၊ ဒါပေမဲ့ အစိတ်အပိုင်းတစ်ခု လဲရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.04.03-S022_alt01",
+              "text": "还能修吗？",
+              "meaning_my": "ပြန်ပြင်လို့ ရဦးမလား။"
+            }
+          ],
+          "source_ref": "03.04.03-S013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S023",
+          "text": "可能要换新的。",
+          "meaning_my": "အသစ်လဲရမယ် ထင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.04.03-S014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.04.03-S024",
+          "text": "闻到烧焦味了。",
+          "meaning_my": "မီးကျွမ်းနံ့ ရနေတယ်။",
+          "replies": [
+            {
+              "id": "03.04.03-S024_reply01",
+              "text": "先别用了，找专业人员。",
+              "meaning_my": "ဆက်မသုံးနဲ့ဦး၊ ကျွမ်းကျင်တဲ့ ပြင်သမားကို ခေါ်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_N001_03.04.03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 65,
+    "replies": 22,
+    "alternatives": 7,
+    "notes": 6,
+    "total_audio": 94
+  },
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "sorting": "editorial practical utility, not measured frequency",
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded",
+    "native_review_required": true
+  }
+}
