@@ -1,0 +1,338 @@
+{
+  "theme_id": "06.01",
+  "original_candidates": 84,
+  "additional_candidates": 60,
+  "current_main": 66,
+  "mapping": [
+    {
+      "source_ref": "user_original_06.01.01_O001",
+      "id": "06.01.01-S001",
+      "text": "请问，去这里怎么走？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O002",
+      "id": "06.01.01-S002",
+      "text": "去地铁站往哪边走？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O020",
+      "id": "06.01.01-S003",
+      "text": "去医院要往哪边走？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O022",
+      "id": "06.01.01-S004",
+      "text": "从这儿怎么去市场？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O021",
+      "id": "06.01.01-S005",
+      "text": "这附近有公交站吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O010",
+      "id": "06.01.01-S006",
+      "text": "从哪个出口出去？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O004",
+      "id": "06.01.01-S007",
+      "text": "一直往前走吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O005",
+      "id": "06.01.01-S008",
+      "text": "左转还是右转？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O007",
+      "id": "06.01.01-S009",
+      "text": "前面这个路口要转吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O009",
+      "id": "06.01.01-S010",
+      "text": "走到路口以后呢？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O006",
+      "id": "06.01.01-S011",
+      "text": "从这里进去吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O011",
+      "id": "06.01.01-S012",
+      "text": "要过马路吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O023",
+      "id": "06.01.01-S013",
+      "text": "这里能过马路吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.01_O008",
+      "id": "06.01.01-S014",
+      "text": "这里能直接过去吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.01_N04",
+      "id": "06.01.01-S015",
+      "text": "走到头再转弯吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.01_N06",
+      "id": "06.01.01-S016",
+      "text": "要上天桥吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.01_N07",
+      "id": "06.01.01-S017",
+      "text": "走地下通道吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.01_N13",
+      "id": "06.01.01-S018",
+      "text": "坐几路公交？"
+    },
+    {
+      "source_ref": "user_addition_06.01.01_N14",
+      "id": "06.01.01-S019",
+      "text": "地铁坐几号线？"
+    },
+    {
+      "source_ref": "user_addition_06.01.01_N15",
+      "id": "06.01.01-S020",
+      "text": "在哪一站下车？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O001",
+      "id": "06.01.02-S001",
+      "text": "走过去远吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O002",
+      "id": "06.01.02-S002",
+      "text": "走路要多久？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O003",
+      "id": "06.01.02-S003",
+      "text": "坐车要多久？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O005",
+      "id": "06.01.02-S004",
+      "text": "大概多远？"
+    },
+    {
+      "source_ref": "user_addition_06.01.02_N03",
+      "id": "06.01.02-S005",
+      "text": "走路能到吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O006",
+      "id": "06.01.02-S006",
+      "text": "走过去来得及吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O007",
+      "id": "06.01.02-S007",
+      "text": "打车会快一点吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O008",
+      "id": "06.01.02-S008",
+      "text": "坐地铁会更快吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O011",
+      "id": "06.01.02-S009",
+      "text": "路上容易堵车吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O010",
+      "id": "06.01.02-S010",
+      "text": "离地铁站远不远？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O022",
+      "id": "06.01.02-S011",
+      "text": "骑车过去要多久？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O021",
+      "id": "06.01.02-S012",
+      "text": "走路十分钟能到吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O024",
+      "id": "06.01.02-S013",
+      "text": "走过去还是坐车方便？"
+    },
+    {
+      "source_ref": "user_original_06.01.02_O025",
+      "id": "06.01.02-S014",
+      "text": "还要走多远？"
+    },
+    {
+      "source_ref": "user_addition_06.01.02_N05",
+      "id": "06.01.02-S015",
+      "text": "坐公交要多久？"
+    },
+    {
+      "source_ref": "user_addition_06.01.02_N06",
+      "id": "06.01.02-S016",
+      "text": "打车大概多少钱？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O001",
+      "id": "06.01.03-S001",
+      "text": "在商场旁边吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O004",
+      "id": "06.01.03-S002",
+      "text": "在马路对面吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O003",
+      "id": "06.01.03-S003",
+      "text": "到红绿灯要左转吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O005",
+      "id": "06.01.03-S004",
+      "text": "看到便利店再转吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O006",
+      "id": "06.01.03-S005",
+      "text": "过桥以后往哪边走？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O007",
+      "id": "06.01.03-S006",
+      "text": "入口在什么位置？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O008",
+      "id": "06.01.03-S007",
+      "text": "是不是在药店旁边？"
+    },
+    {
+      "source_ref": "user_original_06.01.03_O015",
+      "id": "06.01.03-S008",
+      "text": "景区走哪个门方便？"
+    },
+    {
+      "source_ref": "user_addition_06.01.03_N02",
+      "id": "06.01.03-S009",
+      "text": "在学校对面吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.03_N05",
+      "id": "06.01.03-S010",
+      "text": "看到银行就转吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.03_N01",
+      "id": "06.01.03-S011",
+      "text": "在加油站旁边吗？"
+    },
+    {
+      "source_ref": "editorial_new_06.01.03_E01",
+      "id": "06.01.03-S012",
+      "text": "附近有什么明显的地标吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O001",
+      "id": "06.01.04-S001",
+      "text": "我好像走错了。"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O007",
+      "id": "06.01.04-S002",
+      "text": "我迷路了。"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O004",
+      "id": "06.01.04-S003",
+      "text": "我是不是走过头了？"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O005",
+      "id": "06.01.04-S004",
+      "text": "我要往回走吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O006",
+      "id": "06.01.04-S005",
+      "text": "导航好像不对。"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O010",
+      "id": "06.01.04-S006",
+      "text": "导航显示的路走不通。"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O008",
+      "id": "06.01.04-S007",
+      "text": "能帮我看一下路线吗？"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O011",
+      "id": "06.01.04-S008",
+      "text": "我现在应该往哪边走？"
+    },
+    {
+      "source_ref": "user_original_06.01.04_O020",
+      "id": "06.01.04-S009",
+      "text": "我好像走反了。"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N03",
+      "id": "06.01.04-S010",
+      "text": "我重新定位一下。"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N07",
+      "id": "06.01.04-S011",
+      "text": "往回走多远？"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N08",
+      "id": "06.01.04-S012",
+      "text": "要绕一圈吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N09",
+      "id": "06.01.04-S013",
+      "text": "前面能掉头吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N10",
+      "id": "06.01.04-S014",
+      "text": "这条路是单行道吗？"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N11",
+      "id": "06.01.04-S015",
+      "text": "这个出口封了。"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N13",
+      "id": "06.01.04-S016",
+      "text": "我走错出口了。"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N15",
+      "id": "06.01.04-S017",
+      "text": "我到你说的地方了，可没看到。"
+    },
+    {
+      "source_ref": "user_addition_06.01.04_N01",
+      "id": "06.01.04-S018",
+      "text": "我问问路人。"
+    }
+  ]
+}

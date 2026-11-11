@@ -1,0 +1,1358 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "06.01",
+  "theme_title": "问路导航",
+  "theme_title_my": "လမ်းမေးခြင်းနှင့် လမ်းညွှန်",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 66,
+  "original_count": 44,
+  "added_count": 22,
+  "source_counts": {
+    "original_candidates": 84,
+    "addition_candidates": 60,
+    "retained_original": 44,
+    "retained_additions": 21,
+    "editorial_new": 1
+  },
+  "note": "原稿84句与补充60句按实际问路场景精简，高频提问作为主句，指路答案进入按需回复；纠正几路公交的缅语语义，明确方向、路口与拐角、掉头和往回走的区别。缅语母语终审、拼音谐音及MP3尚未完成。",
+  "scenes": [
+    {
+      "id": "06.01.01",
+      "title": "询问方向",
+      "title_my": "လမ်းမေးခြင်းနှင့် သွားရမယ့်ဘက်",
+      "phrase_count": 20,
+      "phrases": [
+        {
+          "id": "06.01.01-S001",
+          "text": "请问，去这里怎么走？",
+          "meaning_my": "တဆိတ်လောက်၊ ဒီနေရာကို ဘယ်လိုသွားရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S001_reply01",
+              "text": "你要去哪儿？",
+              "meaning_my": "ဘယ်ကို သွားချင်တာလဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.01-S001_alt01",
+              "text": "不好意思，想问一下路。",
+              "meaning_my": "အားနာပါတယ်၊ လမ်းနည်းနည်း မေးချင်လို့ပါ။"
+            }
+          ],
+          "source_ref": "user_original_06.01.01_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S002",
+          "text": "去地铁站往哪边走？",
+          "meaning_my": "မြေအောက်ရထားဘူတာကို သွားဖို့ ဘယ်ဘက်ကို သွားရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S002_reply01",
+              "text": "一直往前，第二个路口左转。",
+              "meaning_my": "ရှေ့တည့်တည့်သွားပြီး ဒုတိယလမ်းဆုံမှာ ဘယ်ဘက်ကွေ့ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S003",
+          "text": "去医院要往哪边走？",
+          "meaning_my": "ဆေးရုံသွားဖို့ ဘယ်ဘက်ကို သွားရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S003_reply01",
+              "text": "往前走五分钟，就在右边。",
+              "meaning_my": "ရှေ့တည့်တည့် ငါးမိနစ်လောက် သွားရင် ညာဘက်မှာ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S004",
+          "text": "从这儿怎么去市场？",
+          "meaning_my": "ဒီကနေ ဈေးကို ဘယ်လိုသွားရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S005",
+          "text": "这附近有公交站吗？",
+          "meaning_my": "ဒီနားမှာ ဘတ်စ်ကားမှတ်တိုင် ရှိလား။",
+          "replies": [
+            {
+              "id": "06.01.01-S005_reply01",
+              "text": "有，就在马路对面。",
+              "meaning_my": "ရှိတယ်၊ လမ်းတစ်ဖက်ကမ်းမှာပဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S006",
+          "text": "从哪个出口出去？",
+          "meaning_my": "ဘယ်ထွက်ပေါက်ကနေ ထွက်ရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S006_reply01",
+              "text": "从二号出口出去。",
+              "meaning_my": "နံပါတ်နှစ်ထွက်ပေါက်ကနေ ထွက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.01-S006_alt01",
+              "text": "要走几号出口？",
+              "meaning_my": "နံပါတ်ဘယ်လောက် ထွက်ပေါက်ကနေ ထွက်ရမလဲ။"
+            }
+          ],
+          "source_ref": "user_original_06.01.01_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S007",
+          "text": "一直往前走吗？",
+          "meaning_my": "ရှေ့တည့်တည့်ပဲ ဆက်သွားရမှာလား။",
+          "replies": [
+            {
+              "id": "06.01.01-S007_reply01",
+              "text": "对，直走，到路口再左转。",
+              "meaning_my": "ဟုတ်တယ်၊ တည့်တည့်သွားပြီး လမ်းဆုံရောက်မှ ဘယ်ဘက်ကွေ့ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.01-S007_alt01",
+              "text": "一直直走吗？",
+              "meaning_my": "တည့်တည့်ပဲ ဆက်သွားရမှာလား။"
+            }
+          ],
+          "source_ref": "user_original_06.01.01_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S008",
+          "text": "左转还是右转？",
+          "meaning_my": "ဘယ်ဘက်ကွေ့ရမလား၊ ညာဘက်ကွေ့ရမလား။",
+          "replies": [
+            {
+              "id": "06.01.01-S008_reply01",
+              "text": "到前面的路口右转。",
+              "meaning_my": "ရှေ့က လမ်းဆုံရောက်ရင် ညာဘက်ကွေ့ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“左转/右转”是按你前进方向转向，不是站在对方面前以对方的左右为准。",
+              "text_my": "“左转/右转” ဆိုတာ ကိုယ်သွားနေတဲ့ ဦးတည်ရာအတိုင်း ဘယ်ဘက်၊ ညာဘက် ကွေ့တာပါ။ မျက်နှာချင်းဆိုင်ရပ်နေတဲ့သူရဲ့ ဘယ်ညာနဲ့ မတွက်ပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.01-S009",
+          "text": "前面这个路口要转吗？",
+          "meaning_my": "ရှေ့က ဒီလမ်းဆုံမှာ ကွေ့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S010",
+          "text": "走到路口以后呢？",
+          "meaning_my": "လမ်းဆုံရောက်ပြီးရင် ဘယ်လိုဆက်သွားရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S010_reply01",
+              "text": "过了路口就到了。",
+              "meaning_my": "လမ်းဆုံကျော်သွားရင် ရောက်ပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S011",
+          "text": "从这里进去吗？",
+          "meaning_my": "ဒီကနေ ဝင်ရမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S012",
+          "text": "要过马路吗？",
+          "meaning_my": "လမ်းဖြတ်ကူးရမလား။",
+          "replies": [
+            {
+              "id": "06.01.01-S012_reply01",
+              "text": "要，走前面的人行横道。",
+              "meaning_my": "ဖြတ်ကူးရမယ်၊ ရှေ့က လူကူးမျဉ်းကြားကနေ ကူးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S013",
+          "text": "这里能过马路吗？",
+          "meaning_my": "ဒီနေရာက လမ်းဖြတ်ကူးလို့ရလား။",
+          "replies": [
+            {
+              "id": "06.01.01-S013_reply01",
+              "text": "这里不行，去前面的斑马线。",
+              "meaning_my": "ဒီနေရာက မရဘူး၊ ရှေ့က လူကူးမျဉ်းကြားကို သွားပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O023",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "问路示例不代表允许随处横穿马路；应遵守现场信号灯、人行横道和当地交通规则。",
+              "text_my": "လမ်းမေးတဲ့စကားဖြစ်ပေမဲ့ နေရာတိုင်း လမ်းဖြတ်ကူးလို့ရတယ်လို့ မဆိုလိုဘူး။ မီးပွိုင့်နဲ့ လူကူးမျဉ်းကြား စည်းကမ်းတွေကို လိုက်နာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.01-S014",
+          "text": "这里能直接过去吗？",
+          "meaning_my": "ဒီကနေ တိုက်ရိုက်သွားလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.01_O008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S015",
+          "text": "走到头再转弯吗？",
+          "meaning_my": "လမ်းအဆုံးထိ သွားပြီးမှ ကွေ့ရမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.01_N04",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S016",
+          "text": "要上天桥吗？",
+          "meaning_my": "လူကူးခုံးကျော်တံတားပေါ် တက်ရမလား။",
+          "replies": [
+            {
+              "id": "06.01.01-S016_reply01",
+              "text": "对，从天桥走过去。",
+              "meaning_my": "ဟုတ်တယ်၊ လူကူးခုံးကျော်တံတားကနေ ကူးသွားပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.01_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S017",
+          "text": "走地下通道吗？",
+          "meaning_my": "မြေအောက်လူကူးလမ်းကနေ သွားရမလား။",
+          "replies": [
+            {
+              "id": "06.01.01-S017_reply01",
+              "text": "对，从地下通道过去。",
+              "meaning_my": "ဟုတ်တယ်၊ မြေအောက်လူကူးလမ်းကနေ သွားပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.01_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S018",
+          "text": "坐几路公交？",
+          "meaning_my": "ဘတ်စ်ကား နံပါတ်ဘယ်လောက် စီးရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S018_reply01",
+              "text": "坐十二路公交。",
+              "meaning_my": "နံပါတ်ဆယ့်နှစ် ဘတ်စ်ကား စီးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.01_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“几路公交”问的是公交线路号码，不是要乘坐几辆车；缅语要说“ဘတ်စ်ကား နံပါတ်ဘယ်လောက်”，避免直译成“几辆”。",
+              "text_my": "“几路公交” က ဘတ်စ်ကားလိုင်းနံပါတ်ကို မေးတာပါ။ ဘတ်စ်ကား ဘယ်နှစီး စီးရမလဲလို့ မေးတာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.01-S019",
+          "text": "地铁坐几号线？",
+          "meaning_my": "မြေအောက်ရထား လိုင်းနံပါတ်ဘယ်လောက် စီးရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S019_reply01",
+              "text": "坐二号线。",
+              "meaning_my": "မြေအောက်ရထား လိုင်းနံပါတ်နှစ် စီးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.01_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.01-S020",
+          "text": "在哪一站下车？",
+          "meaning_my": "ဘယ်မှတ်တိုင်မှာ ဆင်းရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.01-S020_reply01",
+              "text": "到人民广场站下车。",
+              "meaning_my": "ပြည်သူ့ရင်ပြင်ဘူတာမှာ ဆင်းပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.01_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“在哪一站下车？”问下车站点；公交车一般说“站/站点”，地铁说“站”，不是一定问末班站。",
+              "text_my": "“在哪一站下车？” က ဘယ်မှတ်တိုင် ဒါမှမဟုတ် ဘူတာမှာ ဆင်းရမလဲဆိုတာ မေးတာပါ။ နောက်ဆုံးဘူတာကိုပဲ မဆိုလိုဘူး။"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06.01.02",
+      "title": "远近时长",
+      "title_my": "အကွာအဝေးနှင့် ကြာချိန် မေးခြင်း",
+      "phrase_count": 16,
+      "phrases": [
+        {
+          "id": "06.01.02-S001",
+          "text": "走过去远吗？",
+          "meaning_my": "လမ်းလျှောက်သွားရင် ဝေးလား။",
+          "replies": [
+            {
+              "id": "06.01.02-S001_reply01",
+              "text": "不远，走过去十分钟。",
+              "meaning_my": "မဝေးဘူး၊ လမ်းလျှောက် ဆယ်မိနစ်လောက်ပဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.02-S001_alt01",
+              "text": "走着去远不远？",
+              "meaning_my": "လမ်းလျှောက်သွားရင် ဝေးမဝေး။"
+            }
+          ],
+          "source_ref": "user_original_06.01.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S002",
+          "text": "走路要多久？",
+          "meaning_my": "လမ်းလျှောက်ရင် ဘယ်လောက်ကြာမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.02-S002_reply01",
+              "text": "大概十五分钟。",
+              "meaning_my": "ဆယ့်ငါးမိနစ်လောက် ကြာမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.02-S002_alt01",
+              "text": "步行大概要几分钟？",
+              "meaning_my": "လမ်းလျှောက်ရင် မိနစ်ဘယ်လောက်လောက် ကြာမလဲ။"
+            }
+          ],
+          "source_ref": "user_original_06.01.02_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“走路要多久”是步行所需时间，“坐车要多久”是乘车时间；距离和堵车情况会影响实际用时。",
+              "text_my": "“走路要多久” က လမ်းလျှောက်ကြာချိန်၊ “坐车要多久” က ကားစီးကြာချိန်ပါ။ အကွာအဝေးနဲ့ ကားပိတ်တာအပေါ် မူတည်ပြီး အချိန်ကွာနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.02-S003",
+          "text": "坐车要多久？",
+          "meaning_my": "ကားစီးသွားရင် ဘယ်လောက်ကြာမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.02-S003_reply01",
+              "text": "不堵车的话，大概二十分钟。",
+              "meaning_my": "ကားမပိတ်ရင် မိနစ်နှစ်ဆယ်လောက် ကြာမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S004",
+          "text": "大概多远？",
+          "meaning_my": "အကြမ်းဖျင်း ဘယ်လောက်ဝေးလဲ။",
+          "replies": [
+            {
+              "id": "06.01.02-S004_reply01",
+              "text": "大概两公里。",
+              "meaning_my": "နှစ်ကီလိုမီတာလောက် ဝေးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“多远”问距离（米、公里）；“多久”问时间（分钟、小时），二者不能混译。",
+              "text_my": "“多远” က အကွာအဝေး (မီတာ၊ ကီလိုမီတာ) ကို မေးတာ၊ “多久” က ကြာချိန် (မိနစ်၊ နာရီ) ကို မေးတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.02-S005",
+          "text": "走路能到吗？",
+          "meaning_my": "လမ်းလျှောက်သွားလို့ ရောက်နိုင်လား။",
+          "replies": [
+            {
+              "id": "06.01.02-S005_reply01",
+              "text": "能到，就是有点远。",
+              "meaning_my": "လမ်းလျှောက်လို့ ရောက်တယ်၊ နည်းနည်းတော့ ဝေးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.02_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S006",
+          "text": "走过去来得及吗？",
+          "meaning_my": "လမ်းလျှောက်သွားရင် အချိန်မီရောက်နိုင်မလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S007",
+          "text": "打车会快一点吗？",
+          "meaning_my": "တက္ကစီစီးရင် ပိုမြန်မလား။",
+          "replies": [
+            {
+              "id": "06.01.02-S007_reply01",
+              "text": "对，打车更快。",
+              "meaning_my": "ဟုတ်တယ်၊ တက္ကစီစီးရင် ပိုမြန်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.02-S007_alt01",
+              "text": "打的会不会更快？",
+              "meaning_my": "တက္ကစီစီးရင် ပိုမြန်မလား။"
+            }
+          ],
+          "source_ref": "user_original_06.01.02_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S008",
+          "text": "坐地铁会更快吗？",
+          "meaning_my": "မြေအောက်ရထားစီးရင် ပိုမြန်မလား။",
+          "replies": [
+            {
+              "id": "06.01.02-S008_reply01",
+              "text": "对，坐地铁大概二十分钟。",
+              "meaning_my": "ဟုတ်တယ်၊ မြေအောက်ရထားစီးရင် မိနစ်နှစ်ဆယ်လောက်ပဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S009",
+          "text": "路上容易堵车吗？",
+          "meaning_my": "လမ်းမှာ ကားပိတ်တတ်လား။",
+          "replies": [
+            {
+              "id": "06.01.02-S009_reply01",
+              "text": "高峰期比较容易堵车。",
+              "meaning_my": "လူအများဆုံးသွားလာတဲ့အချိန်ဆို ကားပိတ်တတ်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S010",
+          "text": "离地铁站远不远？",
+          "meaning_my": "မြေအောက်ရထားဘူတာနဲ့ ဝေးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S011",
+          "text": "骑车过去要多久？",
+          "meaning_my": "စက်ဘီးစီးသွားရင် ဘယ်လောက်ကြာမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S012",
+          "text": "走路十分钟能到吗？",
+          "meaning_my": "လမ်းလျှောက် ဆယ်မိနစ်နဲ့ ရောက်နိုင်မလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S013",
+          "text": "走过去还是坐车方便？",
+          "meaning_my": "လမ်းလျှောက်သွားတာနဲ့ ကားစီးသွားတာ ဘယ်ဟာ ပိုအဆင်ပြေလဲ။",
+          "replies": [
+            {
+              "id": "06.01.02-S013_reply01",
+              "text": "不远，走过去更方便。",
+              "meaning_my": "မဝေးဘူး၊ လမ်းလျှောက်သွားတာ ပိုအဆင်ပြေတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O024",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S014",
+          "text": "还要走多远？",
+          "meaning_my": "နောက်ထပ် ဘယ်လောက် လျှောက်ရဦးမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.02-S014_reply01",
+              "text": "再往前走五分钟就到了。",
+              "meaning_my": "ရှေ့ကို နောက်ထပ် ငါးမိနစ်လောက် လျှောက်ရင် ရောက်ပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.02_O025",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S015",
+          "text": "坐公交要多久？",
+          "meaning_my": "ဘတ်စ်ကားစီးရင် ဘယ်လောက်ကြာမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.02_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.02-S016",
+          "text": "打车大概多少钱？",
+          "meaning_my": "တက္ကစီစီးရင် အကြမ်းဖျင်း ဘယ်လောက်ကျမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.02_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "06.01.03",
+      "title": "地标路口",
+      "title_my": "အမှတ်အသားနေရာနှင့် လမ်းဆုံ",
+      "phrase_count": 12,
+      "phrases": [
+        {
+          "id": "06.01.03-S001",
+          "text": "在商场旁边吗？",
+          "meaning_my": "ဈေးဝယ်စင်တာဘေးမှာလား။",
+          "replies": [
+            {
+              "id": "06.01.03-S001_reply01",
+              "text": "不是，在商场后面。",
+              "meaning_my": "မဟုတ်ဘူး၊ ဈေးဝယ်စင်တာနောက်ဘက်မှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.03_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S002",
+          "text": "在马路对面吗？",
+          "meaning_my": "လမ်းတစ်ဖက်ကမ်းမှာလား။",
+          "replies": [
+            {
+              "id": "06.01.03-S002_reply01",
+              "text": "对，就在马路对面。",
+              "meaning_my": "ဟုတ်တယ်၊ လမ်းတစ်ဖက်ကမ်းမှာပဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.03-S002_alt01",
+              "text": "是不是在对面？",
+              "meaning_my": "မျက်နှာချင်းဆိုင်ဘက်မှာလား။"
+            }
+          ],
+          "source_ref": "user_original_06.01.03_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“对面”是隔着街道或面对的位置，不一定是左右两侧；缅语可说“လမ်းတစ်ဖက်ကမ်း”。",
+              "text_my": "“对面” က လမ်းတစ်ဖက်ကမ်း ဒါမှမဟုတ် မျက်နှာချင်းဆိုင်ဘက်ကို ဆိုလိုတယ်။ ဘယ်ညာဘက်ကို မဆိုလိုပါ။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.03-S003",
+          "text": "到红绿灯要左转吗？",
+          "meaning_my": "မီးပွိုင့်ရောက်ရင် ဘယ်ဘက်ကွေ့ရမလား။",
+          "replies": [
+            {
+              "id": "06.01.03-S003_reply01",
+              "text": "对，到了红绿灯左转。",
+              "meaning_my": "ဟုတ်တယ်၊ မီးပွိုင့်ရောက်ရင် ဘယ်ဘက်ကွေ့ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.03-S003_alt01",
+              "text": "到路口往左拐吗？",
+              "meaning_my": "လမ်းဆုံရောက်ရင် ဘယ်ဘက်ကွေ့ရမလား။"
+            }
+          ],
+          "source_ref": "user_original_06.01.03_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“红绿灯”通常指交通信号灯；“路口”是道路交叉位置，“拐角”是转角，不能完全混用。",
+              "text_my": "“红绿灯” က မီးပွိုင့်၊ “路口” က လမ်းဆုံ၊ “拐角” က လမ်းထောင့်ပါ။ အဓိပ္ပာယ် တစ်မျိုးတည်း မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.03-S004",
+          "text": "看到便利店再转吗？",
+          "meaning_my": "စတိုးဆိုင်ကို မြင်မှ ကွေ့ရမှာလား။",
+          "replies": [
+            {
+              "id": "06.01.03-S004_reply01",
+              "text": "对，看到便利店就右转。",
+              "meaning_my": "ဟုတ်တယ်၊ စတိုးဆိုင်မြင်ရင် ညာဘက်ကွေ့ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.03_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S005",
+          "text": "过桥以后往哪边走？",
+          "meaning_my": "တံတားဖြတ်ပြီးရင် ဘယ်ဘက်ကို ဆက်သွားရမလဲ။",
+          "replies": [
+            {
+              "id": "06.01.03-S005_reply01",
+              "text": "过桥以后左转。",
+              "meaning_my": "တံတားကူးပြီးရင် ဘယ်ဘက်ကွေ့ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S006",
+          "text": "入口在什么位置？",
+          "meaning_my": "ဝင်ပေါက်က ဘယ်နေရာမှာလဲ။",
+          "replies": [
+            {
+              "id": "06.01.03-S006_reply01",
+              "text": "从银行旁边那条路进去。",
+              "meaning_my": "ဘဏ်ဘေးက လမ်းထဲ ဝင်သွားပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.03_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S007",
+          "text": "是不是在药店旁边？",
+          "meaning_my": "ဆေးဆိုင်ဘေးမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.03_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S008",
+          "text": "景区走哪个门方便？",
+          "meaning_my": "လည်ပတ်စရာနေရာကို ဘယ်ဝင်ပေါက်ကနေ ဝင်ရင် ပိုအဆင်ပြေလဲ။",
+          "replies": [
+            {
+              "id": "06.01.03-S008_reply01",
+              "text": "从后门进去更近。",
+              "meaning_my": "နောက်ဝင်ပေါက်ကနေ ဝင်ရင် ပိုနီးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.03_O015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S009",
+          "text": "在学校对面吗？",
+          "meaning_my": "ကျောင်းရဲ့ မျက်နှာချင်းဆိုင်ဘက်မှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.03_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S010",
+          "text": "看到银行就转吗？",
+          "meaning_my": "ဘဏ်ကို မြင်ရင် ကွေ့ရမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.03_N05",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S011",
+          "text": "在加油站旁边吗？",
+          "meaning_my": "ဆီဆိုင်ဘေးမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.03_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.03-S012",
+          "text": "附近有什么明显的地标吗？",
+          "meaning_my": "ဒီနားမှာ မှတ်မိလွယ်တဲ့ ထင်ရှားတဲ့နေရာ ရှိလား။",
+          "replies": [
+            {
+              "id": "06.01.03-S012_reply01",
+              "text": "看到那个大招牌就快到了。",
+              "meaning_my": "ဟိုဆိုင်းဘုတ်ကြီးကို မြင်ရရင် ရောက်ခါနီးပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_06.01.03_E01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "06.01.04",
+      "title": "走错路",
+      "title_my": "လမ်းမှားခြင်းနှင့် လမ်းပြန်ရှာခြင်း",
+      "phrase_count": 18,
+      "phrases": [
+        {
+          "id": "06.01.04-S001",
+          "text": "我好像走错了。",
+          "meaning_my": "လမ်းမှားလာမိသလိုပဲ။",
+          "replies": [
+            {
+              "id": "06.01.04-S001_reply01",
+              "text": "先看看你现在的位置。",
+              "meaning_my": "အခု ရောက်နေတဲ့တည်နေရာကို အရင် ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.04-S001_alt01",
+              "text": "我可能走错路了。",
+              "meaning_my": "လမ်းမှားသွားမိတာ ဖြစ်နိုင်တယ်။"
+            }
+          ],
+          "source_ref": "user_original_06.01.04_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S002",
+          "text": "我迷路了。",
+          "meaning_my": "လမ်းပျောက်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.04_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S003",
+          "text": "我是不是走过头了？",
+          "meaning_my": "သွားရမယ့်နေရာကို ကျော်သွားပြီလား။",
+          "replies": [
+            {
+              "id": "06.01.04-S003_reply01",
+              "text": "对，你走过头了。",
+              "meaning_my": "ဟုတ်တယ်၊ သွားရမယ့်နေရာကို ကျော်သွားပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.04_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S004",
+          "text": "我要往回走吗？",
+          "meaning_my": "နောက်ပြန်လှည့်သွားရမလား။",
+          "replies": [
+            {
+              "id": "06.01.04-S004_reply01",
+              "text": "对，往回走一点。",
+              "meaning_my": "ဟုတ်တယ်၊ နည်းနည်း နောက်ပြန်လှည့်သွားပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.04-S004_alt01",
+              "text": "要原路返回吗？",
+              "meaning_my": "လာတဲ့လမ်းအတိုင်း ပြန်သွားရမလား။"
+            }
+          ],
+          "source_ref": "user_original_06.01.04_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“往回走”可指步行按来路返回；“掉头”常用于驾驶车辆改变行驶方向，需区分。",
+              "text_my": "“往回走” က လာခဲ့တဲ့လမ်းအတိုင်း ပြန်လျှောက်တာပါ။ “掉头” က ကားမောင်းတဲ့အခါ ကားပြန်ကွေ့တာကို မကြာခဏ သုံးတယ်။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.04-S005",
+          "text": "导航好像不对。",
+          "meaning_my": "လမ်းညွှန်မြေပုံက မှားနေသလိုပဲ။",
+          "replies": [
+            {
+              "id": "06.01.04-S005_reply01",
+              "text": "先重新定位，再导航一次。",
+              "meaning_my": "တည်နေရာကို ပြန်စစ်ပြီး လမ်းကြောင်း ပြန်ရှာကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.04_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S006",
+          "text": "导航显示的路走不通。",
+          "meaning_my": "မြေပုံညွှန်တဲ့လမ်းက သွားလို့မရဘူး။",
+          "replies": [
+            {
+              "id": "06.01.04-S006_reply01",
+              "text": "那就换一条路吧。",
+              "meaning_my": "ဒါဆို တခြားလမ်းကနေ သွားကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.04_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S007",
+          "text": "能帮我看一下路线吗？",
+          "meaning_my": "လမ်းကြောင်းကို ကြည့်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.01.04-S007_reply01",
+              "text": "把你的位置发来，我帮你看。",
+              "meaning_my": "ရောက်နေတဲ့တည်နေရာကို ပို့ပေးပါ၊ ကြည့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.04_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S008",
+          "text": "我现在应该往哪边走？",
+          "meaning_my": "အခု ဘယ်ဘက်ကို ဆက်သွားရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.04_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S009",
+          "text": "我好像走反了。",
+          "meaning_my": "လမ်းကြောင်းပြောင်းပြန် လျှောက်လာမိသလိုပဲ။",
+          "replies": [
+            {
+              "id": "06.01.04-S009_reply01",
+              "text": "对，你走反方向了。",
+              "meaning_my": "ဟုတ်တယ်၊ လမ်းကြောင်း ပြောင်းပြန်သွားနေတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_06.01.04_O020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S010",
+          "text": "我重新定位一下。",
+          "meaning_my": "တည်နေရာကို ပြန်စစ်ကြည့်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S011",
+          "text": "往回走多远？",
+          "meaning_my": "နောက်ပြန် ဘယ်လောက်ဝေးဝေး သွားရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S012",
+          "text": "要绕一圈吗？",
+          "meaning_my": "ပတ်သွားရမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S013",
+          "text": "前面能掉头吗？",
+          "meaning_my": "ရှေ့မှာ ကားပြန်ကွေ့လို့ရလား။",
+          "replies": [
+            {
+              "id": "06.01.04-S013_reply01",
+              "text": "前面有允许掉头的地方。",
+              "meaning_my": "ရှေ့မှာ ကားပြန်ကွေ့ခွင့်ရှိတဲ့နေရာ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "驾驶时只能在允许掉头的地点操作，不能把“前面掉头”理解成不顾标志或禁止转弯的指令。",
+              "text_my": "ကားမောင်းရင် ပြန်ကွေ့ခွင့်ရှိတဲ့နေရာမှာပဲ ပြန်ကွေ့ရမယ်။ လမ်းညွှန်ပြောလို့ ယာဉ်စည်းကမ်းကို မချိုးဖောက်ရဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "06.01.04-S014",
+          "text": "这条路是单行道吗？",
+          "meaning_my": "ဒီလမ်းက တစ်လမ်းသွားလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S015",
+          "text": "这个出口封了。",
+          "meaning_my": "ဒီထွက်ပေါက် ပိတ်ထားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S016",
+          "text": "我走错出口了。",
+          "meaning_my": "ထွက်ပေါက် မှားထွက်မိသွားတယ်။",
+          "replies": [
+            {
+              "id": "06.01.04-S016_reply01",
+              "text": "从下一个出口出去看看。",
+              "meaning_my": "နောက်ထွက်ပေါက်ကနေ ထွက်ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.01.04-S016_alt01",
+              "text": "我从错的出口出来了。",
+              "meaning_my": "ထွက်ပေါက်မှားကနေ ထွက်မိသွားတယ်။"
+            }
+          ],
+          "source_ref": "user_addition_06.01.04_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S017",
+          "text": "我到你说的地方了，可没看到。",
+          "meaning_my": "ပြောတဲ့နေရာကို ရောက်ပြီ၊ ဒါပေမဲ့ မတွေ့ဘူး။",
+          "replies": [
+            {
+              "id": "06.01.04-S017_reply01",
+              "text": "你看看是不是在另一个门口。",
+              "meaning_my": "တခြားဝင်ပေါက်ဘက်မှာ ရောက်နေတာလား ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.01.04-S018",
+          "text": "我问问路人。",
+          "meaning_my": "လမ်းသွားလူတစ်ယောက်ကို မေးကြည့်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_06.01.04_N01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 66,
+    "replies": 43,
+    "alternatives": 11,
+    "notes": 10,
+    "total_audio": 120
+  },
+  "core_words": [
+    {
+      "word": "直走",
+      "meaning_my": "တည့်တည့်သွား",
+      "phrase_id": "06.01.01-S007"
+    },
+    {
+      "word": "左转",
+      "meaning_my": "ဘယ်ဘက်ကွေ့",
+      "phrase_id": "06.01.01-S008"
+    },
+    {
+      "word": "右转",
+      "meaning_my": "ညာဘက်ကွေ့",
+      "phrase_id": "06.01.01-S008"
+    },
+    {
+      "word": "路口",
+      "meaning_my": "လမ်းဆုံ",
+      "phrase_id": "06.01.01-S010"
+    },
+    {
+      "word": "红绿灯",
+      "meaning_my": "မီးပွိုင့်",
+      "phrase_id": "06.01.03-S003"
+    },
+    {
+      "word": "出口",
+      "meaning_my": "ထွက်ပေါက်",
+      "phrase_id": "06.01.01-S006"
+    },
+    {
+      "word": "掉头",
+      "meaning_my": "ကားပြန်ကွေ့",
+      "phrase_id": "06.01.04-S013"
+    }
+  ],
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "date": "2026-11-11",
+    "frequency_basis": "editorial_practical_utility_not_measured_corpus",
+    "native_burmese_final_review": false,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}
