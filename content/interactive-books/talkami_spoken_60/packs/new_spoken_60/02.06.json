@@ -9,7 +9,7 @@
   "phrase_count": 138,
   "original_count": 82,
   "added_count": 56,
-  "note": "保留82条原句ID及中文，精选56条高频补充。缅语省略主语或用性别中性称谓，不设男女两版。重点区分借物/借钱、拿/递/抬、柜子层位。仍待缅语母语教师终审、拼音与缅文谐音及音频制作。",
+  "note": "保留原82句主句及完整ID，新增56句高频口语；按语境补回复、类似说法与缅中说明。缅语统一性别中性说法；无拼音、缅语谐音或音频，待母语教师最终审校。",
   "scenes": [
     {
       "id": "02.06.01",
@@ -23,12 +23,31 @@
           "id": "02.06.01-S001",
           "text": "这个能借我用一下吗？",
           "meaning_my": "ဒါလေး ခဏငှားသုံးလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S001_reply01",
+              "text": "可以，拿去用吧。",
+              "meaning_my": "ရတယ်၊ ယူသုံးလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S001_alt01",
+              "text": "这个可以借我一下吗？",
+              "meaning_my": "ဒါလေး ခဏငှားလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“借我用一下”是暂时借用，通常之后归还；“给我”不一定需要归还。",
+              "text_my": "“借我用一下” က ခဏငှားသုံးပြီး ပြန်ပေးရမယ်ဆိုတဲ့ သဘောပါ။ “给我” ကတော့ ပြန်ပေးရမယ်လို့ အမြဲမဆိုလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.06.01-S002",
@@ -45,8 +64,20 @@
           "id": "02.06.01-S003",
           "text": "能借到下午吗？",
           "meaning_my": "ဒီနေ့ နေ့လယ်နောက်ပိုင်းအထိ ငှားသုံးလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S003_reply01",
+              "text": "可以，下午还我就行。",
+              "meaning_my": "ရတယ်၊ နေ့လယ်နောက်ပိုင်း ပြန်ပေးရင် ရပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S003_alt01",
+              "text": "能让我用到下午吗？",
+              "meaning_my": "နေ့လယ်နောက်ပိုင်းအထိ သုံးခွင့်ပေးလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -57,7 +88,13 @@
           "text": "我用完就还你。",
           "meaning_my": "သုံးပြီးတာနဲ့ ပြန်ပေးမယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.01-S004_alt01",
+              "text": "用完马上还你。",
+              "meaning_my": "သုံးပြီးတာနဲ့ ချက်ချင်း ပြန်ပေးမယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -67,8 +104,20 @@
           "id": "02.06.01-S005",
           "text": "明天还你行吗？",
           "meaning_my": "မနက်ဖြန်မှ ပြန်ပေးလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S005_reply01",
+              "text": "行，明天还吧。",
+              "meaning_my": "ရတယ်၊ မနက်ဖြန်မှ ပြန်ပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S005_alt01",
+              "text": "能明天再还吗？",
+              "meaning_my": "မနက်ဖြန်မှ ပြန်ပေးလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -89,8 +138,20 @@
           "id": "02.06.01-S007",
           "text": "你急用吗？",
           "meaning_my": "အရေးတကြီး သုံးဖို့လိုနေလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S007_reply01",
+              "text": "不急，你先用。",
+              "meaning_my": "အရေးမကြီးသေးဘူး၊ အရင် သုံးလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S007_alt01",
+              "text": "你现在要用吗？",
+              "meaning_my": "အခု သုံးဖို့လိုနေလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -111,7 +172,13 @@
           "id": "02.06.01-S009",
           "text": "这个能带到外面用吗？",
           "meaning_my": "ဒါကို အပြင် ယူသွားပြီး သုံးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S009_reply01",
+              "text": "可以，不过别弄丢了。",
+              "meaning_my": "ရတယ်၊ ဒါပေမဲ့ မပျောက်စေနဲ့နော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -122,7 +189,13 @@
           "id": "02.06.01-S010",
           "text": "借的时候需要登记吗？",
           "meaning_my": "ငှားတဲ့အခါ စာရင်းသွင်းဖို့ လိုလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S010_reply01",
+              "text": "要，先登记一下。",
+              "meaning_my": "လိုတယ်၊ အရင် စာရင်းသွင်းပေးပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -133,7 +206,13 @@
           "id": "02.06.01-S011",
           "text": "用完放哪儿？",
           "meaning_my": "သုံးပြီးရင် ဘယ်မှာ ထားရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S011_reply01",
+              "text": "放回原来的地方就行。",
+              "meaning_my": "နဂိုနေရာမှာ ပြန်ထားလိုက်ရုံပဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -144,8 +223,20 @@
           "id": "02.06.01-S012",
           "text": "能借我用一下手机吗？",
           "meaning_my": "ဖုန်းကို ခဏငှားသုံးလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S012_reply01",
+              "text": "可以，快点用完就好。",
+              "meaning_my": "ရတယ်၊ မြန်မြန်သုံးပြီးရင် ရပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S012_alt01",
+              "text": "手机借我打个电话行吗？",
+              "meaning_my": "ဖုန်းလေး ခဏငှားပြီး ဖုန်းဆက်လို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -166,7 +257,13 @@
           "id": "02.06.01-S014",
           "text": "别弄丢了就行。",
           "meaning_my": "မပျောက်အောင်ပဲ ဂရုစိုက်ပေးနော်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S014_reply01",
+              "text": "放心，会小心用的。",
+              "meaning_my": "စိတ်ချ၊ သေချာ ဂရုစိုက်သုံးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -199,7 +296,13 @@
           "id": "02.06.01-S017",
           "text": "今天能还给我吗？",
           "meaning_my": "ဒီနေ့ ပြန်ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S017_reply01",
+              "text": "可以，晚上还你。",
+              "meaning_my": "ရတယ်၊ ညနေ ပြန်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -211,7 +314,13 @@
           "text": "尽量早点还我。",
           "meaning_my": "တတ်နိုင်သလောက် စောစော ပြန်ပေးပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.01-S018_alt01",
+              "text": "能尽快还给我吗？",
+              "meaning_my": "တတ်နိုင်သလောက် မြန်မြန် ပြန်ပေးလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -243,29 +352,73 @@
           "id": "02.06.01-S021",
           "text": "能借我一支笔吗？",
           "meaning_my": "ဘောပင်တစ်ချောင်း ခဏငှားလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S021_reply01",
+              "text": "有，给你。",
+              "meaning_my": "ရှိတယ်၊ ဒီမှာ ယူလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S021_alt01",
+              "text": "借支笔用一下行吗？",
+              "meaning_my": "ဘောပင်တစ်ချောင်း ခဏငှားသုံးလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "笔、剪刀、伞等可说“借”，用完要还；一张普通纸通常直接说“给我一张纸”。",
+              "text_my": "ဘောပင်၊ ကတ်ကြေး၊ ထီးတွေကို ခဏငှားလို့ရတယ်။ သုံးပြီး ပြန်ပေးရမယ်။ စာရွက်တစ်ရွက်လိုဟာကတော့ “给我一张纸” လို့ ပြောလေ့ရှိတယ်။"
+            }
+          ]
         },
         {
           "id": "02.06.01-S022",
           "text": "充电器能借我吗？",
           "meaning_my": "အားသွင်းကိရိယာလေး ခဏငှားလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S022_reply01",
+              "text": "可以，拿去吧。",
+              "meaning_my": "ရတယ်၊ ယူလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S022_alt01",
+              "text": "借我一下充电器吧。",
+              "meaning_my": "အားသွင်းကိရိယာလေး ခဏငှားပါရစေ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“充电器”通常是充电设备，可能包含充电头与线；如果只借其中一样，最好明确说“充电头”或“充电线”。",
+              "text_my": "“充电器” က ဖုန်းအားသွင်းပစ္စည်းကို ဆိုလိုတယ်။ ခေါင်းပဲလိုရင် “充电头”၊ ကြိုးပဲလိုရင် “充电线” လို့ သီးသန့်ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "02.06.01-S023",
           "text": "雨伞能借我一天吗？",
           "meaning_my": "ထီးတစ်ချောင်း တစ်ရက်လောက် ငှားလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S023_reply01",
+              "text": "可以，明天还我。",
+              "meaning_my": "ရတယ်၊ မနက်ဖြန် ပြန်ပေးနော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -276,18 +429,43 @@
           "id": "02.06.01-S024",
           "text": "可以借我十块钱吗？",
           "meaning_my": "ငွေဆယ်ယွမ် ခဏချေးလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S024_reply01",
+              "text": "可以，什么时候还？",
+              "meaning_my": "ရတယ်၊ ဘယ်တော့ ပြန်ပေးမလဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S024_alt01",
+              "text": "能借我十元钱吗？",
+              "meaning_my": "ငွေဆယ်ယွမ်လောက် ခဏချေးလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“借我十块钱”借的是钱，归还的是同等金额，不必还相同纸币。",
+              "text_my": "“借我十块钱” က ပိုက်ဆံချေးတာပါ။ ပြန်ဆပ်တဲ့အခါ ငွေပမာဏတူရင် ရပြီး ငွေစက္ကူတစ်ရွက်တည်း ဖြစ်ဖို့ မလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.06.01-S025",
           "text": "剪刀能借我用一下吗？",
           "meaning_my": "ကတ်ကြေးလေး ခဏငှားသုံးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S025_reply01",
+              "text": "可以，用完放回来。",
+              "meaning_my": "ရတယ်၊ သုံးပြီးရင် ပြန်ထားပေးနော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -299,7 +477,13 @@
           "text": "能借我用一下电脑吗？",
           "meaning_my": "ကွန်ပျူတာကို ခဏငှားသုံးလို့ရမလား။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.01-S026_alt01",
+              "text": "电脑能让我用一下吗？",
+              "meaning_my": "ကွန်ပျူတာကို ခဏသုံးခွင့်ပေးလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -320,8 +504,20 @@
           "id": "02.06.01-S028",
           "text": "你要借多久？",
           "meaning_my": "ဘယ်လောက်ကြာကြာ ငှားမှာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S028_reply01",
+              "text": "就用半小时。",
+              "meaning_my": "နာရီဝက်လောက်ပဲ သုံးမှာပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S028_alt01",
+              "text": "打算借多长时间？",
+              "meaning_my": "ဘယ်လောက်ကြာကြာ ငှားဖို့ စီစဉ်ထားလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -342,7 +538,13 @@
           "id": "02.06.01-S030",
           "text": "弄坏了我赔你。",
           "meaning_my": "ပျက်သွားရင် လျော်ပေးမယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S030_reply01",
+              "text": "好，会小心用的。",
+              "meaning_my": "ကောင်းပြီ၊ သေချာ ဂရုစိုက်သုံးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -353,7 +555,13 @@
           "id": "02.06.01-S031",
           "text": "我也要用，暂时借不了。",
           "meaning_my": "ကိုယ်လည်း သုံးဖို့လိုနေလို့ အခုတော့ ငှားမပေးနိုင်သေးဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S031_reply01",
+              "text": "好，那我问问别人。",
+              "meaning_my": "ကောင်းပြီ၊ ဒါဆို တခြားလူကို မေးကြည့်မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -386,8 +594,20 @@
           "id": "02.06.01-S034",
           "text": "可以再借一天吗？",
           "meaning_my": "နောက်တစ်ရက် ထပ်ငှားလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.01-S034_reply01",
+              "text": "可以，后天还吧。",
+              "meaning_my": "ရတယ်၊ သန်ဘက်ခါ ပြန်ပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.01-S034_alt01",
+              "text": "能再借一天吗？",
+              "meaning_my": "နောက်တစ်ရက် ထပ်ငှားလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -408,7 +628,13 @@
           "id": "02.06.01-S036",
           "text": "你有多余的笔吗？",
           "meaning_my": "ပိုနေတဲ့ ဘောပင် ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S036_reply01",
+              "text": "有，这支给你用吧。",
+              "meaning_my": "ရှိတယ်၊ ဒီတစ်ချောင်း ယူသုံးလိုက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -419,7 +645,13 @@
           "id": "02.06.01-S037",
           "text": "能给我一张纸吗？",
           "meaning_my": "စာရွက်တစ်ရွက် ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.01-S037_reply01",
+              "text": "有，拿去吧。",
+              "meaning_my": "ရတယ်၊ ဒီမှာ ယူလိုက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -451,19 +683,50 @@
           "id": "02.06.02-S001",
           "text": "还给你。",
           "meaning_my": "ဒါ ပြန်ပေးတာနော်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.02-S001_reply01",
+              "text": "好，收到啦。",
+              "meaning_my": "ကောင်းပြီ၊ လက်ခံရပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.02-S001_alt01",
+              "text": "东西还你啦。",
+              "meaning_my": "ပစ္စည်း ပြန်ပေးပြီနော်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“还给你”强调把借来的东西归还，“给你”只是交给对方，不一定是归还。",
+              "text_my": "“还给你” က ငှားထားတဲ့ပစ္စည်းကို ပြန်ပေးတာပါ။ “给你” ကတော့ ပစ္စည်းပေးတာပဲ ဖြစ်ပြီး ငှားထားတာပြန်ပေးတာ ဖြစ်ချင်မှဖြစ်မယ်။"
+            }
+          ]
         },
         {
           "id": "02.06.02-S002",
           "text": "我用完了。",
           "meaning_my": "သုံးပြီးပြီ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.02-S002_reply01",
+              "text": "好，放回原位吧。",
+              "meaning_my": "ကောင်းပြီ၊ နဂိုနေရာမှာ ပြန်ထားလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.02-S002_alt01",
+              "text": "已经用好了。",
+              "meaning_my": "သုံးလို့ပြီးသွားပြီ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -474,7 +737,13 @@
           "text": "好，放回原位就行。",
           "meaning_my": "ကောင်းပြီ၊ နဂိုနေရာမှာ ပြန်ထားလိုက်ရုံပဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.02-S003_alt01",
+              "text": "放回原来的地方就好。",
+              "meaning_my": "နဂိုနေရာမှာ ပြန်ထားလိုက်ရင် ရပြီ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -484,8 +753,20 @@
           "id": "02.06.02-S004",
           "text": "谢谢你借给我用。",
           "meaning_my": "ငှားသုံးခွင့်ပေးလို့ ကျေးဇူးတင်ပါတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.02-S004_reply01",
+              "text": "不用客气。",
+              "meaning_my": "ရပါတယ်၊ အားမနာပါနဲ့။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.02-S004_alt01",
+              "text": "谢谢你借我。",
+              "meaning_my": "ငှားပေးလို့ ကျေးဇူးတင်ပါတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -506,7 +787,13 @@
           "id": "02.06.02-S006",
           "text": "我放这里了。",
           "meaning_my": "ဒီမှာ ထားခဲ့ပြီနော်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S006_reply01",
+              "text": "好，等会儿我去拿。",
+              "meaning_my": "ကောင်းပြီ၊ ခဏနေ သွားယူလိုက်မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -517,8 +804,20 @@
           "id": "02.06.02-S007",
           "text": "还是放原来的地方吗？",
           "meaning_my": "နဂိုနေရာမှာပဲ ပြန်ထားရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.02-S007_reply01",
+              "text": "对，放回去就行。",
+              "meaning_my": "ဟုတ်တယ်၊ ပြန်ထားလိုက်ရုံပဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.02-S007_alt01",
+              "text": "还放老地方吗？",
+              "meaning_my": "နဂိုနေရာမှာပဲ ပြန်ထားရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -539,7 +838,13 @@
           "id": "02.06.02-S009",
           "text": "东西没问题吧？",
           "meaning_my": "ပစ္စည်း အဆင်ပြေတယ်နော်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S009_reply01",
+              "text": "没问题，都好好的。",
+              "meaning_my": "ပြဿနာမရှိဘူး၊ အားလုံး အဆင်ပြေတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -551,7 +856,13 @@
           "text": "充电器我用完了，还给你。",
           "meaning_my": "အားသွင်းကိရိယာ သုံးပြီးပြီ၊ ပြန်ပေးမယ်နော်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.02-S010_alt01",
+              "text": "充电器还给你。",
+              "meaning_my": "အားသွင်းကိရိယာ ပြန်ပေးမယ်နော်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -561,7 +872,13 @@
           "id": "02.06.02-S011",
           "text": "我忘了还书，明天给你。",
           "meaning_my": "စာအုပ် ပြန်ပေးဖို့ မေ့သွားလို့ မနက်ဖြန် ပြန်ပေးမယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S011_reply01",
+              "text": "没关系，明天给我吧。",
+              "meaning_my": "ရပါတယ်၊ မနက်ဖြန်မှ ပြန်ပေးပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -584,7 +901,13 @@
           "text": "放那儿就行。",
           "meaning_my": "ဟိုမှာပဲ ထားလိုက်ရုံပဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.02-S013_alt01",
+              "text": "放那边就行。",
+              "meaning_my": "ဟိုဘက်မှာ ထားလိုက်ရုံပဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -594,12 +917,25 @@
           "id": "02.06.02-S014",
           "text": "不好意思，东西我还没带来。",
           "meaning_my": "တောင်းပန်ပါတယ်၊ ပစ္စည်းကို ယူမလာရသေးဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S014_reply01",
+              "text": "没事，明天再带来吧。",
+              "meaning_my": "ရပါတယ်၊ မနက်ဖြန် ယူလာပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“还没带来”表示今天没有把物品带到这里，不等于物品丢失。",
+              "text_my": "“还没带来” က ပစ္စည်းကို ဒီကို ယူမလာသေးတာပါ။ ပျောက်သွားတာ မဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.06.02-S015",
@@ -638,8 +974,20 @@
           "id": "02.06.02-S018",
           "text": "你大概什么时候还我？",
           "meaning_my": "ဘယ်တော့လောက် ပြန်ပေးမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.02-S018_reply01",
+              "text": "明天下午还你。",
+              "meaning_my": "မနက်ဖြန် နေ့လယ်နောက်ပိုင်း ပြန်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.02-S018_alt01",
+              "text": "大概几时还给我？",
+              "meaning_my": "ဘယ်အချိန်လောက် ပြန်ပေးမလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -649,8 +997,20 @@
           "id": "02.06.02-S019",
           "text": "好，我收到了。",
           "meaning_my": "ကောင်းပြီ၊ လက်ခံရပြီ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.02-S019_reply01",
+              "text": "谢谢，辛苦了。",
+              "meaning_my": "ကျေးဇူးပါ၊ ပင်ပန်းသွားပြီနော်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.02-S019_alt01",
+              "text": "收到了，谢啦。",
+              "meaning_my": "လက်ခံရပြီ၊ ကျေးဇူးနော်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -671,7 +1031,13 @@
           "id": "02.06.02-S021",
           "text": "东西你收到了吗？",
           "meaning_my": "ပစ္စည်း လက်ခံရပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S021_reply01",
+              "text": "收到了，谢谢。",
+              "meaning_my": "လက်ခံရပြီ၊ ကျေးဇူးပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -694,7 +1060,13 @@
           "text": "这本书还给你。",
           "meaning_my": "ဒီစာအုပ် ပြန်ပေးမယ်နော်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.02-S023_alt01",
+              "text": "这书还给你。",
+              "meaning_my": "ဒီစာအုပ် ပြန်ပေးမယ်နော်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -704,7 +1076,13 @@
           "id": "02.06.02-S024",
           "text": "你检查一下。",
           "meaning_my": "သေချာ စစ်ကြည့်ပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S024_reply01",
+              "text": "好，我检查一下。",
+              "meaning_my": "ကောင်းပြီ၊ စစ်ကြည့်လိုက်ဦးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -737,18 +1115,43 @@
           "id": "02.06.02-S027",
           "text": "不小心弄坏了，我赔你。",
           "meaning_my": "မတော်တဆ ပျက်သွားလို့ လျော်ပေးမယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.02-S027_reply01",
+              "text": "没关系，看看能不能修好。",
+              "meaning_my": "ရပါတယ်၊ ပြန်ပြင်လို့ရမရ ကြည့်ကြတာပေါ့။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.02-S027_alt01",
+              "text": "弄坏了我会赔的。",
+              "meaning_my": "ပျက်သွားတာကို လျော်ပေးမယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "借来的东西弄坏了，主动说明情况并协商维修或赔偿，比隐瞒更合适。",
+              "text_my": "ငှားထားတဲ့ ပစ္စည်း ပျက်သွားရင် အကြောင်းအရာကို ရှင်းပြပြီး ပြင်ဆင်မလား၊ လျော်မလား ညှိနှိုင်းတာ ပိုသင့်တော်တယ်။"
+            }
+          ]
         },
         {
           "id": "02.06.02-S028",
           "text": "有点弄脏了，不好意思。",
           "meaning_my": "နည်းနည်း ညစ်ပတ်သွားလို့ တောင်းပန်ပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S028_reply01",
+              "text": "没事，下次注意就好。",
+              "meaning_my": "ရပါတယ်၊ နောက်တစ်ခါ သတိထားနော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -760,7 +1163,13 @@
           "text": "晚了两天才还，不好意思。",
           "meaning_my": "နှစ်ရက် နောက်ကျမှ ပြန်ပေးမိလို့ တောင်းပန်ပါတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.02-S029_alt01",
+              "text": "不好意思，还晚了两天。",
+              "meaning_my": "နှစ်ရက် နောက်ကျမှ ပြန်ပေးမိလို့ တောင်းပန်ပါတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -781,7 +1190,13 @@
           "id": "02.06.02-S031",
           "text": "可以晚一天还吗？",
           "meaning_my": "နောက်တစ်ရက်မှ ပြန်ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S031_reply01",
+              "text": "可以，不过别忘了。",
+              "meaning_my": "ရတယ်၊ ဒါပေမဲ့ မမေ့နဲ့နော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -792,7 +1207,13 @@
           "id": "02.06.02-S032",
           "text": "借你的钱已经转给你了。",
           "meaning_my": "ချေးထားတဲ့ ပိုက်ဆံကို လွှဲပေးလိုက်ပြီ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.02-S032_reply01",
+              "text": "好，我查一下。",
+              "meaning_my": "ကောင်းပြီ၊ စစ်ကြည့်လိုက်ဦးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -835,12 +1256,31 @@
           "id": "02.06.03-S001",
           "text": "帮我拿一下。",
           "meaning_my": "ခဏလောက် ကူကိုင်ပေးပါဦး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.03-S001_reply01",
+              "text": "好，要拿去哪儿？",
+              "meaning_my": "ကောင်းပြီ၊ ဘယ်ကို ယူသွားပေးရမလဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.03-S001_alt01",
+              "text": "帮我拿着一下。",
+              "meaning_my": "ခဏလောက် ကူကိုင်ပေးပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“帮我拿一下”可能是暂时代拿、拿住或拿到别处；可以追问“拿去哪儿？”。",
+              "text_my": "“帮我拿一下” က ခဏကိုင်ပေးတာ၊ ယူပေးတာ၊ တခြားနေရာကို သယ်ပေးတာ ဖြစ်နိုင်တယ်။ မသေချာရင် “拿去哪儿？” လို့ ထပ်မေးလို့ရတယ်။"
+            }
+          ]
         },
         {
           "id": "02.06.03-S002",
@@ -857,19 +1297,50 @@
           "id": "02.06.03-S003",
           "text": "把那瓶水递给我。",
           "meaning_my": "ဟိုရေဘူးကို လှမ်းပေးပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.03-S003_reply01",
+              "text": "给你，拿好。",
+              "meaning_my": "ဒီမှာ၊ သေချာကိုင်နော်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.03-S003_alt01",
+              "text": "把那瓶水拿给我。",
+              "meaning_my": "ဟိုရေဘူးကို ယူပေးပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“递给我”强调把东西传到手边，“拿过来”强调把东西取来，不完全一样。",
+              "text_my": "“递给我” က လက်လှမ်းမီအောင် လှမ်းပေးတာပါ။ “拿过来” က တခြားနေရာကနေ ယူလာပေးတာပါ။"
+            }
+          ]
         },
         {
           "id": "02.06.03-S004",
           "text": "拿两个过来。",
           "meaning_my": "နှစ်ခု ယူလာပေးပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.03-S004_reply01",
+              "text": "好，是这两个吗？",
+              "meaning_my": "ကောင်းပြီ၊ ဒီနှစ်ခုလား။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.03-S004_alt01",
+              "text": "再拿两个来。",
+              "meaning_my": "နောက်ထပ် နှစ်ခု ယူလာပေးပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -880,7 +1351,13 @@
           "text": "这个帮我带过去。",
           "meaning_my": "ဒါကို ဟိုဘက် သယ်ပေးပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.03-S005_alt01",
+              "text": "帮我把这个送过去。",
+              "meaning_my": "ဒါကို ဟိုဘက် ပို့ပေးပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -890,7 +1367,13 @@
           "id": "02.06.03-S006",
           "text": "麻烦递给小王。",
           "meaning_my": "ရှောင်ဝမ်ကို လှမ်းပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S006_reply01",
+              "text": "好，我递给他。",
+              "meaning_my": "ကောင်းပြီ၊ သူ့ကို လှမ်းပေးလိုက်မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -901,7 +1384,13 @@
           "id": "02.06.03-S007",
           "text": "这个很重。",
           "meaning_my": "ဒါ အရမ်းလေးတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S007_reply01",
+              "text": "那我帮你拿吧。",
+              "meaning_my": "ဒါဆို ကူကိုင်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -912,7 +1401,13 @@
           "id": "02.06.03-S008",
           "text": "拿哪个？",
           "meaning_my": "ဘယ်ဟာ ယူရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S008_reply01",
+              "text": "拿左边那个。",
+              "meaning_my": "ဘယ်ဘက်က ဟာကို ယူပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -934,8 +1429,20 @@
           "id": "02.06.03-S010",
           "text": "拿稳点，别摔坏了。",
           "meaning_my": "သေချာကိုင်ထားနော်၊ ပြုတ်ကျပြီး မပျက်စေနဲ့။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.03-S010_reply01",
+              "text": "好，会拿稳的。",
+              "meaning_my": "ကောင်းပြီ၊ မြဲမြဲ ကိုင်ထားမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.03-S010_alt01",
+              "text": "拿稳了，别摔着。",
+              "meaning_my": "သေချာ ကိုင်ထားနော်၊ ပြုတ်မကျစေနဲ့။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -956,7 +1463,13 @@
           "id": "02.06.03-S012",
           "text": "帮我拿最上面那个。",
           "meaning_my": "အပေါ်ဆုံးက ဟာကို ယူပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S012_reply01",
+              "text": "好，我拿给你。",
+              "meaning_my": "ကောင်းပြီ၊ ယူပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -968,7 +1481,13 @@
           "text": "放到那边。",
           "meaning_my": "ဟိုဘက်မှာ ထားပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.03-S013_alt01",
+              "text": "放那边吧。",
+              "meaning_my": "ဟိုဘက်မှာ ထားလိုက်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1000,19 +1519,44 @@
           "id": "02.06.03-S016",
           "text": "这个太重了，帮我抬一下。",
           "meaning_my": "ဒါ အရမ်းလေးတယ်၊ တစ်ချက်လောက် ကူမပေးပါဦး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.03-S016_reply01",
+              "text": "好，一起抬吧。",
+              "meaning_my": "ကောင်းပြီ၊ အတူတူ မကြမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.03-S016_alt01",
+              "text": "帮我搭把手。",
+              "meaning_my": "တစ်ချက်လောက် ကူပေးပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“抬”常指两人或多人合力搬起较重物品，不只是单手拿着。",
+              "text_my": "“抬” က လေးတဲ့ပစ္စည်းကို လူနှစ်ယောက် ဒါမှမဟုတ် အများနဲ့ ဝိုင်းမတာမျိုးပါ။ လက်တစ်ဖက်နဲ့ ကိုင်တာနဲ့ မတူဘူး။"
+            }
+          ]
         },
         {
           "id": "02.06.03-S017",
           "text": "帮我拿个袋子过来。",
           "meaning_my": "အိတ်တစ်လုံး ယူလာပေးပါဦး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.03-S017_alt01",
+              "text": "拿个袋子给我。",
+              "meaning_my": "အိတ်တစ်လုံး ယူပေးပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1023,7 +1567,13 @@
           "text": "给你。",
           "meaning_my": "ဒီမှာ၊ ယူလိုက်ပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.03-S018_alt01",
+              "text": "喏，给你。",
+              "meaning_my": "ရော့၊ ယူလိုက်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1033,7 +1583,13 @@
           "id": "02.06.03-S019",
           "text": "接一下。",
           "meaning_my": "လှမ်းယူပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S019_reply01",
+              "text": "好，递过来吧。",
+              "meaning_my": "ကောင်းပြီ၊ လှမ်းပေးလိုက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1044,8 +1600,20 @@
           "id": "02.06.03-S020",
           "text": "小心，有点烫。",
           "meaning_my": "သတိထားနော်၊ နည်းနည်း ပူတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.03-S020_reply01",
+              "text": "好，我会小心。",
+              "meaning_my": "ကောင်းပြီ၊ ဂရုစိုက်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.03-S020_alt01",
+              "text": "小心点，烫。",
+              "meaning_my": "သတိထားနော်၊ ပူတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1055,7 +1623,13 @@
           "id": "02.06.03-S021",
           "text": "小心，容易碎。",
           "meaning_my": "သတိထားနော်၊ ကွဲလွယ်တယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S021_reply01",
+              "text": "好，会轻轻拿的。",
+              "meaning_my": "ကောင်းပြီ၊ ညင်ညင်သာသာ ကိုင်မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1067,7 +1641,13 @@
           "text": "两只手拿稳。",
           "meaning_my": "လက်နှစ်ဖက်နဲ့ မြဲမြဲကိုင်ထားပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.03-S022_alt01",
+              "text": "双手拿好。",
+              "meaning_my": "လက်နှစ်ဖက်နဲ့ သေချာကိုင်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1088,7 +1668,13 @@
           "id": "02.06.03-S024",
           "text": "先别松手。",
           "meaning_my": "လက် မလွှတ်နဲ့ဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S024_reply01",
+              "text": "好，先不松手。",
+              "meaning_my": "ကောင်းပြီ၊ အခုတော့ လက်မလွှတ်သေးဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1121,7 +1707,13 @@
           "id": "02.06.03-S027",
           "text": "再拿一个过来。",
           "meaning_my": "နောက်တစ်ခု ယူလာပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S027_reply01",
+              "text": "好，我再拿一个。",
+              "meaning_my": "ကောင်းပြီ၊ နောက်တစ်ခု ထပ်ယူမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1155,7 +1747,13 @@
           "text": "轻拿轻放。",
           "meaning_my": "ညင်ညင်သာသာ ကိုင်ပြီး ချပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.03-S030_alt01",
+              "text": "轻一点放。",
+              "meaning_my": "ညင်ညင်သာသာ ချပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1176,7 +1774,13 @@
           "id": "02.06.03-S032",
           "text": "拿好了吗？",
           "meaning_my": "သေချာ ကိုင်ထားပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.03-S032_reply01",
+              "text": "拿好了，可以走了。",
+              "meaning_my": "မြဲမြဲ ကိုင်ထားပြီ၊ သွားလို့ရပြီ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1198,7 +1802,13 @@
           "text": "收起来。",
           "meaning_my": "သိမ်းလိုက်ပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S001_alt01",
+              "text": "把东西收好。",
+              "meaning_my": "ပစ္စည်းတွေကို သေချာ သိမ်းလိုက်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1209,7 +1819,13 @@
           "text": "放回原位。",
           "meaning_my": "နဂိုနေရာမှာ ပြန်ထားပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S002_alt01",
+              "text": "放回去。",
+              "meaning_my": "ပြန်ထားလိုက်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1219,8 +1835,20 @@
           "id": "02.06.04-S003",
           "text": "这个放哪儿？",
           "meaning_my": "ဒါ ဘယ်မှာ ထားရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.04-S003_reply01",
+              "text": "放到柜子里吧。",
+              "meaning_my": "ဗီရိုထဲမှာ ထားလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.04-S003_alt01",
+              "text": "这个要放在哪里？",
+              "meaning_my": "ဒါကို ဘယ်နေရာမှာ ထားရမလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1230,7 +1858,13 @@
           "id": "02.06.04-S004",
           "text": "这个放桌上可以吗？",
           "meaning_my": "ဒါကို စားပွဲပေါ် တင်လို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.04-S004_reply01",
+              "text": "可以，放桌角吧。",
+              "meaning_my": "ရတယ်၊ စားပွဲထောင့်မှာ ထားလိုက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1252,12 +1886,25 @@
           "id": "02.06.04-S006",
           "text": "这个应该放哪一层？",
           "meaning_my": "ဒါကို စင်ရဲ့ ဘယ်အဆင့်မှာ ထားရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.04-S006_reply01",
+              "text": "放第二层吧。",
+              "meaning_my": "ဒုတိယအဆင့်မှာ ထားလိုက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "这里的“哪一层”指柜子或架子的层位，而不是建筑物的楼层。",
+              "text_my": "ဒီမှာ “哪一层” ဆိုတာ စင် ဒါမှမဟုတ် ဗီရိုရဲ့ အဆင့်ကို မေးတာပါ။ အဆောက်အအုံအထပ်ကို မဆိုလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "02.06.04-S007",
@@ -1275,7 +1922,13 @@
           "text": "轻的放上面。",
           "meaning_my": "ပေါ့တဲ့ဟာတွေကို အပေါ်မှာ ထားပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S008_alt01",
+              "text": "轻的摆上面。",
+              "meaning_my": "ပေါ့တဲ့ဟာတွေကို အပေါ်မှာ စီထားပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1285,7 +1938,13 @@
           "id": "02.06.04-S009",
           "text": "箱子里放不下。",
           "meaning_my": "သေတ္တာထဲ မဆံ့ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.04-S009_reply01",
+              "text": "那换个大箱子吧。",
+              "meaning_my": "ဒါဆို သေတ္တာကြီးတစ်လုံး ပြောင်းသုံးကြမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1296,8 +1955,20 @@
           "id": "02.06.04-S010",
           "text": "用完记得放回去。",
           "meaning_my": "သုံးပြီးရင် ပြန်ထားဖို့ မမေ့နဲ့။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.04-S010_reply01",
+              "text": "好，用完就放回去。",
+              "meaning_my": "ကောင်းပြီ၊ သုံးပြီးတာနဲ့ ပြန်ထားမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.04-S010_alt01",
+              "text": "用过后放回原处。",
+              "meaning_my": "သုံးပြီးရင် နဂိုနေရာမှာ ပြန်ထားပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1307,8 +1978,20 @@
           "id": "02.06.04-S011",
           "text": "别放这儿。",
           "meaning_my": "ဒီမှာ မထားနဲ့။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.04-S011_reply01",
+              "text": "好，我放别处。",
+              "meaning_my": "ကောင်းပြီ၊ တခြားနေရာမှာ ထားမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.04-S011_alt01",
+              "text": "这里不能放。",
+              "meaning_my": "ဒီမှာ ထားလို့ မရဘူး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1330,7 +2013,13 @@
           "text": "把这些都收起来。",
           "meaning_my": "ဒါတွေ အကုန် သိမ်းပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S013_alt01",
+              "text": "把这些收好。",
+              "meaning_my": "ဒါတွေကို သေချာ သိမ်းထားပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1340,7 +2029,13 @@
           "id": "02.06.04-S014",
           "text": "这个别和其他东西放一起。",
           "meaning_my": "ဒါကို တခြားပစ္စည်းတွေနဲ့ အတူ မထားနဲ့။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.04-S014_reply01",
+              "text": "好，我单独放。",
+              "meaning_my": "ကောင်းပြီ၊ သပ်သပ်ထားမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1362,7 +2057,13 @@
           "id": "02.06.04-S016",
           "text": "先放门边，别挡路。",
           "meaning_my": "တံခါးဘေးမှာ အရင်ထားပါ၊ အသွားအလာ မပိတ်စေနဲ့။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.04-S016_reply01",
+              "text": "好，不挡住路。",
+              "meaning_my": "ကောင်းပြီ၊ အသွားအလာ မပိတ်စေဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1396,7 +2097,13 @@
           "text": "放进去。",
           "meaning_my": "အထဲ ထည့်လိုက်ပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S019_alt01",
+              "text": "放到里面去。",
+              "meaning_my": "အထဲကို ထည့်လိုက်ပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1428,8 +2135,20 @@
           "id": "02.06.04-S022",
           "text": "摆整齐。",
           "meaning_my": "သပ်သပ်ရပ်ရပ် စီထားပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.04-S022_reply01",
+              "text": "好，我再摆整齐一点。",
+              "meaning_my": "ကောင်းပြီ၊ နည်းနည်း ထပ်စီလိုက်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.04-S022_alt01",
+              "text": "摆放整齐。",
+              "meaning_my": "သပ်သပ်ရပ်ရပ် စီထားပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1440,7 +2159,13 @@
           "text": "别乱放。",
           "meaning_my": "တွေ့ရာနေရာမှာ မထားနဲ့။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S023_alt01",
+              "text": "不要随便放。",
+              "meaning_my": "တွေ့ရာနေရာမှာ မထားနဲ့။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1462,7 +2187,13 @@
           "text": "这个和那个分开放。",
           "meaning_my": "ဒါနဲ့ ဟိုဟာကို သပ်သပ်စီ ထားပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S025_alt01",
+              "text": "这两个分开放。",
+              "meaning_my": "ဒီနှစ်ခုကို သပ်သပ်စီ ထားပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1472,19 +2203,44 @@
           "id": "02.06.04-S026",
           "text": "重的放下面。",
           "meaning_my": "လေးတဲ့ဟာတွေကို အောက်မှာ ထားပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.04-S026_reply01",
+              "text": "好，重的放下面。",
+              "meaning_my": "ကောင်းပြီ၊ လေးတဲ့ဟာတွေကို အောက်မှာ ထားမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.04-S026_alt01",
+              "text": "重的放底下。",
+              "meaning_my": "လေးတဲ့ဟာတွေကို အောက်ဆုံးမှာ ထားပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "放置物品时，重物通常放低处、轻物放上面；避免高处堆放重物导致倾倒。",
+              "text_my": "ပစ္စည်းထားတဲ့အခါ လေးတဲ့ဟာတွေကို အောက်မှာ၊ ပေါ့တဲ့ဟာတွေကို အပေါ်မှာထားတာ ပိုသင့်တော်တယ်။ လေးတဲ့ပစ္စည်းကို အမြင့်မှာ မပုံသင့်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.06.04-S027",
           "text": "别堆太高。",
           "meaning_my": "အမြင့်ကြီး မပုံထားနဲ့။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.06.04-S027_alt01",
+              "text": "别叠得太高。",
+              "meaning_my": "အမြင့်ကြီး မထပ်ထားနဲ့။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1494,7 +2250,13 @@
           "id": "02.06.04-S028",
           "text": "留点空位。",
           "meaning_my": "နေရာလွတ် နည်းနည်း ချန်ထားပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.04-S028_reply01",
+              "text": "好，我留点位置。",
+              "meaning_my": "ကောင်းပြီ၊ နေရာလွတ် နည်းနည်း ချန်ထားမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1516,8 +2278,20 @@
           "id": "02.06.04-S030",
           "text": "都收好了吗？",
           "meaning_my": "အားလုံး သိမ်းပြီးပြီလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.06.04-S030_reply01",
+              "text": "收好了，都在柜子里。",
+              "meaning_my": "သိမ်းပြီးပြီ၊ အားလုံး ဗီရိုထဲမှာ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.06.04-S030_alt01",
+              "text": "都整理好了吗？",
+              "meaning_my": "အားလုံး စနစ်တကျ သိမ်းပြီးပြီလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1527,7 +2301,13 @@
           "id": "02.06.04-S031",
           "text": "这里放不下了。",
           "meaning_my": "ဒီမှာ ထပ်မဆံ့တော့ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.06.04-S031_reply01",
+              "text": "那我换个地方放。",
+              "meaning_my": "ဒါဆို တခြားနေရာ ပြောင်းထားမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1569,5 +2349,10 @@
         }
       ]
     }
-  ]
+  ],
+  "extras_summary": {
+    "replies": 65,
+    "alternatives": 51,
+    "notes": 12
+  }
 }
