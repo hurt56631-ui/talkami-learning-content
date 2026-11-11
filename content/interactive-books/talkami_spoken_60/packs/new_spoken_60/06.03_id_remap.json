@@ -1,0 +1,566 @@
+{
+  "theme_id": "06.03",
+  "source_counts": {
+    "original_main_count": 75,
+    "proposed_additions": 60,
+    "selected_original_as_main": 49,
+    "selected_proposals_as_main": 28,
+    "original_or_additions_moved_to_reply": 21,
+    "moved_to_alternative": 5,
+    "omitted_original": 4,
+    "omitted_proposals": 28
+  },
+  "mapping": [
+    {
+      "source_id": "06.03.01-S001",
+      "new_id": "06.03.01-S001",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S003",
+      "new_id": "06.03.01-S002",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S004",
+      "new_id": "06.03.01-S002_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.01-S007",
+      "new_id": "06.03.01-S003",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补02",
+      "new_id": "06.03.01-S004",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S005",
+      "new_id": "06.03.01-S005",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补04",
+      "new_id": "06.03.01-S006",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S009",
+      "new_id": "06.03.01-S007",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补06",
+      "new_id": "06.03.01-S008",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S006",
+      "new_id": "06.03.01-S009",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S018",
+      "new_id": "06.03.01-S009_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.02-S015",
+      "new_id": "06.03.01-S009_alt01",
+      "kind": "moved_to_alternative"
+    },
+    {
+      "source_id": "06.03.01-S008",
+      "new_id": "06.03.01-S010",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S011",
+      "new_id": "06.03.01-S011",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S012",
+      "new_id": "06.03.01-S012",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S015",
+      "new_id": "06.03.01-S013",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S016",
+      "new_id": "06.03.01-S014",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补07",
+      "new_id": "06.03.01-S015",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补08",
+      "new_id": "06.03.01-S016",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S010",
+      "new_id": "06.03.01-S017",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S013",
+      "new_id": "06.03.01-S017_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.01-补10",
+      "new_id": "06.03.01-S018",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S014",
+      "new_id": "06.03.01-S018_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.01-补09",
+      "new_id": "06.03.01-S019",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S017",
+      "new_id": "06.03.01-S020",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补12",
+      "new_id": "06.03.01-S021",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补13",
+      "new_id": "06.03.01-S022",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-S002",
+      "new_id": "06.03.01-S023",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.01-补15",
+      "new_id": "06.03.01-S024",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S016",
+      "new_id": "06.03.02-S001",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S004",
+      "new_id": "06.03.02-S001_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.02-S003",
+      "new_id": "06.03.02-S001_alt01",
+      "kind": "moved_to_alternative"
+    },
+    {
+      "source_id": "06.03.02-S008",
+      "new_id": "06.03.02-S002",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S017",
+      "new_id": "06.03.02-S003",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S001",
+      "new_id": "06.03.02-S004",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S002",
+      "new_id": "06.03.02-S004_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.02-S006",
+      "new_id": "06.03.02-S005",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S012",
+      "new_id": "06.03.02-S006",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S005",
+      "new_id": "06.03.02-S006_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.02-S011",
+      "new_id": "06.03.02-S007",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补08",
+      "new_id": "06.03.02-S008",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补11",
+      "new_id": "06.03.02-S009",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S010",
+      "new_id": "06.03.02-S010",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补12",
+      "new_id": "06.03.02-S010_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.02-S014",
+      "new_id": "06.03.02-S011",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补09",
+      "new_id": "06.03.02-S012",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补06",
+      "new_id": "06.03.02-S013",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-S007",
+      "new_id": "06.03.02-S014",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补05",
+      "new_id": "06.03.02-S014_alt01",
+      "kind": "moved_to_alternative"
+    },
+    {
+      "source_id": "06.03.03-S001",
+      "new_id": "06.03.03-S001",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补15",
+      "new_id": "06.03.03-S002",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S003",
+      "new_id": "06.03.03-S003",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S004",
+      "new_id": "06.03.03-S003_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.03-S005",
+      "new_id": "06.03.03-S004",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S011",
+      "new_id": "06.03.03-S004_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.03-S009",
+      "new_id": "06.03.03-S005",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补01",
+      "new_id": "06.03.03-S005_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.03-S010",
+      "new_id": "06.03.03-S006",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补02",
+      "new_id": "06.03.03-S007",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S002",
+      "new_id": "06.03.03-S008",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S014",
+      "new_id": "06.03.03-S008_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.03-S015",
+      "new_id": "06.03.03-S009",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.02-补14",
+      "new_id": "06.03.03-S010",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S020",
+      "new_id": "06.03.03-S011",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S012",
+      "new_id": "06.03.03-S011_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.03-S008",
+      "new_id": "06.03.03-S012",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补05",
+      "new_id": "06.03.03-S012_alt01",
+      "kind": "moved_to_alternative"
+    },
+    {
+      "source_id": "06.03.03-S006",
+      "new_id": "06.03.03-S013",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S016",
+      "new_id": "06.03.03-S013_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.03-S007",
+      "new_id": "06.03.03-S014",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S022",
+      "new_id": "06.03.03-S015",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S013",
+      "new_id": "06.03.03-S015_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.03-S021",
+      "new_id": "06.03.03-S016",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S018",
+      "new_id": "06.03.03-S017",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补14",
+      "new_id": "06.03.03-S018",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补13",
+      "new_id": "06.03.03-S019",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S023",
+      "new_id": "06.03.03-S020",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补12",
+      "new_id": "06.03.03-S021",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补08",
+      "new_id": "06.03.03-S022",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-补07",
+      "new_id": "06.03.03-S023",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.03-S017",
+      "new_id": "06.03.03-S023_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.04-S001",
+      "new_id": "06.03.04-S001",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S002",
+      "new_id": "06.03.04-S001_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.04-S016",
+      "new_id": "06.03.04-S002",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S003",
+      "new_id": "06.03.04-S002_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.04-S015",
+      "new_id": "06.03.04-S003",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S008",
+      "new_id": "06.03.04-S004",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-补03",
+      "new_id": "06.03.04-S005",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-补02",
+      "new_id": "06.03.04-S006",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S004",
+      "new_id": "06.03.04-S007",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S012",
+      "new_id": "06.03.04-S007_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.04-S006",
+      "new_id": "06.03.04-S008",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S013",
+      "new_id": "06.03.04-S008_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.04-S005",
+      "new_id": "06.03.04-S009",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S017",
+      "new_id": "06.03.04-S010",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-补08",
+      "new_id": "06.03.04-S011",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S007",
+      "new_id": "06.03.04-S011_alt01",
+      "kind": "moved_to_alternative"
+    },
+    {
+      "source_id": "06.03.04-S009",
+      "new_id": "06.03.04-S012",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-补09",
+      "new_id": "06.03.04-S013",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S014",
+      "new_id": "06.03.04-S013_reply01",
+      "kind": "moved_to_reply"
+    },
+    {
+      "source_id": "06.03.04-补11",
+      "new_id": "06.03.04-S014",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-补14",
+      "new_id": "06.03.04-S015",
+      "kind": "main"
+    },
+    {
+      "source_id": "06.03.04-S011",
+      "new_id": "06.03.04-S016",
+      "kind": "main"
+    }
+  ],
+  "omitted_original": [
+    "06.03.02-S009",
+    "06.03.02-S013",
+    "06.03.03-S019",
+    "06.03.04-S010"
+  ],
+  "omitted_proposed": [
+    "06.03.01-补01",
+    "06.03.01-补03",
+    "06.03.01-补05",
+    "06.03.01-补11",
+    "06.03.01-补14",
+    "06.03.02-补01",
+    "06.03.02-补02",
+    "06.03.02-补03",
+    "06.03.02-补04",
+    "06.03.02-补07",
+    "06.03.02-补10",
+    "06.03.02-补13",
+    "06.03.03-补03",
+    "06.03.03-补04",
+    "06.03.03-补06",
+    "06.03.03-补09",
+    "06.03.03-补10",
+    "06.03.03-补11",
+    "06.03.03-补15",
+    "06.03.04-补01",
+    "06.03.04-补04",
+    "06.03.04-补05",
+    "06.03.04-补06",
+    "06.03.04-补07",
+    "06.03.04-补10",
+    "06.03.04-补12",
+    "06.03.04-补13",
+    "06.03.04-补15"
+  ]
+}

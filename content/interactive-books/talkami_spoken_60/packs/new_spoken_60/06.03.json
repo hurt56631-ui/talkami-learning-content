@@ -1,0 +1,1347 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "06.03",
+  "theme_title": "打车网约车",
+  "theme_title_my": "တက္ကစီနှင့် အက်ပ်ကနေ ကားခေါ်ခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 77,
+  "original_count": 49,
+  "added_count": 28,
+  "note": "用户原75句及新增建议60句，按实用性和缅甸学员视角优选排序；回复和类似说法按需加入，修订无性别称呼以及打双闪、车牌验证、在线扣款、晕车和遗失财物等表达。中文自然度/缅语语义为初审，未完成缅甸母语终审，未配音。",
+  "source_counts": {
+    "original_main_count": 75,
+    "proposed_additions": 60,
+    "selected_original_as_main": 49,
+    "selected_proposals_as_main": 28,
+    "original_or_additions_moved_to_reply": 21,
+    "moved_to_alternative": 5,
+    "omitted_original": 4,
+    "omitted_proposals": 28
+  },
+  "scenes": [
+    {
+      "id": "06.03.01",
+      "title": "叫车定位",
+      "title_my": "ကားခေါ်ခြင်းနှင့် တည်နေရာသတ်မှတ်ခြင်း",
+      "phrase_count": 24,
+      "phrases": [
+        {
+          "id": "06.03.01-S001",
+          "text": "我已经叫车了。",
+          "meaning_my": "ကား ခေါ်ထားပြီးပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S002",
+          "text": "上车点在哪儿？",
+          "meaning_my": "ကားတက်ရမယ့်နေရာ ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "06.03.01-S002_reply01",
+              "text": "到前面的指定上车点等我吧。",
+              "meaning_my": "ရှေ့က သတ်မှတ်ထားတဲ့ ကားတက်နေရာမှာ စောင့်ပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.03.01-S002_alt01",
+              "text": "在哪里上车？",
+              "meaning_my": "ဘယ်မှာ ကားတက်ရမလဲ။"
+            }
+          ],
+          "source_ref": "06.03.01-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S003",
+          "text": "司机到哪儿了？",
+          "meaning_my": "ယာဉ်မောင်း ဘယ်ရောက်နေပြီလဲ။",
+          "replies": [
+            {
+              "id": "06.03.01-S003_reply01",
+              "text": "还有三分钟左右到。",
+              "meaning_my": "နောက်ထပ် သုံးမိနစ်လောက်နေရင် ရောက်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.01-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S004",
+          "text": "司机还有几分钟到？",
+          "meaning_my": "ယာဉ်မောင်း ရောက်ဖို့ နောက်ထပ် ဘယ်နှမိနစ်လိုသေးလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S005",
+          "text": "定位对吗？",
+          "meaning_my": "တည်နေရာ မှန်ရဲ့လား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S006",
+          "text": "定位有点偏，我重新发一下。",
+          "meaning_my": "တည်နေရာ နည်းနည်းလွဲနေလို့ ပြန်ပို့ပေးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S007",
+          "text": "怎么联系司机？",
+          "meaning_my": "ယာဉ်မောင်းကို ဘယ်လို ဆက်သွယ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S008",
+          "text": "我找不到你的车。",
+          "meaning_my": "ကားကို ရှာမတွေ့ဘူး။",
+          "replies": [
+            {
+              "id": "06.03.01-S008_reply01",
+              "text": "我在东门，你看到白色的车了吗？",
+              "meaning_my": "အရှေ့ဝင်ပေါက်မှာပါ၊ အဖြူရောင်ကား မြင်လား။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.01-补06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S009",
+          "text": "车牌尾号是多少？",
+          "meaning_my": "ကားနံပါတ်ပြားရဲ့ နောက်ဆုံးဂဏန်းတွေက ဘာတွေလဲ။",
+          "replies": [
+            {
+              "id": "06.03.01-S009_reply01",
+              "text": "车牌后四位是六七八九。",
+              "meaning_my": "ကားနံပါတ်ရဲ့ နောက်ဆုံးလေးလုံးက ခြောက်၊ ခုနစ်၊ ရှစ်၊ ကိုး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.03.01-S009_alt01",
+              "text": "车牌后四位是多少？",
+              "meaning_my": "ကားနံပါတ်ရဲ့ နောက်ဆုံးလေးလုံးက ဘာတွေလဲ။"
+            }
+          ],
+          "source_ref": "06.03.01-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "上车前先核对平台显示的车牌号、车型和订单，避免坐错车；手机尾号也可能用于核实订单。",
+              "text_my": "ကားမတက်ခင် အက်ပ်ထဲမှာ ပြထားတဲ့ ကားနံပါတ်၊ ကားအမျိုးအစားနဲ့ အော်ဒါကို တိုက်စစ်ပါ။ တချို့ဝန်ဆောင်မှုမှာ ဖုန်းနံပါတ် နောက်ဆုံးဂဏန်းတွေနဲ့လည်း စစ်တတ်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "06.03.01-S010",
+          "text": "我在东门等你。",
+          "meaning_my": "အရှေ့ဝင်ပေါက်မှာ စောင့်နေမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S011",
+          "text": "我在东门，不是西门。",
+          "meaning_my": "အရှေ့ဝင်ပေါက်မှာပါ၊ အနောက်ဝင်ပေါက် မဟုတ်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S012",
+          "text": "我在路口等你。",
+          "meaning_my": "လမ်းဆုံမှာ စောင့်နေမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S013",
+          "text": "我在公交站旁边等你。",
+          "meaning_my": "ဘတ်စ်ကားမှတ်တိုင်ဘေးမှာ စောင့်နေမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S014",
+          "text": "我在马路对面。",
+          "meaning_my": "လမ်းတစ်ဖက်ကမ်းမှာ ရှိနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S015",
+          "text": "我站在便利店门口。",
+          "meaning_my": "ကုန်စုံဆိုင် တံခါးဝမှာ ရပ်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S016",
+          "text": "我穿黑色外套。",
+          "meaning_my": "အနက်ရောင် အပေါ်အင်္ကျီ ဝတ်ထားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S017",
+          "text": "你能开到门口吗？",
+          "meaning_my": "တံခါးဝအထိ မောင်းလာပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.01-S017_reply01",
+              "text": "不好意思，得去指定上车点。",
+              "meaning_my": "အားနာပါတယ်၊ သတ်မှတ်ထားတဲ့ ကားတက်နေရာကို လာပေးပါဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.01-S010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S018",
+          "text": "能停到路边吗？",
+          "meaning_my": "လမ်းဘေးမှာ ရပ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.01-S018_reply01",
+              "text": "这里不能停车。",
+              "meaning_my": "ဒီနေရာမှာ ကားရပ်လို့မရဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.01-补10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S019",
+          "text": "麻烦打一下双闪，我好找车。",
+          "meaning_my": "ကားအရေးပေါ်မီးနှစ်ဖက် ဖွင့်ပေးပါဦး၊ ကားကို ရှာလို့လွယ်အောင်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“打双闪”指打开车辆危险警告闪光灯，用于让人辨认车辆；司机应根据道路情况和当地交通规则决定是否使用。",
+              "text_my": "“打双闪” ဆိုတာ ကားရဲ့ အရေးပေါ်သတိပေးမီးနှစ်ဖက် ဖွင့်တာပါ။ ယာဉ်မောင်းက လမ်းအခြေအနေနဲ့ စည်းကမ်းအတိုင်း သုံးသင့်ပါတယ်။"
+            }
+          ]
+        },
+        {
+          "id": "06.03.01-S020",
+          "text": "麻烦往前开一点。",
+          "meaning_my": "ရှေ့ကို နည်းနည်း မောင်းလာပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-S017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S021",
+          "text": "我马上到上车点。",
+          "meaning_my": "ကားတက်တဲ့နေရာ ရောက်တော့မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S022",
+          "text": "你等我两分钟。",
+          "meaning_my": "နှစ်မိနစ်လောက် စောင့်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S023",
+          "text": "司机取消订单了，怎么办？",
+          "meaning_my": "ယာဉ်မောင်းက အော်ဒါ ဖျက်လိုက်ပြီ၊ ဘယ်လိုလုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "06.03.01-S023_reply01",
+              "text": "可以重新叫一辆车。",
+              "meaning_my": "ကားတစ်စီး ထပ်ခေါ်လို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.01-S002",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.01-S024",
+          "text": "取消订单要收费吗？",
+          "meaning_my": "အော်ဒါဖျက်ရင် အခကြေးငွေ ပေးရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.01-补15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "06.03.02",
+      "title": "上车确认",
+      "title_my": "ကားတက်ချိန် အတည်ပြုခြင်း",
+      "phrase_count": 14,
+      "phrases": [
+        {
+          "id": "06.03.02-S001",
+          "text": "师傅，您接的是我这单吗？",
+          "meaning_my": "ဆရာ၊ ဒီအော်ဒါကို လက်ခံထားတာလား။",
+          "replies": [
+            {
+              "id": "06.03.02-S001_reply01",
+              "text": "对，请先核对一下车牌号。",
+              "meaning_my": "ဟုတ်တယ်၊ ကားနံပါတ်ကို အရင် တိုက်စစ်ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.03.02-S001_alt01",
+              "text": "这是我叫的车吗？",
+              "meaning_my": "ဒါ ခေါ်ထားတဲ့ကားလား။"
+            }
+          ],
+          "source_ref": "06.03.02-S016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“师傅”是对司机常见的礼貌称呼；“这单”指当前网约车订单。",
+              "text_my": "“师傅” က ယာဉ်မောင်းကို ယဉ်ကျေးစွာ ခေါ်တဲ့စကားပါ။ “这单” က အခု ခေါ်ထားတဲ့ကားအော်ဒါကို ဆိုလိုတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "06.03.02-S002",
+          "text": "车牌号对吗？",
+          "meaning_my": "ကားနံပါတ် မှန်ရဲ့လား။",
+          "replies": [
+            {
+              "id": "06.03.02-S002_reply01",
+              "text": "对，车牌号一致。",
+              "meaning_my": "ဟုတ်တယ်၊ ကားနံပါတ် ကိုက်ညီတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.02-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S003",
+          "text": "是这辆白色的车吗？",
+          "meaning_my": "ဒီအဖြူရောင်ကားလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-S017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S004",
+          "text": "师傅，是去火车站吗？",
+          "meaning_my": "ဆရာ၊ ရထားဘူတာကြီးကို သွားမယ့်ကားလား။",
+          "replies": [
+            {
+              "id": "06.03.02-S004_reply01",
+              "text": "对，火车站哪个入口下车？",
+              "meaning_my": "ဟုတ်တယ်၊ ရထားဘူတာရဲ့ ဘယ်ဝင်ပေါက်မှာ ဆင်းမလဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.02-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S005",
+          "text": "目的地没错吧？",
+          "meaning_my": "သွားမယ့်နေရာ မှန်တယ်နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S006",
+          "text": "请确认手机尾号。",
+          "meaning_my": "ဖုန်းနံပါတ်ရဲ့ နောက်ဆုံးဂဏန်းတွေ ပြောပြပေးပါ။",
+          "replies": [
+            {
+              "id": "06.03.02-S006_reply01",
+              "text": "手机尾号是一二三四。",
+              "meaning_my": "ဖုန်းနံပါတ်ရဲ့ နောက်ဆုံးလေးလုံးက တစ်၊ နှစ်၊ သုံး၊ လေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.02-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S007",
+          "text": "后备箱能放行李吗？",
+          "meaning_my": "ကားနောက်ဖုံးထဲ ခရီးဆောင်အိတ် ထည့်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S008",
+          "text": "能打开一下后备箱吗？",
+          "meaning_my": "ကားနောက်ဖုံးလေး ဖွင့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-补08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S009",
+          "text": "我坐后面。",
+          "meaning_my": "နောက်ခုံမှာ ထိုင်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-补11",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S010",
+          "text": "麻烦系安全带。",
+          "meaning_my": "ထိုင်ခုံခါးပတ် ပတ်ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "06.03.02-S010_reply01",
+              "text": "好的，已经系好了。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ပတ်ပြီးပါပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.02-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S011",
+          "text": "能把窗户开一点吗？",
+          "meaning_my": "ကားပြတင်းပေါက် နည်းနည်း ဖွင့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S012",
+          "text": "空调能开小一点吗？",
+          "meaning_my": "အဲကွန်းလေ နည်းနည်း လျှော့ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-补09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S013",
+          "text": "先等一下，还有人。",
+          "meaning_my": "ခဏစောင့်ပါဦး၊ နောက်တစ်ယောက် ရှိသေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-补06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.02-S014",
+          "text": "可以出发了。",
+          "meaning_my": "စထွက်လို့ရပြီ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "06.03.02-S014_alt01",
+              "text": "可以走了。",
+              "meaning_my": "ထွက်လို့ရပြီ။"
+            }
+          ],
+          "source_ref": "06.03.02-S007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "06.03.03",
+      "title": "路线目的地",
+      "title_my": "လမ်းကြောင်းနှင့် သွားမည့်နေရာ",
+      "phrase_count": 23,
+      "phrases": [
+        {
+          "id": "06.03.03-S001",
+          "text": "按导航走就行。",
+          "meaning_my": "မြေပုံလမ်းညွှန်အတိုင်း သွားလိုက်ရုံပဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S002",
+          "text": "目的地就按定位走。",
+          "meaning_my": "သွားမယ့်နေရာကို တည်နေရာပြထားတဲ့အတိုင်း သွားပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-补15",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S003",
+          "text": "能走不堵车的路吗？",
+          "meaning_my": "ကားမပိတ်တဲ့လမ်းကနေ သွားပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.03-S003_reply01",
+              "text": "可以，我看看哪条路更快。",
+              "meaning_my": "ရပါတယ်၊ ဘယ်လမ်းပိုမြန်လဲ ကြည့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.03-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S004",
+          "text": "前面堵吗？",
+          "meaning_my": "ရှေ့မှာ ကားပိတ်နေလား။",
+          "replies": [
+            {
+              "id": "06.03.03-S004_reply01",
+              "text": "这条路有点堵。",
+              "meaning_my": "ဒီလမ်းမှာ ကားနည်းနည်း ပိတ်နေတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.03-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S005",
+          "text": "走这条路可以吗？",
+          "meaning_my": "ဒီလမ်းကနေ သွားလို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.03-S005_reply01",
+              "text": "可以，走哪条路都行。",
+              "meaning_my": "ရတယ်၊ ဘယ်လမ်းကသွားသွား ရပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.03-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S006",
+          "text": "这条路会绕远吗？",
+          "meaning_my": "ဒီလမ်းက ပိုပတ်သွားရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S007",
+          "text": "别绕太远。",
+          "meaning_my": "အဝေးကြီး ပတ်မမောင်းပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-补02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S008",
+          "text": "前面是不是封路了？",
+          "meaning_my": "ရှေ့မှာ လမ်းပိတ်ထားတာလား။",
+          "replies": [
+            {
+              "id": "06.03.03-S008_reply01",
+              "text": "对，我走另一条路。",
+              "meaning_my": "ဟုတ်တယ်၊ တခြားလမ်းကနေ သွားမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.03-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S009",
+          "text": "导航建议走高速。",
+          "meaning_my": "မြေပုံလမ်းညွှန်က အမြန်လမ်းကနေ သွားဖို့ ပြနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S010",
+          "text": "师傅，先不走高速。",
+          "meaning_my": "ဆရာ၊ အမြန်လမ်း မသွားပါနဲ့ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.02-补14",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S011",
+          "text": "高速费包含在车费里吗？",
+          "meaning_my": "အမြန်လမ်းကြေးက ကားခထဲ ပါပြီးသားလား။",
+          "replies": [
+            {
+              "id": "06.03.03-S011_reply01",
+              "text": "这段高速要收费，费用要另算。",
+              "meaning_my": "ဒီအမြန်လမ်းအပိုင်းမှာ ကြေးပေးရတယ်၊ သီးသန့်တွက်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.03-S020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "高速费、停车费等是否包含在车费中因平台和订单类型而异，结算前应查看账单。",
+              "text_my": "အမြန်လမ်းကြေး၊ ကားရပ်ခ စတာတွေ ကားခထဲ ပါမပါက အက်ပ်နဲ့ အော်ဒါအမျိုးအစားပေါ် မူတည်တယ်။ ငွေရှင်းမယ့်အချိန်မှာ စာရင်းကို စစ်ကြည့်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "06.03.03-S012",
+          "text": "高速费我来付。",
+          "meaning_my": "အမြန်လမ်းကြေး ကိုယ်ပေးမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "06.03.03-S012_alt01",
+              "text": "过路费我出。",
+              "meaning_my": "လမ်းကြေး ကိုယ်ပေးမယ်။"
+            }
+          ],
+          "source_ref": "06.03.03-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S013",
+          "text": "到东门就行。",
+          "meaning_my": "အရှေ့ဝင်ပေါက်အထိပဲ ပို့ပေးပါ။",
+          "replies": [
+            {
+              "id": "06.03.03-S013_reply01",
+              "text": "东门进不去，我在附近停车。",
+              "meaning_my": "အရှေ့ဝင်ပေါက်က ဝင်လို့မရလို့ အနီးမှာ ရပ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "06.03.03-S013_alt01",
+              "text": "在东门停就行。",
+              "meaning_my": "အရှေ့ဝင်ပေါက်မှာပဲ ရပ်ပေးပါ။"
+            }
+          ],
+          "source_ref": "06.03.03-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S014",
+          "text": "前面靠边停就行。",
+          "meaning_my": "ရှေ့မှာ လမ်းဘေးကပ်ပြီး ရပ်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-S007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S015",
+          "text": "前面能安全停车吗？",
+          "meaning_my": "ရှေ့မှာ ဘေးကင်းကင်း ကားရပ်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.03-S015_reply01",
+              "text": "前面不能停车，再往前一点吧。",
+              "meaning_my": "ရှေ့မှာ ကားရပ်လို့မရဘူး၊ နည်းနည်း ရှေ့ဆက်သွားရအောင်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.03-S022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S016",
+          "text": "师傅，前面有地方掉头吗？",
+          "meaning_my": "ဆရာ၊ ရှေ့မှာ ကားပြန်လှည့်လို့ရတဲ့နေရာ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-S021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S017",
+          "text": "我有点晕车，能开慢点吗？",
+          "meaning_my": "ကားနည်းနည်းမူးနေလို့ ဖြည်းဖြည်း မောင်းပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "06.03.03-S017_alt01",
+              "text": "有点晕车，麻烦开慢点。",
+              "meaning_my": "ကားနည်းနည်းမူးလို့ ဖြည်းဖြည်းမောင်းပေးပါဦး။"
+            }
+          ],
+          "source_ref": "06.03.03-S018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“晕车”是坐车时感到头晕、恶心；不舒服时可请司机在安全且允许停车的地方暂停。",
+              "text_my": "“晕车” က ကားစီးရင် မူးဝေတာ၊ ပျို့တာမျိုးပါ။ မအီမသာဖြစ်ရင် ဘေးကင်းပြီး ကားရပ်ခွင့်ရှိတဲ့နေရာမှာ ခဏရပ်ပေးဖို့ တောင်းဆိုနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "06.03.03-S018",
+          "text": "我晕车了，能停一下吗？",
+          "meaning_my": "ကားမူးနေလို့ ခဏ ရပ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-补14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S019",
+          "text": "麻烦开稳一点。",
+          "meaning_my": "ကားကို နည်းနည်း ညင်ညင်သာသာ မောင်းပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S020",
+          "text": "我有点赶时间。",
+          "meaning_my": "အချိန် နည်းနည်း အလျင်လိုနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-S023",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S021",
+          "text": "我不赶时间，安全第一。",
+          "meaning_my": "အလျင်မလိုပါဘူး၊ ဘေးကင်းဖို့က အရေးကြီးဆုံးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-补12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S022",
+          "text": "就是前面那个路口。",
+          "meaning_my": "ရှေ့က လမ်းဆုံနေရာပဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.03-补08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.03-S023",
+          "text": "到了麻烦提醒我一下。",
+          "meaning_my": "ရောက်ရင် သတိပေးပါဦး။",
+          "replies": [
+            {
+              "id": "06.03.03-S023_reply01",
+              "text": "好，到地方我提醒你。",
+              "meaning_my": "ရပါတယ်၊ ရောက်ရင် သတိပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.03-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "06.03.04",
+      "title": "下车付款遗失",
+      "title_my": "ကားဆင်းခြင်း၊ ငွေပေးချေခြင်းနှင့် ပစ္စည်းကျန်ခြင်း",
+      "phrase_count": 16,
+      "phrases": [
+        {
+          "id": "06.03.04-S001",
+          "text": "这里下就行。",
+          "meaning_my": "ဒီမှာပဲ ဆင်းမယ်။",
+          "replies": [
+            {
+              "id": "06.03.04-S001_reply01",
+              "text": "好，我往前找个能停车的地方。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ရှေ့မှာ ကားရပ်လို့ရတဲ့နေရာ ရှာပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.04-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S002",
+          "text": "师傅，能在前面的停车场停吗？",
+          "meaning_my": "ဆရာ၊ ရှေ့က ကားပါကင်မှာ ရပ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.04-S002_reply01",
+              "text": "前面禁停，我再往前一点停。",
+              "meaning_my": "ရှေ့မှာ ကားရပ်ခွင့်မရှိလို့ နည်းနည်း ရှေ့ဆက်ပြီးမှ ရပ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.04-S016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S003",
+          "text": "下车后还要走多远？",
+          "meaning_my": "ကားဆင်းပြီး နောက်ထပ် ဘယ်လောက်လမ်းလျှောက်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S004",
+          "text": "车费是自动扣的吗？",
+          "meaning_my": "ကားခကို အလိုအလျောက် ငွေဖြတ်မှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "网约车可能自动扣款、App内预付或下车后付款；不要在未核对订单时重复付款。",
+              "text_my": "အက်ပ်နဲ့ခေါ်တဲ့ကားမှာ ငွေ အလိုအလျောက်ဖြတ်တာ၊ အက်ပ်ထဲမှာ ကြိုပေးတာ၊ ဆင်းမှပေးတာ စသဖြင့် ရှိနိုင်တယ်။ အော်ဒါမစစ်ဘဲ နှစ်ခါ မပေးမိပါစေနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "06.03.04-S005",
+          "text": "我已经在App里付了。",
+          "meaning_my": "အက်ပ်ထဲမှာ ငွေပေးပြီးပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-补03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S006",
+          "text": "可以扫码付款吗？",
+          "meaning_my": "QR ကုဒ်စကန်ဖတ်ပြီး ငွေပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-补02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S007",
+          "text": "车费可以开发票吗？",
+          "meaning_my": "ကားခအတွက် အခွန်ပြေစာ ထုတ်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.04-S007_reply01",
+              "text": "可以在订单里申请发票。",
+              "meaning_my": "အော်ဒါထဲကနေ အခွန်ပြေစာ လျှောက်လို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.04-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S008",
+          "text": "麻烦帮我开下后备箱。",
+          "meaning_my": "ကားနောက်ဖုံးလေး ဖွင့်ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "06.03.04-S008_reply01",
+              "text": "后备箱已经打开了。",
+              "meaning_my": "ကားနောက်ဖုံး ဖွင့်ပေးထားပြီးပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.04-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S009",
+          "text": "后备箱里还有我的东西。",
+          "meaning_my": "ကားနောက်ဖုံးထဲမှာ ပစ္စည်းကျန်နေသေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S010",
+          "text": "能帮我拿一下行李吗？",
+          "meaning_my": "ခရီးဆောင်အိတ် ကူယူပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-S017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S011",
+          "text": "我有东西落车上了。",
+          "meaning_my": "ပစ္စည်း ကားထဲမှာ မေ့ကျန်ခဲ့တယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "06.03.04-S011_alt01",
+              "text": "我的包忘在后座了。",
+              "meaning_my": "အိတ်ကို ကားနောက်ခုံမှာ မေ့ကျန်ခဲ့တယ်။"
+            }
+          ],
+          "source_ref": "06.03.04-补08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S012",
+          "text": "我手机落车上了。",
+          "meaning_my": "ဖုန်းကို ကားထဲမှာ မေ့ကျန်ခဲ့တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "手机或财物遗落车内时，可通过订单中的失物招领/联系司机功能处理；不要把账户验证码告诉陌生人。",
+              "text_my": "ဖုန်း ဒါမှမဟုတ် ပစ္စည်း ကားထဲကျန်ခဲ့ရင် အော်ဒါထဲက ပစ္စည်းပျောက်ဆက်သွယ်ရေးနည်းနဲ့ ယာဉ်မောင်းကို ဆက်သွယ်ပါ။ အကောင့်အတည်ပြုကုဒ်ကို မသိတဲ့သူတွေကို မပြောပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "06.03.04-S013",
+          "text": "能联系司机吗？",
+          "meaning_my": "ယာဉ်မောင်းကို ဆက်သွယ်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "06.03.04-S013_reply01",
+              "text": "我帮你联系司机。",
+              "meaning_my": "ယာဉ်မောင်းကို ဆက်သွယ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "06.03.04-补09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S014",
+          "text": "司机说会送回来。",
+          "meaning_my": "ယာဉ်မောင်းက ပြန်လာပို့ပေးမယ်လို့ ပြောတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-补11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S015",
+          "text": "东西找到了。",
+          "meaning_my": "ပစ္စည်း ရှာတွေ့ပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-补14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.03.04-S016",
+          "text": "请带好随身物品。",
+          "meaning_my": "ကိုယ့်ပစ္စည်းတွေ မမေ့ကျန်ခဲ့ပါစေနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "06.03.04-S011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 77,
+    "replies": 25,
+    "alternatives": 8,
+    "notes": 7,
+    "total_audio": 110
+  },
+  "core_words": [
+    {
+      "cn": "定位",
+      "my": "တည်နေရာ",
+      "example_id": "06.03.01-S005",
+      "priority": "core"
+    },
+    {
+      "cn": "车牌",
+      "my": "ကားနံပါတ်ပြား",
+      "example_id": "06.03.01-S009",
+      "priority": "core"
+    },
+    {
+      "cn": "车费",
+      "my": "ကားခ",
+      "example_id": "06.03.04-S004",
+      "priority": "core"
+    },
+    {
+      "cn": "遗落",
+      "my": "မေ့ကျန်ခဲ့",
+      "example_id": "06.03.04-S012",
+      "priority": "core"
+    }
+  ],
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "method": "editorial practical utility, not corpus measured frequency",
+    "main_ids_continuous": true,
+    "audio_status": "not_recorded",
+    "pronunciation_status": "not_generated",
+    "native_burmese_review": "pending"
+  }
+}
