@@ -1,0 +1,548 @@
+{
+  "theme_id": "05.07",
+  "original_candidates": 121,
+  "additional_candidates": 91,
+  "current_main": 108,
+  "mapping": [
+    {
+      "source_ref": "user_original_05.07.01_O004",
+      "id": "05.07.01-S001",
+      "text": "怎么下单？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O001",
+      "id": "05.07.01-S002",
+      "text": "这个有货吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O003",
+      "id": "05.07.01-S003",
+      "text": "有别的规格吗？"
+    },
+    {
+      "source_ref": "editorial_new_05.07.01_E01",
+      "id": "05.07.01-S004",
+      "text": "怎么加入购物车？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O006",
+      "id": "05.07.01-S005",
+      "text": "收货地址怎么填？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O007",
+      "id": "05.07.01-S006",
+      "text": "这个地址对吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O008",
+      "id": "05.07.01-S007",
+      "text": "手机号填这里吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O013",
+      "id": "05.07.01-S008",
+      "text": "收件人填什么名字？"
+    },
+    {
+      "source_ref": "user_addition_05.07.01_N10",
+      "id": "05.07.01-S009",
+      "text": "默认地址怎么改？"
+    },
+    {
+      "source_ref": "user_addition_05.07.01_N09",
+      "id": "05.07.01-S010",
+      "text": "可以送到公司吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O012",
+      "id": "05.07.01-S011",
+      "text": "满多少包邮？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O009",
+      "id": "05.07.01-S012",
+      "text": "什么时候发货？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O016",
+      "id": "05.07.01-S013",
+      "text": "下单成功了吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O017",
+      "id": "05.07.01-S014",
+      "text": "下单后多久要付款？"
+    },
+    {
+      "source_ref": "user_addition_05.07.01_N11",
+      "id": "05.07.01-S015",
+      "text": "这个支持货到付款吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.01_O015",
+      "id": "05.07.01-S016",
+      "text": "能指定送货时间吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.01_N14",
+      "id": "05.07.01-S017",
+      "text": "预计几天能到？"
+    },
+    {
+      "source_ref": "user_addition_05.07.01_N05",
+      "id": "05.07.01-S018",
+      "text": "有优惠券可以领吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O001",
+      "id": "05.07.02-S001",
+      "text": "我想问一下这个订单。"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O002",
+      "id": "05.07.02-S002",
+      "text": "怎么联系商家？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O012",
+      "id": "05.07.02-S003",
+      "text": "订单号在这里。"
+    },
+    {
+      "source_ref": "user_addition_05.07.02_N03",
+      "id": "05.07.02-S004",
+      "text": "下单下错了。"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O011",
+      "id": "05.07.02-S005",
+      "text": "规格选错了。"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O003",
+      "id": "05.07.02-S006",
+      "text": "可以改颜色吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O006",
+      "id": "05.07.02-S007",
+      "text": "可以改尺码吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O019",
+      "id": "05.07.02-S008",
+      "text": "收货地址能改吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O016",
+      "id": "05.07.02-S009",
+      "text": "收件人名字可以改吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O007",
+      "id": "05.07.02-S010",
+      "text": "可以改备注吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O008",
+      "id": "05.07.02-S011",
+      "text": "没发货能取消吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O015",
+      "id": "05.07.02-S012",
+      "text": "发货了还能取消吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O010",
+      "id": "05.07.02-S013",
+      "text": "能帮我催发货吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.02_N08",
+      "id": "05.07.02-S014",
+      "text": "今天能发货吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.02_N02",
+      "id": "05.07.02-S015",
+      "text": "我发消息了，麻烦回一下。"
+    },
+    {
+      "source_ref": "user_original_05.07.02_O017",
+      "id": "05.07.02-S016",
+      "text": "改好后能发个截图给我吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O001",
+      "id": "05.07.03-S001",
+      "text": "我要寄个快递。"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O003",
+      "id": "05.07.03-S002",
+      "text": "这个能寄吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O005",
+      "id": "05.07.03-S003",
+      "text": "运费多少钱？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O010",
+      "id": "05.07.03-S004",
+      "text": "寄北京多少钱？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O008",
+      "id": "05.07.03-S005",
+      "text": "什么时候能到？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O009",
+      "id": "05.07.03-S006",
+      "text": "能上门取件吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N14",
+      "id": "05.07.03-S007",
+      "text": "上门取件几点来？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N15",
+      "id": "05.07.03-S008",
+      "text": "能改取件时间吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O007",
+      "id": "05.07.03-S009",
+      "text": "地址写这里吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N03",
+      "id": "05.07.03-S010",
+      "text": "收件人电话多少？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O012",
+      "id": "05.07.03-S011",
+      "text": "寄件能用护照登记吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N05",
+      "id": "05.07.03-S012",
+      "text": "电池能寄吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O016",
+      "id": "05.07.03-S013",
+      "text": "这个液体能寄吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N04",
+      "id": "05.07.03-S014",
+      "text": "这个属于禁寄品吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O022",
+      "id": "05.07.03-S015",
+      "text": "能帮我把箱子加固一下吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N09",
+      "id": "05.07.03-S016",
+      "text": "保价费多少？"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O011",
+      "id": "05.07.03-S017",
+      "text": "这个要保价吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N10",
+      "id": "05.07.03-S018",
+      "text": "运费到付可以吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N12",
+      "id": "05.07.03-S019",
+      "text": "能加急吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.03_N13",
+      "id": "05.07.03-S020",
+      "text": "寄出后把快递单号发我。"
+    },
+    {
+      "source_ref": "user_original_05.07.03_O006",
+      "id": "05.07.03-S021",
+      "text": "要另外包装吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O001",
+      "id": "05.07.04-S001",
+      "text": "我的快递到了吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O002",
+      "id": "05.07.04-S002",
+      "text": "我来取快递。"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O017",
+      "id": "05.07.04-S003",
+      "text": "这个包裹在哪里取？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O003",
+      "id": "05.07.04-S004",
+      "text": "没收到取件码。"
+    },
+    {
+      "source_ref": "user_addition_05.07.04_N01",
+      "id": "05.07.04-S005",
+      "text": "取件码是多少？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O020",
+      "id": "05.07.04-S006",
+      "text": "取件码发我一下。"
+    },
+    {
+      "source_ref": "user_addition_05.07.04_N04",
+      "id": "05.07.04-S007",
+      "text": "这个取件码不对。"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O004",
+      "id": "05.07.04-S008",
+      "text": "快递柜的门打不开。"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O008",
+      "id": "05.07.04-S009",
+      "text": "快递在几号柜？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O007",
+      "id": "05.07.04-S010",
+      "text": "取件要带证件吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O009",
+      "id": "05.07.04-S011",
+      "text": "别人能帮我取吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.04_N11",
+      "id": "05.07.04-S012",
+      "text": "代取要什么凭证？"
+    },
+    {
+      "source_ref": "user_addition_05.07.04_N09",
+      "id": "05.07.04-S013",
+      "text": "需要本人签收吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O018",
+      "id": "05.07.04-S014",
+      "text": "取件点几点关门？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O019",
+      "id": "05.07.04-S015",
+      "text": "明天再来取行吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.04_N05",
+      "id": "05.07.04-S016",
+      "text": "超时取件要收费吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O021",
+      "id": "05.07.04-S017",
+      "text": "能帮我放到快递柜吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.04_O006",
+      "id": "05.07.04-S018",
+      "text": "我已经拿到了。"
+    },
+    {
+      "source_ref": "user_addition_05.07.04_N10",
+      "id": "05.07.04-S019",
+      "text": "我让别人代取。"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O001",
+      "id": "05.07.05-S001",
+      "text": "发货了吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O002",
+      "id": "05.07.05-S002",
+      "text": "我的快递现在到哪儿了？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O005",
+      "id": "05.07.05-S003",
+      "text": "快递单号是多少？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O006",
+      "id": "05.07.05-S004",
+      "text": "帮我查一下快递。"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O020",
+      "id": "05.07.05-S005",
+      "text": "寄出后怎么查物流？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O007",
+      "id": "05.07.05-S006",
+      "text": "物流一直没更新。"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O010",
+      "id": "05.07.05-S007",
+      "text": "快递到本地了吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O003",
+      "id": "05.07.05-S008",
+      "text": "什么时候派送？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O004",
+      "id": "05.07.05-S009",
+      "text": "预计几点到？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O011",
+      "id": "05.07.05-S010",
+      "text": "今天能送到吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O008",
+      "id": "05.07.05-S011",
+      "text": "能查到快递员电话吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.05_O017",
+      "id": "05.07.05-S012",
+      "text": "能帮我催一下快递吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.05_N15",
+      "id": "05.07.05-S013",
+      "text": "能重新派送吗？"
+    },
+    {
+      "source_ref": "user_addition_05.07.05_N04",
+      "id": "05.07.05-S014",
+      "text": "是不是卡在中转站了？"
+    },
+    {
+      "source_ref": "user_addition_05.07.05_N13",
+      "id": "05.07.05-S015",
+      "text": "物流显示已经签收了。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O001",
+      "id": "05.07.06-S001",
+      "text": "我没收到快递。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O003",
+      "id": "05.07.06-S002",
+      "text": "显示签收了，可我没收到。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O008",
+      "id": "05.07.06-S003",
+      "text": "我没有签收。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O013",
+      "id": "05.07.06-S004",
+      "text": "包裹是谁签收的？"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O005",
+      "id": "05.07.06-S005",
+      "text": "包裹外面破了。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O011",
+      "id": "05.07.06-S006",
+      "text": "里面的东西坏了。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O006",
+      "id": "05.07.06-S007",
+      "text": "里面少了东西。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O007",
+      "id": "05.07.06-S008",
+      "text": "这不是我的包裹。"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O010",
+      "id": "05.07.06-S009",
+      "text": "拿错别人的包裹了。"
+    },
+    {
+      "source_ref": "user_addition_05.07.06_N01",
+      "id": "05.07.06-S010",
+      "text": "我的包裹是不是丢了？"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O014",
+      "id": "05.07.06-S011",
+      "text": "能帮我联系快递员吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O009",
+      "id": "05.07.06-S012",
+      "text": "这要怎么处理？"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O015",
+      "id": "05.07.06-S013",
+      "text": "可以申请赔偿吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O012",
+      "id": "05.07.06-S014",
+      "text": "这种情况怎么赔？"
+    },
+    {
+      "source_ref": "user_addition_05.07.06_N15",
+      "id": "05.07.06-S015",
+      "text": "需要提供什么材料？"
+    },
+    {
+      "source_ref": "user_addition_05.07.06_N16",
+      "id": "05.07.06-S016",
+      "text": "我先拍照留证。"
+    },
+    {
+      "source_ref": "user_addition_05.07.06_N14",
+      "id": "05.07.06-S017",
+      "text": "包装还要留着吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O019",
+      "id": "05.07.06-S018",
+      "text": "能先帮我登记一下吗？"
+    },
+    {
+      "source_ref": "user_original_05.07.06_O020",
+      "id": "05.07.06-S019",
+      "text": "收货时就发现包装破了。"
+    }
+  ]
+}
