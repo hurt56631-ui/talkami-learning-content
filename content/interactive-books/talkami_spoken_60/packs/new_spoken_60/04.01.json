@@ -1,0 +1,1771 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "04.01",
+  "theme_title": "食物口味",
+  "theme_title_my": "အစားအစာနှင့် အရသာ",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 103,
+  "original_count": 62,
+  "added_count": 41,
+  "note": "依据用户98句原稿与70条候选补充，按日常实用性整理。避免机械扩句；回复、类似说法仅按需添加。过敏相关内容区分偏好与安全风险。缅甸母语教师逐句终审、拼音/缅文谐音及MP3尚未完成。",
+  "source_counts": {
+    "user_original_main": 98,
+    "user_suggested_additions": 70,
+    "selected_from_original": 62,
+    "selected_from_additions": 39,
+    "selected_editorial_new": 2
+  },
+  "scenes": [
+    {
+      "id": "04.01.01",
+      "title": "吃饭喝水基本需求",
+      "title_my": "စားသောက်ခြင်းနှင့် ရေသောက်ရန် လိုအပ်ချက်များ",
+      "phrases": [
+        {
+          "id": "04.01.01-S001",
+          "text": "我饿了。",
+          "meaning_my": "ဗိုက်ဆာပြီ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.01.01-S001_alt01",
+              "text": "饿死了。",
+              "meaning_my": "ဗိုက် အရမ်းဆာနေပြီ။"
+            }
+          ],
+          "source_ref": "user_original_04.01.01_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“饿死了”是夸张的口语，表示特别饿，不是真的快死了。",
+              "text_my": "“饿死了” က ဗိုက်အရမ်းဆာတာကို ချဲ့ပြောတာပါ။ တကယ် သေတော့မယ်လို့ ဆိုလိုတာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.01-S002",
+          "text": "我有点渴。",
+          "meaning_my": "နည်းနည်း ရေဆာတယ်။",
+          "replies": [
+            {
+              "id": "04.01.01-S002_reply01",
+              "text": "这里有水，先喝点。",
+              "meaning_my": "ဒီမှာ ရေရှိတယ်၊ နည်းနည်း သောက်လိုက်ဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.01-S002_alt01",
+              "text": "渴死了。",
+              "meaning_my": "ရေ အရမ်းဆာနေပြီ။"
+            }
+          ],
+          "source_ref": "user_original_04.01.01_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S003",
+          "text": "我想喝水。",
+          "meaning_my": "ရေသောက်ချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S004",
+          "text": "我还没吃饭。",
+          "meaning_my": "ထမင်း မစားရသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S005",
+          "text": "我想吃点东西。",
+          "meaning_my": "တစ်ခုခု စားချင်တယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.01.01-S005_alt01",
+              "text": "想吃点东西垫垫肚子。",
+              "meaning_my": "ဗိုက်လေး နည်းနည်းဖြည့်ဖို့ တစ်ခုခု စားချင်တယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.01.01_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S006",
+          "text": "你想吃什么？",
+          "meaning_my": "ဘာစားချင်လဲ။",
+          "replies": [
+            {
+              "id": "04.01.01-S006_reply01",
+              "text": "随便吃点就行。",
+              "meaning_my": "ဘာဖြစ်ဖြစ် နည်းနည်းစားရရင် ရပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S007",
+          "text": "你饿不饿？",
+          "meaning_my": "ဗိုက်ဆာလား။",
+          "replies": [
+            {
+              "id": "04.01.01-S007_reply01",
+              "text": "有点饿，去吃饭吧。",
+              "meaning_my": "နည်းနည်း ဆာတယ်၊ ထမင်းသွားစားရအောင်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S008",
+          "text": "要不要吃点东西？",
+          "meaning_my": "တစ်ခုခု စားဦးမလား။",
+          "replies": [
+            {
+              "id": "04.01.01-S008_reply01",
+              "text": "我吃过了，你吃吧。",
+              "meaning_my": "စားပြီးပြီ၊ စားလိုက်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S009",
+          "text": "先去吃饭吧。",
+          "meaning_my": "အရင် ထမင်းသွားစားရအောင်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S010",
+          "text": "附近有吃的吗？",
+          "meaning_my": "ဒီနားမှာ စားစရာ ရှိလား။",
+          "replies": [
+            {
+              "id": "04.01.01-S010_reply01",
+              "text": "旁边有家饭店。",
+              "meaning_my": "ဘေးမှာ စားသောက်ဆိုင် တစ်ဆိုင် ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S011",
+          "text": "附近有什么好吃的？",
+          "meaning_my": "ဒီနားမှာ ဘာစားကောင်းတာ ရှိလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S012",
+          "text": "这附近有餐厅吗？",
+          "meaning_my": "ဒီနားမှာ စားသောက်ဆိုင် ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S013",
+          "text": "我请你吃饭。",
+          "meaning_my": "ထမင်း ကျွေးမယ်နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S014",
+          "text": "给我来杯水。",
+          "meaning_my": "ရေတစ်ခွက် ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S015",
+          "text": "有瓶装水吗？",
+          "meaning_my": "ရေသန့်ဘူး ရှိလား။",
+          "replies": [
+            {
+              "id": "04.01.01-S015_reply01",
+              "text": "有，在那边。",
+              "meaning_my": "ရှိတယ်၊ ဟိုဘက်မှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S016",
+          "text": "喝什么？",
+          "meaning_my": "ဘာသောက်မလဲ။",
+          "replies": [
+            {
+              "id": "04.01.01-S016_reply01",
+              "text": "给我来杯热水吧。",
+              "meaning_my": "ရေနွေးတစ်ခွက် ပေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S017",
+          "text": "我喝水就行。",
+          "meaning_my": "ရေပဲ သောက်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S018",
+          "text": "我能喝口水吗？",
+          "meaning_my": "ရေတစ်ငုံလောက် သောက်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S019",
+          "text": "我吃饱了。",
+          "meaning_my": "ဗိုက်ဝပြီ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.01.01-S019_alt01",
+              "text": "已经吃饱了。",
+              "meaning_my": "ဗိုက်ဝနေပြီ။"
+            }
+          ],
+          "source_ref": "user_original_04.01.01_O025",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S020",
+          "text": "我还没吃饱。",
+          "meaning_my": "ဗိုက်မဝသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O028",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S021",
+          "text": "我不饿。",
+          "meaning_my": "ဗိုက်မဆာဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S022",
+          "text": "我还想吃一点。",
+          "meaning_my": "နည်းနည်း ထပ်စားချင်သေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O026",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S023",
+          "text": "我今天没什么胃口。",
+          "meaning_my": "ဒီနေ့ သိပ်စားချင်စိတ် မရှိဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S024",
+          "text": "我想先吃点热的。",
+          "meaning_my": "ပူပူနွေးနွေး တစ်ခုခု အရင်စားချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S025",
+          "text": "想喝点热水。",
+          "meaning_my": "ရေနွေး နည်းနည်း သောက်ချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S026",
+          "text": "有茶吗？",
+          "meaning_my": "လက်ဖက်ရည် ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S027",
+          "text": "吃不完能打包吗？",
+          "meaning_my": "မကုန်ရင် ပါဆယ်ထုပ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.01.01-S027_reply01",
+              "text": "可以，吃完再帮你打包。",
+              "meaning_my": "ရပါတယ်၊ စားပြီးမှ ပါဆယ်ထုပ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.01_N18",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "在中国餐馆，“打包”常指把剩菜装起来带走，不是包装礼品。",
+              "text_my": "တရုတ်စားသောက်ဆိုင်မှာ “打包” ဆိုတာ ကျန်တဲ့ဟင်းကို ထုပ်ပြီး ယူသွားတာကို ဆိုလိုတတ်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.01-S028",
+          "text": "这里能接水吗？",
+          "meaning_my": "ဒီမှာ ရေဖြည့်လို့ရလား။",
+          "replies": [
+            {
+              "id": "04.01.01-S028_reply01",
+              "text": "可以，那边有饮水机。",
+              "meaning_my": "ရပါတယ်၊ ဟိုဘက်မှာ ရေသောက်စက်ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.01-S029",
+          "text": "再等会儿就开饭了。",
+          "meaning_my": "ခဏနေရင် ထမင်းစားလို့ရပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.01_O022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ],
+      "phrase_count": 29
+    },
+    {
+      "id": "04.01.02",
+      "title": "辣甜咸与口味调整",
+      "title_my": "အစပ်၊ အချို၊ အငန်နှင့် အရသာပြောင်းခြင်း",
+      "phrases": [
+        {
+          "id": "04.01.02-S001",
+          "text": "辣吗？",
+          "meaning_my": "စပ်လား။",
+          "replies": [
+            {
+              "id": "04.01.02-S001_reply01",
+              "text": "有点辣。",
+              "meaning_my": "နည်းနည်း စပ်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S002",
+          "text": "有点辣。",
+          "meaning_my": "နည်းနည်း စပ်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S003",
+          "text": "太辣了。",
+          "meaning_my": "စပ်လွန်းတယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.01.02-S003_alt01",
+              "text": "辣得受不了。",
+              "meaning_my": "စပ်လွန်းလို့ မခံနိုင်ဘူး။"
+            }
+          ],
+          "source_ref": "user_addition_04.01.02_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S004",
+          "text": "我吃不了太辣的。",
+          "meaning_my": "အရမ်းစပ်တာ မစားနိုင်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S005",
+          "text": "我一点辣都不能吃。",
+          "meaning_my": "အစပ် လုံးဝ မစားနိုင်ဘူး။",
+          "replies": [
+            {
+              "id": "04.01.02-S005_reply01",
+              "text": "那我给你推荐不辣的。",
+              "meaning_my": "ဒါဆို မစပ်တဲ့ဟင်း အကြံပြုပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S006",
+          "text": "可以做微辣吗？",
+          "meaning_my": "နည်းနည်းလေးပဲ စပ်အောင် ချက်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.01.02-S006_reply01",
+              "text": "可以，我让厨房少放点辣椒。",
+              "meaning_my": "ရပါတယ်၊ မီးဖိုချောင်ကို ငရုတ်သီး လျှော့ထည့်ခိုင်းပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.02-S006_alt01",
+              "text": "做微辣就行。",
+              "meaning_my": "နည်းနည်းလေးပဲ စပ်အောင် ချက်ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.01.02_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“微辣”表示轻微的辣味；完全不能吃辣时，要明确说“一点辣都不能吃”。",
+              "text_my": "“微辣” က နည်းနည်းလေး စပ်တာပါ။ အစပ် လုံးဝမစားနိုင်ရင် သေချာ ပြောပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.02-S007",
+          "text": "辣椒少一点。",
+          "meaning_my": "ငရုတ်သီး နည်းနည်း လျှော့ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S008",
+          "text": "不要放辣椒。",
+          "meaning_my": "ငရုတ်သီး မထည့်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.01.02_M01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S009",
+          "text": "能多放点辣吗？",
+          "meaning_my": "ငရုတ်သီး နည်းနည်း ပိုထည့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S010",
+          "text": "有点咸。",
+          "meaning_my": "နည်းနည်း ငန်တယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.01.02-S010_alt01",
+              "text": "味道有点重。",
+              "meaning_my": "အရသာ နည်းနည်းလေးတယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.01.02_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S011",
+          "text": "这个太咸了。",
+          "meaning_my": "ဒါ ငန်လွန်းတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S012",
+          "text": "少放一点盐。",
+          "meaning_my": "ဆား နည်းနည်း လျှော့ထည့်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S013",
+          "text": "这道菜可以不放盐吗？",
+          "meaning_my": "ဒီဟင်းကို ဆားမထည့်ဘဲ ချက်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S014",
+          "text": "太甜了。",
+          "meaning_my": "ချိုလွန်းတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O004",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S015",
+          "text": "可以少放糖吗？",
+          "meaning_my": "သကြား နည်းနည်း လျှော့ထည့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S016",
+          "text": "不要放糖。",
+          "meaning_my": "သကြား မထည့်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S017",
+          "text": "我喜欢酸的。",
+          "meaning_my": "ချဉ်တဲ့အရသာ ကြိုက်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O006",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S018",
+          "text": "这道菜有点酸。",
+          "meaning_my": "ဒီဟင်း နည်းနည်း ချဉ်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S019",
+          "text": "这个有点苦。",
+          "meaning_my": "ဒါ နည်းနည်း ခါးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O027",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S020",
+          "text": "能做清淡一点吗？",
+          "meaning_my": "ဆီနဲ့ အငန် လျှော့ပြီး ပေါ့ပေါ့ပါးပါး ချက်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.01.02-S020_reply01",
+              "text": "可以，油和盐都少放点。",
+              "meaning_my": "ရပါတယ်၊ ဆီနဲ့ ဆား လျှော့ထည့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O005",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“清淡”通常指少油、少盐、调味不过重，不等于完全没有味道。",
+              "text_my": "“清淡” က များသောအားဖြင့် ဆီနဲ့ အငန်လျှော့ပြီး အရသာပေါ့ပေါ့ ဖြစ်တာပါ။ အရသာလုံးဝ မရှိတာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.02-S021",
+          "text": "能少放点油吗？",
+          "meaning_my": "ဆီ နည်းနည်း လျှော့ထည့်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.01.02-S021_reply01",
+              "text": "可以，我给你备注一下。",
+              "meaning_my": "ရပါတယ်၊ မှတ်သားပေးထားမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O025",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S022",
+          "text": "这道菜有点油。",
+          "meaning_my": "ဒီဟင်းက ဆီနည်းနည်း များတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S023",
+          "text": "酱可以另外放吗？",
+          "meaning_my": "ဆော့စ်ကို သီးသန့် ထည့်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.01.02-S023_reply01",
+              "text": "可以，给你单独装。",
+              "meaning_my": "ရပါတယ်၊ ဆော့စ်ကို သီးသန့် ထည့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.02_O010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S024",
+          "text": "别放香菜。",
+          "meaning_my": "နံနံပင် မထည့်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.01.02-S024_alt01",
+              "text": "我不吃香菜。",
+              "meaning_my": "နံနံပင် မစားဘူး။"
+            }
+          ],
+          "source_ref": "user_original_04.01.02_O026",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S025",
+          "text": "能给我点辣椒酱吗？",
+          "meaning_my": "ငရုတ်သီးဆော့စ် နည်းနည်း ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S026",
+          "text": "有醋吗？",
+          "meaning_my": "ရှလကာရည် ရှိလား။",
+          "replies": [
+            {
+              "id": "04.01.02-S026_reply01",
+              "text": "有，在桌上。",
+              "meaning_my": "ရှိတယ်၊ စားပွဲပေါ်မှာ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S027",
+          "text": "有酱油吗？",
+          "meaning_my": "ပဲငံပြာရည် ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S028",
+          "text": "不要放味精。",
+          "meaning_my": "အချိုမှုန့် မထည့်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S029",
+          "text": "味道刚刚好。",
+          "meaning_my": "အရသာ ကွက်တိပဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.02-S030",
+          "text": "味道怪怪的。",
+          "meaning_my": "အရသာ နည်းနည်း ထူးဆန်းနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.02_N08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ],
+      "phrase_count": 30
+    },
+    {
+      "id": "04.01.03",
+      "title": "忌口与过敏",
+      "title_my": "မစားသည့်အရာများနှင့် အစားအစာဓာတ်မတည့်ခြင်း",
+      "phrases": [
+        {
+          "id": "04.01.03-S001",
+          "text": "我不吃猪肉。",
+          "meaning_my": "ဝက်သား မစားဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S002",
+          "text": "我不吃牛肉。",
+          "meaning_my": "အမဲသား မစားဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S003",
+          "text": "我吃素。",
+          "meaning_my": "သက်သတ်လွတ်စားတယ်။",
+          "replies": [
+            {
+              "id": "04.01.03-S003_reply01",
+              "text": "有，我们有素菜。",
+              "meaning_my": "ရှိပါတယ်၊ သက်သတ်လွတ်ဟင်း ရှိပါတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.03-S003_alt01",
+              "text": "我不吃肉。",
+              "meaning_my": "အသား မစားဘူး။"
+            }
+          ],
+          "source_ref": "user_original_04.01.03_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“吃素”通常指不吃肉；是否吃蛋、奶或鱼露要向店家进一步说明和确认。",
+              "text_my": "“吃素” ဆိုတာ ယေဘုယျအားဖြင့် အသားမစားတာပါ။ ကြက်ဥ၊ နို့၊ ငါးငံပြာရည် ပါမပါ သီးသန့် အတည်ပြုပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.03-S004",
+          "text": "这个是素的吗？",
+          "meaning_my": "ဒါ သက်သတ်လွတ်ဟင်းလား။",
+          "replies": [
+            {
+              "id": "04.01.03-S004_reply01",
+              "text": "我先帮你确认一下配料。",
+              "meaning_my": "ပါဝင်ပစ္စည်းတွေကို အရင် စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.03-S004_alt01",
+              "text": "这里面有肉吗？",
+              "meaning_my": "ဒီထဲမှာ အသား ပါလား။"
+            }
+          ],
+          "source_ref": "user_addition_04.01.03_N13",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S005",
+          "text": "有素食菜单吗？",
+          "meaning_my": "သက်သတ်လွတ် မီနူး ရှိလား။",
+          "replies": [
+            {
+              "id": "04.01.03-S005_reply01",
+              "text": "有，给你一份。",
+              "meaning_my": "ရှိပါတယ်၊ မီနူးတစ်စောင် ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N14",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S006",
+          "text": "可以不放猪肉吗？",
+          "meaning_my": "ဝက်သား မထည့်ဘဲ ချက်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S007",
+          "text": "我对花生过敏。",
+          "meaning_my": "မြေပဲနဲ့ ဓာတ်မတည့်ဘူး။",
+          "replies": [
+            {
+              "id": "04.01.03-S007_reply01",
+              "text": "我先问厨房用了什么。",
+              "meaning_my": "မီးဖိုချောင်မှာ ဘာတွေ သုံးထားလဲ အရင် မေးကြည့်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.03-S007_alt01",
+              "text": "我对花生严重过敏，千万别放。",
+              "meaning_my": "မြေပဲနဲ့ ဓာတ်မတည့်တာ ပြင်းထန်လို့ လုံးဝ မထည့်ပေးပါနဲ့။"
+            }
+          ],
+          "source_ref": "user_original_04.01.03_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "“过敏”不同于不喜欢。严重过敏时需确认全部配料、酱料、用油和交叉接触；无法确认安全时不要食用。",
+              "text_my": "“ဓာတ်မတည့်” တာနဲ့ မကြိုက်တာ မတူပါဘူး။ ပြင်းထန်ရင် ပါဝင်ပစ္စည်း၊ ဆော့စ်၊ ဆီနဲ့ အခြားအစားအစာကနေ ထိတွေ့ကူးစက်နိုင်မှုကို စစ်ပါ။ စိတ်မချရရင် မစားပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.03-S008",
+          "text": "我对海鲜过敏。",
+          "meaning_my": "ပင်လယ်စာနဲ့ ဓာတ်မတည့်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S009",
+          "text": "我对鸡蛋过敏。",
+          "meaning_my": "ကြက်ဥနဲ့ ဓာတ်မတည့်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S010",
+          "text": "我对牛奶过敏。",
+          "meaning_my": "နို့နဲ့ ဓာတ်မတည့်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S011",
+          "text": "我对虾过敏。",
+          "meaning_my": "ပုစွန်နဲ့ ဓာတ်မတည့်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S012",
+          "text": "我不能吃坚果。",
+          "meaning_my": "အခွံမာသီးတွေ မစားနိုင်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S013",
+          "text": "我过敏很严重。",
+          "meaning_my": "ဓာတ်မတည့်တာ အရမ်း ပြင်းထန်တယ်။",
+          "replies": [
+            {
+              "id": "04.01.03-S013_reply01",
+              "text": "那先别点这道菜，确认清楚再说。",
+              "meaning_my": "ဒါဆို ဒီဟင်းကို အခု မမှာသေးနဲ့၊ သေချာ စစ်ပြီးမှ မှာရအောင်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S014",
+          "text": "这个里面有什么？",
+          "meaning_my": "ဒီအထဲမှာ ဘာတွေပါလဲ။",
+          "replies": [
+            {
+              "id": "04.01.03-S014_reply01",
+              "text": "里面有鸡蛋和牛奶。",
+              "meaning_my": "အထဲမှာ ကြက်ဥနဲ့ နို့ ပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S015",
+          "text": "里面放肉了吗？",
+          "meaning_my": "အထဲမှာ အသား ထည့်ထားလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S016",
+          "text": "这个酱里有花生吗？",
+          "meaning_my": "ဒီဆော့စ်ထဲမှာ မြေပဲ ပါလား။",
+          "replies": [
+            {
+              "id": "04.01.03-S016_reply01",
+              "text": "我帮你问一下厨房。",
+              "meaning_my": "မီးဖိုချောင်မှာ မေးပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S017",
+          "text": "这道菜会用花生油吗？",
+          "meaning_my": "ဒီဟင်းမှာ မြေပဲဆီ သုံးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "不同加工方式的花生油风险可能不同，不能仅凭“用了花生油”判断个人是否安全；严重过敏者应按医疗建议避险。",
+              "text_my": "မြေပဲဆီ ပြုလုပ်ပုံပေါ်မူတည်ပြီး အန္တရာယ်ကွာနိုင်တယ်။ ကိုယ့်အတွက် လုံခြုံမလုံခြုံကို ကိုယ်တိုင် မခန့်မှန်းဘဲ ဆရာဝန်အကြံပြုချက်အတိုင်း သတိထားပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.03-S018",
+          "text": "这里面有牛奶吗？",
+          "meaning_my": "ဒီအထဲမှာ နို့ ပါလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S019",
+          "text": "麻烦确认一下有没有海鲜。",
+          "meaning_my": "ပင်လယ်စာ ပါမပါ သေချာ စစ်ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "04.01.03-S019_reply01",
+              "text": "好的，我去厨房确认。",
+              "meaning_my": "ဟုတ်ကဲ့၊ မီးဖိုချောင်မှာ သေချာ သွားမေးပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S020",
+          "text": "麻烦不要放海鲜。",
+          "meaning_my": "ပင်လယ်စာ မထည့်ပေးပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O004",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S021",
+          "text": "这口锅刚炒过海鲜吗？",
+          "meaning_my": "ဒီဒယ်အိုးနဲ့ ခုနက ပင်လယ်စာ ကြော်ထားသေးလား။",
+          "replies": [
+            {
+              "id": "04.01.03-S021_reply01",
+              "text": "刚炒过，可能还有残留。",
+              "meaning_my": "ခုနက ကြော်ထားတယ်၊ အကြွင်းအကျန် ရှိနေနိုင်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.03_O018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "只说“不放海鲜”不一定能避免过敏原残留；要询问厨具和烹调过程是否发生交叉接触。",
+              "text_my": "ပင်လယ်စာ မထည့်ရုံနဲ့ ဓာတ်မတည့်စေနိုင်တဲ့ အကြွင်းအကျန် လုံးဝ မရှိဘူးလို့ မဆိုလိုဘူး။ အိုးနဲ့ ချက်ပြုတ်ပုံကိုလည်း စစ်ဆေးပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.03-S022",
+          "text": "这口锅接触过花生吗？",
+          "meaning_my": "ဒီအိုးမှာ မြေပဲပါတဲ့ဟင်း ချက်ဖူးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.01.03_M01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S023",
+          "text": "麻烦换一道没有花生的菜。",
+          "meaning_my": "မြေပဲမပါတဲ့ တခြားဟင်းတစ်ပွဲ ပြောင်းပေးပါဦး။",
+          "replies": [
+            {
+              "id": "04.01.03-S023_reply01",
+              "text": "可以，但还得确认锅具有没有接触过花生。",
+              "meaning_my": "ရပါတယ်၊ ဒါပေမဲ့ အိုးမှာ မြေပဲ ထိတွေ့ထားတာ ရှိမရှိ သေချာ စစ်ရဦးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N18",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.03-S024",
+          "text": "我不能吃这个。",
+          "meaning_my": "ဒါ မစားနိုင်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.03_N17",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ],
+      "phrase_count": 24
+    },
+    {
+      "id": "04.01.04",
+      "title": "询问推荐与点菜建议",
+      "title_my": "ဟင်းအကြံပြုချက်နှင့် မှာယူခြင်း",
+      "phrases": [
+        {
+          "id": "04.01.04-S001",
+          "text": "有什么推荐的？",
+          "meaning_my": "ဘာဟင်းကောင်းကောင်း အကြံပြုပေးမလဲ။",
+          "replies": [
+            {
+              "id": "04.01.04-S001_reply01",
+              "text": "这是我们店的招牌菜。",
+              "meaning_my": "ဒါ ကျွန်တော်တို့ဆိုင်ရဲ့ နာမည်ကြီးဟင်းပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.04-S001_alt01",
+              "text": "你们这儿什么好吃？",
+              "meaning_my": "ဒီဆိုင်မှာ ဘာစားကောင်းလဲ။"
+            }
+          ],
+          "source_ref": "user_original_04.01.04_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S002",
+          "text": "招牌菜是什么？",
+          "meaning_my": "ဆိုင်ရဲ့ နာမည်ကြီးဟင်းက ဘာလဲ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.01.04-S002_alt01",
+              "text": "有什么特色菜？",
+              "meaning_my": "ဆိုင်ရဲ့ အထူးဟင်း ဘာရှိလဲ။"
+            }
+          ],
+          "source_ref": "user_original_04.01.04_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S003",
+          "text": "哪个最好吃？",
+          "meaning_my": "ဘယ်ဟာ အရသာအကောင်းဆုံးလဲ။",
+          "replies": [
+            {
+              "id": "04.01.04-S003_reply01",
+              "text": "看你喜欢什么口味。",
+              "meaning_my": "ဘယ်လိုအရသာ ကြိုက်လဲဆိုတာပေါ် မူတည်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.04_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S004",
+          "text": "第一次来点什么好？",
+          "meaning_my": "ပထမဆုံးလာတာ၊ ဘာမှာစားရင် ကောင်းမလဲ။",
+          "replies": [
+            {
+              "id": "04.01.04-S004_reply01",
+              "text": "您可以尝尝这道菜。",
+              "meaning_my": "ဒီဟင်းကို မြည်းကြည့်လို့ရပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.04_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S005",
+          "text": "有没有不辣的推荐？",
+          "meaning_my": "မစပ်တဲ့ဟင်းကောင်းကောင်း အကြံပြုပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.01.04-S005_reply01",
+              "text": "这个不辣。",
+              "meaning_my": "ဒါ မစပ်ဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.04-S005_alt01",
+              "text": "推荐一个不辣的吧。",
+              "meaning_my": "မစပ်တဲ့ဟင်းတစ်ပွဲ အကြံပြုပါဦး။"
+            }
+          ],
+          "source_ref": "user_original_04.01.04_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S006",
+          "text": "这份够几个人吃？",
+          "meaning_my": "ဒီတစ်ပွဲ လူဘယ်နှယောက်စာလဲ။",
+          "replies": [
+            {
+              "id": "04.01.04-S006_reply01",
+              "text": "两个人一份就够了。",
+              "meaning_my": "နှစ်ယောက်စားရင် တစ်ပွဲ လောက်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.01.04-S006_alt01",
+              "text": "这份够两个人吃吗？",
+              "meaning_my": "ဒီတစ်ပွဲ နှစ်ယောက်စားဖို့ လောက်လား။"
+            }
+          ],
+          "source_ref": "user_original_04.01.04_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“份”指一份菜或餐食；“两人份”说明大致适合两个人，并不是统一的固定重量。",
+              "text_my": "“份” က အစားအစာတစ်ပွဲ၊ တစ်份ကို ဆိုလိုတယ်။ “两人份” က နှစ်ယောက်စာလောက်ဆိုတဲ့ အဓိပ္ပာယ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.01.04-S007",
+          "text": "这个分量大吗？",
+          "meaning_my": "ဒီတစ်ပွဲက ပမာဏ များလား။",
+          "replies": [
+            {
+              "id": "04.01.04-S007_reply01",
+              "text": "挺大的，两个人吃够了。",
+              "meaning_my": "ပွဲကြီးတယ်၊ နှစ်ယောက်စားလို့ လောက်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.04_O012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S008",
+          "text": "两个人点几个菜合适？",
+          "meaning_my": "နှစ်ယောက်စားရင် ဟင်း ဘယ်နှပွဲလောက် မှာသင့်လဲ။",
+          "replies": [
+            {
+              "id": "04.01.04-S008_reply01",
+              "text": "两个人点三道差不多。",
+              "meaning_my": "နှစ်ယောက်ဆို ဟင်းသုံးပွဲလောက် သင့်တော်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.04_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S009",
+          "text": "有没有适合一个人吃的菜？",
+          "meaning_my": "တစ်ယောက်တည်းစားဖို့ သင့်တော်တဲ့ဟင်း ရှိလား။",
+          "replies": [
+            {
+              "id": "04.01.04-S009_reply01",
+              "text": "有小份的。",
+              "meaning_my": "ပွဲသေးတွေ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.04_O022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S010",
+          "text": "太大了，有没有小份的？",
+          "meaning_my": "ပမာဏ များလွန်းတယ်၊ ပွဲသေး ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N05",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S011",
+          "text": "这个是什么做的？",
+          "meaning_my": "ဒါကို ဘာတွေနဲ့ လုပ်ထားတာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S012",
+          "text": "有图片吗？",
+          "meaning_my": "ဟင်းပုံ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S013",
+          "text": "这个卖完了吗？",
+          "meaning_my": "ဒီဟင်း ကုန်သွားပြီလား။",
+          "replies": [
+            {
+              "id": "04.01.04-S013_reply01",
+              "text": "今天这个卖完了。",
+              "meaning_my": "ဒီနေ့ ဒီဟင်း ကုန်သွားပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S014",
+          "text": "那来一份这个吧。",
+          "meaning_my": "ဒါဆို ဒါ တစ်ပွဲ ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S015",
+          "text": "先来这些，不够再加。",
+          "meaning_my": "ဒါတွေ အရင်မှာမယ်၊ မလောက်ရင် ထပ်မှာမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S016",
+          "text": "这个和那个哪个好？",
+          "meaning_my": "ဒါနဲ့ ဟိုဟာ ဘယ်ဟာ ပိုကောင်းလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S017",
+          "text": "有儿童餐吗？",
+          "meaning_my": "ကလေးစာ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S018",
+          "text": "这个适合小孩吃吗？",
+          "meaning_my": "ဒါ ကလေးတွေ စားဖို့ သင့်တော်လား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.04_O014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S019",
+          "text": "这个好吃。",
+          "meaning_my": "ဒါ အရသာရှိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.01.04_O009",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.01.04-S020",
+          "text": "有什么喝的推荐？",
+          "meaning_my": "သောက်စရာ ဘာကောင်းကောင်း အကြံပြုမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.01.04_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ],
+      "phrase_count": 20
+    }
+  ],
+  "extras_summary": {
+    "main": 103,
+    "replies": 35,
+    "alternatives": 15,
+    "notes": 9,
+    "total_audio": 153
+  },
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "date": "2026-11-11",
+    "frequency_method": "editorial_utility_not_measured_corpus",
+    "native_burmese_review_required": true,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}
