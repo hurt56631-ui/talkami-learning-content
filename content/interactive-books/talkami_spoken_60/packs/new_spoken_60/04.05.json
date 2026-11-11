@@ -1,0 +1,1297 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "04.05",
+  "theme_title": "餐厅结账",
+  "theme_title_my": "စားသောက်ဆိုင်မှာ ငွေရှင်းခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 65,
+  "original_count": 46,
+  "added_count": 19,
+  "note": "从原稿67句与补充55句中按实际餐厅结账需要筛选；与04.02的现金/扫码原问句去重，员工应答移入按需回复；区分AA平摊、个人消费、收款码与付款码、小票与正式税务发票。缅语母语终审、拼音/谐音及MP3均未完成。",
+  "source_counts": {
+    "user_original_main": 67,
+    "user_suggested_additions": 55,
+    "retained_original": 46,
+    "retained_additions": 18,
+    "editorial_new": 1
+  },
+  "scenes": [
+    {
+      "id": "04.05.01",
+      "title": "买单与核对账单",
+      "title_my": "ငွေရှင်းခြင်းနှင့် ဘေလ်စစ်ဆေးခြင်း",
+      "phrase_count": 25,
+      "phrases": [
+        {
+          "id": "04.05.01-S001",
+          "text": "买单。",
+          "meaning_my": "ငွေရှင်းမယ်။",
+          "replies": [
+            {
+              "id": "04.05.01-S001_reply01",
+              "text": "好的，请到前台结账。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ကောင်တာမှာ သွားရှင်းပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.01-S001_alt01",
+              "text": "服务员，结账。",
+              "meaning_my": "ဝန်ထမ်းရေ၊ ငွေရှင်းမယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.05.01_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S002",
+          "text": "这一桌一共多少钱？",
+          "meaning_my": "ဒီစားပွဲအတွက် စုစုပေါင်း ဘယ်လောက်ကျလဲ။",
+          "replies": [
+            {
+              "id": "04.05.01-S002_reply01",
+              "text": "一共二百六。",
+              "meaning_my": "စုစုပေါင်း ယွမ်နှစ်ရာ့ခြောက်ဆယ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S003",
+          "text": "麻烦给我看一下账单。",
+          "meaning_my": "ဘေလ်လေး ပြပေးပါဦး။",
+          "replies": [
+            {
+              "id": "04.05.01-S003_reply01",
+              "text": "好的，我给您拿过来。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ယူလာပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.01-S003_alt01",
+              "text": "账单给我看一下。",
+              "meaning_my": "ဘေလ်လေး ကြည့်ပါရစေ။"
+            }
+          ],
+          "source_ref": "user_original_04.05.01_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S004",
+          "text": "这个费用是什么？",
+          "meaning_my": "ဒီငွေက ဘာအတွက် ကောက်ထားတာလဲ။",
+          "replies": [
+            {
+              "id": "04.05.01-S004_reply01",
+              "text": "这是餐位费。",
+              "meaning_my": "ဒါက စားပွဲထိုင်ခုံကြေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "“服务费”和“餐位费”可能是不同项目；具体收费和优惠以店家的实际账单为准。",
+              "text_my": "“ဝန်ဆောင်ခ” နဲ့ “စားပွဲထိုင်ခုံကြေး” က မတူနိုင်ပါဘူး။ ဘာကြေးလဲဆိုတာ ဘေလ်ထဲမှာ သေချာ စစ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.01-S005",
+          "text": "可以分开结账吗？",
+          "meaning_my": "ငွေခွဲရှင်းလို့ ရမလား။",
+          "replies": [
+            {
+              "id": "04.05.01-S005_reply01",
+              "text": "可以，各付各的还是平摊？",
+              "meaning_my": "ရပါတယ်၊ ကိုယ်စားတဲ့ဟာကိုယ်ရှင်းမလား၊ အညီအမျှ ခွဲရှင်းမလား။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“分开结账”可以各自付自己的，也可以均摊；结账前可问清是哪一种。",
+              "text_my": "“分开结账” က ကိုယ်စားတဲ့ဟာကိုယ်ရှင်းတာလည်း ဖြစ်နိုင်သလို အညီအမျှ ခွဲရှင်းတာလည်း ဖြစ်နိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.01-S006",
+          "text": "麻烦核对一下金额。",
+          "meaning_my": "ကျသင့်ငွေပမာဏကို ပြန်စစ်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S007",
+          "text": "这道菜算了两遍。",
+          "meaning_my": "ဒီဟင်းကို နှစ်ခါ တွက်ထားတယ်။",
+          "replies": [
+            {
+              "id": "04.05.01-S007_reply01",
+              "text": "不好意思，我马上改过来。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ အခုချက်ချင်း ပြင်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.01-S007_alt01",
+              "text": "这道菜重复收费了。",
+              "meaning_my": "ဒီဟင်းဖိုး နှစ်ခါ ကောက်ထားတယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.05.01_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S008",
+          "text": "账单有一项不对。",
+          "meaning_my": "ဘေလ်ထဲက တစ်ခု မှားနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S009",
+          "text": "这道菜没上，怎么也算钱了？",
+          "meaning_my": "ဒီဟင်း မရောက်သေးဘဲ ဘာလို့ ငွေတွက်ထားတာလဲ။",
+          "replies": [
+            {
+              "id": "04.05.01-S009_reply01",
+              "text": "我核对一下，确认后帮您处理。",
+              "meaning_my": "စစ်ဆေးပြီးမှ ဖြေရှင်းပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S010",
+          "text": "多算了十块。",
+          "meaning_my": "ဆယ်ယွမ် ပိုတွက်ထားတယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.05.01-S010_alt01",
+              "text": "多收了十块钱。",
+              "meaning_my": "ဆယ်ယွမ် ပိုကောက်ထားတယ်။"
+            }
+          ],
+          "source_ref": "user_addition_04.05.01_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S011",
+          "text": "能重新算一下吗？",
+          "meaning_my": "ငွေကို ပြန်တွက်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.01_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S012",
+          "text": "优惠怎么没算上？",
+          "meaning_my": "လျှော့ဈေးကို ဘာလို့ မထည့်တွက်ပေးထားတာလဲ။",
+          "replies": [
+            {
+              "id": "04.05.01-S012_reply01",
+              "text": "我查一下优惠有没有用上。",
+              "meaning_my": "လျှော့ဈေး ထည့်တွက်ထားလား စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O023",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S013",
+          "text": "这桌要收服务费吗？",
+          "meaning_my": "ဒီစားပွဲအတွက် ဝန်ဆောင်ခ ကောက်လား။",
+          "replies": [
+            {
+              "id": "04.05.01-S013_reply01",
+              "text": "没有服务费。",
+              "meaning_my": "ဝန်ဆောင်ခ မကောက်ပါဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O024",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S014",
+          "text": "可以在桌边结账吗？",
+          "meaning_my": "စားပွဲမှာပဲ ငွေရှင်းလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.05.01-S014_reply01",
+              "text": "可以，直接在这里付就行。",
+              "meaning_my": "ရပါတယ်၊ ဒီမှာပဲ ငွေရှင်းလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O009",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S015",
+          "text": "我来付。",
+          "meaning_my": "ဒီတစ်ခါ ကျွန်တော် ရှင်းမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S016",
+          "text": "可以刷卡吗？",
+          "meaning_my": "ဘဏ်ကတ်နဲ့ ငွေရှင်းလို့ရလား။",
+          "replies": [
+            {
+              "id": "04.05.01-S016_reply01",
+              "text": "可以，刷卡或扫码都行。",
+              "meaning_my": "ရပါတယ်၊ ကတ်နဲ့ဖြစ်ဖြစ် QR နဲ့ဖြစ်ဖြစ် ရှင်းလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.01_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S017",
+          "text": "可以用微信支付吗？",
+          "meaning_my": "WeChat Pay နဲ့ ငွေရှင်းလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.01_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S018",
+          "text": "可以用支付宝吗？",
+          "meaning_my": "Alipay နဲ့ ငွေရှင်းလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.01_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S019",
+          "text": "扫哪个码？",
+          "meaning_my": "ဘယ် QR ကုဒ်ကို စကန်ဖတ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "04.05.01-S019_reply01",
+              "text": "扫这边的收款码。",
+              "meaning_my": "ဒီဘက်က ငွေလက်ခံ QR ကုဒ်ကို စကန်ဖတ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.01_N18",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "“收款码”用于接收付款；“付款码”是付款人手机上的支付凭证，不要随意发给陌生人。",
+              "text_my": "“收款码” က ငွေလက်ခံဖို့ သုံးတာပါ။ “付款码” က ကိုယ့်ဖုန်းထဲက ငွေပေးချေမှုကုဒ်ဖြစ်လို့ မသိတဲ့သူဆီ မပို့သင့်ပါဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.01-S020",
+          "text": "我扫码付。",
+          "meaning_my": "QR ကုဒ် စကန်ဖတ်ပြီး ငွေရှင်းမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O025",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S021",
+          "text": "付款成功了。",
+          "meaning_my": "ငွေပေးချေမှု အောင်မြင်သွားပြီ။",
+          "replies": [
+            {
+              "id": "04.05.01-S021_reply01",
+              "text": "好的，我确认一下。",
+              "meaning_my": "ဟုတ်ကဲ့၊ စစ်ဆေးပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.01_N19",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S022",
+          "text": "请给我小票。",
+          "meaning_my": "ငွေရှင်းပြေစာလေး ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.01_N20",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“小票”是普通消费收据；中国餐饮场景的“发票”通常是税务凭证，两者不要混淆。",
+              "text_my": "“小票” က ငွေရှင်းပြေစာ၊ “发票” က အခွန်ပြေစာပါ။ နှစ်မျိုး မတူပါဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.01-S023",
+          "text": "能打印一张账单吗？",
+          "meaning_my": "ဘေလ်စာရွက် တစ်စောင် ထုတ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S024",
+          "text": "需要分开付吗？",
+          "meaning_my": "ငွေခွဲရှင်းမလား။",
+          "replies": [
+            {
+              "id": "04.05.01-S024_reply01",
+              "text": "不用，一起付。",
+              "meaning_my": "မလိုပါဘူး၊ အတူတူ ရှင်းမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.01_O019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.01-S025",
+          "text": "我已经付过了。",
+          "meaning_my": "ငွေရှင်းပြီးသားပါ။",
+          "replies": [
+            {
+              "id": "04.05.01-S025_reply01",
+              "text": "我帮您查一下支付记录。",
+              "meaning_my": "ငွေရှင်းထားတာကို စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.05.01_M01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "04.05.02",
+      "title": "AA与请客",
+      "title_my": "ငွေခွဲရှင်းခြင်းနှင့် တစ်ယောက်က ကျွေးခြင်း",
+      "phrase_count": 27,
+      "phrases": [
+        {
+          "id": "04.05.02-S001",
+          "text": "我们AA吧。",
+          "meaning_my": "စားစရိတ် အညီအမျှ ခွဲပေးကြရအောင်။",
+          "replies": [
+            {
+              "id": "04.05.02-S001_reply01",
+              "text": "好，算一下每个人多少。",
+              "meaning_my": "ကောင်းပြီ၊ တစ်ယောက် ဘယ်လောက်ကျလဲ တွက်ကြည့်ရအောင်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.02-S001_alt01",
+              "text": "我们平分吧。",
+              "meaning_my": "အညီအမျှ ခွဲပေးကြရအောင်။"
+            }
+          ],
+          "source_ref": "user_original_04.05.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“AA”通常指各人承担自己的份额；“平摊”更明确表示平均分，“各付各的”是各付自己的消费。",
+              "text_my": "“AA” က လူတိုင်း ကိုယ့်ဝေစုကိုယ် ပေးတာပါ။ “平摊” က အညီအမျှ ခွဲပေးတာ၊ “各付各的” က ကိုယ်စားတာကိုယ်ရှင်းတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.02-S002",
+          "text": "各付各的。",
+          "meaning_my": "ကိုယ်စားတဲ့ဟာ ကိုယ်ရှင်းမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.05.02-S002_alt01",
+              "text": "我们按各自点的算吧。",
+              "meaning_my": "ကိုယ်မှာတဲ့ဟာကိုယ် တွက်ရှင်းကြရအောင်။"
+            }
+          ],
+          "source_ref": "user_original_04.05.02_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S003",
+          "text": "这顿我请。",
+          "meaning_my": "ဒီတစ်ခါ ကျွန်တော် ကျွေးမယ်။",
+          "replies": [
+            {
+              "id": "04.05.02-S003_reply01",
+              "text": "那我不客气了。",
+              "meaning_my": "ဒါဆို အားမနာတော့ဘူးနော်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.02-S003_alt01",
+              "text": "这顿算我的。",
+              "meaning_my": "ဒီတစ်ခါ ကျွန်တော်ပဲ ကျွေးမယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.05.02_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "中文主语“我”在缅语译文中可根据说话者使用 ကျွန်တော်（男性）或 ကျွန်မ（女性）；配音底稿采用单一口语形式，避免斜杠难以朗读。",
+              "text_my": "တရုတ်လို “我” ကို မြန်မာလို ပြောသူအလိုက် “ကျွန်တော်” ဒါမှမဟုတ် “ကျွန်မ” လို့ ပြောင်းသုံးနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.02-S004",
+          "text": "一人多少钱？",
+          "meaning_my": "တစ်ယောက် ဘယ်လောက်စီ ကျလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.02_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S005",
+          "text": "我先垫上。",
+          "meaning_my": "ကျွန်တော် အရင် စိုက်ပေးထားမယ်။",
+          "replies": [
+            {
+              "id": "04.05.02-S005_reply01",
+              "text": "好，回头转给你。",
+              "meaning_my": "ကောင်းပြီ၊ နောက်မှ ငွေလွှဲပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“垫上/垫付”表示先替大家付钱，之后别人可能再转还，并不表示一定请客。",
+              "text_my": "“垫付” က အရင်စိုက်ပေးထားတာပါ။ နောက်မှ တခြားသူတွေ ငွေပြန်လွှဲပေးနိုင်တယ်။ ကိုယ်ကျွေးတာ မဟုတ်နိုင်ပါဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.02-S006",
+          "text": "我先付，大家再转我。",
+          "meaning_my": "ကျွန်တော် အရင်ရှင်းမယ်၊ ပြီးမှ အားလုံး ကျွန်တော့်ဆီ ငွေလွှဲပေးကြ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.02_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S007",
+          "text": "我转给你。",
+          "meaning_my": "ခင်ဗျားဆီ ငွေလွှဲပေးမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.05.02-S007_alt01",
+              "text": "微信转给你。",
+              "meaning_my": "WeChat ကနေ ငွေလွှဲပေးမယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.05.02_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S008",
+          "text": "钱转过去了，你收一下。",
+          "meaning_my": "ပိုက်ဆံ လွှဲလိုက်ပြီ၊ ရောက်မရောက် ကြည့်ပါဦး။",
+          "replies": [
+            {
+              "id": "04.05.02-S008_reply01",
+              "text": "收到了，谢谢。",
+              "meaning_my": "ငွေ ရပြီ၊ ကျေးဇူးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S009",
+          "text": "你把收款码发我。",
+          "meaning_my": "ငွေလက်ခံ QR ကုဒ်လေး ပို့ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "04.05.02-S009_reply01",
+              "text": "好，我发给你。",
+              "meaning_my": "ကောင်းပြီ၊ ပို့ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.02-S009_alt01",
+              "text": "把收款码发我一下。",
+              "meaning_my": "ငွေလက်ခံ QR ကုဒ်လေး ပို့ပေးပါဦး။"
+            }
+          ],
+          "source_ref": "user_original_04.05.02_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S010",
+          "text": "收到了吗？",
+          "meaning_my": "ငွေ ရောက်ပြီလား။",
+          "replies": [
+            {
+              "id": "04.05.02-S010_reply01",
+              "text": "收到了。",
+              "meaning_my": "ရောက်ပါပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.02_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S011",
+          "text": "我收到了。",
+          "meaning_my": "ငွေ ရပါပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S012",
+          "text": "回去我再转给你。",
+          "meaning_my": "ပြန်ရောက်မှ ခင်ဗျားဆီ ငွေလွှဲပေးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S013",
+          "text": "我把我的那份转给你。",
+          "meaning_my": "ကျွန်တော့်အတွက် ကျတဲ့ငွေကို လွှဲပေးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S014",
+          "text": "你转过来了吗？",
+          "meaning_my": "ငွေလွှဲပြီးပြီလား။",
+          "replies": [
+            {
+              "id": "04.05.02-S014_reply01",
+              "text": "转了，你看看。",
+              "meaning_my": "လွှဲပြီးပြီ၊ ကြည့်လိုက်ပါဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S015",
+          "text": "一人一半吧。",
+          "meaning_my": "တစ်ယောက် တစ်ဝက်စီ ပေးကြမယ်။",
+          "replies": [
+            {
+              "id": "04.05.02-S015_reply01",
+              "text": "好，一人八十。",
+              "meaning_my": "ကောင်းပြီ၊ တစ်ယောက် ယွမ်ရှစ်ဆယ်စီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S016",
+          "text": "你转我八十就行。",
+          "meaning_my": "ကျွန်တော့်ဆီ ယွမ်ရှစ်ဆယ်ပဲ လွှဲပေးပါ။",
+          "replies": [
+            {
+              "id": "04.05.02-S016_reply01",
+              "text": "好，我马上转。",
+              "meaning_my": "ကောင်းပြီ၊ အခုလွှဲပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O023",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S017",
+          "text": "方便把餐费转我吗？",
+          "meaning_my": "စားစရိတ်ကို ကျွန်တော့်ဆီ လွှဲပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O025",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S018",
+          "text": "你不用转了。",
+          "meaning_my": "ငွေ လွှဲပေးစရာ မလိုတော့ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S019",
+          "text": "我还欠你多少钱？",
+          "meaning_my": "ခင်ဗျားကို ငွေ ဘယ်လောက် ပေးဖို့ ကျန်သေးလဲ။",
+          "replies": [
+            {
+              "id": "04.05.02-S019_reply01",
+              "text": "还差二十块。",
+              "meaning_my": "ယွမ်နှစ်ဆယ် ကျန်သေးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.02_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S020",
+          "text": "你多给了。",
+          "meaning_my": "ခင်ဗျား ငွေပိုပေးထားတယ်။",
+          "replies": [
+            {
+              "id": "04.05.02-S020_reply01",
+              "text": "那多的转回给我吧。",
+              "meaning_my": "ဒါဆို ပိုတဲ့ငွေ ပြန်လွှဲပေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.02_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S021",
+          "text": "我多付了二十块。",
+          "meaning_my": "ကျွန်တော် ယွမ်နှစ်ဆယ် ပိုပေးမိသွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S022",
+          "text": "不用算那么清楚。",
+          "meaning_my": "အဲဒီလောက် အသေးစိတ် မတွက်ပါနဲ့။",
+          "replies": [
+            {
+              "id": "04.05.02-S022_reply01",
+              "text": "那下次我请。",
+              "meaning_my": "ဒါဆို နောက်တစ်ခါ ကျွန်တော် ကျွေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S023",
+          "text": "这次你付，下次我来。",
+          "meaning_my": "ဒီတစ်ခါ ခင်ဗျားရှင်း၊ နောက်တစ်ခါ ကျွန်တော်ရှင်းမယ်။",
+          "replies": [
+            {
+              "id": "04.05.02-S023_reply01",
+              "text": "行，下次你请。",
+              "meaning_my": "ရတယ်၊ နောက်တစ်ခါ ခင်ဗျား ကျွေးနော်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.02-S023_alt01",
+              "text": "这次我请，下次你请。",
+              "meaning_my": "ဒီတစ်ခါ ကျွန်တော် ကျွေးမယ်၊ နောက်တစ်ခါ ခင်ဗျား ကျွေး။"
+            }
+          ],
+          "source_ref": "user_original_04.05.02_O014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S024",
+          "text": "说好了我请。",
+          "meaning_my": "ကျွန်တော် ကျွေးမယ်လို့ ပြောထားပြီးသားလေ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.02_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S025",
+          "text": "你把收据拍给我吧。",
+          "meaning_my": "ငွေရှင်းပြေစာကို ဓာတ်ပုံရိုက်ပြီး ပို့ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O027",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S026",
+          "text": "我把账单发群里。",
+          "meaning_my": "ဘေလ်ကို အဖွဲ့ချတ်ထဲ ပို့လိုက်မယ်။",
+          "replies": [
+            {
+              "id": "04.05.02-S026_reply01",
+              "text": "好，我算算每个人多少。",
+              "meaning_my": "ကောင်းပြီ၊ တစ်ယောက် ဘယ်လောက်ကျလဲ တွက်ကြည့်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O028",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.02-S027",
+          "text": "现金还是转账？",
+          "meaning_my": "ငွေသားနဲ့ ပေးမလား၊ ငွေလွှဲမလား။",
+          "replies": [
+            {
+              "id": "04.05.02-S027_reply01",
+              "text": "我转给你。",
+              "meaning_my": "ငွေလွှဲပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.02_O029",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "04.05.03",
+      "title": "开发票与填写抬头",
+      "title_my": "အခွန်ပြေစာ ထုတ်ခြင်းနှင့် အချက်အလက်ဖြည့်ခြင်း",
+      "phrase_count": 13,
+      "phrases": [
+        {
+          "id": "04.05.03-S001",
+          "text": "可以开发票吗？",
+          "meaning_my": "အခွန်ပြေစာ ထုတ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.05.03-S001_reply01",
+              "text": "可以，请填写开票信息。",
+              "meaning_my": "ရပါတယ်၊ အခွန်ပြေစာထုတ်ဖို့ အချက်အလက် ဖြည့်ပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.03-S001_alt01",
+              "text": "我要开发票。",
+              "meaning_my": "အခွန်ပြေစာ ထုတ်ချင်လို့ပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.05.03_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "“开发票”是出具正式税务发票，不等同于给普通收据；是否需要电子发票、公司抬头和税号应按实际用途填写。",
+              "text_my": "“开发票” က တရားဝင် အခွန်ပြေစာ ထုတ်တာပါ။ သာမန်ငွေရှင်းပြေစာနဲ့ မတူဘူး။ ကုမ္ပဏီနာမည်နဲ့ အခွန်နံပါတ်တွေကို လိုအပ်သလို မှန်မှန်ကန်ကန် ဖြည့်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.03-S002",
+          "text": "开电子发票就行。",
+          "meaning_my": "အီလက်ထရောနစ် အခွန်ပြေစာပဲ လိုတယ်။",
+          "replies": [
+            {
+              "id": "04.05.03-S002_reply01",
+              "text": "好的，发到哪个邮箱？",
+              "meaning_my": "ဟုတ်ကဲ့၊ ဘယ်အီးမေးလ်ကို ပို့ရမလဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.03_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S003",
+          "text": "发票开公司抬头。",
+          "meaning_my": "အခွန်ပြေစာကို ကုမ္ပဏီနာမည်နဲ့ ထုတ်ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.05.03-S003_reply01",
+              "text": "好的，请提供公司名称和税号。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ကုမ္ပဏီနာမည်နဲ့ အခွန်မှတ်ပုံတင်နံပါတ် ပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.03-S003_alt01",
+              "text": "抬头写公司名。",
+              "meaning_my": "အခွန်ပြေစာမှာ ကုမ္ပဏီနာမည် ရေးပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.05.03_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S004",
+          "text": "发票抬头写这个。",
+          "meaning_my": "အခွန်ပြေစာမှာ နာမည်ကို ဒီအတိုင်း ရေးပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.03_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S005",
+          "text": "发票开个人的。",
+          "meaning_my": "အခွန်ပြေစာကို တစ်ဦးချင်းနာမည်နဲ့ ထုတ်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.03_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S006",
+          "text": "电子发票发到哪里？",
+          "meaning_my": "အီလက်ထရောနစ် အခွန်ပြေစာကို ဘယ်ကို ပို့ပေးရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S007",
+          "text": "发到这个邮箱。",
+          "meaning_my": "ဒီအီးမေးလ်ကို ပို့ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.05.03-S007_reply01",
+              "text": "好的，开好后会发过去。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ထုတ်ပြီးရင် အဲဒီကို ပို့ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.05.03-S007_alt01",
+              "text": "发我邮箱就行。",
+              "meaning_my": "ကျွန်တော့်အီးမေးလ်ကို ပို့ပေးရင် ရပြီ။"
+            }
+          ],
+          "source_ref": "user_original_04.05.03_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S008",
+          "text": "发票金额好像不对。",
+          "meaning_my": "အခွန်ပြေစာပေါ်က ငွေပမာဏ မမှန်သလိုပဲ။",
+          "replies": [
+            {
+              "id": "04.05.03-S008_reply01",
+              "text": "我核对一下实际付款金额。",
+              "meaning_my": "တကယ် ပေးချေထားတဲ့ ငွေပမာဏကို စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.03_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S009",
+          "text": "发票信息填错了，能改吗？",
+          "meaning_my": "အခွန်ပြေစာ အချက်အလက် မှားဖြည့်မိလို့ ပြင်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.05.03-S009_reply01",
+              "text": "我帮您确认能不能更正。",
+              "meaning_my": "ပြင်လို့ရမရ စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.05.03_O012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S010",
+          "text": "税号要写吗？",
+          "meaning_my": "အခွန်မှတ်ပုံတင်နံပါတ် ဖြည့်ရမလား။",
+          "replies": [
+            {
+              "id": "04.05.03-S010_reply01",
+              "text": "公司抬头通常需要填税号。",
+              "meaning_my": "ကုမ္ပဏီနာမည်နဲ့ ထုတ်ရင် များသောအားဖြင့် အခွန်နံပါတ် ဖြည့်ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.03_N05",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S011",
+          "text": "多久能开好？",
+          "meaning_my": "အခွန်ပြေစာ ထုတ်ပြီးဖို့ ဘယ်လောက်ကြာမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.03_N10",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.05.03-S012",
+          "text": "发票能补开吗？",
+          "meaning_my": "နောက်မှ အခွန်ပြေစာ ပြန်တောင်းထုတ်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.05.03-S012_reply01",
+              "text": "可以的话，请提供订单号。",
+              "meaning_my": "ထုတ်လို့ရရင် အော်ဒါနံပါတ် ပေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.03_N11",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“补开”指之后补办；“重开”通常是原发票信息有误需重新处理。是否可办由商家及相应规定决定。",
+              "text_my": "“补开” က နောက်မှ ပြန်တောင်းထုတ်တာ၊ “重开” က မူလပြေစာမှာ မှားယွင်းချက်ရှိလို့ ပြန်လုပ်တာပါ။ ရမရက သက်ဆိုင်ရာ စည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.05.03-S013",
+          "text": "能重开一张吗？",
+          "meaning_my": "အခွန်ပြေစာ အသစ်တစ်စောင် ပြန်ထုတ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.05.03_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 65,
+    "replies": 38,
+    "alternatives": 13,
+    "notes": 9,
+    "total_audio": 116
+  },
+  "core_words": [
+    {
+      "word": "结账",
+      "meaning_my": "ငွေရှင်း",
+      "phrase_id": "04.05.01-S001"
+    },
+    {
+      "word": "账单",
+      "meaning_my": "ဘေလ်",
+      "phrase_id": "04.05.01-S003"
+    },
+    {
+      "word": "转账",
+      "meaning_my": "ငွေလွှဲ",
+      "phrase_id": "04.05.02-S007"
+    },
+    {
+      "word": "发票",
+      "meaning_my": "အခွန်ပြေစာ",
+      "phrase_id": "04.05.03-S001"
+    }
+  ],
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "date": "2026-11-11",
+    "frequency_method": "editorial_situation_based_not_measured_corpus",
+    "my_native_final_review": false,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}
