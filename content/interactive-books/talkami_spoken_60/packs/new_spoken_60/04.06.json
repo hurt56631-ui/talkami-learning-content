@@ -1,0 +1,1301 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "04.06",
+  "theme_title": "咖啡奶茶",
+  "theme_title_my": "ကော်ဖီနှင့် နို့လက်ဖက်ရည်",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 70,
+  "original_count": 42,
+  "added_count": 28,
+  "note": "原70句与补充58条候选按常用场景编辑整理；重复句删除、服务员应答移入怎么回、加料/糖度/冰量与取餐表达精简。纠正杯套与杯盖、奶盖与杯盖、燕麦奶及三分糖概念。缅语母语教师终审、拼音/谐音及实际MP3未完成。",
+  "source_counts": {
+    "user_original_main": 70,
+    "user_suggested_additions": 58,
+    "retained_original": 42,
+    "retained_additions": 28,
+    "editorial_new": 0
+  },
+  "scenes": [
+    {
+      "id": "04.06.01",
+      "title": "咖啡点单：品类杯型冷热",
+      "title_my": "ကော်ဖီအမျိုးအစား၊ ခွက်အရွယ်အစားနှင့် အအေးအပူ ရွေးခြင်း",
+      "phrase_count": 22,
+      "phrases": [
+        {
+          "id": "04.06.01-S001",
+          "text": "我要一杯拿铁。",
+          "meaning_my": "လာတေးကော်ဖီ တစ်ခွက် ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.06.01-S001_reply01",
+              "text": "好的，要冰的还是热的？",
+              "meaning_my": "ဟုတ်ကဲ့၊ အအေးလား၊ အပူလား။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.06.01-S001_alt01",
+              "text": "来一杯拿铁。",
+              "meaning_my": "လာတေးကော်ဖီ တစ်ခွက် ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.06.01_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "拿铁（Latte）以咖啡和牛奶为主；美式（Americano）通常是浓缩咖啡加水。点单时可以再选择冰或热。",
+              "text_my": "“လာတေး” က ကော်ဖီနဲ့ နို့အဓိကပါပြီး “အမေရီကာနို” က အက်စပရက်ဆိုကို ရေထပ်ဖျော်ထားတာပါ။ အအေး၊ အပူ သီးသန့်ရွေးနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.01-S002",
+          "text": "我要美式。",
+          "meaning_my": "အမေရီကာနို ကော်ဖီ တစ်ခွက် ပေးပါ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.06.01-S002_alt01",
+              "text": "来一杯美式咖啡。",
+              "meaning_my": "အမေရီကာနို ကော်ဖီ တစ်ခွက် ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.06.01_O017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S003",
+          "text": "有什么咖啡？",
+          "meaning_my": "ကော်ဖီ ဘာအမျိုးအစားတွေ ရှိလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S004",
+          "text": "我要一杯卡布奇诺。",
+          "meaning_my": "ကပ်ပူချီနို တစ်ခွက် ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S005",
+          "text": "我要一杯摩卡。",
+          "meaning_my": "မိုခါကော်ဖီ တစ်ခွက် ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S006",
+          "text": "中杯就行。",
+          "meaning_my": "အလတ်ခွက်ပဲ ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.06.01-S006_reply01",
+              "text": "好的，中杯一杯。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အလတ်ခွက် တစ်ခွက်နော်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S007",
+          "text": "我要冰的。",
+          "meaning_my": "အအေးပဲ လိုချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S008",
+          "text": "我要热的。",
+          "meaning_my": "အပူပဲ လိုချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S009",
+          "text": "大杯多少钱？",
+          "meaning_my": "အကြီးခွက် ဘယ်လောက်လဲ။",
+          "replies": [
+            {
+              "id": "04.06.01-S009_reply01",
+              "text": "大杯二十八块。",
+              "meaning_my": "အကြီးခွက် ယွမ်နှစ်ဆယ့်ရှစ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S010",
+          "text": "有小杯吗？",
+          "meaning_my": "အသေးခွက် ရှိလား။",
+          "replies": [
+            {
+              "id": "04.06.01-S010_reply01",
+              "text": "这款没有小杯。",
+              "meaning_my": "ဒီအမျိုးအစားက အသေးခွက် မရှိဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S011",
+          "text": "大杯比中杯贵多少钱？",
+          "meaning_my": "အကြီးခွက်က အလတ်ခွက်ထက် ဘယ်လောက် ပိုဈေးကြီးလဲ။",
+          "replies": [
+            {
+              "id": "04.06.01-S011_reply01",
+              "text": "大杯加三块。",
+              "meaning_my": "အကြီးခွက်ဆို ယွမ်သုံးယွမ် ပိုပေးရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S012",
+          "text": "能换成大杯吗？",
+          "meaning_my": "အကြီးခွက် ပြောင်းပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S013",
+          "text": "可以做温的吗？",
+          "meaning_my": "နွေးနွေးလေး လုပ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.06.01-S013_reply01",
+              "text": "可以，要温一点对吧？",
+              "meaning_my": "ရပါတယ်၊ နွေးနွေးလေး လိုချင်တာနော်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S014",
+          "text": "这杯不要太烫。",
+          "meaning_my": "ဒီတစ်ခွက်ကို အရမ်းမပူအောင် လုပ်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S015",
+          "text": "不要加太多冰。",
+          "meaning_my": "ရေခဲ အများကြီး မထည့်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.06.01-S015_alt01",
+              "text": "冰少一点。",
+              "meaning_my": "ရေခဲ နည်းနည်း လျှော့ထည့်ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.06.01_O018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S016",
+          "text": "可以换燕麦奶吗？",
+          "meaning_my": "အုတ်ဂျုံနို့ ပြောင်းသုံးပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.06.01-S016_reply01",
+              "text": "可以，不过要另外加钱。",
+              "meaning_my": "ရပါတယ်၊ ဒါပေမဲ့ ပိုက်ဆံ ထပ်ပေးရတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.06.01-S016_alt01",
+              "text": "能用燕麦奶代替牛奶吗？",
+              "meaning_my": "နွားနို့အစား အုတ်ဂျုံနို့ သုံးပေးလို့ရမလား။"
+            }
+          ],
+          "source_ref": "user_addition_04.06.01_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "allergen",
+              "text": "燕麦奶通常是植物性饮品，但不应假定饮品绝对无乳制品或无交叉接触；对牛奶过敏时必须向店员核实。",
+              "text_my": "အုတ်ဂျုံနို့က အပင်ကထုတ်တဲ့ နို့အစားထိုး သောက်စရာပါ။ နွားနို့နဲ့ ဓာတ်မတည့်သူဆို ပါဝင်ပစ္စည်းနဲ့ ထိတွေ့ရောနှောမှု ရှိမရှိ ဆိုင်ကို သေချာမေးပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.01-S017",
+          "text": "换燕麦奶要加钱吗？",
+          "meaning_my": "အုတ်ဂျုံနို့ ပြောင်းရင် ပိုက်ဆံ ထပ်ပေးရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S018",
+          "text": "有豆奶吗？",
+          "meaning_my": "ပဲနို့ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S019",
+          "text": "我要热拿铁，不加糖。",
+          "meaning_my": "လာတေးအပူ တစ်ခွက် ပေးပါ၊ သကြား မထည့်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S020",
+          "text": "这款咖啡苦吗？",
+          "meaning_my": "ဒီကော်ဖီ ခါးလား။",
+          "replies": [
+            {
+              "id": "04.06.01-S020_reply01",
+              "text": "稍微有点苦。",
+              "meaning_my": "နည်းနည်းတော့ ခါးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.01_O021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S021",
+          "text": "可以加一份浓缩吗？",
+          "meaning_my": "အက်စပရက်ဆို တစ်ရှော့ ထပ်ထည့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.01-S022",
+          "text": "可以做无咖啡因的吗？",
+          "meaning_my": "ကဖိန်းဓာတ်မပါတဲ့ ကော်ဖီ လုပ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.06.01-S022_reply01",
+              "text": "我帮您确认一下有没有。",
+              "meaning_my": "ရှိမရှိ စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.01_N17",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“无咖啡因”咖啡通常经过脱咖啡因处理，不一定完全没有咖啡因；具体能否做取决于店家。",
+              "text_my": "“无咖啡因” က ကဖိန်းဓာတ်ကို ဖယ်ရှားလျှော့ချထားတဲ့ ကော်ဖီပါ။ ကဖိန်းဓာတ် လုံးဝ သုညဖြစ်မယ်လို့ မဆိုလိုပါဘူး။"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04.06.02",
+      "title": "奶茶点单：甜度冰量加料",
+      "title_my": "နို့လက်ဖက်ရည်၊ အချိုနှုန်း၊ ရေခဲနှင့် အပိုထည့်စရာ",
+      "phrase_count": 26,
+      "phrases": [
+        {
+          "id": "04.06.02-S001",
+          "text": "我要一杯珍珠奶茶。",
+          "meaning_my": "ပုလဲနို့လက်ဖက်ရည် တစ်ခွက် ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.06.02-S001_reply01",
+              "text": "好的，要几分糖？",
+              "meaning_my": "ဟုတ်ကဲ့၊ အချို ဘယ်လောက် လိုချင်လဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.02_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S002",
+          "text": "有什么奶茶？",
+          "meaning_my": "နို့လက်ဖက်ရည် ဘာအမျိုးအစားတွေ ရှိလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.02_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S003",
+          "text": "甜度可以选吗？",
+          "meaning_my": "အချိုနှုန်း ရွေးလို့ရလား။",
+          "replies": [
+            {
+              "id": "04.06.02-S003_reply01",
+              "text": "可以，半糖、三分糖都可以。",
+              "meaning_my": "ရပါတယ်၊ အချိုတစ်ဝက်လည်း ရတယ်၊ သုံးဆယ်ရာခိုင်နှုန်းလည်း ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S004",
+          "text": "我要半糖。",
+          "meaning_my": "သကြား တစ်ဝက်လောက်ပဲ ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.06.02-S004_alt01",
+              "text": "半糖就好。",
+              "meaning_my": "အချို တစ်ဝက်လောက်ပဲ ရပြီ။"
+            }
+          ],
+          "source_ref": "user_original_04.06.02_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S005",
+          "text": "我要三分糖。",
+          "meaning_my": "အချို သုံးဆယ်ရာခိုင်နှုန်းလောက်ပဲ လိုချင်တယ်။",
+          "replies": [
+            {
+              "id": "04.06.02-S005_reply01",
+              "text": "好的，三分糖。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အချို သုံးဆယ်ရာခိုင်နှုန်းနော်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.06.02-S005_alt01",
+              "text": "三分糖，少冰。",
+              "meaning_my": "အချို သုံးဆယ်ရာခိုင်နှုန်း၊ ရေခဲနည်းနည်းပဲ ထည့်ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_addition_04.06.02_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "奶茶店“三分糖”通常表示约30%的设定甜度，具体比例可能因店而异；“半糖”通常是约50%。",
+              "text_my": "နို့လက်ဖက်ရည်ဆိုင်မှာ “三分糖” က များသောအားဖြင့် အချိုသုံးဆယ်ရာခိုင်နှုန်းလောက်၊ “半糖” က တစ်ဝက်လောက်ပါ။ ဆိုင်အလိုက် ကွာနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.02-S006",
+          "text": "少糖。",
+          "meaning_my": "အချို လျှော့ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S007",
+          "text": "可以做无糖的吗？",
+          "meaning_my": "သကြား မထည့်ဘဲ လုပ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O027",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“无糖”在点单中通常指不额外加糖，不保证牛奶、配料或糖浆本身完全不含糖。",
+              "text_my": "“无糖” လို့မှာရင် များသောအားဖြင့် သကြား ထပ်မထည့်တာကို ဆိုလိုတယ်။ နို့နဲ့ အပိုထည့်စရာတွေမှာ သကြားဓာတ် မပါဘူးလို့ အာမမခံနိုင်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.02-S008",
+          "text": "我要全糖。",
+          "meaning_my": "အချို အပြည့် ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.02_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S009",
+          "text": "我要少冰。",
+          "meaning_my": "ရေခဲ နည်းနည်းပဲ ထည့်ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.06.02-S009_reply01",
+              "text": "好的，少冰。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ရေခဲနည်းနည်းနော်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S010",
+          "text": "去冰。",
+          "meaning_my": "ရေခဲ မထည့်ပါနဲ့။",
+          "replies": [
+            {
+              "id": "04.06.02-S010_reply01",
+              "text": "这款不能去冰，可以少冰。",
+              "meaning_my": "ဒီအမျိုးအစားက ရေခဲလုံးဝ မဖြုတ်ပေးနိုင်ဘူး၊ ရေခဲလျှော့ပေးလို့တော့ ရတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.06.02-S010_alt01",
+              "text": "不要放冰。",
+              "meaning_my": "ရေခဲ မထည့်ပါနဲ့။"
+            }
+          ],
+          "source_ref": "user_original_04.06.02_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“去冰”是不加冰块，不一定等于温热饮；部分饮品无法调整冰量。",
+              "text_my": "“去冰” က ရေခဲတုံး မထည့်တာပါ။ နွေးနွေးဖြစ်သွားမယ်လို့ မဆိုလိုဘူး။ တချို့သောက်စရာတွေမှာ ရေခဲ ပမာဏ ပြောင်းလို့မရပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.02-S011",
+          "text": "正常冰。",
+          "meaning_my": "ရေခဲ ပုံမှန်အတိုင်း ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S012",
+          "text": "可以多加点冰吗？",
+          "meaning_my": "ရေခဲ နည်းနည်း ပိုထည့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O026",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S013",
+          "text": "帮我加珍珠。",
+          "meaning_my": "ပုလဲလုံးလေးတွေ ထပ်ထည့်ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.06.02-S013_reply01",
+              "text": "不好意思，珍珠卖完了。",
+              "meaning_my": "အားနာပါတယ်၊ ပုလဲလုံး ကုန်သွားပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.06.02-S013_alt01",
+              "text": "加一份珍珠。",
+              "meaning_my": "ပုလဲလုံး တစ်份 ထပ်ထည့်ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.06.02_O004",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S014",
+          "text": "珍珠能少放点吗？",
+          "meaning_my": "ပုလဲလုံး နည်းနည်း လျှော့ထည့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O025",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S015",
+          "text": "可以加椰果吗？",
+          "meaning_my": "အုန်းဂျယ်လီ ထည့်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.06.02-S015_alt01",
+              "text": "加椰果。",
+              "meaning_my": "အုန်းဂျယ်လီ ထည့်ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.06.02_O013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S016",
+          "text": "这个不要珍珠，换椰果。",
+          "meaning_my": "ဒီတစ်ခွက်မှာ ပုလဲလုံး မထည့်ဘဲ အုန်းဂျယ်လီ ပြောင်းထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S017",
+          "text": "可以加两种料吗？",
+          "meaning_my": "အပိုထည့်စရာ နှစ်မျိုး ထည့်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.06.02-S017_reply01",
+              "text": "可以，每种料都要另外收费。",
+              "meaning_my": "ရပါတယ်၊ အပိုထည့်စရာ တစ်မျိုးစီအတွက် ပိုက်ဆံ ထပ်ပေးရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S018",
+          "text": "加料多少钱？",
+          "meaning_my": "အပိုထည့်ရင် ဘယ်လောက် ကျမလဲ။",
+          "replies": [
+            {
+              "id": "04.06.02-S018_reply01",
+              "text": "每份加两块。",
+              "meaning_my": "တစ်မျိုး ထပ်ထည့်ရင် နှစ်ယွမ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O009",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S019",
+          "text": "还能加什么料？",
+          "meaning_my": "တခြား ဘာတွေ ထပ်ထည့်လို့ရသေးလဲ။",
+          "replies": [
+            {
+              "id": "04.06.02-S019_reply01",
+              "text": "还可以加椰果或布丁。",
+              "meaning_my": "အုန်းဂျယ်လီ ဒါမှမဟုတ် ပူတင်း ထပ်ထည့်လို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S020",
+          "text": "加布丁。",
+          "meaning_my": "ပူတင်း ထပ်ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.02_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S021",
+          "text": "加红豆。",
+          "meaning_my": "ပဲနီ ထပ်ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.02_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S022",
+          "text": "不要奶盖。",
+          "meaning_my": "နို့ခရင်မ်အမြှုပ်အလွှာ မထည့်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O006",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“奶盖”是浮在饮品上方的奶油、奶泡或芝士奶盖层，不是杯子上的塑料盖；含乳或含其他过敏原的情况需核实配料。",
+              "text_my": "“奶盖” က သောက်စရာအပေါ်က နို့ခရင်မ်၊ နို့အမြှုပ် ဒါမှမဟုတ် ချိစ်အမြှုပ်အလွှာပါ။ ပလတ်စတစ်ခွက်အဖုံး မဟုတ်ပါဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.02-S023",
+          "text": "奶盖要另外加钱吗？",
+          "meaning_my": "နို့ခရင်မ်အမြှုပ် ထည့်ရင် ပိုက်ဆံ ထပ်ပေးရလား။",
+          "replies": [
+            {
+              "id": "04.06.02-S023_reply01",
+              "text": "要，奶盖另外收费。",
+              "meaning_my": "ဟုတ်တယ်၊ နို့ခရင်မ်အမြှုပ် ထည့်ရင် ပိုက်ဆံ ထပ်ပေးရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O028",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S024",
+          "text": "这杯要少糖少冰。",
+          "meaning_my": "ဒီတစ်ခွက်ကို အချိုလျှော့ပြီး ရေခဲလည်း လျှော့ထည့်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.02_N19",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S025",
+          "text": "这杯要中杯的。",
+          "meaning_my": "ဒီတစ်ခွက်ကို အလတ်ခွက်နဲ့ လုပ်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.02_O024",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.02-S026",
+          "text": "可以做成温的吗？",
+          "meaning_my": "နွေးနွေးလေး လုပ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.06.02-S026_reply01",
+              "text": "这款只能做冰的。",
+              "meaning_my": "ဒီအမျိုးအစားက အအေးပဲ လုပ်လို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.02_N17",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "04.06.03",
+      "title": "堂食外带与取餐",
+      "title_my": "ဆိုင်မှာသောက်ခြင်း၊ ပါဆယ်ယူခြင်းနှင့် အော်ဒါလာယူခြင်း",
+      "phrase_count": 22,
+      "phrases": [
+        {
+          "id": "04.06.03-S001",
+          "text": "堂食还是外带？",
+          "meaning_my": "ဒီမှာသောက်မလား၊ ပါဆယ်ယူမလား။",
+          "replies": [
+            {
+              "id": "04.06.03-S001_reply01",
+              "text": "外带，谢谢。",
+              "meaning_my": "ပါဆယ်ယူမယ်၊ ကျေးဇူးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S002",
+          "text": "在这里喝。",
+          "meaning_my": "ဒီမှာပဲ သောက်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S003",
+          "text": "这杯带走。",
+          "meaning_my": "ဒီတစ်ခွက် ပါဆယ်ယူမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.06.03-S003_alt01",
+              "text": "这杯外带。",
+              "meaning_my": "ဒီတစ်ခွက် ပါဆယ်ယူမယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.06.03_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S004",
+          "text": "可以改成外带吗？",
+          "meaning_my": "ပါဆယ်ယူဖို့ ပြောင်းလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S005",
+          "text": "我来取咖啡。",
+          "meaning_my": "ကော်ဖီ လာယူတာပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S006",
+          "text": "我的饮料好了吗？",
+          "meaning_my": "မှာထားတဲ့ သောက်စရာ ရပြီလား။",
+          "replies": [
+            {
+              "id": "04.06.03-S006_reply01",
+              "text": "还要等三分钟。",
+              "meaning_my": "နောက်ထပ် သုံးမိနစ်လောက် စောင့်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S007",
+          "text": "取餐台在哪儿？",
+          "meaning_my": "အော်ဒါလာယူတဲ့ ကောင်တာ ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "04.06.03-S007_reply01",
+              "text": "在右边的柜台取。",
+              "meaning_my": "ညာဘက်က ကောင်တာမှာ သွားယူပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S008",
+          "text": "我没听到叫号。",
+          "meaning_my": "နံပါတ်ခေါ်တာ မကြားလိုက်ဘူး။",
+          "replies": [
+            {
+              "id": "04.06.03-S008_reply01",
+              "text": "做好了会叫号，您再等一下。",
+              "meaning_my": "ပြီးရင် နံပါတ်ခေါ်ပေးမယ်၊ ခဏ ထပ်စောင့်ပါဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S009",
+          "text": "叫到几号了？",
+          "meaning_my": "အခု ဘယ်နံပါတ်အထိ ခေါ်ပြီးပြီလဲ။",
+          "replies": [
+            {
+              "id": "04.06.03-S009_reply01",
+              "text": "现在叫到三十六号了。",
+              "meaning_my": "အခု နံပါတ် သုံးဆယ့်ခြောက်အထိ ခေါ်ပြီးပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S010",
+          "text": "叫到我的号了吗？",
+          "meaning_my": "ကျွန်တော့်နံပါတ် ခေါ်ပြီးပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S011",
+          "text": "这是我的取餐号。",
+          "meaning_my": "ဒါ ကျွန်တော့် အော်ဒါလာယူရမယ့်နံပါတ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“取餐号”是用来核对领取饮品的号码；可查看小票、屏幕或询问店员，不能和账号验证码混淆。",
+              "text_my": "“取餐号” က မှာထားတဲ့ သောက်စရာယူဖို့ နံပါတ်ပါ။ ဘေလ်၊ ဖန်သားပြင်မှာ ကြည့်နိုင်သလို ဆိုင်ဝန်ထမ်းကို မေးနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.03-S012",
+          "text": "吸管在哪儿拿？",
+          "meaning_my": "သောက်စရာပိုက်ကို ဘယ်မှာယူရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.06.03_O011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S013",
+          "text": "不用吸管。",
+          "meaning_my": "သောက်စရာပိုက် မလိုဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S014",
+          "text": "能给我一个杯套吗？",
+          "meaning_my": "ခွက်အပူကာစွပ် တစ်ခု ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.06.03-S014_reply01",
+              "text": "好的，给您一个隔热杯套。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ခွက်အပူကာစွပ် တစ်ခု ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.06.03-S014_alt01",
+              "text": "麻烦给个隔热套。",
+              "meaning_my": "ခွက်အပူကာစွပ် တစ်ခု ပေးပါဦး။"
+            }
+          ],
+          "source_ref": "user_original_04.06.03_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“杯套”是套在热饮杯外的隔热纸套；“杯盖”是盖子，“杯托”是方便携带一杯或多杯饮料的底座。",
+              "text_my": "“杯套” က ခွက်အပြင်မှာ စွပ်တဲ့ အပူကာ၊ “杯盖” က ခွက်အဖုံး၊ “杯托” က ခွက်တွေ ထည့်သယ်ဖို့ အောက်ခံပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.06.03-S015",
+          "text": "有杯托吗？",
+          "meaning_my": "ခွက်တွေ ထည့်သယ်ဖို့ ခွက်တင်အောက်ခံ ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N17",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S016",
+          "text": "能给我加个杯盖吗？",
+          "meaning_my": "ခွက်အဖုံး တစ်ခု ထပ်တပ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S017",
+          "text": "这杯不是我的。",
+          "meaning_my": "ဒီတစ်ခွက်က ကျွန်တော့်ဟာ မဟုတ်ဘူး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.06.03-S017_alt01",
+              "text": "我没点这杯。",
+              "meaning_my": "ဒီတစ်ခွက်ကို ကျွန်တော် မမှာထားဘူး။"
+            }
+          ],
+          "source_ref": "user_addition_04.06.03_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S018",
+          "text": "我点的是少冰，不是正常冰。",
+          "meaning_my": "ကျွန်တော် မှာထားတာ ရေခဲနည်းနည်းပါ၊ ပုံမှန်ရေခဲ မဟုတ်ဘူး။",
+          "replies": [
+            {
+              "id": "04.06.03-S018_reply01",
+              "text": "抱歉，我帮您核对一下订单。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ အော်ဒါကို ပြန်စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S019",
+          "text": "我点的是热的，不是冰的。",
+          "meaning_my": "ကျွန်တော် မှာထားတာ အပူပါ၊ အအေး မဟုတ်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S020",
+          "text": "能帮我重新做一杯吗？",
+          "meaning_my": "တစ်ခွက် အသစ်ပြန်လုပ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.06.03-S020_reply01",
+              "text": "我先确认一下订单。",
+              "meaning_my": "အော်ဒါကို အရင် စစ်ဆေးပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S021",
+          "text": "外带袋子要收费吗？",
+          "meaning_my": "ပါဆယ်အိတ်ဖိုး ပေးရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N18",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.06.03-S022",
+          "text": "杯盖能帮我盖紧点吗？",
+          "meaning_my": "ခွက်အဖုံးကို သေချာ တင်းတင်းပိတ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_04.06.03_N20",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 70,
+    "replies": 28,
+    "alternatives": 12,
+    "notes": 9,
+    "total_audio": 110
+  },
+  "core_words": [
+    {
+      "word": "冰／热",
+      "meaning_my": "အအေး／အပူ",
+      "phrase_id": "04.06.01-S007"
+    },
+    {
+      "word": "糖",
+      "meaning_my": "သကြား",
+      "phrase_id": "04.06.02-S004"
+    },
+    {
+      "word": "冰块",
+      "meaning_my": "ရေခဲ",
+      "phrase_id": "04.06.02-S009"
+    },
+    {
+      "word": "外带",
+      "meaning_my": "ပါဆယ်",
+      "phrase_id": "04.06.03-S003"
+    },
+    {
+      "word": "取餐号",
+      "meaning_my": "အော်ဒါယူတဲ့နံပါတ်",
+      "phrase_id": "04.06.03-S011"
+    }
+  ],
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "date": "2026-11-11",
+    "frequency_basis": "editorial_high_utility_first_not_corpus_statistics",
+    "native_burmese_review_required": true,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}
