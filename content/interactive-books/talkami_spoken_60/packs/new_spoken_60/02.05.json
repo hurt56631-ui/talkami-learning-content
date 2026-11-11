@@ -9,7 +9,7 @@
   "phrase_count": 124,
   "original_count": 80,
   "added_count": 44,
-  "note": "保留80条原句全部ID，仅在各场景末尾增加经过筛选的生活高频句。定向修复拿过/动过、充电器、挂失、登记和失物招领的语义；非母语教师终审稿，未制作拼音/缅文谐音和音频。",
+  "note": "原80句主句ID全部保留，新增44句。对找不到/丢失/拿过/动过/挂失/登记/认领做定向审校，按需加回复与类似说法；尚需缅语母语教师终审，未做拼音、缅文谐音及音频。",
   "scenes": [
     {
       "id": "02.05.01",
@@ -23,8 +23,20 @@
           "id": "02.05.01-S001",
           "text": "我的手机在哪儿？",
           "meaning_my": "ဖုန်း ဘယ်မှာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.01-S001_reply01",
+              "text": "刚才还在桌上呢。",
+              "meaning_my": "ခုနက စားပွဲပေါ်မှာ ရှိသေးတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.01-S001_alt01",
+              "text": "我手机放哪儿了？",
+              "meaning_my": "ဖုန်း ဘယ်မှာ ထားမိတာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -34,8 +46,20 @@
           "id": "02.05.01-S002",
           "text": "钥匙呢？",
           "meaning_my": "သော့ကရော။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.01-S002_reply01",
+              "text": "在你包里吧。",
+              "meaning_my": "ခင်ဗျား အိတ်ထဲမှာ ထင်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.01-S002_alt01",
+              "text": "我的钥匙在哪儿？",
+              "meaning_my": "သော့ ဘယ်မှာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -45,8 +69,20 @@
           "id": "02.05.01-S003",
           "text": "你看到我的包了吗？",
           "meaning_my": "အိတ်ကို မြင်မိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.01-S003_reply01",
+              "text": "没看到，你再找找。",
+              "meaning_my": "မမြင်မိဘူး၊ ထပ်ရှာကြည့်ပါဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.01-S003_alt01",
+              "text": "有没有看到我的包？",
+              "meaning_my": "အိတ်ကို မြင်မိသေးလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -56,7 +92,13 @@
           "id": "02.05.01-S004",
           "text": "在桌上吗？",
           "meaning_my": "စားပွဲပေါ်မှာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S004_reply01",
+              "text": "不在，桌上没有。",
+              "meaning_my": "မရှိဘူး၊ စားပွဲပေါ်မှာ မရှိဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -67,7 +109,13 @@
           "id": "02.05.01-S005",
           "text": "抽屉里有吗？",
           "meaning_my": "အံဆွဲထဲမှာ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S005_reply01",
+              "text": "有，在最下面。",
+              "meaning_my": "ရှိတယ်၊ အောက်ဆုံးမှာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -78,8 +126,20 @@
           "id": "02.05.01-S006",
           "text": "帮我找一下。",
           "meaning_my": "နည်းနည်း ကူရှာပေးပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.01-S006_reply01",
+              "text": "好，一起找吧。",
+              "meaning_my": "ကောင်းပြီ၊ အတူ ရှာကြမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.01-S006_alt01",
+              "text": "帮我一起找找。",
+              "meaning_my": "အတူ ကူရှာပေးပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -89,12 +149,31 @@
           "id": "02.05.01-S007",
           "text": "我还是找不到。",
           "meaning_my": "ရှာမတွေ့သေးဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.01-S007_reply01",
+              "text": "别急，再仔细看看。",
+              "meaning_my": "စိတ်မလောနဲ့၊ သေချာ ထပ်ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.01-S007_alt01",
+              "text": "怎么找都找不到。",
+              "meaning_my": "ဘယ်လိုရှာရှာ မတွေ့ဘူး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“找不到”只表示现在没找到，不一定已经确认被偷或永久丢失。",
+              "text_my": "“找不到” က အခု ရှာမတွေ့တာပါ။ ခိုးခံရတာ ဒါမှမဟုတ် လုံးဝပျောက်သွားတာလို့ အတည်မပြုနိုင်သေးဘူး။"
+            }
+          ]
         },
         {
           "id": "02.05.01-S008",
@@ -111,7 +190,13 @@
           "id": "02.05.01-S009",
           "text": "是不是放柜子里了？",
           "meaning_my": "ဗီရိုထဲမှာ ထားခဲ့တာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S009_reply01",
+              "text": "没有，柜子里没有。",
+              "meaning_my": "မရှိဘူး၊ ဗီရိုထဲမှာ မရှိဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -134,7 +219,13 @@
           "text": "我记得放在这里了。",
           "meaning_my": "ဒီမှာ ထားခဲ့တယ်လို့ မှတ်မိတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.01-S011_alt01",
+              "text": "我明明记得放这儿了。",
+              "meaning_my": "ဒီမှာပဲ ထားခဲ့တာ သေချာ မှတ်မိတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -144,12 +235,25 @@
           "id": "02.05.01-S012",
           "text": "是不是在外套口袋里？",
           "meaning_my": "အပေါ်အင်္ကျီအိတ်ကပ်ထဲမှာများ ရှိနေလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S012_reply01",
+              "text": "找过了，没有。",
+              "meaning_my": "ရှာပြီးပြီ၊ မရှိဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "外套口袋指衣服的口袋，“包里”和“口袋里”不是同一个位置。",
+              "text_my": "အပေါ်အင်္ကျီအိတ်ကပ်နဲ့ လက်ကိုင်အိတ်ထဲက တူညီတဲ့နေရာ မဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.05.01-S013",
@@ -178,7 +282,13 @@
           "text": "好像在抽屉里。",
           "meaning_my": "အံဆွဲထဲမှာ ထင်တယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.01-S015_alt01",
+              "text": "可能在抽屉里。",
+              "meaning_my": "အံဆွဲထဲမှာ ရှိနိုင်တယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -199,7 +309,13 @@
           "id": "02.05.01-S017",
           "text": "我进店的时候手机还在。",
           "meaning_my": "ဆိုင်ထဲဝင်တုန်းက ဖုန်းရှိသေးတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S017_reply01",
+              "text": "那可能掉在店里了。",
+              "meaning_my": "ဒါဆို ဆိုင်ထဲမှာ ကျသွားတာ ဖြစ်နိုင်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -211,7 +327,13 @@
           "text": "我的背包找不到了。",
           "meaning_my": "ကျောပိုးအိတ် ရှာမတွေ့တော့ဘူး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.01-S018_alt01",
+              "text": "我的背包不见了。",
+              "meaning_my": "ကျောပိုးအိတ် ရှာမတွေ့တော့ဘူး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -221,7 +343,13 @@
           "id": "02.05.01-S019",
           "text": "床底下找过了吗？",
           "meaning_my": "ကုတင်အောက်မှာ ရှာကြည့်ပြီးပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S019_reply01",
+              "text": "找过了，没找到。",
+              "meaning_my": "ရှာပြီးပြီ၊ ရှာမတွေ့ဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -232,7 +360,13 @@
           "id": "02.05.01-S020",
           "text": "你放哪儿了？",
           "meaning_my": "ဘယ်မှာ ထားခဲ့တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S020_reply01",
+              "text": "我放桌上了。",
+              "meaning_my": "စားပွဲပေါ်မှာ ထားခဲ့တာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -243,7 +377,13 @@
           "id": "02.05.01-S021",
           "text": "是不是在沙发上？",
           "meaning_my": "ဆိုဖာပေါ်မှာ ရှိနေလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S021_reply01",
+              "text": "我看看，沙发上没有。",
+              "meaning_my": "ကြည့်ဦးမယ်၊ ဆိုဖာပေါ်မှာ မရှိဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -288,7 +428,13 @@
           "text": "在这儿呢。",
           "meaning_my": "ဒီမှာ ရှိတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.01-S025_alt01",
+              "text": "找到了，在这里。",
+              "meaning_my": "တွေ့ပြီ၊ ဒီမှာ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -298,7 +444,13 @@
           "id": "02.05.01-S026",
           "text": "找到了！",
           "meaning_my": "ရှာတွေ့ပြီ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S026_reply01",
+              "text": "太好了，在哪里找到的？",
+              "meaning_my": "ကောင်းလိုက်တာ၊ ဘယ်မှာ ရှာတွေ့တာလဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -331,7 +483,13 @@
           "id": "02.05.01-S029",
           "text": "我的耳机去哪儿了？",
           "meaning_my": "နားကြပ် ဘယ်ရောက်သွားလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.01-S029_reply01",
+              "text": "是不是在桌上？",
+              "meaning_my": "စားပွဲပေါ်မှာများ ရှိနေလား။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -363,18 +521,43 @@
           "id": "02.05.02-S001",
           "text": "我手机丢了。",
           "meaning_my": "ဖုန်း ပျောက်သွားပြီ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.02-S001_reply01",
+              "text": "先给手机打个电话试试。",
+              "meaning_my": "ဖုန်းကို အရင် တစ်ချက် ဆက်ကြည့်ပါဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.02-S001_alt01",
+              "text": "我的手机不见了。",
+              "meaning_my": "ဖုန်း ပျောက်နေပြီ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“丢了”一般表示东西遗失了；“忘带了”是东西还在别处，只是没带来。",
+              "text_my": "“丢了” က ပစ္စည်းပျောက်သွားတာပါ။ “忘带了” က ပစ္စည်းရှိပေမဲ့ ယူလာဖို့ မေ့သွားတာ။"
+            }
+          ]
         },
         {
           "id": "02.05.02-S002",
           "text": "我找不到钥匙。",
           "meaning_my": "သော့ ရှာမတွေ့ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.02-S002_reply01",
+              "text": "是不是放包里了？",
+              "meaning_my": "အိတ်ထဲမှာ ထားခဲ့တာများလား။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -396,8 +579,20 @@
           "id": "02.05.02-S004",
           "text": "我忘带钱包了。",
           "meaning_my": "ပိုက်ဆံအိတ် ယူလာဖို့ မေ့သွားတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.02-S004_reply01",
+              "text": "那我先帮你付吧。",
+              "meaning_my": "ဒါဆို အရင် ပိုက်ဆံရှင်းပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.02-S004_alt01",
+              "text": "钱包忘带了。",
+              "meaning_my": "ပိုက်ဆံအိတ် ယူလာဖို့ မေ့သွားတယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -408,7 +603,13 @@
           "text": "我回去找找。",
           "meaning_my": "ပြန်သွားရှာကြည့်မယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.02-S005_alt01",
+              "text": "我回去看看。",
+              "meaning_my": "ပြန်သွားကြည့်ဦးမယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -418,7 +619,13 @@
           "id": "02.05.02-S006",
           "text": "钱包不见了。",
           "meaning_my": "ပိုက်ဆံအိတ် ပျောက်နေပြီ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.02-S006_reply01",
+              "text": "最后在哪儿看到的？",
+              "meaning_my": "နောက်ဆုံး ဘယ်မှာ မြင်ခဲ့တာလဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -430,7 +637,13 @@
           "text": "先想想可能落在哪儿了。",
           "meaning_my": "ဘယ်မှာ ကျန်ခဲ့နိုင်လဲ အရင်စဉ်းစားကြည့်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.02-S007_alt01",
+              "text": "先回想一下可能丢在哪儿。",
+              "meaning_my": "ဘယ်မှာ ပျောက်သွားနိုင်လဲ အရင် စဉ်းစားကြည့်ပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -451,12 +664,31 @@
           "id": "02.05.02-S009",
           "text": "好像落在店里了。",
           "meaning_my": "ဆိုင်မှာ ကျန်ခဲ့တာထင်တယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.02-S009_reply01",
+              "text": "那回店里问问吧。",
+              "meaning_my": "ဒါဆို ဆိုင်ကို ပြန်သွားမေးကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.02-S009_alt01",
+              "text": "可能忘在店里了。",
+              "meaning_my": "ဆိုင်မှာ မေ့ကျန်ခဲ့တာ ဖြစ်နိုင်တယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“落在店里”指忘记带走、把东西留在店里，不一定是落到地上。",
+              "text_my": "“落在店里” က ဆိုင်မှာ ပစ္စည်း မေ့ကျန်ခဲ့တာပါ။ ကြမ်းပြင်ပေါ် ကျတာတစ်မျိုးတည်း မဟုတ်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.05.02-S010",
@@ -473,7 +705,13 @@
           "id": "02.05.02-S011",
           "text": "我去刚才那家店问问。",
           "meaning_my": "ခုနက ဆိုင်ကို သွားမေးကြည့်မယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.02-S011_reply01",
+              "text": "好，问完告诉我。",
+              "meaning_my": "ကောင်းပြီ၊ မေးပြီးရင် ပြောနော်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -495,7 +733,13 @@
           "id": "02.05.02-S013",
           "text": "你最后在哪儿用的？",
           "meaning_my": "နောက်ဆုံး ဘယ်မှာ သုံးခဲ့တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.02-S013_reply01",
+              "text": "刚才在收银台用的。",
+              "meaning_my": "ခုနက ငွေရှင်းကောင်တာမှာ သုံးခဲ့တာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -517,8 +761,20 @@
           "id": "02.05.02-S015",
           "text": "给我的手机打个电话试试。",
           "meaning_my": "ပျောက်နေတဲ့ ဖုန်းကို တစ်ချက် ဆက်ကြည့်ပေးပါဦး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.02-S015_reply01",
+              "text": "好，我打过去试试。",
+              "meaning_my": "ကောင်းပြီ၊ ဖုန်းဆက်ကြည့်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.02-S015_alt01",
+              "text": "帮我拨一下手机号码。",
+              "meaning_my": "ဖုန်းနံပါတ်ကို တစ်ချက် ဆက်ကြည့်ပေးပါဦး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -572,8 +828,20 @@
           "id": "02.05.02-S020",
           "text": "护照不在包里了。",
           "meaning_my": "ပတ်စ်ပို့က အိတ်ထဲမှာ မရှိတော့ဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.02-S020_reply01",
+              "text": "先把包再找一遍吧。",
+              "meaning_my": "အိတ်ထဲမှာ နောက်တစ်ခေါက် သေချာရှာကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.02-S020_alt01",
+              "text": "我护照没在包里。",
+              "meaning_my": "ပတ်စ်ပို့က အိတ်ထဲမှာ မရှိတော့ဘူး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -649,7 +917,13 @@
           "id": "02.05.02-S027",
           "text": "要报警吗？",
           "meaning_my": "ရဲကို တိုင်ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.02-S027_reply01",
+              "text": "如果找不到就报警吧。",
+              "meaning_my": "ရှာမတွေ့ရင် ရဲကို တိုင်ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -660,18 +934,43 @@
           "id": "02.05.02-S028",
           "text": "银行卡得赶紧挂失。",
           "meaning_my": "ဘဏ်ကတ်ပျောက်တာကို ဘဏ်ကို အမြန်အကြောင်းကြားပြီး ကတ်ပိတ်ခိုင်းရမယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.02-S028_reply01",
+              "text": "好，我现在联系银行。",
+              "meaning_my": "ကောင်းပြီ၊ အခု ဘဏ်ကို ဆက်သွယ်လိုက်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.02-S028_alt01",
+              "text": "得赶紧联系银行挂失银行卡。",
+              "meaning_my": "ဘဏ်ကတ်ပျောက်တာကို ဘဏ်ဆီ အမြန်အကြောင်းကြားရမယ်။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "银行卡挂失需要尽快通过银行官方渠道办理，挂失和补办是不同步骤。",
+              "text_my": "ဘဏ်ကတ် ပျောက်ရင် ဘဏ်ရဲ့ တရားဝင်နည်းလမ်းနဲ့ အမြန် အကြောင်းကြားပါ။ ပျောက်ကြောင်းတိုင်တာနဲ့ ကတ်အသစ်လျှောက်တာ မတူဘူး။"
+            }
+          ]
         },
         {
           "id": "02.05.02-S029",
           "text": "手机还能打通吗？",
           "meaning_my": "ဖုန်းဆက်လို့ ရသေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.02-S029_reply01",
+              "text": "打不通，可能没电了。",
+              "meaning_my": "ဆက်လို့မရဘူး၊ အားကုန်သွားတာ ဖြစ်နိုင်တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -709,13 +1008,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "挂失是报告遗失并申请相应限制或保护，补办是申请补发证件、银行卡等。",
+              "text_my": "“挂失” က ပျောက်ကြောင်း အကြောင်းကြားပြီး သက်ဆိုင်ရာ ကာကွယ်မှုလုပ်တာပါ။ “补办” က အသစ်ပြန်လျှောက်တာ။"
+            }
+          ]
         },
         {
           "id": "02.05.02-S033",
           "text": "里面有重要东西。",
           "meaning_my": "အထဲမှာ အရေးကြီးတဲ့ပစ္စည်းတွေ ပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.02-S033_reply01",
+              "text": "那先回去找找。",
+              "meaning_my": "ဒါဆို အရင် ပြန်သွားရှာကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -727,7 +1039,13 @@
           "text": "手机找回来了。",
           "meaning_my": "ဖုန်း ပြန်ရှာတွေ့ပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.02-S034_alt01",
+              "text": "手机已经找回来了。",
+              "meaning_my": "ဖုန်း ပြန်ရှာတွေ့ပြီ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -747,8 +1065,20 @@
           "id": "02.05.03-S001",
           "text": "你看到我的银行卡了吗？",
           "meaning_my": "ဘဏ်ကတ်ကို မြင်မိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.03-S001_reply01",
+              "text": "刚才好像在桌上。",
+              "meaning_my": "ခုနက စားပွဲပေါ်မှာ ရှိသလိုပဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.03-S001_alt01",
+              "text": "你有看到我的银行卡吗？",
+              "meaning_my": "ဘဏ်ကတ်ကို မြင်မိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -758,18 +1088,43 @@
           "id": "02.05.03-S002",
           "text": "有人拿过吗？",
           "meaning_my": "တစ်ယောက်ယောက် ယူကိုင်ခဲ့သေးလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.03-S002_reply01",
+              "text": "不知道，我没看到。",
+              "meaning_my": "မသိဘူး၊ မမြင်မိဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.03-S002_alt01",
+              "text": "谁拿过这个？",
+              "meaning_my": "ဒါကို ဘယ်သူ ယူကိုင်ခဲ့သေးလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“拿过”表示曾经拿起或接触，不等于拿走，更不等于偷走。询问时避免直接指责。",
+              "text_my": "“拿过” က ယူကိုင်ခဲ့ဖူးလားဆိုတာပါ။ ယူသွားတာ၊ ခိုးသွားတာနဲ့ မတူဘူး။ အပြစ်တင်သလို မေးတာကို ရှောင်ပါ။"
+            }
+          ]
         },
         {
           "id": "02.05.03-S003",
           "text": "刚才谁用过？",
           "meaning_my": "ခုနက ဘယ်သူ သုံးခဲ့တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.03-S003_reply01",
+              "text": "小张刚才用过。",
+              "meaning_my": "ခုနက ရှောင်ကျန်း သုံးခဲ့တယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -824,8 +1179,20 @@
           "id": "02.05.03-S008",
           "text": "你刚才看到一串钥匙了吗？",
           "meaning_my": "ခုနက သော့တွဲတစ်တွဲ မြင်မိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.03-S008_reply01",
+              "text": "看到了，在门口那边。",
+              "meaning_my": "မြင်ခဲ့တယ်၊ တံခါးဝဘက်မှာ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.03-S008_alt01",
+              "text": "刚才看见一串钥匙了吗？",
+              "meaning_my": "ခုနက သော့တွဲတစ်တွဲ မြင်မိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -835,18 +1202,43 @@
           "id": "02.05.03-S009",
           "text": "这个有人动过吗？",
           "meaning_my": "ဒီဟာကို တစ်ယောက်ယောက် ကိုင်ခဲ့သေးလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.03-S009_reply01",
+              "text": "我没碰过。",
+              "meaning_my": "မထိခဲ့ဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.03-S009_alt01",
+              "text": "有人碰过这个吗？",
+              "meaning_my": "ဒီဟာကို တစ်ယောက်ယောက် ထိခဲ့သေးလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“动过”表示有人碰过、挪动过，不一定是拿走。",
+              "text_my": "“动过” က ကိုင်ခဲ့တာ၊ ရွှေ့ခဲ့တာ ဖြစ်နိုင်တယ်။ ယူသွားတယ်လို့ တန်းမဆိုနိုင်ဘူး။"
+            }
+          ]
         },
         {
           "id": "02.05.03-S010",
           "text": "刚才是谁拿走的？",
           "meaning_my": "ခုနက ဘယ်သူ ယူသွားတာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.03-S010_reply01",
+              "text": "我没看到是谁。",
+              "meaning_my": "ဘယ်သူလဲဆိုတာ မမြင်လိုက်ဘူး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -857,7 +1249,13 @@
           "id": "02.05.03-S011",
           "text": "你能帮我问一下吗？",
           "meaning_my": "ကူမေးပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.03-S011_reply01",
+              "text": "好，我帮你问问。",
+              "meaning_my": "ကောင်းပြီ၊ ကူမေးပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -879,8 +1277,20 @@
           "id": "02.05.03-S013",
           "text": "有人知道放哪儿了吗？",
           "meaning_my": "ဘယ်မှာထားခဲ့လဲ သိတဲ့သူ ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.03-S013_reply01",
+              "text": "我也不知道放哪儿了。",
+              "meaning_my": "ဘယ်မှာ ထားခဲ့လဲ မသိဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.03-S013_alt01",
+              "text": "有谁知道东西放哪儿了吗？",
+              "meaning_my": "ပစ္စည်းကို ဘယ်မှာထားခဲ့လဲ သိတဲ့သူရှိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -912,7 +1322,13 @@
           "id": "02.05.03-S016",
           "text": "好像有人拿走了。",
           "meaning_my": "တစ်ယောက်ယောက် ယူသွားတာထင်တယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.03-S016_reply01",
+              "text": "先问清楚，别急着下结论。",
+              "meaning_my": "အရင် သေချာ မေးကြည့်ပါ၊ အလျင်စလို မဆုံးဖြတ်နဲ့ဦး။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -924,7 +1340,13 @@
           "text": "我没动过。",
           "meaning_my": "ဒါကို မထိခဲ့ဘူး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.03-S017_alt01",
+              "text": "我没有碰过。",
+              "meaning_my": "ဒါကို မထိခဲ့ဘူး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -956,7 +1378,13 @@
           "id": "02.05.03-S020",
           "text": "找到了跟我说一声。",
           "meaning_my": "ရှာတွေ့ရင် ပြောပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.03-S020_reply01",
+              "text": "好，找到了告诉你。",
+              "meaning_my": "ကောင်းပြီ၊ ရှာတွေ့ရင် ပြောမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -967,7 +1395,13 @@
           "id": "02.05.03-S021",
           "text": "你看到我的充电器了吗？",
           "meaning_my": "အားသွင်းကိရိယာကို မြင်မိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.03-S021_reply01",
+              "text": "没有，你再找找插座旁边。",
+              "meaning_my": "မမြင်မိဘူး၊ ပလပ်ပေါက်နားမှာ ထပ်ရှာကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1012,7 +1446,13 @@
           "text": "我问了一圈，都说没看见。",
           "meaning_my": "လူတွေကို လိုက်မေးကြည့်ပြီးပြီ၊ အားလုံး မမြင်ဘူးလို့ ပြောကြတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.03-S025_alt01",
+              "text": "我都问过了，没人看到。",
+              "meaning_my": "အားလုံးကို မေးပြီးပြီ၊ ဘယ်သူမှ မမြင်မိဘူး။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1044,18 +1484,43 @@
           "id": "02.05.03-S028",
           "text": "有监控吗？",
           "meaning_my": "စီစီတီဗီ ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.03-S028_reply01",
+              "text": "有，门口有个摄像头。",
+              "meaning_my": "ရှိတယ်၊ တံခါးဝမှာ ကင်မရာတစ်လုံး ရှိတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.03-S028_alt01",
+              "text": "这里有监控摄像头吗？",
+              "meaning_my": "ဒီမှာ စီစီတီဗီ ကင်မရာ ရှိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "监控录像一般需向现场管理人员询问，是否能查看取决于管理规定。",
+              "text_my": "စီစီတီဗီမှတ်တမ်းကို ကြည့်ချင်ရင် သက်ဆိုင်ရာ တာဝန်ရှိသူကို မေးပါ။ ကြည့်ခွင့်ရှိမရှိက စည်းမျဉ်းပေါ် မူတည်တယ်။"
+            }
+          ]
         },
         {
           "id": "02.05.03-S029",
           "text": "能帮忙查一下监控吗？",
           "meaning_my": "စီစီတီဗီ မှတ်တမ်းကို ပြန်ကြည့်ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.03-S029_reply01",
+              "text": "可以，我去问一下负责人。",
+              "meaning_my": "ရတယ်၊ တာဝန်ရှိသူကို သွားမေးလိုက်မယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1099,7 +1564,13 @@
           "text": "我钱包丢了。",
           "meaning_my": "ပိုက်ဆံအိတ် ပျောက်သွားတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.04-S001_alt01",
+              "text": "我的钱包不见了。",
+              "meaning_my": "ပိုက်ဆံအိတ် ပျောက်နေပြီ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1109,8 +1580,20 @@
           "id": "02.05.04-S002",
           "text": "有人捡到我的钱包吗？",
           "meaning_my": "ပိုက်ဆံအိတ် ကောက်ရတဲ့သူ ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.04-S002_reply01",
+              "text": "还没有，你先登记一下吧。",
+              "meaning_my": "မရှိသေးဘူး၊ အရင် စာရင်းသွင်းထားပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.04-S002_alt01",
+              "text": "有人拾到钱包吗？",
+              "meaning_my": "ပိုက်ဆံအိတ် ကောက်ရထားတဲ့သူ ရှိလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1120,7 +1603,13 @@
           "id": "02.05.04-S003",
           "text": "我应该去哪儿问？",
           "meaning_my": "ဘယ်မှာ သွားမေးရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S003_reply01",
+              "text": "去服务台问问吧。",
+              "meaning_my": "ဝန်ဆောင်မှုကောင်တာကို သွားမေးကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1131,12 +1620,31 @@
           "id": "02.05.04-S004",
           "text": "丢东西需要登记吗？",
           "meaning_my": "ပစ္စည်းပျောက်ရင် စာရင်းသွင်းရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.04-S004_reply01",
+              "text": "要，先填这个表。",
+              "meaning_my": "လိုတယ်၊ ဒီဖောင်ကို အရင် ဖြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.04-S004_alt01",
+              "text": "东西丢了要登记吗？",
+              "meaning_my": "ပစ္စည်းပျောက်ရင် စာရင်းသွင်းရလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“登记”是填写失物资料，“认领”是核实自己是失主后领回物品。",
+              "text_my": "“登记” က ပျောက်ပစ္စည်းအချက်အလက် စာရင်းသွင်းတာပါ။ “认领” က ကိုယ့်ပစ္စည်းဖြစ်ကြောင်း အတည်ပြုပြီး ပြန်ယူတာ။"
+            }
+          ]
         },
         {
           "id": "02.05.04-S005",
@@ -1164,8 +1672,20 @@
           "id": "02.05.04-S007",
           "text": "服务台在哪儿？",
           "meaning_my": "ဝန်ဆောင်မှုကောင်တာ ဘယ်မှာလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.04-S007_reply01",
+              "text": "在一楼入口旁边。",
+              "meaning_my": "မြေညီထပ် ဝင်ပေါက်နားမှာ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.04-S007_alt01",
+              "text": "服务中心在哪儿？",
+              "meaning_my": "ဝန်ဆောင်မှုဌာန ဘယ်မှာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1176,18 +1696,43 @@
           "text": "失物招领处在哪儿？",
           "meaning_my": "ပျောက်ပစ္စည်း စုံစမ်းရေးကောင်တာ ဘယ်မှာလဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.04-S008_alt01",
+              "text": "失物登记处在哪儿？",
+              "meaning_my": "ပျောက်ပစ္စည်း စာရင်းသွင်းတဲ့နေရာ ဘယ်မှာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "失物招领处是存放、登记和领取失物的地方；不同场所也可能由服务台办理。",
+              "text_my": "“失物招领处” က ပျောက်ပစ္စည်းတွေကို စာရင်းသွင်း၊ ထိန်းသိမ်း၊ ပြန်ထုတ်ပေးတဲ့နေရာပါ။ တချို့နေရာတွေမှာ ဝန်ဆောင်မှုကောင်တာမှာပဲ ဆောင်ရွက်တယ်။"
+            }
+          ]
         },
         {
           "id": "02.05.04-S009",
           "text": "找到以后能通知我吗？",
           "meaning_my": "ရှာတွေ့ရင် အကြောင်းကြားပေးလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.04-S009_reply01",
+              "text": "可以，留个联系电话吧。",
+              "meaning_my": "ရတယ်၊ ဆက်သွယ်ဖို့ ဖုန်းနံပါတ် ချန်ထားပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.04-S009_alt01",
+              "text": "找到了可以给我打电话吗？",
+              "meaning_my": "ရှာတွေ့ရင် ဖုန်းဆက်ပေးလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1197,18 +1742,43 @@
           "id": "02.05.04-S010",
           "text": "我是来认领钱包的。",
           "meaning_my": "ပိုက်ဆံအိတ် ပြန်လာယူတာပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.04-S010_reply01",
+              "text": "麻烦先核对一下信息。",
+              "meaning_my": "အချက်အလက်ကို အရင် စစ်ဆေးပေးပါဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.04-S010_alt01",
+              "text": "我来取丢失的钱包。",
+              "meaning_my": "ပျောက်သွားတဲ့ ပိုက်ဆံအိတ် ပြန်လာယူတာပါ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“认领钱包”通常要先核实能证明自己是失主的资料，具体要求以现场规定为准。",
+              "text_my": "“认领钱包” လုပ်တဲ့အခါ ကိုယ့်ပစ္စည်းဆိုတာ သက်သေပြဖို့ လိုတတ်တယ်။ လိုအပ်ချက်တွေက နေရာအလိုက် ကွာနိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "02.05.04-S011",
           "text": "钱包是黑色的。",
           "meaning_my": "ပိုက်ဆံအိတ်က အနက်ရောင်ပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S011_reply01",
+              "text": "里面装了什么？",
+              "meaning_my": "အထဲမှာ ဘာတွေ ပါလဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1230,7 +1800,13 @@
           "id": "02.05.04-S013",
           "text": "里面有什么？",
           "meaning_my": "အထဲမှာ ဘာပါလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S013_reply01",
+              "text": "有银行卡和一些现金。",
+              "meaning_my": "ဘဏ်ကတ်နဲ့ ငွေသားနည်းနည်း ပါတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1241,7 +1817,13 @@
           "id": "02.05.04-S014",
           "text": "什么时候丢的？",
           "meaning_my": "ဘယ်တုန်းက ပျောက်တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S014_reply01",
+              "text": "今天上午发现不见的。",
+              "meaning_my": "ဒီနေ့ မနက်ပိုင်းမှာ ပျောက်နေတာ သိလိုက်တာ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1274,8 +1856,20 @@
           "id": "02.05.04-S017",
           "text": "能说说长什么样吗？",
           "meaning_my": "ပုံစံက ဘယ်လိုလဲ ပြောပြလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.04-S017_reply01",
+              "text": "黑色的，小小一个。",
+              "meaning_my": "အနက်ရောင်၊ သေးသေးလေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.04-S017_alt01",
+              "text": "能描述一下外观吗？",
+              "meaning_my": "အပြင်ပုံစံက ဘယ်လိုလဲ ပြောပြလို့ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1285,7 +1879,13 @@
           "id": "02.05.04-S018",
           "text": "认领的时候要带什么？",
           "meaning_my": "ပစ္စည်းပြန်ယူတဲ့အခါ ဘာယူလာရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S018_reply01",
+              "text": "先带上有效证件。",
+              "meaning_my": "တရားဝင် သက်သေခံစာရွက်စာတမ်း ယူလာပါ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1296,7 +1896,13 @@
           "id": "02.05.04-S019",
           "text": "我想报失。",
           "meaning_my": "ပစ္စည်းပျောက်ကြောင်း တိုင်ချင်လို့ပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S019_reply01",
+              "text": "好，请问在哪儿登记？",
+              "meaning_my": "ဟုတ်ကဲ့၊ ဘယ်မှာ စာရင်းသွင်းရမလဲ။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1308,7 +1914,13 @@
           "text": "要填表吗？",
           "meaning_my": "ဖောင် ဖြည့်ရမလား။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "02.05.04-S020_alt01",
+              "text": "要不要填写表格？",
+              "meaning_my": "ဖောင် ဖြည့်ရမလား။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1318,7 +1930,13 @@
           "id": "02.05.04-S021",
           "text": "需要出示什么证件？",
           "meaning_my": "ဘာသက်သေခံစာရွက်စာတမ်း ပြရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S021_reply01",
+              "text": "身份证或者护照都可以。",
+              "meaning_my": "နိုင်ငံသားစိစစ်ရေးကတ် ဒါမှမဟုတ် ပတ်စ်ပို့ ရပါတယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1362,7 +1980,13 @@
           "id": "02.05.04-S025",
           "text": "怎么证明这是我的？",
           "meaning_my": "ဒါ ကိုယ့်ပစ္စည်းဆိုတာ ဘယ်လို သက်သေပြရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S025_reply01",
+              "text": "可以出示购买记录吗？",
+              "meaning_my": "ဝယ်ယူထားတဲ့ မှတ်တမ်း ပြလို့ရမလား။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1395,7 +2019,13 @@
           "id": "02.05.04-S028",
           "text": "你核对一下是不是你的。",
           "meaning_my": "ကိုယ့်ပစ္စည်း ဟုတ်မဟုတ် စစ်ကြည့်ပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "02.05.04-S028_reply01",
+              "text": "好，我先核对一下。",
+              "meaning_my": "ကောင်းပြီ၊ အရင် စစ်ကြည့်လိုက်ဦးမယ်။"
+            }
+          ],
           "alternatives": [],
           "pinyin": null,
           "phonetic_my": null,
@@ -1406,8 +2036,20 @@
           "id": "02.05.04-S029",
           "text": "手机是什么型号？",
           "meaning_my": "ဖုန်းက ဘာမော်ဒယ်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "02.05.04-S029_reply01",
+              "text": "是这个型号。",
+              "meaning_my": "ဒီမော်ဒယ်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "02.05.04-S029_alt01",
+              "text": "手机型号叫什么？",
+              "meaning_my": "ဖုန်းမော်ဒယ် ဘာလဲ။"
+            }
+          ],
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
@@ -1415,5 +2057,10 @@
         }
       ]
     }
-  ]
+  ],
+  "extras_summary": {
+    "replies": 57,
+    "alternatives": 36,
+    "notes": 12
+  }
 }
