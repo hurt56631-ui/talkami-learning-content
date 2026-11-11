@@ -1,0 +1,1037 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "05.04",
+  "theme_title": "价格优惠",
+  "theme_title_my": "ဈေးနှုန်းနှင့် လျှော့ဈေး",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 55,
+  "original_count": 33,
+  "added_count": 22,
+  "note": "原65句与补充51句按使用价值精选，避免与旧主题精确重复；八折、满减、叠加、包邮、抹零双语初审；尚待缅语母语终审、拼音谐音和MP3。",
+  "source_counts": {
+    "original_main_candidates": 65,
+    "addition_candidates": 51,
+    "retained_from_original": 33,
+    "retained_from_additions": 22,
+    "editorial_new": 0
+  },
+  "scenes": [
+    {
+      "id": "05.04.01",
+      "title": "询问价格与计价",
+      "title_my": "ဈေးနှုန်းနှင့် တွက်ချက်ပုံ မေးခြင်း",
+      "phrase_count": 14,
+      "phrases": [
+        {
+          "id": "05.04.01-S001",
+          "text": "这个价格对吗？",
+          "meaning_my": "ဒီဈေးနှုန်း မှန်ရဲ့လား။",
+          "replies": [
+            {
+              "id": "05.04.01-S001_reply01",
+              "text": "我帮您再核对一下。",
+              "meaning_my": "ဈေးနှုန်းကို ထပ်စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.01_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S002",
+          "text": "就按标价卖吗？",
+          "meaning_my": "ဈေးတံဆိပ်ပေါ်က ဈေးအတိုင်းပဲ ရောင်းတာလား။",
+          "replies": [
+            {
+              "id": "05.04.01-S002_reply01",
+              "text": "对，按标价算。",
+              "meaning_my": "ဟုတ်ပါတယ်၊ ဈေးတံဆိပ်ပေါ်ကဈေးအတိုင်း တွက်ပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.01_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "标价是标签价格，实付价是最终结账金额，可能包含折扣和费用。",
+              "text_my": "“标价” က ဈေးတံဆိပ်ပေါ်ကဈေး၊ “实付价” က တကယ်ရှင်းရတဲ့ ငွေပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.04.01-S003",
+          "text": "能帮我算一下总价吗？",
+          "meaning_my": "စုစုပေါင်း ကျသင့်ငွေကို တွက်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.01_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S004",
+          "text": "打折后是多少钱？",
+          "meaning_my": "လျှော့ဈေးနဲ့ဆို ဘယ်လောက်ကျမလဲ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.04.01-S004_alt01",
+              "text": "优惠后实付多少？",
+              "meaning_my": "လျှော့ဈေးပြီးရင် တကယ်ပေးရမယ့်ငွေ ဘယ်လောက်လဲ။"
+            }
+          ],
+          "source_ref": "user_original_05.04.01_O018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S005",
+          "text": "买两个一共多少钱？",
+          "meaning_my": "နှစ်ခုဝယ်ရင် စုစုပေါင်း ဘယ်လောက်ကျမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.01_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S006",
+          "text": "运费算在里面吗？",
+          "meaning_my": "ဒီဈေးထဲ ပို့ခ ပါပြီးသားလား။",
+          "replies": [
+            {
+              "id": "05.04.01-S006_reply01",
+              "text": "运费要另外算。",
+              "meaning_my": "ပို့ခကို သီးသန့် တွက်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.01_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S007",
+          "text": "这个价包安装吗？",
+          "meaning_my": "ဒီဈေးထဲ တပ်ဆင်ခပါပြီးသားလား။",
+          "replies": [
+            {
+              "id": "05.04.01-S007_reply01",
+              "text": "安装要另外收费。",
+              "meaning_my": "တပ်ဆင်ခကို သီးသန့် ပေးရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.01_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S008",
+          "text": "这个套餐多少钱？",
+          "meaning_my": "ဒီအစုံလိုက်ပစ္စည်း ဘယ်လောက်ကျလဲ။",
+          "replies": [
+            {
+              "id": "05.04.01-S008_reply01",
+              "text": "一套一百二。",
+              "meaning_my": "တစ်စုံကို ယွမ်တစ်ရာ့နှစ်ဆယ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.01_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S009",
+          "text": "还有别的费用吗？",
+          "meaning_my": "တခြား အပိုကုန်ကျစရိတ် ရှိသေးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.01_N05",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S010",
+          "text": "这个和标签价不一样。",
+          "meaning_my": "ဒီဈေးက ဈေးတံဆိပ်ပေါ်က ဈေးနဲ့ မတူဘူး။",
+          "replies": [
+            {
+              "id": "05.04.01-S010_reply01",
+              "text": "我帮您查一下。",
+              "meaning_my": "စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.04.01-S010_alt01",
+              "text": "收银价格和标价不一样。",
+              "meaning_my": "ငွေရှင်းတဲ့ဈေးနဲ့ ဈေးတံဆိပ်ပေါ်ကဈေး မတူဘူး။"
+            }
+          ],
+          "source_ref": "user_addition_05.04.01_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S011",
+          "text": "这个价格含税吗？",
+          "meaning_my": "ဒီဈေးထဲ အခွန်ပါပြီးသားလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.01_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S012",
+          "text": "这个按套卖吗？",
+          "meaning_my": "ဒါ အစုံလိုက် ရောင်းတာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.01_N13",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S013",
+          "text": "一套包含什么？",
+          "meaning_my": "တစ်စုံထဲမှာ ဘာတွေ ပါလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.01_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.01-S014",
+          "text": "标签上写的是多少钱？",
+          "meaning_my": "ဈေးတံဆိပ်ပေါ်မှာ ဘယ်လောက် ရေးထားလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.01_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.04.02",
+      "title": "促销、会员与优惠券",
+      "title_my": "လျှော့ဈေး၊ အသင်းဝင်နှင့် ကူပွန်",
+      "phrase_count": 27,
+      "phrases": [
+        {
+          "id": "05.04.02-S001",
+          "text": "现在有优惠吗？",
+          "meaning_my": "အခု ဈေးလျှော့ပရိုမိုးရှင်း ရှိလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S001_reply01",
+              "text": "有，今天有促销。",
+              "meaning_my": "ရှိပါတယ်၊ ဒီနေ့ ပရိုမိုးရှင်း ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S002",
+          "text": "这个打折吗？",
+          "meaning_my": "ဒါ ဈေးလျှော့ထားလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S002_reply01",
+              "text": "现在八折。",
+              "meaning_my": "အခု မူလဈေးရဲ့ ရှစ်ဆယ်ရာခိုင်နှုန်းပဲ ပေးရတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.04.02-S002_alt01",
+              "text": "这是特价吗？",
+              "meaning_my": "ဒါ အထူးလျှော့ဈေးလား။"
+            }
+          ],
+          "source_ref": "user_original_05.04.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "八折＝付原价80%，即优惠20%，不是优惠80%。",
+              "text_my": "“八折” က မူလဈေးရဲ့ ၈၀ ရာခိုင်နှုန်း ပေးရတာ၊ ၂၀ ရာခိုင်နှုန်း လျှော့တာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.04.02-S003",
+          "text": "有什么活动？",
+          "meaning_my": "ဘာပရိုမိုးရှင်းတွေ ရှိလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S004",
+          "text": "活动到什么时候？",
+          "meaning_my": "ပရိုမိုးရှင်းက ဘယ်နေ့အထိလဲ။",
+          "replies": [
+            {
+              "id": "05.04.02-S004_reply01",
+              "text": "今天就结束了。",
+              "meaning_my": "ဒီနေ့ပဲ ပရိုမိုးရှင်း ပြီးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S005",
+          "text": "满多少减多少？",
+          "meaning_my": "ဘယ်လောက်ဖိုး ပြည့်ရင် ဘယ်လောက် လျှော့ပေးလဲ။",
+          "replies": [
+            {
+              "id": "05.04.02-S005_reply01",
+              "text": "满二百减三十。",
+              "meaning_my": "ယွမ်နှစ်ရာဖိုး ပြည့်ရင် ယွမ်သုံးဆယ် လျှော့ပေးတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "满200减30：满足适用商品消费满200元减30元，并不是每件商品减30元。",
+              "text_my": "“满200减30” က သတ်မှတ်ပစ္စည်းတွေ ယွမ်၂၀၀ ဖိုးပြည့်ရင် ယွမ်၃၀ လျှော့တာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.04.02-S006",
+          "text": "满减怎么算？",
+          "meaning_my": "သတ်မှတ်ငွေပမာဏပြည့်ရင် လျှော့ပေးတာကို ဘယ်လိုတွက်လဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S007",
+          "text": "活动怎么参加？",
+          "meaning_my": "ပရိုမိုးရှင်းမှာ ဘယ်လို ပါဝင်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S008",
+          "text": "有会员价吗？",
+          "meaning_my": "အသင်းဝင်ဈေး ရှိလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S008_reply01",
+              "text": "有，但需要会员。",
+              "meaning_my": "ရှိတယ်၊ ဒါပေမဲ့ အသင်းဝင်ဖြစ်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S009",
+          "text": "会员价是多少？",
+          "meaning_my": "အသင်းဝင်ဈေး ဘယ်လောက်လဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O028",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S010",
+          "text": "现在办会员要钱吗？",
+          "meaning_my": "အခု အသင်းဝင်လုပ်ရင် အသင်းဝင်ကြေး ပေးရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S011",
+          "text": "会员怎么办？",
+          "meaning_my": "အသင်းဝင် ဘယ်လို လုပ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S012",
+          "text": "会员有什么好处？",
+          "meaning_my": "အသင်းဝင်ရင် ဘာအကျိုးခံစားခွင့်တွေ ရလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N10",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S013",
+          "text": "我有优惠券。",
+          "meaning_my": "ကျွန်တော့်မှာ လျှော့ဈေးကူပွန် ရှိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O006",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S014",
+          "text": "这个券能用吗？",
+          "meaning_my": "ဒီကူပွန် သုံးလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S014_reply01",
+              "text": "特价商品不能用这张券。",
+              "meaning_my": "အထူးလျှော့ဈေးပစ္စည်းတွေမှာ ဒီကူပွန် သုံးလို့မရဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.04.02-S014_alt01",
+              "text": "这张券还有效吗？",
+              "meaning_my": "ဒီကူပွန် သက်တမ်း ရှိသေးလား။"
+            }
+          ],
+          "source_ref": "user_original_05.04.02_O007",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S015",
+          "text": "这个券在哪儿领？",
+          "meaning_my": "ဒီကူပွန် ဘယ်မှာ ရယူရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S016",
+          "text": "这个券有使用门槛吗？",
+          "meaning_my": "ဒီကူပွန်ကို သုံးဖို့ အနည်းဆုံး ဝယ်ယူရမယ့်ငွေပမာဏ သတ်မှတ်ထားလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S017",
+          "text": "一次能用几张券？",
+          "meaning_my": "တစ်ခါဝယ်ရင် ကူပွန် ဘယ်နှစောင် သုံးလို့ရလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S018",
+          "text": "优惠券能和满减一起用吗？",
+          "meaning_my": "ကူပွန်နဲ့ သတ်မှတ်ငွေပမာဏပြည့်လျှော့ဈေးကို တွဲသုံးလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S018_reply01",
+              "text": "不能叠加使用。",
+              "meaning_my": "နှစ်ခုကို ပေါင်းပြီး သုံးလို့မရဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.04.02-S018_alt01",
+              "text": "这两个优惠能叠加吗？",
+              "meaning_my": "ဒီလျှော့ဈေးနှစ်မျိုး တွဲသုံးလို့ရလား။"
+            }
+          ],
+          "source_ref": "user_original_05.04.02_O010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "叠加使用是同一订单合用两种优惠；是否允许取决于商家规则。",
+              "text_my": "“叠加使用” က အော်ဒါတစ်ခုထဲမှာ လျှော့ဈေးနှစ်မျိုး တွဲသုံးတာပါ။ ဆိုင်စည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.04.02-S019",
+          "text": "会员价还能用券吗？",
+          "meaning_my": "အသင်းဝင်ဈေးနဲ့ ဝယ်ရင် ကူပွန် ထပ်သုံးလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O027",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S020",
+          "text": "满减怎么没生效？",
+          "meaning_my": "သတ်မှတ်ငွေပမာဏပြည့် လျှော့ဈေးက ဘာလို့ မသက်ရောက်တာလဲ။",
+          "replies": [
+            {
+              "id": "05.04.02-S020_reply01",
+              "text": "我看看是不是没达到门槛。",
+              "meaning_my": "အနည်းဆုံး ဝယ်ယူရမယ့်ငွေပမာဏ မပြည့်တာလား စစ်ကြည့်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O023",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S021",
+          "text": "积分能用吗？",
+          "meaning_my": "အသင်းဝင်အမှတ်တွေ သုံးလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S021_reply01",
+              "text": "可以用积分抵扣一部分。",
+              "meaning_my": "စုထားတဲ့အမှတ်တွေကို ဈေးတစ်စိတ်တစ်ပိုင်း လျှော့ဖို့ သုံးလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S022",
+          "text": "积分能换东西吗？",
+          "meaning_my": "စုထားတဲ့အမှတ်တွေနဲ့ ပစ္စည်း လဲလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S023",
+          "text": "网上和店里的优惠一样吗？",
+          "meaning_my": "အွန်လိုင်းနဲ့ ဆိုင်မှာ ပရိုမိုးရှင်းတူလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S024",
+          "text": "买两件有优惠吗？",
+          "meaning_my": "နှစ်ခုဝယ်ရင် ဈေးလျှော့ပေးလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S024_reply01",
+              "text": "第二件半价。",
+              "meaning_my": "ဒုတိယတစ်ခုကို ဈေးတစ်ဝက်ပဲ ပေးရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O024",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "第二件半价通常仅第二件按半价结算，两件不一定都半价。",
+              "text_my": "“第二件半价” ဆိုတာ ဒုတိယပစ္စည်းကိုပဲ ဈေးတစ်ဝက်နဲ့ ရတာများပါတယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.04.02-S025",
+          "text": "现在买有赠品吗？",
+          "meaning_my": "အခုဝယ်ရင် လက်ဆောင်ပစ္စည်း ပါလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.02_O026",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S026",
+          "text": "这个活动限购吗？",
+          "meaning_my": "ဒီပရိုမိုးရှင်းမှာ တစ်ယောက် ဝယ်လို့ရတဲ့အရေအတွက် ကန့်သတ်ထားလား။",
+          "replies": [
+            {
+              "id": "05.04.02-S026_reply01",
+              "text": "每人限买两件。",
+              "meaning_my": "တစ်ယောက်ကို နှစ်ခုပဲ ဝယ်ခွင့်ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N17",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.02-S027",
+          "text": "我不是会员，也能打折吗？",
+          "meaning_my": "ကျွန်တော် အသင်းဝင် မဟုတ်ဘူး၊ ဒါလည်း ဈေးလျှော့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.02_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.04.03",
+      "title": "议价",
+      "title_my": "ဈေးဆစ်ခြင်းနှင့် ဈေးညှိခြင်း",
+      "phrase_count": 14,
+      "phrases": [
+        {
+          "id": "05.04.03-S001",
+          "text": "可以再优惠一点吗？",
+          "meaning_my": "ဈေး နည်းနည်း ထပ်လျှော့ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "05.04.03-S001_reply01",
+              "text": "可以给您再便宜十块。",
+              "meaning_my": "ဆယ်ယွမ် ထပ်လျှော့ပေးလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.04.03-S001_alt01",
+              "text": "再便宜点我就买了。",
+              "meaning_my": "ဈေးနည်းနည်း ထပ်လျှော့ပေးရင် ဝယ်မယ်။"
+            }
+          ],
+          "source_ref": "user_original_05.04.03_O018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S002",
+          "text": "这个价还能商量吗？",
+          "meaning_my": "ဒီဈေးကို ထပ်ညှိလို့ရသေးလား။",
+          "replies": [
+            {
+              "id": "05.04.03-S002_reply01",
+              "text": "不好意思，这个不能讲价。",
+              "meaning_my": "အားနာပါတယ်၊ ဒါက ဈေးဆစ်လို့မရဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.03_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "部分摊位可议价，超市和商场通常明码标价；礼貌询问更自然。",
+              "text_my": "တချို့ဈေးဆိုင်တွေမှာ ဈေးဆစ်လို့ရပေမဲ့ စူပါမားကတ်တွေမှာ ဈေးသတ်မှတ်ထားတတ်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.04.03-S003",
+          "text": "能不能抹个零？",
+          "meaning_my": "နောက်ဆုံးက ငွေစွန်းလေး လျှော့ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "05.04.03-S003_reply01",
+              "text": "可以，零头给您去掉。",
+              "meaning_my": "ရပါတယ်၊ ငွေစွန်းလေး ဖြုတ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.04.03-S003_alt01",
+              "text": "零头不要了行吗？",
+              "meaning_my": "ငွေစွန်းလေး မယူဘဲ နေလို့ရမလား။"
+            }
+          ],
+          "source_ref": "user_original_05.04.03_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "抹零是谈好后减免价格尾数，比如108元改成100元，不是把整个价格抹掉。",
+              "text_my": "“抹零” က ၁၀၈ ယွမ်ကို ၁၀၀ ယွမ်လိုမျိုး နောက်ဆုံးက ငွေစွန်းကို လျှော့ခိုင်းတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.04.03-S004",
+          "text": "多买几件能便宜点吗？",
+          "meaning_my": "အများကြီးဝယ်ရင် ဈေး နည်းနည်း လျှော့ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "05.04.03-S004_reply01",
+              "text": "买两件可以给您优惠。",
+              "meaning_my": "နှစ်ခုဝယ်ရင် ဈေးလျှော့ပေးလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.03_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S005",
+          "text": "我买三个能便宜多少？",
+          "meaning_my": "သုံးခုဝယ်ရင် ဘယ်လောက် လျှော့ပေးမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.03_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S006",
+          "text": "这个价能包邮吗？",
+          "meaning_my": "ဒီဈေးနဲ့ ပို့ခအခမဲ့ ရနိုင်မလား။",
+          "replies": [
+            {
+              "id": "05.04.03-S006_reply01",
+              "text": "可以，这个价包邮。",
+              "meaning_my": "ရပါတယ်၊ ဒီဈေးနဲ့ ပို့ခအခမဲ့ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S007",
+          "text": "给个实在价吧。",
+          "meaning_my": "တကယ်ရောင်းနိုင်မယ့် ဈေးလေး ပြောပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.03_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S008",
+          "text": "这个价我不太能接受。",
+          "meaning_my": "ဒီဈေးကတော့ ကျွန်တော့်အတွက် နည်းနည်း မဖြစ်နိုင်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.03_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S009",
+          "text": "别家卖得更便宜。",
+          "meaning_my": "တခြားဆိုင်မှာ ဒီထက် ဈေးသက်သာတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.03_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S010",
+          "text": "按这个价我就拿了。",
+          "meaning_my": "ဒီဈေးနဲ့ဆို ယူမယ်။",
+          "replies": [
+            {
+              "id": "05.04.03-S010_reply01",
+              "text": "好，帮您装起来。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ထုပ်ပိုးပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.04.03-S010_alt01",
+              "text": "这个价可以，我买了。",
+              "meaning_my": "ဒီဈေးဆို ရပြီ၊ ဝယ်လိုက်မယ်။"
+            }
+          ],
+          "source_ref": "user_original_05.04.03_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S011",
+          "text": "我再考虑一下。",
+          "meaning_my": "နည်းနည်း ထပ်စဉ်းစားလိုက်ဦးမယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.04.03-S011_alt01",
+              "text": "那我再看看。",
+              "meaning_my": "ဒါဆို နည်းနည်း ထပ်ကြည့်လိုက်ဦးမယ်။"
+            }
+          ],
+          "source_ref": "user_original_05.04.03_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S012",
+          "text": "我今天只买一件。",
+          "meaning_my": "ဒီနေ့ တစ်ခုတည်းပဲ ဝယ်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.04.03_O015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S013",
+          "text": "能送点什么吗？",
+          "meaning_my": "လက်ဆောင်ပစ္စည်းလေး တစ်ခုခု ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.03_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.04.03-S014",
+          "text": "凑个整数吧。",
+          "meaning_my": "ငွေစွန်းလေး ဖြုတ်ပြီး ဂဏန်းပြည့်အောင် လုပ်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.04.03_N09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 55,
+    "replies": 23,
+    "alternatives": 9,
+    "notes": 7,
+    "total_audio": 87
+  },
+  "core_words": [
+    {
+      "word": "优惠",
+      "meaning_my": "လျှော့ဈေး",
+      "phrase_id": "05.04.02-S001"
+    },
+    {
+      "word": "优惠券",
+      "meaning_my": "လျှော့ဈေးကူပွန်",
+      "phrase_id": "05.04.02-S013"
+    },
+    {
+      "word": "会员",
+      "meaning_my": "အသင်းဝင်",
+      "phrase_id": "05.04.02-S008"
+    },
+    {
+      "word": "议价",
+      "meaning_my": "ဈေးဆစ်",
+      "phrase_id": "05.04.03-S002"
+    }
+  ],
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "frequency_method": "editorial_high_utility_not_corpus_rank",
+    "my_native_final_review": false,
+    "audio_status": "not_recorded"
+  }
+}
