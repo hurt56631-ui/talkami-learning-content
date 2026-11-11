@@ -2,12 +2,12 @@
   "schema_version": "talkami_spoken_audio_manifest_v1",
   "theme_id": "02.03",
   "status": "audio_not_recorded",
-  "audio_naming": "${id}.mp3",
   "main_count": 124,
   "reply_count": 65,
   "alternative_count": 40,
   "total_audio_count": 229,
-  "notes": "仅音频命名索引，未生成MP3；pinyin/phonetic_my仍待人工校对，后续配音时不重排ID。",
+  "audio_naming": "${id}.mp3",
+  "notes": "2026-11-11第11—15主题综合审校后同步。只建立稳定ID、中文与缅语配音索引，未制作实际MP3。普通话拼音及缅文谐音、缅语母语终审仍待完成。",
   "entries": [
     {
       "id": "02.03.01-S001",
@@ -516,8 +516,8 @@
     {
       "id": "02.03.01-S033_reply01",
       "kind": "reply",
-      "cn": "能，我下班就过去。",
-      "meaning_my": "လာနိုင်တယ်၊ အလုပ်ပြီးတာနဲ့ လာမယ်။",
+      "cn": "好，路上别着急。",
+      "meaning_my": "ကောင်းပြီ၊ လမ်းမှာ အလျင်မလိုနဲ့နော်။",
       "audio_file": "02.03.01-S033_reply01.mp3",
       "audio_status": "not_recorded"
     },
@@ -828,8 +828,8 @@
     {
       "id": "02.03.02-S018_reply01",
       "kind": "reply",
-      "cn": "好，你发个定位。",
-      "meaning_my": "ကောင်းပြီ၊ တည်နေရာလေး ပို့ပေးနော်။",
+      "cn": "好，我选好地方就发给你。",
+      "meaning_my": "ကောင်းပြီ၊ နေရာရွေးပြီးရင် ပို့ပေးမယ်။",
       "audio_file": "02.03.02-S018_reply01.mp3",
       "audio_status": "not_recorded"
     },
@@ -965,7 +965,7 @@
       "id": "02.03.02-S028_reply01",
       "kind": "reply",
       "cn": "好，换到便利店门口吧。",
-      "meaning_my": "ကောင်းပြီ၊ ကုန်စုံဆိုင်ရှေ့ကို ပြောင်းကြမယ်။",
+      "meaning_my": "ကောင်းပြီ၊ မီနီမတ်ဆိုင်ရှေ့ကို ပြောင်းကြမယ်။",
       "audio_file": "02.03.02-S028_reply01.mp3",
       "audio_status": "not_recorded"
     },
@@ -1260,16 +1260,16 @@
     {
       "id": "02.03.03-S020",
       "kind": "main",
-      "cn": "你出发了吗？",
-      "meaning_my": "ထွက်လာပြီးပြီလား။",
+      "cn": "你准备几点出发？",
+      "meaning_my": "ဘယ်နှနာရီလောက် ထွက်ဖို့ စီစဉ်ထားလဲ။",
       "audio_file": "02.03.03-S020.mp3",
       "audio_status": "not_recorded"
     },
     {
       "id": "02.03.03-S020_reply01",
       "kind": "reply",
-      "cn": "刚出发。",
-      "meaning_my": "အခုမှ ထွက်လာတာ။",
+      "cn": "三点左右出发。",
+      "meaning_my": "သုံးနာရီလောက် ထွက်မယ်။",
       "audio_file": "02.03.03-S020_reply01.mp3",
       "audio_status": "not_recorded"
     },
@@ -1292,8 +1292,8 @@
     {
       "id": "02.03.03-S022_reply01",
       "kind": "reply",
-      "cn": "好，我在那里等你。",
-      "meaning_my": "ကောင်းပြီ၊ အဲဒီမှာ စောင့်နေမယ်။",
+      "cn": "好，我等会儿过去。",
+      "meaning_my": "ကောင်းပြီ၊ ခဏနေမှ လိုက်လာမယ်။",
       "audio_file": "02.03.03-S022_reply01.mp3",
       "audio_status": "not_recorded"
     },
@@ -1708,8 +1708,8 @@
     {
       "id": "02.03.04-S025_alt01",
       "kind": "alternative",
-      "cn": "你从几号口出来？",
-      "meaning_my": "ဘယ်နံပါတ် ထွက်ပေါက်က ထွက်လာတာလဲ။",
+      "cn": "你是从哪个口出来的？",
+      "meaning_my": "ဘယ်ထွက်ပေါက်က ထွက်လာတာလဲ။",
       "audio_file": "02.03.04-S025_alt01.mp3",
       "audio_status": "not_recorded"
     },
