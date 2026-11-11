@@ -1,0 +1,1533 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "05.06",
+  "theme_title": "退换退款",
+  "theme_title_my": "ပစ္စည်းပြန်အပ်ခြင်း၊ လဲလှယ်ခြင်းနှင့် ငွေပြန်အမ်းခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 83,
+  "original_count": 39,
+  "added_count": 44,
+  "source_counts": {
+    "original_candidates": 76,
+    "addition_candidates": 64,
+    "retained_original": 39,
+    "retained_additions": 44,
+    "editorial_new": 0
+  },
+  "note": "原稿76句及补充64句经实用性精简；退货退款/换货/售后维修明确分开，店员回答作为按需回复。简化不自然的双语表达，资金去向、运费承担及维修责任按平台规则核实。尚未完成缅甸母语终审、拼音谐音和真实音频。",
+  "scenes": [
+    {
+      "id": "05.06.01",
+      "title": "申请退货",
+      "title_my": "ပစ္စည်းပြန်အပ်ရန် တောင်းဆိုခြင်း",
+      "phrase_count": 24,
+      "phrases": [
+        {
+          "id": "05.06.01-S001",
+          "text": "我想退货。",
+          "meaning_my": "ပစ္စည်း ပြန်အပ်ချင်လို့ပါ။",
+          "replies": [
+            {
+              "id": "05.06.01-S001_reply01",
+              "text": "好的，商品和购买记录给我看一下。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ပစ္စည်းနဲ့ ဝယ်ယူထားတဲ့ မှတ်တမ်း ပြပေးပါဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.01-S001_alt01",
+              "text": "这个我不想要了，想退掉。",
+              "meaning_my": "ဒါ မလိုချင်တော့လို့ ပြန်အပ်ချင်တယ်။"
+            }
+          ],
+          "source_ref": "user_original_05.06.01_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“退货”是把买到的商品退回去；“退款”是返还已支付的钱；申请退货不意味着立即收到退款。",
+              "text_my": "“退货” က ဝယ်ထားတဲ့ပစ္စည်း ပြန်အပ်တာ၊ “退款” က ပေးထားတဲ့ငွေ ပြန်အမ်းတာပါ။ ပစ္စည်းပြန်အပ်ဖို့ လျှောက်တာနဲ့ ငွေချက်ချင်း ပြန်မဝင်နိုင်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.01-S002",
+          "text": "这个能退吗？",
+          "meaning_my": "ဒါ ပြန်အပ်လို့ရလား။",
+          "replies": [
+            {
+              "id": "05.06.01-S002_reply01",
+              "text": "要先确认是否符合退货条件。",
+              "meaning_my": "ပြန်အပ်ခွင့် သတ်မှတ်ချက်နဲ့ ကိုက်မကိုက် အရင် စစ်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S003",
+          "text": "和描述的不一样。",
+          "meaning_my": "ဖော်ပြထားတာနဲ့ မတူဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S004",
+          "text": "这个有质量问题。",
+          "meaning_my": "ဒီပစ္စည်းမှာ အရည်အသွေးပိုင်း ပြဿနာရှိတယ်။",
+          "replies": [
+            {
+              "id": "05.06.01-S004_reply01",
+              "text": "质量问题可以申请退货。",
+              "meaning_my": "အရည်အသွေးပြဿနာရှိရင် ပြန်အပ်ဖို့ လျှောက်ထားလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S005",
+          "text": "收到的时候就是坏的。",
+          "meaning_my": "ပစ္စည်းရောက်ကတည်းက ပျက်နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S006",
+          "text": "型号买错了。",
+          "meaning_my": "မော်ဒယ်မှားဝယ်မိသွားတယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.06.01-S006_alt01",
+              "text": "我买错型号了。",
+              "meaning_my": "မော်ဒယ် မှားဝယ်မိတယ်။"
+            }
+          ],
+          "source_ref": "user_original_05.06.01_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S007",
+          "text": "尺码不合适。",
+          "meaning_my": "ဆိုဒ် မတော်ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S008",
+          "text": "买重了。",
+          "meaning_my": "ဒီပစ္စည်းကို နှစ်ခါဝယ်မိသွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S009",
+          "text": "我不想要了。",
+          "meaning_my": "မလိုချင်တော့ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S010",
+          "text": "我要全额退款。",
+          "meaning_my": "ပေးထားတဲ့ငွေ အပြည့် ပြန်အမ်းစေချင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S011",
+          "text": "我只退这一件。",
+          "meaning_my": "ဒီတစ်ခုကိုပဲ ပြန်အပ်မယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S012",
+          "text": "小票在这里。",
+          "meaning_my": "ငွေရှင်းပြေစာ ဒီမှာပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S013",
+          "text": "没小票还能退吗？",
+          "meaning_my": "ငွေရှင်းပြေစာ မရှိရင်လည်း ပြန်အပ်လို့ရလား။",
+          "replies": [
+            {
+              "id": "05.06.01-S013_reply01",
+              "text": "可以先提供订单记录，我帮您核实。",
+              "meaning_my": "အရင် အော်ဒါမှတ်တမ်း ပြပေးပါ၊ စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.01-S013_alt01",
+              "text": "没有购物凭证能退吗？",
+              "meaning_my": "ဝယ်ယူပြေစာ မရှိရင် ပြန်အပ်လို့ရလား။"
+            }
+          ],
+          "source_ref": "user_original_05.06.01_O010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S014",
+          "text": "几天内可以退？",
+          "meaning_my": "ဝယ်ပြီး ဘယ်နှရက်အတွင်း ပြန်အပ်လို့ရလဲ။",
+          "replies": [
+            {
+              "id": "05.06.01-S014_reply01",
+              "text": "要看商品种类和购买规定。",
+              "meaning_my": "ပစ္စည်းအမျိုးအစားနဲ့ ဝယ်ယူစည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S015",
+          "text": "包装拆了还能退吗？",
+          "meaning_my": "အထုပ်ဖောက်ပြီးရင်လည်း ပြန်အပ်လို့ရသေးလား။",
+          "replies": [
+            {
+              "id": "05.06.01-S015_reply01",
+              "text": "我帮您确认一下规定。",
+              "meaning_my": "ဆိုင်စည်းကမ်းကို စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“拆包装”“使用过”“影响二次销售”是不同情形；退货资格按商品类型、适用规定及具体商家政策核实。",
+              "text_my": "အထုပ်ဖောက်ထားတာနဲ့ သုံးပြီးသားဖြစ်တာ မတူဘူး။ ပြန်အပ်လို့ရမရက ပစ္စည်းအမျိုးအစားနဲ့ သက်ဆိုင်ရာစည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.01-S016",
+          "text": "还没用过，可以退吗？",
+          "meaning_my": "မသုံးရသေးဘူး၊ ပြန်အပ်လို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S017",
+          "text": "退货要怎么操作？",
+          "meaning_my": "ပစ္စည်း ပြန်အပ်ဖို့ ဘာတွေ လုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.01-S017_reply01",
+              "text": "可以在订单里提交申请。",
+              "meaning_my": "အော်ဒါထဲမှာ ပြန်အပ်ဖို့ လျှောက်ထားလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S018",
+          "text": "退货运费谁出？",
+          "meaning_my": "ပစ္စည်းပြန်ပို့ခ ဘယ်သူကျခံရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.01-S018_reply01",
+              "text": "我先查一下运费承担规则。",
+              "meaning_my": "ပြန်ပို့ခ ဘယ်သူကျခံရမလဲဆိုတဲ့ စည်းကမ်းကို စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "退货产生的“运费”与购买时的配送费不同；由谁负担要先核实退货原因及适用规则。",
+              "text_my": "ပစ္စည်းပြန်ပို့ခနဲ့ ဝယ်တုန်းက ပို့ခ မတူဘူး။ ဘယ်သူပေးရမလဲဆိုတာ ပြန်အပ်ရတဲ့ အကြောင်းရင်းနဲ့ စည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.01-S019",
+          "text": "怎么寄回去？",
+          "meaning_my": "ပစ္စည်းကို ဘယ်လို ပြန်ပို့ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.01-S019_reply01",
+              "text": "按退货页面上的地址寄回。",
+              "meaning_my": "ပြန်အပ်တဲ့စာမျက်နှာပေါ်က လိပ်စာအတိုင်း ပြန်ပို့ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S020",
+          "text": "有人上门取件吗？",
+          "meaning_my": "အိမ်လာပြီး ပစ္စည်းယူပေးမယ့်သူ ရှိလား။",
+          "replies": [
+            {
+              "id": "05.06.01-S020_reply01",
+              "text": "可以预约快递上门取件。",
+              "meaning_my": "ပို့ဆောင်ရေးဝန်ထမ်းကို အိမ်လာယူဖို့ ကြိုတင်ချိန်းလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.01-S020_alt01",
+              "text": "可以上门取退货吗？",
+              "meaning_my": "ပြန်အပ်မယ့်ပစ္စည်းကို အိမ်လာယူပေးလို့ရလား။"
+            }
+          ],
+          "source_ref": "user_addition_05.06.01_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S021",
+          "text": "可以到店退吗？",
+          "meaning_my": "ဆိုင်မှာ လာပြန်အပ်လို့ရလား။",
+          "replies": [
+            {
+              "id": "05.06.01-S021_reply01",
+              "text": "这要看门店的退货规则。",
+              "meaning_my": "ဆိုင်ရဲ့ ပြန်အပ်စည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S022",
+          "text": "退货要带原包装吗？",
+          "meaning_my": "ပစ္စည်းပြန်အပ်ရင် မူရင်းအထုပ် ယူလာရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.01_O021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S023",
+          "text": "退货码在哪儿看？",
+          "meaning_my": "ပစ္စည်းပြန်အပ်ဖို့ ကုဒ်ကို ဘယ်မှာ ကြည့်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.01-S024",
+          "text": "寄出以后把快递单号发给你。",
+          "meaning_my": "ပစ္စည်းပြန်ပို့ပြီးရင် ပို့ဆောင်ရေးနံပါတ် ပို့ပေးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.01_N18",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.06.02",
+      "title": "申请换货",
+      "title_my": "ပစ္စည်းလဲလှယ်ရန် တောင်းဆိုခြင်း",
+      "phrase_count": 20,
+      "phrases": [
+        {
+          "id": "05.06.02-S001",
+          "text": "我想换一个。",
+          "meaning_my": "တစ်ခု လဲချင်တယ်။",
+          "replies": [
+            {
+              "id": "05.06.02-S001_reply01",
+              "text": "可以，您带购买凭证了吗？",
+              "meaning_my": "ရပါတယ်၊ ဝယ်ယူထားတဲ့အထောက်အထား ယူလာလား။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.02-S001_alt01",
+              "text": "我想换货。",
+              "meaning_my": "ပစ္စည်း လဲချင်တယ်။"
+            }
+          ],
+          "source_ref": "user_original_05.06.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“换货”是换商品、尺码或颜色；“退货退款”则是退回商品并申请退还钱，两者不能混为一谈。",
+              "text_my": "“换货” က ပစ္စည်း၊ ဆိုဒ် ဒါမှမဟုတ် အရောင် လဲတာပါ။ “退货退款” က ပစ္စည်းပြန်အပ်ပြီး ငွေပြန်တောင်းတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.02-S002",
+          "text": "我想换个颜色。",
+          "meaning_my": "တခြားအရောင်နဲ့ လဲချင်တယ်။",
+          "replies": [
+            {
+              "id": "05.06.02-S002_reply01",
+              "text": "有黑色的，我给您拿。",
+              "meaning_my": "အနက်ရောင် ရှိတယ်၊ ယူပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S003",
+          "text": "能换同款吗？",
+          "meaning_my": "ဒီပုံစံတူတဲ့ဟာနဲ့ လဲလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.06.02-S003_reply01",
+              "text": "有同款，可以帮您查库存。",
+              "meaning_my": "ဒီပုံစံတူတာ ရှိတယ်၊ လက်ကျန်စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.02-S003_alt01",
+              "text": "可以换一模一样的吗？",
+              "meaning_my": "အတိအကျ ပုံစံတူတာနဲ့ လဲလို့ရလား။"
+            }
+          ],
+          "source_ref": "user_original_05.06.02_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S004",
+          "text": "能直接换个新的吗？",
+          "meaning_my": "အသစ်တစ်ခုနဲ့ တိုက်ရိုက် လဲပေးလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.06.02-S004_reply01",
+              "text": "需要先检查是否符合换新条件。",
+              "meaning_my": "အသစ်လဲခွင့် သတ်မှတ်ချက်နဲ့ ကိုက်မကိုက် အရင် စစ်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S005",
+          "text": "刚买就坏了。",
+          "meaning_my": "အခုမှဝယ်တာ ပျက်သွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S006",
+          "text": "这个有瑕疵。",
+          "meaning_my": "ဒီပစ္စည်းမှာ အပြစ်အနာအဆာ ပါနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S007",
+          "text": "这个用不了。",
+          "meaning_my": "ဒါ သုံးလို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S008",
+          "text": "要补差价吗？",
+          "meaning_my": "ဈေးကွာတဲ့ငွေ ထပ်ပေးရမလား။",
+          "replies": [
+            {
+              "id": "05.06.02-S008_reply01",
+              "text": "如果换更贵的，可能要补差价。",
+              "meaning_my": "ပိုဈေးကြီးတာနဲ့ လဲရင် ဈေးကွာတဲ့ငွေ ထပ်ပေးရနိုင်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.02-S008_alt01",
+              "text": "换这个还要加钱吗？",
+              "meaning_my": "ဒီဟာနဲ့လဲရင် ငွေထပ်ပေးရမလား။"
+            }
+          ],
+          "source_ref": "user_original_05.06.02_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S009",
+          "text": "换贵的要补多少？",
+          "meaning_my": "ပိုဈေးကြီးတာနဲ့ လဲရင် ငွေဘယ်လောက် ထပ်ပေးရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S010",
+          "text": "换便宜的会退差价吗？",
+          "meaning_my": "ပိုဈေးသက်သာတာနဲ့ လဲရင် ကွာတဲ့ငွေ ပြန်အမ်းပေးလား။",
+          "replies": [
+            {
+              "id": "05.06.02-S010_reply01",
+              "text": "这要看门店的差价规则。",
+              "meaning_my": "ဈေးကွာတဲ့ငွေကို ပြန်အမ်းမအမ်း ဆိုင်စည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N06",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“补差价”通常是换更贵的商品时补付金额；换更便宜的商品是否退差价，需按店规确认。",
+              "text_my": "ပိုဈေးကြီးတာနဲ့ လဲရင် ဈေးကွာငွေ ထပ်ပေးရတတ်တယ်။ ပိုသက်သာတာနဲ့ လဲရင် ငွေပြန်အမ်းမအမ်းကို ဆိုင်မှာ မေးပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.02-S011",
+          "text": "没货怎么换？",
+          "meaning_my": "ပစ္စည်းပြတ်နေရင် ဘယ်လို လဲရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.02-S011_reply01",
+              "text": "可以看看其他款，或者等补货。",
+              "meaning_my": "တခြားဒီဇိုင်း ကြည့်လို့ရတယ်၊ ဒါမှမဟုတ် ပစ္စည်းပြန်ရောက်တာ စောင့်လို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S012",
+          "text": "换货要等多久？",
+          "meaning_my": "ပစ္စည်းလဲဖို့ ဘယ်လောက်ကြာ စောင့်ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.02-S012_reply01",
+              "text": "有现货的话，一般能更快办理。",
+              "meaning_my": "လက်ကျန်ရှိရင် ပိုမြန်မြန် လဲပေးလို့ရတတ်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S013",
+          "text": "只能换同价位的吗？",
+          "meaning_my": "ဈေးတူတာနဲ့ပဲ လဲလို့ရတာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S014",
+          "text": "能换同价位的别的款吗？",
+          "meaning_my": "ဈေးတူတဲ့ တခြားဒီဇိုင်းနဲ့ လဲလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S015",
+          "text": "换货期限是几天？",
+          "meaning_my": "ဝယ်ပြီး ဘယ်နှရက်အတွင်း လဲလို့ရလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S016",
+          "text": "没小票能换吗？",
+          "meaning_my": "ငွေရှင်းပြေစာ မရှိရင်လည်း လဲလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.06.02-S016_reply01",
+              "text": "我先帮您查订单记录。",
+              "meaning_my": "အော်ဒါမှတ်တမ်းကို အရင် စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S017",
+          "text": "可以寄回来换吗？",
+          "meaning_my": "ပစ္စည်းပြန်ပို့ပြီး လဲလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S018",
+          "text": "换货运费谁出？",
+          "meaning_my": "ပစ္စည်းလဲဖို့ ပို့ခ ဘယ်သူကျခံရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.02-S018_reply01",
+              "text": "我先核实换货运费政策。",
+              "meaning_my": "ပစ္စည်းလဲတဲ့အခါ ပို့ခစည်းကမ်းကို စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S019",
+          "text": "换的货能直接寄到家吗？",
+          "meaning_my": "လဲထားတဲ့ပစ္စည်းကို အိမ်ကို တိုက်ရိုက် ပို့ပေးလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.02_N13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.02-S020",
+          "text": "这个型号可以换吗？",
+          "meaning_my": "ဒီမော်ဒယ်နဲ့ လဲလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.02_O010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.06.03",
+      "title": "退款到账",
+      "title_my": "ငွေပြန်အမ်းခြင်းနှင့် အကောင့်ထဲ ဝင်ခြင်း",
+      "phrase_count": 18,
+      "phrases": [
+        {
+          "id": "05.06.03-S001",
+          "text": "什么时候退款？",
+          "meaning_my": "ငွေ ဘယ်တော့ ပြန်အမ်းပေးမှာလဲ။",
+          "replies": [
+            {
+              "id": "05.06.03-S001_reply01",
+              "text": "审核通过后会按规定处理。",
+              "meaning_my": "စစ်ဆေးပြီး အတည်ပြုပြီးရင် သတ်မှတ်ချက်အတိုင်း ဆောင်ရွက်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.03_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S002",
+          "text": "多久能到账？",
+          "meaning_my": "ငွေ အကောင့်ထဲဝင်ဖို့ ဘယ်လောက်ကြာမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.03-S002_reply01",
+              "text": "预计三到五个工作日，具体以支付渠道为准。",
+              "meaning_my": "ခန့်မှန်း အလုပ်ဖွင့်ရက် သုံးရက်ကနေ ငါးရက်လောက်ပါ၊ ငွေပေးချေမှုလမ်းကြောင်းပေါ် မူတည်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.03-S002_alt01",
+              "text": "退款什么时候到账？",
+              "meaning_my": "ငွေပြန်အမ်းတာ အကောင့်ထဲ ဘယ်တော့ ဝင်မလဲ။"
+            }
+          ],
+          "source_ref": "user_original_05.06.03_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“商家已发起退款”“支付平台已处理”“钱已到账”是不同状态；具体到账时间可能受支付方式、银行处理影响。",
+              "text_my": "ဆိုင်က ငွေပြန်အမ်းစတင်တာ၊ ပေးချေမှုစနစ်က လုပ်ဆောင်တာနဲ့ အကောင့်ထဲ ငွေဝင်တာ မတူဘူး။ အချိန်က ဘဏ်နဲ့ ငွေပေးချေမှုနည်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.03-S003",
+          "text": "能查一下退款进度吗？",
+          "meaning_my": "ငွေပြန်အမ်းတဲ့ အခြေအနေကို စစ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.03_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S004",
+          "text": "已经退款了吗？",
+          "meaning_my": "ငွေ ပြန်အမ်းပြီးပြီလား။",
+          "replies": [
+            {
+              "id": "05.06.03-S004_reply01",
+              "text": "系统显示已发起退款，您再查下账户。",
+              "meaning_my": "စနစ်ထဲမှာ ငွေပြန်အမ်းတာ စတင်ထားပြီလို့ ပြတယ်၊ အကောင့်မှာ စစ်ကြည့်ပါဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.03_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S005",
+          "text": "我这边还没收到退款。",
+          "meaning_my": "ကျွန်တော့်အကောင့်ထဲ ငွေပြန်မဝင်သေးဘူး။",
+          "replies": [
+            {
+              "id": "05.06.03-S005_reply01",
+              "text": "可能银行还没入账，我帮您查一下。",
+              "meaning_my": "ဘဏ်ဘက်မှာ ငွေမဝင်သေးတာ ဖြစ်နိုင်တယ်၊ စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S006",
+          "text": "退款怎么少了？",
+          "meaning_my": "ပြန်အမ်းတဲ့ငွေ ဘာလို့ နည်းနေတာလဲ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "05.06.03-S006_alt01",
+              "text": "为什么没退全额？",
+              "meaning_my": "ငွေဘာလို့ အပြည့် ပြန်မအမ်းတာလဲ။"
+            }
+          ],
+          "source_ref": "user_original_05.06.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S007",
+          "text": "钱会退到哪儿？",
+          "meaning_my": "ငွေကို ဘယ်အကောင့်ထဲ ပြန်အမ်းမှာလဲ။",
+          "replies": [
+            {
+              "id": "05.06.03-S007_reply01",
+              "text": "一般按原支付渠道退回，具体以订单为准。",
+              "meaning_my": "ပုံမှန်အားဖြင့် မူလငွေပေးချေမှုလမ်းကြောင်းကနေ ပြန်အမ်းတတ်တယ်၊ အော်ဒါအလိုက် စစ်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.03_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S008",
+          "text": "会退到原来的银行卡吗？",
+          "meaning_my": "မူလသုံးခဲ့တဲ့ ဘဏ်ကတ်ထဲ ပြန်အမ်းမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.03_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“原路退回”指按原付款渠道退回；更换银行卡、账户异常时需要联系商家及支付渠道核实，不能保证任意指定新账户。",
+              "text_my": "“原路退回” က မူလငွေပေးချေခဲ့တဲ့လမ်းကြောင်းကနေ ပြန်အမ်းတာပါ။ ဘဏ်ကတ်ပြောင်းထားရင် ဆိုင်နဲ့ ငွေပေးချေမှုဌာနမှာ စစ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.03-S009",
+          "text": "退款到微信还是银行卡？",
+          "meaning_my": "ငွေကို WeChat ထဲ ပြန်အမ်းမှာလား၊ ဘဏ်ကတ်ထဲလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S010",
+          "text": "退款失败了。",
+          "meaning_my": "ငွေပြန်အမ်းတာ မအောင်မြင်ဘူး။",
+          "replies": [
+            {
+              "id": "05.06.03-S010_reply01",
+              "text": "请提供退款单号，我帮您查原因。",
+              "meaning_my": "ငွေပြန်အမ်းမှု နံပါတ် ပေးပါ၊ ဘာကြောင့် မအောင်မြင်လဲ စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N05",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S011",
+          "text": "能退到别的账户吗？",
+          "meaning_my": "တခြားအကောင့်ထဲ ပြန်အမ်းလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N07",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S012",
+          "text": "只退了一部分。",
+          "meaning_my": "ငွေတစ်စိတ်တစ်ပိုင်းပဲ ပြန်အမ်းထားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N08",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S013",
+          "text": "剩下的什么时候退？",
+          "meaning_my": "ကျန်တဲ့ငွေကို ဘယ်တော့ ပြန်အမ်းမှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S014",
+          "text": "退款要扣手续费吗？",
+          "meaning_my": "ငွေပြန်အမ်းရင် ဝန်ဆောင်ခ ဖြတ်မလား။",
+          "replies": [
+            {
+              "id": "05.06.03-S014_reply01",
+              "text": "要看订单和退款条款。",
+              "meaning_my": "အော်ဒါနဲ့ ငွေပြန်အမ်းစည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S015",
+          "text": "退款单号发我一下。",
+          "meaning_my": "ငွေပြန်အမ်းမှု နံပါတ်ကို ပို့ပေးပါဦး။",
+          "replies": [
+            {
+              "id": "05.06.03-S015_reply01",
+              "text": "好的，我发给您。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ပို့ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S016",
+          "text": "超时还没到账怎么办？",
+          "meaning_my": "သတ်မှတ်ချိန်ကျော်ပြီး ငွေမဝင်သေးရင် ဘာလုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.03-S016_reply01",
+              "text": "请保留记录，联系客服核查。",
+              "meaning_my": "မှတ်တမ်းတွေ သိမ်းထားပြီး ဝန်ဆောင်မှုဌာနကို ဆက်သွယ်စစ်ဆေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S017",
+          "text": "能加急处理吗？",
+          "meaning_my": "အမြန်ဆုံး စီစဉ်ပေးလို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.03_N15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.03-S018",
+          "text": "银行卡换了还能退款吗？",
+          "meaning_my": "ဘဏ်ကတ်အသစ် လဲထားရင်လည်း ငွေပြန်အမ်းလို့ရသေးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.03_O014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "05.06.04",
+      "title": "售后保修",
+      "title_my": "အရောင်းအပြီး ဝန်ဆောင်မှုနှင့် အာမခံပြုပြင်ခြင်း",
+      "phrase_count": 21,
+      "phrases": [
+        {
+          "id": "05.06.04-S001",
+          "text": "这个还在保修期内吗？",
+          "meaning_my": "ဒီပစ္စည်း အာမခံသက်တမ်း ကျန်သေးလား။",
+          "replies": [
+            {
+              "id": "05.06.04-S001_reply01",
+              "text": "我先核对购买日期。",
+              "meaning_my": "ဝယ်ယူရက်စွဲကို အရင် စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.04-S001_alt01",
+              "text": "我的保修还有效吗？",
+              "meaning_my": "ကျွန်တော့်အာမခံ သက်တမ်း ရှိသေးလား။"
+            }
+          ],
+          "source_ref": "user_original_05.06.04_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“保修”通常指按条件维修，并不自动等同于无条件免费换新；“保修期”是保修保障的期限。",
+              "text_my": "“保修” က သတ်မှတ်ချက်နဲ့ ကိုက်ညီရင် ပြင်ပေးတာပါ။ အလိုအလျောက် အခမဲ့အသစ် လဲပေးမယ်လို့ မဆိုလိုဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.04-S002",
+          "text": "我想拿这个去修一下。",
+          "meaning_my": "ဒါကို သွားပြင်ချင်လို့ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.04_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S003",
+          "text": "才用了两天就坏了。",
+          "meaning_my": "သုံးတာ နှစ်ရက်ပဲရှိသေးတယ်၊ ပျက်သွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.04_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S004",
+          "text": "售后服务台在哪儿？",
+          "meaning_my": "အရောင်းအပြီး ဝန်ဆောင်မှုကောင်တာ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.04_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S005",
+          "text": "维修要收费吗？",
+          "meaning_my": "ပြင်ခ ပေးရမလား။",
+          "replies": [
+            {
+              "id": "05.06.04-S005_reply01",
+              "text": "符合保修条件的，可以免费修。",
+              "meaning_my": "အာမခံစည်းကမ်းနဲ့ ကိုက်ညီရင် အခမဲ့ ပြင်ပေးလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.04_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S006",
+          "text": "维修要多久？",
+          "meaning_my": "ပြင်ဖို့ ဘယ်လောက်ကြာမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.04-S006_reply01",
+              "text": "需要先检测，之后才能估计时间。",
+              "meaning_my": "အရင် စစ်ဆေးပြီးမှ ဘယ်လောက်ကြာမလဲ ခန့်မှန်းလို့ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.04_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S007",
+          "text": "修不好能换新吗？",
+          "meaning_my": "ပြင်လို့မရရင် အသစ်နဲ့ လဲပေးလို့ရလား။",
+          "replies": [
+            {
+              "id": "05.06.04-S007_reply01",
+              "text": "要先检测，符合条件才能换新。",
+              "meaning_my": "အရင် စစ်ဆေးရမယ်၊ သတ်မှတ်ချက်နဲ့ ကိုက်မှ အသစ်လဲပေးလို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.04_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S008",
+          "text": "哪些情况不保修？",
+          "meaning_my": "ဘယ်လိုအခြေအနေတွေမှာ အာမခံမပါဘူးလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_05.06.04_O012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S009",
+          "text": "保修卡在哪儿？",
+          "meaning_my": "အာမခံကတ် ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S010",
+          "text": "没发票能保修吗？",
+          "meaning_my": "ဝယ်ယူပြေစာ မရှိရင်လည်း အာမခံရလား။",
+          "replies": [
+            {
+              "id": "05.06.04-S010_reply01",
+              "text": "可以先提供其他购买凭证，我帮您核实。",
+              "meaning_my": "တခြားဝယ်ယူအထောက်အထား ပြပေးပါ၊ စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S011",
+          "text": "保修期从哪天开始算？",
+          "meaning_my": "အာမခံသက်တမ်းကို ဘယ်နေ့ကစ တွက်တာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S012",
+          "text": "人为损坏也保修吗？",
+          "meaning_my": "ကိုယ့်ကြောင့် ပျက်သွားတာလည်း အာမခံပါလား။",
+          "replies": [
+            {
+              "id": "05.06.04-S012_reply01",
+              "text": "要先检查损坏原因和保修条款。",
+              "meaning_my": "ပျက်စီးရတဲ့ အကြောင်းရင်းနဲ့ အာမခံစည်းကမ်းကို အရင် စစ်ရမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“人为损坏”“自然故障”不同；是否免费维修需根据原因、凭证及产品保修条款判断，不做统一承诺。",
+              "text_my": "ကိုယ့်ကြောင့် ပျက်တာနဲ့ သဘာဝအတိုင်း စက်ချို့ယွင်းတာ မတူဘူး။ အခမဲ့ပြင်ပေးမပေး စစ်ဆေးမှုနဲ့ အာမခံစည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "05.06.04-S013",
+          "text": "进水了能修吗？",
+          "meaning_my": "စက်ထဲ ရေဝင်သွားရင် ပြင်လို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S014",
+          "text": "摔坏了还保修吗？",
+          "meaning_my": "ပြုတ်ကျပြီး ပျက်သွားတာလည်း အာမခံပါလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S015",
+          "text": "换过零件还保修吗？",
+          "meaning_my": "အစိတ်အပိုင်း လဲထားပြီးရင် အာမခံ ရှိသေးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S016",
+          "text": "维修进度怎么查？",
+          "meaning_my": "ပြင်ဆင်နေတဲ့ အခြေအနေကို ဘယ်လို စစ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.04-S016_reply01",
+              "text": "可以凭维修单号查询。",
+              "meaning_my": "ပြင်ဆင်မှုနံပါတ်နဲ့ စစ်ကြည့်လို့ရတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S017",
+          "text": "修好了吗？",
+          "meaning_my": "ပြင်ပြီးပြီလား။",
+          "replies": [
+            {
+              "id": "05.06.04-S017_reply01",
+              "text": "还没好，修好后会通知您。",
+              "meaning_my": "မပြီးသေးဘူး၊ ပြင်ပြီးရင် အကြောင်းကြားပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "05.06.04-S017_alt01",
+              "text": "维修完成了吗？",
+              "meaning_my": "ပြင်ပြီးပြီလား။"
+            }
+          ],
+          "source_ref": "user_addition_05.06.04_N09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S018",
+          "text": "什么时候能取？",
+          "meaning_my": "ဘယ်တော့ လာယူလို့ရမလဲ။",
+          "replies": [
+            {
+              "id": "05.06.04-S018_reply01",
+              "text": "修好后通知您来取。",
+              "meaning_my": "ပြင်ပြီးရင် လာယူဖို့ အကြောင်းကြားပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S019",
+          "text": "能上门维修吗？",
+          "meaning_my": "အိမ်ကိုလာပြီး ပြင်ပေးလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S020",
+          "text": "取机要带什么？",
+          "meaning_my": "စက်လာယူရင် ဘာတွေ ယူလာရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "05.06.04-S021",
+          "text": "维修期间有备用机吗？",
+          "meaning_my": "ပြင်နေတဲ့အချိန် အစားထိုးသုံးဖို့ စက် ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_05.06.04_N12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 83,
+    "replies": 39,
+    "alternatives": 11,
+    "notes": 9,
+    "total_audio": 133
+  },
+  "core_words": [
+    {
+      "word": "退货",
+      "meaning_my": "ပစ္စည်းပြန်အပ်",
+      "phrase_id": "05.06.01-S001"
+    },
+    {
+      "word": "换货",
+      "meaning_my": "ပစ္စည်းလဲလှယ်",
+      "phrase_id": "05.06.02-S001"
+    },
+    {
+      "word": "退款",
+      "meaning_my": "ငွေပြန်အမ်း",
+      "phrase_id": "05.06.03-S001"
+    },
+    {
+      "word": "保修",
+      "meaning_my": "အာမခံပြုပြင်",
+      "phrase_id": "05.06.04-S001"
+    }
+  ],
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "date": "2026-11-11",
+    "frequency_basis": "editorial_practical_utility_not_measured_corpus",
+    "native_burmese_final_review": false,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}

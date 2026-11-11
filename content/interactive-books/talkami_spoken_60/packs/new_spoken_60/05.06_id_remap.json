@@ -1,0 +1,423 @@
+{
+  "theme_id": "05.06",
+  "original_candidates": 76,
+  "additional_candidates": 64,
+  "current_main": 83,
+  "mapping": [
+    {
+      "source_ref": "user_original_05.06.01_O001",
+      "id": "05.06.01-S001",
+      "text": "我想退货。"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O002",
+      "id": "05.06.01-S002",
+      "text": "这个能退吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N03",
+      "id": "05.06.01-S003",
+      "text": "和描述的不一样。"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O007",
+      "id": "05.06.01-S004",
+      "text": "这个有质量问题。"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N04",
+      "id": "05.06.01-S005",
+      "text": "收到的时候就是坏的。"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O006",
+      "id": "05.06.01-S006",
+      "text": "型号买错了。"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O009",
+      "id": "05.06.01-S007",
+      "text": "尺码不合适。"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N02",
+      "id": "05.06.01-S008",
+      "text": "买重了。"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N01",
+      "id": "05.06.01-S009",
+      "text": "我不想要了。"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N07",
+      "id": "05.06.01-S010",
+      "text": "我要全额退款。"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N08",
+      "id": "05.06.01-S011",
+      "text": "我只退这一件。"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O003",
+      "id": "05.06.01-S012",
+      "text": "小票在这里。"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O010",
+      "id": "05.06.01-S013",
+      "text": "没小票还能退吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O011",
+      "id": "05.06.01-S014",
+      "text": "几天内可以退？"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O015",
+      "id": "05.06.01-S015",
+      "text": "包装拆了还能退吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O018",
+      "id": "05.06.01-S016",
+      "text": "还没用过，可以退吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O020",
+      "id": "05.06.01-S017",
+      "text": "退货要怎么操作？"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N10",
+      "id": "05.06.01-S018",
+      "text": "退货运费谁出？"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N09",
+      "id": "05.06.01-S019",
+      "text": "怎么寄回去？"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N13",
+      "id": "05.06.01-S020",
+      "text": "有人上门取件吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N14",
+      "id": "05.06.01-S021",
+      "text": "可以到店退吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.01_O021",
+      "id": "05.06.01-S022",
+      "text": "退货要带原包装吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N12",
+      "id": "05.06.01-S023",
+      "text": "退货码在哪儿看？"
+    },
+    {
+      "source_ref": "user_addition_05.06.01_N18",
+      "id": "05.06.01-S024",
+      "text": "寄出以后把快递单号发给你。"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O001",
+      "id": "05.06.02-S001",
+      "text": "我想换一个。"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O021",
+      "id": "05.06.02-S002",
+      "text": "我想换个颜色。"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O006",
+      "id": "05.06.02-S003",
+      "text": "能换同款吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O022",
+      "id": "05.06.02-S004",
+      "text": "能直接换个新的吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O005",
+      "id": "05.06.02-S005",
+      "text": "刚买就坏了。"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N01",
+      "id": "05.06.02-S006",
+      "text": "这个有瑕疵。"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N03",
+      "id": "05.06.02-S007",
+      "text": "这个用不了。"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O007",
+      "id": "05.06.02-S008",
+      "text": "要补差价吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O011",
+      "id": "05.06.02-S009",
+      "text": "换贵的要补多少？"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N06",
+      "id": "05.06.02-S010",
+      "text": "换便宜的会退差价吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O008",
+      "id": "05.06.02-S011",
+      "text": "没货怎么换？"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O009",
+      "id": "05.06.02-S012",
+      "text": "换货要等多久？"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O015",
+      "id": "05.06.02-S013",
+      "text": "只能换同价位的吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N05",
+      "id": "05.06.02-S014",
+      "text": "能换同价位的别的款吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N07",
+      "id": "05.06.02-S015",
+      "text": "换货期限是几天？"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N08",
+      "id": "05.06.02-S016",
+      "text": "没小票能换吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N09",
+      "id": "05.06.02-S017",
+      "text": "可以寄回来换吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N10",
+      "id": "05.06.02-S018",
+      "text": "换货运费谁出？"
+    },
+    {
+      "source_ref": "user_addition_05.06.02_N13",
+      "id": "05.06.02-S019",
+      "text": "换的货能直接寄到家吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.02_O010",
+      "id": "05.06.02-S020",
+      "text": "这个型号可以换吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O001",
+      "id": "05.06.03-S001",
+      "text": "什么时候退款？"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O002",
+      "id": "05.06.03-S002",
+      "text": "多久能到账？"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O003",
+      "id": "05.06.03-S003",
+      "text": "能查一下退款进度吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O004",
+      "id": "05.06.03-S004",
+      "text": "已经退款了吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N03",
+      "id": "05.06.03-S005",
+      "text": "我这边还没收到退款。"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O006",
+      "id": "05.06.03-S006",
+      "text": "退款怎么少了？"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O007",
+      "id": "05.06.03-S007",
+      "text": "钱会退到哪儿？"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O008",
+      "id": "05.06.03-S008",
+      "text": "会退到原来的银行卡吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N01",
+      "id": "05.06.03-S009",
+      "text": "退款到微信还是银行卡？"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N05",
+      "id": "05.06.03-S010",
+      "text": "退款失败了。"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N07",
+      "id": "05.06.03-S011",
+      "text": "能退到别的账户吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N08",
+      "id": "05.06.03-S012",
+      "text": "只退了一部分。"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N09",
+      "id": "05.06.03-S013",
+      "text": "剩下的什么时候退？"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N10",
+      "id": "05.06.03-S014",
+      "text": "退款要扣手续费吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N11",
+      "id": "05.06.03-S015",
+      "text": "退款单号发我一下。"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N14",
+      "id": "05.06.03-S016",
+      "text": "超时还没到账怎么办？"
+    },
+    {
+      "source_ref": "user_addition_05.06.03_N15",
+      "id": "05.06.03-S017",
+      "text": "能加急处理吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.03_O014",
+      "id": "05.06.03-S018",
+      "text": "银行卡换了还能退款吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O001",
+      "id": "05.06.04-S001",
+      "text": "这个还在保修期内吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O002",
+      "id": "05.06.04-S002",
+      "text": "我想拿这个去修一下。"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O003",
+      "id": "05.06.04-S003",
+      "text": "才用了两天就坏了。"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O006",
+      "id": "05.06.04-S004",
+      "text": "售后服务台在哪儿？"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O007",
+      "id": "05.06.04-S005",
+      "text": "维修要收费吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O009",
+      "id": "05.06.04-S006",
+      "text": "维修要多久？"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O010",
+      "id": "05.06.04-S007",
+      "text": "修不好能换新吗？"
+    },
+    {
+      "source_ref": "user_original_05.06.04_O012",
+      "id": "05.06.04-S008",
+      "text": "哪些情况不保修？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N01",
+      "id": "05.06.04-S009",
+      "text": "保修卡在哪儿？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N02",
+      "id": "05.06.04-S010",
+      "text": "没发票能保修吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N03",
+      "id": "05.06.04-S011",
+      "text": "保修期从哪天开始算？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N04",
+      "id": "05.06.04-S012",
+      "text": "人为损坏也保修吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N05",
+      "id": "05.06.04-S013",
+      "text": "进水了能修吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N06",
+      "id": "05.06.04-S014",
+      "text": "摔坏了还保修吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N07",
+      "id": "05.06.04-S015",
+      "text": "换过零件还保修吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N08",
+      "id": "05.06.04-S016",
+      "text": "维修进度怎么查？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N09",
+      "id": "05.06.04-S017",
+      "text": "修好了吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N10",
+      "id": "05.06.04-S018",
+      "text": "什么时候能取？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N11",
+      "id": "05.06.04-S019",
+      "text": "能上门维修吗？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N16",
+      "id": "05.06.04-S020",
+      "text": "取机要带什么？"
+    },
+    {
+      "source_ref": "user_addition_05.06.04_N12",
+      "id": "05.06.04-S021",
+      "text": "维修期间有备用机吗？"
+    }
+  ]
+}
