@@ -1,0 +1,1131 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "04.07",
+  "theme_title": "外卖取餐",
+  "theme_title_my": "အစားအစာမှာယူပို့ဆောင်ခြင်းနှင့် လာယူခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 55,
+  "original_count": 46,
+  "added_count": 9,
+  "note": "用户原稿74句，按外卖下单、骑手联系、超时、少送错送等场景精选；将大量骑手/客服说明转为怎么回，少量补齐“送达但未收到”“外卖柜”“平台客服”等高频情景。修改无歧义译文，中文、缅语做初审，仍待母语终审。",
+  "source_counts": {
+    "original_main": 74,
+    "retained_original": 46,
+    "editorial_added": 9
+  },
+  "scenes": [
+    {
+      "id": "04.07.01",
+      "title": "下单备注与修改信息",
+      "title_my": "အော်ဒါမှာချိန် မှတ်ချက်ရေးခြင်းနှင့် အချက်အလက်ပြင်ခြင်း",
+      "phrase_count": 16,
+      "phrases": [
+        {
+          "id": "04.07.01-S001",
+          "text": "收货地址就填这个。",
+          "meaning_my": "ပို့ရမယ့် လိပ်စာကို ဒါပဲ ဖြည့်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S002",
+          "text": "放门口就行。",
+          "meaning_my": "တံခါးရှေ့မှာပဲ ထားပေးပါ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.07.01-S002_alt01",
+              "text": "麻烦放门口。",
+              "meaning_my": "တံခါးရှေ့မှာ ထားပေးပါဦး။"
+            }
+          ],
+          "source_ref": "user_original_04.07.01_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S003",
+          "text": "到了给我打电话。",
+          "meaning_my": "ရောက်ရင် ဖုန်းဆက်ပေးပါ။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.07.01-S003_alt01",
+              "text": "送到了打个电话。",
+              "meaning_my": "ပို့ရောက်ရင် ဖုန်းတစ်ချက် ဆက်ပေးပါ။"
+            }
+          ],
+          "source_ref": "user_original_04.07.01_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S004",
+          "text": "不要打电话，发消息就行。",
+          "meaning_my": "ဖုန်းမဆက်ပါနဲ့၊ စာပဲ ပို့ပေးပါ။",
+          "replies": [
+            {
+              "id": "04.07.01-S004_reply01",
+              "text": "好，我到了给您发消息。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ရောက်ရင် စာပို့ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S005",
+          "text": "不用餐具。",
+          "meaning_my": "ဇွန်းနဲ့တူ မလိုဘူး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.07.01-S005_alt01",
+              "text": "不需要筷子和勺子。",
+              "meaning_my": "တူနဲ့ ဇွန်း မလိုပါဘူး။"
+            }
+          ],
+          "source_ref": "user_original_04.07.01_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S006",
+          "text": "备注不要辣。",
+          "meaning_my": "မှတ်ချက်မှာ အစပ်မထည့်ဖို့ ရေးပေးပါ။",
+          "replies": [
+            {
+              "id": "04.07.01-S006_reply01",
+              "text": "好的，我帮您备注不要辣。",
+              "meaning_my": "ဟုတ်ကဲ့၊ အစပ်မထည့်ဖို့ မှတ်ချက်ရေးပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "外卖“备注”是给商家或骑手看的要求，不保证商家一定能按要求改；对食物过敏应另外明确确认配料。",
+              "text_my": "အော်ဒါမှာတဲ့ “备注” က ဆိုင် ဒါမှမဟုတ် ပို့ဆောင်သူအတွက် မှတ်ချက်ပါ။ မှတ်ချက်အတိုင်း လုပ်ပေးမယ်လို့ အမြဲ မသေချာဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.01-S007",
+          "text": "汤和饭分开装。",
+          "meaning_my": "ဟင်းရည်နဲ့ ထမင်းကို သီးသန့် ခွဲထုပ်ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S008",
+          "text": "餐具要两份。",
+          "meaning_my": "ဇွန်းနဲ့တူ နှစ်စုံ လိုတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S009",
+          "text": "能改收货地址吗？",
+          "meaning_my": "ပို့ရမယ့် လိပ်စာ ပြောင်းလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.07.01-S009_reply01",
+              "text": "我先查一下还能不能改。",
+              "meaning_my": "လိပ်စာ ပြောင်းလို့ရသေးလား အရင် စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "商家接单或骑手开始配送后，地址可能无法直接修改，应尽早联系商家或平台客服确认。",
+              "text_my": "ဆိုင်က အော်ဒါလက်ခံပြီးရင်၊ ပို့ဆောင်မှုစပြီးရင် လိပ်စာကို တိုက်ရိုက် ပြောင်းလို့မရနိုင်ဘူး။ ဆိုင်နဲ့ အကူအညီဌာနကို အမြန် ဆက်သွယ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.01-S010",
+          "text": "我把地址填错了。",
+          "meaning_my": "လိပ်စာ မှားဖြည့်မိသွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O020",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S011",
+          "text": "备注现在还能改吗？",
+          "meaning_my": "မှတ်ချက်ကို အခု ပြင်လို့ရသေးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S012",
+          "text": "商家接单了吗？",
+          "meaning_my": "ဆိုင်က အော်ဒါ လက်ခံပြီးပြီလား။",
+          "replies": [
+            {
+              "id": "04.07.01-S012_reply01",
+              "text": "已经接单，正在做了。",
+              "meaning_my": "ဆိုင်က အော်ဒါလက်ခံပြီး ချက်နေပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S013",
+          "text": "这个订单还能取消吗？",
+          "meaning_my": "ဒီအော်ဒါကို ဖျက်လို့ရသေးလား။",
+          "replies": [
+            {
+              "id": "04.07.01-S013_reply01",
+              "text": "已经开始做了，我帮您问一下。",
+              "meaning_my": "စချက်နေပြီ၊ ဖျက်လို့ရမရ မေးပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "取消订单不等于一定获得全额退款；是否可以取消及费用处理取决于订单状态和平台规则。",
+              "text_my": "အော်ဒါဖျက်လိုက်တာနဲ့ ငွေအပြည့် ပြန်ရမယ်လို့ မဆိုလိုဘူး။ အော်ဒါအခြေအနေနဲ့ ပလက်ဖောင်းစည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.01-S014",
+          "text": "商家能看到我的备注吗？",
+          "meaning_my": "ကျွန်တော် ရေးထားတဲ့ မှတ်ချက်ကို ဆိုင်က မြင်ရလား။",
+          "replies": [
+            {
+              "id": "04.07.01-S014_reply01",
+              "text": "看得到，我帮您再确认一下。",
+              "meaning_my": "မြင်ရပါတယ်၊ ထပ်ပြီး သေချာ စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S015",
+          "text": "下单后还能加一份米饭吗？",
+          "meaning_my": "အော်ဒါတင်ပြီးမှ ထမင်းတစ်ပွဲ ထပ်မှာလို့ရသေးလား။",
+          "replies": [
+            {
+              "id": "04.07.01-S015_reply01",
+              "text": "我先问一下商家能不能加。",
+              "meaning_my": "ဆိုင်မှာ ထပ်မှာလို့ရမရ မေးပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.01_O018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.01-S016",
+          "text": "请送到一楼前台。",
+          "meaning_my": "ပထမထပ်က ရှေ့ကောင်တာကို ပို့ပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.01_E01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "04.07.02",
+      "title": "联系骑手与碰面",
+      "title_my": "ပို့ဆောင်သူကို ဆက်သွယ်ခြင်းနှင့် တွေ့ဆုံယူခြင်း",
+      "phrase_count": 14,
+      "phrases": [
+        {
+          "id": "04.07.02-S001",
+          "text": "我在楼下。",
+          "meaning_my": "ကျွန်တော် အောက်ထပ်မှာ ရှိနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S002",
+          "text": "我马上下来拿。",
+          "meaning_my": "အခု ဆင်းယူလိုက်မယ်။",
+          "replies": [
+            {
+              "id": "04.07.02-S002_reply01",
+              "text": "好，我在门口等你。",
+              "meaning_my": "ဟုတ်ပြီ၊ တံခါးပေါက်မှာ စောင့်နေမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.07.02-S002_alt01",
+              "text": "我这就下楼。",
+              "meaning_my": "အခု အောက်ဆင်းလာမယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.07.02_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S003",
+          "text": "你在哪个门？",
+          "meaning_my": "ဘယ်တံခါးပေါက်မှာ ရှိနေလဲ။",
+          "replies": [
+            {
+              "id": "04.07.02-S003_reply01",
+              "text": "我在东门，不在南门。",
+              "meaning_my": "အရှေ့ဘက်တံခါးပေါက်မှာပါ၊ တောင်ဘက်မှာ မဟုတ်ဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.07.02-S003_alt01",
+              "text": "你在哪个入口？",
+              "meaning_my": "ဘယ်ဝင်ပေါက်မှာ ရှိနေလဲ။"
+            }
+          ],
+          "source_ref": "user_original_04.07.02_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S004",
+          "text": "我找不到你。",
+          "meaning_my": "ခင်ဗျားကို ရှာမတွေ့ဘူး။",
+          "replies": [
+            {
+              "id": "04.07.02-S004_reply01",
+              "text": "我就在保安亭旁边。",
+              "meaning_my": "လုံခြုံရေးဂိတ်ဘေးမှာပဲ ရှိနေတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S005",
+          "text": "我到门口了。",
+          "meaning_my": "တံခါးပေါက်နား ရောက်ပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S006",
+          "text": "我在东门，穿黑色衣服。",
+          "meaning_my": "အရှေ့ဘက် တံခါးပေါက်မှာပါ၊ အနက်ရောင်အင်္ကျီ ဝတ်ထားတယ်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "04.07.02-S006_alt01",
+              "text": "我在东门，不在南门。",
+              "meaning_my": "အရှေ့ဘက်တံခါးပေါက်မှာပါ၊ တောင်ဘက်မှာ မဟုတ်ဘူး။"
+            }
+          ],
+          "source_ref": "user_original_04.07.02_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S007",
+          "text": "你进不来就放前台。",
+          "meaning_my": "အထဲဝင်လို့ မရရင် ရှေ့ကောင်တာမှာ ထားပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S008",
+          "text": "外卖放在哪儿了？",
+          "meaning_my": "ပို့လာတဲ့ အစားအစာကို ဘယ်မှာ ထားခဲ့လဲ။",
+          "replies": [
+            {
+              "id": "04.07.02-S008_reply01",
+              "text": "放在前台了。",
+              "meaning_my": "ရှေ့ကောင်တာမှာ ထားခဲ့တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S009",
+          "text": "你能看到我的定位吗？",
+          "meaning_my": "ကျွန်တော့် တည်နေရာကို မြင်ရလား။",
+          "replies": [
+            {
+              "id": "04.07.02-S009_reply01",
+              "text": "看得见，我马上过去。",
+              "meaning_my": "မြင်ရတယ်၊ အခု လာခဲ့မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“定位”是手机地图显示或分享的位置。地址与地图定位不一致时，应再次确认具体入口及楼号。",
+              "text_my": "“定位” က ဖုန်းမြေပုံမှာ ပြထားတဲ့ တည်နေရာပါ။ လိပ်စာနဲ့ မကိုက်ရင် ဝင်ပေါက်နဲ့ အဆောက်အအုံနံပါတ်ကို ထပ်အတည်ပြုပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.02-S010",
+          "text": "我就在保安亭旁边。",
+          "meaning_my": "လုံခြုံရေးဂိတ်ဘေးမှာပဲ ရှိနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S011",
+          "text": "能送到楼下吗？",
+          "meaning_my": "အဆောက်အအုံအောက်ထပ်အထိ ပို့ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.07.02-S011_reply01",
+              "text": "小区门口不让进，麻烦下来拿。",
+              "meaning_my": "အိမ်ရာဝင်ပေါက်က အထဲဝင်ခွင့်မပေးလို့ အောက်ဆင်းယူပေးပါဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.02_E01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S012",
+          "text": "你在几号楼？",
+          "meaning_my": "ဘယ်အဆောက်အအုံ နံပါတ်မှာ ရှိနေလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.02_E02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.02-S013",
+          "text": "可以放外卖柜里吗？",
+          "meaning_my": "အစားအစာယူတဲ့ လော့ကာထဲမှာ ထားပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.07.02-S013_reply01",
+              "text": "可以，放好后我发消息给你。",
+              "meaning_my": "ရပါတယ်၊ ထည့်ပြီးရင် စာပို့ပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.02_E03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "“外卖柜”是专门暂存送达餐食的柜子，有些地方需要凭码取餐；不等于快递柜或冰箱。",
+              "text_my": "“外卖柜” က ပို့လာတဲ့ အစားအစာကို ယာယီထားတဲ့ လော့ကာပါ။ တချို့နေရာတွေမှာ ကုဒ်နဲ့ သွားယူရတယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.02-S014",
+          "text": "放前台就行。",
+          "meaning_my": "ရှေ့ကောင်တာမှာပဲ ထားပေးပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.02_O019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "04.07.03",
+      "title": "催单与超时",
+      "title_my": "အော်ဒါနောက်ကျခြင်းနှင့် ပို့ဆောင်မှုအခြေအနေမေးခြင်း",
+      "phrase_count": 9,
+      "phrases": [
+        {
+          "id": "04.07.03-S001",
+          "text": "外卖还要多久到？",
+          "meaning_my": "မှာထားတဲ့ အစားအစာ နောက်ထပ် ဘယ်လောက်ကြာမှ ရောက်မလဲ။",
+          "replies": [
+            {
+              "id": "04.07.03-S001_reply01",
+              "text": "骑手在路上，快到了。",
+              "meaning_my": "ပို့ဆောင်သူ လမ်းမှာပါ၊ ရောက်ခါနီးပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.03_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.03-S002",
+          "text": "已经超时了。",
+          "meaning_my": "သတ်မှတ်ထားတဲ့ အချိန် ကျော်သွားပြီ။",
+          "replies": [
+            {
+              "id": "04.07.03-S002_reply01",
+              "text": "不好意思，我帮您催一下。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ လိုက်မေးပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.07.03-S002_alt01",
+              "text": "比预计时间晚了。",
+              "meaning_my": "ခန့်မှန်းထားတဲ့ အချိန်ထက် နောက်ကျနေပြီ။"
+            }
+          ],
+          "source_ref": "user_original_04.07.03_O002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“超时”表示超过预计或承诺时间；能否取消和赔付要以具体平台规则为准。",
+              "text_my": "“超时” က သတ်မှတ်ထားတဲ့အချိန် ကျော်သွားတာပါ။ အော်ဒါဖျက်ခြင်းနဲ့ လျော်ကြေးရခြင်းက သက်ဆိုင်ရာစည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.03-S003",
+          "text": "骑手到哪儿了？",
+          "meaning_my": "ပို့ဆောင်သူ အခု ဘယ်ရောက်နေပြီလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.03_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.03-S004",
+          "text": "商家出餐了吗？",
+          "meaning_my": "ဆိုင်က အစားအစာ ပြင်ပြီးပြီလား။",
+          "replies": [
+            {
+              "id": "04.07.03-S004_reply01",
+              "text": "商家刚做好，骑手正在取餐。",
+              "meaning_my": "ဆိုင်က ခုနကမှ ပြင်ပြီးတာ၊ ပို့ဆောင်သူ အခု သွားယူနေပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.03_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“出餐”指商家做好并准备交付餐食；“骑手取餐”指配送员取走，两者不是同一步。",
+              "text_my": "“出餐” က ဆိုင်က အစားအစာ ပြင်ပြီး ပေးဖို့ အသင့်ဖြစ်တာ၊ “取餐” က ပို့ဆောင်သူ လာယူတာပါ။ နှစ်ခု မတူဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.03-S005",
+          "text": "骑手是不是还没取餐？",
+          "meaning_my": "ပို့ဆောင်သူ အစားအစာ မယူရသေးဘူးလား။",
+          "replies": [
+            {
+              "id": "04.07.03-S005_reply01",
+              "text": "还没，商家还没做好。",
+              "meaning_my": "မယူရသေးဘူး၊ ဆိုင်က မပြင်ပြီးသေးဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.03_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.03-S006",
+          "text": "预计几点能送到？",
+          "meaning_my": "ခန့်မှန်း ဘယ်နှနာရီလောက် ရောက်မလဲ။",
+          "replies": [
+            {
+              "id": "04.07.03-S006_reply01",
+              "text": "预计六点半左右送到。",
+              "meaning_my": "ခန့်မှန်း ခြောက်နာရီခွဲလောက် ရောက်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.03_O014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.03-S007",
+          "text": "怎么一直显示配送中？",
+          "meaning_my": "ဘာလို့ ပို့ဆောင်နေဆဲလို့ပဲ ပြနေသေးတာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.03_E01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.03-S008",
+          "text": "能帮我联系骑手吗？",
+          "meaning_my": "ပို့ဆောင်သူကို ဆက်သွယ်ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.07.03-S008_reply01",
+              "text": "已经帮您联系过骑手了。",
+              "meaning_my": "ပို့ဆောင်သူကို ဆက်သွယ်ပေးထားပြီးပါပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.03_E02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.03-S009",
+          "text": "再晚的话可以取消吗？",
+          "meaning_my": "ဒီထက် နောက်ကျရင် အော်ဒါဖျက်လို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.07.03-S009_reply01",
+              "text": "我帮您确认取消规则。",
+              "meaning_my": "ဖျက်လို့ရမရ စည်းကမ်းကို စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.03_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "04.07.04",
+      "title": "少送错送与退款",
+      "title_my": "အစားအစာလျော့ပို့ခြင်း၊ မှားပို့ခြင်းနှင့် ငွေပြန်အမ်းခြင်း",
+      "phrase_count": 16,
+      "phrases": [
+        {
+          "id": "04.07.04-S001",
+          "text": "少送了一份。",
+          "meaning_my": "မှာထားတာထက် တစ်ပွဲ လျော့လာတယ်။",
+          "replies": [
+            {
+              "id": "04.07.04-S001_reply01",
+              "text": "我先查一下少了哪一份。",
+              "meaning_my": "ဘယ်တစ်ပွဲ လျော့နေလဲ အရင် စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.07.04-S001_alt01",
+              "text": "有一份没送到。",
+              "meaning_my": "မှာထားတာ တစ်ပွဲ မပါလာဘူး။"
+            }
+          ],
+          "source_ref": "user_original_04.07.04_O001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“少送了一份”表示本来要送多份，但实际少到了一份；不要译成命令“少送一份”。",
+              "text_my": "“少送了一份” က မှာထားတာထက် တစ်ပွဲ လျော့ရောက်လာတာပါ။ တစ်ပွဲ လျှော့ပို့ခိုင်းတဲ့ အမိန့် မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.04-S002",
+          "text": "外卖送错了。",
+          "meaning_my": "ပို့လာတဲ့ အစားအစာ မှားနေတယ်။",
+          "replies": [
+            {
+              "id": "04.07.04-S002_reply01",
+              "text": "不好意思，请拍张照片发我。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ ဓာတ်ပုံတစ်ပုံ ရိုက်ပြီး ပို့ပေးပါဦး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.07.04-S002_alt01",
+              "text": "送来的不是我点的。",
+              "meaning_my": "ပို့လာတာ ကျွန်တော် မှာထားတာ မဟုတ်ဘူး။"
+            }
+          ],
+          "source_ref": "user_original_04.07.04_O004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S003",
+          "text": "饮料没送。",
+          "meaning_my": "မှာထားတဲ့ သောက်စရာ မပါလာဘူး။",
+          "replies": [
+            {
+              "id": "04.07.04-S003_reply01",
+              "text": "我帮您问问能否补送或退款。",
+              "meaning_my": "ထပ်ပို့ပေးလို့ရမရ၊ ငွေပြန်အမ်းလို့ရမရ မေးပေးမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S004",
+          "text": "订单显示送达了，但我没收到。",
+          "meaning_my": "အော်ဒါမှာ ပို့ပြီးပြီလို့ ပြပေမဲ့ ကျွန်တော် မရသေးဘူး။",
+          "replies": [
+            {
+              "id": "04.07.04-S004_reply01",
+              "text": "我帮您核实骑手送到哪里了。",
+              "meaning_my": "ပို့ဆောင်သူ ဘယ်မှာ ထားခဲ့လဲ စစ်ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.04_E01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S005",
+          "text": "可以补送吗？",
+          "meaning_my": "လိုနေတဲ့ဟာကို ထပ်ပို့ပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.07.04-S005_reply01",
+              "text": "可以，我们给您补送。",
+              "meaning_my": "ရပါတယ်၊ လိုနေတဲ့ဟာကို ထပ်ပို့ပေးပါမယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“补送”是把漏送的餐品补送来；“退款”是退还钱款。处理方式、是否收费需向商家或平台确认。",
+              "text_my": "“补送” က မပါလာတဲ့ဟာကို ထပ်ပို့ပေးတာ၊ “退款” က ငွေပြန်အမ်းတာပါ။ ဘယ်လိုဖြေရှင်းမလဲဆိုတာ ဆိုင်နဲ့ ပလက်ဖောင်းကို မေးပါ။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.04-S006",
+          "text": "我要申请退款。",
+          "meaning_my": "ငွေပြန်အမ်းဖို့ လျှောက်ထားချင်တယ်။",
+          "replies": [
+            {
+              "id": "04.07.04-S006_reply01",
+              "text": "请上传问题照片。",
+              "meaning_my": "ပြဿနာဖြစ်တဲ့ အစားအစာပုံ တင်ပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "04.07.04-S006_alt01",
+              "text": "我想申请退钱。",
+              "meaning_my": "ငွေပြန်အမ်းဖို့ လျှောက်ချင်တယ်။"
+            }
+          ],
+          "source_ref": "user_original_04.07.04_O007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S007",
+          "text": "少送的那份能单独退款吗？",
+          "meaning_my": "မပါတဲ့ တစ်ပွဲဖိုးပဲ သီးသန့် ပြန်အမ်းပေးလို့ရမလား။",
+          "replies": [
+            {
+              "id": "04.07.04-S007_reply01",
+              "text": "可以只申请那一份的退款。",
+              "meaning_my": "မပါတဲ့ တစ်ပွဲဖိုးပဲ ပြန်အမ်းဖို့ လျှောက်လို့ရပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S008",
+          "text": "饮料洒了。",
+          "meaning_my": "သောက်စရာ ဖိတ်ကျသွားတယ်။",
+          "replies": [
+            {
+              "id": "04.07.04-S008_reply01",
+              "text": "先保留饮料和包装，拍照上传。",
+              "meaning_my": "သောက်စရာနဲ့ အထုပ်ကို အရင် သိမ်းထားပြီး ဓာတ်ပုံရိုက်တင်ပေးပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S009",
+          "text": "餐品被压坏了。",
+          "meaning_my": "ပို့လာတဲ့ အစားအစာ ဖိမိပြီး ပျက်စီးနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S010",
+          "text": "餐具少了一套。",
+          "meaning_my": "ဇွန်းနဲ့တူ တစ်စုံ လျော့နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S011",
+          "text": "商家一直没回复怎么办？",
+          "meaning_my": "ဆိုင်က အခုထိ စာမပြန်ဘူး၊ ဘယ်လိုလုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "04.07.04-S011_reply01",
+              "text": "可以联系平台客服处理。",
+              "meaning_my": "ပလက်ဖောင်းရဲ့ ဝန်ဆောင်မှုဌာနကို ဆက်သွယ်ပြီး ဖြေရှင်းခိုင်းနိုင်ပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S012",
+          "text": "能联系平台客服吗？",
+          "meaning_my": "ပလက်ဖောင်းရဲ့ ဝန်ဆောင်မှုဌာနကို ဆက်သွယ်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.04_E02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S013",
+          "text": "取消订单后多久能退款？",
+          "meaning_my": "အော်ဒါဖျက်ပြီး ဘယ်လောက်ကြာမှ ငွေပြန်ရမလဲ။",
+          "replies": [
+            {
+              "id": "04.07.04-S013_reply01",
+              "text": "具体到账时间以付款渠道为准。",
+              "meaning_my": "ငွေပြန်ရောက်မယ့် အချိန်က ငွေပေးချေမှုနည်းလမ်းပေါ် မူတည်ပါတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O018",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S014",
+          "text": "退款会原路退回吗？",
+          "meaning_my": "ငွေပေးခဲ့တဲ့ နည်းလမ်းအတိုင်းပဲ ပြန်အမ်းမှာလား။",
+          "replies": [
+            {
+              "id": "04.07.04-S014_reply01",
+              "text": "一般退回原来的付款渠道，具体以平台为准。",
+              "meaning_my": "များသောအားဖြင့် မူလငွေပေးချေခဲ့တဲ့ နည်းလမ်းအတိုင်း ပြန်အမ်းပေးတယ်၊ အသေးစိတ်က ပလက်ဖောင်းပေါ် မူတည်တယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“原路退回”是按原付款渠道退款，不等于骑手当面返还现金。退款到账时间按实际渠道核实。",
+              "text_my": "“原路退回” က မူလ ငွေပေးချေခဲ့တဲ့ နည်းလမ်းအတိုင်း ပြန်အမ်းတာပါ။ ပို့ဆောင်သူက ငွေသား လက်ငင်း ပြန်ပေးတာ မဟုတ်ပါဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "04.07.04-S015",
+          "text": "退款还没到账。",
+          "meaning_my": "ပြန်အမ်းတဲ့ငွေ အကောင့်ထဲ မရောက်သေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_new_04.07.04_E03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "04.07.04-S016",
+          "text": "送来的饭都凉了。",
+          "meaning_my": "ပို့လာတဲ့ ထမင်းတွေ အကုန် အေးနေပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_04.07.04_O020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 55,
+    "replies": 32,
+    "alternatives": 10,
+    "notes": 10,
+    "total_audio": 97
+  },
+  "core_words": [
+    {
+      "word": "外卖",
+      "meaning_my": "မှာယူပို့ဆောင်တဲ့ အစားအစာ",
+      "phrase_id": "04.07.03-S001"
+    },
+    {
+      "word": "骑手",
+      "meaning_my": "ပို့ဆောင်သူ",
+      "phrase_id": "04.07.03-S003"
+    },
+    {
+      "word": "备注",
+      "meaning_my": "မှတ်ချက်",
+      "phrase_id": "04.07.01-S006"
+    },
+    {
+      "word": "超时",
+      "meaning_my": "သတ်မှတ်ချိန် ကျော်ခြင်း",
+      "phrase_id": "04.07.03-S002"
+    },
+    {
+      "word": "退款",
+      "meaning_my": "ငွေပြန်အမ်း",
+      "phrase_id": "04.07.04-S006"
+    }
+  ],
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "date": "2026-11-11",
+    "frequency_method": "editorial_priority_not_corpus_statistics",
+    "my_native_final_review": false,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}
