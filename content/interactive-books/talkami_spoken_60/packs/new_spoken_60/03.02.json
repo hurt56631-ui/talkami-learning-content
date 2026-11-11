@@ -1,0 +1,2267 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "03.02",
+  "theme_title": "家务做饭",
+  "theme_title_my": "အိမ်မှုကိစ္စနှင့် ဟင်းချက်ခြင်း",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-11",
+  "phrase_count": 145,
+  "original_count": 91,
+  "added_count": 54,
+  "note": "以用户03.02原稿103句、建议补充85句为基础，按生活实用性人工精简排序。主句及部分扩展句译文已针对性调整；回复和类似说法按需配置，未配音。中缅语母语终审、中文拼音和缅文谐音终审仍待完成。",
+  "source_counts": {
+    "user_original": 103,
+    "user_suggested_additions": 85,
+    "selected_original_as_main": 91,
+    "selected_original_moved_to_reply": 8,
+    "selected_new_as_main": 53,
+    "editorial_new_as_main": 1,
+    "omitted_original": 4,
+    "omitted_suggested_additions": 32
+  },
+  "scenes": [
+    {
+      "id": "03.02.01",
+      "title": "打扫房间",
+      "title_my": "အခန်းသန့်ရှင်းရေးလုပ်ခြင်း",
+      "phrase_count": 33,
+      "phrases": [
+        {
+          "id": "03.02.01-S001",
+          "text": "我要打扫房间了。",
+          "meaning_my": "အခန်း သန့်ရှင်းရေးလုပ်တော့မယ်။",
+          "replies": [
+            {
+              "id": "03.02.01-S001_reply01",
+              "text": "好，我和你一起打扫。",
+              "meaning_my": "ကောင်းပြီ၊ အတူတူ သန့်ရှင်းရေးလုပ်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.01-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S002",
+          "text": "今天谁打扫？",
+          "meaning_my": "ဒီနေ့ ဘယ်သူ သန့်ရှင်းရေးလုပ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S023",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S003",
+          "text": "今天轮到你打扫了。",
+          "meaning_my": "ဒီနေ့ မင်း သန့်ရှင်းရေးလုပ်ရမယ့် အလှည့်နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S004",
+          "text": "地上很脏。",
+          "meaning_my": "ကြမ်းပြင် အရမ်းညစ်ပတ်နေတယ်။",
+          "replies": [
+            {
+              "id": "03.02.01-S004_reply01",
+              "text": "那我先把东西收起来。",
+              "meaning_my": "ဒါဆို ပစ္စည်းတွေ အရင် သိမ်းလိုက်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.02.01-S004_alt01",
+              "text": "地板太脏了。",
+              "meaning_my": "ကြမ်းပြင် အရမ်းညစ်ပတ်နေတယ်။"
+            }
+          ],
+          "source_ref": "03.02.01-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S005",
+          "text": "先扫地。",
+          "meaning_my": "အရင် တံမြက်စည်းလှည်းလိုက်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.02.01-S005_alt01",
+              "text": "先把地扫一下。",
+              "meaning_my": "ကြမ်းပြင်ကို အရင် တံမြက်စည်းလှည်းလိုက်။"
+            }
+          ],
+          "source_ref": "03.02.01-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“扫地”用扫把清除灰尘杂物；“拖地”用拖把擦地。通常先扫再拖。",
+              "text_my": "“扫地” က တံမြက်စည်းလှည်းတာ၊ “拖地” က ကြမ်းတိုက်တာပါ။ ပုံမှန် အရင်လှည်းပြီးမှ တိုက်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.01-S006",
+          "text": "再拖地。",
+          "meaning_my": "ပြီးမှ ကြမ်းတိုက်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S007",
+          "text": "扫把放哪儿了？",
+          "meaning_my": "တံမြက်စည်း ဘယ်မှာထားလဲ။",
+          "replies": [
+            {
+              "id": "03.02.01-S007_reply01",
+              "text": "扫把就在门后。",
+              "meaning_my": "တံမြက်စည်းက တံခါးနောက်မှာပဲ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.01-S024",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S008",
+          "text": "拖把在哪儿？",
+          "meaning_my": "ကြမ်းတိုက်တံ ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.02.01-S008_reply01",
+              "text": "在卫生间旁边。",
+              "meaning_my": "အိမ်သာဘေးမှာ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.01-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S009",
+          "text": "抹布在哪儿？",
+          "meaning_my": "သန့်ရှင်းရေးသုံး အဝတ်စ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S010",
+          "text": "垃圾袋在哪儿？",
+          "meaning_my": "အမှိုက်အိတ် ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补09",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S011",
+          "text": "垃圾先倒掉。",
+          "meaning_my": "အမှိုက် အရင် သွားပစ်လိုက်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.02.01-S011_alt01",
+              "text": "先把垃圾扔了。",
+              "meaning_my": "အမှိုက် အရင် သွားပစ်လိုက်။"
+            }
+          ],
+          "source_ref": "03.02.01-S019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S012",
+          "text": "垃圾顺手带下去。",
+          "meaning_my": "အောက်ဆင်းရင်း အမှိုက်လည်း ယူသွားပေးနော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S025",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S013",
+          "text": "先把垃圾装进袋子里。",
+          "meaning_my": "အမှိုက်တွေ အရင် အိတ်ထဲ ထည့်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S014",
+          "text": "桌子也要擦。",
+          "meaning_my": "စားပွဲလည်း သုတ်ရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S015",
+          "text": "这里要擦一下。",
+          "meaning_my": "ဒီနေရာကို နည်းနည်း သုတ်ပေးဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S016",
+          "text": "再擦一遍。",
+          "meaning_my": "နောက်တစ်ခါ ထပ်သုတ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S017",
+          "text": "这里没扫干净。",
+          "meaning_my": "ဒီနေရာကို သေချာ မလှည်းရသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S018",
+          "text": "地板还没干，先别踩。",
+          "meaning_my": "ကြမ်းပြင် မခြောက်သေးဘူး၊ မနင်းနဲ့ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S026",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S019",
+          "text": "打扫完了。",
+          "meaning_my": "သန့်ရှင်းရေး လုပ်ပြီးပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S009",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S020",
+          "text": "客厅也要打扫吗？",
+          "meaning_my": "ဧည့်ခန်းလည်း သန့်ရှင်းရေး လုပ်ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S021",
+          "text": "卫生间还没打扫。",
+          "meaning_my": "အိမ်သာကို သန့်ရှင်းရေး မလုပ်ရသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S022",
+          "text": "床底下也扫一下。",
+          "meaning_my": "ကုတင်အောက်လည်း လှည်းပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S023",
+          "text": "窗户也擦一下吧。",
+          "meaning_my": "ပြတင်းပေါက်လည်း သုတ်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S024",
+          "text": "这里有水，先擦干。",
+          "meaning_my": "ဒီမှာ ရေစိုနေတယ်၊ အရင် ခြောက်အောင် သုတ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-S012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S025",
+          "text": "拖把用完放哪儿？",
+          "meaning_my": "ကြမ်းတိုက်တံ သုံးပြီးရင် ဘယ်မှာထားရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.01-S025_reply01",
+              "text": "放阳台吧。",
+              "meaning_my": "ဝရန်တာမှာ ထားလိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.01-S015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S026",
+          "text": "灰尘好多。",
+          "meaning_my": "ဖုန်တွေ အများကြီးပဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S027",
+          "text": "角落也要扫。",
+          "meaning_my": "ထောင့်တွေကိုလည်း လှည်းပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S028",
+          "text": "开窗通通风。",
+          "meaning_my": "ပြတင်းပေါက်ဖွင့်ပြီး လေဝင်လေထွက် ကောင်းအောင် လုပ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S029",
+          "text": "地毯吸一下。",
+          "meaning_my": "ကော်ဇောကို ဖုန်စုပ်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S030",
+          "text": "这里还有头发。",
+          "meaning_my": "ဒီမှာ ဆံပင်တွေ ကျန်နေသေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S031",
+          "text": "书架上的灰擦一下。",
+          "meaning_my": "စာအုပ်စင်ပေါ်က ဖုန်တွေ သုတ်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S032",
+          "text": "拖把拧干一点。",
+          "meaning_my": "ကြမ်းတိုက်တံကို နည်းနည်း ပိုညှစ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补15",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.01-S033",
+          "text": "打扫完记得洗手。",
+          "meaning_my": "သန့်ရှင်းရေးလုပ်ပြီးရင် လက်ဆေးဖို့ မမေ့နဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.01-补16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.02.02",
+      "title": "洗衣晾衣",
+      "title_my": "အဝတ်လျှော်ခြင်းနှင့် လှန်းခြင်း",
+      "phrase_count": 28,
+      "phrases": [
+        {
+          "id": "03.02.02-S001",
+          "text": "我要洗衣服。",
+          "meaning_my": "အဝတ်လျှော်ဦးမယ်။",
+          "replies": [
+            {
+              "id": "03.02.02-S001_reply01",
+              "text": "好，洗衣液在这儿。",
+              "meaning_my": "ကောင်းပြီ၊ အဝတ်လျှော်ဆပ်ပြာရည် ဒီမှာရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.02-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S002",
+          "text": "洗衣机怎么用？",
+          "meaning_my": "အဝတ်လျှော်စက် ဘယ်လိုသုံးရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.02-S002_reply01",
+              "text": "按这个键就开始洗了。",
+              "meaning_my": "ဒီခလုတ်နှိပ်လိုက်ရင် လျှော်တာ စတော့မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.02.02-S002_alt01",
+              "text": "这台洗衣机怎么操作？",
+              "meaning_my": "ဒီအဝတ်လျှော်စက်ကို ဘယ်လိုသုံးရမလဲ။"
+            }
+          ],
+          "source_ref": "03.02.02-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S003",
+          "text": "洗衣液倒哪儿？",
+          "meaning_my": "အဝတ်လျှော်ဆပ်ပြာရည် ဘယ်နေရာမှာ ထည့်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.02-S003_reply01",
+              "text": "倒在这个格子里。",
+              "meaning_my": "ဒီအကန့်ထဲ ထည့်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.02-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "洗衣液是洗衣服的清洁液；洗洁精是洗碗用的。洗衣机各型号投放位置可能不同。",
+              "text_my": "“洗衣液” က အဝတ်လျှော်ဆပ်ပြာရည်၊ “洗洁精” က ပန်းကန်ဆေးဆပ်ပြာရည်ပါ။ စက်အမျိုးအစားပေါ်မူတည်ပြီး ထည့်ရမယ့်နေရာ ကွာနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.02-S004",
+          "text": "洗衣液放多少？",
+          "meaning_my": "အဝတ်လျှော်ဆပ်ပြာရည် ဘယ်လောက်ထည့်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补04",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S005",
+          "text": "衣架在哪儿？",
+          "meaning_my": "အင်္ကျီချိတ် ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.02.02-S005_reply01",
+              "text": "衣架在阳台。",
+              "meaning_my": "အင်္ကျီချိတ်တွေ ဝရန်တာမှာရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.02-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S006",
+          "text": "衣服晾哪儿？",
+          "meaning_my": "အဝတ်တွေ ဘယ်မှာလှန်းရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.02-S006_reply01",
+              "text": "晾在阳台上。",
+              "meaning_my": "ဝရန်တာမှာ လှန်းလိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.02-S013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S007",
+          "text": "帮我晾一下衣服。",
+          "meaning_my": "အဝတ်တွေ လှန်းပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S008",
+          "text": "衣服洗好了。",
+          "meaning_my": "အဝတ်တွေ လျှော်ပြီးပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S009",
+          "text": "衣服还没干。",
+          "meaning_my": "အဝတ်တွေ မခြောက်သေးဘူး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.02.02-S009_alt01",
+              "text": "衣服还没晾干。",
+              "meaning_my": "အဝတ်တွေ မခြောက်သေးဘူး။"
+            }
+          ],
+          "source_ref": "03.02.02-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S010",
+          "text": "外面下雨了，快收衣服。",
+          "meaning_my": "အပြင်မှာ မိုးရွာနေပြီ၊ အဝတ်တွေ မြန်မြန် သိမ်းလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S011",
+          "text": "深色和浅色要分开洗吗？",
+          "meaning_my": "အရောင်ရင့်တဲ့အဝတ်နဲ့ အရောင်ဖျော့တဲ့အဝတ်ကို ခွဲလျှော်ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S012",
+          "text": "这件要手洗吗？",
+          "meaning_my": "ဒီတစ်ထည်ကို လက်နဲ့ လျှော်ရမလား။",
+          "replies": [
+            {
+              "id": "03.02.02-S012_reply01",
+              "text": "对，这件不能机洗。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒီတစ်ထည်ကို စက်နဲ့ လျှော်လို့မရဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.02-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S013",
+          "text": "这件要单独洗。",
+          "meaning_my": "ဒီတစ်ထည်ကို သီးသန့် လျှော်ရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S014",
+          "text": "这件不能机洗。",
+          "meaning_my": "ဒီတစ်ထည်ကို စက်နဲ့ လျှော်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.02.02-S014_alt01",
+              "text": "这件不能用洗衣机洗。",
+              "meaning_my": "ဒီတစ်ထည်ကို အဝတ်လျှော်စက်နဲ့ လျှော်လို့မရဘူး။"
+            }
+          ],
+          "source_ref": "03.02.02-S017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S015",
+          "text": "床单要单独洗吗？",
+          "meaning_my": "အိပ်ရာခင်းကို သီးသန့် လျှော်ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S016",
+          "text": "衣服洗完记得拿出来。",
+          "meaning_my": "လျှော်ပြီးရင် အဝတ်တွေ စက်ထဲက ထုတ်ဖို့ မမေ့နဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S016",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S017",
+          "text": "衣服干了可以收了。",
+          "meaning_my": "အဝတ်တွေ ခြောက်ပြီ၊ သိမ်းလို့ရပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-S012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S018",
+          "text": "这件衣服掉色。",
+          "meaning_my": "ဒီအဝတ်က အရောင်ကျတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“掉色”是颜色褪去或染到其他衣物；“缩水”是洗后尺寸缩小，意思不同。",
+              "text_my": "“掉色” က အရောင်ကျတာ၊ တခြားအဝတ်ကို အရောင်စွန်းနိုင်တာပါ။ “缩水” က လျှော်ပြီး အဝတ်ကျုံ့သွားတာဖြစ်လို့ မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.02-S019",
+          "text": "这件要翻过来洗。",
+          "meaning_my": "ဒီတစ်ထည်ကို အတွင်းဘက်လှန်ပြီး လျှော်ရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S020",
+          "text": "领口袖口搓一下。",
+          "meaning_my": "ကော်လာနဲ့ အင်္ကျီလက်အစွန်းတွေကို နည်းနည်း ပွတ်ဆေးလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S021",
+          "text": "洗衣机里还有衣服。",
+          "meaning_my": "အဝတ်လျှော်စက်ထဲမှာ အဝတ်တွေ ကျန်သေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S022",
+          "text": "这件不能暴晒。",
+          "meaning_my": "ဒီတစ်ထည်ကို နေပူပြင်းပြင်းအောက်မှာ မလှန်းရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S023",
+          "text": "衣服上有污渍。",
+          "meaning_my": "အဝတ်မှာ အစွန်းအထင်း ရှိတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S024",
+          "text": "用热水还是冷水？",
+          "meaning_my": "ရေနွေးနဲ့ လျှော်ရမလား၊ ရေအေးနဲ့လား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S025",
+          "text": "有烘干机吗？",
+          "meaning_my": "အဝတ်အခြောက်ခံစက် ရှိလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S026",
+          "text": "衣服缩水了。",
+          "meaning_my": "အဝတ် ကျုံ့သွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S027",
+          "text": "洗衣液放多了。",
+          "meaning_my": "အဝတ်လျှော်ဆပ်ပြာရည် များသွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.02-S028",
+          "text": "这件还要再洗一遍。",
+          "meaning_my": "ဒီတစ်ထည်ကို ထပ်လျှော်ရဦးမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.02-补16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.02.03",
+      "title": "做饭备菜",
+      "title_my": "ဟင်းချက်ခြင်းနှင့် ချက်ပြုတ်ရန် ပြင်ဆင်ခြင်း",
+      "phrase_count": 34,
+      "phrases": [
+        {
+          "id": "03.02.03-S001",
+          "text": "我来做饭。",
+          "meaning_my": "ဟင်းချက်လိုက်မယ်။",
+          "replies": [
+            {
+              "id": "03.02.03-S001_reply01",
+              "text": "那我帮你洗菜。",
+              "meaning_my": "ဒါဆို ဟင်းသီးဟင်းရွက်တွေ ကူဆေးပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.02.03-S001_alt01",
+              "text": "今天我做饭。",
+              "meaning_my": "ဒီနေ့ ဟင်းချက်လိုက်မယ်။"
+            }
+          ],
+          "source_ref": "03.02.03-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S002",
+          "text": "先把菜洗一下。",
+          "meaning_my": "ဟင်းသီးဟင်းရွက်တွေ အရင် ဆေးလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S003",
+          "text": "我洗菜，你切菜。",
+          "meaning_my": "ဟင်းသီးဟင်းရွက်တွေ ဆေးလိုက်မယ်၊ လှီးပေးနော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S004",
+          "text": "这个熟了吗？",
+          "meaning_my": "ဒါ ကျက်ပြီလား။",
+          "replies": [
+            {
+              "id": "03.02.03-S004_reply01",
+              "text": "熟了，可以吃了。",
+              "meaning_my": "ကျက်ပြီ၊ စားလို့ရပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.03-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S005",
+          "text": "这个还没熟。",
+          "meaning_my": "ဒါ မကျက်သေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S006",
+          "text": "这个煮多久？",
+          "meaning_my": "ဒါ ဘယ်လောက်ကြာကြာ ပြုတ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.03-S006_reply01",
+              "text": "煮十分钟左右。",
+              "meaning_my": "ဆယ်မိနစ်လောက် ပြုတ်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.03-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S007",
+          "text": "水开了吗？",
+          "meaning_my": "ရေ ဆူပြီလား။",
+          "replies": [
+            {
+              "id": "03.02.03-S007_reply01",
+              "text": "开了，可以放菜了。",
+              "meaning_my": "ရေဆူပြီ၊ ဟင်းသီးဟင်းရွက်တွေ ထည့်လို့ရပြီ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.02.03-S007_alt01",
+              "text": "水烧开了吗？",
+              "meaning_my": "ရေ ဆူပြီလား။"
+            }
+          ],
+          "source_ref": "03.02.03-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S008",
+          "text": "油热了吗？",
+          "meaning_my": "ဆီ ပူပြီလား။",
+          "replies": [
+            {
+              "id": "03.02.03-S008_reply01",
+              "text": "热了，可以下锅了。",
+              "meaning_my": "ဆီ ပူပြီ၊ ထည့်ကြော်လို့ရပြီ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.03-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S009",
+          "text": "放点盐。",
+          "meaning_my": "ဆား နည်းနည်း ထည့်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S010",
+          "text": "盐少放一点。",
+          "meaning_my": "ဆား နည်းနည်းပဲ ထည့်နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S011",
+          "text": "盐放这么多够吗？",
+          "meaning_my": "ဆား ဒီလောက်ထည့်ရင် လုံလောက်ပြီလား။",
+          "replies": [
+            {
+              "id": "03.02.03-S011_reply01",
+              "text": "够了，别再放了。",
+              "meaning_my": "လုံလောက်ပြီ၊ ထပ်မထည့်နဲ့တော့။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.03-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S012",
+          "text": "要切成多大块？",
+          "meaning_my": "ဘယ်လောက်အရွယ်အစား လှီးရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.03-S012_reply01",
+              "text": "切小块一点。",
+              "meaning_my": "အသေးလေးတွေ လှီးလိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.03-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S013",
+          "text": "火再小一点。",
+          "meaning_my": "မီး နည်းနည်း ထပ်လျှော့လိုက်။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.02.03-S013_alt01",
+              "text": "把火调小点。",
+              "meaning_my": "မီး နည်းနည်း လျှော့လိုက်။"
+            }
+          ],
+          "source_ref": "03.02.03-S016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S014",
+          "text": "等水开了再放进去。",
+          "meaning_my": "ရေဆူမှ ထည့်နော်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S015",
+          "text": "再煮五分钟。",
+          "meaning_my": "နောက်ထပ် ငါးမိနစ် ပြုတ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S016",
+          "text": "先把肉解冻。",
+          "meaning_my": "အသားကို အရင် ရေခဲပျော်အောင်ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S003",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S017",
+          "text": "肉还冻着呢。",
+          "meaning_my": "အသားက အေးခဲနေတုန်းပဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S004",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S018",
+          "text": "剩下的先放冰箱。",
+          "meaning_my": "ကျန်တာတွေကို ရေခဲသေတ္တာထဲ အရင် ထည့်ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S019",
+          "text": "饭在锅里，热一下就行。",
+          "meaning_my": "ထမင်းက အိုးထဲမှာ ရှိတယ်၊ ပြန်နွှေးလိုက်ရုံပဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-S020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S020",
+          "text": "蒜剥一下。",
+          "meaning_my": "ကြက်သွန်ဖြူ အခွံခွာပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“剥蒜”是去掉蒜皮；“捣蒜/拍蒜”是把蒜压碎，不是同一个动作。",
+              "text_my": "“剥蒜” က ကြက်သွန်ဖြူ အခွံခွာတာပါ။ “捣蒜/拍蒜” က ကြက်သွန်ဖြူကို ထောင်းတာ၊ ထုတာဖြစ်ပြီး မတူပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.03-S021",
+          "text": "先腌一下肉。",
+          "meaning_my": "အသားကို အရင် အရသာနယ်ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S022",
+          "text": "放多少酱油？",
+          "meaning_my": "ပဲငံပြာရည် ဘယ်လောက်ထည့်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.03-S022_reply01",
+              "text": "先放一勺吧。",
+              "meaning_my": "အရင် တစ်ဇွန်းလောက် ထည့်လိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.03-补06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S023",
+          "text": "尝尝咸淡。",
+          "meaning_my": "အငန်အပေါ့ မြည်းကြည့်ပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S024",
+          "text": "太淡了，加点盐。",
+          "meaning_my": "အရသာ ပေါ့လွန်းတယ်၊ ဆား နည်းနည်းထည့်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补08",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S025",
+          "text": "太咸了。",
+          "meaning_my": "ငန်လွန်းတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S026",
+          "text": "火太大了。",
+          "meaning_my": "မီး ပြင်းလွန်းနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补10",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S027",
+          "text": "糊了。",
+          "meaning_my": "ဟင်းတူးသွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S028",
+          "text": "翻一下面。",
+          "meaning_my": "တစ်ဖက်လှန်လိုက်ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S029",
+          "text": "盖上锅盖。",
+          "meaning_my": "အိုးအဖုံး ဖုံးလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S030",
+          "text": "这个要炒多久？",
+          "meaning_my": "ဒါ ဘယ်လောက်ကြာကြာ ကြော်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补14",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“煮”通常是放入水中加热；“炒”通常是用少量油翻炒；“炸”通常指用较多油炸。",
+              "text_my": "“煮” က ရေထဲမှာ ပြုတ်တာ၊ “炒” က ဆီနည်းနည်းနဲ့ မွှေကြော်တာ၊ “炸” က ဆီများများနဲ့ ကြော်တာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.03-S031",
+          "text": "菜切好了吗？",
+          "meaning_my": "ဟင်းသီးဟင်းရွက်တွေ လှီးပြီးပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补18",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S032",
+          "text": "帮我递一下盐。",
+          "meaning_my": "ဆား လှမ်းပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补19",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S033",
+          "text": "锅里水烧干了。",
+          "meaning_my": "အိုးထဲက ရေခန်းသွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.03-补20",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.03-S034",
+          "text": "关火吧。",
+          "meaning_my": "မီးပိတ်လိုက်တော့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_03.02.03_E01",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.02.04",
+      "title": "洗碗和收拾厨房",
+      "title_my": "ပန်းကန်ဆေးခြင်းနှင့် မီးဖိုချောင်ရှင်းခြင်း",
+      "phrase_count": 24,
+      "phrases": [
+        {
+          "id": "03.02.04-S001",
+          "text": "我来洗碗。",
+          "meaning_my": "ပန်းကန်တွေ ဆေးလိုက်မယ်။",
+          "replies": [
+            {
+              "id": "03.02.04-S001_reply01",
+              "text": "那我来擦桌子。",
+              "meaning_my": "ဒါဆို စားပွဲကို သုတ်လိုက်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.02.04-S001_alt01",
+              "text": "我来刷碗。",
+              "meaning_my": "ပန်းကန်တွေ ဆေးလိုက်မယ်။"
+            }
+          ],
+          "source_ref": "03.02.04-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S002",
+          "text": "洗洁精在哪儿？",
+          "meaning_my": "ပန်းကန်ဆေးဆပ်ပြာရည် ဘယ်မှာလဲ။",
+          "replies": [
+            {
+              "id": "03.02.04-S002_reply01",
+              "text": "在水槽旁边。",
+              "meaning_my": "ပန်းကန်ဆေးကန်ဘေးမှာ ရှိတယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.04-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S003",
+          "text": "碗放这里吧。",
+          "meaning_my": "ပန်းကန်တွေ ဒီမှာထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S004",
+          "text": "锅还没洗。",
+          "meaning_my": "အိုး မဆေးရသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S005",
+          "text": "都洗干净了吗？",
+          "meaning_my": "အကုန် သေချာ ဆေးပြီးပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S006",
+          "text": "桌子擦一下。",
+          "meaning_my": "စားပွဲကို သုတ်ပေးပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S007",
+          "text": "把垃圾倒了吧。",
+          "meaning_my": "အမှိုက် သွားပစ်လိုက်ပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S008",
+          "text": "剩菜放冰箱。",
+          "meaning_my": "ကျန်တဲ့ဟင်းတွေကို ရေခဲသေတ္တာထဲ ထည့်ထား။",
+          "replies": [
+            {
+              "id": "03.02.04-S008_reply01",
+              "text": "好，我拿个盒子装起来。",
+              "meaning_my": "ကောင်းပြီ၊ ဘူးတစ်ဘူးယူပြီး ထည့်ထားလိုက်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.02.04-S008_alt01",
+              "text": "剩下的菜放冰箱里。",
+              "meaning_my": "ကျန်တဲ့ဟင်းတွေ ရေခဲသေတ္တာထဲ ထည့်ထား။"
+            }
+          ],
+          "source_ref": "03.02.04-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S009",
+          "text": "这个锅有点难洗。",
+          "meaning_my": "ဒီအိုး ဆေးရ နည်းနည်း ခက်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S010",
+          "text": "灶台也擦一下。",
+          "meaning_my": "မီးဖိုပေါ်လည်း သုတ်ပေးဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S011",
+          "text": "灶台上都是油。",
+          "meaning_my": "မီးဖိုပေါ်မှာ ဆီတွေ ပေကျံနေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S012",
+          "text": "碗先泡一下。",
+          "meaning_my": "ပန်းကန်တွေ အရင် ရေစိမ်ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S013",
+          "text": "洗完记得把台面擦干。",
+          "meaning_my": "ဆေးပြီးရင် ကောင်တာပေါ်ကို ခြောက်အောင် သုတ်ဖို့ မမေ့နဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S014",
+          "text": "剩菜别在外面放太久。",
+          "meaning_my": "ကျန်တဲ့ဟင်းတွေကို အပြင်မှာ အကြာကြီး မထားနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S017",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "熟食和剩菜不要长时间放在室温下；应及时冷藏，尤其天气热时更要注意。",
+              "text_my": "ချက်ပြီးသားဟင်းတွေကို အခန်းအပူချိန်မှာ အကြာကြီး မထားပါနဲ့။ အထူးသဖြင့် ပူတဲ့အချိန်မှာ ရေခဲသေတ္တာထဲ အမြန်သိမ်းထားပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.04-S015",
+          "text": "碗洗完放架子上。",
+          "meaning_my": "ပန်းကန်ဆေးပြီးရင် စင်ပေါ် တင်ထား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S016",
+          "text": "这盘子还有点油。",
+          "meaning_my": "ဒီပန်းကန်မှာ ဆီ နည်းနည်း ကျန်သေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S017",
+          "text": "水槽也冲一下。",
+          "meaning_my": "ပန်းကန်ဆေးကန်ကိုလည်း ရေနဲ့ ဆေးချလိုက်ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-S021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S018",
+          "text": "这个锅糊底了。",
+          "meaning_my": "ဒီအိုး အောက်ခြေ တူးသွားပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-补02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S019",
+          "text": "冲干净。",
+          "meaning_my": "ရေနဲ့ သေချာ ဆေးချလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-补05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S020",
+          "text": "碗要沥干。",
+          "meaning_my": "ပန်းကန်တွေ ရေစစ်ထားရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-补06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S021",
+          "text": "垃圾记得分类。",
+          "meaning_my": "အမှိုက်ကို အမျိုးအစားခွဲပြီး ပစ်ဖို့ မမေ့နဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-补07",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "在中国不同城市或小区，垃圾分类规则可能不同，按当地标识投放即可。",
+              "text_my": "တရုတ်နိုင်ငံမှာ မြို့၊ အိမ်ရာအလိုက် အမှိုက်ခွဲပစ်ရတဲ့ စည်းကမ်း မတူနိုင်လို့ ဒေသအလိုက် အမှတ်အသားတွေ ကြည့်ပြီး ပစ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.04-S022",
+          "text": "抹布洗一下。",
+          "meaning_my": "သန့်ရှင်းရေးသုံး အဝတ်စကို လျှော်လိုက်ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-补09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S023",
+          "text": "垃圾桶满了。",
+          "meaning_my": "အမှိုက်ပုံး ပြည့်နေပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-补12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.04-S024",
+          "text": "筷子也洗一下。",
+          "meaning_my": "တူတွေလည်း ဆေးလိုက်ဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.04-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "03.02.05",
+      "title": "收纳整理",
+      "title_my": "ပစ္စည်းများ စီစဉ်သိမ်းဆည်းခြင်း",
+      "phrase_count": 26,
+      "phrases": [
+        {
+          "id": "03.02.05-S001",
+          "text": "房间有点乱。",
+          "meaning_my": "အခန်း နည်းနည်း ရှုပ်နေတယ်။",
+          "replies": [
+            {
+              "id": "03.02.05-S001_reply01",
+              "text": "好，我先收拾一下桌子。",
+              "meaning_my": "ကောင်းပြီ၊ စားပွဲကို အရင် ရှင်းလိုက်မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "03.02.05-S001_alt01",
+              "text": "屋里有点乱。",
+              "meaning_my": "အိမ်ထဲ နည်းနည်း ရှုပ်နေတယ်။"
+            }
+          ],
+          "source_ref": "03.02.05-S001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S002",
+          "text": "桌上东西太多了。",
+          "meaning_my": "စားပွဲပေါ်မှာ ပစ္စည်းတွေ များလွန်းတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S003",
+          "text": "这个还要吗？",
+          "meaning_my": "ဒါ လိုသေးလား။",
+          "replies": [
+            {
+              "id": "03.02.05-S003_reply01",
+              "text": "还要，先别扔。",
+              "meaning_my": "လိုသေးတယ်၊ မပစ်နဲ့ဦး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.05-S006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S004",
+          "text": "这个先别扔。",
+          "meaning_my": "ဒါကို အခု မပစ်နဲ့ဦး။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.02.05-S004_alt01",
+              "text": "先别丢这个。",
+              "meaning_my": "ဒါကို အခု မပစ်နဲ့ဦး။"
+            }
+          ],
+          "source_ref": "03.02.05-S014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S005",
+          "text": "都整理好了吗？",
+          "meaning_my": "အားလုံး စီပြီးပြီလား။",
+          "replies": [
+            {
+              "id": "03.02.05-S005_reply01",
+              "text": "还没，抽屉还没收拾。",
+              "meaning_my": "မပြီးသေးဘူး၊ အံဆွဲ မရှင်းရသေးဘူး။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.05-S008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S006",
+          "text": "这些要分开放吗？",
+          "meaning_my": "ဒါတွေ ခွဲပြီး ထားရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S007",
+          "text": "不用的先放一边。",
+          "meaning_my": "မသုံးတဲ့ဟာတွေ အရင် ဘေးမှာထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S008",
+          "text": "没用的东西一起扔了吧。",
+          "meaning_my": "အသုံးမဝင်တော့တဲ့ ပစ္စည်းတွေကို အတူတူ ပစ်လိုက်ရအောင်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S009",
+          "text": "先把衣服分出来。",
+          "meaning_my": "အဝတ်တွေကို အရင် ခွဲထုတ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S010",
+          "text": "常用的放在好拿的地方。",
+          "meaning_my": "ခဏခဏသုံးတဲ့ ပစ္စည်းတွေ ယူရလွယ်တဲ့နေရာမှာ ထား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S011",
+          "text": "不用的先装箱。",
+          "meaning_my": "မသုံးတဲ့ဟာတွေ အရင် သေတ္တာထဲ ထည့်ထား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S012",
+          "text": "这堆衣服放哪儿？",
+          "meaning_my": "ဒီအဝတ်ပုံကို ဘယ်မှာထားရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.05-S012_reply01",
+              "text": "放柜子里吧。",
+              "meaning_my": "ဗီရိုထဲ ထည့်ထားလိုက်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.05-S012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S013",
+          "text": "这边还没整理好。",
+          "meaning_my": "ဒီဘက် မရှင်းရသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S014",
+          "text": "这个柜子放不下了。",
+          "meaning_my": "ဒီဗီရိုထဲ မဆံ့တော့ဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S015",
+          "text": "衣服叠好放柜子里。",
+          "meaning_my": "အဝတ်တွေ ခေါက်ပြီး ဗီရိုထဲ ထည့်ထား။",
+          "replies": [],
+          "alternatives": [
+            {
+              "id": "03.02.05-S015_alt01",
+              "text": "把衣服叠好收起来。",
+              "meaning_my": "အဝတ်တွေ ခေါက်ပြီး သိမ်းထားလိုက်။"
+            }
+          ],
+          "source_ref": "03.02.05-S016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S016",
+          "text": "鞋子放到鞋架上。",
+          "meaning_my": "ဖိနပ်တွေ ဖိနပ်စင်ပေါ် ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-S017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S017",
+          "text": "厚衣服收起来。",
+          "meaning_my": "အဝတ်ထူတွေ သိမ်းထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补02",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S018",
+          "text": "这双鞋还要吗？",
+          "meaning_my": "ဒီဖိနပ်တစ်ရံ လိုသေးလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补03",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S019",
+          "text": "过期的扔掉。",
+          "meaning_my": "သက်တမ်းကုန်တဲ့ ပစ္စည်းတွေ ပစ်လိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补04",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S020",
+          "text": "抽屉整理一下。",
+          "meaning_my": "အံဆွဲကို နည်းနည်း ရှင်းလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S021",
+          "text": "贴个标签。",
+          "meaning_my": "အညွှန်းတစ်ခု ကပ်ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补06",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S022",
+          "text": "这个盒子装什么？",
+          "meaning_my": "ဒီဘူးထဲ ဘာထည့်ရမလဲ။",
+          "replies": [
+            {
+              "id": "03.02.05-S022_reply01",
+              "text": "装不常用的东西。",
+              "meaning_my": "ခဏခဏ မသုံးတဲ့ ပစ္စည်းတွေ ထည့်ထား။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "03.02.05-补09",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S023",
+          "text": "这些放同一个柜子。",
+          "meaning_my": "ဒါတွေကို ဗီရိုတစ်ခုတည်းမှာ ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S024",
+          "text": "先分类再收。",
+          "meaning_my": "အရင် အမျိုးအစားခွဲပြီးမှ သိမ်းလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补12",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "03.02.05-S025",
+          "text": "把药放在孩子够不着的地方。",
+          "meaning_my": "ဆေးတွေကို ကလေးတွေ လက်မလှမ်းမီတဲ့နေရာမှာ ထားလိုက်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补13",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "药物应放在儿童接触不到的安全位置，并按包装说明保存；不只是放高就一定安全。",
+              "text_my": "ဆေးတွေကို ကလေးတွေ လက်လှမ်းမမီတဲ့ လုံခြုံတဲ့နေရာမှာ ထားပါ။ ဆေးအညွှန်းအတိုင်း သိမ်းဆည်းဖို့လည်း လိုပါတယ်။"
+            }
+          ]
+        },
+        {
+          "id": "03.02.05-S026",
+          "text": "收拾完看着舒服多了。",
+          "meaning_my": "ရှင်းပြီးတော့ ကြည့်ရတာ ပိုရှင်းလင်းသွားတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "03.02.05-补16",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 145,
+    "replies": 27,
+    "alternatives": 14,
+    "notes": 8,
+    "total_audio": 186
+  },
+  "quality_review": {
+    "date": "2026-11-11",
+    "status": "draft_pending_native_review",
+    "frequency_order": "editorial_high_utility_first_not_measured_corpus",
+    "native_burmese_review_required": true,
+    "pronunciation_status": "not_generated",
+    "audio_status": "not_recorded"
+  }
+}
