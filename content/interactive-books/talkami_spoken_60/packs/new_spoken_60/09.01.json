@@ -19,7 +19,7 @@
     "selected_from_additions": 34,
     "editorial_added": 2
   },
-  "note": "从求职面试168条候选句中筛选实用主句；强调外国人在中国工作须先核实工作许可及相应居留资格，不建议无许可试岗或上班；护照、合同及押金保护。待补回复、类似说法和缅语说明。",
+  "note": "从求职面试原稿102句、补充66句另加2条必要问句中精选103主句；按需增加实用回复、类似说法及中缅权益说明。外国人工作许可须先核实，押金与证件扣押以中国劳动法规为准；工资数字仅教学示例。待缅甸母语终审。",
   "scenes": [
     {
       "id": "09.01.01",
@@ -44,8 +44,22 @@
           "id": "09.01.01-S002",
           "text": "这里还招人吗？",
           "meaning_my": "ဒီမှာ အလုပ်သမား ခေါ်နေသေးလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.01-S002_reply01",
+              "text": "现在招服务员。",
+              "meaning_my": "အခု စားပွဲထိုး ခေါ်နေပါတယ်။",
+              "source_ref": "user_original_09.01.01_B014"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.01-S002_alt01",
+              "text": "你们还在招人吗？",
+              "meaning_my": "အလုပ်သမား ခေါ်နေတုန်းလား။",
+              "source_ref": "user_addition_09.01.01_N01"
+            }
+          ],
           "source_ref": "user_original_09.01.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -57,7 +71,14 @@
           "id": "09.01.01-S003",
           "text": "这是什么岗位？",
           "meaning_my": "ဒါ ဘာအလုပ်ရာထူးလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S003_reply01",
+              "text": "这是全职岗位。",
+              "meaning_my": "ဒါ အချိန်ပြည့်အလုပ်ပါ။",
+              "source_ref": "user_original_09.01.01_B017"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.01_B002",
           "priority": "core",
@@ -70,8 +91,20 @@
           "id": "09.01.01-S004",
           "text": "主要做什么？",
           "meaning_my": "အဓိက ဘာအလုပ်တွေ လုပ်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.01-S004_reply01",
+              "text": "主要做包装和分拣。",
+              "meaning_my": "အဓိက ပစ္စည်းထုပ်ပိုးတာနဲ့ အမျိုးအစားခွဲတာ လုပ်ရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.01-S004_alt01",
+              "text": "具体要干什么活儿？",
+              "meaning_my": "အတိအကျ ဘာအလုပ်တွေ လုပ်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_original_09.01.01_B003",
           "priority": "core",
           "pinyin": null,
@@ -83,14 +116,33 @@
           "id": "09.01.01-S005",
           "text": "你们招外国人吗？",
           "meaning_my": "နိုင်ငံခြားသားတွေကို အလုပ်ခန့်လား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.01-S005_reply01",
+              "text": "先确认这个岗位能不能合法聘用外国人。",
+              "meaning_my": "ဒီအလုပ်ရာထူးမှာ နိုင်ငံခြားသားကို တရားဝင်ခန့်လို့ရမရ အရင်စစ်ရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.01-S005_alt01",
+              "text": "外国人能应聘吗？",
+              "meaning_my": "နိုင်ငံခြားသားတွေ အလုပ်လျှောက်လို့ရလား။"
+            }
+          ],
           "source_ref": "user_original_09.01.01_B011",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "外国人能否在中国从事某一岗位，须核实工作许可和相应居留要求；招聘不意味着可直接上岗。",
+              "text_my": "တရုတ်မှာ နိုင်ငံခြားသားအဖြစ် ဒီအလုပ်ကို တရားဝင်လုပ်လို့ရမရ အလုပ်လုပ်ခွင့်နဲ့ နေထိုင်ခွင့်လိုအပ်ချက်တွေကို အရင်စစ်ပါ။ အလုပ်ခေါ်နေတာနဲ့ ချက်ချင်း အလုပ်ဝင်လို့ရတယ်လို့ မဆိုလိုဘူး။"
+            }
+          ]
         },
         {
           "id": "09.01.01-S006",
@@ -109,7 +161,14 @@
           "id": "09.01.01-S007",
           "text": "要工作经验吗？",
           "meaning_my": "အလုပ်အတွေ့အကြုံ လိုလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S007_reply01",
+              "text": "需要一年经验。",
+              "meaning_my": "အလုပ်အတွေ့အကြုံ တစ်နှစ် လိုပါတယ်။",
+              "source_ref": "user_original_09.01.01_B015"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.01_B004",
           "priority": "core",
@@ -135,7 +194,14 @@
           "id": "09.01.01-S009",
           "text": "中文要求高吗？",
           "meaning_my": "တရုတ်စကား ကျွမ်းကျင်ဖို့ အများကြီးလိုလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S009_reply01",
+              "text": "会说一点中文就行。",
+              "meaning_my": "တရုတ်စကား နည်းနည်း ပြောတတ်ရင် ရပါတယ်။",
+              "source_ref": "user_original_09.01.01_B019"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.01_B008",
           "priority": "core",
@@ -175,7 +241,13 @@
           "text": "工资大概多少？",
           "meaning_my": "လစာ အကြမ်းဖျင်း ဘယ်လောက်လဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.01.01-S012_alt01",
+              "text": "这份工作大概多少钱一个月？",
+              "meaning_my": "ဒီအလုပ် တစ်လလစာ အကြမ်းဖျင်း ဘယ်လောက်လဲ။"
+            }
+          ],
           "source_ref": "user_original_09.01.01_B006",
           "priority": "core",
           "pinyin": null,
@@ -200,7 +272,14 @@
           "id": "09.01.01-S014",
           "text": "有没有只上白班的工作？",
           "meaning_my": "နေ့ဆိုင်းပဲ ဆင်းရတဲ့အလုပ် ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S014_reply01",
+              "text": "这个岗位需要轮班。",
+              "meaning_my": "ဒီအလုပ်ရာထူးမှာ အလှည့်ကျ အလုပ်ဆင်းရမယ်။",
+              "source_ref": "user_original_09.01.01_B021"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.01_B024",
           "priority": "core",
@@ -226,7 +305,14 @@
           "id": "09.01.01-S016",
           "text": "什么时候能面试？",
           "meaning_my": "အင်တာဗျူး ဘယ်တော့ ဝင်လို့ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S016_reply01",
+              "text": "明天下午来面试吧。",
+              "meaning_my": "မနက်ဖြန် မွန်းလွဲပိုင်း အင်တာဗျူးလာဝင်ပါ။",
+              "source_ref": "user_original_09.01.01_B020"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.01_B007",
           "priority": "core",
@@ -239,7 +325,13 @@
           "id": "09.01.01-S017",
           "text": "简历发到哪里？",
           "meaning_my": "ကိုယ်ရေးရာဇဝင် ဘယ်ကို ပို့ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S017_reply01",
+              "text": "发到这个邮箱就行。",
+              "meaning_my": "ဒီအီးမေးလ်ကို ပို့ပေးရုံပါပဲ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.01_B009",
           "priority": "core",
@@ -252,7 +344,13 @@
           "id": "09.01.01-S018",
           "text": "面试要带什么材料？",
           "meaning_my": "အင်တာဗျူးသွားရင် ဘာစာရွက်စာတမ်းတွေ ယူသွားရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S018_reply01",
+              "text": "带上简历和有效证件，具体看通知。",
+              "meaning_my": "ကိုယ်ရေးရာဇဝင်နဲ့ သက်တမ်းမကုန်သေးတဲ့ အထောက်အထားတွေ ယူလာပါ၊ အသေးစိတ်ကို အသိပေးချက်မှာ ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.01_B013",
           "priority": "situational",
@@ -265,20 +363,40 @@
           "id": "09.01.01-S019",
           "text": "要交中介费吗？",
           "meaning_my": "အလုပ်ပွဲစားခ ပေးရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S019_reply01",
+              "text": "先查清楚是谁收费、为什么收费。",
+              "meaning_my": "ဘယ်သူက ဘာအတွက် ငွေတောင်းတာလဲဆိုတာ အရင်စစ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.01.01_N10",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "核实招聘方和中介的身份、资质及收费依据；警惕保证录用或包办证件的付款要求。",
+              "text_my": "အလုပ်ခေါ်သူနဲ့ ပွဲစားရဲ့ အထောက်အထား၊ တရားဝင်ဖြစ်မဖြစ်နဲ့ ငွေတောင်းတဲ့အကြောင်းရင်းကို စစ်ပါ။ အလုပ်သေချာရမယ်လို့ ပြောပြီး ငွေတောင်းတာကို သတိထားပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.01-S020",
           "text": "招工信息在哪儿看？",
           "meaning_my": "အလုပ်ခေါ်ကြော်ငြာတွေ ဘယ်မှာ ကြည့်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.01-S020_reply01",
+              "text": "我把招聘信息发你微信。",
+              "meaning_my": "အလုပ်ခေါ်ကြော်ငြာကို WeChat ကနေ ပို့ပေးမယ်။",
+              "source_ref": "user_original_09.01.01_B022"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.01.01_N11",
           "priority": "situational",
@@ -351,7 +469,14 @@
           "id": "09.01.02-S002",
           "text": "我来应聘服务员。",
           "meaning_my": "စားပွဲထိုးအလုပ် လျှောက်ဖို့ လာတာပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.02-S002_reply01",
+              "text": "你有相关工作经验吗？",
+              "meaning_my": "ဒီလိုအလုပ်မျိုး လုပ်ဖူးလား။",
+              "source_ref": "user_original_09.01.02_B021"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.02_B002",
           "priority": "core",
@@ -390,8 +515,22 @@
           "id": "09.01.02-S005",
           "text": "我以前做过餐饮。",
           "meaning_my": "အရင်က စားသောက်ဆိုင်လုပ်ငန်းမှာ လုပ်ဖူးတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.02-S005_reply01",
+              "text": "你做这行几年了？",
+              "meaning_my": "ဒီလုပ်ငန်းမှာ ဘယ်နှနှစ် လုပ်ဖူးလဲ။",
+              "source_ref": "user_original_09.01.02_B018"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.02-S005_alt01",
+              "text": "我以前在餐厅上过班。",
+              "meaning_my": "အရင်က စားသောက်ဆိုင်မှာ အလုပ်လုပ်ဖူးတယ်။",
+              "source_ref": "user_addition_09.01.02_N05"
+            }
+          ],
           "source_ref": "user_original_09.01.02_B004",
           "priority": "core",
           "pinyin": null,
@@ -416,8 +555,22 @@
           "id": "09.01.02-S007",
           "text": "我会一点中文。",
           "meaning_my": "တရုတ်စကား နည်းနည်း ပြောတတ်တယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.02-S007_reply01",
+              "text": "你能看懂中文工作通知吗？",
+              "meaning_my": "တရုတ်လို အလုပ်အသိပေးစာ ဖတ်နားလည်လား။",
+              "source_ref": "user_original_09.01.02_B022"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.02-S007_alt01",
+              "text": "我会说一点中文。",
+              "meaning_my": "တရုတ်စကား နည်းနည်း ပြောတတ်တယ်။",
+              "source_ref": "user_addition_09.01.02_N06"
+            }
+          ],
           "source_ref": "user_original_09.01.02_B006",
           "priority": "core",
           "pinyin": null,
@@ -559,14 +712,27 @@
           "id": "09.01.02-S018",
           "text": "这份工作需要办工作许可吗？",
           "meaning_my": "ဒီအလုပ်အတွက် အလုပ်လုပ်ခွင့်လက်မှတ် လိုလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.02-S018_reply01",
+              "text": "要先向公司确认办证要求。",
+              "meaning_my": "အလုပ်လုပ်ခွင့်လက်မှတ် လျှောက်ဖို့ လိုအပ်ချက်တွေကို ကုမ္ပဏီမှာ အရင်မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.02_B015",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "外国人就业的工作许可、工作类居留等要求须结合具体身份和岗位由用人单位与主管部门核实。",
+              "text_my": "နိုင်ငံခြားသား အလုပ်လုပ်ဖို့ အလုပ်လုပ်ခွင့်နဲ့ သက်ဆိုင်ရာ နေထိုင်ခွင့် လိုအပ်ချက်တွေကို ကုမ္ပဏီနဲ့ သက်ဆိုင်ရာဌာနမှာ သေချာစစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.02-S019",
@@ -592,7 +758,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "工作许可未取得或不能覆盖实际岗位时，不应仅凭雇主口头同意就直接工作或试岗。",
+              "text_my": "အလုပ်လုပ်ခွင့် မရသေးရင်၊ ခွင့်ပြုထားတဲ့အလုပ်နဲ့ မကိုက်ရင် အလုပ်ရှင်က ပြောရုံနဲ့ အလုပ်စမဆင်းပါနဲ့။ အစမ်းအလုပ်ဆင်းတာလည်း အရင်စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.02-S021",
@@ -631,13 +804,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "中国《劳动合同法》第九条禁止用人单位招聘时扣押劳动者身份证及其他证件，核验证件与长期扣押不同。",
+              "text_my": "တရုတ်အလုပ်စာချုပ်ဥပဒေ အပိုဒ် ၉ အရ အလုပ်ရှင်က အလုပ်သမားရဲ့ သက်သေခံစာရွက်စာတမ်းတွေကို သိမ်းထားလို့ မရဘူး။ စစ်ကြည့်တာနဲ့ သိမ်းထားတာ မတူဘူး။"
+            }
+          ]
         },
         {
           "id": "09.01.02-S024",
           "text": "请介绍一下自己。",
           "meaning_my": "ကိုယ့်အကြောင်း နည်းနည်း မိတ်ဆက်ပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.02-S024_reply01",
+              "text": "我来自缅甸，有两年工作经验。",
+              "meaning_my": "မြန်မာနိုင်ငံက လာတာပါ၊ အလုပ်အတွေ့အကြုံ နှစ်နှစ်ရှိပါတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.02_B016",
           "priority": "situational",
@@ -650,7 +836,13 @@
           "id": "09.01.02-S025",
           "text": "中文怎么样？",
           "meaning_my": "တရုတ်စကား ဘယ်လောက်တတ်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.02-S025_reply01",
+              "text": "会一点，简单交流没问题。",
+              "meaning_my": "နည်းနည်းတတ်တယ်၊ ရိုးရိုးပြောဆိုဆက်သွယ်တာ အဆင်ပြေတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.02_B017",
           "priority": "situational",
@@ -663,7 +855,13 @@
           "id": "09.01.02-S026",
           "text": "说说你的工作经历。",
           "meaning_my": "လုပ်ဖူးတဲ့အလုပ်တွေအကြောင်း ပြောပြပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.02-S026_reply01",
+              "text": "我以前在工厂做过包装。",
+              "meaning_my": "အရင်က စက်ရုံမှာ ပစ္စည်းထုပ်ပိုးတဲ့အလုပ် လုပ်ဖူးတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.02_B020",
           "priority": "situational",
@@ -676,7 +874,13 @@
           "id": "09.01.02-S027",
           "text": "最快什么时候能上班？",
           "meaning_my": "အမြန်ဆုံး ဘယ်တော့ အလုပ်စဝင်နိုင်မလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.02-S027_reply01",
+              "text": "工作许可办妥后，我就能入职。",
+              "meaning_my": "အလုပ်လုပ်ခွင့် စာရွက်စာတမ်း ပြည့်စုံပြီးမှ အလုပ်စဝင်နိုင်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.02_B019",
           "priority": "situational",
@@ -697,7 +901,13 @@
           "id": "09.01.03-S001",
           "text": "为什么想来我们这儿？",
           "meaning_my": "ကျွန်တော်တို့ဆီမှာ ဘာလို့ အလုပ်လုပ်ချင်တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S001_reply01",
+              "text": "我觉得这个岗位适合我，也想长期做。",
+              "meaning_my": "ဒီအလုပ်က ကိုယ့်နဲ့ ကိုက်ညီတယ်လို့ ထင်ပြီး ရေရှည်လည်း လုပ်ချင်ပါတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.03_B015",
           "priority": "core",
@@ -723,7 +933,13 @@
           "id": "09.01.03-S003",
           "text": "你为什么离职？",
           "meaning_my": "အရင်အလုပ်က ဘာလို့ ထွက်ခဲ့တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S003_reply01",
+              "text": "想找一份更稳定的工作。",
+              "meaning_my": "ပိုတည်ငြိမ်တဲ့ အလုပ်တစ်ခု ရှာချင်လို့ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.03_B017",
           "priority": "core",
@@ -750,7 +966,14 @@
           "text": "我想长期做下去。",
           "meaning_my": "ဒီမှာ ရေရှည် အလုပ်လုပ်ချင်တယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.01.03-S005_alt01",
+              "text": "我希望能稳定做下去。",
+              "meaning_my": "ဒီအလုပ်ကို တည်တည်ငြိမ်ငြိမ် ရေရှည်လုပ်ချင်တယ်။",
+              "source_ref": "user_addition_09.01.03_N03"
+            }
+          ],
           "source_ref": "user_original_09.01.03_B001",
           "priority": "core",
           "pinyin": null,
@@ -788,7 +1011,13 @@
           "id": "09.01.03-S008",
           "text": "周末也能上班吗？",
           "meaning_my": "ပိတ်ရက်တွေမှာလည်း အလုပ်ဆင်းနိုင်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S008_reply01",
+              "text": "可以，但希望提前安排。",
+              "meaning_my": "ရပါတယ်၊ ဒါပေမဲ့ ကြိုပြီး စီစဉ်ပေးစေချင်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.03_B016",
           "priority": "core",
@@ -801,7 +1030,13 @@
           "id": "09.01.03-S009",
           "text": "遇到不会做的，你怎么办？",
           "meaning_my": "မလုပ်တတ်တဲ့အလုပ် ကြုံရင် ဘယ်လိုလုပ်မလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S009_reply01",
+              "text": "我会先问清楚，再按要求做。",
+              "meaning_my": "အရင် သေချာမေးပြီး ညွှန်ကြားထားတဲ့အတိုင်း လုပ်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.03_B019",
           "priority": "core",
@@ -828,7 +1063,14 @@
           "text": "没做过，但愿意学。",
           "meaning_my": "မလုပ်ဖူးပေမယ့် သင်ယူဖို့ ဆန္ဒရှိတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.01.03-S011_alt01",
+              "text": "我没什么经验，但愿意学。",
+              "meaning_my": "အတွေ့အကြုံ သိပ်မရှိပေမယ့် သင်ယူချင်ပါတယ်။",
+              "source_ref": "user_addition_09.01.02_N15"
+            }
+          ],
           "source_ref": "user_original_09.01.03_B004",
           "priority": "core",
           "pinyin": null,
@@ -840,7 +1082,14 @@
           "id": "09.01.03-S012",
           "text": "可以先培训再上岗吗？",
           "meaning_my": "အရင် သင်တန်းတက်ပြီးမှ အလုပ်စဝင်လို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S012_reply01",
+              "text": "可以，入职后有人带你。",
+              "meaning_my": "ရတယ်၊ အလုပ်ဝင်ပြီးရင် သင်ပေးမယ့်သူ ရှိမယ်။",
+              "source_ref": "user_original_09.01.03_B021"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.03_B003",
           "priority": "core",
@@ -853,7 +1102,13 @@
           "id": "09.01.03-S013",
           "text": "培训要多久？",
           "meaning_my": "သင်တန်း ဘယ်လောက်ကြာမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S013_reply01",
+              "text": "具体时间会提前告诉你。",
+              "meaning_my": "သင်တန်းကြာချိန်ကို ကြိုပြောပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.01.03_N08",
           "priority": "core",
@@ -866,20 +1121,39 @@
           "id": "09.01.03-S014",
           "text": "培训期间有工资吗？",
           "meaning_my": "သင်တန်းတက်နေချိန် လစာပေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S014_reply01",
+              "text": "先把培训安排和报酬说清楚。",
+              "meaning_my": "သင်တန်းအစီအစဉ်နဲ့ လုပ်အားခအကြောင်းကို အရင်ရှင်းရှင်းလင်းလင်း မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.03_B013",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "培训期间是否有报酬、工作内容与培训安排，应结合书面约定核实，不能一律视为无薪。",
+              "text_my": "သင်တန်းတက်နေချိန် လစာပေးမပေး၊ ဘာလုပ်ရမလဲနဲ့ သင်တန်းအစီအစဉ်ကို စာဖြင့် ကြိုအတည်ပြုပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.03-S015",
           "text": "试用期多久？",
           "meaning_my": "အစမ်းခန့်ကာလ ဘယ်လောက်ကြာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S015_reply01",
+              "text": "具体看合同里的约定。",
+              "meaning_my": "အလုပ်စာချုပ်မှာ သဘောတူထားတဲ့အတိုင်း ဖြစ်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.01.03_N09",
           "priority": "core",
@@ -899,14 +1173,28 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "试岗与劳动合同中的试用期不同；开始前要核实工作资格、实际劳动内容和报酬结算。",
+              "text_my": "အစမ်းအလုပ်ဆင်းတာနဲ့ အစမ်းခန့်ကာလက မတူဘူး။ မစခင် အလုပ်လုပ်ခွင့်၊ လုပ်ရမယ့်အလုပ်နဲ့ လုပ်အားခရှင်းနည်းကို သေချာမေးပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.03-S017",
           "text": "我能配合排班。",
           "meaning_my": "အလုပ်ချိန် အလှည့်ကျစီစဉ်ထားတဲ့အတိုင်း ဆင်းနိုင်တယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.01.03-S017_alt01",
+              "text": "白班夜班都可以。",
+              "meaning_my": "နေ့ဆိုင်းရော ညဆိုင်းရော ဆင်းလို့ရတယ်။",
+              "source_ref": "user_original_09.01.03_B008"
+            }
+          ],
           "source_ref": "user_original_09.01.03_B007",
           "priority": "core",
           "pinyin": null,
@@ -931,8 +1219,21 @@
           "id": "09.01.03-S019",
           "text": "什么时候能知道面试结果？",
           "meaning_my": "အင်တာဗျူးရလဒ် ဘယ်တော့ သိရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.03-S019_reply01",
+              "text": "面试通过后再通知你。",
+              "meaning_my": "အင်တာဗျူးအောင်ရင် အကြောင်းကြားပေးမယ်။",
+              "source_ref": "user_original_09.01.03_B022"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.03-S019_alt01",
+              "text": "面试结果什么时候通知？",
+              "meaning_my": "အင်တာဗျူးရလဒ်ကို ဘယ်တော့ အကြောင်းကြားပေးမလဲ။"
+            }
+          ],
           "source_ref": "user_original_09.01.03_B012",
           "priority": "situational",
           "pinyin": null,
@@ -970,7 +1271,13 @@
           "id": "09.01.03-S022",
           "text": "不好意思，我没听懂问题。",
           "meaning_my": "တောင်းပန်ပါတယ်၊ မေးခွန်းကို နားမလည်လိုက်ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.03-S022_reply01",
+              "text": "没关系，我再说慢一点。",
+              "meaning_my": "ရပါတယ်၊ နည်းနည်း ဖြည်းဖြည်း ပြန်ပြောမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.01.03_N15",
           "priority": "situational",
@@ -991,7 +1298,14 @@
           "id": "09.01.04-S001",
           "text": "工资怎么算？",
           "meaning_my": "လစာ ဘယ်လိုတွက်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S001_reply01",
+              "text": "每个月发固定工资。",
+              "meaning_my": "လစဉ် ပုံသေလစာ ပေးတယ်။",
+              "source_ref": "user_original_09.01.04_B002"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B001",
           "priority": "core",
@@ -1004,14 +1318,34 @@
           "id": "09.01.04-S002",
           "text": "底薪多少？",
           "meaning_my": "အခြေခံလစာ ဘယ်လောက်လဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.04-S002_reply01",
+              "text": "底薪三千，加班另算。",
+              "meaning_my": "အခြေခံလစာ ယွမ်သုံးထောင်၊ အချိန်ပိုကြေး သီးသန့်တွက်တယ်။",
+              "source_ref": "user_original_09.01.04_B023"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.04-S002_alt01",
+              "text": "基本工资是多少？",
+              "meaning_my": "အခြေခံလစာ ဘယ်လောက်လဲ။"
+            }
+          ],
           "source_ref": "user_addition_09.01.04_N01",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "底薪通常不含加班费和奖金，也不一定等于到手收入；课内“底薪三千”仅为示例。",
+              "text_my": "အခြေခံလစာမှာ အချိန်ပိုကြေးနဲ့ ဆုကြေး မပါနိုင်ဘူး။ လက်ထဲတကယ်ရမယ့်ငွေနဲ့လည်း မတူနိုင်ဘူး။ ယွမ်သုံးထောင်ဆိုတာ ဥပမာပဲ။"
+            }
+          ]
         },
         {
           "id": "09.01.04-S003",
@@ -1056,7 +1390,14 @@
           "id": "09.01.04-S006",
           "text": "加班费怎么算？",
           "meaning_my": "အချိန်ပိုကြေး ဘယ်လိုတွက်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S006_reply01",
+              "text": "加班费按小时算。",
+              "meaning_my": "အချိန်ပိုကြေးကို နာရီအလိုက် တွက်တယ်။",
+              "source_ref": "user_original_09.01.04_B020"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B005",
           "priority": "core",
@@ -1095,8 +1436,20 @@
           "id": "09.01.04-S009",
           "text": "包吃住吗？",
           "meaning_my": "စားစရာနဲ့ နေစရာ စီစဉ်ပေးလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.04-S009_reply01",
+              "text": "公司提供宿舍，吃饭另算。",
+              "meaning_my": "ကုမ္ပဏီက အိပ်ဆောင်ပေးတယ်၊ စားစရိတ်က သီးသန့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.04-S009_alt01",
+              "text": "吃住都包吗？",
+              "meaning_my": "စားစရိတ်ရော နေစရိတ်ပါ ပေးလား။"
+            }
+          ],
           "source_ref": "user_original_09.01.04_B007",
           "priority": "core",
           "pinyin": null,
@@ -1160,7 +1513,14 @@
           "id": "09.01.04-S014",
           "text": "工资几号发？",
           "meaning_my": "လစာ လတိုင်း ဘယ်နှရက်နေ့ ထုတ်ပေးလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S014_reply01",
+              "text": "每月十号发工资。",
+              "meaning_my": "လတိုင်း ဆယ်ရက်နေ့ လစာပေးတယ်။",
+              "source_ref": "user_original_09.01.04_B019"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B011",
           "priority": "core",
@@ -1173,14 +1533,27 @@
           "id": "09.01.04-S015",
           "text": "这是税前工资还是到手工资？",
           "meaning_my": "ဒါ အခွန်မဖြတ်မီလစာလား၊ လက်ထဲတကယ်ရမယ့်လစာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S015_reply01",
+              "text": "这是税前工资，实际到手还要看扣款。",
+              "meaning_my": "ဒါ အခွန်မဖြတ်ခင်လစာပါ၊ လက်ထဲတကယ်ရမယ့်ငွေက ဖြတ်တောက်မှုတွေပေါ် မူတည်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B012",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "税前、基本和到手工资含义不同，应核对税款、社保以及其他扣款项目。",
+              "text_my": "အခွန်မဖြတ်မီလစာ၊ အခြေခံလစာနဲ့ လက်ထဲတကယ်ရမယ့်လစာ မတူဘူး။ အခွန်၊ အာမခံနဲ့ တခြားဖြတ်ငွေတွေကို စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.04-S016",
@@ -1193,26 +1566,53 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "社保参保及缴费可涉及个人身份、当地政策及协定，需向公司核实具体项目和金额。",
+              "text_my": "လူမှုဖူလုံရေးအာမခံက ကိုယ့်အခြေအနေ၊ ဒေသစည်းမျဉ်းနဲ့ သဘောတူညီချက်တွေပေါ် မူတည်နိုင်တယ်။ ဘယ်အတွက် ဘယ်လောက်ထည့်မလဲ မေးပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.04-S017",
           "text": "合同能先给我看看吗？",
           "meaning_my": "အလုပ်စာချုပ်ကို အရင် ဖတ်ကြည့်လို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S017_reply01",
+              "text": "可以，仔细看完再决定。",
+              "meaning_my": "ရပါတယ်၊ သေချာဖတ်ပြီးမှ ဆုံးဖြတ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B014",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "《劳动合同法》要求建立劳动关系订立书面劳动合同；签字前应仔细阅读岗位、工资、工时及扣款条款。",
+              "text_my": "တရုတ်အလုပ်စာချုပ်ဥပဒေအရ အလုပ်ခန့်ထားတဲ့ ဆက်ဆံရေးမှာ စာဖြင့် စာချုပ် ရှိရမယ်။ လက်မှတ်မထိုးခင် အလုပ်ရာထူး၊ လစာ၊ အလုပ်ချိန်နဲ့ ဖြတ်ငွေတွေ ဖတ်စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.04-S018",
           "text": "住宿费从工资里扣吗？",
           "meaning_my": "အိပ်ဆောင်ခကို လစာထဲက ဖြတ်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S018_reply01",
+              "text": "宿舍每月扣两百。",
+              "meaning_my": "အိပ်ဆောင်ခ တစ်လ ယွမ်နှစ်ရာ ဖြတ်တယ်။",
+              "source_ref": "user_original_09.01.04_B024"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B015",
           "priority": "situational",
@@ -1225,20 +1625,46 @@
           "id": "09.01.04-S019",
           "text": "入职要交押金吗？",
           "meaning_my": "အလုပ်ဝင်ဖို့ စပေါ်ငွေ ပေးရလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.01.04-S019_reply01",
+              "text": "用人单位不能向劳动者收取入职押金。",
+              "meaning_my": "အလုပ်ရှင်က အလုပ်ဝင်ဖို့ စပေါ်ငွေ မတောင်းရဘူး။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.01.04-S019_alt01",
+              "text": "上班前要交押金吗？",
+              "meaning_my": "အလုပ်မစခင် စပေါ်ငွေ ပေးရလား။"
+            }
+          ],
           "source_ref": "user_original_09.01.04_B016",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "中国《劳动合同法》第九条禁止用人单位向劳动者要求担保或以其他名义收取财物，须警惕入职押金。",
+              "text_my": "တရုတ်အလုပ်စာချုပ်ဥပဒေ အပိုဒ် ၉ အရ အလုပ်ရှင်က အလုပ်ဝင်စပေါ်ငွေလို အာမခံငွေ မတောင်းရဘူး။ အလုပ်မစခင် ငွေတောင်းရင် သတိထားပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.04-S020",
           "text": "还有哪些福利？",
           "meaning_my": "တခြား ဘာခံစားခွင့်တွေ ရှိသေးလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S020_reply01",
+              "text": "餐补另外发。",
+              "meaning_my": "စားစရိတ်ထောက်ပံ့ကြေးကို သီးသန့်ပေးတယ်။",
+              "source_ref": "user_original_09.01.04_B021"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B022",
           "priority": "situational",
@@ -1284,7 +1710,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "核实发薪日期、计算方式和扣款依据，保存工资条、合同等凭证。",
+              "text_my": "လစာထုတ်ရက်၊ တွက်နည်းနဲ့ ဖြတ်ငွေတွေကို စစ်ပါ။ လစာရှင်းတမ်းနဲ့ စာချုပ်ကို သိမ်းထားပါ။"
+            }
+          ]
         },
         {
           "id": "09.01.04-S024",
@@ -1368,7 +1801,13 @@
           "id": "09.01.04-S030",
           "text": "合同上写的和说的一样吗？",
           "meaning_my": "အလုပ်စာချုပ်ထဲက အချက်တွေနဲ့ ပြောထားတာတွေ တူလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S030_reply01",
+              "text": "不一样的地方，签字前先问清楚。",
+              "meaning_my": "မတူတဲ့အချက်တွေ ရှိရင် လက်မှတ်မထိုးခင် သေချာမေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.01.04_N18",
           "priority": "situational",
@@ -1381,7 +1820,13 @@
           "id": "09.01.04-S031",
           "text": "试工没过，工资怎么算？",
           "meaning_my": "အစမ်းအလုပ်ဆင်းပြီး အလုပ်မရရင် လုပ်အားခ ဘယ်လိုတွက်ပေးလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.01.04-S031_reply01",
+              "text": "请先确认实际工作时间和工资结算方式。",
+              "meaning_my": "တကယ်အလုပ်လုပ်ခဲ့တဲ့အချိန်နဲ့ လုပ်အားခရှင်းမယ့်နည်းကို အရင်အတည်ပြုပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.01.04_B028",
           "priority": "situational",
@@ -1395,10 +1840,10 @@
   ],
   "extras_summary": {
     "main": 103,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 103
+    "replies": 42,
+    "alternatives": 13,
+    "notes": 13,
+    "total_audio": 158
   },
   "quality_review": {
     "date": "2026-11-12",
@@ -1407,7 +1852,10 @@
     "checks": [
       "sequential main IDs",
       "unique CN main phrases within theme",
-      "original and addition provenance tracked"
+      "original and addition provenance tracked",
+      "cross-topic exact Chinese duplicate checked against 45 topics; none",
+      "unique main/reply/alternative source ref mappings",
+      "employment law and status checked against government sources"
     ],
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
