@@ -836,7 +836,7 @@
               "id": "08.02.03-S001_reply01",
               "text": "用药前先看说明书。",
               "meaning_my": "ဆေးမသောက်ခင် ဆေးညွှန်းစာရွက်ကို အရင်ဖတ်ပါ။",
-              "source_ref": "user_original_08.02.03_B019"
+              "source_ref": "user_original_08.02.01_B019"
             }
           ],
           "alternatives": [],
@@ -926,7 +926,7 @@
               "id": "08.02.03-S005_reply01",
               "text": "有些药会让人犯困，要看具体药品。",
               "meaning_my": "တချို့ဆေးတွေ သောက်ရင် အိပ်ငိုက်တတ်တယ်၊ ဆေးအမျိုးအစားပေါ် မူတည်တယ်။",
-              "source_ref": "user_original_08.02.03_B017"
+              "source_ref": "user_original_08.02.01_B017"
             }
           ],
           "alternatives": [],
@@ -1586,5 +1586,49 @@
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
     "audio_status": "not_recorded"
-  }
+  },
+  "core_words": [
+    {
+      "zh": "药片",
+      "my": "ဆေးပြား",
+      "id": "08.02.02-S010",
+      "priority": "core"
+    },
+    {
+      "zh": "药水",
+      "my": "ဆေးရည်",
+      "id": "08.02.02-S016",
+      "priority": "core"
+    },
+    {
+      "zh": "药膏",
+      "my": "လိမ်းဆေး",
+      "id": "08.02.01-S011",
+      "priority": "core"
+    },
+    {
+      "zh": "副作用",
+      "my": "ဘေးထွက်ဆိုးကျိုး",
+      "id": "08.02.03-S003",
+      "priority": "core"
+    },
+    {
+      "zh": "过敏",
+      "my": "ဓာတ်မတည့်ခြင်း",
+      "id": "08.02.01-S016",
+      "priority": "core"
+    },
+    {
+      "zh": "剂量",
+      "my": "ဆေးပမာဏ",
+      "id": "08.02.02-S002",
+      "priority": "core"
+    },
+    {
+      "zh": "处方",
+      "my": "ဆရာဝန်ဆေးစာ",
+      "id": "08.02.01-S020",
+      "priority": "core"
+    }
+  ]
 }
