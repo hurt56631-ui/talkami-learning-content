@@ -6,7 +6,7 @@
   "theme_title_my": "ဆေးရုံမှာ ဆရာဝန်ပြခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-12",
-  "phrase_count": 84,
+  "phrase_count": 83,
   "original_count": 47,
   "added_count": 37,
   "source_counts": {
@@ -14,25 +14,43 @@
     "proposed_additions": 69,
     "editorial_additions": 2,
     "total_candidates": 144,
-    "selected_main": 84,
+    "selected_main": 83,
     "selected_from_original": 47,
-    "selected_from_additions": 35,
-    "selected_editorial": 2
+    "selected_from_additions": 34,
+    "selected_editorial": 2,
+    "removed_cross_topic_duplicate": {
+      "source_id": "08.01.01-补01",
+      "existing_id": "01.01.03-S012",
+      "text": "哪里不舒服？"
+    }
   },
-  "note": "仅保留医院就诊常用短句：描述症状、挂号科室、检查流程、结果复诊和用药问法；有高价值的危险症状和语言帮助句另加2句。其他专科及低频检查不强制录入。母语复核和音频尚未完成。",
+  "note": "高频看病核心：83主句、27条按需问答、8条自然类似说法、11条中文缅语说明。与已入库01.01完全重复的“哪里不舒服？”删除，保留来源映射。两条新增高价值表达为“我喘不过气”和“我中文不太好，能帮我找翻译吗？”。需母语终审。",
   "scenes": [
     {
       "id": "08.01.01",
       "title": "描述症状",
       "title_my": "ရောဂါလက္ခဏာ ပြောပြခြင်း",
-      "phrase_count": 27,
+      "phrase_count": 26,
       "phrases": [
         {
           "id": "08.01.01-S001",
           "text": "我头疼。",
           "meaning_my": "ခေါင်းကိုက်နေတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.01.01-S001_reply01",
+              "text": "疼多久了？",
+              "meaning_my": "ခေါင်းကိုက်နေတာ ဘယ်လောက်ကြာပြီလဲ။",
+              "source_ref": "user_original_08.01.01_B012"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.01.01-S001_alt01",
+              "text": "我头有点疼。",
+              "meaning_my": "ခေါင်းနည်းနည်းကိုက်နေတယ်။"
+            }
+          ],
           "source_ref": "user_original_08.01.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -44,8 +62,21 @@
           "id": "08.01.01-S002",
           "text": "我发烧了。",
           "meaning_my": "ဖျားနေတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.01.01-S002_reply01",
+              "text": "体温多少度？",
+              "meaning_my": "ကိုယ်အပူချိန် ဘယ်နှဒီဂရီ ရှိလဲ။",
+              "source_ref": "user_original_08.01.01_B019"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.01.01-S002_alt01",
+              "text": "我有点发烧。",
+              "meaning_my": "နည်းနည်းဖျားနေတယ်။"
+            }
+          ],
           "source_ref": "user_original_08.01.01_B003",
           "priority": "core",
           "pinyin": null,
@@ -57,7 +88,13 @@
           "id": "08.01.01-S003",
           "text": "我一直咳嗽。",
           "meaning_my": "ချောင်းဆိုးနေတာ မရပ်ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.01-S003_reply01",
+              "text": "什么时候开始咳嗽的？",
+              "meaning_my": "ဘယ်အချိန်က စပြီး ချောင်းဆိုးတာလဲ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.01_B004",
           "priority": "core",
@@ -70,8 +107,21 @@
           "id": "08.01.01-S004",
           "text": "我肚子不舒服。",
           "meaning_my": "ဗိုက်မအီမသာ ဖြစ်နေတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.01.01-S004_reply01",
+              "text": "有没有想吐或者拉肚子？",
+              "meaning_my": "အန်ချင်တာ၊ ဝမ်းလျှောတာ ရှိလား။",
+              "source_ref": "user_original_08.01.01_B006"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.01.01-S004_alt01",
+              "text": "我肚子不太舒服。",
+              "meaning_my": "ဗိုက်နည်းနည်း မအီမသာဖြစ်နေတယ်။"
+            }
+          ],
           "source_ref": "user_original_08.01.01_B005",
           "priority": "core",
           "pinyin": null,
@@ -110,7 +160,13 @@
           "text": "我有点头晕。",
           "meaning_my": "ခေါင်းနည်းနည်းမူးနေတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "08.01.01-S007_alt01",
+              "text": "我头晕。",
+              "meaning_my": "ခေါင်းမူးနေတယ်။"
+            }
+          ],
           "source_ref": "user_original_08.01.01_B008",
           "priority": "core",
           "pinyin": null,
@@ -187,40 +243,79 @@
           "id": "08.01.01-S013",
           "text": "我有点胸闷。",
           "meaning_my": "ရင်ဘတ်ထဲ ကျပ်နေသလို ခံစားရတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.01-S013_reply01",
+              "text": "请尽快告诉医护人员。",
+              "meaning_my": "ဆရာဝန် ဒါမှမဟုတ် သူနာပြုကို မြန်မြန်ပြောပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.01_B011",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "胸闷伴随胸痛、严重呼吸困难、晕厥等可能需要急诊，不能只按普通门诊流程等待。",
+              "text_my": "ရင်ဘတ်ကျပ်တာနဲ့အတူ ရင်ဘတ်နာတာ၊ အသက်ရှူရခက်တာ၊ မေ့လဲတာရှိရင် အရေးပေါ်ကုသမှု လိုနိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "08.01.01-S014",
           "text": "我喘不过气。",
           "meaning_my": "အသက်ရှူလို့ မဝဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.01-S014_reply01",
+              "text": "请马上帮我叫医护人员！",
+              "meaning_my": "ဆရာဝန် ဒါမှမဟုတ် သူနာပြုကို ချက်ချင်းခေါ်ပေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "editorial_08.01.01_E01",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "“喘不过气”描述明显呼吸困难；正在发生严重呼吸困难时应立即联系当地急救或现场医护人员。",
+              "text_my": "အသက်ရှူရ အလွန်ခက်နေတယ်ဆိုရင် ဒေသတွင်း အရေးပေါ်အကူအညီ ဒါမှမဟုတ် အနီးရှိ ဆေးဘက်ဝန်ထမ်းကို ချက်ချင်း အကြောင်းကြားပါ။"
+            }
+          ]
         },
         {
           "id": "08.01.01-S015",
           "text": "我以前吃这药过敏过。",
           "meaning_my": "အရင်က ဒီဆေးသောက်ပြီး ဓာတ်မတည့်ဖူးတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.01-S015_reply01",
+              "text": "是什么反应？",
+              "meaning_my": "ဘယ်လို ဓာတ်မတည့်တဲ့ လက္ခဏာ ဖြစ်ခဲ့တာလဲ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.01_B020",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "药物过敏史要主动告知医生和药师；不要自行重试曾引起严重过敏的药物。",
+              "text_my": "ဆေးနဲ့ ဓာတ်မတည့်ဖူးတာရှိရင် ဆရာဝန်နဲ့ ဆေးဝါးပညာရှင်ကို ပြောပြပါ။ ပြင်းထန်စွာ ဓာတ်မတည့်ဖူးတဲ့ ဆေးကို ကိုယ့်သဘောနဲ့ ပြန်မစမ်းပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "08.01.01-S016",
@@ -237,22 +332,15 @@
         },
         {
           "id": "08.01.01-S017",
-          "text": "哪里不舒服？",
-          "meaning_my": "ဘယ်နေရာမှာ နေမကောင်းဖြစ်နေလဲ။",
-          "replies": [],
-          "alternatives": [],
-          "source_ref": "user_addition_08.01.01_N01",
-          "priority": "situational",
-          "pinyin": null,
-          "phonetic_my": null,
-          "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
-        },
-        {
-          "id": "08.01.01-S018",
           "text": "什么时候开始的？",
           "meaning_my": "ဘယ်အချိန်က စဖြစ်တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.01-S017_reply01",
+              "text": "从昨天晚上开始的。",
+              "meaning_my": "မနေ့ညကတည်းက စဖြစ်တာပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.01_B016",
           "priority": "situational",
@@ -262,7 +350,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S019",
+          "id": "08.01.01-S018",
           "text": "疼多久了？",
           "meaning_my": "နာနေတာ ဘယ်လောက်ကြာပြီလဲ။",
           "replies": [],
@@ -275,10 +363,16 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S020",
+          "id": "08.01.01-S019",
           "text": "疼得厉害吗？",
           "meaning_my": "အရမ်းနာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.01-S019_reply01",
+              "text": "挺疼的。",
+              "meaning_my": "တော်တော်နာတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.01_B017",
           "priority": "situational",
@@ -288,7 +382,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S021",
+          "id": "08.01.01-S020",
           "text": "有没有吃过药？",
           "meaning_my": "ဆေးတစ်ခုခု သောက်ထားလား။",
           "replies": [],
@@ -301,7 +395,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S022",
+          "id": "08.01.01-S021",
           "text": "有没有发烧？",
           "meaning_my": "ဖျားနေလား။",
           "replies": [],
@@ -314,7 +408,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S023",
+          "id": "08.01.01-S022",
           "text": "从昨天晚上就开始疼。",
           "meaning_my": "မနေ့ညကတည်းက နာနေတာ။",
           "replies": [],
@@ -327,7 +421,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S024",
+          "id": "08.01.01-S023",
           "text": "越来越严重了。",
           "meaning_my": "တဖြည်းဖြည်း ပိုဆိုးလာတယ်။",
           "replies": [],
@@ -340,20 +434,33 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S025",
+          "id": "08.01.01-S024",
           "text": "我体温三十八度五。",
           "meaning_my": "ကိုယ်အပူချိန် ၃၈ ဒီဂရီခွဲ ရှိတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.01-S024_reply01",
+              "text": "知道了，我记录一下。",
+              "meaning_my": "သိပါပြီ၊ မှတ်ထားလိုက်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.01.01_N20",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“三十八度五”即38.5°C。温度数字应完整准确朗读，避免混淆38.5与35.8。",
+              "text_my": "“三十八度五” ဆိုတာ ၃၈.၅°C ပါ။ အပူချိန်ဂဏန်းကို သေချာဖတ်ပါ။"
+            }
+          ]
         },
         {
-          "id": "08.01.01-S026",
+          "id": "08.01.01-S025",
           "text": "一阵一阵地疼。",
           "meaning_my": "တစ်ခါနာပြီး ခဏပြန်သက်သာလိုက် ဖြစ်နေတယ်။",
           "replies": [],
@@ -366,7 +473,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "08.01.01-S027",
+          "id": "08.01.01-S026",
           "text": "一直疼。",
           "meaning_my": "အဆက်မပြတ် နာနေတယ်။",
           "replies": [],
@@ -390,14 +497,34 @@
           "id": "08.01.02-S001",
           "text": "我想挂号。",
           "meaning_my": "ဆရာဝန်ပြဖို့ စာရင်းသွင်းချင်ပါတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.01.02-S001_reply01",
+              "text": "请先去分诊台。",
+              "meaning_my": "လူနာတွေကို အရင်စစ်ပြီး ဌာနခွဲပေးတဲ့ကောင်တာကို သွားပါ။",
+              "source_ref": "user_original_08.01.02_B013"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.01.02-S001_alt01",
+              "text": "我想看医生。",
+              "meaning_my": "ဆရာဝန်ပြချင်ပါတယ်။"
+            }
+          ],
           "source_ref": "user_original_08.01.02_B001",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "中国门诊“挂号”一般是登记就诊和领取就诊号；急诊分诊流程与普通门诊不同，具体以医院为准。",
+              "text_my": "တရုတ်ဆေးရုံမှာ “挂号” က ဆရာဝန်ပြဖို့ စာရင်းသွင်းပြီး နံပါတ်ယူတာပါ။ အရေးပေါ်ဌာနလုပ်ထုံးလုပ်နည်းက မတူနိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "08.01.02-S002",
@@ -416,7 +543,13 @@
           "id": "08.01.02-S003",
           "text": "应该挂什么科？",
           "meaning_my": "ဘယ်ဌာနမှာ စာရင်းသွင်းရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.02-S003_reply01",
+              "text": "先说一下哪里不舒服。",
+              "meaning_my": "ဘယ်နေရာ နေမကောင်းဖြစ်နေလဲ အရင်ပြောပြပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.02_B002",
           "priority": "core",
@@ -429,7 +562,13 @@
           "id": "08.01.02-S004",
           "text": "我有预约。",
           "meaning_my": "ကြိုတင်ချိန်းထားပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.02-S004_reply01",
+              "text": "请出示预约信息。",
+              "meaning_my": "ကြိုတင်ချိန်းထားတဲ့ အချက်အလက်ကို ပြပေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.02_B003",
           "priority": "core",
@@ -455,7 +594,14 @@
           "id": "08.01.02-S006",
           "text": "今天还有号吗？",
           "meaning_my": "ဒီနေ့ ဆရာဝန်ပြဖို့ နံပါတ်ကျန်သေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.02-S006_reply01",
+              "text": "今天的号已经满了。",
+              "meaning_my": "ဒီနေ့အတွက် နံပါတ်တွေ ပြည့်သွားပြီ။",
+              "source_ref": "user_original_08.01.02_B012"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.02_B005",
           "priority": "core",
@@ -494,14 +640,27 @@
           "id": "08.01.02-S009",
           "text": "可以用护照挂号吗？",
           "meaning_my": "ပတ်စ်ပို့နဲ့ လူနာစာရင်းသွင်းလို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.02-S009_reply01",
+              "text": "请到窗口确认一下。",
+              "meaning_my": "ကောင်တာမှာ မေးပြီး အတည်ပြုပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.02_B009",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "外国患者是否可以用护照及如何挂号，因医院和挂号渠道而异；应向医院柜台确认。",
+              "text_my": "နိုင်ငံခြားသားတွေ ပတ်စ်ပို့နဲ့ စာရင်းသွင်းလို့ရမရက ဆေးရုံအလိုက် ကွာနိုင်လို့ ကောင်တာမှာ မေးပါ။"
+            }
+          ]
         },
         {
           "id": "08.01.02-S010",
@@ -566,13 +725,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“医保”通常指中国医疗保障制度，是否能结算要看个人参保状态、医院和项目；不能把它理解为所有外国人自动享有。",
+              "text_my": "“医保” က တရုတ်ကျန်းမာရေးအာမခံစနစ်ပါ။ အာမခံဝင်ထားမှုနဲ့ ဆေးရုံပေါ် မူတည်တယ်။ နိုင်ငံခြားသားတိုင်း အလိုအလျောက် မရပါ။"
+            }
+          ]
         },
         {
           "id": "08.01.02-S015",
           "text": "网上约了，怎么取号？",
           "meaning_my": "အွန်လိုင်းကနေ ချိန်းထားတာ၊ နံပါတ်ကို ဘယ်လိုယူရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.02-S015_reply01",
+              "text": "请到自助机或挂号窗口咨询。",
+              "meaning_my": "ကိုယ်တိုင်နံပါတ်ထုတ်တဲ့စက် ဒါမှမဟုတ် ကောင်တာမှာ မေးကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.02_B016",
           "priority": "situational",
@@ -650,7 +822,13 @@
           "id": "08.01.02-S021",
           "text": "我中文不太好，能帮我找翻译吗？",
           "meaning_my": "တရုတ်စကား သိပ်မတတ်လို့ ဘာသာပြန်ပေးမယ့်သူ ရှာပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.02-S021_reply01",
+              "text": "我帮你问问有没有翻译服务。",
+              "meaning_my": "ဘာသာပြန်ဝန်ဆောင်မှု ရှိမရှိ မေးပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "editorial_08.01.02_E01",
           "priority": "situational",
@@ -685,7 +863,13 @@
           "text": "还需要做检查吗？",
           "meaning_my": "နောက်ထပ် စစ်ဆေးမှု လုပ်ဖို့ လိုသေးလား။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "08.01.03-S001_alt01",
+              "text": "还要检查吗？",
+              "meaning_my": "နောက်ထပ် စစ်ဆေးဖို့ လိုသေးလား။"
+            }
+          ],
           "source_ref": "user_original_08.01.03_B001",
           "priority": "core",
           "pinyin": null,
@@ -697,7 +881,14 @@
           "id": "08.01.03-S002",
           "text": "要抽血吗？",
           "meaning_my": "သွေးဖောက်စစ်ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.03-S002_reply01",
+              "text": "要，我给你开了验血单。",
+              "meaning_my": "လိုပါတယ်၊ သွေးစစ်ဖို့ စာရွက် ရေးပေးထားတယ်။",
+              "source_ref": "user_original_08.01.03_B003"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.03_B002",
           "priority": "core",
@@ -723,14 +914,27 @@
           "id": "08.01.03-S004",
           "text": "需要空腹吗？",
           "meaning_my": "အစာမစားဘဲ လာရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.03-S004_reply01",
+              "text": "我帮你确认检查要求。",
+              "meaning_my": "စစ်ဆေးမှုအတွက် လိုအပ်ချက်တွေကို အတည်ပြုပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.03_B005",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "是否需要空腹、可以喝水以及是否停药，取决于具体检查和个人情况；应向医生或检查部门确认，不应自行停药。",
+              "text_my": "အစာမစားရမရ၊ ရေသောက်လို့ရမရ၊ ဆေးရပ်ရမရက စစ်ဆေးမှုအလိုက် ကွာတယ်။ ဆရာဝန်ကို မေးပြီးမှ လုပ်ပါ။"
+            }
+          ]
         },
         {
           "id": "08.01.03-S005",
@@ -762,7 +966,13 @@
           "id": "08.01.03-S007",
           "text": "检查结果什么时候出来？",
           "meaning_my": "စစ်ဆေးမှုအဖြေ ဘယ်တော့ ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.03-S007_reply01",
+              "text": "请按检查单上的时间查询。",
+              "meaning_my": "စစ်ဆေးမှုစာရွက်မှာ ရေးထားတဲ့အချိန်အတိုင်း အဖြေကို စစ်ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.03_B007",
           "priority": "core",
@@ -853,7 +1063,13 @@
           "id": "08.01.03-S014",
           "text": "结果在哪儿取？",
           "meaning_my": "အဖြေကို ဘယ်မှာ ထုတ်ယူရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.03-S014_reply01",
+              "text": "先看看手机上能不能查。",
+              "meaning_my": "ဖုန်းထဲမှာ အဖြေကြည့်လို့ရမရ အရင်စစ်ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.01.03_N13",
           "priority": "core",
@@ -879,7 +1095,13 @@
           "id": "08.01.03-S016",
           "text": "检查前要停药吗？",
           "meaning_my": "မစစ်ဆေးခင် သောက်နေတဲ့ဆေးတွေ ရပ်ထားရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.03-S016_reply01",
+              "text": "先问医生，不要自己停药。",
+              "meaning_my": "ဆရာဝန်ကို အရင်မေးပါ၊ ကိုယ့်သဘောနဲ့ ဆေးမရပ်ပါနဲ့။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.01.03_N11",
           "priority": "situational",
@@ -913,14 +1135,34 @@
           "id": "08.01.04-S002",
           "text": "检查结果怎么样？",
           "meaning_my": "စစ်ဆေးမှုအဖြေ ဘယ်လိုရှိလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.01.04-S002_reply01",
+              "text": "我结合症状给你解释一下。",
+              "meaning_my": "လက္ခဏာတွေနဲ့ တွဲပြီး အဖြေကို ရှင်းပြပေးမယ်။",
+              "source_ref": "user_original_08.01.04_B002"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.01.04-S002_alt01",
+              "text": "结果有没有问题？",
+              "meaning_my": "စစ်ဆေးမှုအဖြေမှာ ပြဿနာရှိလား။"
+            }
+          ],
           "source_ref": "user_original_08.01.04_B001",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“检查结果”是报告/检验结果；结果偏高或异常不一定代表严重疾病，应由医生结合症状判断。",
+              "text_my": "စစ်ဆေးမှုအဖြေမှာ ပုံမှန်မဟုတ်တာတွေ့ရုံနဲ့ ပြင်းထန်တဲ့ရောဂါလို့ မဆိုနိုင်ဘူး။ ဆရာဝန်က လက္ခဏာတွေနဲ့ တွဲပြီး ဆုံးဖြတ်ရတယ်။"
+            }
+          ]
         },
         {
           "id": "08.01.04-S003",
@@ -939,7 +1181,14 @@
           "id": "08.01.04-S004",
           "text": "哪几项不正常？",
           "meaning_my": "ဘယ်အချက်တွေ ပုံမှန်မဟုတ်တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.04-S004_reply01",
+              "text": "这几项结果，我给你解释一下。",
+              "meaning_my": "ဒီအဖြေတွေကို ရှင်းပြပေးမယ်။",
+              "source_ref": "user_original_08.01.04_B003"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.01.04_N02",
           "priority": "core",
@@ -965,14 +1214,33 @@
           "id": "08.01.04-S006",
           "text": "这个药怎么吃？",
           "meaning_my": "ဒီဆေးကို ဘယ်လိုသောက်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.01.04-S006_reply01",
+              "text": "请按医生写的用法服用。",
+              "meaning_my": "ဆရာဝန် ရေးပေးထားတဲ့ သောက်နည်းအတိုင်း သောက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.01.04-S006_alt01",
+              "text": "这个药怎么服用？",
+              "meaning_my": "ဒီဆေးကို ဘယ်လိုသောက်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_addition_08.01.04_N05",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "问清每次剂量、每日次数、饭前饭后、疗程及过敏史；不要从通用口语句推断具体用药方案。",
+              "text_my": "ဆေးတစ်ခါ ဘယ်လောက်သောက်ရမလဲ၊ တစ်နေ့ ဘယ်နှကြိမ်၊ အစာမစားခင်လား၊ စားပြီးမှလားဆိုတာ ဆရာဝန်ကို သေချာမေးပါ။"
+            }
+          ]
         },
         {
           "id": "08.01.04-S007",
@@ -1043,7 +1311,13 @@
           "id": "08.01.04-S012",
           "text": "什么时候复查？",
           "meaning_my": "ဘယ်တော့ ပြန်လာစစ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.04-S012_reply01",
+              "text": "医生会告诉你具体日期。",
+              "meaning_my": "ဆရာဝန်က ပြန်စစ်ရမယ့် ရက်ကို ပြောပေးပါလိမ့်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.04_B004",
           "priority": "core",
@@ -1056,14 +1330,27 @@
           "id": "08.01.04-S013",
           "text": "如果没好转怎么办？",
           "meaning_my": "မသက်သာရင် ဘယ်လိုလုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.01.04-S013_reply01",
+              "text": "请及时复诊，必要时尽快就医。",
+              "meaning_my": "မသက်သာရင် ဆရာဝန်ပြန်ပြပါ၊ လိုအပ်ရင် အမြန် ဆေးကုသမှုခံယူပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.01.04_B006",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "如症状明显加重、呼吸困难或出现其他危险信号，应及时求助，不应仅等待预约复诊日期。",
+              "text_my": "ရောဂါလက္ခဏာ ပိုဆိုးလာတာ၊ အသက်ရှူခက်လာတာရှိရင် ချိန်းထားတဲ့ရက်အထိ မစောင့်ဘဲ ဆေးဘက်အကူအညီ တောင်းပါ။"
+            }
+          ]
         },
         {
           "id": "08.01.04-S014",
@@ -1147,11 +1434,11 @@
     }
   ],
   "extras_summary": {
-    "main": 84,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 84
+    "main": 83,
+    "replies": 27,
+    "alternatives": 8,
+    "notes": 11,
+    "total_audio": 118
   },
   "quality_review": {
     "date": "2026-11-12",
@@ -1161,7 +1448,10 @@
       "sequential main IDs",
       "unique main Chinese",
       "all phrases with source_ref",
-      "no advice on actual medications or fasting as universal rule"
+      "no advice on actual medications or fasting as universal rule",
+      "cross-topic duplicate checked and removed one",
+      "health safety notes are not audio instructions",
+      "replies are only for useful practical exchanges"
     ],
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
