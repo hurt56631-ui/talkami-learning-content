@@ -17,7 +17,7 @@
     "selected_from_original": 58,
     "selected_from_additions": 33
   },
-  "note": "原稿94句、补充70句中选择高频实用用药沟通短句；严重药物过敏与误服仅教学求救表达，不能代替医护判断；待补按需回复、类似说法、说明和配音清单。母语药学术语终审未完成。",
+  "note": "原稿94句和补充70句筛选91主句、32按需回复、10类似说法及10中缅说明。按使用场景重排；不得把教材对话视为药物处方、用量或停药建议，疑似严重过敏需立即急救。缅语药学母语终审待完成。",
   "scenes": [
     {
       "id": "08.02.01",
@@ -29,8 +29,20 @@
           "id": "08.02.01-S001",
           "text": "我想买感冒药。",
           "meaning_my": "အအေးမိဆေး ဝယ်ချင်ပါတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.01-S001_reply01",
+              "text": "有什么症状？",
+              "meaning_my": "ဘာလက္ခဏာတွေ ဖြစ်နေလဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.01-S001_alt01",
+              "text": "有治感冒的药吗？",
+              "meaning_my": "အအေးမိတာအတွက် ဆေး ရှိလား။"
+            }
+          ],
           "source_ref": "user_original_08.02.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -42,21 +54,46 @@
           "id": "08.02.01-S002",
           "text": "咳嗽吃什么药？",
           "meaning_my": "ချောင်းဆိုးရင် ဘာဆေးသောက်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S002_reply01",
+              "text": "最好先让药师了解症状。",
+              "meaning_my": "ဆေးဝါးပညာရှင်ကို လက္ခဏာတွေ အရင်ပြောပြပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.01_B006",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "咳嗽可由多种原因引起，不能仅凭“咳嗽”确定适合哪种药；应向药师或医生说明症状、年龄和其他用药。",
+              "text_my": "ချောင်းဆိုးတာက အကြောင်းရင်းအမျိုးမျိုးကြောင့် ဖြစ်နိုင်တယ်။ ဆေးရွေးဖို့ လက္ခဏာ၊ အသက်နဲ့ သောက်နေတဲ့ဆေးတွေကို ဆေးဝါးပညာရှင်ကို ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "08.02.01-S003",
           "text": "有退烧药吗？",
           "meaning_my": "အဖျားကျဆေး ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.01-S003_reply01",
+              "text": "有，先告诉我年龄和用药情况。",
+              "meaning_my": "ရှိပါတယ်၊ အသက်နဲ့ လက်ရှိသောက်နေတဲ့ဆေးတွေကို အရင်ပြောပြပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.01-S003_alt01",
+              "text": "有降温退烧的药吗？",
+              "meaning_my": "အဖျားကျစေတဲ့ ဆေး ရှိလား။"
+            }
+          ],
           "source_ref": "user_original_08.02.01_B002",
           "priority": "core",
           "pinyin": null,
@@ -172,7 +209,13 @@
           "id": "08.02.01-S012",
           "text": "有儿童用的吗？",
           "meaning_my": "ကလေးသုံးဖို့ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S012_reply01",
+              "text": "孩子多大？",
+              "meaning_my": "ကလေး အသက်ဘယ်လောက်ရှိပြီလဲ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.02.01_N14",
           "priority": "core",
@@ -185,7 +228,13 @@
           "id": "08.02.01-S013",
           "text": "这是给孩子用的。",
           "meaning_my": "ဒါ ကလေးအတွက် သုံးဖို့ပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S013_reply01",
+              "text": "孩子几岁？体重多少？",
+              "meaning_my": "ကလေး အသက်ဘယ်နှစ်နှစ်ရှိပြီလဲ၊ ကိုယ်အလေးချိန် ဘယ်လောက်လဲ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.01_B013",
           "priority": "core",
@@ -211,7 +260,13 @@
           "id": "08.02.01-S015",
           "text": "我正在吃别的药。",
           "meaning_my": "တခြားဆေးတွေလည်း သောက်နေပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S015_reply01",
+              "text": "把药名告诉药师吧。",
+              "meaning_my": "သောက်နေတဲ့ ဆေးနာမည်တွေကို ဆေးဝါးပညာရှင်ကို ပြောပြပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.01_B009",
           "priority": "situational",
@@ -224,20 +279,46 @@
           "id": "08.02.01-S016",
           "text": "我以前吃药过敏过。",
           "meaning_my": "အရင်က ဆေးသောက်ပြီး ဓာတ်မတည့်ဖူးတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.01-S016_reply01",
+              "text": "对哪种药过敏？",
+              "meaning_my": "ဘယ်ဆေးနဲ့ ဓာတ်မတည့်ဖူးတာလဲ။",
+              "source_ref": "user_original_08.02.01_B011"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.01-S016_alt01",
+              "text": "我对某些药过敏。",
+              "meaning_my": "တချို့ဆေးတွေနဲ့ ဓာတ်မတည့်ဘူး။"
+            }
+          ],
           "source_ref": "user_original_08.02.01_B010",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "药物过敏史应主动告知医生或药师，尽可能说明药名和曾出现的反应。",
+              "text_my": "ဆေးနဲ့ ဓာတ်မတည့်ဖူးရင် ဆရာဝန်နဲ့ ဆေးဝါးပညာရှင်ကို ကြိုပြောပါ။ ဆေးနာမည်နဲ့ ဖြစ်ခဲ့တဲ့လက္ခဏာကို ပြောနိုင်ရင် ပိုကောင်းတယ်။"
+            }
+          ]
         },
         {
           "id": "08.02.01-S017",
           "text": "请问药师在吗？",
           "meaning_my": "ဆေးဝါးပညာရှင် ရှိပါသလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S017_reply01",
+              "text": "在，您需要咨询什么？",
+              "meaning_my": "ရှိပါတယ်၊ ဘာမေးချင်ပါသလဲ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.01_B012",
           "priority": "situational",
@@ -263,7 +344,13 @@
           "id": "08.02.01-S019",
           "text": "这药我能吃吗？",
           "meaning_my": "ဒီဆေးကို သောက်လို့ရမရ စစ်ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S019_reply01",
+              "text": "要先了解您的身体情况和正在吃的药。",
+              "meaning_my": "ကျန်းမာရေးအခြေအနေနဲ့ သောက်နေတဲ့ဆေးတွေကို အရင်သိဖို့ လိုပါတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.01_B003",
           "priority": "situational",
@@ -276,14 +363,27 @@
           "id": "08.02.01-S020",
           "text": "需要处方吗？",
           "meaning_my": "ဆရာဝန်ရဲ့ ဆေးစာ လိုလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S020_reply01",
+              "text": "这要看药品类别和当地规定。",
+              "meaning_my": "ဆေးအမျိုးအစားနဲ့ သက်ဆိုင်ရာစည်းမျဉ်းပေါ် မူတည်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.01_B005",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "有些药是处方药，需要医生开具处方；是否能直接购买取决于药物及当地规定。",
+              "text_my": "တချို့ဆေးတွေက ဆရာဝန်ဆေးစာ လိုတယ်။ ဆေးစာမပါဘဲ ဝယ်လို့ရမရက ဆေးအမျိုးအစားနဲ့ စည်းမျဉ်းပေါ် မူတည်တယ်။"
+            }
+          ]
         },
         {
           "id": "08.02.01-S021",
@@ -328,7 +428,13 @@
           "id": "08.02.01-S024",
           "text": "这药什么时候过期？",
           "meaning_my": "ဒီဆေး ဘယ်တော့ သက်တမ်းကုန်မလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.01-S024_reply01",
+              "text": "请看包装上的有效期。",
+              "meaning_my": "ဆေးဘူးပေါ်က သက်တမ်းကုန်ရက်ကို ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.01_B022",
           "priority": "situational",
@@ -388,8 +494,20 @@
           "id": "08.02.02-S001",
           "text": "这个药一天吃几次？",
           "meaning_my": "ဒီဆေးကို တစ်နေ့ ဘယ်နှကြိမ် သောက်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.02-S001_reply01",
+              "text": "按照医生或药师给您的用法服用。",
+              "meaning_my": "ဆရာဝန် ဒါမှမဟုတ် ဆေးဝါးပညာရှင် ညွှန်ထားတဲ့အတိုင်း သောက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.02-S001_alt01",
+              "text": "每天要吃几回？",
+              "meaning_my": "တစ်နေ့ ဘယ်နှကြိမ် သောက်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_original_08.02.02_B001",
           "priority": "core",
           "pinyin": null,
@@ -401,8 +519,20 @@
           "id": "08.02.02-S002",
           "text": "一次吃多少？",
           "meaning_my": "တစ်ကြိမ် ဘယ်လောက် သောက်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.02-S002_reply01",
+              "text": "请让药师按具体药品确认剂量。",
+              "meaning_my": "ဒီဆေးအတွက် သောက်ရမယ့်ပမာဏကို ဆေးဝါးပညာရှင်နဲ့ အတည်ပြုပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.02-S002_alt01",
+              "text": "每次要吃多少？",
+              "meaning_my": "တစ်ကြိမ်စီ ဘယ်လောက် သောက်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_addition_08.02.02_N01",
           "priority": "core",
           "pinyin": null,
@@ -427,7 +557,13 @@
           "id": "08.02.02-S004",
           "text": "饭前还是饭后？",
           "meaning_my": "အစာမစားခင်လား၊ စားပြီးမှလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.02-S004_reply01",
+              "text": "每种药不一样，请看药品说明。",
+              "meaning_my": "ဆေးတစ်မျိုးနဲ့တစ်မျိုး မတူဘူး၊ ဆေးညွှန်းကို ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.02_B002",
           "priority": "core",
@@ -479,14 +615,34 @@
           "id": "08.02.02-S008",
           "text": "忘吃一次怎么办？",
           "meaning_my": "တစ်ကြိမ် သောက်ဖို့ မေ့သွားရင် ဘယ်လိုလုပ်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.02-S008_reply01",
+              "text": "先问药师，别自己加倍吃。",
+              "meaning_my": "ဆေးဝါးပညာရှင်ကို အရင်မေးပါ၊ ကိုယ့်ဘာသာ နှစ်ဆ မသောက်ပါနဲ့။",
+              "source_ref": "user_original_08.02.02_B021"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.02-S008_alt01",
+              "text": "漏服一顿怎么办？",
+              "meaning_my": "ဆေးတစ်ကြိမ် မသောက်မိရင် ဘယ်လိုလုပ်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_original_08.02.02_B005",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "漏服后的处理取决于药物、剂量和距离下次服药的时间；不要自行把下一次剂量加倍，应咨询药师。",
+              "text_my": "ဆေးတစ်ကြိမ် မေ့သောက်မိရင် ဘာလုပ်ရမလဲဆိုတာ ဆေးအမျိုးအစားနဲ့ အချိန်ပေါ် မူတည်တယ်။ နောက်တစ်ကြိမ်ကို ကိုယ့်ဘာသာ နှစ်ဆ မသောက်ဘဲ ဆေးဝါးပညာရှင်ကို မေးပါ။"
+            }
+          ]
         },
         {
           "id": "08.02.02-S009",
@@ -505,14 +661,27 @@
           "id": "08.02.02-S010",
           "text": "药片能掰开吃吗？",
           "meaning_my": "ဆေးပြားကို ချိုးပြီး သောက်လို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.02-S010_reply01",
+              "text": "有些药不能掰开，先确认一下。",
+              "meaning_my": "တချို့ဆေးပြားတွေ ချိုးလို့မရဘူး၊ အရင်မေးကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.02_B007",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "缓释片、肠溶片等有些剂型不能随意掰开或嚼碎；必须确认具体产品的说明。",
+              "text_my": "အချိန်ကြာကြာ ဆေးထွက်တဲ့ဆေးပြားနဲ့ အူထဲမှာမှ ပျော်တဲ့ဆေးပြားတချို့ကို စိတ်ကြိုက် ချိုး၊ ဝါး မသောက်ရဘူး။ ဆေးညွှန်းကို စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "08.02.02-S011",
@@ -596,7 +765,13 @@
           "id": "08.02.02-S017",
           "text": "这个喷雾怎么用？",
           "meaning_my": "ဒီဖျန်းဆေးကို ဘယ်လိုသုံးရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.02-S017_reply01",
+              "text": "我给您讲一下正确用法。",
+              "meaning_my": "မှန်ကန်တဲ့ သုံးနည်းကို ရှင်းပြပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.02.02_N07",
           "priority": "situational",
@@ -656,7 +831,14 @@
           "id": "08.02.03-S001",
           "text": "有什么要注意的？",
           "meaning_my": "ဘာတွေ သတိထားရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.03-S001_reply01",
+              "text": "用药前先看说明书。",
+              "meaning_my": "ဆေးမသောက်ခင် ဆေးညွှန်းစာရွက်ကို အရင်ဖတ်ပါ။",
+              "source_ref": "user_original_08.02.03_B019"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.03_B006",
           "priority": "core",
@@ -669,21 +851,52 @@
           "id": "08.02.03-S002",
           "text": "这两个药能一起吃吗？",
           "meaning_my": "ဒီဆေးနှစ်မျိုးကို အတူသောက်လို့ရလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.03-S002_reply01",
+              "text": "把两种药的名字给药师看看。",
+              "meaning_my": "ဆေးနှစ်မျိုးရဲ့ နာမည်ကို ဆေးဝါးပညာရှင်ကို ပြပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.03-S002_alt01",
+              "text": "这两种药可以同时吃吗？",
+              "meaning_my": "ဒီဆေးနှစ်မျိုးကို တစ်ပြိုင်တည်း သောက်လို့ရလား။"
+            }
+          ],
           "source_ref": "user_original_08.02.03_B002",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "包括处方药、非处方药、中草药和营养补充剂在内，都应向药师说明，避免重复成分和药物相互作用。",
+              "text_my": "ဆရာဝန်ဆေး၊ ဆေးဆိုင်မှာ တိုက်ရိုက်ဝယ်တဲ့ဆေး၊ တိုင်းရင်းဆေးနဲ့ ဖြည့်စွက်စာတွေ သောက်နေတယ်ဆိုရင် ဆေးဝါးပညာရှင်ကို ပြောပါ။ ဆေးပါဝင်ပစ္စည်း ထပ်တာနဲ့ ဓာတ်ပြုတာတွေ ရှောင်ဖို့လိုတယ်။"
+            }
+          ]
         },
         {
           "id": "08.02.03-S003",
           "text": "这药有副作用吗？",
           "meaning_my": "ဒီဆေးမှာ ဘေးထွက်ဆိုးကျိုး ရှိလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.03-S003_reply01",
+              "text": "我给您说明常见的不良反应。",
+              "meaning_my": "အဖြစ်များတဲ့ ဘေးထွက်ဆိုးကျိုးတွေကို ရှင်းပြပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.03-S003_alt01",
+              "text": "吃了有什么不良反应吗？",
+              "meaning_my": "ဒီဆေးသောက်ရင် ဘယ်လို ဘေးထွက်ဆိုးကျိုးတွေ ရှိနိုင်လဲ။"
+            }
+          ],
           "source_ref": "user_original_08.02.03_B009",
           "priority": "core",
           "pinyin": null,
@@ -708,7 +921,14 @@
           "id": "08.02.03-S005",
           "text": "吃了会困吗？",
           "meaning_my": "ဒီဆေးသောက်ပြီး အိပ်ငိုက်မလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.03-S005_reply01",
+              "text": "有些药会让人犯困，要看具体药品。",
+              "meaning_my": "တချို့ဆေးတွေ သောက်ရင် အိပ်ငိုက်တတ်တယ်၊ ဆေးအမျိုးအစားပေါ် မူတည်တယ်။",
+              "source_ref": "user_original_08.02.03_B017"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.03_B003",
           "priority": "core",
@@ -721,7 +941,14 @@
           "id": "08.02.03-S006",
           "text": "吃药后能开车吗？",
           "meaning_my": "ဆေးသောက်ပြီး ကားမောင်းလို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.03-S006_reply01",
+              "text": "如果头晕或犯困，就不要开车。",
+              "meaning_my": "ခေါင်းမူးတာ ဒါမှမဟုတ် အိပ်ငိုက်တာ ရှိရင် ကားမမောင်းပါနဲ့။",
+              "source_ref": "user_original_08.02.03_B005"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.03_B004",
           "priority": "core",
@@ -747,14 +974,27 @@
           "id": "08.02.03-S008",
           "text": "孕妇可以用吗？",
           "meaning_my": "ကိုယ်ဝန်ဆောင်တွေ ဒီဆေး သုံးလို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.03-S008_reply01",
+              "text": "请先咨询医生或药师。",
+              "meaning_my": "ဆရာဝန် ဒါမှမဟုတ် ဆေးဝါးပညာရှင်ကို အရင်မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.03_B010",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "孕期、哺乳期、儿童和慢性病患者用药需确认具体药品，不应按普通成人剂量推断。",
+              "text_my": "ကိုယ်ဝန်ဆောင်၊ နို့တိုက်မိခင်၊ ကလေးနဲ့ နာတာရှည်ရောဂါရှိသူတွေက ဆေးတစ်မျိုးချင်းအလိုက် စစ်ဖို့လိုတယ်။ လူကြီးသောက်တဲ့ ပမာဏကို လိုက်မယူပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "08.02.03-S009",
@@ -851,14 +1091,27 @@
           "id": "08.02.03-S016",
           "text": "这药需要放冰箱吗？",
           "meaning_my": "ဒီဆေးကို ရေခဲသေတ္တာထဲ သိမ်းရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.03-S016_reply01",
+              "text": "请按包装上写的保存条件存放。",
+              "meaning_my": "ဆေးဘူးပေါ်က သိမ်းဆည်းနည်းအတိုင်း သိမ်းပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.03_B021",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "并不是所有药都要冷藏；按说明书上的温度、避光和开封后保存要求操作。",
+              "text_my": "ဆေးအားလုံး ရေခဲသေတ္တာထဲ ထည့်စရာမလိုဘူး။ ဆေးညွှန်းပေါ်က အပူချိန်၊ အလင်းရှောင်တာနဲ့ ဖွင့်ပြီးနောက် သိမ်းဆည်းနည်းကို လိုက်နာပါ။"
+            }
+          ]
         },
         {
           "id": "08.02.03-S017",
@@ -937,8 +1190,20 @@
           "id": "08.02.04-S001",
           "text": "吃药后难受，怎么办？",
           "meaning_my": "ဆေးသောက်ပြီး နေမကောင်းဖြစ်လာတယ်၊ ဘယ်လိုလုပ်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.04-S001_reply01",
+              "text": "请尽快联系医生或药师，严重时立即就医。",
+              "meaning_my": "ဆရာဝန် ဒါမှမဟုတ် ဆေးဝါးပညာရှင်ကို အမြန်ဆက်သွယ်ပါ၊ ပြင်းထန်ရင် ချက်ချင်း ဆေးကုသမှု ခံယူပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.04-S001_alt01",
+              "text": "吃了药不舒服，怎么办？",
+              "meaning_my": "ဆေးသောက်ပြီး နေမကောင်းဖြစ်ရင် ဘယ်လိုလုပ်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_original_08.02.04_B024",
           "priority": "core",
           "pinyin": null,
@@ -1002,7 +1267,13 @@
           "id": "08.02.04-S006",
           "text": "身上很痒。",
           "meaning_my": "တစ်ကိုယ်လုံး ယားနေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.04-S006_reply01",
+              "text": "吃药后才开始痒的吗？",
+              "meaning_my": "ဆေးသောက်ပြီးမှ ယားလာတာလား။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.04_B003",
           "priority": "core",
@@ -1028,7 +1299,13 @@
           "id": "08.02.04-S008",
           "text": "嘴唇有点肿。",
           "meaning_my": "နှုတ်ခမ်း နည်းနည်း ရောင်နေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.04-S008_reply01",
+              "text": "如果伴有呼吸困难，要立即叫救护车。",
+              "meaning_my": "အသက်ရှူခက်တာပါ တွဲဖြစ်လာရင် လူနာတင်ကား ချက်ချင်း ခေါ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.04_B009",
           "priority": "core",
@@ -1067,7 +1344,13 @@
           "id": "08.02.04-S011",
           "text": "吃药后喘不过气。",
           "meaning_my": "ဆေးသောက်ပြီး အသက်ရှူမဝဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.04-S011_reply01",
+              "text": "马上叫救护车，可能是严重过敏。",
+              "meaning_my": "လူနာတင်ကား ချက်ချင်း ခေါ်ပါ၊ ပြင်းထန်တဲ့ ဓာတ်မတည့်မှု ဖြစ်နိုင်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.04_B016",
           "priority": "core",
@@ -1100,7 +1383,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "在中国大陆，120为急救电话。服药后若出现呼吸困难、喉咙紧缩、舌头或嘴唇肿胀、晕厥等严重症状，应立即呼叫当地急救，不要等待症状自行缓解。",
+              "text_my": "တရုတ်ပြည်မကြီးမှာ 120 က လူနာတင်ကား အရေးပေါ်ဖုန်းနံပါတ်ပါ။ ဆေးသောက်ပြီး အသက်ရှူခက်တာ၊ လည်ချောင်းကျပ်တာ၊ လျှာ ဒါမှမဟုတ် နှုတ်ခမ်းရောင်တာ၊ သတိလစ်တာ ဖြစ်ရင် ချက်ချင်း အရေးပေါ်အကူအညီခေါ်ပါ။"
+            }
+          ]
         },
         {
           "id": "08.02.04-S014",
@@ -1132,20 +1422,47 @@
           "id": "08.02.04-S016",
           "text": "我好像吃错药了。",
           "meaning_my": "ဆေးမှားသောက်မိသလိုပဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.02.04-S016_reply01",
+              "text": "把药盒带上，马上联系医护人员。",
+              "meaning_my": "ဆေးဘူးကို ယူပြီး ဆရာဝန် ဒါမှမဟုတ် ကျန်းမာရေးဝန်ထမ်းကို ချက်ချင်း ဆက်သွယ်ပါ။",
+              "source_ref": "user_original_08.02.04_B023"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.02.04-S016_alt01",
+              "text": "我可能吃错药了。",
+              "meaning_my": "ဆေးမှားသောက်မိတာ ဖြစ်နိုင်တယ်။"
+            }
+          ],
           "source_ref": "user_original_08.02.04_B013",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "误服或过量时，应尽快联系当地急救、医生或毒物咨询机构，说明药名、服用量及时间；不要自行催吐。",
+              "text_my": "ဆေးမှားသောက်တာ၊ ပမာဏပိုသောက်တာ ဖြစ်ရင် အရေးပေါ်ဌာန ဒါမှမဟုတ် ဆရာဝန်ကို အမြန်ဆက်သွယ်ပြီး ဆေးနာမည်၊ ပမာဏနဲ့ သောက်ခဲ့တဲ့အချိန်ကို ပြောပါ။ ကိုယ့်ဘာသာ အန်အောင် မလုပ်ပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "08.02.04-S017",
           "text": "我不小心多吃了一次。",
           "meaning_my": "မတော်တဆ ဆေးတစ်ကြိမ် ပိုသောက်မိသွားတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.04-S017_reply01",
+              "text": "把药名、剂量和服药时间告诉医生。",
+              "meaning_my": "ဆေးနာမည်၊ သောက်ထားတဲ့ပမာဏနဲ့ သောက်ခဲ့တဲ့အချိန်ကို ဆရာဝန်ကို ပြောပါ။",
+              "source_ref": "user_original_08.02.04_B022"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.04_B015",
           "priority": "situational",
@@ -1171,7 +1488,13 @@
           "id": "08.02.04-S019",
           "text": "要停药吗？",
           "meaning_my": "ဆေးရပ်သောက်သင့်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.04-S019_reply01",
+              "text": "需要根据药物和症状请医生判断。",
+              "meaning_my": "ဆေးအမျိုးအစားနဲ့ လက္ခဏာတွေကို ကြည့်ပြီး ဆရာဝန်က ဆုံးဖြတ်ပေးဖို့ လိုတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.04_B004",
           "priority": "situational",
@@ -1184,7 +1507,13 @@
           "id": "08.02.04-S020",
           "text": "这样要去医院吗？",
           "meaning_my": "ဒီလိုဖြစ်ရင် ဆေးရုံသွားဖို့လိုလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.02.04-S020_reply01",
+              "text": "如果呼吸困难、嘴唇或喉咙肿胀，应立即求救。",
+              "meaning_my": "အသက်ရှူခက်တာ၊ နှုတ်ခမ်း ဒါမှမဟုတ် လည်ချောင်းရောင်တာ ဖြစ်ရင် ချက်ချင်း အကူအညီတောင်းပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.02.04_B006",
           "priority": "situational",
@@ -1237,10 +1566,10 @@
   ],
   "extras_summary": {
     "main": 91,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 91
+    "replies": 32,
+    "alternatives": 10,
+    "notes": 10,
+    "total_audio": 133
   },
   "quality_review": {
     "status": "draft_pending_native_review",
@@ -1248,7 +1577,10 @@
     "checks": [
       "sequential scene main IDs",
       "unique main Chinese",
-      "source references present"
+      "source references present",
+      "no exact main Chinese duplicates across prior 43 topics",
+      "selective replies",
+      "drug safety notes and emergency referral"
     ],
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
