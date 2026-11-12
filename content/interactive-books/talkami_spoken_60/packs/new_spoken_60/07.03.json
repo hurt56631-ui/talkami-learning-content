@@ -6,18 +6,23 @@
   "theme_title_my": "အကောင့်၊ QR စကန်ဖတ်ခြင်းနှင့် အက်ပ်အသုံးပြုခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-12",
-  "phrase_count": 83,
-  "original_count": 54,
+  "phrase_count": 82,
+  "original_count": 53,
   "added_count": 29,
   "source_counts": {
     "original_candidates": 69,
     "proposed_additions": 61,
     "total_candidates": 130,
-    "selected_main": 83,
-    "selected_from_original": 54,
-    "selected_from_additions": 29
+    "selected_main": 82,
+    "selected_from_original": 53,
+    "selected_from_additions": 29,
+    "excluded_exact_duplicate": {
+      "source_id": "07.03.03-S002",
+      "existing_id": "04.05.01-S019",
+      "text": "扫哪个码？"
+    }
   },
-  "note": "原稿69句与建议补充61句精选，保留注册/登录、密码/验证码、扫码操作、下载更新与权限的高频口语；待补有实际价值的回复与类似说法。缅语母语终审和音频尚未完成。",
+  "note": "从原稿69句、补充61句中精简为82主句；删除和餐厅结账完全重复的“扫哪个码？”；按需增加30个常用回复、10条类似说法与9条中缅用法安全说明；母语终审和实际配音尚未完成。",
   "scenes": [
     {
       "id": "07.03.01",
@@ -42,8 +47,21 @@
           "id": "07.03.01-S002",
           "text": "怎么注册？",
           "meaning_my": "အကောင့် ဘယ်လိုဖွင့်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.03.01-S002_reply01",
+              "text": "先看看能不能用手机号或邮箱注册。",
+              "meaning_my": "ဖုန်းနံပါတ် ဒါမှမဟုတ် အီးမေးလ်နဲ့ ဖွင့်လို့ရမရ အရင်ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.03.01-S002_alt01",
+              "text": "这个账号怎么开？",
+              "meaning_my": "ဒီအကောင့်ကို ဘယ်လိုဖွင့်ရမလဲ။",
+              "source_ref": "user_addition_07.03.01_N01"
+            }
+          ],
           "source_ref": "user_original_07.03.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -81,21 +99,40 @@
           "id": "07.03.01-S005",
           "text": "没有中国手机号，能注册吗？",
           "meaning_my": "တရုတ်ဖုန်းနံပါတ် မရှိရင်လည်း အကောင့်ဖွင့်လို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.01-S005_reply01",
+              "text": "要看这个软件支不支持其他国家的号码。",
+              "meaning_my": "ဒီအက်ပ်က တခြားနိုင်ငံရဲ့ ဖုန်းနံပါတ်ကို လက်ခံမလားဆိုတာပေါ် မူတည်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.01_B005",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "能否用境外号码、邮箱或微信注册，取决于具体应用的注册政策；不要默认所有中国应用都允许。",
+              "text_my": "ပြည်ပဖုန်းနံပါတ်၊ အီးမေးလ် ဒါမှမဟုတ် WeChat နဲ့ အကောင့်ဖွင့်လို့ရမရက အက်ပ်အလိုက် ကွာတယ်။ အက်ပ်တိုင်း ရမယ်လို့ မယူဆပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "07.03.01-S006",
           "text": "注册要收费吗？",
           "meaning_my": "အကောင့်ဖွင့်ဖို့ ပိုက်ဆံပေးရလား။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.03.01-S006_alt01",
+              "text": "开账号要钱吗？",
+              "meaning_my": "အကောင့်ဖွင့်ရင် ပိုက်ဆံကုန်လား။"
+            }
+          ],
           "source_ref": "user_addition_07.03.01_N14",
           "priority": "core",
           "pinyin": null,
@@ -107,7 +144,14 @@
           "id": "07.03.01-S007",
           "text": "可以用手机号登录吗？",
           "meaning_my": "ဖုန်းနံပါတ်နဲ့ လော့ဂ်အင်ဝင်လို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.01-S007_reply01",
+              "text": "可以的话，先输入手机号。",
+              "meaning_my": "ရတယ်ဆိုရင် ဖုန်းနံပါတ် အရင်ရိုက်ထည့်ပါ။",
+              "source_ref": "user_original_07.03.01_B013"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.01_B002",
           "priority": "core",
@@ -140,7 +184,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“实名认证”通常是按平台要求核验真实身份，可能需要合法证件；不只是输入姓名，护照能否使用也因平台而异。",
+              "text_my": "“实名认证” က ကိုယ့်အထောက်အထားနဲ့ ကိုယ်ရေးအချက်အလက် အမှန်တကယ်ဖြစ်ကြောင်း စစ်တာပါ။ နာမည်တစ်ခုပဲ ရိုက်တာမဟုတ်ဘူး။ ပတ်စ်ပို့ လက်ခံမခံက အက်ပ်ပေါ် မူတည်တယ်။"
+            }
+          ]
         },
         {
           "id": "07.03.01-S010",
@@ -159,7 +210,14 @@
           "id": "07.03.01-S011",
           "text": "护照可以用来实名认证吗？",
           "meaning_my": "ပတ်စ်ပို့နဲ့ အထောက်အထား အတည်ပြုလို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.01-S011_reply01",
+              "text": "先看看证件类型里能不能选护照。",
+              "meaning_my": "အထောက်အထားအမျိုးအစားထဲမှာ ပတ်စ်ပို့ ရွေးလို့ရမရ ကြည့်ပါ။",
+              "source_ref": "user_original_07.03.01_B007"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.01_B006",
           "priority": "core",
@@ -211,7 +269,13 @@
           "id": "07.03.01-S015",
           "text": "为什么注册不了？",
           "meaning_my": "ဘာလို့ အကောင့်ဖွင့်လို့မရတာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.01-S015_reply01",
+              "text": "检查一下是不是信息填错了。",
+              "meaning_my": "ဖြည့်ထားတဲ့ အချက်အလက် မှားနေသလား စစ်ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.01_B017",
           "priority": "situational",
@@ -251,7 +315,13 @@
           "text": "登录不上怎么办？",
           "meaning_my": "လော့ဂ်အင်ဝင်လို့မရရင် ဘယ်လိုလုပ်ရမလဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.03.01-S018_alt01",
+              "text": "一直登录不了。",
+              "meaning_my": "လော့ဂ်အင်ဝင်လို့ကို မရဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.03.01_B010",
           "priority": "situational",
           "pinyin": null,
@@ -289,7 +359,13 @@
           "id": "07.03.01-S021",
           "text": "账号被锁了，怎么办？",
           "meaning_my": "အကောင့် လော့ခ်ကျသွားရင် ဘယ်လိုလုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.01-S021_reply01",
+              "text": "先按页面提示找回，必要时联系客服。",
+              "meaning_my": "စာမျက်နှာမှာ ပြထားတဲ့အတိုင်း အကောင့်ပြန်ရယူကြည့်ပါ။ လိုရင် ဝန်ဆောင်မှုကို ဆက်သွယ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.01_B020",
           "priority": "situational",
@@ -315,7 +391,14 @@
           "id": "07.03.01-S023",
           "text": "验证码发到哪个手机号？",
           "meaning_my": "အတည်ပြုကုဒ်ကို ဘယ်ဖုန်းနံပါတ်ဆီ ပို့မှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.01-S023_reply01",
+              "text": "发到刚才填的手机号了。",
+              "meaning_my": "ခုနက ဖြည့်ထားတဲ့ ဖုန်းနံပါတ်ဆီ ပို့ထားပြီ။",
+              "source_ref": "user_original_07.03.01_B014"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.03.01_N05",
           "priority": "situational",
@@ -336,8 +419,21 @@
           "id": "07.03.02-S001",
           "text": "我忘记密码了。",
           "meaning_my": "စကားဝှက် မေ့သွားတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.03.02-S001_reply01",
+              "text": "点“忘记密码”试试。",
+              "meaning_my": "“စကားဝှက်မေ့နေသည်” ဆိုတာကို နှိပ်ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.03.02-S001_alt01",
+              "text": "密码忘了。",
+              "meaning_my": "စကားဝှက် မေ့သွားတယ်။",
+              "source_ref": "user_addition_07.03.01_N08"
+            }
+          ],
           "source_ref": "user_original_07.03.02_B001",
           "priority": "core",
           "pinyin": null,
@@ -356,13 +452,27 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“修改密码”通常在已登录时更换原密码；“重置密码”一般用于忘记密码后的账号找回。",
+              "text_my": "“修改密码” က ဝင်ထားတဲ့အကောင့်မှာ စကားဝှက်ပြောင်းတာပါ။ “重置密码” က မေ့သွားတဲ့စကားဝှက်ကို ပြန်သတ်မှတ်တာပါ။"
+            }
+          ]
         },
         {
           "id": "07.03.02-S003",
           "text": "怎么改密码？",
           "meaning_my": "စကားဝှက် ဘယ်လိုပြောင်းရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.02-S003_reply01",
+              "text": "去设置里找“修改密码”。",
+              "meaning_my": "ဆက်တင်ထဲမှာ “စကားဝှက်ပြောင်းရန်” ကို ရှာပါ။",
+              "source_ref": "user_original_07.03.02_B003"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.02_B002",
           "priority": "core",
@@ -388,7 +498,13 @@
           "id": "07.03.02-S005",
           "text": "密码太简单了。",
           "meaning_my": "စကားဝှက်က လွယ်လွန်းတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.02-S005_reply01",
+              "text": "可以换个更复杂的密码。",
+              "meaning_my": "ပိုခက်တဲ့ စကားဝှက်တစ်ခု ပြောင်းသုံးလို့ရတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.02_B008",
           "priority": "core",
@@ -400,7 +516,7 @@
         {
           "id": "07.03.02-S006",
           "text": "密码最少几位？",
-          "meaning_my": "စကားဝှက် အနည်းဆုံး အက္ခရာနဲ့ ဂဏန်း စုစုပေါင်း ဘယ်နှလုံး လိုလဲ။",
+          "meaning_my": "စကားဝှက် အနည်းဆုံး ဘယ်နှလုံး လိုလဲ။",
           "replies": [],
           "alternatives": [],
           "source_ref": "user_addition_07.03.02_N01",
@@ -414,7 +530,14 @@
           "id": "07.03.02-S007",
           "text": "两次密码不一样。",
           "meaning_my": "နှစ်ခါ ရိုက်ထည့်တဲ့ စကားဝှက် မတူဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.02-S007_reply01",
+              "text": "请重新输入，确认两次一样。",
+              "meaning_my": "စကားဝှက်ကို ပြန်ရိုက်ပြီး နှစ်ခါတူမတူ စစ်ပါ။",
+              "source_ref": "user_addition_07.03.02_N14"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.03.02_N04",
           "priority": "core",
@@ -453,8 +576,22 @@
           "id": "07.03.02-S010",
           "text": "没收到验证码。",
           "meaning_my": "အတည်ပြုကုဒ် မရသေးဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.03.02-S010_reply01",
+              "text": "先检查手机信号和短信拦截。",
+              "meaning_my": "ဖုန်းလိုင်းမိမိနဲ့ SMS ပိတ်ဆို့ထားမထား အရင်စစ်ကြည့်ပါ။",
+              "source_ref": "user_original_07.03.02_B005"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.03.02-S010_alt01",
+              "text": "一直收不到验证码。",
+              "meaning_my": "အတည်ပြုကုဒ် ဘယ်လိုမှ မရဘူး။",
+              "source_ref": "user_original_07.03.02_B015"
+            }
+          ],
           "source_ref": "user_original_07.03.02_B004",
           "priority": "core",
           "pinyin": null,
@@ -480,7 +617,13 @@
           "text": "验证码能重新发吗？",
           "meaning_my": "အတည်ပြုကုဒ်ကို ပြန်ပို့ပေးလို့ရလား။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.03.02-S012_alt01",
+              "text": "能再发一次验证码吗？",
+              "meaning_my": "အတည်ပြုကုဒ် နောက်တစ်ခါ ထပ်ပို့ပေးလို့ရလား။"
+            }
+          ],
           "source_ref": "user_original_07.03.02_B006",
           "priority": "core",
           "pinyin": null,
@@ -492,7 +635,13 @@
           "id": "07.03.02-S013",
           "text": "验证码过期了，怎么办？",
           "meaning_my": "အတည်ပြုကုဒ် သက်တမ်းကုန်သွားပြီ၊ ဘယ်လိုလုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.02-S013_reply01",
+              "text": "重新申请一个验证码吧。",
+              "meaning_my": "အတည်ပြုကုဒ်အသစ် ပြန်တောင်းလိုက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.02_B014",
           "priority": "core",
@@ -505,7 +654,13 @@
           "id": "07.03.02-S014",
           "text": "验证码发到旧手机号了。",
           "meaning_my": "အတည်ပြုကုဒ်ကို ဖုန်းနံပါတ်အဟောင်းဆီ ပို့သွားတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.02-S014_reply01",
+              "text": "看看能不能换一种验证方式。",
+              "meaning_my": "အတည်ပြုနည်း တခြားတစ်မျိုး ပြောင်းလို့ရမရ ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.02_B007",
           "priority": "situational",
@@ -551,7 +706,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "短信验证码和登录验证通知都可能被用于盗号；不要向陌生人或自称客服的人透露验证码。",
+              "text_my": "အတည်ပြုကုဒ်ကို သူများသိသွားရင် အကောင့်ခိုးယူနိုင်တယ်။ မသိတဲ့လူ ဒါမှမဟုတ် ဝန်ဆောင်မှုကလို့ ပြောသူကိုပါ ကုဒ်မပေးပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "07.03.02-S018",
@@ -564,7 +726,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "双重验证是密码之外的额外身份核验方式；平台支持时通常建议开启，并保存好恢复方式。",
+              "text_my": "နှစ်ဆင့်အတည်ပြုစနစ်က စကားဝှက်အပြင် နောက်ထပ် အတည်ပြုချက်တစ်ဆင့် ပါတာပါ။ အက်ပ်မှာ ရှိရင် ဖွင့်ထားတာ ပိုလုံခြုံတယ်။"
+            }
+          ]
         }
       ]
     },
@@ -572,13 +741,20 @@
       "id": "07.03.03",
       "title": "扫码操作",
       "title_my": "QR ကုဒ် စကန်ဖတ်ခြင်း",
-      "phrase_count": 18,
+      "phrase_count": 17,
       "phrases": [
         {
           "id": "07.03.03-S001",
           "text": "扫一扫在哪儿？",
           "meaning_my": "QR စကန်ဖတ်တဲ့ခလုတ် ဘယ်မှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.03-S001_reply01",
+              "text": "在应用里找“扫一扫”。",
+              "meaning_my": "အက်ပ်ထဲမှာ QR စကန်ဖတ်တဲ့နေရာကို ရှာပါ။",
+              "source_ref": "user_addition_07.03.03_N02"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.03.03_N01",
           "priority": "core",
@@ -589,22 +765,15 @@
         },
         {
           "id": "07.03.03-S002",
-          "text": "扫哪个码？",
-          "meaning_my": "ဘယ် QR ကုဒ်ကို စကန်ဖတ်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
-          "source_ref": "user_original_07.03.03_B002",
-          "priority": "core",
-          "pinyin": null,
-          "phonetic_my": null,
-          "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
-        },
-        {
-          "id": "07.03.03-S003",
           "text": "这个码用什么软件扫？",
           "meaning_my": "ဒီ QR ကုဒ်ကို ဘယ်အက်ပ်နဲ့ စကန်ဖတ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.03-S002_reply01",
+              "text": "先看提示，用对应的App扫。",
+              "meaning_my": "ညွှန်ကြားချက်ကို ကြည့်ပြီး သက်ဆိုင်ရာအက်ပ်နဲ့ စကန်ဖတ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.03_B003",
           "priority": "core",
@@ -614,11 +783,24 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S004",
+          "id": "07.03.03-S003",
           "text": "这个码扫不出来。",
           "meaning_my": "ဒီ QR ကုဒ်ကို စကန်ဖတ်လို့မရဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.03.03-S003_reply01",
+              "text": "对准二维码再试试。",
+              "meaning_my": "QR ကုဒ်ကို တည့်တည့်ချိန်ပြီး ပြန်စကန်ဖတ်ကြည့်ပါ။",
+              "source_ref": "user_addition_07.03.03_N03"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.03.03-S003_alt01",
+              "text": "这个二维码扫不了。",
+              "meaning_my": "ဒီ QR ကုဒ် စကန်ဖတ်လို့မရဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.03.03_B005",
           "priority": "core",
           "pinyin": null,
@@ -627,10 +809,16 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S005",
+          "id": "07.03.03-S004",
           "text": "这个二维码过期了吗？",
           "meaning_my": "ဒီ QR ကုဒ် သက်တမ်းကုန်ပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.03-S004_reply01",
+              "text": "可能过期了，请重新生成一个。",
+              "meaning_my": "သက်တမ်းကုန်သွားတာ ဖြစ်နိုင်တယ်၊ အသစ်ပြန်ထုတ်ပေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.03_B004",
           "priority": "core",
@@ -640,7 +828,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S006",
+          "id": "07.03.03-S005",
           "text": "光线太暗，扫不出来。",
           "meaning_my": "အလင်းရောင် နည်းလွန်းလို့ စကန်ဖတ်မရဘူး။",
           "replies": [],
@@ -653,7 +841,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S007",
+          "id": "07.03.03-S006",
           "text": "扫完没反应。",
           "meaning_my": "စကန်ဖတ်ပြီး ဘာမှ မပေါ်လာဘူး။",
           "replies": [],
@@ -666,7 +854,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S008",
+          "id": "07.03.03-S007",
           "text": "扫完跳转到网页了。",
           "meaning_my": "စကန်ဖတ်ပြီး ဝက်ဘ်စာမျက်နှာတစ်ခု ပွင့်လာတယ်။",
           "replies": [],
@@ -679,10 +867,16 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S009",
+          "id": "07.03.03-S008",
           "text": "扫码后还要登录吗？",
           "meaning_my": "QR ကုဒ်စကန်ဖတ်ပြီးရင်လည်း လော့ဂ်အင်ဝင်ရဦးမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.03-S008_reply01",
+              "text": "有些页面需要先登录。",
+              "meaning_my": "တချို့စာမျက်နှာတွေမှာ အရင် လော့ဂ်အင်ဝင်ရတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.03_B001",
           "priority": "core",
@@ -692,7 +886,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S010",
+          "id": "07.03.03-S009",
           "text": "提示要登录才能继续。",
           "meaning_my": "ဆက်လုပ်ဖို့ လော့ဂ်အင်ဝင်ရမယ်လို့ ပြနေတယ်။",
           "replies": [],
@@ -705,11 +899,17 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S011",
+          "id": "07.03.03-S010",
           "text": "扫码后要填什么？",
           "meaning_my": "စကန်ဖတ်ပြီးရင် ဘာတွေဖြည့်ရမလဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.03.03-S010_alt01",
+              "text": "扫完还要填什么信息？",
+              "meaning_my": "စကန်ဖတ်ပြီးရင် ဘာအချက်အလက်တွေ ထပ်ဖြည့်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_original_07.03.03_B014",
           "priority": "core",
           "pinyin": null,
@@ -718,7 +918,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S012",
+          "id": "07.03.03-S011",
           "text": "扫完点这里吗？",
           "meaning_my": "စကန်ဖတ်ပြီး ဒီနေရာကို နှိပ်ရမှာလား။",
           "replies": [],
@@ -731,10 +931,16 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S013",
+          "id": "07.03.03-S012",
           "text": "扫完还要确认吗？",
           "meaning_my": "စကန်ဖတ်ပြီး အတည်ပြုရသေးလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.03-S012_reply01",
+              "text": "看页面提示，确认内容后再操作。",
+              "meaning_my": "စာမျက်နှာမှာ ပြထားတာကို ကြည့်ပြီး အချက်အလက်မှန်မှ ဆက်လုပ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.03.03_N10",
           "priority": "core",
@@ -744,20 +950,33 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S014",
+          "id": "07.03.03-S013",
           "text": "这是付款码还是收款码？",
           "meaning_my": "ဒါ ငွေပေးတဲ့ကုဒ်လား၊ ငွေလက်ခံတဲ့ကုဒ်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.03-S013_reply01",
+              "text": "这是收款码，不是付款码。",
+              "meaning_my": "ဒါ ငွေလက်ခံတဲ့ QR ကုဒ်ပါ၊ ငွေပေးတဲ့ကုဒ် မဟုတ်ဘူး။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.03_B006",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“付款码”通常用于出示给商家扣款，“收款码”用于让别人扫码付款；别在不明场景随意出示支付二维码。",
+              "text_my": "“付款码” က ဆိုင်ကိုပြပြီး ငွေပေးတဲ့ကုဒ်၊ “收款码” က တခြားသူကို စကန်ဖတ်ပြီး ငွေပေးခိုင်းတဲ့ကုဒ်ပါ။ မသိတဲ့နေရာမှာ ငွေပေးကုဒ်ကို လွယ်လွယ် မပြပါနဲ့။"
+            }
+          ]
         },
         {
-          "id": "07.03.03-S015",
+          "id": "07.03.03-S014",
           "text": "扫完码要付款吗？",
           "meaning_my": "QR ကုဒ် စကန်ဖတ်ပြီး ငွေပေးရမှာလား။",
           "replies": [],
@@ -770,7 +989,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S016",
+          "id": "07.03.03-S015",
           "text": "这个二维码安全吗？",
           "meaning_my": "ဒီ QR ကုဒ်ကို စကန်ဖတ်တာ စိတ်ချရလား။",
           "replies": [],
@@ -783,7 +1002,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "07.03.03-S017",
+          "id": "07.03.03-S016",
           "text": "扫之前先确认来源。",
           "meaning_my": "မစကန်ဖတ်ခင် QR ကုဒ်က ဘယ်ကလာတာလဲ သေချာစစ်ပါ။",
           "replies": [],
@@ -793,10 +1012,17 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "二维码可能打开陌生网站或支付页面；确认来源、网址和操作内容后再继续，不要随意输入密码或验证码。",
+              "text_my": "QR ကုဒ်က မသိတဲ့ဝက်ဘ်ဆိုက် ဒါမှမဟုတ် ငွေပေးချေမှုစာမျက်နှာကို ဖွင့်နိုင်တယ်။ ဘယ်ကလာတယ်ဆိုတာနဲ့ လင့်ခ်ကို အရင်စစ်ပြီးမှ ဆက်လုပ်ပါ။"
+            }
+          ]
         },
         {
-          "id": "07.03.03-S018",
+          "id": "07.03.03-S017",
           "text": "页面一直在加载。",
           "meaning_my": "စာမျက်နှာက တင်နေတုန်းပဲ။",
           "replies": [],
@@ -833,8 +1059,21 @@
           "id": "07.03.04-S002",
           "text": "软件从哪里下载？",
           "meaning_my": "အက်ပ်ကို ဘယ်ကနေ ဒေါင်းလုဒ်လုပ်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.03.04-S002_reply01",
+              "text": "建议从官方应用商店下载。",
+              "meaning_my": "တရားဝင် အက်ပ်စတိုးကနေ ဒေါင်းလုဒ်လုပ်တာ ပိုစိတ်ချရတယ်။",
+              "source_ref": "user_addition_07.03.04_N01"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.03.04-S002_alt01",
+              "text": "这个App在哪儿下载？",
+              "meaning_my": "ဒီအက်ပ်ကို ဘယ်မှာ ဒေါင်းလုဒ်လုပ်ရမလဲ။"
+            }
+          ],
           "source_ref": "user_original_07.03.04_B001",
           "priority": "core",
           "pinyin": null,
@@ -846,7 +1085,13 @@
           "id": "07.03.04-S003",
           "text": "这是官方软件吗？",
           "meaning_my": "ဒါ တရားဝင်အက်ပ်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S003_reply01",
+              "text": "先核对开发者和官方渠道。",
+              "meaning_my": "အက်ပ်ထုတ်လုပ်သူနဲ့ တရားဝင်လမ်းကြောင်းကို အရင်စစ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.04_B007",
           "priority": "core",
@@ -872,7 +1117,13 @@
           "id": "07.03.04-S005",
           "text": "下载完后怎么安装？",
           "meaning_my": "ဒေါင်းလုဒ်လုပ်ပြီးရင် ဘယ်လို အင်စတောလုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S005_reply01",
+              "text": "打开安装文件，按提示操作。",
+              "meaning_my": "အင်စတောဖိုင်ကို ဖွင့်ပြီး ပြထားတဲ့အတိုင်း လုပ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.04_B002",
           "priority": "core",
@@ -911,20 +1162,40 @@
           "id": "07.03.04-S008",
           "text": "安装被拦截了。",
           "meaning_my": "အက်ပ်အင်စတောလုပ်တာကို ဖုန်းက ပိတ်ဆို့ထားတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S008_reply01",
+              "text": "先确认来源，别急着关闭安全保护。",
+              "meaning_my": "အရင်းအမြစ်ကို အရင်စစ်ပါ၊ ဖုန်းလုံခြုံရေးကို ချက်ချင်း မပိတ်ပါနဲ့။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.03.04_N07",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "应用安装被安全机制拦截时先验证软件来源；不应为了安装未知应用而随意关闭安全保护或开启未知来源安装。",
+              "text_my": "အက်ပ်အင်စတောလုပ်တာ တားထားရင် အရင်းအမြစ် အရင်စစ်ပါ။ မသိတဲ့အက်ပ်တင်ဖို့ လုံခြုံရေးစနစ်ကို လွယ်လွယ် မပိတ်ပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "07.03.04-S009",
           "text": "手机存储空间不够了。",
           "meaning_my": "ဖုန်းထဲမှာ သိုလှောင်နေရာ မလောက်တော့ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S009_reply01",
+              "text": "先清理不需要的文件。",
+              "meaning_my": "မလိုတဲ့ဖိုင်တွေကို အရင်ရှင်းပါ။",
+              "source_ref": "user_addition_07.03.04_N06"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.04_B018",
           "priority": "core",
@@ -937,7 +1208,14 @@
           "id": "07.03.04-S010",
           "text": "这个软件打不开。",
           "meaning_my": "ဒီအက်ပ် ဖွင့်လို့မရဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S010_reply01",
+              "text": "把软件关掉再重新打开试试。",
+              "meaning_my": "အက်ပ်ကို ပိတ်ပြီး ပြန်ဖွင့်ကြည့်ပါ။",
+              "source_ref": "user_original_07.03.04_B016"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.04_B012",
           "priority": "core",
@@ -963,7 +1241,14 @@
           "id": "07.03.04-S012",
           "text": "这个软件怎么更新？",
           "meaning_my": "ဒီအက်ပ်ကို ဘယ်လို အပ်ဒိတ်လုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S012_reply01",
+              "text": "到应用商店里找更新。",
+              "meaning_my": "အက်ပ်စတိုးမှာ အပ်ဒိတ်ကို ရှာပါ။",
+              "source_ref": "user_original_07.03.04_B014"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.04_B013",
           "priority": "core",
@@ -1015,7 +1300,13 @@
           "id": "07.03.04-S016",
           "text": "通讯录权限可以不开吗？",
           "meaning_my": "ဖုန်းထဲက အဆက်အသွယ်စာရင်း ကြည့်ခွင့် မပေးလို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S016_reply01",
+              "text": "不是必需的话，可以先不授权。",
+              "meaning_my": "မဖြစ်မနေ မလိုဘူးဆိုရင် ခွင့်ပြုချက် မပေးသေးလည်း ရတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.04_B008",
           "priority": "situational",
@@ -1029,13 +1320,26 @@
           "text": "权限可以不给吗？",
           "meaning_my": "ဒီခွင့်ပြုချက် မပေးလို့ရလား။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.03.04-S017_alt01",
+              "text": "能不授权吗？",
+              "meaning_my": "ခွင့်ပြုချက် မပေးလို့ရလား။"
+            }
+          ],
           "source_ref": "user_addition_07.03.04_N09",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "通讯录、相机、麦克风、定位等权限按功能需要选择；无关权限可拒绝，部分功能可能因此无法使用。",
+              "text_my": "အဆက်အသွယ်၊ ကင်မရာ၊ မိုက်ခရိုဖုန်းနဲ့ တည်နေရာခွင့်ပြုချက်တွေကို လုပ်ဆောင်ချက်အလိုက် ပေးပါ။ မလိုတာကို ငြင်းလို့ရတယ်၊ ဒါပေမဲ့ တချို့လုပ်ဆောင်ချက် မရနိုင်ဘူး။"
+            }
+          ]
         },
         {
           "id": "07.03.04-S018",
@@ -1054,7 +1358,13 @@
           "id": "07.03.04-S019",
           "text": "相机权限在哪儿开？",
           "meaning_my": "ကင်မရာသုံးခွင့်ကို ဘယ်မှာ ဖွင့်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.03.04-S019_reply01",
+              "text": "在手机设置的应用权限里找。",
+              "meaning_my": "ဖုန်းဆက်တင်ထဲက အက်ပ်ခွင့်ပြုချက်မှာ ရှာပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.03.04_B010",
           "priority": "situational",
@@ -1132,11 +1442,11 @@
     }
   ],
   "extras_summary": {
-    "main": 83,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 83
+    "main": 82,
+    "replies": 30,
+    "alternatives": 10,
+    "notes": 9,
+    "total_audio": 122
   },
   "quality_review": {
     "status": "draft_pending_native_review",
@@ -1144,7 +1454,11 @@
     "checks": [
       "all scene main IDs sequential",
       "each main carries a source_ref",
-      "unique main Chinese within theme"
+      "unique main Chinese within theme",
+      "checked exact main duplicates against previous 41 topics; removed 1",
+      "main IDs re-sequenced after duplicate pruning",
+      "selective, practical replies",
+      "security notes for SMS codes, QR and permissions"
     ],
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
