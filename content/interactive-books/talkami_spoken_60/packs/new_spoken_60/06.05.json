@@ -6,17 +6,19 @@
   "theme_title_my": "လေဆိပ်၊ လေယာဉ်ခရီးစဉ်နှင့် နိုင်ငံဝင်စစ်ဆေးရေး",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-12",
-  "phrase_count": 100,
+  "phrase_count": 103,
   "original_count": 58,
-  "added_count": 42,
+  "added_count": 45,
   "note": "157句候选中精选高频实用表达，主句重新编号，按需加回复/类似说法/说明；缅语母语终审与配音尚未完成。",
   "source_counts": {
     "original_candidates": 80,
     "proposed_additions": 77,
-    "total_candidates": 157,
-    "selected_main": 100,
+    "editorial_additions": 3,
+    "total_candidates": 160,
+    "selected_main": 103,
     "selected_from_original": 58,
-    "selected_from_additions": 42
+    "selected_from_additions": 42,
+    "selected_editorial_additions": 3
   },
   "scenes": [
     {
@@ -400,8 +402,8 @@
           "notes": [
             {
               "type": "safety",
-              "text": "充电宝一般不能托运，随身带也有数量、容量等限制，应核实航司最新规定。",
-              "text_my": "ပါဝါဘဏ်ကို အောက်ခန်း အပ်လို့မရပါ။ ကိုယ်နဲ့အတူ ယူရာမှာလည်း အရေအတွက်နဲ့ စွမ်းရည်ကန့်သတ်ချက်တွေကို ကြိုစစ်ပါ။"
+              "text": "充电宝不能托运，随身携带仍受容量及数量限制。中国国内航班还禁止携带缺少3C标识、标识不清或属于召回批次的充电宝（2025年6月28日起）。",
+              "text_my": "ပါဝါဘဏ်ကို အိတ်အပ်လို့မရဘူး။ ကိုယ်နဲ့အတူ ယူရာမှာလည်း စွမ်းရည်နဲ့ အရေအတွက် ကန့်သတ်ချက်တွေ ရှိတယ်။ တရုတ်ပြည်တွင်းခရီးစဉ်တွေမှာ 3C တံဆိပ်မရှိ၊ မရှင်းတာနဲ့ ပြန်သိမ်းထားတဲ့အမျိုးအစားတွေကို တားမြစ်ထားတယ်။"
             }
           ]
         },
@@ -1059,13 +1061,7 @@
           "text": "可以免费改签吗？",
           "meaning_my": "လက်မှတ်ကို အခမဲ့ ပြောင်းလို့ရလား။",
           "replies": [],
-          "alternatives": [
-            {
-              "id": "06.05.04-S009_alt01",
-              "text": "改签要收费吗？",
-              "meaning_my": "လက်မှတ်ပြောင်းရင် ပိုက်ဆံပေးရမလား။"
-            }
-          ],
+          "alternatives": [],
           "source_ref": "user_original_06.05.04_B007",
           "priority": "core",
           "pinyin": null,
@@ -1269,7 +1265,7 @@
       "id": "06.05.05",
       "title": "入境通关：边检与海关",
       "title_my": "နိုင်ငံဝင်စစ်ဆေးရေးနှင့် အကောက်ခွန်",
-      "phrase_count": 25,
+      "phrase_count": 28,
       "phrases": [
         {
           "id": "06.05.05-S001",
@@ -1480,8 +1476,8 @@
           "replies": [
             {
               "id": "06.05.05-S014_reply01",
-              "text": "按护照上的信息填写。",
-              "meaning_my": "ပတ်စ်ပို့ထဲက အချက်အလက်အတိုင်း ဖြည့်ပါ။"
+              "text": "按表格要求填写护照、行程和住宿信息等。",
+              "meaning_my": "ဖောင်မှာ တောင်းထားတဲ့အတိုင်း ပတ်စ်ပို့၊ ခရီးစဉ်နဲ့ တည်းခိုမယ့်နေရာ အချက်အလက်တွေ ဖြည့်ပါ။"
             }
           ],
           "alternatives": [],
@@ -1494,6 +1490,39 @@
         },
         {
           "id": "06.05.05-S015",
+          "text": "可以在网上填入境卡吗？",
+          "meaning_my": "နိုင်ငံဝင်ခွင့်ဖောင်ကို အွန်လိုင်းကနေ ဖြည့်လို့ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_06.05.05_E01",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "自2025年11月20日起，中国提供官方免费线上入境卡填报服务。部分旅客免填；未提前填报者可到口岸扫码、使用现场设备或纸质卡。",
+              "text_my": "၂၀၂၅ နိုဝင်ဘာ ၂၀ ရက်ကစပြီး တရုတ်နိုင်ငံဝင်ခွင့်ဖောင်ကို တရားဝင်အွန်လိုင်းကနေ အခမဲ့ ဖြည့်လို့ရတယ်။ တချို့လူတွေ ကင်းလွတ်ခွင့်ရှိတယ်။ ရောက်မှ QR ကုဒ်၊ စက် ဒါမှမဟုတ် စက္ကူဖောင်နဲ့ ဖြည့်နိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "06.05.05-S016",
+          "text": "我已经在网上填好了入境卡。",
+          "meaning_my": "နိုင်ငံဝင်ခွင့်ဖောင်ကို အွန်လိုင်းကနေ ဖြည့်ပြီးပါပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "editorial_06.05.05_E02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.05.05-S017",
           "text": "请看镜头。",
           "meaning_my": "ကင်မရာကို ကြည့်ပေးပါ။",
           "replies": [],
@@ -1506,7 +1535,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S016",
+          "id": "06.05.05-S018",
           "text": "请按指纹。",
           "meaning_my": "လက်ဗွေ နှိပ်ပေးပါ။",
           "replies": [],
@@ -1519,7 +1548,26 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S017",
+          "id": "06.05.05-S019",
+          "text": "行李在哪儿取？",
+          "meaning_my": "အိတ်တွေ ဘယ်မှာ ပြန်ယူရမလဲ။",
+          "replies": [
+            {
+              "id": "06.05.05-S019_reply01",
+              "text": "请看行李提取转盘的信息屏。",
+              "meaning_my": "အိတ်ပြန်ယူတဲ့ စက်ပတ်လမ်းနံပါတ်ကို ပြထားတဲ့ စခရင်မှာ ကြည့်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "editorial_06.05.05_E03",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "06.05.05-S020",
           "text": "申报通道在哪儿？",
           "meaning_my": "အကောက်ခွန်မှာ ပစ္စည်းကြေညာရမယ့် လမ်းကြောင်း ဘယ်မှာလဲ။",
           "replies": [],
@@ -1532,17 +1580,11 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S018",
+          "id": "06.05.05-S021",
           "text": "这个需要申报吗？",
           "meaning_my": "ဒီပစ္စည်းကို အကောက်ခွန်မှာ ကြေညာရမလား။",
           "replies": [],
-          "alternatives": [
-            {
-              "id": "06.05.05-S018_alt01",
-              "text": "这个要报关吗？",
-              "meaning_my": "ဒီပစ္စည်းကို အကောက်ခွန်မှာ ကြေညာရမလား။"
-            }
-          ],
+          "alternatives": [],
           "source_ref": "user_addition_06.05.05_N10",
           "priority": "situational",
           "pinyin": null,
@@ -1558,7 +1600,7 @@
           ]
         },
         {
-          "id": "06.05.05-S019",
+          "id": "06.05.05-S022",
           "text": "我没有需要申报的东西。",
           "meaning_my": "အကောက်ခွန်မှာ ကြေညာစရာ ပစ္စည်းမရှိပါဘူး။",
           "replies": [],
@@ -1571,12 +1613,12 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S020",
+          "id": "06.05.05-S023",
           "text": "我不确定要不要申报。",
           "meaning_my": "အကောက်ခွန်မှာ ကြေညာရမလား မသေချာဘူး။",
           "replies": [
             {
-              "id": "06.05.05-S020_reply01",
+              "id": "06.05.05-S023_reply01",
               "text": "可以问一下海关工作人员。",
               "meaning_my": "အကောက်ခွန်ဝန်ထမ်းကို မေးကြည့်လို့ရပါတယ်။"
             }
@@ -1590,7 +1632,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S021",
+          "id": "06.05.05-S024",
           "text": "我带了现金。",
           "meaning_my": "ငွေသား ပါလာပါတယ်။",
           "replies": [],
@@ -1603,7 +1645,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S022",
+          "id": "06.05.05-S025",
           "text": "我带了药品。",
           "meaning_my": "ဆေးဝါးတွေ ပါလာပါတယ်။",
           "replies": [],
@@ -1616,7 +1658,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S023",
+          "id": "06.05.05-S026",
           "text": "这些都是自己用的。",
           "meaning_my": "ဒါတွေ ကိုယ်တိုင်သုံးဖို့ပါ။",
           "replies": [],
@@ -1629,13 +1671,13 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S024",
+          "id": "06.05.05-S027",
           "text": "我能走了吗？",
           "meaning_my": "အခု သွားလို့ရပြီလား။",
           "replies": [],
           "alternatives": [
             {
-              "id": "06.05.05-S024_alt01",
+              "id": "06.05.05-S027_alt01",
               "text": "现在可以离开了吗？",
               "meaning_my": "အခု ထွက်သွားလို့ရပြီလား။"
             }
@@ -1648,7 +1690,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "06.05.05-S025",
+          "id": "06.05.05-S028",
           "text": "我是第一次来中国。",
           "meaning_my": "တရုတ်နိုင်ငံကို ပထမဆုံးလာတာပါ။",
           "replies": [],
@@ -1664,11 +1706,11 @@
     }
   ],
   "extras_summary": {
-    "main": 100,
-    "replies": 26,
-    "alternatives": 12,
-    "notes": 8,
-    "total_audio": 138
+    "main": 103,
+    "replies": 27,
+    "alternatives": 10,
+    "notes": 9,
+    "total_audio": 140
   },
   "core_words": [
     {
@@ -1699,7 +1741,7 @@
     {
       "zh": "申报",
       "my": "အကောက်ခွန်မှာ ကြေညာ",
-      "id": "06.05.05-S018"
+      "id": "06.05.05-S021"
     }
   ],
   "quality_review": {
@@ -1710,6 +1752,8 @@
       "缅语偏口语中性",
       "机场规则以官方实时规定为准",
       "回复和类似说法按需保留"
-    ]
+    ],
+    "revision": "v2_add_arrival_card_fix_mapping",
+    "native_burmese_review": "pending"
   }
 }

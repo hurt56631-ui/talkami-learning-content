@@ -1,71 +1,89 @@
 {
   "theme_id": "06.05",
-  "total_candidates": 157,
+  "total_candidates": 160,
+  "original_user_candidates": 157,
+  "editorial_new": [
+    {
+      "source_ref": "editorial_06.05.05_E01",
+      "new_id": "06.05.05-S015",
+      "cn": "可以在网上填入境卡吗？"
+    },
+    {
+      "source_ref": "editorial_06.05.05_E02",
+      "new_id": "06.05.05-S016",
+      "cn": "我已经在网上填好了入境卡。"
+    },
+    {
+      "source_ref": "editorial_06.05.05_E03",
+      "new_id": "06.05.05-S019",
+      "cn": "行李在哪儿取？"
+    }
+  ],
   "mapping": [
     {
       "old_id": "06.05.01-S001",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S002",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S002",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S002_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.01-S003",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S004",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S004",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S001_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.01-S005",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S005",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S006",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S006",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S007",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S017",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S008",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S014",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S009",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S016",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S010",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S012",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S011",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S017_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.01-S012",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S012_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.01-S013",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S015_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.01-S014",
@@ -74,13 +92,13 @@
     },
     {
       "old_id": "06.05.01-S015",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S008",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-S016",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.01-S007",
+      "status": "main"
     },
     {
       "old_id": "06.05.01-补01",
@@ -159,73 +177,73 @@
     },
     {
       "old_id": "06.05.02-S001",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S001",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S002",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S002",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S003",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S003",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S004",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S004",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S005",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S007",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S006",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S013",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S007",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S009",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S008",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S006",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S009",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S021",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S010",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S011",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S011",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S004_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.02-S012",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S013_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.02-S013",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S014",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S014",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.02-S020",
+      "status": "main"
     },
     {
       "old_id": "06.05.02-S015",
@@ -309,73 +327,73 @@
     },
     {
       "old_id": "06.05.03-S001",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S001",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S002",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S003",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S003",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S004",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S004",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S005",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S005",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S005_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.03-S006",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S007",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S007",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S008",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S008",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S010",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S009",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S012",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S010",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S013",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S011",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S002_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.03-S012",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S004_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.03-S013",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S012_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.03-S014",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.03-S014",
+      "status": "main"
     },
     {
       "old_id": "06.05.03-S015",
@@ -459,88 +477,88 @@
     },
     {
       "old_id": "06.05.04-S001",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S002",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S002",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S006",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S003",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S007",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S004",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S012",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S005",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S019",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S006",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S017",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S007",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S009",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S008",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S013",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S009",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S008",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S010",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S008_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.04-S011",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S002_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.04-S012",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S005",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-S013",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S013_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.04-S014",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S012_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.04-S015",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S014_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.04-S016",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S003_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.04-S017",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.04-S016",
+      "status": "main"
     },
     {
       "old_id": "06.05.04-补01",
@@ -619,92 +637,92 @@
     },
     {
       "old_id": "06.05.05-S001",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S001",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S002",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S004",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S003",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S007",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S004",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S011",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S005",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S007_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.05-S006",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S008_reply01",
+      "status": "reply"
     },
     {
       "old_id": "06.05.05-S007",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S013",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S008",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S020",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S009",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S022",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S010",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S009",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S011",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S023",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S012",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S002",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S013",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S010",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S014",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S008",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S015",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S017",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S016",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S018",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-S017",
-      "new_id": null,
-      "status": "not_selected"
+      "new_id": "06.05.05-S003",
+      "status": "main"
     },
     {
       "old_id": "06.05.05-补01",
-      "new_id": "06.05.05-S025",
+      "new_id": "06.05.05-S028",
       "status": "main"
     },
     {
@@ -729,8 +747,8 @@
     },
     {
       "old_id": "06.05.05-补06",
-      "new_id": "06.05.05-S008_reply02",
-      "status": "reply"
+      "new_id": null,
+      "status": "not_selected"
     },
     {
       "old_id": "06.05.05-补07",
@@ -749,27 +767,27 @@
     },
     {
       "old_id": "06.05.05-补10",
-      "new_id": "06.05.05-S018",
-      "status": "main"
-    },
-    {
-      "old_id": "06.05.05-补11",
       "new_id": "06.05.05-S021",
       "status": "main"
     },
     {
+      "old_id": "06.05.05-补11",
+      "new_id": "06.05.05-S024",
+      "status": "main"
+    },
+    {
       "old_id": "06.05.05-补12",
-      "new_id": "06.05.05-S022",
+      "new_id": "06.05.05-S025",
       "status": "main"
     },
     {
       "old_id": "06.05.05-补13",
-      "new_id": "06.05.05-S023",
+      "new_id": "06.05.05-S026",
       "status": "main"
     },
     {
       "old_id": "06.05.05-补14",
-      "new_id": "06.05.05-S024",
+      "new_id": "06.05.05-S027",
       "status": "main"
     },
     {
@@ -786,6 +804,562 @@
       "old_id": "06.05.05-补17",
       "new_id": null,
       "status": "not_selected"
+    }
+  ],
+  "previous_live_id_mapping": [
+    {
+      "old_id": "06.05.01-S001",
+      "new_id": "06.05.01-S001"
+    },
+    {
+      "old_id": "06.05.01-S001_reply01",
+      "new_id": "06.05.01-S001_reply01"
+    },
+    {
+      "old_id": "06.05.01-S001_alt01",
+      "new_id": "06.05.01-S001_alt01"
+    },
+    {
+      "old_id": "06.05.01-S002",
+      "new_id": "06.05.01-S002"
+    },
+    {
+      "old_id": "06.05.01-S002_reply01",
+      "new_id": "06.05.01-S002_reply01"
+    },
+    {
+      "old_id": "06.05.01-S003",
+      "new_id": "06.05.01-S003"
+    },
+    {
+      "old_id": "06.05.01-S004",
+      "new_id": "06.05.01-S004"
+    },
+    {
+      "old_id": "06.05.01-S005",
+      "new_id": "06.05.01-S005"
+    },
+    {
+      "old_id": "06.05.01-S005_reply01",
+      "new_id": "06.05.01-S005_reply01"
+    },
+    {
+      "old_id": "06.05.01-S006",
+      "new_id": "06.05.01-S006"
+    },
+    {
+      "old_id": "06.05.01-S007",
+      "new_id": "06.05.01-S007"
+    },
+    {
+      "old_id": "06.05.01-S008",
+      "new_id": "06.05.01-S008"
+    },
+    {
+      "old_id": "06.05.01-S009",
+      "new_id": "06.05.01-S009"
+    },
+    {
+      "old_id": "06.05.01-S009_reply01",
+      "new_id": "06.05.01-S009_reply01"
+    },
+    {
+      "old_id": "06.05.01-S009_alt01",
+      "new_id": "06.05.01-S009_alt01"
+    },
+    {
+      "old_id": "06.05.01-S010",
+      "new_id": "06.05.01-S010"
+    },
+    {
+      "old_id": "06.05.01-S010_alt01",
+      "new_id": "06.05.01-S010_alt01"
+    },
+    {
+      "old_id": "06.05.01-S011",
+      "new_id": "06.05.01-S011"
+    },
+    {
+      "old_id": "06.05.01-S012",
+      "new_id": "06.05.01-S012"
+    },
+    {
+      "old_id": "06.05.01-S012_reply01",
+      "new_id": "06.05.01-S012_reply01"
+    },
+    {
+      "old_id": "06.05.01-S013",
+      "new_id": "06.05.01-S013"
+    },
+    {
+      "old_id": "06.05.01-S014",
+      "new_id": "06.05.01-S014"
+    },
+    {
+      "old_id": "06.05.01-S015",
+      "new_id": "06.05.01-S015"
+    },
+    {
+      "old_id": "06.05.01-S015_reply01",
+      "new_id": "06.05.01-S015_reply01"
+    },
+    {
+      "old_id": "06.05.01-S016",
+      "new_id": "06.05.01-S016"
+    },
+    {
+      "old_id": "06.05.01-S017",
+      "new_id": "06.05.01-S017"
+    },
+    {
+      "old_id": "06.05.01-S017_reply01",
+      "new_id": "06.05.01-S017_reply01"
+    },
+    {
+      "old_id": "06.05.02-S001",
+      "new_id": "06.05.02-S001"
+    },
+    {
+      "old_id": "06.05.02-S002",
+      "new_id": "06.05.02-S002"
+    },
+    {
+      "old_id": "06.05.02-S002_alt01",
+      "new_id": "06.05.02-S002_alt01"
+    },
+    {
+      "old_id": "06.05.02-S003",
+      "new_id": "06.05.02-S003"
+    },
+    {
+      "old_id": "06.05.02-S004",
+      "new_id": "06.05.02-S004"
+    },
+    {
+      "old_id": "06.05.02-S004_reply01",
+      "new_id": "06.05.02-S004_reply01"
+    },
+    {
+      "old_id": "06.05.02-S005",
+      "new_id": "06.05.02-S005"
+    },
+    {
+      "old_id": "06.05.02-S006",
+      "new_id": "06.05.02-S006"
+    },
+    {
+      "old_id": "06.05.02-S007",
+      "new_id": "06.05.02-S007"
+    },
+    {
+      "old_id": "06.05.02-S008",
+      "new_id": "06.05.02-S008"
+    },
+    {
+      "old_id": "06.05.02-S009",
+      "new_id": "06.05.02-S009"
+    },
+    {
+      "old_id": "06.05.02-S010",
+      "new_id": "06.05.02-S010"
+    },
+    {
+      "old_id": "06.05.02-S011",
+      "new_id": "06.05.02-S011"
+    },
+    {
+      "old_id": "06.05.02-S011_alt01",
+      "new_id": "06.05.02-S011_alt01"
+    },
+    {
+      "old_id": "06.05.02-S012",
+      "new_id": "06.05.02-S012"
+    },
+    {
+      "old_id": "06.05.02-S013",
+      "new_id": "06.05.02-S013"
+    },
+    {
+      "old_id": "06.05.02-S013_reply01",
+      "new_id": "06.05.02-S013_reply01"
+    },
+    {
+      "old_id": "06.05.02-S014",
+      "new_id": "06.05.02-S014"
+    },
+    {
+      "old_id": "06.05.02-S015",
+      "new_id": "06.05.02-S015"
+    },
+    {
+      "old_id": "06.05.02-S016",
+      "new_id": "06.05.02-S016"
+    },
+    {
+      "old_id": "06.05.02-S017",
+      "new_id": "06.05.02-S017"
+    },
+    {
+      "old_id": "06.05.02-S018",
+      "new_id": "06.05.02-S018"
+    },
+    {
+      "old_id": "06.05.02-S019",
+      "new_id": "06.05.02-S019"
+    },
+    {
+      "old_id": "06.05.02-S020",
+      "new_id": "06.05.02-S020"
+    },
+    {
+      "old_id": "06.05.02-S020_reply01",
+      "new_id": "06.05.02-S020_reply01"
+    },
+    {
+      "old_id": "06.05.02-S021",
+      "new_id": "06.05.02-S021"
+    },
+    {
+      "old_id": "06.05.03-S001",
+      "new_id": "06.05.03-S001"
+    },
+    {
+      "old_id": "06.05.03-S001_alt01",
+      "new_id": "06.05.03-S001_alt01"
+    },
+    {
+      "old_id": "06.05.03-S002",
+      "new_id": "06.05.03-S002"
+    },
+    {
+      "old_id": "06.05.03-S002_reply01",
+      "new_id": "06.05.03-S002_reply01"
+    },
+    {
+      "old_id": "06.05.03-S003",
+      "new_id": "06.05.03-S003"
+    },
+    {
+      "old_id": "06.05.03-S004",
+      "new_id": "06.05.03-S004"
+    },
+    {
+      "old_id": "06.05.03-S004_reply01",
+      "new_id": "06.05.03-S004_reply01"
+    },
+    {
+      "old_id": "06.05.03-S004_alt01",
+      "new_id": "06.05.03-S004_alt01"
+    },
+    {
+      "old_id": "06.05.03-S005",
+      "new_id": "06.05.03-S005"
+    },
+    {
+      "old_id": "06.05.03-S005_reply01",
+      "new_id": "06.05.03-S005_reply01"
+    },
+    {
+      "old_id": "06.05.03-S006",
+      "new_id": "06.05.03-S006"
+    },
+    {
+      "old_id": "06.05.03-S007",
+      "new_id": "06.05.03-S007"
+    },
+    {
+      "old_id": "06.05.03-S008",
+      "new_id": "06.05.03-S008"
+    },
+    {
+      "old_id": "06.05.03-S009",
+      "new_id": "06.05.03-S009"
+    },
+    {
+      "old_id": "06.05.03-S010",
+      "new_id": "06.05.03-S010"
+    },
+    {
+      "old_id": "06.05.03-S011",
+      "new_id": "06.05.03-S011"
+    },
+    {
+      "old_id": "06.05.03-S012",
+      "new_id": "06.05.03-S012"
+    },
+    {
+      "old_id": "06.05.03-S012_reply01",
+      "new_id": "06.05.03-S012_reply01"
+    },
+    {
+      "old_id": "06.05.03-S013",
+      "new_id": "06.05.03-S013"
+    },
+    {
+      "old_id": "06.05.03-S014",
+      "new_id": "06.05.03-S014"
+    },
+    {
+      "old_id": "06.05.03-S015",
+      "new_id": "06.05.03-S015"
+    },
+    {
+      "old_id": "06.05.03-S016",
+      "new_id": "06.05.03-S016"
+    },
+    {
+      "old_id": "06.05.04-S001",
+      "new_id": "06.05.04-S001"
+    },
+    {
+      "old_id": "06.05.04-S002",
+      "new_id": "06.05.04-S002"
+    },
+    {
+      "old_id": "06.05.04-S002_reply01",
+      "new_id": "06.05.04-S002_reply01"
+    },
+    {
+      "old_id": "06.05.04-S002_alt01",
+      "new_id": "06.05.04-S002_alt01"
+    },
+    {
+      "old_id": "06.05.04-S003",
+      "new_id": "06.05.04-S003"
+    },
+    {
+      "old_id": "06.05.04-S003_reply01",
+      "new_id": "06.05.04-S003_reply01"
+    },
+    {
+      "old_id": "06.05.04-S004",
+      "new_id": "06.05.04-S004"
+    },
+    {
+      "old_id": "06.05.04-S005",
+      "new_id": "06.05.04-S005"
+    },
+    {
+      "old_id": "06.05.04-S006",
+      "new_id": "06.05.04-S006"
+    },
+    {
+      "old_id": "06.05.04-S007",
+      "new_id": "06.05.04-S007"
+    },
+    {
+      "old_id": "06.05.04-S008",
+      "new_id": "06.05.04-S008"
+    },
+    {
+      "old_id": "06.05.04-S008_reply01",
+      "new_id": "06.05.04-S008_reply01"
+    },
+    {
+      "old_id": "06.05.04-S009",
+      "new_id": "06.05.04-S009"
+    },
+    {
+      "old_id": "06.05.04-S010",
+      "new_id": "06.05.04-S010"
+    },
+    {
+      "old_id": "06.05.04-S011",
+      "new_id": "06.05.04-S011"
+    },
+    {
+      "old_id": "06.05.04-S012",
+      "new_id": "06.05.04-S012"
+    },
+    {
+      "old_id": "06.05.04-S012_reply01",
+      "new_id": "06.05.04-S012_reply01"
+    },
+    {
+      "old_id": "06.05.04-S012_alt01",
+      "new_id": "06.05.04-S012_alt01"
+    },
+    {
+      "old_id": "06.05.04-S013",
+      "new_id": "06.05.04-S013"
+    },
+    {
+      "old_id": "06.05.04-S013_reply01",
+      "new_id": "06.05.04-S013_reply01"
+    },
+    {
+      "old_id": "06.05.04-S014",
+      "new_id": "06.05.04-S014"
+    },
+    {
+      "old_id": "06.05.04-S014_reply01",
+      "new_id": "06.05.04-S014_reply01"
+    },
+    {
+      "old_id": "06.05.04-S015",
+      "new_id": "06.05.04-S015"
+    },
+    {
+      "old_id": "06.05.04-S016",
+      "new_id": "06.05.04-S016"
+    },
+    {
+      "old_id": "06.05.04-S017",
+      "new_id": "06.05.04-S017"
+    },
+    {
+      "old_id": "06.05.04-S018",
+      "new_id": "06.05.04-S018"
+    },
+    {
+      "old_id": "06.05.04-S019",
+      "new_id": "06.05.04-S019"
+    },
+    {
+      "old_id": "06.05.04-S020",
+      "new_id": "06.05.04-S020"
+    },
+    {
+      "old_id": "06.05.04-S021",
+      "new_id": "06.05.04-S021"
+    },
+    {
+      "old_id": "06.05.05-S001",
+      "new_id": "06.05.05-S001"
+    },
+    {
+      "old_id": "06.05.05-S002",
+      "new_id": "06.05.05-S002"
+    },
+    {
+      "old_id": "06.05.05-S003",
+      "new_id": "06.05.05-S003"
+    },
+    {
+      "old_id": "06.05.05-S004",
+      "new_id": "06.05.05-S004"
+    },
+    {
+      "old_id": "06.05.05-S005",
+      "new_id": "06.05.05-S005"
+    },
+    {
+      "old_id": "06.05.05-S006",
+      "new_id": "06.05.05-S006"
+    },
+    {
+      "old_id": "06.05.05-S007",
+      "new_id": "06.05.05-S007"
+    },
+    {
+      "old_id": "06.05.05-S007_reply01",
+      "new_id": "06.05.05-S007_reply01"
+    },
+    {
+      "old_id": "06.05.05-S008",
+      "new_id": "06.05.05-S008"
+    },
+    {
+      "old_id": "06.05.05-S008_reply01",
+      "new_id": "06.05.05-S008_reply01"
+    },
+    {
+      "old_id": "06.05.05-S008_reply02",
+      "new_id": "06.05.05-S008_reply02"
+    },
+    {
+      "old_id": "06.05.05-S009",
+      "new_id": "06.05.05-S009"
+    },
+    {
+      "old_id": "06.05.05-S010",
+      "new_id": "06.05.05-S010"
+    },
+    {
+      "old_id": "06.05.05-S010_reply01",
+      "new_id": "06.05.05-S010_reply01"
+    },
+    {
+      "old_id": "06.05.05-S011",
+      "new_id": "06.05.05-S011"
+    },
+    {
+      "old_id": "06.05.05-S012",
+      "new_id": "06.05.05-S012"
+    },
+    {
+      "old_id": "06.05.05-S013",
+      "new_id": "06.05.05-S013"
+    },
+    {
+      "old_id": "06.05.05-S014",
+      "new_id": "06.05.05-S014"
+    },
+    {
+      "old_id": "06.05.05-S014_reply01",
+      "new_id": "06.05.05-S014_reply01"
+    },
+    {
+      "old_id": "06.05.05-S015",
+      "new_id": "06.05.05-S017"
+    },
+    {
+      "old_id": "06.05.05-S016",
+      "new_id": "06.05.05-S018"
+    },
+    {
+      "old_id": "06.05.05-S017",
+      "new_id": "06.05.05-S020"
+    },
+    {
+      "old_id": "06.05.05-S018",
+      "new_id": "06.05.05-S021"
+    },
+    {
+      "old_id": "06.05.05-S019",
+      "new_id": "06.05.05-S022"
+    },
+    {
+      "old_id": "06.05.05-S020",
+      "new_id": "06.05.05-S023"
+    },
+    {
+      "old_id": "06.05.05-S020_reply01",
+      "new_id": "06.05.05-S023_reply01"
+    },
+    {
+      "old_id": "06.05.05-S021",
+      "new_id": "06.05.05-S024"
+    },
+    {
+      "old_id": "06.05.05-S022",
+      "new_id": "06.05.05-S025"
+    },
+    {
+      "old_id": "06.05.05-S023",
+      "new_id": "06.05.05-S026"
+    },
+    {
+      "old_id": "06.05.05-S024",
+      "new_id": "06.05.05-S027"
+    },
+    {
+      "old_id": "06.05.05-S024_alt01",
+      "new_id": "06.05.05-S027_alt01"
+    },
+    {
+      "old_id": "06.05.05-S025",
+      "new_id": "06.05.05-S028"
+    }
+  ],
+  "removed_alternatives": [
+    {
+      "id": "06.05.04-S009_alt01",
+      "text": "改签要收费吗？"
+    },
+    {
+      "id": "06.05.05-S018_alt01",
+      "text": "这个要报关吗？"
     }
   ]
 }
