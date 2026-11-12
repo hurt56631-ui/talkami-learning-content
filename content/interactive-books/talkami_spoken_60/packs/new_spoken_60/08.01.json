@@ -17,12 +17,7 @@
     "selected_main": 83,
     "selected_from_original": 47,
     "selected_from_additions": 34,
-    "selected_editorial": 2,
-    "removed_cross_topic_duplicate": {
-      "source_id": "08.01.01-补01",
-      "existing_id": "01.01.03-S012",
-      "text": "哪里不舒服？"
-    }
+    "selected_editorial": 2
   },
   "note": "高频看病核心：83主句、27条按需问答、8条自然类似说法、11条中文缅语说明。与已入库01.01完全重复的“哪里不舒服？”删除，保留来源映射。两条新增高价值表达为“我喘不过气”和“我中文不太好，能帮我找翻译吗？”。需母语终审。",
   "scenes": [
@@ -1457,5 +1452,61 @@
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
     "audio_status": "not_recorded"
-  }
+  },
+  "core_words": [
+    {
+      "zh": "症状",
+      "my": "ရောဂါလက္ခဏာ",
+      "id": "08.01.01-S001",
+      "priority": "core"
+    },
+    {
+      "zh": "药物过敏",
+      "my": "ဆေးဓာတ်မတည့်ခြင်း",
+      "id": "08.01.01-S015",
+      "priority": "core"
+    },
+    {
+      "zh": "挂号",
+      "my": "စာရင်းသွင်းခြင်း",
+      "id": "08.01.02-S001",
+      "priority": "core"
+    },
+    {
+      "zh": "急诊",
+      "my": "အရေးပေါ်ဌာန",
+      "id": "08.01.02-S007",
+      "priority": "core"
+    },
+    {
+      "zh": "科室",
+      "my": "ဌာန",
+      "id": "08.01.02-S003",
+      "priority": "core"
+    },
+    {
+      "zh": "检查",
+      "my": "စစ်ဆေးမှု",
+      "id": "08.01.03-S001",
+      "priority": "core"
+    },
+    {
+      "zh": "药",
+      "my": "ဆေး",
+      "id": "08.01.04-S006",
+      "priority": "core"
+    },
+    {
+      "zh": "复查",
+      "my": "ပြန်လာစစ်ဆေးခြင်း",
+      "id": "08.01.04-S012",
+      "priority": "core"
+    },
+    {
+      "zh": "医保",
+      "my": "ကျန်းမာရေးအာမခံ",
+      "id": "08.01.02-S014",
+      "priority": "core"
+    }
+  ]
 }
