@@ -17,7 +17,7 @@
     "selected_from_original": 34,
     "selected_from_additions": 32
   },
-  "note": "从报警、医疗急救102候选中编辑精选立即可说的高频实用句。仅教紧急沟通，110/120为中国大陆急救号码；医护急救现场应听取专业人员或接线员指导。尚待按需回复与缅语母语终审。",
+  "note": "原56句及补46句共102个候选，高频求助精选66主句、24按需回复、9类似说法、10条双语说明。110与120仅中国大陆使用；其它地区须拨当地紧急号码；严重症状要立即呼救，急救操作听从专业指导。尚未完成缅语母语终审。",
   "scenes": [
     {
       "id": "08.03.01",
@@ -42,8 +42,20 @@
           "id": "08.03.01-S002",
           "text": "帮我报警！",
           "meaning_my": "ရဲကို အကြောင်းကြားပေးပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.03.01-S002_reply01",
+              "text": "发生什么事了？你在哪儿？",
+              "meaning_my": "ဘာဖြစ်တာလဲ၊ အခု ဘယ်မှာလဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.03.01-S002_alt01",
+              "text": "快帮我叫警察！",
+              "meaning_my": "ရဲကို အမြန်ခေါ်ပေးပါ။"
+            }
+          ],
           "source_ref": "user_original_08.03.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -55,14 +67,27 @@
           "id": "08.03.01-S003",
           "text": "请帮我打110。",
           "meaning_my": "၁၁၀ ကို ဖုန်းဆက်ပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S003_reply01",
+              "text": "好，我来报警。",
+              "meaning_my": "ကောင်းပြီ၊ ရဲကို ဖုန်းဆက်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.03.01_N01",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "110是中国大陆报警电话；在其他国家或地区，应拨当地警察紧急电话。仅在安全时提供地点和事件信息。",
+              "text_my": "110 က တရုတ်ပြည်မကြီးမှာ ရဲအရေးပေါ်ဖုန်းနံပါတ်ပါ။ တခြားနိုင်ငံမှာတော့ ဒေသခံအရေးပေါ်ဖုန်းနံပါတ်ကို ဆက်ပါ။ လုံခြုံတဲ့အချိန်မှာ နေရာနဲ့ ဖြစ်ရပ်ကို ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "08.03.01-S004",
@@ -81,7 +106,14 @@
           "id": "08.03.01-S005",
           "text": "这里很危险！",
           "meaning_my": "ဒီနေရာ အန္တရာယ်ရှိတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S005_reply01",
+              "text": "先远离危险的地方。",
+              "meaning_my": "အန္တရာယ်ရှိတဲ့နေရာကနေ အရင်ဝေးဝေးနေပါ။",
+              "source_ref": "user_original_08.03.01_B022"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B007",
           "priority": "core",
@@ -108,7 +140,13 @@
           "text": "有人偷东西！",
           "meaning_my": "ပစ္စည်းခိုးနေတဲ့သူ ရှိတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "08.03.01-S007_alt01",
+              "text": "这里有人在偷东西！",
+              "meaning_my": "ဒီမှာ ပစ္စည်းခိုးနေတဲ့သူ ရှိတယ်။"
+            }
+          ],
           "source_ref": "user_original_08.03.01_B002",
           "priority": "core",
           "pinyin": null,
@@ -120,7 +158,13 @@
           "id": "08.03.01-S008",
           "text": "我的包被抢了。",
           "meaning_my": "အိတ် လုယူခံလိုက်ရတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S008_reply01",
+              "text": "你受伤了吗？",
+              "meaning_my": "ဒဏ်ရာရသွားလား။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B004",
           "priority": "core",
@@ -134,7 +178,13 @@
           "text": "我的手机被偷了。",
           "meaning_my": "ဖုန်း ခိုးခံလိုက်ရတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "08.03.01-S009_alt01",
+              "text": "有人偷了我的手机。",
+              "meaning_my": "တစ်ယောက်ယောက်က ဖုန်းကို ခိုးသွားတယ်။"
+            }
+          ],
           "source_ref": "user_original_08.03.01_B011",
           "priority": "core",
           "pinyin": null,
@@ -146,14 +196,27 @@
           "id": "08.03.01-S010",
           "text": "我的护照被偷了！",
           "meaning_my": "ပတ်စ်ပို့ ခိုးခံလိုက်ရတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S010_reply01",
+              "text": "先报警，再联系相关使领馆。",
+              "meaning_my": "ရဲကို အရင်တိုင်ပြီး သက်ဆိုင်ရာသံရုံး ဒါမှမဟုတ် ကောင်စစ်ဝန်ရုံးကို ဆက်သွယ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B014",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "护照被盗应向警方报案，并联系本国驻当地使领馆了解证件补办；所需证明以相关机构要求为准。",
+              "text_my": "ပတ်စ်ပို့ ခိုးခံရရင် ရဲတိုင်ပြီး ကိုယ့်နိုင်ငံရဲ့ သံရုံး ဒါမှမဟုတ် ကောင်စစ်ဝန်ရုံးကို ဆက်သွယ်ပါ။ လိုအပ်တဲ့စာရွက်စာတမ်းကို သက်ဆိုင်ရာဌာနမှာ စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "08.03.01-S011",
@@ -166,7 +229,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“丢了”仅表示不见了，不等于确认“被偷了”；报警时应准确说明自己看到的事实。",
+              "text_my": "“丢了” က ပစ္စည်းပျောက်သွားတာပါ။ “被偷了” လို့ အတည်မပြုသေးရင် မပြောပါနဲ့။ ကိုယ်သိတဲ့အချက်အလက်ကို အတိအကျ ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "08.03.01-S012",
@@ -211,7 +281,13 @@
           "id": "08.03.01-S015",
           "text": "我在商场门口。",
           "meaning_my": "ဈေးဝယ်စင်တာ အဝင်ပေါက်မှာ ရှိနေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S015_reply01",
+              "text": "请说一下商场的名字。",
+              "meaning_my": "ဈေးဝယ်စင်တာ နာမည်ကို ပြောပြပေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B008",
           "priority": "core",
@@ -224,20 +300,40 @@
           "id": "08.03.01-S016",
           "text": "我不知道这里的地址。",
           "meaning_my": "ဒီနေရာရဲ့ လိပ်စာကို မသိဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S016_reply01",
+              "text": "看看旁边有没有明显的地标。",
+              "meaning_my": "ဘေးနားမှာ ထင်ရှားတဲ့ အဆောက်အအုံ ဒါမှမဟုတ် အမှတ်အသား ရှိမရှိ ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B017",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "无法说出门牌时，可报告商场、工厂大门、路口、地标或手机当前位置，帮助救援人员定位。",
+              "text_my": "လိပ်စာမသိရင် ဈေးဝယ်စင်တာနာမည်၊ စက်ရုံဂိတ်၊ လမ်းဆုံ၊ အထင်ကရနေရာ ဒါမှမဟုတ် ဖုန်းတည်နေရာကို ပြောပြပါ။"
+            }
+          ]
         },
         {
           "id": "08.03.01-S017",
           "text": "那个人还在附近。",
           "meaning_my": "အဲဒီလူ ဒီနားမှာ ရှိနေသေးတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S017_reply01",
+              "text": "不要追他，先保护自己。",
+              "meaning_my": "သူ့နောက် မလိုက်ပါနဲ့၊ ကိုယ့်လုံခြုံရေးကို အရင်ဂရုစိုက်ပါ။",
+              "source_ref": "user_original_08.03.01_B023"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B010",
           "priority": "core",
@@ -302,7 +398,14 @@
           "id": "08.03.01-S022",
           "text": "警察什么时候到？",
           "meaning_my": "ရဲတွေ ဘယ်တော့ ရောက်မလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S022_reply01",
+              "text": "请在安全的地方等警察。",
+              "meaning_my": "လုံခြုံတဲ့နေရာမှာ ရဲလာတာကို စောင့်ပါ။",
+              "source_ref": "user_original_08.03.01_B024"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B012",
           "priority": "situational",
@@ -315,8 +418,21 @@
           "id": "08.03.01-S023",
           "text": "我需要翻译。",
           "meaning_my": "ဘာသာပြန်ပေးမယ့်သူ လိုပါတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.03.01-S023_reply01",
+              "text": "我帮你问问有没有翻译人员。",
+              "meaning_my": "ဘာသာပြန်ပေးမယ့်သူ ရှိမရှိ မေးပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.03.01-S023_alt01",
+              "text": "能找个人帮我翻译吗？",
+              "meaning_my": "ဘာသာပြန်ပေးမယ့်သူ တစ်ယောက် ရှာပေးလို့ရမလား။",
+              "source_ref": "user_addition_08.03.01_N19"
+            }
+          ],
           "source_ref": "user_original_08.03.01_B013",
           "priority": "situational",
           "pinyin": null,
@@ -328,7 +444,13 @@
           "id": "08.03.01-S024",
           "text": "我听不懂，请说慢点。",
           "meaning_my": "နားမလည်လို့ နည်းနည်း ဖြည်းဖြည်း ပြောပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S024_reply01",
+              "text": "好的，我说慢一点。",
+              "meaning_my": "ကောင်းပြီ၊ နည်းနည်း ဖြည်းဖြည်း ပြောမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.01_B016",
           "priority": "situational",
@@ -367,7 +489,13 @@
           "id": "08.03.01-S027",
           "text": "我需要一份报警记录。",
           "meaning_my": "ရဲတိုင်ထားတဲ့ မှတ်တမ်းစာရွက်တစ်စောင် လိုပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.01-S027_reply01",
+              "text": "请向受理案件的警察咨询办理方式。",
+              "meaning_my": "အမှုလက်ခံတဲ့ ရဲကို ဘယ်လိုထုတ်ယူရမလဲ မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.03.01_N15",
           "priority": "situational",
@@ -427,8 +555,22 @@
           "id": "08.03.02-S001",
           "text": "快叫救护车！",
           "meaning_my": "လူနာတင်ကား အမြန်ခေါ်ပေးပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.03.02-S001_reply01",
+              "text": "有人受伤吗？在哪里？",
+              "meaning_my": "ဒဏ်ရာရသူ ရှိလား၊ ဘယ်မှာလဲ။",
+              "source_ref": "user_original_08.03.02_B020"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.03.02-S001_alt01",
+              "text": "快帮我叫救护车！",
+              "meaning_my": "လူနာတင်ကား အမြန် ခေါ်ပေးပါ။",
+              "source_ref": "user_original_08.03.02_B025"
+            }
+          ],
           "source_ref": "user_original_08.03.02_B001",
           "priority": "core",
           "pinyin": null,
@@ -440,20 +582,40 @@
           "id": "08.03.02-S002",
           "text": "请帮我打120。",
           "meaning_my": "၁၂၀ ကို ဖုန်းဆက်ပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S002_reply01",
+              "text": "请告诉我具体位置。",
+              "meaning_my": "နေရာကို အတိအကျ ပြောပြပါ။",
+              "source_ref": "user_original_08.03.02_B019"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.03.02_N01",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "120是中国大陆医疗急救电话；其他国家可能使用不同号码。通话尽量提供准确地点、伤者人数、意识与呼吸情况。",
+              "text_my": "120 က တရုတ်ပြည်မကြီးမှာ ဆေးဘက်ဆိုင်ရာ အရေးပေါ်ဖုန်းနံပါတ်ပါ။ နေရာ၊ လူနာအရေအတွက်၊ သတိရှိမရှိနဲ့ အသက်ရှူအခြေအနေကို ပြောပါ။ တခြားနိုင်ငံမှာ နံပါတ်မတူနိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "08.03.02-S003",
           "text": "有人昏倒了！",
           "meaning_my": "လူတစ်ယောက် မေ့လဲသွားပြီ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S003_reply01",
+              "text": "他有反应吗？还在呼吸吗？",
+              "meaning_my": "သူ တုံ့ပြန်သေးလား၊ အသက်ရှူနေသေးလား။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.02_B002",
           "priority": "core",
@@ -467,7 +629,14 @@
           "text": "他没有反应。",
           "meaning_my": "သူ့ကို ခေါ်ကြည့်ပေမယ့် တုံ့ပြန်မှု မရှိဘူး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "08.03.02-S004_alt01",
+              "text": "怎么叫他都叫不醒！",
+              "meaning_my": "ဘယ်လိုခေါ်ခေါ် မနိုးဘူး။",
+              "source_ref": "user_original_08.03.02_B028"
+            }
+          ],
           "source_ref": "user_original_08.03.02_B003",
           "priority": "core",
           "pinyin": null,
@@ -479,14 +648,28 @@
           "id": "08.03.02-S005",
           "text": "他没有正常呼吸！",
           "meaning_my": "သူ ပုံမှန်အတိုင်း အသက်မရှူတော့ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S005_reply01",
+              "text": "立刻打急救电话，按接线员指导做。",
+              "meaning_my": "အရေးပေါ်ဖုန်းကို ချက်ချင်းဆက်ပြီး ဖုန်းလက်ခံသူ ညွှန်ကြားတဲ့အတိုင်း လုပ်ပါ။",
+              "source_ref": "user_original_08.03.02_B013"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.02_B012",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "无反应且没有正常呼吸时属于紧急情况，应立即联系当地急救服务并遵循电话调度员的急救指导；不要等待。",
+              "text_my": "လူနာ တုံ့ပြန်မှုမရှိဘဲ ပုံမှန် အသက်မရှူရင် အရေးပေါ်ဖြစ်တယ်။ ချက်ချင်း အရေးပေါ်ဖုန်းဆက်ပြီး ဖုန်းလက်ခံသူ ညွှန်ကြားချက်ကို လိုက်နာပါ။ မစောင့်ပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "08.03.02-S006",
@@ -518,21 +701,52 @@
           "id": "08.03.02-S008",
           "text": "他突然说不清话了。",
           "meaning_my": "သူ ရုတ်တရက် စကားမပီတော့ဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.03.02-S008_reply01",
+              "text": "可能是紧急情况，马上叫救护车。",
+              "meaning_my": "အရေးပေါ်အခြေအနေ ဖြစ်နိုင်တယ်၊ လူနာတင်ကား ချက်ချင်းခေါ်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.03.02-S008_alt01",
+              "text": "他说话突然含糊了。",
+              "meaning_my": "သူ ရုတ်တရက် စကား မပီတော့ဘူး။"
+            }
+          ],
           "source_ref": "user_original_08.03.02_B015",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "突然口齿不清可能是卒中等急症信号，应立即呼叫急救，并说明症状开始的时间，不要自行判断病因。",
+              "text_my": "စကား ရုတ်တရက် မပီတော့တာက လေဖြတ်ခြင်းလို အရေးပေါ်အခြေအနေ ဖြစ်နိုင်တယ်။ အရေးပေါ်ကို ချက်ချင်းဆက်ပြီး ဘယ်အချိန်ကစဖြစ်တာလဲ ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "08.03.02-S009",
           "text": "他一直在流血。",
           "meaning_my": "သူ့ဒဏ်ရာက သွေး ဆက်တိုက်ထွက်နေတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "08.03.02-S009_reply01",
+              "text": "马上告诉急救人员，询问如何止血。",
+              "meaning_my": "အရေးပေါ်ဝန်ထမ်းကို ချက်ချင်းပြောပြီး သွေးတိတ်အောင် ဘယ်လိုလုပ်ရမလဲ မေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "08.03.02-S009_alt01",
+              "text": "血一直止不住。",
+              "meaning_my": "သွေးက တောက်လျှောက် မတိတ်ဘူး။"
+            }
+          ],
           "source_ref": "user_original_08.03.02_B005",
           "priority": "core",
           "pinyin": null,
@@ -558,7 +772,14 @@
           "text": "他受伤了。",
           "meaning_my": "သူ ဒဏ်ရာရထားတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "08.03.02-S011_alt01",
+              "text": "有人受伤了！",
+              "meaning_my": "ဒဏ်ရာရတဲ့သူ ရှိတယ်။",
+              "source_ref": "user_original_08.03.02_B029"
+            }
+          ],
           "source_ref": "user_original_08.03.02_B004",
           "priority": "core",
           "pinyin": null,
@@ -596,14 +817,27 @@
           "id": "08.03.02-S014",
           "text": "他好像噎住了。",
           "meaning_my": "သူ အစာနင်နေတာ ဖြစ်နိုင်တယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S014_reply01",
+              "text": "他还能说话或咳嗽吗？",
+              "meaning_my": "သူ စကားပြောနိုင်သေးလား၊ ချောင်းဆိုးနိုင်သေးလား။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.03.02_N04",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "噎住时应尽快联系急救并听从受训人员指示。学员不应仅凭课件文字自行实施复杂急救手法。",
+              "text_my": "အစာနင်နေတယ်ဆိုရင် အရေးပေါ်အကူအညီ ချက်ချင်းခေါ်ပြီး ကျွမ်းကျင်သူညွှန်ကြားချက်ကို လိုက်နာပါ။ စာကြောင်းတွေကိုပဲ ကြည့်ပြီး ရှုပ်ထွေးတဲ့ ကယ်ဆယ်နည်း မစမ်းပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "08.03.02-S015",
@@ -642,13 +876,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "触电现场首先避免接触带电设备或患者，确保自身安全并通知专业救援人员；不要直接用手拉扯仍接触电源的人。",
+              "text_my": "ဓာတ်လိုက်တဲ့နေရာမှာ မီးရှိနေတဲ့ပစ္စည်းနဲ့ လူနာကို တိုက်ရိုက် မထိပါနဲ့။ ကိုယ့်လုံခြုံရေးကို ဦးစားပေးပြီး ကယ်ဆယ်ရေးဝန်ထမ်းကို ခေါ်ပါ။"
+            }
+          ]
         },
         {
           "id": "08.03.02-S018",
           "text": "他溺水了。",
           "meaning_my": "သူ ရေနစ်သွားတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S018_reply01",
+              "text": "先确保救援人员自身安全，马上呼叫急救。",
+              "meaning_my": "ကယ်ဆယ်သူတွေ ဘေးကင်းဖို့ အရင်ဂရုစိုက်ပြီး အရေးပေါ်အကူအညီ ချက်ချင်းခေါ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.03.02_N08",
           "priority": "core",
@@ -726,7 +973,14 @@
           "id": "08.03.02-S024",
           "text": "我在工厂二号门。",
           "meaning_my": "စက်ရုံ အမှတ်နှစ်ဂိတ်ပေါက်မှာ ရှိနေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S024_reply01",
+              "text": "急救人员从哪个门进？",
+              "meaning_my": "အရေးပေါ်ကယ်ဆယ်ရေးဝန်ထမ်းတွေ ဘယ်ဂိတ်က ဝင်ရမလဲ။",
+              "source_ref": "user_original_08.03.02_B027"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.02_B016",
           "priority": "situational",
@@ -752,7 +1006,14 @@
           "id": "08.03.02-S026",
           "text": "救护车到了吗？",
           "meaning_my": "လူနာတင်ကား ရောက်ပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S026_reply01",
+              "text": "救护车正在赶来。",
+              "meaning_my": "လူနာတင်ကား လာနေပြီ။",
+              "source_ref": "user_original_08.03.02_B021"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.02_B011",
           "priority": "situational",
@@ -765,7 +1026,13 @@
           "id": "08.03.02-S027",
           "text": "需要做心肺复苏吗？",
           "meaning_my": "နှလုံးနဲ့ အသက်ရှူ ပြန်လည်အသက်သွင်းတာ လုပ်ဖို့လိုလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S027_reply01",
+              "text": "马上联系急救接线员，按指导操作。",
+              "meaning_my": "အရေးပေါ်ဖုန်းလက်ခံသူကို ချက်ချင်းဆက်သွယ်ပြီး ညွှန်ကြားတဲ့အတိုင်း လုပ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_08.03.02_N12",
           "priority": "situational",
@@ -778,7 +1045,13 @@
           "id": "08.03.02-S028",
           "text": "附近有除颤器吗？",
           "meaning_my": "ဒီနားမှာ AED နှလုံးပြန်ခုန်စက် ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "08.03.02-S028_reply01",
+              "text": "我去问问有没有AED。",
+              "meaning_my": "AED စက် ရှိမရှိ သွားမေးကြည့်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_08.03.02_B019",
           "priority": "situational",
@@ -824,7 +1097,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "已知药物过敏必须准确告知急救人员；无法确认具体药名时，不要猜测，应说不知道。",
+              "text_my": "ဆေးနဲ့ ဓာတ်မတည့်ဖူးရင် အရေးပေါ်ဝန်ထမ်းကို သေချာပြောပါ။ ဆေးနာမည် မသေချာရင် မခန့်မှန်းဘဲ မသိဘူးလို့ ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "08.03.02-S032",
@@ -896,10 +1176,10 @@
   ],
   "extras_summary": {
     "main": 66,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 66
+    "replies": 24,
+    "alternatives": 9,
+    "notes": 10,
+    "total_audio": 99
   },
   "quality_review": {
     "date": "2026-11-12",
@@ -908,7 +1188,9 @@
     "checks": [
       "sequential scene IDs",
       "main sentence CN unique in topic",
-      "source refs tracked"
+      "source refs tracked",
+      "cross-topic Chinese exact main duplication checked for 44 topics",
+      "selective dialog response and bilingual safety notes"
     ],
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
