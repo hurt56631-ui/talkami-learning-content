@@ -1464,5 +1464,55 @@
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
     "audio_status": "not_recorded"
-  }
+  },
+  "core_words": [
+    {
+      "zh": "注册",
+      "my": "အကောင့်ဖွင့်ခြင်း",
+      "id": "07.03.01-S002",
+      "priority": "core"
+    },
+    {
+      "zh": "登录",
+      "my": "လော့ဂ်အင်ဝင်ခြင်း",
+      "id": "07.03.01-S007",
+      "priority": "core"
+    },
+    {
+      "zh": "实名认证",
+      "my": "အထောက်အထားနဲ့ အတည်ပြုခြင်း",
+      "id": "07.03.01-S009",
+      "priority": "core"
+    },
+    {
+      "zh": "验证码",
+      "my": "အတည်ပြုကုဒ်",
+      "id": "07.03.02-S010",
+      "priority": "core"
+    },
+    {
+      "zh": "密码",
+      "my": "စကားဝှက်",
+      "id": "07.03.02-S001",
+      "priority": "core"
+    },
+    {
+      "zh": "扫码",
+      "my": "QR စကန်ဖတ်ခြင်း",
+      "id": "07.03.03-S003",
+      "priority": "core"
+    },
+    {
+      "zh": "权限",
+      "my": "အသုံးပြုခွင့်",
+      "id": "07.03.04-S017",
+      "priority": "core"
+    },
+    {
+      "zh": "更新",
+      "my": "အပ်ဒိတ်လုပ်ခြင်း",
+      "id": "07.03.04-S012",
+      "priority": "core"
+    }
+  ]
 }
