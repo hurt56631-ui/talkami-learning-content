@@ -1,0 +1,2345 @@
+{
+  "theme_id": "04",
+  "version": 13,
+  "updated_at": "2026-11-12",
+  "theme_title": "提问确认",
+  "theme_title_my": "မေးမြန်းခြင်းနှင့် အတည်ပြုခြင်း",
+  "quality_standard": "TTS import adapter for new_spoken_60; Burmese QA pending",
+  "canonical_theme_id": "01.04",
+  "canonical_content_version": 20261112,
+  "lessons": [
+    {
+      "id": "04.11",
+      "title": "04.11 询问名称、用途与回应",
+      "title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "subtitle": "18张高频卡",
+      "subtitle_my": "18 ကြောင်း",
+      "opening": "",
+      "opening_my": "",
+      "phrases": [
+        {
+          "id": "s04_11_0001",
+          "canonical_id": "01.04.01-S001",
+          "level": "must",
+          "text": "这是什么？",
+          "meaning_my": "ဒါဘာလဲ။",
+          "pinyin": "zhè shì shén me",
+          "phonetic_my": "ကျ ရှီး ရှန် မ",
+          "alternatives": [
+            {
+              "id": "s04_11_0001_alt01",
+              "canonical_id": "01.04.01-S001_alt01",
+              "text": "这是啥？",
+              "meaning_my": "ဒါဘာလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0001_reply01",
+              "canonical_id": "01.04.01-S001_reply01",
+              "text": "这是充电器。",
+              "meaning_my": "ဒါ အားသွင်းစက်ပါ။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0002",
+          "canonical_id": "01.04.01-S002",
+          "level": "must",
+          "text": "这个叫什么？",
+          "meaning_my": "ဒါကို ဘယ်လိုခေါ်လဲ။",
+          "pinyin": "zhè ge jiào shén me",
+          "phonetic_my": "ကျ က ကျောင် ရှန် မ",
+          "alternatives": [
+            {
+              "id": "s04_11_0002_alt01",
+              "canonical_id": "01.04.01-S002_alt01",
+              "text": "这东西叫什么？",
+              "meaning_my": "ဒီပစ္စည်းကို ဘယ်လိုခေါ်လဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0002_reply01",
+              "canonical_id": "01.04.01-S002_reply01",
+              "text": "这个叫充电宝。",
+              "meaning_my": "ဒါကို ပါဝါဘဏ်လို့ ခေါ်တယ်။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0003",
+          "canonical_id": "01.04.01-S003",
+          "level": "must",
+          "text": "这个怎么用？",
+          "meaning_my": "ဒါကို ဘယ်လိုသုံးရလဲ။",
+          "pinyin": "zhè ge zěn me yòng",
+          "phonetic_my": "ကျ က ဇန် မ ယုန်း",
+          "alternatives": [
+            {
+              "id": "s04_11_0003_alt01",
+              "canonical_id": "01.04.01-S003_alt01",
+              "text": "这个要怎么用？",
+              "meaning_my": "ဒါကို ဘယ်လိုသုံးရမလဲ။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0004",
+          "canonical_id": "01.04.01-S004",
+          "level": "must",
+          "text": "这个用中文怎么说？",
+          "meaning_my": "ဒါကို တရုတ်လို ဘယ်လိုပြောလဲ။",
+          "pinyin": "zhè ge yòng zhōng wén zěn me shuō",
+          "phonetic_my": "ကျ က ယုန်း ကျုန်း ဝန် ဇန် မ ရှွော",
+          "alternatives": [
+            {
+              "id": "s04_11_0004_alt01",
+              "canonical_id": "01.04.01-S004_alt01",
+              "text": "这个中文叫什么？",
+              "meaning_my": "ဒါကို တရုတ်လို ဘယ်လိုခေါ်လဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0004_reply01",
+              "canonical_id": "01.04.01-S004_reply01",
+              "text": "中文叫雨伞。",
+              "meaning_my": "တရုတ်လို 雨伞 လို့ ခေါ်တယ်။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“用中文怎么说”是请教中文表达；“这个叫什么”主要问名称，不能总当成同一句。",
+              "text_my": "“用中文怎么说” က တရုတ်လို ဘယ်လိုပြောလဲလို့ မေးတာ၊ “叫什么” က နာမည်ကို မေးတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "s04_11_0005",
+          "canonical_id": "01.04.01-S005",
+          "level": "must",
+          "text": "这是干什么用的？",
+          "meaning_my": "ဒါကို ဘာအတွက် သုံးတာလဲ။",
+          "pinyin": "zhè shì gàn shén me yòng de",
+          "phonetic_my": "ကျ ရှီး ကန် ရှန် မ ယုန်း တ",
+          "alternatives": [
+            {
+              "id": "s04_11_0005_alt01",
+              "canonical_id": "01.04.01-S005_alt01",
+              "text": "这东西是做什么的？",
+              "meaning_my": "ဒီပစ္စည်းက ဘာလုပ်ဖို့လဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0005_reply01",
+              "canonical_id": "01.04.01-S005_reply01",
+              "text": "这是用来充电的。",
+              "meaning_my": "ဒါက အားသွင်းဖို့ သုံးတာပါ။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“干什么用的”是问用途，不是问谁来做。",
+              "text_my": "“干什么用的” က ဘာအတွက် အသုံးပြုတာလဲဆိုတာ မေးတာပါ။ ဘယ်သူလုပ်တာလဲလို့ မေးတာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_11_0006",
+          "canonical_id": "01.04.01-S006",
+          "level": "must",
+          "text": "这个是什么意思？",
+          "meaning_my": "ဒါက ဘာအဓိပ္ပာယ်လဲ။",
+          "pinyin": "zhè ge shì shén me yì si",
+          "phonetic_my": "ကျ က ရှီး ရှန် မ ယီ စီး",
+          "alternatives": [
+            {
+              "id": "s04_11_0006_alt01",
+              "canonical_id": "01.04.01-S006_alt01",
+              "text": "这是什么意思？",
+              "meaning_my": "ဒါ ဘာအဓိပ္ပာယ်လဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0006_reply01",
+              "canonical_id": "01.04.01-S006_reply01",
+              "text": "就是不能进去的意思。",
+              "meaning_my": "အထဲဝင်လို့မရဘူးဆိုတဲ့ အဓိပ္ပာယ်ပါ။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0007",
+          "canonical_id": "01.04.01-S007",
+          "level": "must",
+          "text": "这个怎么弄？",
+          "meaning_my": "ဒါကို ဘယ်လိုလုပ်ရလဲ။",
+          "pinyin": "zhè ge zěn me nòng",
+          "phonetic_my": "ကျ က ဇန် မ နုန်း",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_11_0007_reply01",
+              "canonical_id": "01.04.01-S007_reply01",
+              "text": "我做给你看。",
+              "meaning_my": "လုပ်ပြပေးမယ်။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0008",
+          "canonical_id": "01.04.01-S008",
+          "level": "must",
+          "text": "这个怎么打开？",
+          "meaning_my": "ဒါကို ဘယ်လိုဖွင့်ရလဲ။",
+          "pinyin": "zhè ge zěn me dǎ kāi",
+          "phonetic_my": "ကျ က ဇန် မ တာ ခိုင်",
+          "alternatives": [
+            {
+              "id": "s04_11_0008_alt01",
+              "canonical_id": "01.04.01-S008_alt01",
+              "text": "怎么把它打开？",
+              "meaning_my": "ဒါကို ဘယ်လိုဖွင့်ရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0008_reply01",
+              "canonical_id": "01.04.01-S008_reply01",
+              "text": "往这边拉就开了。",
+              "meaning_my": "ဒီဘက်ကို ဆွဲလိုက်ရင် ပွင့်ပြီ။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0009",
+          "canonical_id": "01.04.01-S009",
+          "level": "must",
+          "text": "这个怎么关？",
+          "meaning_my": "ဒါကို ဘယ်လိုပိတ်ရလဲ။",
+          "pinyin": "zhè ge zěn me guān",
+          "phonetic_my": "ကျ က ဇန် မ ကွမ်",
+          "alternatives": [
+            {
+              "id": "s04_11_0009_alt01",
+              "canonical_id": "01.04.01-S009_alt01",
+              "text": "怎么把它关掉？",
+              "meaning_my": "ဒါကို ဘယ်လိုပိတ်ရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0009_reply01",
+              "canonical_id": "01.04.01-S009_reply01",
+              "text": "按一下这里就关了。",
+              "meaning_my": "ဒီနေရာကို တစ်ချက်နှိပ်လိုက်ရင် ပိတ်သွားမယ်။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0010",
+          "canonical_id": "01.04.01-S010",
+          "level": "must",
+          "text": "这个还能用吗？",
+          "meaning_my": "ဒါကို သုံးလို့ရသေးလား။",
+          "pinyin": "zhè ge hái néng yòng ma",
+          "phonetic_my": "ကျ က ဟိုင်း နန်း ယုန်း မာ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“还能用吗”问现在是否仍可使用，不一定是问怎么使用。",
+              "text_my": "“还能用吗” က အခုထိ သုံးလို့ရသေးလားလို့ မေးတာပါ။ ဘယ်လိုသုံးရလဲလို့ မေးတာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_11_0011",
+          "canonical_id": "01.04.01-S011",
+          "level": "must",
+          "text": "这个坏了吗？",
+          "meaning_my": "ဒါ ပျက်သွားပြီလား။",
+          "pinyin": "zhè ge huài le ma",
+          "phonetic_my": "ကျ က ဟွိုင် လ မာ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_11_0011_reply01",
+              "canonical_id": "01.04.01-S011_reply01",
+              "text": "没坏，是没电了。",
+              "meaning_my": "မပျက်ဘူး၊ အားကုန်သွားတာ။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0012",
+          "canonical_id": "01.04.01-S012",
+          "level": "useful",
+          "text": "这个字怎么读？",
+          "meaning_my": "ဒီတရုတ်စာလုံးကို ဘယ်လိုအသံထွက်ရလဲ။",
+          "pinyin": "zhè ge zì zěn me dú",
+          "phonetic_my": "ကျ က ဇီး ဇန် မ တု",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“怎么读”问发音，“怎么写”问写法，两者不要混淆。",
+              "text_my": "“怎么读” က ဘယ်လိုဖတ်ရလဲလို့ မေးတာ၊ “怎么写” က ဘယ်လိုရေးရလဲလို့ မေးတာပါ။"
+            }
+          ]
+        },
+        {
+          "id": "s04_11_0013",
+          "canonical_id": "01.04.01-S013",
+          "level": "useful",
+          "text": "这个和那个有什么区别？",
+          "meaning_my": "ဒီနှစ်ခု ဘာကွာလဲ။",
+          "pinyin": "zhè ge hé nà ge yǒu shén me qū bié",
+          "phonetic_my": "ကျ က ဟယ် နာ က ယိုး ရှန် မ ချွီ ပျဲ",
+          "alternatives": [
+            {
+              "id": "s04_11_0013_alt01",
+              "canonical_id": "01.04.01-S013_alt01",
+              "text": "这俩有什么不同？",
+              "meaning_my": "ဒီနှစ်ခု ဘာကွာလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0013_reply01",
+              "canonical_id": "01.04.01-S013_reply01",
+              "text": "这个便宜一点。",
+              "meaning_my": "ဒီဟာက နည်းနည်း ပိုဈေးသက်သာတယ်။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "问区别时可比较大小、价格、用途，不一定只是外观不同。",
+              "text_my": "ကွာခြားချက် မေးတဲ့အခါ အရွယ်အစား၊ ဈေးနှုန်း၊ အသုံးပြုပုံ စတာတွေကို နှိုင်းယှဉ်နိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "s04_11_0014",
+          "canonical_id": "01.04.01-S014",
+          "level": "useful",
+          "text": "这两个一样吗？",
+          "meaning_my": "ဒီနှစ်ခု တူလား။",
+          "pinyin": "zhè liǎng ge yí yàng ma",
+          "phonetic_my": "ကျ လျန်း က ယီ ယန်း မာ",
+          "alternatives": [
+            {
+              "id": "s04_11_0014_alt01",
+              "canonical_id": "01.04.01-S014_alt01",
+              "text": "这俩一样吗？",
+              "meaning_my": "ဒီနှစ်ခု တူလား။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0015",
+          "canonical_id": "01.04.01-S015",
+          "level": "useful",
+          "text": "不一样，这个大一点。",
+          "meaning_my": "မတူဘူး၊ ဒါက နည်းနည်း ပိုကြီးတယ်။",
+          "pinyin": "bù yí yàng zhè ge dà yì diǎn",
+          "phonetic_my": "ပု ယီ ယန်း ကျ က တာ ယီ တျန်",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0016",
+          "canonical_id": "01.04.01-S016",
+          "level": "useful",
+          "text": "这个能吃吗？",
+          "meaning_my": "ဒါကို စားလို့ရလား။",
+          "pinyin": "zhè ge néng chī ma",
+          "phonetic_my": "ကျ က နန်း ချီး မာ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_11_0016_reply01",
+              "canonical_id": "01.04.01-S016_reply01",
+              "text": "可以吃，但要煮熟。",
+              "meaning_my": "စားလို့ရတယ်၊ ဒါပေမဲ့ ကျက်အောင် ချက်ရမယ်။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0017",
+          "canonical_id": "01.04.01-S017",
+          "level": "useful",
+          "text": "这里写的是什么？",
+          "meaning_my": "ဒီမှာ ဘာရေးထားတာလဲ။",
+          "pinyin": "zhè li xiě de shì shén me",
+          "phonetic_my": "ကျ လီ ရှျဲ တ ရှီး ရှန် မ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_11_0017_reply01",
+              "canonical_id": "01.04.01-S017_reply01",
+              "text": "这里写的是电话号码。",
+              "meaning_my": "ဒီမှာ ဖုန်းနံပါတ် ရေးထားတာပါ။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_11_0018",
+          "canonical_id": "01.04.01-S018",
+          "level": "useful",
+          "text": "要按哪个按钮？",
+          "meaning_my": "ဘယ်ခလုတ်ကို နှိပ်ရမလဲ။",
+          "pinyin": "yào àn nǎ ge àn niǔ",
+          "phonetic_my": "ယောင် အန် နာ က အန် နျိုး",
+          "alternatives": [
+            {
+              "id": "s04_11_0018_alt01",
+              "canonical_id": "01.04.01-S018_alt01",
+              "text": "点哪个？",
+              "meaning_my": "ဘယ်ဟာကို နှိပ်ရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_11_0018_reply01",
+              "canonical_id": "01.04.01-S018_reply01",
+              "text": "按左边这个。",
+              "meaning_my": "ဘယ်ဘက်က ဒီခလုတ်ကို နှိပ်ပါ။"
+            }
+          ],
+          "lesson_id": "04.11",
+          "lesson_title": "04.11 询问名称、用途与回应",
+          "lesson_title_my": "04.11 အမည်၊ အသုံးပြုပုံ မေးမြန်းခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        }
+      ]
+    },
+    {
+      "id": "04.12",
+      "title": "04.12 问路、指路与回应",
+      "title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "subtitle": "29张高频卡",
+      "subtitle_my": "29 ကြောင်း",
+      "opening": "",
+      "opening_my": "",
+      "phrases": [
+        {
+          "id": "s04_12_0001",
+          "canonical_id": "01.04.02-S001",
+          "level": "must",
+          "text": "厕所在哪儿？",
+          "meaning_my": "အိမ်သာ ဘယ်မှာလဲ။",
+          "pinyin": "cè suǒ zài nǎr",
+          "phonetic_my": "ဆယ် ဆွေါ ဇိုင် နာရ်",
+          "alternatives": [
+            {
+              "id": "s04_12_0001_alt01",
+              "canonical_id": "01.04.02-S001_alt01",
+              "text": "洗手间在哪儿？",
+              "meaning_my": "အိမ်သာ ဘယ်မှာလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0001_reply01",
+              "canonical_id": "01.04.02-S001_reply01",
+              "text": "往前走，左手边就是。",
+              "meaning_my": "ရှေ့တည့်တည့်သွား၊ ဘယ်ဘက်မှာပဲ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0002",
+          "canonical_id": "01.04.02-S002",
+          "level": "must",
+          "text": "去车站怎么走？",
+          "meaning_my": "ကားဂိတ်ကို ဘယ်လိုသွားရမလဲ။",
+          "pinyin": "qù chēzhàn zěn me zǒu",
+          "phonetic_my": "ချွီ ချ ကျန် ဇန် မ ဇိုး",
+          "alternatives": [
+            {
+              "id": "s04_12_0002_alt01",
+              "canonical_id": "01.04.02-S002_alt01",
+              "text": "车站怎么走？",
+              "meaning_my": "ကားဂိတ်ကို ဘယ်လိုသွားရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0002_reply01",
+              "canonical_id": "01.04.02-S002_reply01",
+              "text": "直走到路口再右转。",
+              "meaning_my": "လမ်းဆုံအထိ တည့်တည့်သွားပြီး ညာဘက်ကွေ့ပါ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0003",
+          "canonical_id": "01.04.02-S003",
+          "level": "must",
+          "text": "往哪边走？",
+          "meaning_my": "ဘယ်လမ်းဘက်ကို သွားရမလဲ။",
+          "pinyin": "wǎng nǎ biān zǒu",
+          "phonetic_my": "ဝမ်း နာ ပျန် ဇိုး",
+          "alternatives": [
+            {
+              "id": "s04_12_0003_alt01",
+              "canonical_id": "01.04.02-S003_alt01",
+              "text": "往哪儿走？",
+              "meaning_my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0003_reply01",
+              "canonical_id": "01.04.02-S003_reply01",
+              "text": "往左边走。",
+              "meaning_my": "ဘယ်ဘက်ကို သွားပါ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“往哪边走”是在问方向；左边是左，右边是右，不能混淆。",
+              "text_my": "“往哪边走” က ဘယ်ဘက်ကို သွားရမလဲလို့ မေးတာပါ။ ဘယ်ဘက်နဲ့ ညာဘက် မမှားဖို့ သတိထားပါ။"
+            }
+          ]
+        },
+        {
+          "id": "s04_12_0004",
+          "canonical_id": "01.04.02-S004",
+          "level": "must",
+          "text": "从哪个门进去？",
+          "meaning_my": "ဘယ်တံခါးက ဝင်ရမလဲ။",
+          "pinyin": "cóng nǎ ge mén jìn qù",
+          "phonetic_my": "ဆုန်း နာ က မန် ကျင် ချွီ",
+          "alternatives": [
+            {
+              "id": "s04_12_0004_alt01",
+              "canonical_id": "01.04.02-S004_alt01",
+              "text": "走哪个门？",
+              "meaning_my": "ဘယ်တံခါးက ဝင်ရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0004_reply01",
+              "canonical_id": "01.04.02-S004_reply01",
+              "text": "从正门进去。",
+              "meaning_my": "အရှေ့ဘက် အဓိကဝင်ပေါက်ကနေ ဝင်ပါ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“正门”是主要入口，“侧门”是侧面的门；门口和出口不一定是同一处。",
+              "text_my": "“正门” က အဓိကဝင်ပေါက်၊ “侧门” က ဘေးတံခါးပါ။ ဝင်ပေါက်နဲ့ ထွက်ပေါက် အမြဲ တစ်နေရာတည်း မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_12_0005",
+          "canonical_id": "01.04.02-S005",
+          "level": "must",
+          "text": "入口在哪儿？",
+          "meaning_my": "ဝင်ပေါက် ဘယ်မှာလဲ။",
+          "pinyin": "rù kǒu zài nǎr",
+          "phonetic_my": "ရူ ခိုး ဇိုင် နာရ်",
+          "alternatives": [
+            {
+              "id": "s04_12_0005_alt01",
+              "canonical_id": "01.04.02-S005_alt01",
+              "text": "从哪儿进去？",
+              "meaning_my": "ဘယ်ကနေ ဝင်ရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0005_reply01",
+              "canonical_id": "01.04.02-S005_reply01",
+              "text": "在大楼后面。",
+              "meaning_my": "အဆောက်အအုံ နောက်ဘက်မှာပါ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0006",
+          "canonical_id": "01.04.02-S006",
+          "level": "must",
+          "text": "哪个出口近？",
+          "meaning_my": "ဘယ်ထွက်ပေါက်က ပိုနီးလဲ။",
+          "pinyin": "nǎ ge chū kǒu jìn",
+          "phonetic_my": "နာ က ချူ ခိုး ကျင်",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_12_0006_reply01",
+              "canonical_id": "01.04.02-S006_reply01",
+              "text": "二号出口最近。",
+              "meaning_my": "နံပါတ်နှစ် ထွက်ပေါက်က အနီးဆုံးပဲ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“哪个出口近”常用于地铁站、商场和大型建筑，指选择更近的出口。",
+              "text_my": "“哪个出口近” ကို မြေအောက်ရထားဘူတာ၊ ဈေးဝယ်စင်တာ၊ အဆောက်အအုံကြီးတွေမှာ ဘယ်ထွက်ပေါက် ပိုနီးလဲလို့ မေးတဲ့အခါ သုံးတယ်။"
+            }
+          ]
+        },
+        {
+          "id": "s04_12_0007",
+          "canonical_id": "01.04.02-S007",
+          "level": "must",
+          "text": "电梯在哪儿？",
+          "meaning_my": "ဓာတ်လှေကား ဘယ်မှာလဲ။",
+          "pinyin": "diàn tī zài nǎr",
+          "phonetic_my": "တျန် ထီ ဇိုင် နာရ်",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_12_0007_reply01",
+              "canonical_id": "01.04.02-S007_reply01",
+              "text": "进门左边就是。",
+              "meaning_my": "ဝင်လိုက်တာနဲ့ ဘယ်ဘက်မှာပဲ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0008",
+          "canonical_id": "01.04.02-S008",
+          "level": "must",
+          "text": "地铁口在哪边？",
+          "meaning_my": "မြေအောက်ရထား ဝင်ပေါက်က ဘယ်ဘက်မှာလဲ။",
+          "pinyin": "dì tiě kǒu zài nǎ biān",
+          "phonetic_my": "တီ ထျဲ ခိုး ဇိုင် နာ ပျန်",
+          "alternatives": [
+            {
+              "id": "s04_12_0008_alt01",
+              "canonical_id": "01.04.02-S008_alt01",
+              "text": "地铁入口在哪儿？",
+              "meaning_my": "မြေအောက်ရထား ဝင်ပေါက် ဘယ်မှာလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0008_reply01",
+              "canonical_id": "01.04.02-S008_reply01",
+              "text": "往前走就能看到。",
+              "meaning_my": "ရှေ့တည့်တည့်သွားရင် တွေ့လိမ့်မယ်။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0009",
+          "canonical_id": "01.04.02-S009",
+          "level": "must",
+          "text": "直走。",
+          "meaning_my": "တည့်တည့်သွားပါ။",
+          "pinyin": "zhí zǒu",
+          "phonetic_my": "ကျီး ဇိုး",
+          "alternatives": [
+            {
+              "id": "s04_12_0009_alt01",
+              "canonical_id": "01.04.02-S009_alt01",
+              "text": "一直往前走。",
+              "meaning_my": "ရှေ့တည့်တည့် ဆက်သွားပါ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0009_reply01",
+              "canonical_id": "01.04.02-S009_reply01",
+              "text": "好，要走多远？",
+              "meaning_my": "ကောင်းပြီ၊ ဘယ်လောက် ဝေးဝေး သွားရမလဲ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0010",
+          "canonical_id": "01.04.02-S010",
+          "level": "must",
+          "text": "左转。",
+          "meaning_my": "ဘယ်ဘက်ကွေ့ပါ။",
+          "pinyin": "zuǒ zhuǎn",
+          "phonetic_my": "ဇွော ကျွန်",
+          "alternatives": [
+            {
+              "id": "s04_12_0010_alt01",
+              "canonical_id": "01.04.02-S010_alt01",
+              "text": "向左拐。",
+              "meaning_my": "ဘယ်ဘက်ကွေ့ပါ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0010_reply01",
+              "canonical_id": "01.04.02-S010_reply01",
+              "text": "好，在哪儿转？",
+              "meaning_my": "ကောင်းပြီ၊ ဘယ်နေရာမှာ ကွေ့ရမလဲ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0011",
+          "canonical_id": "01.04.02-S011",
+          "level": "must",
+          "text": "右转。",
+          "meaning_my": "ညာဘက်ကွေ့ပါ။",
+          "pinyin": "yòu zhuǎn",
+          "phonetic_my": "ယိုး ကျွန်",
+          "alternatives": [
+            {
+              "id": "s04_12_0011_alt01",
+              "canonical_id": "01.04.02-S011_alt01",
+              "text": "向右拐。",
+              "meaning_my": "ညာဘက်ကွေ့ပါ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0011_reply01",
+              "canonical_id": "01.04.02-S011_reply01",
+              "text": "好，转了以后呢？",
+              "meaning_my": "ကောင်းပြီ၊ ကွေ့ပြီးရင်ရော။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0012",
+          "canonical_id": "01.04.02-S012",
+          "level": "useful",
+          "text": "先下楼，再往右走。",
+          "meaning_my": "အရင် အောက်ဆင်းပြီး ညာဘက်ကို သွားပါ။",
+          "pinyin": "xiān xià lóu zài wǎng yòu zǒu",
+          "phonetic_my": "ရှျန် ရှျာ လိုး ဇိုင် ဝမ်း ယိုး ဇိုး",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0013",
+          "canonical_id": "01.04.02-S013",
+          "level": "useful",
+          "text": "在这边吗？",
+          "meaning_my": "ဒီဘက်မှာလား။",
+          "pinyin": "zài zhè biān ma",
+          "phonetic_my": "ဇိုင် ကျ ပျန် မာ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0014",
+          "canonical_id": "01.04.02-S014",
+          "level": "useful",
+          "text": "楼上还是楼下？",
+          "meaning_my": "အပေါ်ထပ်လား၊ အောက်ထပ်လား။",
+          "pinyin": "lóu shàng hái shi lóu xià",
+          "phonetic_my": "လိုး ရှန်း ဟိုင်း ရှီး လိုး ရှျာ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_12_0014_reply01",
+              "canonical_id": "01.04.02-S014_reply01",
+              "text": "在楼上，三楼。",
+              "meaning_my": "အပေါ်ထပ်မှာ၊ တတိယထပ်ပါ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0015",
+          "canonical_id": "01.04.02-S015",
+          "level": "useful",
+          "text": "附近有便利店吗？",
+          "meaning_my": "ဒီနားမှာ စတိုးဆိုင် ရှိလား။",
+          "pinyin": "fù jìn yǒu biàn lì diàn ma",
+          "phonetic_my": "ဖူ ကျင် ယိုး ပျန် လီ တျန် မာ",
+          "alternatives": [
+            {
+              "id": "s04_12_0015_alt01",
+              "canonical_id": "01.04.02-S015_alt01",
+              "text": "这附近有便利店吗？",
+              "meaning_my": "ဒီနားမှာ စတိုးဆိုင် ရှိလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0015_reply01",
+              "canonical_id": "01.04.02-S015_reply01",
+              "text": "有，前面就有一家。",
+              "meaning_my": "ရှိတယ်၊ ရှေ့နားမှာ တစ်ဆိုင်ရှိတယ်။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "中国的“便利店”通常是卖日用品、饮料和食品的小型商店，不完全等于所有“ကုန်စုံဆိုင်”。",
+              "text_my": "တရုတ်နိုင်ငံက “便利店” ဟာ နေ့စဉ်သုံးပစ္စည်း၊ အချိုရည်၊ အစားအစာတွေ ရောင်းတဲ့ ဆိုင်ငယ်မျိုးပါ။ “ကုန်စုံဆိုင်” အားလုံးနဲ့ တစ်ထပ်တည်း မတူဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_12_0016",
+          "canonical_id": "01.04.02-S016",
+          "level": "useful",
+          "text": "这附近没有，得走远一点。",
+          "meaning_my": "ဒီနားမှာ မရှိဘူး၊ နည်းနည်း ဝေးဝေးသွားရမယ်။",
+          "pinyin": "zhè fù jìn méi yǒu děi zǒu yuǎn yì diǎn",
+          "phonetic_my": "ကျ ဖူ ကျင် မေး ယိုး တေး ဇိုး ယွမ် ယီ တျန်",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0017",
+          "canonical_id": "01.04.02-S017",
+          "level": "useful",
+          "text": "离这里远吗？",
+          "meaning_my": "ဒီကနေ ဝေးလား။",
+          "pinyin": "lí zhè lǐ yuǎn ma",
+          "phonetic_my": "လီ ကျ လီ ယွမ် မာ",
+          "alternatives": [
+            {
+              "id": "s04_12_0017_alt01",
+              "canonical_id": "01.04.02-S017_alt01",
+              "text": "远不远？",
+              "meaning_my": "ဝေးလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0017_reply01",
+              "canonical_id": "01.04.02-S017_reply01",
+              "text": "不远，走几分钟就到了。",
+              "meaning_my": "မဝေးဘူး၊ မိနစ်နည်းနည်း လျှောက်ရင် ရောက်ပြီ။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0018",
+          "canonical_id": "01.04.02-S018",
+          "level": "useful",
+          "text": "有点远，最好坐车。",
+          "meaning_my": "နည်းနည်းဝေးတယ်၊ ကားစီးသွားတာ ပိုကောင်းမယ်။",
+          "pinyin": "yǒu diǎn yuǎn zuìhǎo zuò chē",
+          "phonetic_my": "ယိုး တျန် ယွမ် ဇွေ့ ဟော ဇွော ချဲ့",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0019",
+          "canonical_id": "01.04.02-S019",
+          "level": "useful",
+          "text": "要上楼吗？",
+          "meaning_my": "အပေါ်တက်ရမလား။",
+          "pinyin": "yào shàng lóu ma",
+          "phonetic_my": "ယောင် ရှန်း လိုး မာ",
+          "alternatives": [
+            {
+              "id": "s04_12_0019_alt01",
+              "canonical_id": "01.04.02-S019_alt01",
+              "text": "需要上楼吗？",
+              "meaning_my": "အပေါ်ထပ်ကို တက်ရမလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0019_reply01",
+              "canonical_id": "01.04.02-S019_reply01",
+              "text": "不用，上下楼都不用。",
+              "meaning_my": "မလိုဘူး၊ အပေါ်တက်စရာ အောက်ဆင်းစရာ မလိုဘူး။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0020",
+          "canonical_id": "01.04.02-S020",
+          "level": "useful",
+          "text": "我是不是走错了？",
+          "meaning_my": "လမ်းမှားသွားတာလား။",
+          "pinyin": "wǒ shì bu shì zǒu cuò le",
+          "phonetic_my": "ဝေါ ရှီး ပု ရှီး ဇိုး ဆွေါ လ",
+          "alternatives": [
+            {
+              "id": "s04_12_0020_alt01",
+              "canonical_id": "01.04.02-S020_alt01",
+              "text": "我走错了吗？",
+              "meaning_my": "လမ်းမှားသွားပြီလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0020_reply01",
+              "canonical_id": "01.04.02-S020_reply01",
+              "text": "对，得往回走。",
+              "meaning_my": "ဟုတ်တယ်၊ ပြန်လှည့်သွားရမယ်။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0021",
+          "canonical_id": "01.04.02-S021",
+          "level": "useful",
+          "text": "从这边能过去吗？",
+          "meaning_my": "ဒီဘက်ကနေ ဖြတ်သွားလို့ရလား။",
+          "pinyin": "cóng zhè biān néng guò qù ma",
+          "phonetic_my": "ဆုန်း ကျ ပျန် နန်း ကွော ချွီ မာ",
+          "alternatives": [
+            {
+              "id": "s04_12_0021_alt01",
+              "canonical_id": "01.04.02-S021_alt01",
+              "text": "这边能走吗？",
+              "meaning_my": "ဒီဘက်ကနေ သွားလို့ရလား။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0022",
+          "canonical_id": "01.04.02-S022",
+          "level": "useful",
+          "text": "就在前面。",
+          "meaning_my": "ရှေ့နားမှာပဲ။",
+          "pinyin": "jiù zài qián miàn",
+          "phonetic_my": "ကျိုး ဇိုင် ချန် မျန်",
+          "alternatives": [
+            {
+              "id": "s04_12_0022_alt01",
+              "canonical_id": "01.04.02-S022_alt01",
+              "text": "前面就是。",
+              "meaning_my": "ရှေ့နားမှာပဲ။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0023",
+          "canonical_id": "01.04.02-S023",
+          "level": "useful",
+          "text": "在二楼。",
+          "meaning_my": "ဒုတိယထပ်မှာ ရှိတယ်။",
+          "pinyin": "zài èr lóu",
+          "phonetic_my": "ဇိုင် အာ လိုး",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "中国大陆一般把地面层称为“一楼”，上面一层称“二楼”；缅甸楼层叫法有时不同，实际找楼层要以电梯和门牌标注为准。",
+              "text_my": "တရုတ်မှာ မြေညီထပ်ကို “一楼” လို့ ခေါ်ပြီး အပေါ်တစ်ထပ်ကို “二楼” လို့ ခေါ်တတ်တယ်။ မြန်မာမှာ အထပ်ခေါ်ပုံ ကွာနိုင်လို့ ဓာတ်လှေကားနဲ့ အခန်းနံပါတ်ကို ကြည့်ပြီး သေချာစစ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "s04_12_0024",
+          "canonical_id": "01.04.02-S024",
+          "level": "useful",
+          "text": "在马路对面。",
+          "meaning_my": "ကားလမ်းတစ်ဖက်ခြမ်းမှာ ရှိတယ်။",
+          "pinyin": "zài mǎlù duìmiàn",
+          "phonetic_my": "ဇိုင် မာ လု တွေး မျန်",
+          "alternatives": [
+            {
+              "id": "s04_12_0024_alt01",
+              "canonical_id": "01.04.02-S024_alt01",
+              "text": "在路对面。",
+              "meaning_my": "လမ်းတစ်ဖက်ခြမ်းမှာပဲ။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0025",
+          "canonical_id": "01.04.02-S025",
+          "level": "useful",
+          "text": "过了红绿灯右转。",
+          "meaning_my": "မီးပွိုင့်ကို ကျော်ပြီး ညာဘက်ကွေ့ပါ။",
+          "pinyin": "guò le hóng lǜ dēng yòu zhuǎn",
+          "phonetic_my": "ကွော လ ဟုန်း လျွီ တန်း ယိုး ကျွန်",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“过了红绿灯右转”要先经过红绿灯所在位置，再右转，不是看到红绿灯立刻转。",
+              "text_my": "“过了红绿灯右转” က မီးပွိုင့်ကို ကျော်ပြီးမှ ညာဘက်ကွေ့တာပါ။ မီးပွိုင့်မြင်တာနဲ့ ချက်ချင်း ကွေ့တာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_12_0026",
+          "canonical_id": "01.04.02-S026",
+          "level": "useful",
+          "text": "很近，走路五分钟。",
+          "meaning_my": "နီးနီးလေးပါ၊ လမ်းလျှောက် ငါးမိနစ်လောက်ပဲ။",
+          "pinyin": "hěn jìn zǒulù wǔ fēn zhōng",
+          "phonetic_my": "ဟန် ကျင် ဇိုး လု ဝူ ဖန် ကျုန်း",
+          "alternatives": [
+            {
+              "id": "s04_12_0026_alt01",
+              "canonical_id": "01.04.02-S026_alt01",
+              "text": "不远，走五分钟就到。",
+              "meaning_my": "မဝေးဘူး၊ ငါးမိနစ် လျှောက်ရင် ရောက်ပြီ။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0027",
+          "canonical_id": "01.04.02-S027",
+          "level": "useful",
+          "text": "你走反了。",
+          "meaning_my": "လမ်းပြောင်းပြန် သွားမိပြီ။",
+          "pinyin": "nǐ zǒu fǎn le",
+          "phonetic_my": "နီ ဇိုး ဖန် လ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“走反了”表示方向走反，通常需要掉头，不只是稍微走偏。",
+              "text_my": "“走反了” က သွားရမယ့် လမ်းကြောင်းနဲ့ ပြောင်းပြန်ဘက်ကို သွားမိတာပါ။ ပြန်လှည့်ရတတ်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "s04_12_0028",
+          "canonical_id": "01.04.02-S028",
+          "level": "useful",
+          "text": "我也不太清楚。",
+          "meaning_my": "ဒီဘက်လည်း သိပ်မသိဘူး။",
+          "pinyin": "wǒ yě bú tài qīng chu",
+          "phonetic_my": "ဝေါ ယဲ့ ပု ထိုင် ချင်း ချူ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_12_0029",
+          "canonical_id": "01.04.02-S029",
+          "level": "useful",
+          "text": "走过去要多久？",
+          "meaning_my": "လမ်းလျှောက်သွားရင် ဘယ်လောက်ကြာမလဲ။",
+          "pinyin": "zǒu guò qù yào duō jiǔ",
+          "phonetic_my": "ဇိုး ကွော ချွီ ယောင် တွော ကျိုး",
+          "alternatives": [
+            {
+              "id": "s04_12_0029_alt01",
+              "canonical_id": "01.04.02-S029_alt01",
+              "text": "步行要多久？",
+              "meaning_my": "လမ်းလျှောက်ရင် ဘယ်လောက်ကြာမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_12_0029_reply01",
+              "canonical_id": "01.04.02-S029_reply01",
+              "text": "大概十分钟。",
+              "meaning_my": "ဆယ်မိနစ်လောက် ကြာမယ်။"
+            }
+          ],
+          "lesson_id": "04.12",
+          "lesson_title": "04.12 问路、指路与回应",
+          "lesson_title_my": "04.12 လမ်းမေးခြင်း၊ လမ်းညွှန်ခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        }
+      ]
+    },
+    {
+      "id": "04.13",
+      "title": "04.13 询问人物、归属与负责人",
+      "title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+      "subtitle": "22张高频卡",
+      "subtitle_my": "22 ကြောင်း",
+      "opening": "",
+      "opening_my": "",
+      "phrases": [
+        {
+          "id": "s04_13_0001",
+          "canonical_id": "01.04.03-S001",
+          "level": "must",
+          "text": "这是谁的？",
+          "meaning_my": "ဒါ ဘယ်သူ့ဟာလဲ။",
+          "pinyin": "zhè shì shéi de",
+          "phonetic_my": "ကျ ရှီး ရှေး တ",
+          "alternatives": [
+            {
+              "id": "s04_13_0001_alt01",
+              "canonical_id": "01.04.03-S001_alt01",
+              "text": "这东西是谁的？",
+              "meaning_my": "ဒီပစ္စည်း ဘယ်သူ့ဟာလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0001_reply01",
+              "canonical_id": "01.04.03-S001_reply01",
+              "text": "是我的。",
+              "meaning_my": "ကိုယ့်ဟာပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0002",
+          "canonical_id": "01.04.03-S002",
+          "level": "must",
+          "text": "是你的吗？",
+          "meaning_my": "ဒါ ခင်ဗျားဟာလား။",
+          "pinyin": "shì nǐ de ma",
+          "phonetic_my": "ရှီး နီ တ မာ",
+          "alternatives": [
+            {
+              "id": "s04_13_0002_alt01",
+              "canonical_id": "01.04.03-S002_alt01",
+              "text": "这是你的东西吗？",
+              "meaning_my": "ဒါ ခင်ဗျားပစ္စည်းလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0002_reply01",
+              "canonical_id": "01.04.03-S002_reply01",
+              "text": "不是我的，是他的。",
+              "meaning_my": "ကိုယ့်ဟာ မဟုတ်ဘူး၊ သူ့ဟာပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0003",
+          "canonical_id": "01.04.03-S003",
+          "level": "must",
+          "text": "这是我的。",
+          "meaning_my": "ဒါ ကိုယ့်ဟာပါ။",
+          "pinyin": "zhè shì wǒ de",
+          "phonetic_my": "ကျ ရှီး ဝေါ တ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0004",
+          "canonical_id": "01.04.03-S004",
+          "level": "must",
+          "text": "这是他的。",
+          "meaning_my": "ဒါ သူ့ဟာပါ။",
+          "pinyin": "zhè shì tā de",
+          "phonetic_my": "ကျ ရှီး ထာ တ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0005",
+          "canonical_id": "01.04.03-S005",
+          "level": "must",
+          "text": "这不是我的。",
+          "meaning_my": "ဒါ ကိုယ့်ဟာ မဟုတ်ဘူး။",
+          "pinyin": "zhè bú shì wǒ de",
+          "phonetic_my": "ကျ ပု ရှီး ဝေါ တ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0006",
+          "canonical_id": "01.04.03-S006",
+          "level": "must",
+          "text": "我该找谁？",
+          "meaning_my": "ဘယ်သူ့ဆီ သွားမေးရမလဲ။",
+          "pinyin": "wǒ gāi zhǎo shéi",
+          "phonetic_my": "ဝေါ ကိုင် ကျောင် ရှေး",
+          "alternatives": [
+            {
+              "id": "s04_13_0006_alt01",
+              "canonical_id": "01.04.03-S006_alt01",
+              "text": "这事应该找谁？",
+              "meaning_my": "ဒီကိစ္စ ဘယ်သူ့ကို သွားမေးရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0006_reply01",
+              "canonical_id": "01.04.03-S006_reply01",
+              "text": "你找前台问一下。",
+              "meaning_my": "ဧည့်ကြိုကောင်တာမှာ သွားမေးကြည့်ပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": [
+            {
+              "text": "“我该找谁”问应该联系哪个人，不是单纯问某个人在什么地方。",
+              "text_my": "“我该找谁” က ဘယ်သူ့ကို ဆက်သွယ်ရမလဲလို့ မေးတာပါ။ လူတစ်ယောက် ဘယ်မှာရှိလဲလို့ မေးတာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_13_0007",
+          "canonical_id": "01.04.03-S007",
+          "level": "must",
+          "text": "哪位是主管？",
+          "meaning_my": "ဘယ်သူက ကြီးကြပ်ရေးမှူးလဲ။",
+          "pinyin": "nǎ wèi shì zhǔ guǎn",
+          "phonetic_my": "နာ ဝေး ရှီး ကျူ ကွမ်",
+          "alternatives": [
+            {
+              "id": "s04_13_0007_alt01",
+              "canonical_id": "01.04.03-S007_alt01",
+              "text": "主管是哪位？",
+              "meaning_my": "ကြီးကြပ်ရေးမှူးက ဘယ်သူလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0007_reply01",
+              "canonical_id": "01.04.03-S007_reply01",
+              "text": "穿蓝衣服的那位。",
+              "meaning_my": "အပြာရောင် အင်္ကျီဝတ်ထားတဲ့သူပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": [
+            {
+              "text": "“主管”通常指直接管理团队或现场工作的负责人；“经理”有时是职位名称，二者不完全一样。",
+              "text_my": "“主管” က အဖွဲ့ ဒါမှမဟုတ် လုပ်ငန်းခွင်ကို တိုက်ရိုက်ကြီးကြပ်သူပါ။ “经理” က မန်နေဂျာရာထူးဖြစ်ပြီး အမြဲတူတာ မဟုတ်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_13_0008",
+          "canonical_id": "01.04.03-S008",
+          "level": "must",
+          "text": "经理在吗？",
+          "meaning_my": "မန်နေဂျာ ရှိလား။",
+          "pinyin": "jīng lǐ zài ma",
+          "phonetic_my": "ကျင်း လီ ဇိုင် မာ",
+          "alternatives": [
+            {
+              "id": "s04_13_0008_alt01",
+              "canonical_id": "01.04.03-S008_alt01",
+              "text": "经理现在在吗？",
+              "meaning_my": "မန်နေဂျာ အခု ရှိလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0008_reply01",
+              "canonical_id": "01.04.03-S008_reply01",
+              "text": "他出去了，等会儿回来。",
+              "meaning_my": "အပြင်ထွက်သွားတယ်၊ ခဏနေ ပြန်လာမယ်။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0009",
+          "canonical_id": "01.04.03-S009",
+          "level": "must",
+          "text": "这个要交给谁？",
+          "meaning_my": "ဒါကို ဘယ်သူ့ဆီ ပေးရမလဲ။",
+          "pinyin": "zhè ge yào jiāo gěi shéi",
+          "phonetic_my": "ကျ က ယောင် ကျောင် ကေး ရှေး",
+          "alternatives": [
+            {
+              "id": "s04_13_0009_alt01",
+              "canonical_id": "01.04.03-S009_alt01",
+              "text": "这个交给谁？",
+              "meaning_my": "ဒါကို ဘယ်သူ့ကို ပေးရမလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0009_reply01",
+              "canonical_id": "01.04.03-S009_reply01",
+              "text": "交给前台就行。",
+              "meaning_my": "ဧည့်ကြိုကောင်တာမှာ ပေးထားလိုက်ရင် ရပြီ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0010",
+          "canonical_id": "01.04.03-S010",
+          "level": "must",
+          "text": "谁能处理这个？",
+          "meaning_my": "ဒီကိစ္စကို ဘယ်သူ ဖြေရှင်းပေးနိုင်လဲ။",
+          "pinyin": "shéi néng chǔ lǐ zhè ge",
+          "phonetic_my": "ရှေး နန်း ချူ လီ ကျ က",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_13_0010_reply01",
+              "canonical_id": "01.04.03-S010_reply01",
+              "text": "你找维修师傅看看。",
+              "meaning_my": "ပြင်ဆရာကို လာကြည့်ခိုင်းပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0011",
+          "canonical_id": "01.04.03-S011",
+          "level": "must",
+          "text": "请问您找谁？",
+          "meaning_my": "ဘယ်သူနဲ့ တွေ့ချင်တာလဲ။",
+          "pinyin": "qǐng wèn nín zhǎo shéi",
+          "phonetic_my": "ချင်း ဝန် နင် ကျောင် ရှေး",
+          "alternatives": [
+            {
+              "id": "s04_13_0011_alt01",
+              "canonical_id": "01.04.03-S011_alt01",
+              "text": "您找哪位？",
+              "meaning_my": "ဘယ်သူ့ကို တွေ့ချင်တာလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0011_reply01",
+              "canonical_id": "01.04.03-S011_reply01",
+              "text": "我找李经理。",
+              "meaning_my": "မန်နေဂျာ လီနဲ့ တွေ့ချင်လို့ပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0012",
+          "canonical_id": "01.04.03-S012",
+          "level": "useful",
+          "text": "不知道，不是我的。",
+          "meaning_my": "မသိဘူး၊ ကိုယ့်ဟာ မဟုတ်ဘူး။",
+          "pinyin": "bù zhī dào bú shì wǒ de",
+          "phonetic_my": "ပု ကျီး တောင် ပု ရှီး ဝေါ တ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0013",
+          "canonical_id": "01.04.03-S013",
+          "level": "useful",
+          "text": "这是谁放在这儿的？",
+          "meaning_my": "ဒါကို ဘယ်သူ ဒီမှာထားခဲ့တာလဲ။",
+          "pinyin": "zhè shì shéi fàng zài zhèr de",
+          "phonetic_my": "ကျ ရှီး ရှေး ဖန်း ဇိုင် ကျဲရ် တ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_13_0013_reply01",
+              "canonical_id": "01.04.03-S013_reply01",
+              "text": "是我放的。",
+              "meaning_my": "ကိုယ် ထားတာပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0014",
+          "canonical_id": "01.04.03-S014",
+          "level": "useful",
+          "text": "这个得找技术人员。",
+          "meaning_my": "ဒီကိစ္စကို နည်းပညာဝန်ထမ်းဆီ အကူအညီတောင်းရမယ်။",
+          "pinyin": "zhè ge děi zhǎo jì shù rén yuán",
+          "phonetic_my": "ကျ က တေး ကျောင် ကျီ ရှူ ရန် ယွမ်",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0015",
+          "canonical_id": "01.04.03-S015",
+          "level": "useful",
+          "text": "刚才是谁打的电话？",
+          "meaning_my": "ခုနက ဘယ်သူ ဖုန်းဆက်တာလဲ။",
+          "pinyin": "gāng cái shì shéi dǎ de diànhuà",
+          "phonetic_my": "ကန်း ဆိုင် ရှီး ရှေး တာ တ တျန် ဟွာ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_13_0015_reply01",
+              "canonical_id": "01.04.03-S015_reply01",
+              "text": "是前台打来的。",
+              "meaning_my": "ဧည့်ကြိုကောင်တာက ဖုန်းဆက်တာ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0016",
+          "canonical_id": "01.04.03-S016",
+          "level": "useful",
+          "text": "是谁告诉你的？",
+          "meaning_my": "ဘယ်သူက ပြောပြတာလဲ။",
+          "pinyin": "shì shéi gào su nǐ de",
+          "phonetic_my": "ရှီး ရှေး ကောင် စူ နီ တ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_13_0016_reply01",
+              "canonical_id": "01.04.03-S016_reply01",
+              "text": "同事告诉我的。",
+              "meaning_my": "အလုပ်ဖော်က ပြောပြတာပါ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0017",
+          "canonical_id": "01.04.03-S017",
+          "level": "useful",
+          "text": "今天谁负责这件事？",
+          "meaning_my": "ဒီနေ့ ဒီကိစ္စကို ဘယ်သူ တာဝန်ယူထားတာလဲ။",
+          "pinyin": "jīn tiān shéi fù zé zhè jiàn shì",
+          "phonetic_my": "ကျင် ထျန် ရှေး ဖူ ဇဲ ကျ ကျန် ရှီး",
+          "alternatives": [
+            {
+              "id": "s04_13_0017_alt01",
+              "canonical_id": "01.04.03-S017_alt01",
+              "text": "这事今天谁管？",
+              "meaning_my": "ဒီကိစ္စကို ဒီနေ့ ဘယ်သူ တာဝန်ယူထားလဲ။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0017_reply01",
+              "canonical_id": "01.04.03-S017_reply01",
+              "text": "今天小王负责。",
+              "meaning_my": "ဒီနေ့ ရှောင်ဝမ်က တာဝန်ယူထားတယ်။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0018",
+          "canonical_id": "01.04.03-S018",
+          "level": "useful",
+          "text": "负责人不在。",
+          "meaning_my": "တာဝန်ရှိသူ အခု မရှိဘူး။",
+          "pinyin": "fù zé rén bú zài",
+          "phonetic_my": "ဖူ ဇဲ ရန် ပု ဇိုင်",
+          "alternatives": [
+            {
+              "id": "s04_13_0018_alt01",
+              "canonical_id": "01.04.03-S018_alt01",
+              "text": "负责人现在不在。",
+              "meaning_my": "တာဝန်ရှိသူ အခု မရှိဘူး။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0018_reply01",
+              "canonical_id": "01.04.03-S018_reply01",
+              "text": "那他什么时候回来？",
+              "meaning_my": "ဒါဆို ဘယ်အချိန် ပြန်လာမလဲ။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": [
+            {
+              "text": "“负责人不在”只表示此刻人不在，未必是不再负责这件事。",
+              "text_my": "“负责人不在” က တာဝန်ရှိသူ အခုမရှိတာပါ။ တာဝန်မယူတော့ဘူးလို့ မဆိုလိုဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_13_0019",
+          "canonical_id": "01.04.03-S019",
+          "level": "useful",
+          "text": "他刚出去了。",
+          "meaning_my": "သူ အခုလေးတင် အပြင်ထွက်သွားတယ်။",
+          "pinyin": "tā gāng chū qù le",
+          "phonetic_my": "ထာ ကန်း ချူ ချွီ လ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_13_0019_reply01",
+              "canonical_id": "01.04.03-S019_reply01",
+              "text": "那我等他一下。",
+              "meaning_my": "ဒါဆို ခဏ စောင့်လိုက်မယ်။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0020",
+          "canonical_id": "01.04.03-S020",
+          "level": "useful",
+          "text": "我是来找他的。",
+          "meaning_my": "သူ့ကို လာတွေ့တာပါ။",
+          "pinyin": "wǒ shì lái zhǎo tā de",
+          "phonetic_my": "ဝေါ ရှီး လိုင် ကျောင် ထာ တ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_13_0020_reply01",
+              "canonical_id": "01.04.03-S020_reply01",
+              "text": "他现在不在，晚点来吧。",
+              "meaning_my": "သူ အခု မရှိဘူး၊ နောက်မှ ပြန်လာပါနော်။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0021",
+          "canonical_id": "01.04.03-S021",
+          "level": "useful",
+          "text": "能帮我叫一下负责人吗？",
+          "meaning_my": "တာဝန်ရှိသူကို ခဏခေါ်ပေးလို့ ရမလား။",
+          "pinyin": "néng bāng wǒ jiào yí xià fù zé rén ma",
+          "phonetic_my": "နန်း ပန်း ဝေါ ကျောင် ယီ ရှျာ ဖူ ဇဲ ရန် မာ",
+          "alternatives": [
+            {
+              "id": "s04_13_0021_alt01",
+              "canonical_id": "01.04.03-S021_alt01",
+              "text": "能叫一下负责人吗？",
+              "meaning_my": "တာဝန်ရှိသူကို ခဏခေါ်ပေးလို့ ရမလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_13_0021_reply01",
+              "canonical_id": "01.04.03-S021_reply01",
+              "text": "好，我帮你叫。",
+              "meaning_my": "ကောင်းပြီ၊ ခေါ်ပေးမယ်။"
+            }
+          ],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_13_0022",
+          "canonical_id": "01.04.03-S022",
+          "level": "useful",
+          "text": "我去叫他。",
+          "meaning_my": "သူ့ကို သွားခေါ်လိုက်မယ်။",
+          "pinyin": "wǒ qù jiào tā",
+          "phonetic_my": "ဝေါ ချွီ ကျောင် ထာ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.13",
+          "lesson_title": "04.13 询问人物、归属与负责人",
+          "lesson_title_my": "04.13 လူပုဂ္ဂိုလ်၊ ပိုင်ရှင်နှင့် တာဝန်ရှိသူကို မေးမြန်းခြင်း",
+          "mistakes": []
+        }
+      ]
+    },
+    {
+      "id": "04.14",
+      "title": "04.14 核实信息与回应",
+      "title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+      "subtitle": "24张高频卡",
+      "subtitle_my": "24 ကြောင်း",
+      "opening": "",
+      "opening_my": "",
+      "phrases": [
+        {
+          "id": "s04_14_0001",
+          "canonical_id": "01.04.04-S001",
+          "level": "must",
+          "text": "这样对吗？",
+          "meaning_my": "ဒီလိုလုပ်တာ မှန်လား။",
+          "pinyin": "zhè yàng duì ma",
+          "phonetic_my": "ကျ ယန်း တွေး မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0001_alt01",
+              "canonical_id": "01.04.04-S001_alt01",
+              "text": "这么做对吗？",
+              "meaning_my": "ဒီလိုလုပ်တာ မှန်လား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0001_reply01",
+              "canonical_id": "01.04.04-S001_reply01",
+              "text": "对，就这样。",
+              "meaning_my": "ဟုတ်တယ်၊ အဲဒီလိုပဲ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“这样对吗”是问正确不正确，“这样可以吗”是问允不允许或可不可行，两者意思不同。",
+              "text_my": "“这样对吗” က မှန်မမှန် မေးတာ၊ “这样可以吗” က လုပ်လို့ရမရ မေးတာပါ။ မတူဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_14_0002",
+          "canonical_id": "01.04.04-S002",
+          "level": "must",
+          "text": "这样可以吗？",
+          "meaning_my": "ဒီလိုလုပ်လို့ရလား။",
+          "pinyin": "zhè yàng kě yǐ ma",
+          "phonetic_my": "ကျ ယန်း ခ ယီ မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0002_alt01",
+              "canonical_id": "01.04.04-S002_alt01",
+              "text": "这样行吗？",
+              "meaning_my": "ဒီလို ရလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0002_reply01",
+              "canonical_id": "01.04.04-S002_reply01",
+              "text": "可以，这样就行。",
+              "meaning_my": "ရတယ်၊ ဒီလိုဆို ရပြီ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0003",
+          "canonical_id": "01.04.04-S003",
+          "level": "must",
+          "text": "没错。",
+          "meaning_my": "မှန်တယ်။",
+          "pinyin": "méi cuò",
+          "phonetic_my": "မေး ဆွေါ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0004",
+          "canonical_id": "01.04.04-S004",
+          "level": "must",
+          "text": "不对。",
+          "meaning_my": "မမှန်ဘူး။",
+          "pinyin": "bú duì",
+          "phonetic_my": "ပု တွေး",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0005",
+          "canonical_id": "01.04.04-S005",
+          "level": "must",
+          "text": "你确定吗？",
+          "meaning_my": "သေချာလား။",
+          "pinyin": "nǐ què dìng ma",
+          "phonetic_my": "နီ ချွဲ တင်း မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0005_alt01",
+              "canonical_id": "01.04.04-S005_alt01",
+              "text": "你能确定吗？",
+              "meaning_my": "သေချာတယ်လို့ ပြောနိုင်လား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0005_reply01",
+              "canonical_id": "01.04.04-S005_reply01",
+              "text": "我再查一下。",
+              "meaning_my": "ထပ်စစ်ကြည့်လိုက်ဦးမယ်။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“你确定吗”用于重新确认信息；语气过重时可能显得质疑对方，可换“我再确认一下”。",
+              "text_my": "“你确定吗” က သေချာလားလို့ ပြန်မေးတာပါ။ အသံအနိမ့်အမြင့် မသင့်ရင် မယုံသလို ခံစားရနိုင်လို့ “我再确认一下” လို့လည်း ပြောနိုင်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "s04_14_0006",
+          "canonical_id": "01.04.04-S006",
+          "level": "must",
+          "text": "确定。",
+          "meaning_my": "သေချာတယ်။",
+          "pinyin": "què dìng",
+          "phonetic_my": "ချွဲ တင်း",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0007",
+          "canonical_id": "01.04.04-S007",
+          "level": "must",
+          "text": "不确定。",
+          "meaning_my": "မသေချာဘူး။",
+          "pinyin": "bú què dìng",
+          "phonetic_my": "ပု ချွဲ တင်း",
+          "alternatives": [
+            {
+              "id": "s04_14_0007_alt01",
+              "canonical_id": "01.04.04-S007_alt01",
+              "text": "还不能确定。",
+              "meaning_my": "သေချာ မပြောနိုင်သေးဘူး။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0008",
+          "canonical_id": "01.04.04-S008",
+          "level": "must",
+          "text": "我再确认一下。",
+          "meaning_my": "ထပ်ပြီး သေချာစစ်ကြည့်လိုက်မယ်။",
+          "pinyin": "wǒ zài què rèn yí xià",
+          "phonetic_my": "ဝေါ ဇိုင် ချွဲ ရန် ယီ ရှျာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0008_alt01",
+              "canonical_id": "01.04.04-S008_alt01",
+              "text": "我再核对一遍。",
+              "meaning_my": "နောက်တစ်ခေါက် သေချာ ထပ်စစ်ကြည့်မယ်။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0008_reply01",
+              "canonical_id": "01.04.04-S008_reply01",
+              "text": "好，确认了再告诉我。",
+              "meaning_my": "ကောင်းပြီ၊ သေချာစစ်ပြီးမှ ပြောနော်။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0009",
+          "canonical_id": "01.04.04-S009",
+          "level": "must",
+          "text": "这么填对吗？",
+          "meaning_my": "ဒီလိုဖြည့်တာ မှန်လား။",
+          "pinyin": "zhè me tián duì ma",
+          "phonetic_my": "ကျ မ ထျန် တွေး မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0009_alt01",
+              "canonical_id": "01.04.04-S009_alt01",
+              "text": "这样填行吗？",
+              "meaning_my": "ဒီလိုဖြည့်ရင် ရလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0009_reply01",
+              "canonical_id": "01.04.04-S009_reply01",
+              "text": "对，这样填就行。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒီလိုဖြည့်ရင် ရပြီ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0010",
+          "canonical_id": "01.04.04-S010",
+          "level": "must",
+          "text": "你说的是这个号码吗？",
+          "meaning_my": "ဒီနံပါတ်ကို ပြောတာလား။",
+          "pinyin": "nǐ shuō de shì zhè ge hào mǎ ma",
+          "phonetic_my": "နီ ရှွော တ ရှီး ကျ က ဟောင် မာ မာ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_14_0010_reply01",
+              "canonical_id": "01.04.04-S010_reply01",
+              "text": "不是，是后面那个号码。",
+              "meaning_my": "မဟုတ်ဘူး၊ နောက်က နံပါတ်ပါ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0011",
+          "canonical_id": "01.04.04-S011",
+          "level": "must",
+          "text": "是这个地址吗？",
+          "meaning_my": "ဒီလိပ်စာ ဟုတ်လား။",
+          "pinyin": "shì zhè ge dì zhǐ ma",
+          "phonetic_my": "ရှီး ကျ က တီ ကျီး မာ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_14_0011_reply01",
+              "canonical_id": "01.04.04-S011_reply01",
+              "text": "对，就是这个地址。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒီလိပ်စာပဲ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0012",
+          "canonical_id": "01.04.04-S012",
+          "level": "useful",
+          "text": "不是，是旁边那个。",
+          "meaning_my": "မဟုတ်ဘူး၊ ဘေးနားက ဟာ။",
+          "pinyin": "bú shì shì páng biān nà ge",
+          "phonetic_my": "ပု ရှီး ရှီး ဖန်း ပျန် နာ က",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0013",
+          "canonical_id": "01.04.04-S013",
+          "level": "useful",
+          "text": "时间是三点，对吗？",
+          "meaning_my": "သုံးနာရီ ဟုတ်တယ်နော်။",
+          "pinyin": "shí jiān shì sān diǎn duì ma",
+          "phonetic_my": "ရှီး ကျန် ရှီး စန် တျန် တွေး မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0013_alt01",
+              "canonical_id": "01.04.04-S013_alt01",
+              "text": "是三点吧？",
+              "meaning_my": "သုံးနာရီပဲ ဟုတ်တယ်နော်။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0013_reply01",
+              "canonical_id": "01.04.04-S013_reply01",
+              "text": "不是，是三点半。",
+              "meaning_my": "မဟုတ်ဘူး၊ သုံးနာရီခွဲပါ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0014",
+          "canonical_id": "01.04.04-S014",
+          "level": "useful",
+          "text": "你的意思是先等一下？",
+          "meaning_my": "ဆိုလိုတာက အရင်စောင့်ရမယ်ပေါ့နော်။",
+          "pinyin": "nǐ de yì si shì xiān děng yí xià",
+          "phonetic_my": "နီ တ ယီ စီး ရှီး ရှျန် တန်း ယီ ရှျာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0014_alt01",
+              "canonical_id": "01.04.04-S014_alt01",
+              "text": "是先等一会儿吗？",
+              "meaning_my": "အရင် ခဏစောင့်ရမှာလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0014_reply01",
+              "canonical_id": "01.04.04-S014_reply01",
+              "text": "对，先等五分钟。",
+              "meaning_my": "ဟုတ်တယ်၊ အရင် ငါးမိနစ် စောင့်ပါ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0015",
+          "canonical_id": "01.04.04-S015",
+          "level": "useful",
+          "text": "这个是免费的吗？",
+          "meaning_my": "ဒါ အခမဲ့လား။",
+          "pinyin": "zhè ge shì miǎnfèi de ma",
+          "phonetic_my": "ကျ က ရှီး မျန် ဖေး တ မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0015_alt01",
+              "canonical_id": "01.04.04-S015_alt01",
+              "text": "不用钱吗？",
+              "meaning_my": "ပိုက်ဆံမပေးရဘူးလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0015_reply01",
+              "canonical_id": "01.04.04-S015_reply01",
+              "text": "是免费的。",
+              "meaning_my": "အခမဲ့ပါ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“免费”不收取费用，“免运费”只是不用付运费，商品本身不一定免费。",
+              "text_my": "“免费” က အခမဲ့ပါ။ “免运费” က ပို့ခ မပေးရတာပဲ ဖြစ်ပြီး ပစ္စည်းပါ အခမဲ့ မဟုတ်နိုင်ဘူး။"
+            }
+          ]
+        },
+        {
+          "id": "s04_14_0016",
+          "canonical_id": "01.04.04-S016",
+          "level": "useful",
+          "text": "我们在门口见，对吧？",
+          "meaning_my": "တံခါးဝမှာ တွေ့ကြမယ်နော်၊ ဟုတ်တယ်မလား။",
+          "pinyin": "wǒ men zài mén kǒu jiàn duì ba",
+          "phonetic_my": "ဝေါ မန် ဇိုင် မန် ခိုး ကျန် တွေး ပါ",
+          "alternatives": [
+            {
+              "id": "s04_14_0016_alt01",
+              "canonical_id": "01.04.04-S016_alt01",
+              "text": "门口见，是吧？",
+              "meaning_my": "တံခါးဝမှာ တွေ့မယ်နော်၊ ဟုတ်တယ်မလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0016_reply01",
+              "canonical_id": "01.04.04-S016_reply01",
+              "text": "对，在门口见。",
+              "meaning_my": "ဟုတ်တယ်၊ တံခါးဝမှာ တွေ့ကြမယ်။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0017",
+          "canonical_id": "01.04.04-S017",
+          "level": "useful",
+          "text": "一共五个，对吗？",
+          "meaning_my": "စုစုပေါင်း ငါးခုနော်၊ ဟုတ်လား။",
+          "pinyin": "yí gòng wǔ ge duì ma",
+          "phonetic_my": "ယီ ကုန်း ဝူ က တွေး မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0017_alt01",
+              "canonical_id": "01.04.04-S017_alt01",
+              "text": "总共五个，对吧？",
+              "meaning_my": "စုစုပေါင်း ငါးခုနော်၊ ဟုတ်တယ်မလား။"
+            }
+          ],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0018",
+          "canonical_id": "01.04.04-S018",
+          "level": "useful",
+          "text": "不可以。",
+          "meaning_my": "မရဘူး။",
+          "pinyin": "bù kě yǐ",
+          "phonetic_my": "ပု ခ ယီ",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0019",
+          "canonical_id": "01.04.04-S019",
+          "level": "useful",
+          "text": "你是说今天就要？",
+          "meaning_my": "ဒီနေ့ပဲ လုပ်ရမယ်လို့ ပြောတာလား။",
+          "pinyin": "nǐ shì shuō jīn tiān jiù yào",
+          "phonetic_my": "နီ ရှီး ရှွော ကျင် ထျန် ကျိုး ယောင်",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0020",
+          "canonical_id": "01.04.04-S020",
+          "level": "useful",
+          "text": "现在做还是等会儿做？",
+          "meaning_my": "အခုလုပ်မလား၊ ခဏနေမှလုပ်မလား။",
+          "pinyin": "xiàn zài zuò hái shi děng huìr zuò",
+          "phonetic_my": "ရှျန် ဇိုင် ဇွော ဟိုင်း ရှီး တန်း ဟွေးရ် ဇွော",
+          "alternatives": [
+            {
+              "id": "s04_14_0020_alt01",
+              "canonical_id": "01.04.04-S020_alt01",
+              "text": "现在做还是一会儿做？",
+              "meaning_my": "အခုလုပ်မှာလား၊ ခဏနေမှ လုပ်မှာလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0020_reply01",
+              "canonical_id": "01.04.04-S020_reply01",
+              "text": "现在就做。",
+              "meaning_my": "အခုချက်ချင်း လုပ်ပါ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0021",
+          "canonical_id": "01.04.04-S021",
+          "level": "useful",
+          "text": "真的吗？",
+          "meaning_my": "တကယ်လား။",
+          "pinyin": "zhēn de ma",
+          "phonetic_my": "ကျန် တ မာ",
+          "alternatives": [
+            {
+              "id": "s04_14_0021_alt01",
+              "canonical_id": "01.04.04-S021_alt01",
+              "text": "真的假的？",
+              "meaning_my": "တကယ်လား၊ နောက်နေတာလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0021_reply01",
+              "canonical_id": "01.04.04-S021_reply01",
+              "text": "真的，我没骗你。",
+              "meaning_my": "တကယ်ပါ၊ လိမ်ပြောတာ မဟုတ်ဘူး။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0022",
+          "canonical_id": "01.04.04-S022",
+          "level": "useful",
+          "text": "我是不是理解错了？",
+          "meaning_my": "နားလည်မှားသွားတာလား။",
+          "pinyin": "wǒ shì bu shì lǐjiě cuò le",
+          "phonetic_my": "ဝေါ ရှီး ပု ရှီး လီ ကျဲ ဆွေါ လ",
+          "alternatives": [
+            {
+              "id": "s04_14_0022_alt01",
+              "canonical_id": "01.04.04-S022_alt01",
+              "text": "是我理解错了吗？",
+              "meaning_my": "ကိုယ် နားလည်မှားသွားတာလား။"
+            }
+          ],
+          "replies": [
+            {
+              "id": "s04_14_0022_reply01",
+              "canonical_id": "01.04.04-S022_reply01",
+              "text": "没有，你理解得对。",
+              "meaning_my": "မဟုတ်ပါဘူး၊ နားလည်ထားတာ မှန်ပါတယ်။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0023",
+          "canonical_id": "01.04.04-S023",
+          "level": "useful",
+          "text": "我再问问别人。",
+          "meaning_my": "တခြားသူကို ထပ်မေးကြည့်မယ်။",
+          "pinyin": "wǒ zài wèn wen biérén",
+          "phonetic_my": "ဝေါ ဇိုင် ဝန် ဝန် ပျဲ ရန်",
+          "alternatives": [],
+          "replies": [],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": []
+        },
+        {
+          "id": "s04_14_0024",
+          "canonical_id": "01.04.04-S024",
+          "level": "useful",
+          "text": "这是最新的吗？",
+          "meaning_my": "ဒါ နောက်ဆုံးထွက်တာလား။",
+          "pinyin": "zhè shì zuì xīn de ma",
+          "phonetic_my": "ကျ ရှီး ဇွေ့ ရှင် တ မာ",
+          "alternatives": [],
+          "replies": [
+            {
+              "id": "s04_14_0024_reply01",
+              "canonical_id": "01.04.04-S024_reply01",
+              "text": "对，这是最新版。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒါ နောက်ဆုံးဗားရှင်းပါ။"
+            }
+          ],
+          "lesson_id": "04.14",
+          "lesson_title": "04.14 核实信息与回应",
+          "lesson_title_my": "04.14 အချက်အလက် အတည်ပြုစစ်ဆေးခြင်းနှင့် ပြန်ဖြေခြင်း",
+          "mistakes": [
+            {
+              "text": "“最新”只是最近更新，不代表一定最好或最适合。",
+              "text_my": "“最新” က နောက်ဆုံးအသစ်ထွက်တာကို ဆိုလိုတယ်။ အကောင်းဆုံးလို့ အမြဲ မဆိုလိုဘူး။"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "phrase_count": 93
+}
