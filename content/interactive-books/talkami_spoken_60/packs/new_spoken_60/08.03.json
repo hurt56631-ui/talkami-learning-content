@@ -586,8 +586,7 @@
             {
               "id": "08.03.02-S002_reply01",
               "text": "请告诉我具体位置。",
-              "meaning_my": "နေရာကို အတိအကျ ပြောပြပါ။",
-              "source_ref": "user_original_08.03.02_B019"
+              "meaning_my": "နေရာကို အတိအကျ ပြောပြပါ။"
             }
           ],
           "alternatives": [],
@@ -1196,5 +1195,49 @@
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
     "audio_status": "not_recorded"
-  }
+  },
+  "core_words": [
+    {
+      "zh": "警察",
+      "my": "ရဲ",
+      "id": "08.03.01-S002",
+      "priority": "core"
+    },
+    {
+      "zh": "报警",
+      "my": "ရဲတိုင်ခြင်း",
+      "id": "08.03.01-S004",
+      "priority": "core"
+    },
+    {
+      "zh": "救护车",
+      "my": "လူနာတင်ကား",
+      "id": "08.03.02-S001",
+      "priority": "core"
+    },
+    {
+      "zh": "受伤",
+      "my": "ဒဏ်ရာရခြင်း",
+      "id": "08.03.02-S011",
+      "priority": "core"
+    },
+    {
+      "zh": "呼吸困难",
+      "my": "အသက်ရှူခက်ခြင်း",
+      "id": "08.03.02-S006",
+      "priority": "core"
+    },
+    {
+      "zh": "过敏",
+      "my": "ဓာတ်မတည့်ခြင်း",
+      "id": "08.03.02-S031",
+      "priority": "core"
+    },
+    {
+      "zh": "地址",
+      "my": "လိပ်စာ",
+      "id": "08.03.01-S016",
+      "priority": "core"
+    }
+  ]
 }
