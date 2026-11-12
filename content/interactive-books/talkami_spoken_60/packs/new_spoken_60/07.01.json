@@ -7,7 +7,7 @@
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-12",
   "phrase_count": 102,
-  "note": "原稿81句与补充62句按高频实用性精选，先录入主句；后续补充有教学意义的回复、类似说法和中缅说明，并生成TXT及音频索引。母语终审未完成。",
+  "note": "高频实用性筛选102条主句，加29条按需回复、10条类似说法及10条双语说明。需缅甸母语逐句终审。",
   "scenes": [
     {
       "id": "07.01.01",
@@ -20,7 +20,13 @@
           "text": "手机快没电了。",
           "meaning_my": "ဖုန်းအား ကုန်ခါနီးပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.01-S001_alt01",
+              "text": "手机电量不多了。",
+              "meaning_my": "ဖုန်းဘက်ထရီ သိပ်မကျန်တော့ဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.01.01_B002",
           "priority": "core",
           "pinyin": null,
@@ -84,7 +90,14 @@
           "id": "07.01.01-S006",
           "text": "哪里能给手机充电？",
           "meaning_my": "ဖုန်းအားသွင်းလို့ရတဲ့နေရာ ဘယ်မှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.01-S006_reply01",
+              "text": "插座在那边。",
+              "meaning_my": "ပလပ်ပေါက် ဟိုဘက်မှာ ရှိတယ်။",
+              "source_ref": "user_original_07.01.01_B016"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.01_B001",
           "priority": "core",
@@ -123,7 +136,13 @@
           "id": "07.01.01-S009",
           "text": "能借我一根充电线吗？",
           "meaning_my": "အားသွင်းကြိုး တစ်ချောင်းလောက် ငှားလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.01-S009_reply01",
+              "text": "有，给你用一下。",
+              "meaning_my": "ရှိတယ်၊ ခဏယူသုံးလိုက်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.01_B005",
           "priority": "core",
@@ -162,7 +181,14 @@
           "id": "07.01.01-S012",
           "text": "可以借充电宝吗？",
           "meaning_my": "ပါဝါဘဏ် ခဏငှားလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.01-S012_reply01",
+              "text": "我有充电宝，可以先给你用。",
+              "meaning_my": "ပါဝါဘဏ်ရှိတယ်၊ အရင် ယူသုံးလိုက်လို့ရတယ်။",
+              "source_ref": "user_original_07.01.01_B003"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.01_B012",
           "priority": "core",
@@ -175,14 +201,28 @@
           "id": "07.01.01-S013",
           "text": "共享充电宝在哪儿租？",
           "meaning_my": "ပါဝါဘဏ် ငှားလို့ရတဲ့နေရာ ဘယ်မှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.01-S013_reply01",
+              "text": "扫码就能租充电宝。",
+              "meaning_my": "QR ကုဒ် စကန်ဖတ်ပြီး ပါဝါဘဏ် ငှားလို့ရတယ်။",
+              "source_ref": "user_original_07.01.01_B018"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.01.01_N09",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "共享充电宝的费用、押金及归还地点以服务商页面为准。",
+              "text_my": "ပါဝါဘဏ် ငှားတဲ့ဈေးနှုန်း၊ စပေါ်ငွေနဲ့ ပြန်အပ်ရမယ့်နေရာကို ဝန်ဆောင်မှုစာမျက်နှာမှာ စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "07.01.01-S014",
@@ -227,8 +267,20 @@
           "id": "07.01.01-S017",
           "text": "我的手机充不上电。",
           "meaning_my": "ဖုန်း အားသွင်းလို့မရဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.01.01-S017_reply01",
+              "text": "换根充电线试试。",
+              "meaning_my": "အားသွင်းကြိုး တစ်ချောင်း ပြောင်းစမ်းကြည့်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.01.01-S017_alt01",
+              "text": "手机怎么充都不进电。",
+              "meaning_my": "ဘယ်လိုအားသွင်းသွင်း အားမဝင်ဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.01.01_B009",
           "priority": "situational",
           "pinyin": null,
@@ -299,7 +351,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "手机异常发烫应暂停充电并检查设备及充电配件。",
+              "text_my": "ဖုန်း အရမ်းပူလာရင် အားသွင်းတာ ရပ်ပြီး ပစ္စည်းတွေကို စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "07.01.01-S023",
@@ -365,20 +424,40 @@
           "id": "07.01.02-S001",
           "text": "我想办手机卡。",
           "meaning_my": "ဆင်းမ်ကတ် အသစ်လုပ်ချင်ပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S001_reply01",
+              "text": "可以，请先出示有效证件。",
+              "meaning_my": "ရပါတယ်၊ အကျုံးဝင်တဲ့ သက်သေခံစာရွက်စာတမ်း ပြပေးပါ။",
+              "source_ref": "user_original_07.01.02_B002"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.02_B001",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "中国电话卡通常需实名登记；护照等外国证件办理条件应向运营商核实。",
+              "text_my": "တရုတ်မှာ ဆင်းမ်ကတ်လုပ်ဖို့ ကိုယ်ရေးအချက်အလက်အစစ်နဲ့ မှတ်ပုံတင်ရတတ်တယ်။ နိုင်ငံခြားသား လက်ခံတဲ့ စာရွက်စာတမ်းကို ဆိုင်မှာ မေးပါ။"
+            }
+          ]
         },
         {
           "id": "07.01.02-S002",
           "text": "手机卡在哪儿办？",
           "meaning_my": "ဆင်းမ်ကတ် ဘယ်မှာ သွားလုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S002_reply01",
+              "text": "到运营商营业厅办理。",
+              "meaning_my": "ဖုန်းအော်ပရေတာဆိုင်မှာ သွားလုပ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.02_B007",
           "priority": "core",
@@ -405,7 +484,13 @@
           "text": "这个套餐一个月多少钱？",
           "meaning_my": "ဒီပက်ကေ့ချ်က တစ်လ ဘယ်လောက်ကျလဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.02-S004_alt01",
+              "text": "这个套餐月费多少？",
+              "meaning_my": "ဒီပက်ကေ့ချ် လစဉ်ကြေး ဘယ်လောက်လဲ။"
+            }
+          ],
           "source_ref": "user_original_07.01.02_B026",
           "priority": "core",
           "pinyin": null,
@@ -476,7 +561,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "移动蜂窝5G与Wi-Fi的5GHz频段不同；是否支持5G还取决于手机、套餐与覆盖。",
+              "text_my": "မိုဘိုင်း 5G နဲ့ Wi-Fi 5GHz က မတူဘူး။ ဖုန်းနဲ့ ပက်ကေ့ချ်ပေါ် မူတည်တယ်။"
+            }
+          ]
         },
         {
           "id": "07.01.02-S010",
@@ -495,14 +587,27 @@
           "id": "07.01.02-S011",
           "text": "怎么查剩余流量？",
           "meaning_my": "ဒေတာ ဘယ်လောက်ကျန်လဲ ဘယ်လိုစစ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S011_reply01",
+              "text": "在运营商的App里查。",
+              "meaning_my": "ဖုန်းအော်ပရေတာရဲ့ App ထဲမှာ စစ်ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.02_B012",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "流量是上网数据用量；话费余额是账户金额，不能混淆。",
+              "text_my": "“流量” က အင်တာနက်ဒေတာပမာဏ၊ “话费余额” က ဖုန်းဘေလ် လက်ကျန်ငွေပါ။"
+            }
+          ]
         },
         {
           "id": "07.01.02-S012",
@@ -521,7 +626,14 @@
           "id": "07.01.02-S013",
           "text": "怎么充话费？",
           "meaning_my": "ဖုန်းဘေလ် ဘယ်လိုဖြည့်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S013_reply01",
+              "text": "可以在手机上充值。",
+              "meaning_my": "ဖုန်းကနေ ငွေဖြည့်လို့ရတယ်။",
+              "source_ref": "user_original_07.01.02_B020"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.02_B004",
           "priority": "core",
@@ -535,7 +647,13 @@
           "text": "我没流量了。",
           "meaning_my": "ဒေတာ ကုန်သွားပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.02-S014_alt01",
+              "text": "流量用完了。",
+              "meaning_my": "ဒေတာ သုံးလို့ကုန်သွားပြီ။"
+            }
+          ],
           "source_ref": "user_original_07.01.02_B005",
           "priority": "core",
           "pinyin": null,
@@ -645,13 +763,27 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "购买流量包前确认自动续费、扣费日期和取消方法。",
+              "text_my": "အလိုအလျောက် သက်တမ်းတိုးမတိုး၊ ငွေဖြတ်ရက်နဲ့ ဖျက်နည်းကို စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "07.01.02-S023",
           "text": "我的号码欠费了吗？",
           "meaning_my": "ဒီဖုန်းနံပါတ်မှာ ဖုန်းဘေလ် မဆောင်ရသေးတာ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S023_reply01",
+              "text": "余额不足，需要充值。",
+              "meaning_my": "ငွေလက်ကျန် မလောက်ဘူး၊ ငွေဖြည့်ရမယ်။",
+              "source_ref": "user_original_07.01.02_B023"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.02_B006",
           "priority": "situational",
@@ -677,7 +809,13 @@
           "id": "07.01.02-S025",
           "text": "新卡插上了，怎么没信号？",
           "meaning_my": "ဆင်းမ်ကတ်အသစ် ထည့်ပြီးပြီ၊ ဘာလို့ လိုင်းမမိတာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S025_reply01",
+              "text": "先重启手机试试。",
+              "meaning_my": "ဖုန်းကို ပိတ်ဖွင့် ပြန်စမ်းကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.02_B025",
           "priority": "situational",
@@ -703,14 +841,27 @@
           "id": "07.01.02-S027",
           "text": "回缅甸还能用这张卡吗？",
           "meaning_my": "မြန်မာပြည်ပြန်ရင် ဒီဆင်းမ်ကတ်ကို ဆက်သုံးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S027_reply01",
+              "text": "要先确认国际漫游能不能用。",
+              "meaning_my": "နိုင်ငံတကာ ရိုမင်း သုံးလို့ရမရ အရင်စစ်ကြည့်ရမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.02_B018",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "漫游能否在缅甸使用、收费多少，取决于运营商和套餐。",
+              "text_my": "မြန်မာပြည်မှာ ရိုမင်း သုံးလို့ရမရနဲ့ ဈေးနှုန်းကို အော်ပရေတာမှာ စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "07.01.02-S028",
@@ -729,7 +880,13 @@
           "id": "07.01.02-S029",
           "text": "漫游费怎么算？",
           "meaning_my": "ရိုမင်းခ ဘယ်လိုတွက်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S029_reply01",
+              "text": "要看国家和套餐。",
+              "meaning_my": "နိုင်ငံနဲ့ ပက်ကေ့ချ်ပေါ် မူတည်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.01.02_N08",
           "priority": "situational",
@@ -742,7 +899,13 @@
           "id": "07.01.02-S030",
           "text": "卡丢了能补办吗？",
           "meaning_my": "ဆင်းမ်ကတ် ပျောက်သွားရင် ပြန်လုပ်လို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.02-S030_reply01",
+              "text": "带着证件去营业厅问问。",
+              "meaning_my": "သက်သေခံစာရွက်စာတမ်းယူပြီး ဆိုင်မှာ မေးကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.01.02_N09",
           "priority": "situational",
@@ -802,7 +965,13 @@
           "id": "07.01.03-S001",
           "text": "这儿有Wi-Fi吗？",
           "meaning_my": "ဒီမှာ Wi-Fi ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.03-S001_reply01",
+              "text": "有，可以连这个。",
+              "meaning_my": "ရှိတယ်၊ ဒီ Wi-Fi ကို ချိတ်လို့ရတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.03_B001",
           "priority": "core",
@@ -828,7 +997,14 @@
           "id": "07.01.03-S003",
           "text": "这儿的Wi-Fi密码是多少？",
           "meaning_my": "ဒီမှာ Wi-Fi စကားဝှက်က ဘာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.03-S003_reply01",
+              "text": "密码在墙上。",
+              "meaning_my": "စကားဝှက်ကို နံရံပေါ်မှာ ရေးထားတယ်။",
+              "source_ref": "user_original_07.01.03_B012"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.03_B018",
           "priority": "core",
@@ -854,7 +1030,14 @@
           "id": "07.01.03-S005",
           "text": "要连哪个Wi-Fi？",
           "meaning_my": "ဘယ် Wi-Fi ကို ချိတ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.03-S005_reply01",
+              "text": "选这个无线网。",
+              "meaning_my": "ဒီ Wi-Fi ကို ရွေးပါ။",
+              "source_ref": "user_original_07.01.03_B015"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.03_B008",
           "priority": "core",
@@ -893,8 +1076,21 @@
           "id": "07.01.03-S008",
           "text": "我连不上无线网。",
           "meaning_my": "Wi-Fi ချိတ်လို့မရဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.01.03-S008_reply01",
+              "text": "先检查密码，再重新连一下。",
+              "meaning_my": "စကားဝှက်မှန်မမှန် စစ်ပြီး ပြန်ချိတ်ကြည့်ပါ။",
+              "source_ref": "user_original_07.01.03_B003"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.01.03-S008_alt01",
+              "text": "连不上Wi-Fi。",
+              "meaning_my": "Wi-Fi ချိတ်လို့ မရဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.01.03_B002",
           "priority": "core",
           "pinyin": null,
@@ -933,7 +1129,13 @@
           "text": "Wi-Fi连上了，但上不了网。",
           "meaning_my": "Wi-Fi ချိတ်မိပေမယ့် အင်တာနက် သုံးလို့မရဘူး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.03-S011_alt01",
+              "text": "Wi-Fi连上了，还是没网。",
+              "meaning_my": "Wi-Fi ချိတ်မိပေမယ့် အင်တာနက် မရသေးဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.01.03_B007",
           "priority": "core",
           "pinyin": null,
@@ -946,7 +1148,13 @@
           "text": "无线网老是掉线。",
           "meaning_my": "Wi-Fi ခဏခဏ ပြတ်တယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.03-S012_alt01",
+              "text": "Wi-Fi总是断。",
+              "meaning_my": "Wi-Fi ခဏခဏ ပြတ်နေတယ်။"
+            }
+          ],
           "source_ref": "user_original_07.01.03_B010",
           "priority": "core",
           "pinyin": null,
@@ -984,7 +1192,14 @@
           "id": "07.01.03-S015",
           "text": "要打开网页才能上网吗？",
           "meaning_my": "အင်တာနက်သုံးဖို့ ဝက်ဘ်စာမျက်နှာ အရင်ဖွင့်ရမှာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.03-S015_reply01",
+              "text": "需要手机号验证。",
+              "meaning_my": "ဖုန်းနံပါတ်နဲ့ အတည်ပြုရမယ်။",
+              "source_ref": "user_original_07.01.03_B013"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.03_B011",
           "priority": "situational",
@@ -1004,7 +1219,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "酒店和公共Wi-Fi有时需网页登录或短信验证，并非所有Wi-Fi如此。",
+              "text_my": "ဟိုတယ်နဲ့ အများသုံး Wi-Fi တချို့မှာ လော့ဂ်အင် ဒါမှမဟုတ် SMS ကုဒ် လိုတတ်တယ်။"
+            }
+          ]
         },
         {
           "id": "07.01.03-S017",
@@ -1023,7 +1245,13 @@
           "id": "07.01.03-S018",
           "text": "能开一下手机热点吗？",
           "meaning_my": "ဖုန်းဟော့စပေါ့ ခဏဖွင့်ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.03-S018_reply01",
+              "text": "可以，我现在就开。",
+              "meaning_my": "ရတယ်၊ အခု ဖွင့်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.03_B016",
           "priority": "situational",
@@ -1082,7 +1310,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "公共Wi-Fi应确认网络来源，谨慎提交支付密码等敏感信息。",
+              "text_my": "အများသုံး Wi-Fi မှာ ကွန်ရက်မှန်မမှန် စစ်ပြီး ငွေပေးချေမှု စကားဝှက် မထည့်ပါနဲ့။"
+            }
+          ]
         }
       ]
     },
@@ -1097,7 +1332,13 @@
           "text": "断网了。",
           "meaning_my": "အင်တာနက် ပြတ်သွားပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.04-S001_alt01",
+              "text": "网络断了。",
+              "meaning_my": "အင်တာနက်လိုင်း ပြတ်သွားပြီ။"
+            }
+          ],
           "source_ref": "user_original_07.01.04_B001",
           "priority": "core",
           "pinyin": null,
@@ -1109,7 +1350,14 @@
           "id": "07.01.04-S002",
           "text": "网太慢了。",
           "meaning_my": "အင်တာနက် အရမ်းနှေးတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S002_reply01",
+              "text": "换个地方试试，可能信号不好。",
+              "meaning_my": "တခြားနေရာမှာ စမ်းကြည့်၊ လိုင်းအားမကောင်းလို့ ဖြစ်နိုင်တယ်။",
+              "source_ref": "user_original_07.01.04_B003"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.04_B002",
           "priority": "core",
@@ -1122,7 +1370,14 @@
           "id": "07.01.04-S003",
           "text": "我一直连不上网。",
           "meaning_my": "အင်တာနက် ဘယ်လိုမှ ချိတ်မရဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S003_reply01",
+              "text": "先重启手机试试。",
+              "meaning_my": "ဖုန်းကို အရင်ပိတ်ဖွင့် ပြန်စမ်းကြည့်ပါ။",
+              "source_ref": "user_original_07.01.04_B014"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.04_B004",
           "priority": "core",
@@ -1135,7 +1390,14 @@
           "id": "07.01.04-S004",
           "text": "手机没信号。",
           "meaning_my": "ဖုန်းလိုင်း မမိဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S004_reply01",
+              "text": "把飞行模式打开再关掉试试。",
+              "meaning_my": "လေယာဉ်ပျံမုဒ်ကို ဖွင့်ပြီး ပြန်ပိတ်ကြည့်ပါ။",
+              "source_ref": "user_addition_07.01.04_N01"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.04_B005",
           "priority": "core",
@@ -1148,7 +1410,14 @@
           "id": "07.01.04-S005",
           "text": "手机显示“无服务”。",
           "meaning_my": "ဖုန်းမှာ \"လိုင်းမရှိ\" လို့ ပြနေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S005_reply01",
+              "text": "把SIM卡重新插一下试试。",
+              "meaning_my": "ဆင်းမ်ကတ်ကို ထုတ်ပြီး ပြန်ထည့်ကြည့်ပါ။",
+              "source_ref": "user_addition_07.01.04_N04"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.01.04_N05",
           "priority": "core",
@@ -1174,7 +1443,14 @@
           "id": "07.01.04-S007",
           "text": "手机有信号吗？",
           "meaning_my": "ဖုန်းလိုင်း မိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S007_reply01",
+              "text": "只有一格。",
+              "meaning_my": "လိုင်းအား တစ်တန်းပဲ ရှိတယ်။",
+              "source_ref": "user_addition_07.01.04_N07"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.04_B015",
           "priority": "core",
@@ -1188,7 +1464,13 @@
           "text": "电话打不出去。",
           "meaning_my": "ဖုန်းခေါ်လို့မရဘူး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.04-S008_alt01",
+              "text": "打不了电话。",
+              "meaning_my": "ဖုန်းခေါ်မရဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.01.04_B006",
           "priority": "core",
           "pinyin": null,
@@ -1233,13 +1515,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "境外开启数据漫游可能有额外费用，应先确认目的地套餐。",
+              "text_my": "နိုင်ငံခြားမှာ ဒေတာရိုမင်း ဖွင့်ရင် ငွေပိုကုန်နိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "07.01.04-S012",
           "text": "你那边能上网吗？",
           "meaning_my": "မင်းဘက်မှာ အင်တာနက် သုံးလို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S012_reply01",
+              "text": "能，我这边正常。",
+              "meaning_my": "ရတယ်၊ ဒီဘက်မှာ ပုံမှန်ပါပဲ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.04_B008",
           "priority": "core",
@@ -1253,7 +1548,13 @@
           "text": "网络时好时坏。",
           "meaning_my": "အင်တာနက်လိုင်းက တစ်ခါကောင်း တစ်ခါဆိုး ဖြစ်နေတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.01.04-S013_alt01",
+              "text": "网一会儿好，一会儿坏。",
+              "meaning_my": "အင်တာနက်က တစ်ခါကောင်း တစ်ခါဆိုး ဖြစ်နေတယ်။"
+            }
+          ],
           "source_ref": "user_original_07.01.04_B009",
           "priority": "core",
           "pinyin": null,
@@ -1291,7 +1592,13 @@
           "id": "07.01.04-S016",
           "text": "路由器重启过了吗？",
           "meaning_my": "Wi-Fi ရောက်တာကို ပိတ်ပြီး ပြန်ဖွင့်ကြည့်ပြီးပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S016_reply01",
+              "text": "重启过了，还是没网。",
+              "meaning_my": "ပိတ်ဖွင့်ပြီးပြီ၊ အင်တာနက် မရသေးဘူး။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.04_B016",
           "priority": "situational",
@@ -1317,7 +1624,13 @@
           "id": "07.01.04-S018",
           "text": "能帮我报修网络吗？",
           "meaning_my": "အင်တာနက်ပျက်တာကို ပြင်ဖို့ တိုင်ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S018_reply01",
+              "text": "可以，我帮你联系维修人员。",
+              "meaning_my": "ရတယ်၊ ပြင်ပေးမယ့်သူကို ဆက်သွယ်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.01.04_N12",
           "priority": "situational",
@@ -1343,7 +1656,13 @@
           "id": "07.01.04-S020",
           "text": "网络什么时候恢复？",
           "meaning_my": "အင်တာနက် ဘယ်တော့ ပြန်ကောင်းမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.01.04-S020_reply01",
+              "text": "还不确定，等通知吧。",
+              "meaning_my": "မသေချာသေးဘူး၊ အကြောင်းကြားချက် စောင့်ကြည့်ရအောင်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.01.04_B007",
           "priority": "situational",
@@ -1370,10 +1689,10 @@
   ],
   "extras_summary": {
     "main": 102,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 102
+    "replies": 29,
+    "alternatives": 10,
+    "notes": 10,
+    "total_audio": 141
   },
   "quality_review": {
     "status": "draft_pending_native_review",
@@ -1381,5 +1700,65 @@
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
     "audio_status": "not_recorded"
-  }
+  },
+  "source_counts": {
+    "original_candidates": 81,
+    "proposed_additions": 62,
+    "total_candidates": 143,
+    "selected_main": 102,
+    "selected_from_original": 77,
+    "selected_from_additions": 25
+  },
+  "original_count": 77,
+  "added_count": 25,
+  "core_words": [
+    {
+      "zh": "电量",
+      "my": "ဘက်ထရီလက်ကျန်",
+      "id": "07.01.01-S002",
+      "priority": "core"
+    },
+    {
+      "zh": "充电",
+      "my": "အားသွင်း",
+      "id": "07.01.01-S005",
+      "priority": "core"
+    },
+    {
+      "zh": "流量",
+      "my": "ဒေတာ",
+      "id": "07.01.02-S014",
+      "priority": "core"
+    },
+    {
+      "zh": "套餐",
+      "my": "ပက်ကေ့ချ်",
+      "id": "07.01.02-S004",
+      "priority": "core"
+    },
+    {
+      "zh": "漫游",
+      "my": "ရိုမင်း",
+      "id": "07.01.02-S028",
+      "priority": "core"
+    },
+    {
+      "zh": "Wi-Fi密码",
+      "my": "Wi-Fi စကားဝှက်",
+      "id": "07.01.03-S003",
+      "priority": "core"
+    },
+    {
+      "zh": "信号",
+      "my": "ဖုန်းလိုင်းအား",
+      "id": "07.01.04-S004",
+      "priority": "core"
+    },
+    {
+      "zh": "断网",
+      "my": "အင်တာနက်ပြတ်",
+      "id": "07.01.04-S001",
+      "priority": "core"
+    }
+  ]
 }
