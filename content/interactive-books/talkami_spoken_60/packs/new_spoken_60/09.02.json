@@ -30,7 +30,13 @@
           "text": "我是来报到的。",
           "meaning_my": "အလုပ်ဝင်ဖို့ သတင်းပို့လာတာပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.02.01-S001_alt01",
+              "text": "我来办理入职手续。",
+              "meaning_my": "အလုပ်ဝင်စာရွက်စာတမ်း လုပ်ဖို့ လာတာပါ။"
+            }
+          ],
           "source_ref": "user_original_09.02.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -68,7 +74,13 @@
           "id": "09.02.01-S004",
           "text": "报到要找谁？",
           "meaning_my": "အလုပ်ဝင်ဖို့ ဘယ်သူ့ဆီ သွားသတင်းပို့ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.01-S004_reply01",
+              "text": "先去人事部登记。",
+              "meaning_my": "ဝန်ထမ်းရေးရာဌာနမှာ အရင်စာရင်းသွင်းပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.02.01_N03",
           "priority": "core",
@@ -82,7 +94,13 @@
           "text": "人事部在哪儿？",
           "meaning_my": "ဝန်ထမ်းရေးရာဌာန ဘယ်မှာလဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.02.01-S005_alt01",
+              "text": "人事办公室在哪儿？",
+              "meaning_my": "ဝန်ထမ်းရေးရာရုံးခန်း ဘယ်မှာလဲ။"
+            }
+          ],
           "source_ref": "user_original_09.02.01_B009",
           "priority": "core",
           "pinyin": null,
@@ -120,7 +138,13 @@
           "id": "09.02.01-S008",
           "text": "还要交什么材料？",
           "meaning_my": "တခြား ဘာစာရွက်စာတမ်းတွေ ထပ်ပေးရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.01-S008_reply01",
+              "text": "还缺护照复印件。",
+              "meaning_my": "ပတ်စ်ပို့မိတ္တူ လိုသေးတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.02.01_B005",
           "priority": "core",
@@ -231,13 +255,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "外籍员工正式开始工作前应核实适用的工作许可和居留资格。",
+              "text_my": "တရုတ်မှာ နိုင်ငံခြားသားအဖြစ် အလုပ်မစခင် အလုပ်လုပ်ခွင့်နဲ့ နေထိုင်ခွင့်ကို သေချာစစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "09.02.01-S017",
           "text": "培训几点开始？",
           "meaning_my": "သင်တန်း ဘယ်နှနာရီ စမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.01-S017_reply01",
+              "text": "九点开始培训。",
+              "meaning_my": "မနက်ကိုးနာရီ သင်တန်းစမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.02.01_B007",
           "priority": "situational",
@@ -276,7 +313,13 @@
           "id": "09.02.01-S020",
           "text": "工牌什么时候发？",
           "meaning_my": "ဝန်ထမ်းကတ် ဘယ်တော့ ထုတ်ပေးမှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.01-S020_reply01",
+              "text": "下午领工牌。",
+              "meaning_my": "မွန်းလွဲပိုင်း ဝန်ထမ်းကတ် ထုတ်ယူပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.02.01_B010",
           "priority": "situational",
@@ -375,7 +418,13 @@
           "id": "09.02.02-S002",
           "text": "今天谁带我？",
           "meaning_my": "ဒီနေ့ ဘယ်သူက သင်ပေးမှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.02-S002_reply01",
+              "text": "王师傅带你。",
+              "meaning_my": "ဆရာဝမ်က သင်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.02.02_B002",
           "priority": "core",
@@ -401,7 +450,13 @@
           "id": "09.02.02-S004",
           "text": "工作上的事跟谁汇报？",
           "meaning_my": "အလုပ်ကိစ္စတွေ ဘယ်သူ့ဆီ တင်ပြရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.02-S004_reply01",
+              "text": "有事先找组长。",
+              "meaning_my": "ကိစ္စရှိရင် အဖွဲ့ခေါင်းဆောင်ကို အရင်မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.02.02_B003",
           "priority": "core",
@@ -492,14 +547,27 @@
           "id": "09.02.02-S011",
           "text": "这台机器我不会操作。",
           "meaning_my": "ဒီစက်ကို မကိုင်တတ်သေးဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.02-S011_reply01",
+              "text": "先别动，我叫师傅来。",
+              "meaning_my": "အခု မထိနဲ့ဦး၊ သင်ပေးမယ့်ဆရာကို ခေါ်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.02.02_B011",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "危险机械必须经培训和授权后操作，不清楚时先停下来询问。",
+              "text_my": "အန္တရာယ်ရှိတဲ့စက်ကို လေ့ကျင့်မှုနဲ့ ခွင့်ပြုချက်ရမှ သုံးပါ။ မသေချာရင် အရင်ရပ်ပြီး မေးပါ။"
+            }
+          ]
         },
         {
           "id": "09.02.02-S012",
@@ -618,7 +686,13 @@
           "text": "工牌在哪儿领？",
           "meaning_my": "ဝန်ထမ်းကတ် ဘယ်မှာ ထုတ်ယူရမလဲ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.02.03-S001_alt01",
+              "text": "员工卡在哪儿拿？",
+              "meaning_my": "ဝန်ထမ်းကတ် ဘယ်မှာယူရမလဲ။"
+            }
+          ],
           "source_ref": "user_original_09.02.03_B001",
           "priority": "core",
           "pinyin": null,
@@ -682,7 +756,13 @@
           "id": "09.02.03-S006",
           "text": "手机能带进去吗？",
           "meaning_my": "ဖုန်းကို အထဲ ယူသွားလို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.02.03-S006_reply01",
+              "text": "先看车间的规定。",
+              "meaning_my": "အလုပ်ရုံရဲ့ စည်းကမ်းကို အရင်ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.02.03_B002",
           "priority": "core",
@@ -852,10 +932,10 @@
   ],
   "extras_summary": {
     "main": 62,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 62
+    "replies": 8,
+    "alternatives": 3,
+    "notes": 2,
+    "total_audio": 73
   },
   "quality_review": {
     "date": "2026-11-12",
@@ -864,6 +944,12 @@
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
-    "audio_status": "not_recorded"
+    "audio_status": "not_recorded",
+    "checks": [
+      "sequential unique main IDs",
+      "source links retained",
+      "extensions selectively attached",
+      "Myanmar native QA pending"
+    ]
   }
 }

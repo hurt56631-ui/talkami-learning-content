@@ -29,7 +29,13 @@
           "id": "09.04.01-S001",
           "text": "这个谁负责？",
           "meaning_my": "ဒီအလုပ်ကို ဘယ်သူ တာဝန်ယူတာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.01-S001_reply01",
+              "text": "这项我来负责。",
+              "meaning_my": "ဒီအလုပ်ကို ကျွန်တော်/ကျွန်မ တာဝန်ယူမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.01_B001",
           "priority": "core",
@@ -81,8 +87,20 @@
           "id": "09.04.01-S005",
           "text": "最晚什么时候交？",
           "meaning_my": "နောက်ဆုံး ဘယ်အချိန် အပ်ရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.04.01-S005_reply01",
+              "text": "明天下班前。",
+              "meaning_my": "မနက်ဖြန် အလုပ်ဆင်းချိန်မတိုင်ခင်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.04.01-S005_alt01",
+              "text": "截止时间是什么时候？",
+              "meaning_my": "နောက်ဆုံးအပ်ရမယ့်အချိန် ဘယ်တော့လဲ။"
+            }
+          ],
           "source_ref": "user_original_09.04.01_B006",
           "priority": "core",
           "pinyin": null,
@@ -159,7 +177,13 @@
           "id": "09.04.01-S011",
           "text": "任务有变动吗？",
           "meaning_my": "အလုပ်တာဝန် ပြောင်းလဲတာ ရှိလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.01-S011_reply01",
+              "text": "有，先暂停这一项。",
+              "meaning_my": "ရှိတယ်၊ ဒီအလုပ်ကို ခဏ ရပ်ထားပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.01_B013",
           "priority": "core",
@@ -258,7 +282,13 @@
           "id": "09.04.02-S001",
           "text": "现在做到哪儿了？",
           "meaning_my": "အခု ဘယ်အဆင့်အထိ လုပ်ပြီးပြီလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.02-S001_reply01",
+              "text": "已经完成一半。",
+              "meaning_my": "တစ်ဝက် ပြီးသွားပြီ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.02_B001",
           "priority": "core",
@@ -284,7 +314,13 @@
           "id": "09.04.02-S003",
           "text": "今天能做完吗？",
           "meaning_my": "ဒီနေ့ အပြီးလုပ်နိုင်မလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.02-S003_reply01",
+              "text": "下午应该能完成。",
+              "meaning_my": "မွန်းလွဲပိုင်းအတွင်း ပြီးနိုင်လောက်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.02_B003",
           "priority": "core",
@@ -375,7 +411,13 @@
           "id": "09.04.02-S010",
           "text": "可以延到明天吗？",
           "meaning_my": "မနက်ဖြန်အထိ ရွှေ့လို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.02-S010_reply01",
+              "text": "要先跟负责人确认。",
+              "meaning_my": "တာဝန်ခံနဲ့ အရင်အတည်ပြုရမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.02_B013",
           "priority": "core",
@@ -527,7 +569,13 @@
           "text": "我有个问题。",
           "meaning_my": "မေးစရာတစ်ခု ရှိပါတယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.04.03-S002_alt01",
+              "text": "我想问一下。",
+              "meaning_my": "နည်းနည်း မေးချင်ပါတယ်။"
+            }
+          ],
           "source_ref": "user_original_09.04.03_B003",
           "priority": "core",
           "pinyin": null,
@@ -565,7 +613,13 @@
           "id": "09.04.03-S005",
           "text": "我有不同意见。",
           "meaning_my": "ကျွန်တော်/ကျွန်မ သဘောထား နည်းနည်းကွဲပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.03-S005_reply01",
+              "text": "你先说说你的想法。",
+              "meaning_my": "ခင်ဗျားအမြင်ကို အရင်ပြောပြပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.03_B005",
           "priority": "core",
@@ -695,7 +749,13 @@
           "id": "09.04.03-S015",
           "text": "会议纪要谁来发？",
           "meaning_my": "အစည်းအဝေးမှတ်တမ်းကို ဘယ်သူ ပို့မှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.03-S015_reply01",
+              "text": "会后发到群里。",
+              "meaning_my": "အစည်းအဝေးပြီးရင် အဖွဲ့ချတ်ထဲ ပို့မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.03_B015",
           "priority": "situational",
@@ -794,8 +854,20 @@
           "id": "09.04.04-S002",
           "text": "文件收到了吗？",
           "meaning_my": "ဖိုင် ရပြီလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.04.04-S002_reply01",
+              "text": "还没收到，请重发。",
+              "meaning_my": "မရသေးဘူး၊ ထပ်ပို့ပေးပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.04.04-S002_alt01",
+              "text": "你收到文件了吗？",
+              "meaning_my": "ဖိုင်ကို ရပြီလား။"
+            }
+          ],
           "source_ref": "user_original_09.04.04_B002",
           "priority": "core",
           "pinyin": null,
@@ -879,7 +951,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "发送个人信息、合同或商业文件前先核对收件人和附件版本。",
+              "text_my": "ကိုယ်ရေးအချက်အလက်၊ စာချုပ်နဲ့ လုပ်ငန်းဖိုင် ပို့မယ်ဆို လက်ခံမယ့်သူနဲ့ ဗားရှင်းကို အရင်စစ်ပါ။"
+            }
+          ]
         },
         {
           "id": "09.04.04-S009",
@@ -1140,14 +1219,27 @@
           "id": "09.04.05-S006",
           "text": "出差的费用怎么报销？",
           "meaning_my": "အလုပ်ခရီးစရိတ်ကို ဘယ်လို ပြန်တောင်းရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.04.05-S006_reply01",
+              "text": "按公司流程提交报销单和发票。",
+              "meaning_my": "ကုမ္ပဏီလုပ်ငန်းစဉ်အတိုင်း စရိတ်ပြန်တောင်းဖောင်နဲ့ ပြေစာကို တင်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.04.05_B006",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "报销须按公司适用规定提交材料，并非所有出差开支均可报销。",
+              "text_my": "အလုပ်ခရီးစရိတ်ကို ကုမ္ပဏီစည်းကမ်းအတိုင်း စာရွက်စာတမ်းနဲ့ ပြန်တောင်းရတယ်၊ စရိတ်အားလုံး ပြန်ရတာ မဟုတ်ပါ။"
+            }
+          ]
         },
         {
           "id": "09.04.05-S007",
@@ -1323,10 +1415,10 @@
   ],
   "extras_summary": {
     "main": 97,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 97
+    "replies": 10,
+    "alternatives": 3,
+    "notes": 2,
+    "total_audio": 110
   },
   "quality_review": {
     "status": "draft_pending_native_review",
@@ -1334,6 +1426,12 @@
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
-    "audio_status": "not_recorded"
+    "audio_status": "not_recorded",
+    "checks": [
+      "sequential unique main IDs",
+      "source links retained",
+      "extensions selectively attached",
+      "Myanmar native QA pending"
+    ]
   }
 }

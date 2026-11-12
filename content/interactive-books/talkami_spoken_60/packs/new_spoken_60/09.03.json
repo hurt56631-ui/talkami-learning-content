@@ -29,7 +29,13 @@
           "id": "09.03.01-S001",
           "text": "先做这个吗？",
           "meaning_my": "ဒါကို အရင်လုပ်ရမှာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.01-S001_reply01",
+              "text": "对，先做这个。",
+              "meaning_my": "ဟုတ်တယ်၊ ဒါကို အရင်လုပ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.01_B001",
           "priority": "core",
@@ -43,7 +49,13 @@
           "text": "好，我马上做。",
           "meaning_my": "ကောင်းပြီ၊ အခုပဲ လုပ်မယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.03.01-S002_alt01",
+              "text": "好的，我现在就做。",
+              "meaning_my": "ကောင်းပြီ၊ အခုပဲ လုပ်မယ်။"
+            }
+          ],
           "source_ref": "user_original_09.03.01_B002",
           "priority": "core",
           "pinyin": null,
@@ -55,7 +67,13 @@
           "id": "09.03.01-S003",
           "text": "做完交给谁？",
           "meaning_my": "လုပ်ပြီးရင် ဘယ်သူ့ကို အပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.01-S003_reply01",
+              "text": "交给组长。",
+              "meaning_my": "အဖွဲ့ခေါင်းဆောင်ကို အပ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.01_B004",
           "priority": "core",
@@ -107,7 +125,13 @@
           "id": "09.03.01-S007",
           "text": "材料不够了怎么办？",
           "meaning_my": "ကုန်ကြမ်း မလောက်တော့ရင် ဘယ်လိုလုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.01-S007_reply01",
+              "text": "先告诉组长。",
+              "meaning_my": "အဖွဲ့ခေါင်းဆောင်ကို အရင်ပြောပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.01_B010",
           "priority": "core",
@@ -328,7 +352,13 @@
           "id": "09.03.01-S024",
           "text": "有样品可以参考吗？",
           "meaning_my": "နမူနာတစ်ခု ကြည့်လို့ရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.01-S024_reply01",
+              "text": "有，先看这个样品。",
+              "meaning_my": "ရှိတယ်၊ ဒီနမူနာကို အရင်ကြည့်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_09.03.01_N07",
           "priority": "situational",
@@ -388,8 +418,20 @@
           "id": "09.03.02-S002",
           "text": "能示范一下吗？",
           "meaning_my": "တစ်ခါလောက် လုပ်ပြပေးလို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.03.02-S002_reply01",
+              "text": "可以，我先做一遍。",
+              "meaning_my": "ရတယ်၊ တစ်ခါ အရင်လုပ်ပြမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.03.02-S002_alt01",
+              "text": "能做给我看一遍吗？",
+              "meaning_my": "တစ်ခါလောက် လုပ်ပြပေးလို့ရမလား။"
+            }
+          ],
           "source_ref": "user_original_09.03.02_B002",
           "priority": "core",
           "pinyin": null,
@@ -401,7 +443,13 @@
           "id": "09.03.02-S003",
           "text": "我这样做对吗？",
           "meaning_my": "ဒီလိုလုပ်တာ မှန်လား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.02-S003_reply01",
+              "text": "这里还要调整一下。",
+              "meaning_my": "ဒီနေရာကို နည်းနည်း ထပ်ပြင်ရမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.02_B003",
           "priority": "core",
@@ -427,14 +475,27 @@
           "id": "09.03.02-S005",
           "text": "这一步我不会。",
           "meaning_my": "ဒီအဆင့်ကို မလုပ်တတ်သေးဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.02-S005_reply01",
+              "text": "先别动，我来教你。",
+              "meaning_my": "အခု မထိနဲ့ဦး၊ သင်ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.02_B005",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "涉及危险机械时，不确定操作方式不得擅自尝试。",
+              "text_my": "အန္တရာယ်ရှိတဲ့စက်ကို မတတ်သေးရင် ကိုယ့်ဘာသာ မစမ်းဘဲ အရင်မေးပါ။"
+            }
+          ]
         },
         {
           "id": "09.03.02-S006",
@@ -708,7 +769,13 @@
           "id": "09.03.03-S008",
           "text": "这箱太重了，帮我抬一下。",
           "meaning_my": "ဒီပုံး လေးလွန်းလို့ ကူမပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.03-S008_reply01",
+              "text": "好，我们一起抬。",
+              "meaning_my": "ကောင်းပြီ၊ အတူတူ မကြမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.03_B009",
           "priority": "core",
@@ -860,7 +927,13 @@
           "text": "我做完了。",
           "meaning_my": "လုပ်ပြီးပါပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "09.03.04-S001_alt01",
+              "text": "这个已经做好了。",
+              "meaning_my": "ဒီဟာ လုပ်ပြီးပြီ။"
+            }
+          ],
           "source_ref": "user_original_09.03.04_B001",
           "priority": "core",
           "pinyin": null,
@@ -976,14 +1049,27 @@
           "id": "09.03.04-S010",
           "text": "机器突然停了。",
           "meaning_my": "စက် ရုတ်တရက် ရပ်သွားတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.04-S010_reply01",
+              "text": "先停下，通知维修人员。",
+              "meaning_my": "အရင်ရပ်ထားပြီး ပြင်ဆရာကို အကြောင်းကြားပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.04_B011",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "设备异常停机时勿绕过安全装置或私自检修，应报告负责人。",
+              "text_my": "စက်ရပ်တာ၊ ပျက်တာ ဖြစ်ရင် လုံခြုံရေးစနစ်ကို မကျော်၊ ကိုယ့်ဘာသာ မပြင်ဘဲ တာဝန်ခံကို ပြောပါ။"
+            }
+          ]
         },
         {
           "id": "09.03.04-S011",
@@ -1041,7 +1127,13 @@
           "id": "09.03.04-S015",
           "text": "做完了，接下来做什么？",
           "meaning_my": "လုပ်ပြီးပြီ၊ နောက်ဘာ ဆက်လုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.03.04-S015_reply01",
+              "text": "先汇报完成数量。",
+              "meaning_my": "ပြီးသွားတဲ့အရေအတွက်ကို အရင် တင်ပြပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.03.04_B017",
           "priority": "core",
@@ -1120,10 +1212,10 @@
   ],
   "extras_summary": {
     "main": 82,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 82
+    "replies": 10,
+    "alternatives": 3,
+    "notes": 2,
+    "total_audio": 95
   },
   "quality_review": {
     "date": "2026-11-12",
@@ -1132,6 +1224,12 @@
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
-    "audio_status": "not_recorded"
+    "audio_status": "not_recorded",
+    "checks": [
+      "sequential unique main IDs",
+      "source links retained",
+      "extensions selectively attached",
+      "Myanmar native QA pending"
+    ]
   }
 }

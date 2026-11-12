@@ -42,7 +42,13 @@
           "id": "09.05.01-S002",
           "text": "在哪里打卡？",
           "meaning_my": "အလုပ်တက်ဆင်းချိန် ဘယ်မှာ မှတ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.05.01-S002_reply01",
+              "text": "门口有打卡机。",
+              "meaning_my": "ဝင်ပေါက်မှာ အချိန်မှတ်စက် ရှိတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.05.01_B002",
           "priority": "core",
@@ -55,8 +61,20 @@
           "id": "09.05.01-S003",
           "text": "我忘打卡了。",
           "meaning_my": "အလုပ်တက်ဆင်းချိန် မှတ်ဖို့ မေ့သွားတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.05.01-S003_reply01",
+              "text": "按规定申请补卡。",
+              "meaning_my": "စည်းကမ်းအတိုင်း အချိန်မှတ်တမ်း ပြန်ဖြည့်ဖို့ လျှောက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.05.01-S003_alt01",
+              "text": "我忘记打卡了。",
+              "meaning_my": "အချိန်မှတ်ဖို့ မေ့သွားတယ်။"
+            }
+          ],
           "source_ref": "user_original_09.05.01_B003",
           "priority": "core",
           "pinyin": null,
@@ -146,14 +164,27 @@
           "id": "09.05.01-S010",
           "text": "我打卡了，但系统没记录。",
           "meaning_my": "အချိန်မှတ်ပြီးပေမယ့် စနစ်ထဲမှာ မပေါ်ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.05.01-S010_reply01",
+              "text": "先保存记录，再问考勤负责人。",
+              "meaning_my": "မှတ်တမ်းကို အရင်သိမ်းပြီး အချိန်မှတ်တမ်းတာဝန်ခံကို မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.05.01_B012",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "考勤异常应留存证据，按正常流程申请更正。",
+              "text_my": "အချိန်မှတ်တမ်း မှားနေရင် သက်သေကို သိမ်းပြီး လုပ်ငန်းစဉ်အတိုင်း ပြန်ပြင်ခိုင်းပါ။"
+            }
+          ]
         },
         {
           "id": "09.05.01-S011",
@@ -271,8 +302,20 @@
           "id": "09.05.02-S002",
           "text": "明天我上什么班？",
           "meaning_my": "မနက်ဖြန် ဘယ်ဆိုင်း ဆင်းရမလဲ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.05.02-S002_reply01",
+              "text": "明天上早班。",
+              "meaning_my": "မနက်ဖြန် မနက်ဆိုင်း ဆင်းရမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.05.02-S002_alt01",
+              "text": "明天排我什么班？",
+              "meaning_my": "မနက်ဖြန် ဘယ်ဆိုင်း ကျလဲ။"
+            }
+          ],
           "source_ref": "user_original_09.05.02_B002",
           "priority": "core",
           "pinyin": null,
@@ -297,7 +340,13 @@
           "id": "09.05.02-S004",
           "text": "排班表在哪儿？",
           "meaning_my": "ဆိုင်းဇယား ဘယ်မှာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.05.02-S004_reply01",
+              "text": "已经发到群里了。",
+              "meaning_my": "အဖွဲ့ချတ်ထဲ ပို့ထားပြီးပြီ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.05.02_B004",
           "priority": "core",
@@ -375,7 +424,13 @@
           "id": "09.05.02-S010",
           "text": "夜班是几点到几点？",
           "meaning_my": "ညဆိုင်းက ဘယ်နှနာရီကနေ ဘယ်နှနာရီအထိလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.05.02-S010_reply01",
+              "text": "晚上八点到早上八点。",
+              "meaning_my": "ည ရှစ်နာရီကနေ မနက် ရှစ်နာရီအထိပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.05.02_B012",
           "priority": "core",
@@ -500,7 +555,13 @@
           "id": "09.05.03-S001",
           "text": "能跟小李换班吗？",
           "meaning_my": "ရှောင်လီနဲ့ ဆိုင်းလဲလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.05.03-S001_reply01",
+              "text": "先找主管申请。",
+              "meaning_my": "ကြီးကြပ်ရေးမှူးဆီ အရင် လျှောက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.05.03_B001",
           "priority": "core",
@@ -513,8 +574,20 @@
           "id": "09.05.03-S002",
           "text": "今晚要加班吗？",
           "meaning_my": "ဒီည အချိန်ပိုဆင်းရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.05.03-S002_reply01",
+              "text": "今天可能加班两小时。",
+              "meaning_my": "ဒီနေ့ အချိန်ပို နှစ်နာရီလောက် ဆင်းရနိုင်တယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.05.03-S002_alt01",
+              "text": "今天晚上需要加班吗？",
+              "meaning_my": "ဒီည အချိန်ပိုဆင်းဖို့ လိုလား။"
+            }
+          ],
           "source_ref": "user_original_09.05.03_B002",
           "priority": "core",
           "pinyin": null,
@@ -624,7 +697,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "加班费与调休规则可能不同，不应默认所有加班都可用补休替代。",
+              "text_my": "အချိန်ပိုကြေးနဲ့ အစားထိုးနားခွင့်က မတူနိုင်ဘူး။ အချိန်ပိုအားလုံးကို နားခွင့်နဲ့ လဲလို့ရတယ်လို့ မယူဆပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "09.05.03-S011",
@@ -755,7 +835,13 @@
           "id": "09.05.04-S001",
           "text": "我想请一天假。",
           "meaning_my": "တစ်ရက် ခွင့်ယူချင်တယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.05.04-S001_reply01",
+              "text": "先跟主管说，再按流程申请。",
+              "meaning_my": "ကြီးကြပ်ရေးမှူးကို အရင်ပြောပြီး လုပ်ငန်းစဉ်အတိုင်း လျှောက်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.05.04_B001",
           "priority": "core",
@@ -833,7 +919,13 @@
           "id": "09.05.04-S007",
           "text": "我想请病假。",
           "meaning_my": "နာမကျန်းခွင့် ယူချင်ပါတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.05.04-S007_reply01",
+              "text": "先问问需要什么证明。",
+              "meaning_my": "ဘာထောက်ခံစာ လိုလဲ အရင်မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.05.04_B007",
           "priority": "core",
@@ -977,10 +1069,10 @@
   ],
   "extras_summary": {
     "main": 71,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 71
+    "replies": 10,
+    "alternatives": 3,
+    "notes": 2,
+    "total_audio": 84
   },
   "quality_review": {
     "status": "draft_pending_native_review",
@@ -988,6 +1080,12 @@
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
-    "audio_status": "not_recorded"
+    "audio_status": "not_recorded",
+    "checks": [
+      "sequential unique main IDs",
+      "source links retained",
+      "extensions selectively attached",
+      "Myanmar native QA pending"
+    ]
   }
 }

@@ -6,15 +6,15 @@
   "theme_title_my": "လစာ၊ အလုပ်စာချုပ်နှင့် အလုပ်ထွက်ခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-12",
-  "phrase_count": 78,
-  "original_count": 60,
+  "phrase_count": 77,
+  "original_count": 59,
   "added_count": 18,
   "source_counts": {
     "original_candidates": 82,
     "proposed_additions": 40,
     "total_candidates": 122,
-    "selected_main": 78,
-    "selected_from_original": 60,
+    "selected_main": 77,
+    "selected_from_original": 59,
     "selected_from_additions": 18
   },
   "note": "精选核对工资、加班福利、合同试用期和离职交接的高频语言；合同条款及外国人工作许可、居留受雇资格按实际规定核对，不能从范例推断统一待遇。",
@@ -29,8 +29,20 @@
           "id": "09.06.01-S001",
           "text": "工资还没到账。",
           "meaning_my": "လစာ ဘဏ်အကောင့်ထဲ မဝင်သေးဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.06.01-S001_reply01",
+              "text": "我帮你问财务。",
+              "meaning_my": "ငွေစာရင်းဌာနကို မေးပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.06.01-S001_alt01",
+              "text": "我的工资还没收到。",
+              "meaning_my": "လစာ မရသေးဘူး။"
+            }
+          ],
           "source_ref": "user_original_09.06.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -55,8 +67,20 @@
           "id": "09.06.01-S003",
           "text": "这个月工资不对。",
           "meaning_my": "ဒီလလစာ တွက်ထားတာ မမှန်ဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.06.01-S003_reply01",
+              "text": "先核对工资条。",
+              "meaning_my": "လစာရှင်းတမ်းကို အရင် စစ်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.06.01-S003_alt01",
+              "text": "这个月工资算错了。",
+              "meaning_my": "ဒီလ လစာ တွက်မှားထားတယ်။"
+            }
+          ],
           "source_ref": "user_original_09.06.01_B003",
           "priority": "core",
           "pinyin": null,
@@ -94,7 +118,13 @@
           "id": "09.06.01-S006",
           "text": "扣的是什么钱？",
           "meaning_my": "ဒီဖြတ်ထားတဲ့ငွေက ဘာအတွက်လဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.06.01-S006_reply01",
+              "text": "查一下扣款明细。",
+              "meaning_my": "ဖြတ်ထားတဲ့ငွေ အသေးစိတ်ကို စစ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.06.01_B006",
           "priority": "core",
@@ -388,7 +418,13 @@
           "id": "09.06.02-S007",
           "text": "加班少算了两小时。",
           "meaning_my": "အချိန်ပိုကို နှစ်နာရီ လျော့တွက်ထားတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.06.02-S007_reply01",
+              "text": "把考勤记录发我核对。",
+              "meaning_my": "အလုပ်တက်ဆင်းချိန်မှတ်တမ်းကို ပို့ပေးပါ၊ စစ်ကြည့်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.06.02_B008",
           "priority": "core",
@@ -546,7 +582,7 @@
       "id": "09.06.03",
       "title": "合同试用期",
       "title_my": "အလုပ်စာချုပ်နှင့် အစမ်းခန့်ကာလ",
-      "phrase_count": 20,
+      "phrase_count": 19,
       "phrases": [
         {
           "id": "09.06.03-S001",
@@ -563,19 +599,6 @@
         },
         {
           "id": "09.06.03-S002",
-          "text": "试用期多久？",
-          "meaning_my": "အစမ်းခန့်ကာလ ဘယ်လောက်ကြာလဲ။",
-          "replies": [],
-          "alternatives": [],
-          "source_ref": "user_original_09.06.03_B002",
-          "priority": "core",
-          "pinyin": null,
-          "phonetic_my": null,
-          "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
-        },
-        {
-          "id": "09.06.03-S003",
           "text": "什么时候转正？",
           "meaning_my": "ဘယ်တော့ အတည်ခန့်မှာလဲ။",
           "replies": [],
@@ -588,7 +611,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S004",
+          "id": "09.06.03-S003",
           "text": "这里要签字吗？",
           "meaning_my": "ဒီနေရာမှာ လက်မှတ်ထိုးရမလား။",
           "replies": [],
@@ -601,10 +624,16 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S005",
+          "id": "09.06.03-S004",
           "text": "合同能先看吗？",
           "meaning_my": "အလုပ်စာချုပ်ကို အရင် ဖတ်ကြည့်လို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.06.03-S004_reply01",
+              "text": "可以，先仔细看。",
+              "meaning_my": "ရပါတယ်၊ အရင် သေချာဖတ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.06.03_B005",
           "priority": "core",
@@ -614,7 +643,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S006",
+          "id": "09.06.03-S005",
           "text": "试用期能提前结束吗？",
           "meaning_my": "အစမ်းခန့်ကာလကို စောစော အဆုံးသတ်လို့ရလား။",
           "replies": [],
@@ -627,20 +656,33 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S007",
+          "id": "09.06.03-S006",
           "text": "试用期也要签合同吗？",
           "meaning_my": "အစမ်းခန့်ကာလမှာလည်း စာချုပ် ချုပ်ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.06.03-S006_reply01",
+              "text": "请先核对书面合同的要求。",
+              "meaning_my": "စာဖြင့်စာချုပ်လိုအပ်ချက်ကို အရင်စစ်ပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.06.03_B007",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "中国大陆劳动合同法律制度中试用期通常属于劳动合同期限，不是无合同工作的免责期。",
+              "text_my": "တရုတ်အလုပ်စာချုပ်ဥပဒေအရ အစမ်းခန့်ကာလက စာချုပ်ကာလထဲ ပါတယ်၊ စာချုပ်မလိုဘူးလို့ မဆိုလိုပါ။"
+            }
+          ]
         },
         {
-          "id": "09.06.03-S008",
+          "id": "09.06.03-S007",
           "text": "转正要考核吗？",
           "meaning_my": "အတည်ခန့်ဖို့ စစ်ဆေးအကဲဖြတ်ရမလား။",
           "replies": [],
@@ -653,7 +695,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S009",
+          "id": "09.06.03-S008",
           "text": "合同我能留一份吗？",
           "meaning_my": "စာချုပ်တစ်စောင် ကိုယ့်ဆီ သိမ်းထားလို့ရမလား။",
           "replies": [],
@@ -666,10 +708,16 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S010",
+          "id": "09.06.03-S009",
           "text": "合同里的工资和说的不一样。",
           "meaning_my": "စာချုပ်ထဲကလစာနဲ့ အရင်ပြောထားတာ မတူဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.06.03-S009_reply01",
+              "text": "签字前先确认清楚。",
+              "meaning_my": "လက်မှတ်မထိုးခင် သေချာအတည်ပြုပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.06.03_B010",
           "priority": "core",
@@ -679,7 +727,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S011",
+          "id": "09.06.03-S010",
           "text": "合同里这一条是什么意思？",
           "meaning_my": "စာချုပ်ထဲက ဒီအချက်က ဘာအဓိပ္ပာယ်လဲ။",
           "replies": [],
@@ -692,7 +740,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S012",
+          "id": "09.06.03-S011",
           "text": "试用期工资是多少？",
           "meaning_my": "အစမ်းခန့်ကာလ လစာ ဘယ်လောက်လဲ။",
           "replies": [],
@@ -705,7 +753,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S013",
+          "id": "09.06.03-S012",
           "text": "转正后工资是多少？",
           "meaning_my": "အတည်ခန့်ပြီးရင် လစာ ဘယ်လောက်ရမလဲ။",
           "replies": [],
@@ -718,7 +766,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S014",
+          "id": "09.06.03-S013",
           "text": "转正结果什么时候通知？",
           "meaning_my": "အတည်ခန့်ရလဒ်ကို ဘယ်တော့ အကြောင်းကြားမှာလဲ။",
           "replies": [],
@@ -731,7 +779,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S015",
+          "id": "09.06.03-S014",
           "text": "合同快到期了，怎么续签？",
           "meaning_my": "စာချုပ် သက်တမ်းကုန်ခါနီးပြီ၊ ဘယ်လို ဆက်ချုပ်ရမလဲ။",
           "replies": [],
@@ -744,7 +792,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S016",
+          "id": "09.06.03-S015",
           "text": "试用期工资和转正后一样吗？",
           "meaning_my": "အစမ်းခန့်ကာလ လစာနဲ့ အတည်ခန့်ပြီး လစာ တူလား။",
           "replies": [],
@@ -757,7 +805,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S017",
+          "id": "09.06.03-S016",
           "text": "合同里这条我不太明白。",
           "meaning_my": "စာချုပ်ထဲက ဒီအချက်ကို သိပ်နားမလည်ဘူး။",
           "replies": [],
@@ -770,7 +818,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S018",
+          "id": "09.06.03-S017",
           "text": "合同能拍照留底吗？",
           "meaning_my": "စာချုပ်ကို ဓာတ်ပုံရိုက် သိမ်းထားလို့ရမလား။",
           "replies": [],
@@ -783,7 +831,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S019",
+          "id": "09.06.03-S018",
           "text": "合同到期不续签怎么办？",
           "meaning_my": "စာချုပ်သက်တမ်းကုန်ပြီး မဆက်ချုပ်ရင် ဘယ်လိုလုပ်ရမလဲ။",
           "replies": [],
@@ -796,7 +844,7 @@
           "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
         },
         {
-          "id": "09.06.03-S020",
+          "id": "09.06.03-S019",
           "text": "合同变更要双方同意吗？",
           "meaning_my": "စာချုပ်ပြောင်းဖို့ နှစ်ဖက်စလုံး သဘောတူရမလား။",
           "replies": [],
@@ -820,8 +868,20 @@
           "id": "09.06.04-S001",
           "text": "我想辞职。",
           "meaning_my": "အလုပ်ထွက်ချင်ပါတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "09.06.04-S001_reply01",
+              "text": "你准备工作到哪一天？",
+              "meaning_my": "ဘယ်နေ့အထိ အလုပ်လုပ်ဖို့ စီစဉ်ထားလဲ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "09.06.04-S001_alt01",
+              "text": "我准备离职了。",
+              "meaning_my": "အလုပ်ထွက်ဖို့ စီစဉ်ထားတယ်။"
+            }
+          ],
           "source_ref": "user_original_09.06.04_B001",
           "priority": "core",
           "pinyin": null,
@@ -833,14 +893,27 @@
           "id": "09.06.04-S002",
           "text": "辞职要提前多久说？",
           "meaning_my": "အလုပ်ထွက်မယ်ဆို ဘယ်လောက် ကြိုပြောရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.06.04-S002_reply01",
+              "text": "要看法律规定和具体情况。",
+              "meaning_my": "ဥပဒေနဲ့ အခြေအနေပေါ် မူတည်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.06.04_B002",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "中国《劳动合同法》第三十七条一般规定提前30日书面通知，试用期提前3日通知；特殊情况另核实。",
+              "text_my": "တရုတ်အလုပ်စာချုပ်ဥပဒေ အပိုဒ် ၃၇ အရ ပုံမှန်အားဖြင့် ရက်သုံးဆယ်ကြို စာနဲ့အသိပေးရတယ်။ အစမ်းခန့်ကာလမှာ သုံးရက် ကြိုပြောရတယ်။"
+            }
+          ]
         },
         {
           "id": "09.06.04-S003",
@@ -898,14 +971,27 @@
           "id": "09.06.04-S007",
           "text": "离职后工作许可怎么办？",
           "meaning_my": "အလုပ်ထွက်ပြီးရင် အလုပ်လုပ်ခွင့်လက်မှတ်ကို ဘယ်လိုလုပ်ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "09.06.04-S007_reply01",
+              "text": "请尽快向人事和主管部门核实。",
+              "meaning_my": "ဝန်ထမ်းရေးရာဌာနနဲ့ သက်ဆိုင်ရာဌာနကို အမြန်မေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_09.06.04_B008",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "legal",
+              "text": "外国人离职可能需要及时处理工作许可和居留许可变更或注销事项，不应直接沿用原工作许可到新岗位。",
+              "text_my": "နိုင်ငံခြားသား အလုပ်ထွက်ရင် အလုပ်လုပ်ခွင့်နဲ့ နေထိုင်ခွင့်ကို ပြောင်းလဲ၊ ပယ်ဖျက်ဖို့ လိုနိုင်တယ်။ အလုပ်အသစ်မှာ ခွင့်ပြုချက်အဟောင်းကို တိုက်ရိုက်မသုံးပါနဲ့။"
+            }
+          ]
         },
         {
           "id": "09.06.04-S008",
@@ -1067,11 +1153,11 @@
     }
   ],
   "extras_summary": {
-    "main": 78,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 78
+    "main": 77,
+    "replies": 10,
+    "alternatives": 3,
+    "notes": 3,
+    "total_audio": 90
   },
   "quality_review": {
     "status": "draft_pending_native_review",
@@ -1079,6 +1165,12 @@
     "native_burmese_review": "pending",
     "pinyin_status": "not_generated",
     "phonetic_my_status": "not_generated",
-    "audio_status": "not_recorded"
+    "audio_status": "not_recorded",
+    "checks": [
+      "sequential unique main IDs",
+      "source links retained",
+      "extensions selectively attached",
+      "Myanmar native QA pending"
+    ]
   }
 }
