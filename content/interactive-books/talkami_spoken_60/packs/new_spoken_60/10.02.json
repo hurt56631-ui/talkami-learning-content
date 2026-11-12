@@ -1,0 +1,1263 @@
+{
+  "schema_version": "talkami_new_spoken_topic_v3_frequency_sorted",
+  "status": "draft_pending_native_review",
+  "theme_id": "10.02",
+  "theme_title": "工厂车间",
+  "theme_title_my": "စက်ရုံ အလုပ်ရုံသုံးစကား",
+  "locale_pair": "zh-CN/my",
+  "updated_at": "2026-11-12",
+  "phrase_count": 76,
+  "original_count": 69,
+  "added_count": 7,
+  "source_counts": {
+    "original_candidates": 91,
+    "proposed_additions": 48,
+    "total_candidates": 139,
+    "selected_main": 76,
+    "selected_from_original": 69,
+    "selected_from_additions": 7
+  },
+  "note": "专注车间环境、岗位指令、机器故障前的沟通和产量汇报。所有机械操作必须按培训、授权和现场安全程序执行，本主题只教授沟通表达。",
+  "scenes": [
+    {
+      "id": "10.02.01",
+      "title": "进入车间与岗位",
+      "title_my": "အလုပ်ရုံဝင်ခြင်းနှင့် အလုပ်တာဝန်နေရာ",
+      "phrase_count": 17,
+      "phrases": [
+        {
+          "id": "10.02.01-S001",
+          "text": "我在哪个车间？",
+          "meaning_my": "ကျွန်တော်/ကျွန်မ ဘယ်အလုပ်ရုံမှာ လုပ်ရမှာလဲ။",
+          "replies": [
+            {
+              "id": "10.02.01-S001_reply01",
+              "text": "你去二号车间。",
+              "meaning_my": "နံပါတ်နှစ် အလုပ်ရုံကို သွားပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "10.02.01-S001_alt01",
+              "text": "我被分到哪个车间？",
+              "meaning_my": "ကျွန်တော်/ကျွန်မကို ဘယ်အလုပ်ရုံ ခွဲထားလဲ။"
+            }
+          ],
+          "source_ref": "user_original_10.02.01_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S002",
+          "text": "我的工位在哪儿？",
+          "meaning_my": "ကျွန်တော်/ကျွန်မရဲ့ အလုပ်နေရာ ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S003",
+          "text": "谁是组长？",
+          "meaning_my": "အဖွဲ့ခေါင်းဆောင်က ဘယ်သူလဲ။",
+          "replies": [
+            {
+              "id": "10.02.01-S003_reply01",
+              "text": "先去找组长报到。",
+              "meaning_my": "အဖွဲ့ခေါင်းဆောင်ဆီ အရင် သတင်းပို့ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S004",
+          "text": "今天跟谁一组？",
+          "meaning_my": "ဒီနေ့ ဘယ်သူနဲ့ တစ်ဖွဲ့တည်း လုပ်ရမှာလဲ။",
+          "replies": [
+            {
+              "id": "10.02.01-S004_reply01",
+              "text": "你跟小陈一组。",
+              "meaning_my": "ရှောင်ချန်နဲ့ တစ်ဖွဲ့တည်း လုပ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S005",
+          "text": "要换工作服吗？",
+          "meaning_my": "အလုပ်ဝတ်စုံ လဲဝတ်ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S006",
+          "text": "工作服在哪儿换？",
+          "meaning_my": "အလုပ်ဝတ်စုံ ဘယ်မှာ လဲရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S007",
+          "text": "安全鞋在哪儿领？",
+          "meaning_my": "ဘေးကင်းရေးဖိနပ် ဘယ်မှာ ထုတ်ယူရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B009",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S008",
+          "text": "护目镜在哪儿领？",
+          "meaning_my": "မျက်လုံးကာကွယ်ရေးမျက်မှန် ဘယ်မှာ ထုတ်ယူရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S009",
+          "text": "这里需要戴耳塞吗？",
+          "meaning_my": "ဒီမှာ နားပိတ်တပ်ဖို့ လိုလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S010",
+          "text": "我还没参加安全培训。",
+          "meaning_my": "ဘေးကင်းရေးသင်တန်း မတက်ရသေးဘူး။",
+          "replies": [
+            {
+              "id": "10.02.01-S010_reply01",
+              "text": "那先参加培训，别擅自上机。",
+              "meaning_my": "ဒါဆို သင်တန်း အရင်တက်ပါ၊ ကိုယ့်ဘာသာ စက်မကိုင်ပါနဲ့။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "没有完成必要培训或获得岗位授权时，不应进入限制区域或操作危险设备。",
+              "text_my": "လိုအပ်တဲ့သင်တန်းမတက်ရသေး၊ အလုပ်ခွင့်ပြုချက်မရသေးရင် ကန့်သတ်နေရာထဲ မဝင်၊ အန္တရာယ်ရှိတဲ့စက် မကိုင်ပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "10.02.01-S011",
+          "text": "安全培训什么时候？",
+          "meaning_my": "ဘေးကင်းရေးသင်တန်း ဘယ်တော့ စမှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_10.02.01_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S012",
+          "text": "这个区域能进去吗？",
+          "meaning_my": "ဒီနေရာထဲ ဝင်လို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S013",
+          "text": "未经允许不能进去。",
+          "meaning_my": "ခွင့်ပြုချက်မရှိဘဲ ဝင်လို့မရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S014",
+          "text": "进去之前要登记吗？",
+          "meaning_my": "အထဲမဝင်ခင် စာရင်းသွင်းရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S015",
+          "text": "工具在哪儿领？",
+          "meaning_my": "ကိရိယာတွေ ဘယ်မှာ ထုတ်ယူရမလဲ။",
+          "replies": [
+            {
+              "id": "10.02.01-S015_reply01",
+              "text": "工具去仓库领。",
+              "meaning_my": "ကိရိယာတွေ ဂိုဒေါင်မှာ သွားထုတ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B006",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S016",
+          "text": "休息区在哪儿？",
+          "meaning_my": "နားနေခန်း ဘယ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.01_B010",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.01-S017",
+          "text": "手机能带进车间吗？",
+          "meaning_my": "ဖုန်းကို အလုပ်ရုံထဲ ယူသွားလို့ရလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_10.02.01_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "10.02.02",
+      "title": "工作指令步骤",
+      "title_my": "အလုပ်အဆင့်ဆင့် ညွှန်ကြားချက်",
+      "phrase_count": 20,
+      "phrases": [
+        {
+          "id": "10.02.02-S001",
+          "text": "这批先做哪个型号？",
+          "meaning_my": "ဒီအသုတ်မှာ ဘယ်မော်ဒယ်ကို အရင်လုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "10.02.02-S001_reply01",
+              "text": "先核对作业单上的型号。",
+              "meaning_my": "အလုပ်စာရွက်ထဲက မော်ဒယ်ကို အရင်စစ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S002",
+          "text": "先核对一下零件型号。",
+          "meaning_my": "အစိတ်အပိုင်း မော်ဒယ်နံပါတ်ကို အရင်စစ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B022",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S003",
+          "text": "按作业指导书做。",
+          "meaning_my": "လုပ်ငန်းညွှန်ကြားစာအတိုင်း လုပ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B018",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S004",
+          "text": "要先装这个吗？",
+          "meaning_my": "ဒါကို အရင်တပ်ရမှာလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S005",
+          "text": "装好后做什么？",
+          "meaning_my": "တပ်ဆင်ပြီးရင် ဘာဆက်လုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "10.02.02-S005_reply01",
+              "text": "先放待检区。",
+              "meaning_my": "စစ်ဆေးဖို့ စောင့်တဲ့နေရာမှာ အရင်ထားပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S006",
+          "text": "这一步做得对吗？",
+          "meaning_my": "ဒီအဆင့်ကို ဒီလိုလုပ်တာ မှန်လား။",
+          "replies": [
+            {
+              "id": "10.02.02-S006_reply01",
+              "text": "我帮你再检查一下。",
+              "meaning_my": "နောက်တစ်ခါ စစ်ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "10.02.02-S006_alt01",
+              "text": "这一步这样做行吗？",
+              "meaning_my": "ဒီအဆင့်ကို ဒီလိုလုပ်လို့ ရလား။"
+            }
+          ],
+          "source_ref": "user_original_10.02.02_B004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S007",
+          "text": "这一步我还没学会。",
+          "meaning_my": "ဒီအဆင့်ကို မလုပ်တတ်သေးဘူး။",
+          "replies": [
+            {
+              "id": "10.02.02-S007_reply01",
+              "text": "先看师傅示范，不要自己试。",
+              "meaning_my": "ဆရာလုပ်ပြတာ အရင်ကြည့်ပါ၊ ကိုယ့်ဘာသာ မစမ်းပါနဲ့။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B012",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S008",
+          "text": "这批先试做几个？",
+          "meaning_my": "ဒီအသုတ်ကို အစမ်း ဘယ်နှခု အရင်လုပ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S009",
+          "text": "首件要先确认。",
+          "meaning_my": "ပထမဆုံးလုပ်တဲ့ပစ္စည်းကို အရင်စစ်ပြီး အတည်ပြုရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_10.02.02_N02",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "首件指一批生产的第一个代表性产品，是否需首件确认取决于工艺及质检流程。",
+              "text_my": "“首件” ဆိုတာ တစ်အသုတ်မှာ ပထမဆုံးလုပ်တဲ့ နမူနာပစ္စည်းပါ။ အရင်စစ်ရမရက လုပ်ငန်းစဉ်နဲ့ အရည်အသွေးစစ်စည်းကမ်းပေါ် မူတည်တယ်။"
+            }
+          ]
+        },
+        {
+          "id": "10.02.02-S010",
+          "text": "做完十个先给我看。",
+          "meaning_my": "ဆယ်ခုလုပ်ပြီးရင် အရင်ပြပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S011",
+          "text": "这两种零件不能混装。",
+          "meaning_my": "ဒီအစိတ်အပိုင်းနှစ်မျိုးကို ရောပြီး မတပ်ရဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S012",
+          "text": "别装反了。",
+          "meaning_my": "ပြောင်းပြန် မတပ်မိစေနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B015",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S013",
+          "text": "别漏掉这一步。",
+          "meaning_my": "ဒီအဆင့်ကို ချန်မထားနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S014",
+          "text": "待检品放哪个区？",
+          "meaning_my": "စစ်ဆေးဖို့ စောင့်နေတဲ့ပစ္စည်းတွေ ဘယ်နေရာမှာ ထားရမလဲ။",
+          "replies": [
+            {
+              "id": "10.02.02-S014_reply01",
+              "text": "放待检区，别放成品区。",
+              "meaning_my": "စစ်ဆေးဖို့ စောင့်တဲ့နေရာမှာ ထားပါ၊ ကုန်ချောနေရာမှာ မထားပါနဲ့။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B008",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S015",
+          "text": "标签贴错了，怎么办？",
+          "meaning_my": "တံဆိပ် မှားကပ်မိပြီ၊ ဘယ်လိုလုပ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B011",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S016",
+          "text": "需要重做一遍吗？",
+          "meaning_my": "နောက်တစ်ခါ ပြန်လုပ်ရမလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B005",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S017",
+          "text": "做完自检一遍。",
+          "meaning_my": "လုပ်ပြီးရင် ကိုယ်တိုင် တစ်ခါ ပြန်စစ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_10.02.02_N04",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S018",
+          "text": "扳手借我用一下。",
+          "meaning_my": "ဂွကို ခဏ ငှားပါဦး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B019",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S019",
+          "text": "工具电池快没电了。",
+          "meaning_my": "ကိရိယာဘက်ထရီ ကုန်ခါနီးပြီ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.02_B020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.02-S020",
+          "text": "下道工序是谁？",
+          "meaning_my": "နောက်အလုပ်အဆင့်ကို ဘယ်သူ တာဝန်ယူလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_10.02.02_N05",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    },
+    {
+      "id": "10.02.03",
+      "title": "机器基本操作",
+      "title_my": "စက်အခြေခံ အသုံးပြုမှုနှင့် ဘေးကင်းရေး",
+      "phrase_count": 21,
+      "phrases": [
+        {
+          "id": "10.02.03-S001",
+          "text": "我不会操作。",
+          "meaning_my": "ကျွန်တော်/ကျွန်မ စက် မကိုင်တတ်သေးဘူး။",
+          "replies": [
+            {
+              "id": "10.02.03-S001_reply01",
+              "text": "先找师傅培训，别直接启动。",
+              "meaning_my": "ဆရာဆီမှာ သင်တန်း အရင်ယူပါ၊ စက်ကို တိုက်ရိုက် မဖွင့်ပါနဲ့။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "10.02.03-S001_alt01",
+              "text": "这台机器我还不会用。",
+              "meaning_my": "ဒီစက်ကို မသုံးတတ်သေးဘူး။"
+            }
+          ],
+          "source_ref": "user_original_10.02.03_B008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S002",
+          "text": "我还没有操作权限。",
+          "meaning_my": "စက်ကိုင်တွယ်ဖို့ ခွင့်ပြုချက် မရသေးဘူး။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B021",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S003",
+          "text": "培训后才能操作。",
+          "meaning_my": "သင်တန်းတက်ပြီးမှ စက်ကို ကိုင်တွယ်လို့ရမယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B019",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "机器操作通常不仅需要培训，还需要相关授权和岗位安全确认；完成培训不自动意味着具备操作资格。",
+              "text_my": "စက်ကိုင်ဖို့ သင်တန်းတက်ရုံမက ခွင့်ပြုချက်နဲ့ ဘေးကင်းရေးအတည်ပြုချက် လိုနိုင်တယ်။ သင်တန်းတက်ပြီးတာနဲ့ အလိုအလျောက် စက်ကိုင်ခွင့်ရတာ မဟုတ်ပါ။"
+            }
+          ]
+        },
+        {
+          "id": "10.02.03-S004",
+          "text": "开机前要检查什么？",
+          "meaning_my": "စက်မဖွင့်ခင် ဘာတွေ စစ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B016",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S005",
+          "text": "机器怎么开？",
+          "meaning_my": "စက်ကို ဘယ်လိုဖွင့်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S006",
+          "text": "该按哪个按钮？",
+          "meaning_my": "ဘယ်ခလုတ်ကို နှိပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "10.02.03-S006_reply01",
+              "text": "先看操作指导书，请师傅确认。",
+              "meaning_my": "လုပ်ငန်းညွှန်ကြားစာကို အရင်ကြည့်ပြီး ဆရာနဲ့ အတည်ပြုပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S007",
+          "text": "现在可以启动吗？",
+          "meaning_my": "အခု စက်ကို စတင်မောင်းလို့ရပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S008",
+          "text": "哪个是急停按钮？",
+          "meaning_my": "အရေးပေါ်ရပ်ခလုတ်က ဘယ်ဟာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S009",
+          "text": "这个参数对吗？",
+          "meaning_my": "ဒီသတ်မှတ်ချက် မှန်လား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S010",
+          "text": "速度调多少？",
+          "meaning_my": "အမြန်နှုန်းကို ဘယ်လောက်ထားရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S011",
+          "text": "这个数值正常吗？",
+          "meaning_my": "ဒီကိန်းဂဏန်း ပုံမှန်ပဲလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S012",
+          "text": "机器有异响。",
+          "meaning_my": "စက်က ထူးဆန်းတဲ့အသံ ထွက်နေတယ်။",
+          "replies": [
+            {
+              "id": "10.02.03-S012_reply01",
+              "text": "先按规定停机并报告。",
+              "meaning_my": "စည်းကမ်းအတိုင်း အရင်စက်ရပ်ပြီး သတင်းပို့ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "10.02.03-S012_alt01",
+              "text": "机器声音不正常。",
+              "meaning_my": "စက်အသံ ပုံမှန်မဟုတ်ဘူး။"
+            }
+          ],
+          "source_ref": "user_original_10.02.03_B013",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S013",
+          "text": "师傅，机器这里不对劲。",
+          "meaning_my": "ဆရာ၊ ဒီစက်က တစ်ခုခု မမှန်သလိုပဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B009",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S014",
+          "text": "机器报警找谁？",
+          "meaning_my": "စက်က အချက်ပေးနေတယ်၊ ဘယ်သူ့ကို ခေါ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B012",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S015",
+          "text": "设备报警了，先别重启。",
+          "meaning_my": "စက်က အချက်ပေးနေပြီ၊ အခု ပြန်မဖွင့်နဲ့ဦး။",
+          "replies": [
+            {
+              "id": "10.02.03-S015_reply01",
+              "text": "好的，我联系维修人员。",
+              "meaning_my": "ဟုတ်ကဲ့၊ ပြင်ဆရာနဲ့ ဆက်သွယ်လိုက်မယ်။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B014",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "异常报警和维修应按现场停机、隔离与授权检修程序处理；非授权人员不得绕过保护装置、擅自断电或重新启动。",
+              "text_my": "စက်အချက်ပေးရင် နေရာမှာ သတ်မှတ်ထားတဲ့ ရပ်တန့်ခြင်း၊ သီးသန့်ခွဲခြင်းနဲ့ ပြင်ဆင်ခြင်းစည်းကမ်းကို လိုက်နာပါ။ ခွင့်မရှိသူက အကာအကွယ် မကျော်၊ မီးမဖြတ်၊ စက်ပြန်မဖွင့်ပါနဲ့။"
+            }
+          ]
+        },
+        {
+          "id": "10.02.03-S016",
+          "text": "有异常就按规定停机。",
+          "meaning_my": "ပုံမှန်မဟုတ်တာ ဖြစ်ရင် သတ်မှတ်ထားတဲ့နည်းအတိုင်း စက်ရပ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B005",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S017",
+          "text": "清理机器之前要做什么？",
+          "meaning_my": "စက်သန့်ရှင်းရေး မလုပ်ခင် ဘာလုပ်ရမလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B015",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S018",
+          "text": "别自己改参数。",
+          "meaning_my": "စက်သတ်မှတ်ချက်တွေကို ကိုယ့်ဘာသာ မပြောင်းနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B017",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S019",
+          "text": "不要拆防护罩。",
+          "meaning_my": "အကာအကွယ်ဖုံးကို မဖြုတ်ပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S020",
+          "text": "别自己修，叫维修师傅来。",
+          "meaning_my": "ကိုယ့်ဘာသာ မပြင်နဲ့၊ ပြင်ဆရာကို ခေါ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.03_B025",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.03-S021",
+          "text": "机器冒烟了，快停机！",
+          "meaning_my": "စက်က မီးခိုးထွက်နေပြီ၊ အမြန် ရပ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_10.02.03_N11",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "机器冒烟可能提示火灾或电气危险；远离危险并按现场应急流程报警，让受训人员处理。不要冒险靠近设备。",
+              "text_my": "စက်က မီးခိုးထွက်ရင် မီးလောင်မှု ဒါမှမဟုတ် လျှပ်စစ်အန္တရာယ် ဖြစ်နိုင်တယ်။ အဝေးကို ရှောင်ပြီး အရေးပေါ်လုပ်ငန်းစဉ်အတိုင်း သတင်းပို့ပါ။ အန္တရာယ်ရှိတဲ့စက်နား မကပ်ပါနဲ့။"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10.02.04",
+      "title": "生产数量进度",
+      "title_my": "ထုတ်လုပ်မှု အရေအတွက်နှင့် တိုးတက်မှု",
+      "phrase_count": 18,
+      "phrases": [
+        {
+          "id": "10.02.04-S001",
+          "text": "今天生产哪一款？",
+          "meaning_my": "ဒီနေ့ ဘယ်မော်ဒယ်ကို ထုတ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B001",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S002",
+          "text": "今天要做多少？",
+          "meaning_my": "ဒီနေ့ ဘယ်နှခု လုပ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "10.02.04-S002_reply01",
+              "text": "今天目标五百个。",
+              "meaning_my": "ဒီနေ့ ရည်မှန်းချက်က ငါးရာပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "10.02.04-S002_alt01",
+              "text": "今天的产量目标是多少？",
+              "meaning_my": "ဒီနေ့ ထုတ်လုပ်မှုပန်းတိုင် ဘယ်လောက်လဲ။"
+            }
+          ],
+          "source_ref": "user_original_10.02.04_B002",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S003",
+          "text": "今天目标五百个。",
+          "meaning_my": "ဒီနေ့ ရည်မှန်းချက်က ငါးရာပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B014",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S004",
+          "text": "现在做的是第几批？",
+          "meaning_my": "အခုလုပ်နေတာ ဘယ်နှသုတ်မြောက်လဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B003",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S005",
+          "text": "已经做了两百个。",
+          "meaning_my": "နှစ်ရာ လုပ်ပြီးပြီ။",
+          "replies": [
+            {
+              "id": "10.02.04-S005_reply01",
+              "text": "还差多少？",
+              "meaning_my": "နောက်ထပ် ဘယ်နှခု လိုသေးလဲ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B004",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S006",
+          "text": "还差五十个。",
+          "meaning_my": "နောက်ထပ် ငါးဆယ် လိုသေးတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B005",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S007",
+          "text": "合格品有多少个？",
+          "meaning_my": "အရည်အသွေးမီတဲ့ပစ္စည်း ဘယ်နှခုရှိလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B010",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S008",
+          "text": "不良品多少？",
+          "meaning_my": "အရည်အသွေးမမီတဲ့ပစ္စည်း ဘယ်နှခုရှိလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_addition_10.02.04_N05",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S009",
+          "text": "这批少了十个。",
+          "meaning_my": "ဒီအသုတ်မှာ ဆယ်ခု လျော့နေတယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B011",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S010",
+          "text": "今天能做完。",
+          "meaning_my": "ဒီနေ့ အပြီးလုပ်နိုင်တယ်။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B006",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S011",
+          "text": "今天目标改了吗？",
+          "meaning_my": "ဒီနေ့ လုပ်ရမယ့် ရည်မှန်းချက် ပြောင်းသွားပြီလား။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B008",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S012",
+          "text": "下一批什么时候做？",
+          "meaning_my": "နောက်တစ်သုတ်ကို ဘယ်တော့ လုပ်မှာလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B007",
+          "priority": "core",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S013",
+          "text": "下一批多少个？",
+          "meaning_my": "နောက်တစ်သုတ်မှာ ဘယ်နှခုရှိလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B009",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S014",
+          "text": "交班前还有多少没做完？",
+          "meaning_my": "ဆိုင်းလွှဲမပေးခင် ဘယ်နှခု မပြီးသေးလဲ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B013",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S015",
+          "text": "做不完要提前说。",
+          "meaning_my": "အချိန်မမီ ပြီးနိုင်ရင် ကြိုပြောပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B020",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S016",
+          "text": "做了多少就记多少。",
+          "meaning_my": "ဘယ်နှခု လုပ်ထားလဲ အမှန်အတိုင်း မှတ်ပါ။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B021",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S017",
+          "text": "今天的产量记在哪儿？",
+          "meaning_my": "ဒီနေ့ ထုတ်လုပ်တဲ့အရေအတွက် ဘယ်မှာ မှတ်ရမလဲ။",
+          "replies": [
+            {
+              "id": "10.02.04-S017_reply01",
+              "text": "记在生产报表上。",
+              "meaning_my": "ထုတ်လုပ်မှုစာရင်းထဲမှာ မှတ်ပါ။"
+            }
+          ],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B022",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        },
+        {
+          "id": "10.02.04-S018",
+          "text": "做完记得报数量。",
+          "meaning_my": "လုပ်ပြီးရင် အရေအတွက် တင်ပြဖို့ မမေ့ပါနဲ့။",
+          "replies": [],
+          "alternatives": [],
+          "source_ref": "user_original_10.02.04_B023",
+          "priority": "situational",
+          "pinyin": null,
+          "phonetic_my": null,
+          "pronunciation_source": "not_generated",
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+        }
+      ]
+    }
+  ],
+  "extras_summary": {
+    "main": 76,
+    "replies": 17,
+    "alternatives": 5,
+    "notes": 5,
+    "total_audio": 98
+  },
+  "quality_review": {
+    "status": "draft_pending_native_review",
+    "sort_rule": "practical editorial usefulness",
+    "native_burmese_review": "pending",
+    "pinyin_status": "not_generated",
+    "phonetic_my_status": "not_generated",
+    "audio_status": "not_recorded"
+  },
+  "core_words": [
+    {
+      "zh": "车间",
+      "my": "အလုပ်ရုံ",
+      "id": "10.02.01-S001",
+      "priority": "core"
+    },
+    {
+      "zh": "工位",
+      "my": "အလုပ်နေရာ",
+      "id": "10.02.01-S002",
+      "priority": "core"
+    },
+    {
+      "zh": "零件",
+      "my": "အစိတ်အပိုင်း",
+      "id": "10.02.02-S002",
+      "priority": "core"
+    },
+    {
+      "zh": "急停",
+      "my": "အရေးပေါ်ရပ်ခလုတ်",
+      "id": "10.02.03-S008",
+      "priority": "core"
+    },
+    {
+      "zh": "生产数量",
+      "my": "ထုတ်လုပ်မှုအရေအတွက်",
+      "id": "10.02.04-S002",
+      "priority": "core"
+    },
+    {
+      "zh": "安全培训",
+      "my": "ဘေးကင်းရေးသင်တန်း",
+      "id": "10.02.01-S010",
+      "priority": "core"
+    }
+  ]
+}
