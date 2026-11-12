@@ -6,7 +6,7 @@
   "theme_title_my": "WeChat နှင့် ဖုန်းပြောဆိုခြင်း",
   "locale_pair": "zh-CN/my",
   "updated_at": "2026-11-12",
-  "note": "用户原稿72句及补充62句中编辑精选；按使用场景与高频程度安排。缅语母语逐句终审、拼音/谐音与音频尚未完成。",
+  "note": "原72句与补充62句共134候选，精选95主句、27条有实际教学价值的回复、12条类似说法、9条中缅说明。对音量大小、微信号与昵称、普通定位和实时共享位置作了语义区分；缅语母语终审和音频仍待完成。",
   "scenes": [
     {
       "id": "07.02.01",
@@ -18,8 +18,20 @@
           "id": "07.02.01-S001",
           "text": "方便加微信吗？",
           "meaning_my": "WeChat မှာ သူငယ်ချင်းအဖြစ် ထည့်လို့ရမလား။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.02.01-S001_reply01",
+              "text": "可以，扫我二维码吧。",
+              "meaning_my": "ရပါတယ်၊ QR ကုဒ်ကို စကန်ဖတ်လိုက်ပါ။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.02.01-S001_alt01",
+              "text": "加个微信吧。",
+              "meaning_my": "WeChat မှာ သူငယ်ချင်းထည့်ကြရအောင်။"
+            }
+          ],
           "source_ref": "user_original_07.02.01_B001",
           "priority": "core",
           "pinyin": null,
@@ -38,7 +50,14 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "微信号（WeChat ID）和微信昵称、绑定手机号不是同一回事；是否能用手机号搜索取决于账号设置。",
+              "text_my": "WeChat ID၊ နာမည်နဲ့ ချိတ်ထားတဲ့ဖုန်းနံပါတ်က မတူဘူး။ ဖုန်းနံပါတ်နဲ့ ရှာလို့ရမရက အကောင့်ဆက်တင်ပေါ် မူတည်တယ်။"
+            }
+          ]
         },
         {
           "id": "07.02.01-S003",
@@ -57,7 +76,14 @@
           "id": "07.02.01-S004",
           "text": "我扫你还是你扫我？",
           "meaning_my": "ဘယ်သူက ဘယ်သူ့ QR ကုဒ်ကို စကန်ဖတ်မလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.01-S004_reply01",
+              "text": "你扫我的二维码也可以。",
+              "meaning_my": "ကျွန်တော်/ကျွန်မ ရဲ့ QR ကုဒ်ကိုလည်း စကန်ဖတ်လို့ရတယ်။",
+              "source_ref": "user_original_07.02.01_B004"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.02.01_N02",
           "priority": "core",
@@ -148,7 +174,14 @@
           "id": "07.02.01-S011",
           "text": "我没搜到你。",
           "meaning_my": "ရှာလို့ မတွေ့ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.01-S011_reply01",
+              "text": "可以试试搜手机号。",
+              "meaning_my": "ဖုန်းနံပါတ်နဲ့ ရှာကြည့်လို့ရတယ်။",
+              "source_ref": "user_original_07.02.01_B014"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.01_B011",
           "priority": "core",
@@ -162,7 +195,14 @@
           "text": "我发好友申请了。",
           "meaning_my": "သူငယ်ချင်းထည့်ဖို့ တောင်းဆိုချက် ပို့ထားပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.01-S012_alt01",
+              "text": "申请发了，你看一下。",
+              "meaning_my": "သူငယ်ချင်းတောင်းဆိုချက် ပို့ထားပြီ၊ ကြည့်ပါဦး။",
+              "source_ref": "user_addition_07.02.01_N09"
+            }
+          ],
           "source_ref": "user_original_07.02.01_B005",
           "priority": "core",
           "pinyin": null,
@@ -174,14 +214,28 @@
           "id": "07.02.01-S013",
           "text": "麻烦通过一下。",
           "meaning_my": "သူငယ်ချင်းတောင်းဆိုချက်ကို လက်ခံပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.01-S013_reply01",
+              "text": "好，我通过一下。",
+              "meaning_my": "ကောင်းပြီ၊ တောင်းဆိုချက်ကို လက်ခံလိုက်မယ်။",
+              "source_ref": "user_addition_07.02.01_N08"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.01_B006",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "这里“通过”是同意好友申请，不是通过考试或经过某个地方。",
+              "text_my": "ဒီနေရာမှာ “通过” က သူငယ်ချင်းတောင်းဆိုချက်ကို လက်ခံတာပါ။ စာမေးပွဲအောင်တာနဲ့ မတူပါ။"
+            }
+          ]
         },
         {
           "id": "07.02.01-S014",
@@ -239,7 +293,13 @@
           "id": "07.02.01-S018",
           "text": "你加错人了。",
           "meaning_my": "လူမှားပြီး သူငယ်ချင်းထည့်မိတာပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.01-S018_reply01",
+              "text": "不好意思，我弄错了。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ လူမှားသွားတယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.01_B010",
           "priority": "situational",
@@ -252,7 +312,13 @@
           "id": "07.02.01-S019",
           "text": "备注写什么？",
           "meaning_my": "မှတ်ချက်နေရာမှာ ဘာရေးရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.01-S019_reply01",
+              "text": "写我的名字就行。",
+              "meaning_my": "နာမည်ပဲ ရေးထားရင် ရပြီ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.02.01_N14",
           "priority": "situational",
@@ -287,7 +353,13 @@
           "text": "我给你发消息。",
           "meaning_my": "မက်ဆေ့ချ် ပို့ပေးမယ်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.02-S001_alt01",
+              "text": "我发微信给你。",
+              "meaning_my": "WeChat ကနေ စာပို့ပေးမယ်။"
+            }
+          ],
           "source_ref": "user_original_07.02.02_B001",
           "priority": "core",
           "pinyin": null,
@@ -312,7 +384,13 @@
           "id": "07.02.02-S003",
           "text": "你收到消息了吗？",
           "meaning_my": "မက်ဆေ့ချ် ရပြီလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.02-S003_reply01",
+              "text": "收到了，我等会儿看。",
+              "meaning_my": "ရပြီ၊ ခဏနေမှ ဖတ်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.02_B008",
           "priority": "core",
@@ -351,7 +429,13 @@
           "id": "07.02.02-S006",
           "text": "消息发不出去。",
           "meaning_my": "မက်ဆေ့ချ် ပို့လို့မရဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.02-S006_reply01",
+              "text": "可能网络不好，等一下再试。",
+              "meaning_my": "အင်တာနက်လိုင်း မကောင်းလို့ ဖြစ်နိုင်တယ်၊ ခဏနေ ပြန်စမ်းကြည့်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.02.02_N06",
           "priority": "core",
@@ -390,7 +474,13 @@
           "id": "07.02.02-S009",
           "text": "语音听不清。",
           "meaning_my": "အသံမက်ဆေ့ချ်ကို သေချာမကြားရဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.02-S009_reply01",
+              "text": "那我打字发给你。",
+              "meaning_my": "ဒါဆို စာရိုက်ပြီး ပို့ပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.02.02_N02",
           "priority": "core",
@@ -404,7 +494,14 @@
           "text": "你打字发给我吧。",
           "meaning_my": "စာရိုက်ပြီး ပို့ပေးပါ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.02-S010_alt01",
+              "text": "发文字就行。",
+              "meaning_my": "စာရိုက်ပြီး ပို့ရုံပါပဲ။",
+              "source_ref": "user_addition_07.02.02_N01"
+            }
+          ],
           "source_ref": "user_original_07.02.02_B003",
           "priority": "core",
           "pinyin": null,
@@ -429,14 +526,28 @@
           "id": "07.02.02-S012",
           "text": "能拉我进群吗？",
           "meaning_my": "အဖွဲ့ချတ်ထဲ ထည့်ပေးလို့ရမလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.02-S012_reply01",
+              "text": "可以，我把你拉进群。",
+              "meaning_my": "ရတယ်၊ အဖွဲ့ချတ်ထဲ ထည့်ပေးမယ်။",
+              "source_ref": "user_addition_07.02.02_N10"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.02_B005",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“拉我进群”是口语，指邀请或加入群聊；不是拖拽动作。",
+              "text_my": "“拉我进群” က အဖွဲ့ချတ်ထဲ ဖိတ်ခေါ်ပြီး ထည့်ပေးတာပါ။ တကယ် ဆွဲထည့်တာ မဟုတ်ပါ။"
+            }
+          ]
         },
         {
           "id": "07.02.02-S013",
@@ -520,20 +631,39 @@
           "id": "07.02.02-S019",
           "text": "刚才那条消息我撤回了。",
           "meaning_my": "ခုနက ပို့ထားတဲ့ မက်ဆေ့ချ်ကို ပြန်ရုပ်သိမ်းလိုက်ပြီ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.02-S019_reply01",
+              "text": "我已经看到了。",
+              "meaning_my": "ဖတ်မိပြီးပြီ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.02_B013",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "撤回消息不同于只在自己手机上删除；即使撤回，对方仍可能已经看到内容。",
+              "text_my": "မက်ဆေ့ချ် “撤回” လုပ်တာနဲ့ ကိုယ့်ဖုန်းထဲမှာပဲ ဖျက်တာ မတူဘူး။ ပြန်ရုပ်သိမ်းထားပေမဲ့ တစ်ဖက်လူက ဖတ်ပြီးသား ဖြစ်နိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "07.02.02-S020",
           "text": "我发错人了。",
           "meaning_my": "လူမှားပြီး စာပို့မိသွားတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.02-S020_reply01",
+              "text": "那赶快撤回吧。",
+              "meaning_my": "ဒါဆို အမြန် ပြန်ရုပ်သိမ်းလိုက်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.02.02_N08",
           "priority": "situational",
@@ -546,7 +676,14 @@
           "id": "07.02.02-S021",
           "text": "你把消息转发给我。",
           "meaning_my": "မက်ဆေ့ချ်ကို ထပ်ဆင့်ပို့ပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.02-S021_reply01",
+              "text": "消息我转发给你了。",
+              "meaning_my": "မက်ဆေ့ချ်ကို ထပ်ဆင့်ပို့ပေးထားပြီ။",
+              "source_ref": "user_addition_07.02.02_N15"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.02_B014",
           "priority": "situational",
@@ -593,7 +730,13 @@
           "id": "07.02.03-S002",
           "text": "请问您是哪位？",
           "meaning_my": "တဆိတ်လောက်၊ ဘယ်သူဆက်တာပါလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S002_reply01",
+              "text": "我是小李。",
+              "meaning_my": "လီပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.03_B012",
           "priority": "core",
@@ -613,14 +756,28 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "culture",
+              "text": "“师傅”可以礼貌称呼司机、维修人员、手艺人，不等于学校老师“老师”。",
+              "text_my": "“师傅” ကို ယာဉ်မောင်း၊ ပြင်ဆရာနဲ့ လက်မှုပညာရှင်တွေကို ယဉ်ယဉ်ကျေးကျေး ခေါ်ရာမှာ သုံးတတ်တယ်။ ကျောင်းဆရာ “老师” နဲ့ မတူဘူး။"
+            }
+          ]
         },
         {
           "id": "07.02.03-S004",
           "text": "现在方便说话吗？",
           "meaning_my": "အခု ဖုန်းပြောဖို့ အဆင်ပြေလား။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.03-S004_alt01",
+              "text": "你方便接电话吗？",
+              "meaning_my": "အခု ဖုန်းကိုင်ဖို့ အဆင်ပြေလား။",
+              "source_ref": "user_addition_07.02.03_N14"
+            }
+          ],
           "source_ref": "user_original_07.02.03_B002",
           "priority": "core",
           "pinyin": null,
@@ -671,21 +828,41 @@
           "id": "07.02.03-S008",
           "text": "你听得到吗？",
           "meaning_my": "အသံ ကြားရလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S008_reply01",
+              "text": "听得到，但是不太清楚。",
+              "meaning_my": "ကြားရတယ်၊ ဒါပေမဲ့ သိပ်မရှင်းဘူး။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.03_B006",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“听得到”问有没有听见声音；“听得清”问声音是否清楚。",
+              "text_my": "“听得到” က အသံကြားရမရ၊ “听得清” က အသံရှင်းရှင်းကြားရမရကို မေးတာပါ။"
+            }
+          ]
         },
         {
           "id": "07.02.03-S009",
           "text": "我听不到你说话。",
           "meaning_my": "ပြောတာ မကြားရဘူး။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.03-S009_alt01",
+              "text": "我这边听不清。",
+              "meaning_my": "ဒီဘက်က သေချာမကြားရဘူး။",
+              "source_ref": "user_original_07.02.03_B022"
+            }
+          ],
           "source_ref": "user_original_07.02.03_B013",
           "priority": "core",
           "pinyin": null,
@@ -697,7 +874,13 @@
           "id": "07.02.03-S010",
           "text": "你声音有点小。",
           "meaning_my": "အသံ နည်းနည်းတိုးနေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S010_reply01",
+              "text": "我说大声一点。",
+              "meaning_my": "အသံ နည်းနည်း ပိုကျယ်ကျယ် ပြောမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.03_B021",
           "priority": "core",
@@ -736,7 +919,13 @@
           "id": "07.02.03-S013",
           "text": "声音断断续续的。",
           "meaning_my": "အသံက ပြတ်တောင်းပြတ်တောင်း ဖြစ်နေတယ်။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S013_reply01",
+              "text": "那我换个地方再打。",
+              "meaning_my": "ဒါဆို တခြားနေရာ ပြောင်းပြီး ပြန်ဆက်မယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.03_B009",
           "priority": "core",
@@ -789,7 +978,14 @@
           "text": "电话断了。",
           "meaning_my": "ဖုန်းလိုင်း ပြတ်သွားပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.03-S017_alt01",
+              "text": "刚才断线了。",
+              "meaning_my": "ခုနက ဖုန်းလိုင်း ပြတ်သွားတယ်။",
+              "source_ref": "user_addition_07.02.03_N10"
+            }
+          ],
           "source_ref": "user_original_07.02.03_B014",
           "priority": "situational",
           "pinyin": null,
@@ -827,7 +1023,13 @@
           "id": "07.02.03-S020",
           "text": "你打错电话了吧？",
           "meaning_my": "ဖုန်းနံပါတ် မှားဆက်မိတာလား။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S020_reply01",
+              "text": "不好意思，我打错了。",
+              "meaning_my": "တောင်းပန်ပါတယ်၊ ဖုန်းမှားဆက်မိတာပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.03_B019",
           "priority": "situational",
@@ -840,7 +1042,13 @@
           "id": "07.02.03-S021",
           "text": "刚才说到哪儿了？",
           "meaning_my": "ခုနက ဘယ်အကြောင်းအထိ ပြောခဲ့တာလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S021_reply01",
+              "text": "刚说到明天几点见。",
+              "meaning_my": "ခုနက မနက်ဖြန် ဘယ်နှနာရီတွေ့မလဲဆိုတာ ပြောနေတာ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.03_B020",
           "priority": "situational",
@@ -853,7 +1061,13 @@
           "id": "07.02.03-S022",
           "text": "电话一直打不通。",
           "meaning_my": "ဖုန်းဆက်တာ တောက်လျှောက် မဝင်ဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S022_reply01",
+              "text": "可能对方关机了。",
+              "meaning_my": "တစ်ဖက်က ဖုန်းပိတ်ထားလို့ ဖြစ်နိုင်တယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.03_B023",
           "priority": "situational",
@@ -866,7 +1080,13 @@
           "id": "07.02.03-S023",
           "text": "麻烦让他回个电话。",
           "meaning_my": "သူ့ကို ဖုန်းပြန်ဆက်ပေးဖို့ ပြောပေးပါဦး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.03-S023_reply01",
+              "text": "好的，我转告他。",
+              "meaning_my": "ကောင်းပြီ၊ သူ့ကို ပြောပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_addition_07.02.03_N15",
           "priority": "situational",
@@ -906,7 +1126,13 @@
           "text": "我先挂了。",
           "meaning_my": "ဖုန်း အရင်ချလိုက်မယ်နော်။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.03-S026_alt01",
+              "text": "先挂了，回头聊。",
+              "meaning_my": "ဖုန်းချလိုက်တော့မယ်၊ နောက်မှ ဆက်ပြောကြမယ်။"
+            }
+          ],
           "source_ref": "user_original_07.02.03_B005",
           "priority": "situational",
           "pinyin": null,
@@ -939,8 +1165,20 @@
           "id": "07.02.04-S002",
           "text": "发个定位给我。",
           "meaning_my": "တည်နေရာ ပို့ပေးပါ။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.02.04-S002_reply01",
+              "text": "好，我发现在的位置。",
+              "meaning_my": "ကောင်းပြီ၊ အခုရှိတဲ့ တည်နေရာကို ပို့ပေးမယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.02.04-S002_alt01",
+              "text": "把位置发我一下。",
+              "meaning_my": "တည်နေရာလေး ပို့ပေးပါ။"
+            }
+          ],
           "source_ref": "user_original_07.02.04_B007",
           "priority": "core",
           "pinyin": null,
@@ -952,14 +1190,27 @@
           "id": "07.02.04-S003",
           "text": "跟我共享实时位置吧。",
           "meaning_my": "Live Location ကို မျှဝေပေးပါ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.04-S003_reply01",
+              "text": "可以，我现在共享。",
+              "meaning_my": "ရတယ်၊ အခု Live Location မျှဝေပေးမယ်။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.04_B008",
           "priority": "core",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "safety",
+              "text": "发送普通定位是分享一个位置点；共享实时位置会在一定时间内更新位置。应仅在自愿、信任的情况下共享，结束后及时停止。",
+              "text_my": "ပုံမှန်တည်နေရာပို့တာက နေရာတစ်ခုကို ပို့တာပါ။ Live Location က လှုပ်ရှားတဲ့တည်နေရာကို ဆက်တိုက်ပြနိုင်တယ်။ ယုံကြည်ရသူနဲ့ပဲ မျှဝေပြီး မလိုတော့ရင် ရပ်ပါ။"
+            }
+          ]
         },
         {
           "id": "07.02.04-S004",
@@ -1037,13 +1288,26 @@
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "微信的“原图”主要强调较高的原始画质，并不必然表示照片未经修图。",
+              "text_my": "WeChat မှာ “原图” ဆိုတာ မူရင်းပုံအရည်အသွေးကို ဦးစားပေးတာပါ။ ဓာတ်ပုံကို မပြင်ထားဘူးလို့ မဆိုလိုပါ။"
+            }
+          ]
         },
         {
           "id": "07.02.04-S010",
           "text": "图片怎么发原图？",
           "meaning_my": "ဓာတ်ပုံကို မူရင်းအရည်အသွေးနဲ့ ဘယ်လိုပို့ရမလဲ။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.04-S010_reply01",
+              "text": "发送前选原图。",
+              "meaning_my": "မပို့ခင် မူရင်းအရည်အသွေးကို ရွေးပါ။"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.04_B019",
           "priority": "core",
@@ -1056,8 +1320,20 @@
           "id": "07.02.04-S011",
           "text": "照片有点模糊。",
           "meaning_my": "ဓာတ်ပုံ နည်းနည်းဝါးနေတယ်။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.02.04-S011_reply01",
+              "text": "我重新拍一张清楚的。",
+              "meaning_my": "ပိုရှင်းအောင် ဓာတ်ပုံ ပြန်ရိုက်ပို့မယ်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.02.04-S011_alt01",
+              "text": "照片不太清楚。",
+              "meaning_my": "ဓာတ်ပုံ သိပ်မရှင်းဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.02.04_B005",
           "priority": "core",
           "pinyin": null,
@@ -1160,7 +1436,14 @@
           "id": "07.02.04-S019",
           "text": "这个文件打不开。",
           "meaning_my": "ဒီဖိုင် ဖွင့်လို့မရဘူး။",
-          "replies": [],
+          "replies": [
+            {
+              "id": "07.02.04-S019_reply01",
+              "text": "我重新发一份。",
+              "meaning_my": "ဖိုင်ကို ပြန်ပို့ပေးမယ်။",
+              "source_ref": "user_original_07.02.04_B015"
+            }
+          ],
           "alternatives": [],
           "source_ref": "user_original_07.02.04_B004",
           "priority": "situational",
@@ -1186,8 +1469,20 @@
           "id": "07.02.04-S021",
           "text": "文件太大，发不过去。",
           "meaning_my": "ဖိုင်အရွယ်အစား ကြီးလွန်းလို့ ပို့လို့မရဘူး။",
-          "replies": [],
-          "alternatives": [],
+          "replies": [
+            {
+              "id": "07.02.04-S021_reply01",
+              "text": "压缩一下再试试。",
+              "meaning_my": "ဖိုင်ကို ချုံ့ပြီး ပြန်စမ်းကြည့်။"
+            }
+          ],
+          "alternatives": [
+            {
+              "id": "07.02.04-S021_alt01",
+              "text": "文件太大，发送失败了。",
+              "meaning_my": "ဖိုင်ကြီးလွန်းလို့ ပို့တာ မအောင်မြင်ဘူး။"
+            }
+          ],
           "source_ref": "user_original_07.02.04_B009",
           "priority": "situational",
           "pinyin": null,
@@ -1226,13 +1521,26 @@
           "text": "链接过期了。",
           "meaning_my": "လင့်ခ် သက်တမ်းကုန်သွားပြီ။",
           "replies": [],
-          "alternatives": [],
+          "alternatives": [
+            {
+              "id": "07.02.04-S024_alt01",
+              "text": "这个链接失效了。",
+              "meaning_my": "ဒီလင့်ခ် သုံးလို့မရတော့ဘူး။"
+            }
+          ],
           "source_ref": "user_addition_07.02.04_N13",
           "priority": "situational",
           "pinyin": null,
           "phonetic_my": null,
           "pronunciation_source": "not_generated",
-          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review"
+          "pronunciation_qa": "pending_mandarin_and_myanmar_teacher_review",
+          "notes": [
+            {
+              "type": "usage",
+              "text": "“链接过期”指链接有效期限已到，与暂时断网导致打不开不一定相同。",
+              "text_my": "“链接过期” က လင့်ခ်သက်တမ်းကုန်တာပါ။ အင်တာနက်ပြတ်လို့ ဖွင့်မရတာနဲ့ မတူနိုင်တယ်။"
+            }
+          ]
         },
         {
           "id": "07.02.04-S025",
@@ -1289,10 +1597,10 @@
   },
   "extras_summary": {
     "main": 95,
-    "replies": 0,
-    "alternatives": 0,
-    "notes": 0,
-    "total_audio": 95
+    "replies": 27,
+    "alternatives": 12,
+    "notes": 9,
+    "total_audio": 134
   },
   "quality_review": {
     "date": "2026-11-12",
@@ -1302,7 +1610,10 @@
       "sequential main IDs",
       "unique Chinese mains",
       "source IDs preserved",
-      "cross-topic exact duplicates checked against 40 other topics"
+      "cross-topic exact duplicates checked against 40 other topics",
+      "selective natural replies with unique IDs",
+      "similar variants only where meaningful",
+      "notes in both Chinese and Burmese"
     ],
     "native_burmese_review": "pending",
     "audio_status": "not_recorded"
