@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 3,
+  "updated_at": "2026-11-19T00:00:00Z",
   "type": "patterns",
   "title": "句型",
   "title_en": "Sentence Patterns",
-  "subtitle": "16 个分类 · 500 个实用中文句型；目录与分类包在线更新，下载后本地使用。",
-  "subtitle_en": "16 categories · 500 practical Chinese patterns; catalog and packs update online and work offline after download.",
+  "subtitle": "16 个分类 · 500 个中文句型 · 每个句型 3 张教学卡（缅甸学生视角）；需内容审校后发布。",
+  "subtitle_en": "16 categories · 500 Chinese sentence patterns · 3 learning pages per pattern, tailored for Myanmar learners. Draft pending editorial review.",
   "item_count": 500,
   "pack_count": 16,
   "prompt_template": {
-    "version": 1,
-    "url": "pattern-analysis-v1.txt",
-    "source_prompt": "content/patterns/prompts/pattern_analysis_v1.txt",
+    "version": 2,
+    "url": "pattern-analysis-v2.txt",
+    "source_prompt": "content/patterns/prompts/pattern_analysis_v2.txt",
     "sha256": "",
     "size": 0
   },
@@ -24,11 +24,11 @@
       "badge": "45",
       "preview": "身份、国籍和职业 / 陈述动作 / 陈述动作和对象",
       "target": "pattern_pack",
-      "data_url": "pattern-basic-statements-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-basic-statements-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 45,
-      "source_data": "content/patterns/packs/pattern_cat_01_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_01_v3.json"
     },
     {
       "id": "pattern_cat_02",
@@ -37,11 +37,11 @@
       "badge": "15",
       "preview": "在或不在某地 / 方位 / 去向",
       "target": "pattern_pack",
-      "data_url": "pattern-location-position-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-location-position-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 15,
-      "source_data": "content/patterns/packs/pattern_cat_02_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_02_v3.json"
     },
     {
       "id": "pattern_cat_03",
@@ -50,11 +50,11 @@
       "badge": "42",
       "preview": "一下子 / 尽量…… / 才……就……",
       "target": "pattern_pack",
-      "data_url": "pattern-time-order-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-time-order-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 42,
-      "source_data": "content/patterns/packs/pattern_cat_03_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_03_v3.json"
     },
     {
       "id": "pattern_cat_04",
@@ -63,11 +63,11 @@
       "badge": "42",
       "preview": "一般否定 / 过去否定 / 还没……（呢）",
       "target": "pattern_pack",
-      "data_url": "pattern-negation-modals-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-negation-modals-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 42,
-      "source_data": "content/patterns/packs/pattern_cat_04_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_04_v3.json"
     },
     {
       "id": "pattern_cat_05",
@@ -76,11 +76,11 @@
       "badge": "25",
       "preview": "动作完成 / 尝试短暂 / 持续状态",
       "target": "pattern_pack",
-      "data_url": "pattern-aspect-actions-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-aspect-actions-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 25,
-      "source_data": "content/patterns/packs/pattern_cat_05_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_05_v3.json"
     },
     {
       "id": "pattern_cat_06",
@@ -89,11 +89,11 @@
       "badge": "62",
       "preview": "疑问词表示任指 / 为什么不/怎么不 / 哪有……",
       "target": "pattern_pack",
-      "data_url": "pattern-questions-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-questions-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 62,
-      "source_data": "content/patterns/packs/pattern_cat_06_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_06_v3.json"
     },
     {
       "id": "pattern_cat_07",
@@ -102,11 +102,11 @@
       "badge": "49",
       "preview": "每人一个 / 至少 / 数量名词",
       "target": "pattern_pack",
-      "data_url": "pattern-quantity-time-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-quantity-time-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 49,
-      "source_data": "content/patterns/packs/pattern_cat_07_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_07_v3.json"
     },
     {
       "id": "pattern_cat_08",
@@ -115,11 +115,11 @@
       "badge": "58",
       "preview": "来得及 / 能否承受或完成 / 负担得起",
       "target": "pattern_pack",
-      "data_url": "pattern-complements-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-complements-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 58,
-      "source_data": "content/patterns/packs/pattern_cat_08_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_08_v3.json"
     },
     {
       "id": "pattern_cat_09",
@@ -128,11 +128,11 @@
       "badge": "18",
       "preview": "没有那么 / 越早越好 / 比较差距大小",
       "target": "pattern_pack",
-      "data_url": "pattern-comparisons-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-comparisons-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 18,
-      "source_data": "content/patterns/packs/pattern_cat_09_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_09_v3.json"
     },
     {
       "id": "pattern_cat_10",
@@ -141,11 +141,11 @@
       "badge": "24",
       "preview": "把字句基本结构 / “是……的”问句 / “是……的”强调",
       "target": "pattern_pack",
-      "data_url": "pattern-ba-bei-shide-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-ba-bei-shide-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 24,
-      "source_data": "content/patterns/packs/pattern_cat_10_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_10_v3.json"
     },
     {
       "id": "pattern_cat_11",
@@ -154,11 +154,11 @@
       "badge": "21",
       "preview": "帮助别人 / 让/叫人做 / 请人做",
       "target": "pattern_pack",
-      "data_url": "pattern-verb-frames-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-verb-frames-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 21,
-      "source_data": "content/patterns/packs/pattern_cat_11_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_11_v3.json"
     },
     {
       "id": "pattern_cat_12",
@@ -167,11 +167,11 @@
       "badge": "12",
       "preview": "跟/对某人说 / 使用工具 / 感兴趣",
       "target": "pattern_pack",
-      "data_url": "pattern-objects-prepositions-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-objects-prepositions-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 12,
-      "source_data": "content/patterns/packs/pattern_cat_12_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_12_v3.json"
     },
     {
       "id": "pattern_cat_13",
@@ -180,11 +180,11 @@
       "badge": "41",
       "preview": "要不是……就…… / 早知道……就…… / 幸好/幸亏",
       "target": "pattern_pack",
-      "data_url": "pattern-compound-sentences-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-compound-sentences-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 41,
-      "source_data": "content/patterns/packs/pattern_cat_13_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_13_v3.json"
     },
     {
       "id": "pattern_cat_14",
@@ -193,11 +193,11 @@
       "badge": "23",
       "preview": "赶紧/赶快…… / 动词什么动词 / 没关系/没事/没问题",
       "target": "pattern_pack",
-      "data_url": "pattern-spoken-tone-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-spoken-tone-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 23,
-      "source_data": "content/patterns/packs/pattern_cat_14_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_14_v3.json"
     },
     {
       "id": "pattern_cat_15",
@@ -206,11 +206,11 @@
       "badge": "18",
       "preview": "听说 / 没想到 / 看来",
       "target": "pattern_pack",
-      "data_url": "pattern-discourse-markers-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-discourse-markers-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 18,
-      "source_data": "content/patterns/packs/pattern_cat_15_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_15_v3.json"
     },
     {
       "id": "pattern_cat_16",
@@ -219,11 +219,11 @@
       "badge": "5",
       "preview": "某地有或没有 / 存在状态 / 出现",
       "target": "pattern_pack",
-      "data_url": "pattern-existential-special-v1.json",
-      "data_version": 1,
+      "data_url": "pattern-existential-special-v3.json",
+      "data_version": 3,
       "data_sha256": "",
       "item_count": 5,
-      "source_data": "content/patterns/packs/pattern_cat_16_v1.json"
+      "source_data": "content/patterns/packs/pattern_cat_16_v3.json"
     }
   ]
 }
