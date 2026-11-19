@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_13",
   "title": "复句与关联词",
   "subtitle": "41 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 41,
   "items": [
     {
@@ -21,7 +21,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示如果没有前面的情况，结果会不同，常谈已经发生的事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要不是你，我就迟到了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要不是你，我就迟到了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "要不是 + 条件，就 + 不同结果",
+                "note_zh": "表示如果没有前面的情况，结果会不同，常谈已经发生的事。",
+                "examples": [
+                  {
+                    "zh": "要不是你，我就迟到了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“要不是……就……”用于复合句与生活理由等场景。原句：“要不是你，我就迟到了。”。表示如果没有前面的情况，结果会不同，常谈已经发生的事。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要不是你，我就迟到了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_374",
@@ -36,7 +99,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "对已经发生的事情表示后悔或反思。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "早知道下雨，我就不来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "早知道下雨，我就不来了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "早知道 + 情况，就 + 不同做法/结果",
+                "note_zh": "对已经发生的事情表示后悔或反思。",
+                "examples": [
+                  {
+                    "zh": "早知道下雨，我就不来了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“早知道……就……”用于复合句与生活理由等场景。原句：“早知道下雨，我就不来了。”。对已经发生的事情表示后悔或反思。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "早知道下雨，我就不来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_208",
@@ -51,7 +177,70 @@
         "才",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明因为一个有利条件，才避免了坏结果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "幸亏你提醒我，我才没迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "幸亏你提醒我，我才没迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "幸好/幸亏 + 有利情况，才/不然 + 结果",
+                "note_zh": "说明因为一个有利条件，才避免了坏结果。",
+                "examples": [
+                  {
+                    "zh": "幸亏你提醒我，我才没迟到。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“幸好/幸亏”用于复合句与生活理由等场景。原句：“幸亏你提醒我，我才没迟到。”。说明因为一个有利条件，才避免了坏结果。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "幸亏你提醒我，我才没迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_359",
@@ -65,7 +254,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "口语可省略其中一个关联词。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "因为下雨，所以我没去。",
+                "my": "မိုးရွာလို့ မသွားခဲ့ဘူး။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "因为下雨，所以我没去。",
+                "my": "မိုးရွာလို့ မသွားခဲ့ဘူး။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "因为 + 原因，所以 + 结果",
+                "note_zh": "口语可省略其中一个关联词。",
+                "examples": [
+                  {
+                    "zh": "因为下雨，所以我没去。",
+                    "my": "မိုးရွာလို့ မသွားခဲ့ဘူး။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“因为所以”用于复合句与生活理由等场景。原句：“因为下雨，所以我没去。”。口语可省略其中一个关联词。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "因为下雨，所以我没去。",
+                "my": "မိုးရွာလို့ မသွားခဲ့ဘူး။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_422",
@@ -80,7 +332,70 @@
         "才",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用“才”强调结果正是由前面的原因造成。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "因为你帮我，我才成功。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "因为你帮我，我才成功。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "因为 + 原因，主语 + 才 + 结果 / 原因，所以才 + 结果",
+                "note_zh": "用“才”强调结果正是由前面的原因造成。",
+                "examples": [
+                  {
+                    "zh": "因为你帮我，我才成功。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“因为才/所以才”用于复合句与生活理由等场景。原句：“因为你帮我，我才成功。”。用“才”强调结果正是由前面的原因造成。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "因为你帮我，我才成功。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_159",
@@ -95,7 +410,70 @@
         "过",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先说一个情况，再补充限制或不同意见。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我想去，不过没时间。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我想去，不过没时间。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "小句，不过 + 小句",
+                "note_zh": "先说一个情况，再补充限制或不同意见。",
+                "examples": [
+                  {
+                    "zh": "我想去，不过没时间。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“不过”用于复合句与生活理由等场景。原句：“我想去，不过没时间。”。先说一个情况，再补充限制或不同意见。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我想去，不过没时间。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_160",
@@ -110,7 +488,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "担心意外情况时，用来问办法或说明后果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "万一下雨怎么办？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "万一下雨怎么办？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "万一 + 意外情况，怎么办/就 + 结果",
+                "note_zh": "担心意外情况时，用来问办法或说明后果。",
+                "examples": [
+                  {
+                    "zh": "万一下雨怎么办？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“万一”用于复合句与生活理由等场景。原句：“万一下雨怎么办？”。担心意外情况时，用来问办法或说明后果。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "万一下雨怎么办？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_195",
@@ -124,7 +565,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "提醒如果不这样做，会出现后果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快走，不然会迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快走，不然会迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "小句，不然/要不然 + 结果",
+                "note_zh": "提醒如果不这样做，会出现后果。",
+                "examples": [
+                  {
+                    "zh": "快走，不然会迟到。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“不然”用于复合句与生活理由等场景。原句：“快走，不然会迟到。”。提醒如果不这样做，会出现后果。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快走，不然会迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_234",
@@ -139,7 +643,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示一件事完成后，下一件事发生。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "下课以后，我就回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "下课以后，我就回家。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "小句 + 以后，就 + 结果",
+                "note_zh": "表示一件事完成后，下一件事发生。",
+                "examples": [
+                  {
+                    "zh": "下课以后，我就回家。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“以后就”用于复合句与生活理由等场景。原句：“下课以后，我就回家。”。表示一件事完成后，下一件事发生。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "下课以后，我就回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_292",
@@ -153,7 +720,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "对比开始时和后来发生的变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "一开始很难，后来就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "一开始很难，后来就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "一开始 + 小句，后来 + 小句",
+                "note_zh": "对比开始时和后来发生的变化。",
+                "examples": [
+                  {
+                    "zh": "一开始很难，后来就好了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“一开始后来”用于复合句与生活理由等场景。原句：“一开始很难，后来就好了。”。对比开始时和后来发生的变化。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "一开始很难，后来就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_342",
@@ -167,7 +797,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "把一组人或东西分成不同情况。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "有的人走，有的人留。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "有的人走，有的人留。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "有的 + A，有的 + B",
+                "note_zh": "把一组人或东西分成不同情况。",
+                "examples": [
+                  {
+                    "zh": "有的人走，有的人留。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“有的有的”用于复合句与生活理由等场景。原句：“有的人走，有的人留。”。把一组人或东西分成不同情况。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "有的人走，有的人留。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_363",
@@ -181,7 +874,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "前一动作表示移动，后一动作表示目的。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我去超市买东西。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我去超市买东西。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 去/来 + 地点 + 动词",
+                "note_zh": "前一动作表示移动，后一动作表示目的。",
+                "examples": [
+                  {
+                    "zh": "我去超市买东西。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“连动目的”用于复合句与生活理由等场景。原句：“我去超市买东西。”。前一动作表示移动，后一动作表示目的。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我去超市买东西。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_373",
@@ -196,7 +952,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "根据已经确定的事实提出结论。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "既然来了，就坐吧。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "既然来了，就坐吧。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "既然 + 已知情况，就 + 结论/建议",
+                "note_zh": "根据已经确定的事实提出结论。",
+                "examples": [
+                  {
+                    "zh": "既然来了，就坐吧。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“既然就”用于复合句与生活理由等场景。原句：“既然来了，就坐吧。”。根据已经确定的事实提出结论。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "既然来了，就坐吧。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_398",
@@ -211,7 +1030,70 @@
         "得",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "做前面的事，是为了避免后面的麻烦。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快穿衣服，免得感冒。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快穿衣服，免得感冒。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 动词，免得 + 不好结果",
+                "note_zh": "做前面的事，是为了避免后面的麻烦。",
+                "examples": [
+                  {
+                    "zh": "快穿衣服，免得感冒。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“免得”用于复合句与生活理由等场景。原句：“快穿衣服，免得感冒。”。做前面的事，是为了避免后面的麻烦。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快穿衣服，免得感冒。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_399",
@@ -226,7 +1108,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示通常只有这两种可能。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不是在家，就是在公司。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不是在家，就是在公司。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "不是 + A，就是 + B",
+                "note_zh": "表示通常只有这两种可能。",
+                "examples": [
+                  {
+                    "zh": "他不是在家，就是在公司。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“不是就是”用于复合句与生活理由等场景。原句：“他不是在家，就是在公司。”。表示通常只有这两种可能。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不是在家，就是在公司。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_450",
@@ -242,7 +1187,70 @@
         "才",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示为了达到目的才做某事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "为了见你，我才来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "为了见你，我才来。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "为了 + 目的，主语 + 才 + 动词",
+                "note_zh": "表示为了达到目的才做某事。",
+                "examples": [
+                  {
+                    "zh": "为了见你，我才来。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“为了才”用于复合句与生活理由等场景。原句：“为了见你，我才来。”。表示为了达到目的才做某事。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "为了见你，我才来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_451",
@@ -256,7 +1264,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "比较两种做法，认为B更好。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "与其等，不如先走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "与其等，不如先走。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "与其 + 做法A，不如 + 做法B",
+                "note_zh": "比较两种做法，认为B更好。",
+                "examples": [
+                  {
+                    "zh": "与其等，不如先走。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“与其不如”用于复合句与生活理由等场景。原句：“与其等，不如先走。”。比较两种做法，认为B更好。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "与其等，不如先走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_458",
@@ -271,7 +1342,70 @@
         "比",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先否定误解，再说明真实情况。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不是老师，而是医生。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不是老师，而是医生。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "不是 + A，而是 + B",
+                "note_zh": "先否定误解，再说明真实情况。",
+                "examples": [
+                  {
+                    "zh": "他不是老师，而是医生。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“纠正对比”用于复合句与生活理由等场景。原句：“他不是老师，而是医生。”。先否定误解，再说明真实情况。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不是老师，而是医生。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_484",
@@ -286,7 +1420,70 @@
         "了",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "把A排除，剩下的全部一样。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除了我以外，大家都来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除了我以外，大家都来了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "除了 + A + 以外，其他 + 都 + 谓语",
+                "note_zh": "把A排除，剩下的全部一样。",
+                "examples": [
+                  {
+                    "zh": "除了我以外，大家都来了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“除了都”用于复合句与生活理由等场景。原句：“除了我以外，大家都来了。”。把A排除，剩下的全部一样。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除了我以外，大家都来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_494",
@@ -301,7 +1498,70 @@
         "让/叫",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "前面的动作是为了让后面更容易发生。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我开窗，好让空气进来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我开窗，好让空气进来。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 动词，好让 + 人 + 动词",
+                "note_zh": "前面的动作是为了让后面更容易发生。",
+                "examples": [
+                  {
+                    "zh": "我开窗，好让空气进来。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“好让”用于复合句与生活理由等场景。原句：“我开窗，好让空气进来。”。前面的动作是为了让后面更容易发生。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我开窗，好让空气进来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_497",
@@ -315,7 +1575,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "宁愿选择A，也坚决不选择B。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我宁可走路，也不坐车。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我宁可走路，也不坐车。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "宁可 + A，也不 + B",
+                "note_zh": "宁愿选择A，也坚决不选择B。",
+                "examples": [
+                  {
+                    "zh": "我宁可走路，也不坐车。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“宁可也不”用于复合句与生活理由等场景。原句：“我宁可走路，也不坐车。”。宁愿选择A，也坚决不选择B。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我宁可走路，也不坐车。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_500",
@@ -329,7 +1652,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先说结果，再重点解释原因。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我之所以来，是因为你。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我之所以来，是因为你。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "之所以 + 结果，是因为 + 原因",
+                "note_zh": "先说结果，再重点解释原因。",
+                "examples": [
+                  {
+                    "zh": "我之所以来，是因为你。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“之所以是因为”用于复合句与生活理由等场景。原句：“我之所以来，是因为你。”。先说结果，再重点解释原因。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我之所以来，是因为你。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_348",
@@ -344,7 +1730,70 @@
         "又",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示同时有两个特点或做两件事；“既……又……”稍正式。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他又聪明又努力。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他又聪明又努力。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 又 + A + 又 + B / 既 + A + 又 + B",
+                "note_zh": "表示同时有两个特点或做两件事；“既……又……”稍正式。",
+                "examples": [
+                  {
+                    "zh": "他又聪明又努力。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“同时具备两项”用于复合句与生活理由等场景。原句：“他又聪明又努力。”。表示同时有两个特点或做两件事；“既……又……”稍正式。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他又聪明又努力。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_464",
@@ -358,7 +1807,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "强调意外或极端。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "连孩子都知道。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "连孩子都知道。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "连 + 极端项 + 都/也 + 谓语",
+                "note_zh": "强调意外或极端。",
+                "examples": [
+                  {
+                    "zh": "连孩子都知道。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“连…都…”用于复合句与生活理由等场景。原句：“连孩子都知道。”。强调意外或极端。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "连孩子都知道。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_361",
@@ -374,7 +1886,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表达希望现实变成另一种情况。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要是今天不下雨就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要是今天不下雨就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "要是 + 愿望条件 + 就好了",
+                "note_zh": "表达希望现实变成另一种情况。",
+                "examples": [
+                  {
+                    "zh": "要是今天不下雨就好了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“要是……就好了”用于复合句与生活理由等场景。原句：“要是今天不下雨就好了。”。表达希望现实变成另一种情况。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要是今天不下雨就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_465",
@@ -388,7 +1963,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "结果不受条件影响。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "不管多忙，我都来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "不管多忙，我都来。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "无论/不管 + 条件，都 + 结果",
+                "note_zh": "结果不受条件影响。",
+                "examples": [
+                  {
+                    "zh": "不管多忙，我都来。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“无论都”用于复合句与生活理由等场景。原句：“不管多忙，我都来。”。结果不受条件影响。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "不管多忙，我都来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_137",
@@ -403,7 +2041,70 @@
         "在",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明主句发生时的时间背景；加“正在”强调动作当时在进行。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我吃饭的时候，他来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我吃饭的时候，他来了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "（正在）+ 动词 + 的时候，主句",
+                "note_zh": "说明主句发生时的时间背景；加“正在”强调动作当时在进行。",
+                "examples": [
+                  {
+                    "zh": "我吃饭的时候，他来了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“……的时候”用于复合句与生活理由等场景。原句：“我吃饭的时候，他来了。”。说明主句发生时的时间背景；加“正在”强调动作当时在进行。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我吃饭的时候，他来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_171",
@@ -419,7 +2120,70 @@
         "从/到",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作到很晚或某个条件出现后才发生。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我直到十点才回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我直到十点才回家。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 直到 + 时间/事件 + 才 + 动词",
+                "note_zh": "表示动作到很晚或某个条件出现后才发生。",
+                "examples": [
+                  {
+                    "zh": "我直到十点才回家。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“直到……才……”用于复合句与生活理由等场景。原句：“我直到十点才回家。”。表示动作到很晚或某个条件出现后才发生。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我直到十点才回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_180",
@@ -434,7 +2198,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示第一件事刚发生，第二件事马上发生。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我刚到他就走了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我刚到他就走了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 刚 + 动词1 + 就 + 动词2",
+                "note_zh": "表示第一件事刚发生，第二件事马上发生。",
+                "examples": [
+                  {
+                    "zh": "我刚到他就走了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“刚……就……”用于复合句与生活理由等场景。原句：“我刚到他就走了。”。表示第一件事刚发生，第二件事马上发生。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我刚到他就走了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_204",
@@ -449,7 +2276,70 @@
         "再",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先等前面的条件完成，然后再做后面的事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "等雨停了再走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "等雨停了再走。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "等 + 条件/动作 + 以后，再 + 动词",
+                "note_zh": "先等前面的条件完成，然后再做后面的事。",
+                "examples": [
+                  {
+                    "zh": "等雨停了再走。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“等……再……”用于复合句与生活理由等场景。原句：“等雨停了再走。”。先等前面的条件完成，然后再做后面的事。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "等雨停了再走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_194",
@@ -464,7 +2354,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "提出条件和结果；“要是、的话”更口语。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要是有空的话，就来吧。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要是有空的话，就来吧。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "如果/要是 + 条件（的话），就 + 结果",
+                "note_zh": "提出条件和结果；“要是、的话”更口语。",
+                "examples": [
+                  {
+                    "zh": "要是有空的话，就来吧。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“如果/要是”用于复合句与生活理由等场景。原句：“要是有空的话，就来吧。”。提出条件和结果；“要是、的话”更口语。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要是有空的话，就来吧。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_461",
@@ -479,7 +2432,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "这个条件做到，后面的结果通常就会出现。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "只要努力，就会进步。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "只要努力，就会进步。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "只要 + 条件，就 + 结果",
+                "note_zh": "这个条件做到，后面的结果通常就会出现。",
+                "examples": [
+                  {
+                    "zh": "只要努力，就会进步。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“只要就”用于复合句与生活理由等场景。原句：“只要努力，就会进步。”。这个条件做到，后面的结果通常就会出现。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "只要努力，就会进步。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_462",
@@ -494,7 +2510,70 @@
         "才",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "必须满足这个条件，后面的结果才会出现。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "只有练习，才能说得好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "只有练习，才能说得好。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "只有 + 条件，才 + 结果",
+                "note_zh": "必须满足这个条件，后面的结果才会出现。",
+                "examples": [
+                  {
+                    "zh": "只有练习，才能说得好。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“只有才”用于复合句与生活理由等场景。原句：“只有练习，才能说得好。”。必须满足这个条件，后面的结果才会出现。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "只有练习，才能说得好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_469",
@@ -509,7 +2588,70 @@
         "才",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示必须满足这个条件；也可说明不满足条件会有什么后果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除非你来，我才去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除非你来，我才去。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "除非 + 条件，才 + 结果 / 不然 + 后果",
+                "note_zh": "表示必须满足这个条件；也可说明不满足条件会有什么后果。",
+                "examples": [
+                  {
+                    "zh": "除非你来，我才去。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“除非”用于复合句与生活理由等场景。原句：“除非你来，我才去。”。表示必须满足这个条件；也可说明不满足条件会有什么后果。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除非你来，我才去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_476",
@@ -524,7 +2666,70 @@
         "就",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示某种情况一出现，结果就跟着出现。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "每当下雨，我就回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "每当下雨，我就回家。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "每当 + 情况 + 就 + 结果",
+                "note_zh": "表示某种情况一出现，结果就跟着出现。",
+                "examples": [
+                  {
+                    "zh": "每当下雨，我就回家。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“每当就”用于复合句与生活理由等场景。原句：“每当下雨，我就回家。”。表示某种情况一出现，结果就跟着出现。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "每当下雨，我就回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_362",
@@ -539,7 +2744,70 @@
         "了",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示添加或排除。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除了中文，他还会英语。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除了中文，他还会英语。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "除了 + A，还/也 + B",
+                "note_zh": "表示添加或排除。",
+                "examples": [
+                  {
+                    "zh": "除了中文，他还会英语。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“除了还”用于复合句与生活理由等场景。原句：“除了中文，他还会英语。”。表示添加或排除。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "除了中文，他还会英语。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_370",
@@ -555,7 +2823,70 @@
         "让/叫",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "条件再困难或再极端，结果仍然不变；“就算、哪怕”更口语。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "就算下雨，我也去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "就算下雨，我也去。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "即使/就算/哪怕 + 条件，也 + 结果",
+                "note_zh": "条件再困难或再极端，结果仍然不变；“就算、哪怕”更口语。",
+                "examples": [
+                  {
+                    "zh": "就算下雨，我也去。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“让步条件”用于复合句与生活理由等场景。原句：“就算下雨，我也去。”。条件再困难或再极端，结果仍然不变；“就算、哪怕”更口语。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "就算下雨，我也去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_372",
@@ -570,7 +2901,70 @@
         "再",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示条件即使进一步变化，后面的结果仍然不变。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "再忙也要吃饭。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "再忙也要吃饭。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "再 + 形容词/动词 + 也 + 结果",
+                "note_zh": "表示条件即使进一步变化，后面的结果仍然不变。",
+                "examples": [
+                  {
+                    "zh": "再忙也要吃饭。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“再……也……”用于复合句与生活理由等场景。原句：“再忙也要吃饭。”。表示条件即使进一步变化，后面的结果仍然不变。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "再忙也要吃饭。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_360",
@@ -585,7 +2979,70 @@
         "让/叫",
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "后句常有“还、还是、却”。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "虽然很累，但是我还得工作。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "虽然很累，但是我还得工作。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "虽然 + 让步，但是/可是 + 结果",
+                "note_zh": "后句常有“还、还是、却”。",
+                "examples": [
+                  {
+                    "zh": "虽然很累，但是我还得工作。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“虽然但是”用于复合句与生活理由等场景。原句：“虽然很累，但是我还得工作。”。后句常有“还、还是、却”。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "虽然很累，但是我还得工作。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_266",
@@ -599,7 +3056,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "陈述可选办法时用“或者”；“要么……要么……”语气更明确。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要么走，要么等。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要么走，要么等。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "或者 + A，或者 + B / 要么 + A，要么 + B",
+                "note_zh": "陈述可选办法时用“或者”；“要么……要么……”语气更明确。",
+                "examples": [
+                  {
+                    "zh": "要么走，要么等。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“陈述选择”用于复合句与生活理由等场景。原句：“要么走，要么等。”。陈述可选办法时用“或者”；“要么……要么……”语气更明确。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要么走，要么等。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_463",
@@ -613,7 +3133,70 @@
       "focus_tags": [
         "前后句关系"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "后项进一步。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不但会中文，还会日语。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "前后句需具有真实的条件、因果、转折或递进关系。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不但会中文，还会日语。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "不但/不仅 + A，而且/还 + B",
+                "note_zh": "后项进一步。",
+                "examples": [
+                  {
+                    "zh": "他不但会中文，还会日语。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“不但而且”用于复合句与生活理由等场景。原句：“他不但会中文，还会日语。”。后项进一步。 前后句需具有真实的条件、因果、转折或递进关系。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他不但会中文，还会日语。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }

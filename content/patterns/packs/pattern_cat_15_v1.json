@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_15",
   "title": "高频话语标记",
   "subtitle": "18 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 18,
   "items": [
     {
@@ -20,7 +20,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明信息是从别人那里听来的。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "听说他结婚了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "听说他结婚了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "听说 + 小句",
+                "note_zh": "说明信息是从别人那里听来的。",
+                "examples": [
+                  {
+                    "zh": "听说他结婚了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“听说”用于会话衔接和态度等场景。原句：“听说他结婚了。”。说明信息是从别人那里听来的。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "听说他结婚了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_198",
@@ -35,7 +98,70 @@
         "从/到",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示结果出乎预料。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "没想到他来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "没想到他来了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "没想到 + 小句",
+                "note_zh": "表示结果出乎预料。",
+                "examples": [
+                  {
+                    "zh": "没想到他来了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“没想到”用于会话衔接和态度等场景。原句：“没想到他来了。”。表示结果出乎预料。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "没想到他来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_236",
@@ -49,7 +175,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "根据眼前情况作判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "看来要下雨了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "看来要下雨了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "看来/看样子 + 小句",
+                "note_zh": "根据眼前情况作判断。",
+                "examples": [
+                  {
+                    "zh": "看来要下雨了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“看来”用于会话衔接和态度等场景。原句：“看来要下雨了。”。根据眼前情况作判断。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "看来要下雨了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_199",
@@ -64,7 +253,70 @@
         "得",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "知道原因后表示恍然大悟。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "难怪他没来，原来病了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "难怪他没来，原来病了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "怪不得/难怪 + 小句，原来 + 原因",
+                "note_zh": "知道原因后表示恍然大悟。",
+                "examples": [
+                  {
+                    "zh": "难怪他没来，原来病了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怪不得/难怪”用于会话衔接和态度等场景。原句：“难怪他没来，原来病了。”。知道原因后表示恍然大悟。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "难怪他没来，原来病了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_392",
@@ -79,7 +331,70 @@
         "就",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作突然、干脆，或事情变化很快。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说走就走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说走就走。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 说 + 动词 + 就 + 动词",
+                "note_zh": "表示动作突然、干脆，或事情变化很快。",
+                "examples": [
+                  {
+                    "zh": "他说走就走。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“说……就……”用于会话衔接和态度等场景。原句：“他说走就走。”。表示动作突然、干脆，或事情变化很快。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说走就走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_393",
@@ -95,7 +410,70 @@
         "就",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "前一种通常表示事情几乎发生但最后没发生；“差点儿没……”常表示好结果险些没实现、最后实现了，具体仍要看语境。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我差点儿迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我差点儿迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 差点儿（就）+ 动词（了） / 差点儿没 + 动词",
+                "note_zh": "前一种通常表示事情几乎发生但最后没发生；“差点儿没……”常表示好结果险些没实现、最后实现了，具体仍要看语境。",
+                "examples": [
+                  {
+                    "zh": "我差点儿迟到。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“差点儿”用于会话衔接和态度等场景。原句：“我差点儿迟到。”。前一种通常表示事情几乎发生但最后没发生；“差点儿没……”常表示好结果险些没实现、最后实现了，具体仍要看语境。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我差点儿迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_186",
@@ -109,7 +487,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用来说明真实情况，常和别人想的不一样。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "其实我知道。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "其实我知道。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "其实 + 小句",
+                "note_zh": "用来说明真实情况，常和别人想的不一样。",
+                "examples": [
+                  {
+                    "zh": "其实我知道。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“其实”用于会话衔接和态度等场景。原句：“其实我知道。”。用来说明真实情况，常和别人想的不一样。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "其实我知道。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_189",
@@ -123,7 +564,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明一段时间以后发生的事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "后来他回来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "后来他回来了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "后来 + 小句",
+                "note_zh": "说明一段时间以后发生的事。",
+                "examples": [
+                  {
+                    "zh": "后来他回来了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“后来”用于会话衔接和态度等场景。原句：“后来他回来了。”。说明一段时间以后发生的事。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "后来他回来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_224",
@@ -137,7 +641,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "直接说事情最后变成什么样。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "结果我们输了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "结果我们输了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "结果 + 小句",
+                "note_zh": "直接说事情最后变成什么样。",
+                "examples": [
+                  {
+                    "zh": "结果我们输了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果”用于会话衔接和态度等场景。原句：“结果我们输了。”。直接说事情最后变成什么样。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "结果我们输了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_225",
@@ -152,7 +719,70 @@
         "比",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用一个或几个例子帮助说明。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我喜欢水果，比如苹果。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我喜欢水果，比如苹果。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "比如 + 名词/小句",
+                "note_zh": "用一个或几个例子帮助说明。",
+                "examples": [
+                  {
+                    "zh": "我喜欢水果，比如苹果。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“比如”用于会话衔接和态度等场景。原句：“我喜欢水果，比如苹果。”。用一个或几个例子帮助说明。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我喜欢水果，比如苹果。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_286",
@@ -166,7 +796,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明原来的情况、计划或应该的情况。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我本来想去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我本来想去。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 本来 + 小句",
+                "note_zh": "说明原来的情况、计划或应该的情况。",
+                "examples": [
+                  {
+                    "zh": "我本来想去。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“本来”用于会话衔接和态度等场景。原句：“我本来想去。”。说明原来的情况、计划或应该的情况。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我本来想去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_390",
@@ -180,7 +873,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示不管前面怎样，结论都一样。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "反正我不去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "反正我不去。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "反正 + 小句",
+                "note_zh": "表示不管前面怎样，结论都一样。",
+                "examples": [
+                  {
+                    "zh": "反正我不去。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“反正”用于会话衔接和态度等场景。原句：“反正我不去。”。表示不管前面怎样，结论都一样。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "反正我不去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_489",
@@ -194,7 +950,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示和预想不同，或先肯定一点再补充。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他倒是很安静。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他倒是很安静。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 倒是 + 后面的说明",
+                "note_zh": "表示和预想不同，或先肯定一点再补充。",
+                "examples": [
+                  {
+                    "zh": "他倒是很安静。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“倒是”用于会话衔接和态度等场景。原句：“他倒是很安静。”。表示和预想不同，或先肯定一点再补充。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他倒是很安静。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_337",
@@ -208,7 +1027,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "从一组内容中突出最需要注意的一项。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我喜欢水果，尤其是苹果。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我喜欢水果，尤其是苹果。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "特别是/尤其是 + 名词/小句",
+                "note_zh": "从一组内容中突出最需要注意的一项。",
+                "examples": [
+                  {
+                    "zh": "我喜欢水果，尤其是苹果。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“特别强调一项”用于会话衔接和态度等场景。原句：“我喜欢水果，尤其是苹果。”。从一组内容中突出最需要注意的一项。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我喜欢水果，尤其是苹果。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_187",
@@ -222,7 +1104,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先说明接下来要说真实想法，也常用于委婉表达不同意见。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "说实话，我不喜欢。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "说实话，我不喜欢。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "说实话/老实说 + 小句",
+                "note_zh": "先说明接下来要说真实想法，也常用于委婉表达不同意见。",
+                "examples": [
+                  {
+                    "zh": "说实话，我不喜欢。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“说实话/老实说”用于会话衔接和态度等场景。原句：“说实话，我不喜欢。”。先说明接下来要说真实想法，也常用于委婉表达不同意见。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "说实话，我不喜欢。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_188",
@@ -237,7 +1182,70 @@
         "了",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "突然想起一件事，或自然转换话题。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "对了，你明天去吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "对了，你明天去吗？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "对了，+ 小句",
+                "note_zh": "突然想起一件事，或自然转换话题。",
+                "examples": [
+                  {
+                    "zh": "对了，你明天去吗？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“对了”用于会话衔接和态度等场景。原句：“对了，你明天去吗？”。突然想起一件事，或自然转换话题。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "对了，你明天去吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_207",
@@ -252,7 +1260,70 @@
         "才",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "强调经过很多困难或等待，最后才做到。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我好不容易才买到票。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我好不容易才买到票。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 好不容易才 + 动词",
+                "note_zh": "强调经过很多困难或等待，最后才做到。",
+                "examples": [
+                  {
+                    "zh": "我好不容易才买到票。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“好不容易才”用于会话衔接和态度等场景。原句：“我好不容易才买到票。”。强调经过很多困难或等待，最后才做到。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我好不容易才买到票。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_391",
@@ -267,7 +1338,70 @@
         "就",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示很容易或经常出现某种情况，常带不满。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他动不动就生气。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "结合前一句和说话意图理解，不能只看字面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他动不动就生气。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 动不动就 + 动词",
+                "note_zh": "表示很容易或经常出现某种情况，常带不满。",
+                "examples": [
+                  {
+                    "zh": "他动不动就生气。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“动不动就……”用于会话衔接和态度等场景。原句：“他动不动就生气。”。表示很容易或经常出现某种情况，常带不满。 结合前一句和说话意图理解，不能只看字面。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他动不动就生气。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }

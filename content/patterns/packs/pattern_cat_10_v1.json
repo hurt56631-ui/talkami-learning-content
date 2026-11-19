@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_10",
   "title": "把字句、被字句与“是……的”",
   "subtitle": "24 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 24,
   "items": [
     {
@@ -20,7 +20,70 @@
       "focus_tags": [
         "把"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“把”把明确宾语提前；动词后通常还要有结果、地点、数量或动态成分。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门关上。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门关上。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 结果/地点/数量等",
+                "note_zh": "“把”把明确宾语提前；动词后通常还要有结果、地点、数量或动态成分。",
+                "examples": [
+                  {
+                    "zh": "请把门关上。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字句基本结构”用于处置、被动和过去细节等场景。原句：“请把门关上。”。“把”把明确宾语提前；动词后通常还要有结果、地点、数量或动态成分。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门关上。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_231",
@@ -34,7 +97,70 @@
       "focus_tags": [
         "在"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问已经发生事情的施事、方式、地点或时间。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你是怎么来的？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你是怎么来的？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 是 + 谁/怎么/在哪儿/什么时候 + 动词 + 的",
+                "note_zh": "询问已经发生事情的施事、方式、地点或时间。",
+                "examples": [
+                  {
+                    "zh": "你是怎么来的？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型““是……的”问句”用于处置、被动和过去细节等场景。原句：“你是怎么来的？”。询问已经发生事情的施事、方式、地点或时间。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你是怎么来的？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_349",
@@ -46,7 +172,70 @@
       "teaching_type": "function_word",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用于已经发生的事情，强调时间、地点、方式或做事的人。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我是昨天来的。",
+                "my": "ကျွန်တော်/ကျွန်မ မနေ့က လာခဲ့တာပါ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我是昨天来的。",
+                "my": "ကျွန်တော်/ကျွန်မ မနေ့က လာခဲ့တာပါ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 是 + 时间/地点/方式/人物 + 动词 + 的",
+                "note_zh": "用于已经发生的事情，强调时间、地点、方式或做事的人。",
+                "examples": [
+                  {
+                    "zh": "我是昨天来的。",
+                    "my": "ကျွန်တော်/ကျွန်မ မနေ့က လာခဲ့တာပါ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型““是……的”强调”用于处置、被动和过去细节等场景。原句：“我是昨天来的。”。用于已经发生的事情，强调时间、地点、方式或做事的人。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我是昨天来的。",
+                "my": "ကျွန်တော်/ကျွန်မ မနေ့က လာခဲ့တာပါ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_482",
@@ -61,7 +250,70 @@
         "了",
         "才"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用“是……的”突出做事的原因或目的。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我是为了你才来的。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我是为了你才来的。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 是因为/为了 + 原因/目的 + 才 + 动词 + 的",
+                "note_zh": "用“是……的”突出做事的原因或目的。",
+                "examples": [
+                  {
+                    "zh": "我是为了你才来的。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“强调原因或目的”用于处置、被动和过去细节等场景。原句：“我是为了你才来的。”。用“是……的”突出做事的原因或目的。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我是为了你才来的。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_344",
@@ -77,7 +329,70 @@
         "在",
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明处理以后东西到了哪里。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把书放在桌上。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把书放在桌上。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 在/到 + 地点",
+                "note_zh": "说明处理以后东西到了哪里。",
+                "examples": [
+                  {
+                    "zh": "我把书放在桌上。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字位置”用于处置、被动和过去细节等场景。原句：“我把书放在桌上。”。说明处理以后东西到了哪里。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把书放在桌上。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_355",
@@ -89,7 +404,70 @@
       "teaching_type": "function_word",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问已发生事情的时间、地点、方式等。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你是不是坐车来的？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你是不是坐车来的？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 是不是 + 强调部分 + 动词 + 的",
+                "note_zh": "询问已发生事情的时间、地点、方式等。",
+                "examples": [
+                  {
+                    "zh": "你是不是坐车来的？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“是不是强调”用于处置、被动和过去细节等场景。原句：“你是不是坐车来的？”。询问已发生事情的时间、地点、方式等。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你是不是坐车来的？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_369",
@@ -104,7 +482,70 @@
         "把",
         "给"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明把某物处理后给了谁。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把礼物送给他。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把礼物送给他。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 给 + 人",
+                "note_zh": "说明把某物处理后给了谁。",
+                "examples": [
+                  {
+                    "zh": "我把礼物送给他。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字给予”用于处置、被动和过去细节等场景。原句：“我把礼物送给他。”。说明把某物处理后给了谁。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把礼物送给他。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_396",
@@ -119,7 +560,70 @@
         "把",
         "了"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“了”可以使把字句完整，但初学时优先使用“关上、写完、放好”等结果补语更自然。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把饭吃了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把饭吃了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 明确宾语 + 动词 + 了",
+                "note_zh": "“了”可以使把字句完整，但初学时优先使用“关上、写完、放好”等结果补语更自然。",
+                "examples": [
+                  {
+                    "zh": "我把饭吃了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字句的完成”用于处置、被动和过去细节等场景。原句：“我把饭吃了。”。“了”可以使把字句完整，但初学时优先使用“关上、写完、放好”等结果补语更自然。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把饭吃了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_397",
@@ -133,7 +637,70 @@
       "focus_tags": [
         "把"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明处理后变成什么。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把水冻成冰。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把水冻成冰。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 成 + 结果",
+                "note_zh": "说明处理后变成什么。",
+                "examples": [
+                  {
+                    "zh": "他把水冻成冰。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字变成”用于处置、被动和过去细节等场景。原句：“他把水冻成冰。”。说明处理后变成什么。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把水冻成冰。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_420",
@@ -147,7 +714,70 @@
       "focus_tags": [
         "把"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明把东西朝说话人方向或远离说话人移动。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把书拿过来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把书拿过来。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 来/去",
+                "note_zh": "说明把东西朝说话人方向或远离说话人移动。",
+                "examples": [
+                  {
+                    "zh": "把书拿过来。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字方向”用于处置、被动和过去细节等场景。原句：“把书拿过来。”。说明把东西朝说话人方向或远离说话人移动。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把书拿过来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_445",
@@ -161,7 +791,70 @@
       "focus_tags": [
         "把"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用于礼貌、短暂地处理某物。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门开一下。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门开一下。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 一下",
+                "note_zh": "用于礼貌、短暂地处理某物。",
+                "examples": [
+                  {
+                    "zh": "请把门开一下。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字短动作”用于处置、被动和过去细节等场景。原句：“请把门开一下。”。用于礼貌、短暂地处理某物。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门开一下。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_447",
@@ -176,7 +869,70 @@
         "被",
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "否定过去发生的被动动作。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他没被发现。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他没被发现。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受到影响的人/物 + 没被 + 动词",
+                "note_zh": "否定过去发生的被动动作。",
+                "examples": [
+                  {
+                    "zh": "他没被发现。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“没被”用于处置、被动和过去细节等场景。原句：“他没被发现。”。否定过去发生的被动动作。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他没被发现。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_448",
@@ -188,7 +944,70 @@
       "teaching_type": "function_word",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "否定已发生事情的时间、地点、方式或人物。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不是昨天来的。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不是昨天来的。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 不是 + 强调部分 + 动词 + 的",
+                "note_zh": "否定已发生事情的时间、地点、方式或人物。",
+                "examples": [
+                  {
+                    "zh": "我不是昨天来的。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“不是强调”用于处置、被动和过去细节等场景。原句：“我不是昨天来的。”。否定已发生事情的时间、地点、方式或人物。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不是昨天来的。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_455",
@@ -202,7 +1021,70 @@
       "focus_tags": [
         "把"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "否定词放“把”前。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没把作业写完。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没把作业写完。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 没/别 + 把 + 宾语 + 动词",
+                "note_zh": "否定词放“把”前。",
+                "examples": [
+                  {
+                    "zh": "我没把作业写完。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字否定”用于处置、被动和过去细节等场景。原句：“我没把作业写完。”。否定词放“把”前。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没把作业写完。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_456",
@@ -216,7 +1098,70 @@
       "focus_tags": [
         "把"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“能、会、想、要”等词放“把”前。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你能把声音调小一点吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你能把声音调小一点吗？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 能愿动词 + 把 + 宾语 + 动词",
+                "note_zh": "“能、会、想、要”等词放“把”前。",
+                "examples": [
+                  {
+                    "zh": "你能把声音调小一点吗？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字能愿”用于处置、被动和过去细节等场景。原句：“你能把声音调小一点吗？”。“能、会、想、要”等词放“把”前。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你能把声音调小一点吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_468",
@@ -232,7 +1177,70 @@
         "在",
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明被动动作后的地点。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "杯子被放在桌上。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "杯子被放在桌上。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受到影响的人/物 + 被 + 动词 + 到/在 + 地点",
+                "note_zh": "说明被动动作后的地点。",
+                "examples": [
+                  {
+                    "zh": "杯子被放在桌上。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“被放到”用于处置、被动和过去细节等场景。原句：“杯子被放在桌上。”。说明被动动作后的地点。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "杯子被放在桌上。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_479",
@@ -249,7 +1257,70 @@
         "给",
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "很口语，常表示不希望的事情发生了。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "手机给弄丢了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "手机给弄丢了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受到影响的人/物 + 给 + 动词 + 了",
+                "note_zh": "很口语，常表示不希望的事情发生了。",
+                "examples": [
+                  {
+                    "zh": "手机给弄丢了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“给字被动”用于处置、被动和过去细节等场景。原句：“手机给弄丢了。”。很口语，常表示不希望的事情发生了。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "手机给弄丢了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_480",
@@ -264,7 +1335,70 @@
         "被",
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明被处理以后变成什么。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这本书被翻译成英文。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这本书被翻译成英文。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受到影响的人/物 + 被 + 动词 + 成 + 结果",
+                "note_zh": "说明被处理以后变成什么。",
+                "examples": [
+                  {
+                    "zh": "这本书被翻译成英文。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“被变成”用于处置、被动和过去细节等场景。原句：“这本书被翻译成英文。”。说明被处理以后变成什么。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这本书被翻译成英文。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_481",
@@ -280,7 +1414,70 @@
         "得",
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明被某件事弄成什么状态。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我被他气得不说话了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我被他气得不说话了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受到影响的人/物 + 被 + 动词 + 得 + 状态",
+                "note_zh": "说明被某件事弄成什么状态。",
+                "examples": [
+                  {
+                    "zh": "我被他气得不说话了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“被弄得”用于处置、被动和过去细节等场景。原句：“我被他气得不说话了。”。说明被某件事弄成什么状态。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我被他气得不说话了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_487",
@@ -295,7 +1492,70 @@
         "被",
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示将来或可能发生的被动情况。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里可能被关闭。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里可能被关闭。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受到影响的人/物 + 会/可能被 + 动词",
+                "note_zh": "表示将来或可能发生的被动情况。",
+                "examples": [
+                  {
+                    "zh": "这里可能被关闭。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可能被”用于处置、被动和过去细节等场景。原句：“这里可能被关闭。”。表示将来或可能发生的被动情况。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里可能被关闭。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_496",
@@ -310,7 +1570,70 @@
         "把",
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明处理后造成什么状态。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把房间打扫得很干净。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把房间打扫得很干净。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 得 + 状态",
+                "note_zh": "说明处理后造成什么状态。",
+                "examples": [
+                  {
+                    "zh": "他把房间打扫得很干净。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字状态”用于处置、被动和过去细节等场景。原句：“他把房间打扫得很干净。”。说明处理后造成什么状态。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把房间打扫得很干净。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_498",
@@ -325,7 +1648,70 @@
         "把",
         "着"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示让某物保持某种状态。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你把门开着。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你把门开着。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 把 + 宾语 + 动词 + 着",
+                "note_zh": "表示让某物保持某种状态。",
+                "examples": [
+                  {
+                    "zh": "你把门开着。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“把字持续”用于处置、被动和过去细节等场景。原句：“你把门开着。”。表示让某物保持某种状态。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你把门开着。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_446",
@@ -340,7 +1726,70 @@
         "被",
         "让/叫"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "口语中用“让、叫”表示被动，常说明受到某种影响。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "书叫他拿走了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "书叫他拿走了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受事 + 让/叫 + 施事 + 动词",
+                "note_zh": "口语中用“让、叫”表示被动，常说明受到某种影响。",
+                "examples": [
+                  {
+                    "zh": "书叫他拿走了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“让/叫字被动”用于处置、被动和过去细节等场景。原句：“书叫他拿走了。”。口语中用“让、叫”表示被动，常说明受到某种影响。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "书叫他拿走了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_457",
@@ -354,7 +1803,70 @@
       "focus_tags": [
         "被"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先说受影响的人或东西；不知道或不想说施事时可以省略。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "手机被偷了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "留意功能词修饰范围，语序或否定位置变化可能改变意义。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "手机被偷了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "受事 + 被 +（施事）+ 动词 + 其他成分",
+                "note_zh": "先说受影响的人或东西；不知道或不想说施事时可以省略。",
+                "examples": [
+                  {
+                    "zh": "手机被偷了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“被字句基本形式”用于处置、被动和过去细节等场景。原句：“手机被偷了。”。先说受影响的人或东西；不知道或不想说施事时可以省略。 留意功能词修饰范围，语序或否定位置变化可能改变意义。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "手机被偷了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }

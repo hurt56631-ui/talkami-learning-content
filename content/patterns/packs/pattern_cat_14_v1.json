@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_14",
   "title": "口语语气与回应",
   "subtitle": "23 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 23,
   "items": [
     {
@@ -20,7 +20,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "催促自己或别人立刻行动。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "赶紧回家吧。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "赶紧回家吧。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "赶紧/赶快 + 动词",
+                "note_zh": "催促自己或别人立刻行动。",
+                "examples": [
+                  {
+                    "zh": "赶紧回家吧。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“赶紧/赶快……”用于口语语气与回应等场景。原句：“赶紧回家吧。”。催促自己或别人立刻行动。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "赶紧回家吧。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_412",
@@ -34,7 +97,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "口语反问，表示没有必要这样做，常带催促或不耐烦。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "急什么急？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "急什么急？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 什么 + 动词",
+                "note_zh": "口语反问，表示没有必要这样做，常带催促或不耐烦。",
+                "examples": [
+                  {
+                    "zh": "急什么急？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“动词什么动词”用于口语语气与回应等场景。原句：“急什么急？”。口语反问，表示没有必要这样做，常带催促或不耐烦。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "急什么急？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_082",
@@ -48,7 +174,126 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "回应道歉、安慰别人或表示可以处理。三者语气和场景略有不同。",
+            "note_my": "“没关系”用于回应道歉；“没问题”可接受请求。",
+            "items": [
+              {
+                "zh": "没关系。",
+                "my": "ရပါတယ်။"
+              },
+              {
+                "zh": "对不起！没关系。",
+                "my": "တောင်းပန်ပါတယ်။ ရပါတယ်။"
+              },
+              {
+                "zh": "我帮你，没问题。",
+                "my": "ကူပေးမယ်၊ ပြဿနာမရှိဘူး။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "“没关系”用于回应道歉；“没问题”可接受请求。",
+            "items": [
+              {
+                "zh": "对不起！没关系。",
+                "my": "တောင်းပန်ပါတယ်။ ရပါတယ်။"
+              },
+              {
+                "zh": "我帮你，没问题。",
+                "my": "ကူပေးမယ်၊ ပြဿနာမရှိဘူး။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "没关系/没事/没问题",
+                "note_zh": "回应道歉、安慰别人或表示可以处理。三者语气和场景略有不同。",
+                "examples": [
+                  {
+                    "zh": "没关系。",
+                    "my": "ရပါတယ်။"
+                  },
+                  {
+                    "zh": "对不起！没关系。",
+                    "my": "တောင်းပန်ပါတယ်။ ရပါတယ်။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "没问题 / 没事",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "对不起！没关系。",
+                    "my": "တောင်းပန်ပါတယ်။ ရပါတယ်။"
+                  },
+                  {
+                    "zh": "我帮你，没问题。",
+                    "my": "ကူပေးမယ်၊ ပြဿနာမရှိဘူး။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“没关系/没事/没问题”用于口语语气与回应等场景。原句：“没关系。”。回应道歉、安慰别人或表示可以处理。三者语气和场景略有不同。 注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "对不起！没关系。",
+                "my": "တောင်းပန်ပါတယ်။ ရပါတယ်။"
+              },
+              {
+                "zh": "我帮你，没问题。",
+                "my": "ကူပေးမယ်၊ ပြဿနာမရှိဘူး။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "不好意思，我迟到了。",
+                    "my": "တောင်းပန်ပါတယ်၊ နောက်ကျသွားတယ်။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "没关系。",
+                    "my": "ရပါတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "我没关系你。",
+                "correct": "没关系。",
+                "note_zh": "“没关系”常独立回应道歉。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_049",
@@ -63,7 +308,126 @@
         "吧",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "比较过以后提出较合适的建议。",
+            "note_my": "“还是……吧”表示权衡后的建议。",
+            "items": [
+              {
+                "zh": "我们还是走吧。",
+                "my": "ကျွန်တော်တို့ သွားကြတာပဲ ကောင်းမယ်။"
+              },
+              {
+                "zh": "我们还是坐车吧。",
+                "my": "ကားစီးသွားတာပဲ ကောင်းမယ်။"
+              },
+              {
+                "zh": "你还是早点睡吧。",
+                "my": "စောစောအိပ်တာ ပိုကောင်းမယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "“还是……吧”表示权衡后的建议。",
+            "items": [
+              {
+                "zh": "我们还是坐车吧。",
+                "my": "ကားစီးသွားတာပဲ ကောင်းမယ်။"
+              },
+              {
+                "zh": "你还是早点睡吧。",
+                "my": "စောစောအိပ်တာ ပိုကောင်းမယ်။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 还是 + 动词 + 吧",
+                "note_zh": "比较过以后提出较合适的建议。",
+                "examples": [
+                  {
+                    "zh": "我们还是走吧。",
+                    "my": "ကျွန်တော်တို့ သွားကြတာပဲ ကောင်းမယ်။"
+                  },
+                  {
+                    "zh": "我们还是坐车吧。",
+                    "my": "ကားစီးသွားတာပဲ ကောင်းမယ်။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你 + 还是 + 动词 + 吧",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "我们还是坐车吧。",
+                    "my": "ကားစီးသွားတာပဲ ကောင်းမယ်။"
+                  },
+                  {
+                    "zh": "你还是早点睡吧。",
+                    "my": "စောစောအိပ်တာ ပိုကောင်းမယ်။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“还是……吧”用于口语语气与回应等场景。原句：“我们还是走吧。”。比较过以后提出较合适的建议。 注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们还是坐车吧。",
+                "my": "ကားစီးသွားတာပဲ ကောင်းမယ်။"
+              },
+              {
+                "zh": "你还是早点睡吧。",
+                "my": "စောစောအိပ်တာ ပိုကောင်းမယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "走路还是坐车？",
+                    "my": "လမ်းလျှောက်မလား၊ ကားစီးမလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "还是坐车吧。",
+                    "my": "ကားစီးတာပဲ ကောင်းမယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "我们还是吧走。",
+                "correct": "我们还是走吧。",
+                "note_zh": "“吧”通常在句末。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_086",
@@ -77,7 +441,126 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "口语中提出另一个办法或建议。",
+            "note_my": "“要不……”提出一个替代建议。",
+            "items": [
+              {
+                "zh": "要不我们坐车吧。",
+                "my": "ကားစီးသွားကြမလား။"
+              },
+              {
+                "zh": "要不明天再去？",
+                "my": "မနက်ဖြန်မှ သွားကြမလား။"
+              },
+              {
+                "zh": "要不你先休息吧。",
+                "my": "အရင် နားလိုက်ပါလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "“要不……”提出一个替代建议。",
+            "items": [
+              {
+                "zh": "要不明天再去？",
+                "my": "မနက်ဖြန်မှ သွားကြမလား။"
+              },
+              {
+                "zh": "要不你先休息吧。",
+                "my": "အရင် နားလိုက်ပါလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "要不 + 建议/小句",
+                "note_zh": "口语中提出另一个办法或建议。",
+                "examples": [
+                  {
+                    "zh": "要不我们坐车吧。",
+                    "my": "ကားစီးသွားကြမလား။"
+                  },
+                  {
+                    "zh": "要不明天再去？",
+                    "my": "မနက်ဖြန်မှ သွားကြမလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "要不 + 我们 + 动词 + 吧？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "要不明天再去？",
+                    "my": "မနက်ဖြန်မှ သွားကြမလား။"
+                  },
+                  {
+                    "zh": "要不你先休息吧。",
+                    "my": "အရင် နားလိုက်ပါလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“要不……”用于口语语气与回应等场景。原句：“要不我们坐车吧。”。口语中提出另一个办法或建议。 注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "要不明天再去？",
+                "my": "မနက်ဖြန်မှ သွားကြမလား။"
+              },
+              {
+                "zh": "要不你先休息吧。",
+                "my": "အရင် နားလိုက်ပါလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "下雨了，怎么办？",
+                    "my": "မိုးရွာနေပြီ၊ ဘယ်လိုလုပ်မလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "要不坐车吧。",
+                    "my": "ကားစီးကြမလား။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "我们要不吧坐车。",
+                "correct": "我们要不坐车吧。",
+                "note_zh": "“要不”一般在建议前，“吧”放句末。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_027",
@@ -92,7 +575,70 @@
         "了",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "很口语，带感情地强调程度，比单说“很”更有语气。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他可帅了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他可帅了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 可 + 形容词 + 了",
+                "note_zh": "很口语，带感情地强调程度，比单说“很”更有语气。",
+                "examples": [
+                  {
+                    "zh": "他可帅了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可……了”用于口语语气与回应等场景。原句：“他可帅了。”。很口语，带感情地强调程度，比单说“很”更有语气。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他可帅了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_028",
@@ -106,7 +652,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "很口语，表示程度比较高，语气通常自然、友好。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这个挺好看的。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这个挺好看的。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 挺 + 形容词 + 的",
+                "note_zh": "很口语，表示程度比较高，语气通常自然、友好。",
+                "examples": [
+                  {
+                    "zh": "这个挺好看的。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“挺……的”用于口语语气与回应等场景。原句：“这个挺好看的。”。很口语，表示程度比较高，语气通常自然、友好。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这个挺好看的。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_030",
@@ -120,7 +729,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用来感叹程度高；口语里“多好啊、多漂亮啊”很常见。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "多漂亮啊！",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "多漂亮啊！",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "多/多么 + 形容词 + 啊",
+                "note_zh": "用来感叹程度高；口语里“多好啊、多漂亮啊”很常见。",
+                "examples": [
+                  {
+                    "zh": "多漂亮啊！",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“多么……啊”用于口语语气与回应等场景。原句：“多漂亮啊！”。用来感叹程度高；口语里“多好啊、多漂亮啊”很常见。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "多漂亮啊！",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_173",
@@ -135,7 +807,70 @@
         "就",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "根据前面的情况作出决定或给出结果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "那就明天见。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "那就明天见。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "那就 + 小句",
+                "note_zh": "根据前面的情况作出决定或给出结果。",
+                "examples": [
+                  {
+                    "zh": "那就明天见。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“那就……”用于口语语气与回应等场景。原句：“那就明天见。”。根据前面的情况作出决定或给出结果。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "那就明天见。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_145",
@@ -151,7 +886,70 @@
         "得",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "提醒别人一定要做某事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "别忘了带钥匙。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "别忘了带钥匙。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "别忘了/记得 + 动词",
+                "note_zh": "提醒别人一定要做某事。",
+                "examples": [
+                  {
+                    "zh": "别忘了带钥匙。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“别忘了/记得”用于口语语气与回应等场景。原句：“别忘了带钥匙。”。提醒别人一定要做某事。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "别忘了带钥匙。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_176",
@@ -166,7 +964,70 @@
         "了",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示情况已经到了某个程度，后面的行为仍不符合预期。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "都十点了，还不睡？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "都十点了，还不睡？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "都 + 情况 + 了，还 + 动词/形容词",
+                "note_zh": "表示情况已经到了某个程度，后面的行为仍不符合预期。",
+                "examples": [
+                  {
+                    "zh": "都十点了，还不睡？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“都……了，还……”用于口语语气与回应等场景。原句：“都十点了，还不睡？”。表示情况已经到了某个程度，后面的行为仍不符合预期。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "都十点了，还不睡？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_038",
@@ -180,7 +1041,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "强烈提醒或警告对方不要做某事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "千万别迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "千万别迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "千万别/不要 + 动词",
+                "note_zh": "强烈提醒或警告对方不要做某事。",
+                "examples": [
+                  {
+                    "zh": "千万别迟到。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“千万别……”用于口语语气与回应等场景。原句：“千万别迟到。”。强烈提醒或警告对方不要做某事。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "千万别迟到。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_048",
@@ -195,7 +1119,110 @@
         "吧",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "让建议、请求或推测听起来更柔和。",
+            "note_my": "အကြံပြုတဲ့အခါ ဝါကျအဆုံးမှာ “吧” ထည့်နိုင်တယ်။",
+            "items": [
+              {
+                "zh": "我们走吧。",
+                "my": "သွားကြစို့။"
+              },
+              {
+                "zh": "你先休息吧。",
+                "my": "မင်း အရင်နားလိုက်ပါ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "အကြံပြုတဲ့အခါ ဝါကျအဆုံးမှာ “吧” ထည့်နိုင်တယ်။",
+            "items": [
+              {
+                "zh": "你先休息吧。",
+                "my": "မင်း အရင်နားလိုက်ပါ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词/小句 + 吧",
+                "note_zh": "让建议、请求或推测听起来更柔和。",
+                "examples": [
+                  {
+                    "zh": "我们走吧。",
+                    "my": "သွားကြစို့။"
+                  },
+                  {
+                    "zh": "你先休息吧。",
+                    "my": "မင်း အရင်နားလိုက်ပါ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "请 + 动词 + 吧",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你先休息吧。",
+                    "my": "မင်း အရင်နားလိုက်ပါ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“吧建议”用于口语语气与回应等场景。原句：“我们走吧。”。让建议、请求或推测听起来更柔和。 注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你先休息吧。",
+                "my": "မင်း အရင်နားလိုက်ပါ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "现在走吗？",
+                    "my": "အခု သွားမလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "走吧。",
+                    "my": "သွားကြစို့။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "我们吧走。",
+                "correct": "我们走吧。",
+                "note_zh": "表示建议的“吧”通常放在句末。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_081",
@@ -211,7 +1238,126 @@
         "就",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示做到这个程度就可以，不需要更多。",
+            "note_my": "“就行了”表示这样做已足够。",
+            "items": [
+              {
+                "zh": "这样做就行了。",
+                "my": "ဒီလိုလုပ်ရင် ရပြီ။"
+              },
+              {
+                "zh": "带身份证就行了。",
+                "my": "မှတ်ပုံတင် ယူလာရုံနဲ့ ရပြီ။"
+              },
+              {
+                "zh": "写名字就行了。",
+                "my": "နာမည်ရေးရုံနဲ့ ရပြီ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "“就行了”表示这样做已足够。",
+            "items": [
+              {
+                "zh": "带身份证就行了。",
+                "my": "မှတ်ပုံတင် ယူလာရုံနဲ့ ရပြီ။"
+              },
+              {
+                "zh": "写名字就行了。",
+                "my": "နာမည်ရေးရုံနဲ့ ရပြီ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词/小句 + 就行了",
+                "note_zh": "表示做到这个程度就可以，不需要更多。",
+                "examples": [
+                  {
+                    "zh": "这样做就行了。",
+                    "my": "ဒီလိုလုပ်ရင် ရပြီ။"
+                  },
+                  {
+                    "zh": "带身份证就行了。",
+                    "my": "မှတ်ပုံတင် ယူလာရုံနဲ့ ရပြီ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "动词短语 + 就行了",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "带身份证就行了。",
+                    "my": "မှတ်ပုံတင် ယူလာရုံနဲ့ ရပြီ။"
+                  },
+                  {
+                    "zh": "写名字就行了。",
+                    "my": "နာမည်ရေးရုံနဲ့ ရပြီ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“就行了”用于口语语气与回应等场景。原句：“这样做就行了。”。表示做到这个程度就可以，不需要更多。 注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "带身份证就行了。",
+                "my": "မှတ်ပုံတင် ယူလာရုံနဲ့ ရပြီ။"
+              },
+              {
+                "zh": "写名字就行了。",
+                "my": "နာမည်ရေးရုံနဲ့ ရပြီ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "还要做什么？",
+                    "my": "နောက်ထပ် ဘာလုပ်ရဦးမလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "这样做就行了。",
+                    "my": "ဒီလိုလုပ်ရင် ရပြီ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "这样就行做了。",
+                "correct": "这样做就行了。",
+                "note_zh": "“就行了”放在足够的做法后。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_110",
@@ -226,7 +1372,70 @@
         "了",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示放弃、停止争论或不再计较。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "算了，别说了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "算了，别说了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "算了，别/不 + 动词 + 了",
+                "note_zh": "表示放弃、停止争论或不再计较。",
+                "examples": [
+                  {
+                    "zh": "算了，别说了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“算了”用于口语语气与回应等场景。原句：“算了，别说了。”。表示放弃、停止争论或不再计较。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "算了，别说了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_125",
@@ -240,7 +1449,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "可表示感叹、提醒、催促或让语气更自然。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快来呀！",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快来呀！",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "小句 + 啊/呀",
+                "note_zh": "可表示感叹、提醒、催促或让语气更自然。",
+                "examples": [
+                  {
+                    "zh": "快来呀！",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“啊呀语气”用于口语语气与回应等场景。原句：“快来呀！”。可表示感叹、提醒、催促或让语气更自然。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快来呀！",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_197",
@@ -256,7 +1528,70 @@
         "就",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示希望事情达到某个简单结果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "早点来就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "早点来就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词/小句 + 就好了",
+                "note_zh": "表示希望事情达到某个简单结果。",
+                "examples": [
+                  {
+                    "zh": "早点来就好了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“就好了”用于口语语气与回应等场景。原句：“早点来就好了。”。表示希望事情达到某个简单结果。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "早点来就好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_268",
@@ -271,7 +1606,70 @@
         "呢",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作正在继续，或加强当前语气。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我在吃饭呢。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我在吃饭呢。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "小句 + 呢",
+                "note_zh": "表示动作正在继续，或加强当前语气。",
+                "examples": [
+                  {
+                    "zh": "我在吃饭呢。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“呢持续”用于口语语气与回应等场景。原句：“我在吃饭呢。”。表示动作正在继续，或加强当前语气。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我在吃饭呢。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_453",
@@ -286,7 +1684,70 @@
         "嘛",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示事情很明显、很正常，有时带一点不耐烦。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "别急嘛。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "别急嘛。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "小句 + 嘛",
+                "note_zh": "表示事情很明显、很正常，有时带一点不耐烦。",
+                "examples": [
+                  {
+                    "zh": "别急嘛。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“嘛语气”用于口语语气与回应等场景。原句：“别急嘛。”。表示事情很明显、很正常，有时带一点不耐烦。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "别急嘛。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_085",
@@ -301,7 +1762,126 @@
         "吗",
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用于商量、请求或征求同意；“行吗”最口语。",
+            "note_my": "“好吗/可以吗”可温和地征求同意。",
+            "items": [
+              {
+                "zh": "我们明天见，好吗？",
+                "my": "မနက်ဖြန် တွေ့ကြမလား။"
+              },
+              {
+                "zh": "我们一起吃饭，好吗？",
+                "my": "အတူတူ ထမင်းစားကြမလား။"
+              },
+              {
+                "zh": "明天见，可以吗？",
+                "my": "မနက်ဖြန် တွေ့လို့ရမလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "“好吗/可以吗”可温和地征求同意。",
+            "items": [
+              {
+                "zh": "我们一起吃饭，好吗？",
+                "my": "အတူတူ ထမင်းစားကြမလား။"
+              },
+              {
+                "zh": "明天见，可以吗？",
+                "my": "မနက်ဖြန် တွေ့လို့ရမလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "建议/请求 + 好吗/行吗/可以吗",
+                "note_zh": "用于商量、请求或征求同意；“行吗”最口语。",
+                "examples": [
+                  {
+                    "zh": "我们明天见，好吗？",
+                    "my": "မနက်ဖြန် တွေ့ကြမလား။"
+                  },
+                  {
+                    "zh": "我们一起吃饭，好吗？",
+                    "my": "အတူတူ ထမင်းစားကြမလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "建议 + 可以吗？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "我们一起吃饭，好吗？",
+                    "my": "အတူတူ ထမင်းစားကြမလား။"
+                  },
+                  {
+                    "zh": "明天见，可以吗？",
+                    "my": "မနက်ဖြန် တွေ့လို့ရမလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“征求同意”用于口语语气与回应等场景。原句：“我们明天见，好吗？”。用于商量、请求或征求同意；“行吗”最口语。 注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们一起吃饭，好吗？",
+                "my": "အတူတူ ထမင်းစားကြမလား။"
+              },
+              {
+                "zh": "明天见，可以吗？",
+                "my": "မနက်ဖြန် တွေ့လို့ရမလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "我们明天见，好吗？",
+                    "my": "မနက်ဖြန် တွေ့ကြမလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "好，明天见。",
+                    "my": "ကောင်းပြီ၊ မနက်ဖြန်တွေ့မယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "我们好吗明天见？",
+                "correct": "我们明天见，好吗？",
+                "note_zh": "“好吗”放在建议句之后。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_100",
@@ -315,7 +1895,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "催促别人动作快一些。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快点儿走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快点儿走。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "快点儿 + 动词",
+                "note_zh": "催促别人动作快一些。",
+                "examples": [
+                  {
+                    "zh": "快点儿走。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“快点儿”用于口语语气与回应等场景。原句：“快点儿走。”。催促别人动作快一些。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "快点儿走。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_102",
@@ -329,7 +1972,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "让别人慢一些，常用于提醒。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "慢点儿说。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "慢点儿说。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "慢点儿 + 动词",
+                "note_zh": "让别人慢一些，常用于提醒。",
+                "examples": [
+                  {
+                    "zh": "慢点儿说。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“慢点儿”用于口语语气与回应等场景。原句：“慢点儿说。”。让别人慢一些，常用于提醒。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "慢点儿说。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_140",
@@ -343,7 +2049,70 @@
       "focus_tags": [
         "口语场景"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示事情很明显，或爽快同意。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "当然可以。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "注意语气、关系和礼貌程度；对陌生人未必都适用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "当然可以。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "当然 + 小句",
+                "note_zh": "表示事情很明显，或爽快同意。",
+                "examples": [
+                  {
+                    "zh": "当然可以。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“当然”用于口语语气与回应等场景。原句：“当然可以。”。表示事情很明显，或爽快同意。 注意语气、关系和礼貌程度；对陌生人未必都适用。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "当然可以。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }

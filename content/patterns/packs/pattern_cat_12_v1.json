@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_12",
   "title": "对象、介词与话题",
   "subtitle": "12 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 12,
   "items": [
     {
@@ -18,7 +18,70 @@
       "teaching_type": "word_order",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“跟”更口语；“对”稍正式，强调说话指向谁。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我跟他说了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我跟他说了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 跟/对 + 人 + 说/聊 + 内容",
+                "note_zh": "“跟”更口语；“对”稍正式，强调说话指向谁。",
+                "examples": [
+                  {
+                    "zh": "我跟他说了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“跟/对某人说”用于介词、话题和对象等场景。原句：“我跟他说了。”。“跟”更口语；“对”稍正式，强调说话指向谁。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我跟他说了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_109",
@@ -30,7 +93,126 @@
       "teaching_type": "word_order",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明用什么东西或方法完成动作。",
+            "note_my": "“用+工具”说明使用的工具。",
+            "items": [
+              {
+                "zh": "我用手机学习。",
+                "my": "ဖုန်းနဲ့ စာလေ့လာတယ်။"
+              },
+              {
+                "zh": "我用手机学中文。",
+                "my": "ဖုန်းနဲ့ တရုတ်စာ လေ့လာတယ်။"
+              },
+              {
+                "zh": "她用电脑工作。",
+                "my": "သူမ ကွန်ပျူတာနဲ့ အလုပ်လုပ်တယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "“用+工具”说明使用的工具。",
+            "items": [
+              {
+                "zh": "我用手机学中文。",
+                "my": "ဖုန်းနဲ့ တရုတ်စာ လေ့လာတယ်။"
+              },
+              {
+                "zh": "她用电脑工作。",
+                "my": "သူမ ကွန်ပျူတာနဲ့ အလုပ်လုပ်တယ်။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 用 + 工具/方法 + 动词",
+                "note_zh": "说明用什么东西或方法完成动作。",
+                "examples": [
+                  {
+                    "zh": "我用手机学习。",
+                    "my": "ဖုန်းနဲ့ စာလေ့လာတယ်။"
+                  },
+                  {
+                    "zh": "我用手机学中文。",
+                    "my": "ဖုန်းနဲ့ တရုတ်စာ လေ့လာတယ်။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "谁 + 用 + 工具 + 动词",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "我用手机学中文。",
+                    "my": "ဖုန်းနဲ့ တရုတ်စာ လေ့လာတယ်။"
+                  },
+                  {
+                    "zh": "她用电脑工作。",
+                    "my": "သူမ ကွန်ပျူတာနဲ့ အလုပ်လုပ်တယ်။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“使用工具”用于介词、话题和对象等场景。原句：“我用手机学习。”。说明用什么东西或方法完成动作。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我用手机学中文。",
+                "my": "ဖုန်းနဲ့ တရုတ်စာ လေ့လာတယ်။"
+              },
+              {
+                "zh": "她用电脑工作。",
+                "my": "သူမ ကွန်ပျူတာနဲ့ အလုပ်လုပ်တယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你怎么学中文？",
+                    "my": "တရုတ်စာ ဘယ်လို လေ့လာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我用手机学。",
+                    "my": "ဖုန်းနဲ့ လေ့လာတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "我学用手机中文。",
+                "correct": "我用手机学中文。",
+                "note_zh": "工具短语通常放在主要动词前。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_138",
@@ -42,7 +224,70 @@
       "teaching_type": "word_order",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示喜欢了解或愿意接触某事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我对中文感兴趣。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我对中文感兴趣。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 对 + 名词 + 感兴趣",
+                "note_zh": "表示喜欢了解或愿意接触某事。",
+                "examples": [
+                  {
+                    "zh": "我对中文感兴趣。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“感兴趣”用于介词、话题和对象等场景。原句：“我对中文感兴趣。”。表示喜欢了解或愿意接触某事。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我对中文感兴趣。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_196",
@@ -54,7 +299,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“对”说明动作、态度或感觉指向谁或什么。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他对我很好。",
+                "my": "သူ ကျွန်တော်/ကျွန်မကို အရမ်းကောင်းတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他对我很好。",
+                "my": "သူ ကျွန်တော်/ကျွန်မကို အရမ်းကောင်းတယ်။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 对 + 人/事情 + 动词/形容词",
+                "note_zh": "“对”说明动作、态度或感觉指向谁或什么。",
+                "examples": [
+                  {
+                    "zh": "他对我很好。",
+                    "my": "သူ ကျွန်တော်/ကျွန်မကို အရမ်းကောင်းတယ်။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“对某人某事”用于介词、话题和对象等场景。原句：“他对我很好。”。“对”说明动作、态度或感觉指向谁或什么。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他对我很好。",
+                "my": "သူ ကျွန်တော်/ကျွန်မကို အရမ်းကောင်းတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_235",
@@ -66,7 +374,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "从某个人的角度说明情况。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "对我来说，这很难。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "对我来说，这很难。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "对 + 人 + 来说，小句",
+                "note_zh": "从某个人的角度说明情况。",
+                "examples": [
+                  {
+                    "zh": "对我来说，这很难。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“对谁来说”用于介词、话题和对象等场景。原句：“对我来说，这很难。”。从某个人的角度说明情况。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "对我来说，这很难。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_423",
@@ -78,7 +449,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明某事会给谁带来帮助或影响。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "运动对身体有帮助。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "运动对身体有帮助。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "名词/事情 + 对 + 人/事 + 有帮助/有影响",
+                "note_zh": "说明某事会给谁带来帮助或影响。",
+                "examples": [
+                  {
+                    "zh": "运动对身体有帮助。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“有帮助影响”用于介词、话题和对象等场景。原句：“运动对身体有帮助。”。说明某事会给谁带来帮助或影响。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "运动对身体有帮助。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_452",
@@ -90,7 +524,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示照着规定或方法做。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请按照说明操作。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请按照说明操作。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "按照 + 规则/方法 + 动词",
+                "note_zh": "表示照着规定或方法做。",
+                "examples": [
+                  {
+                    "zh": "请按照说明操作。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“按照”用于介词、话题和对象等场景。原句：“请按照说明操作。”。表示照着规定或方法做。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请按照说明操作。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_470",
@@ -104,7 +601,70 @@
       "focus_tags": [
         "在"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "限定讨论的是哪一个方面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "在价格方面，这个更好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "在价格方面，这个更好。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "在 + 名词 + 方面，主语 + 谓语",
+                "note_zh": "限定讨论的是哪一个方面。",
+                "examples": [
+                  {
+                    "zh": "在价格方面，这个更好。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“某方面”用于介词、话题和对象等场景。原句：“在价格方面，这个更好。”。限定讨论的是哪一个方面。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "在价格方面，这个更好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_485",
@@ -116,7 +676,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示做判断或决定的依据。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "根据天气，我们再决定。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "根据天气，我们再决定。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "根据 + 信息/情况 + 动词",
+                "note_zh": "表示做判断或决定的依据。",
+                "examples": [
+                  {
+                    "zh": "根据天气，我们再决定。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“根据”用于介词、话题和对象等场景。原句：“根据天气，我们再决定。”。表示做判断或决定的依据。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "根据天气，我们再决定。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_267",
@@ -128,7 +751,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明两件事有没有联系；不要和回应别人道歉的“没关系”混在一起。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这跟我没关系。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这跟我没关系。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 跟/和 + B + 有/没关系",
+                "note_zh": "说明两件事有没有联系；不要和回应别人道歉的“没关系”混在一起。",
+                "examples": [
+                  {
+                    "zh": "这跟我没关系。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“有无关系”用于介词、话题和对象等场景。原句：“这跟我没关系。”。说明两件事有没有联系；不要和回应别人道歉的“没关系”混在一起。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这跟我没关系。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_439",
@@ -140,7 +826,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“替”强调代替别人，“为”较正式，也可表示为了某人。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我替他上班。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我替他上班。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 替/为 + 人 + 动词",
+                "note_zh": "“替”强调代替别人，“为”较正式，也可表示为了某人。",
+                "examples": [
+                  {
+                    "zh": "我替他上班。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“替/为别人做”用于介词、话题和对象等场景。原句：“我替他上班。”。“替”强调代替别人，“为”较正式，也可表示为了某人。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我替他上班。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_222",
@@ -152,7 +901,70 @@
       "teaching_type": "word_order",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先把要谈的事情放前面，再说明它。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这件事，我同意。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这件事，我同意。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "话题 + 主语 + 后面的说明",
+                "note_zh": "先把要谈的事情放前面，再说明它。",
+                "examples": [
+                  {
+                    "zh": "这件事，我同意。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“话题先说”用于介词、话题和对象等场景。原句：“这件事，我同意。”。先把要谈的事情放前面，再说明它。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这件事，我同意。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }

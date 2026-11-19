@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_09",
   "title": "比较句",
   "subtitle": "18 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 18,
   "items": [
     {
@@ -18,7 +18,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "常用“不如”的口语表达。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没有他那么忙。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没有他那么忙。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 没有 + B + 那么 + 形容词",
+                "note_zh": "常用“不如”的口语表达。",
+                "examples": [
+                  {
+                    "zh": "我没有他那么忙。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“没有那么”用于人物与事物的比较等场景。原句：“我没有他那么忙。”。常用“不如”的口语表达。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没有他那么忙。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_382",
@@ -30,7 +93,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "常用于要求和建议。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "越快越好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "越快越好。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "越 + 形容词 + 越好",
+                "note_zh": "常用于要求和建议。",
+                "examples": [
+                  {
+                    "zh": "越快越好。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“越早越好”用于人物与事物的比较等场景。原句：“越快越好。”。常用于要求和建议。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "越快越好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_192",
@@ -46,7 +172,70 @@
         "得",
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“一点儿”表示差别小，“得多、多了”表示差别大。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这个比那个贵一点儿。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这个比那个贵一点儿。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 比 + B + 形容词 + 一点儿/得多/多了",
+                "note_zh": "“一点儿”表示差别小，“得多、多了”表示差别大。",
+                "examples": [
+                  {
+                    "zh": "这个比那个贵一点儿。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“比较差距大小”用于人物与事物的比较等场景。原句：“这个比那个贵一点儿。”。“一点儿”表示差别小，“得多、多了”表示差别大。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这个比那个贵一点儿。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_417",
@@ -58,7 +247,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示换一个做法可能更好。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我还不如回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我还不如回家。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 还不如 + 动词",
+                "note_zh": "表示换一个做法可能更好。",
+                "examples": [
+                  {
+                    "zh": "我还不如回家。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“还不如”用于人物与事物的比较等场景。原句：“我还不如回家。”。表示换一个做法可能更好。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我还不如回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_291",
@@ -72,7 +324,70 @@
       "focus_tags": [
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "比较差异时直接说高、快、贵等；“更”可进一步强调。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "今天比昨天更冷。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "今天比昨天更冷。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 比 + B +（更）+ 形容词",
+                "note_zh": "比较差异时直接说高、快、贵等；“更”可进一步强调。",
+                "examples": [
+                  {
+                    "zh": "今天比昨天更冷。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型““比”字比较”用于人物与事物的比较等场景。原句：“今天比昨天更冷。”。比较差异时直接说高、快、贵等；“更”可进一步强调。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "今天比昨天更冷。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_193",
@@ -84,7 +399,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示两者很接近，但不一定完全一样。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们两个差不多。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们两个差不多。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 跟/和 + B + 差不多",
+                "note_zh": "表示两者很接近，但不一定完全一样。",
+                "examples": [
+                  {
+                    "zh": "我们两个差不多。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“差不多一样”用于人物与事物的比较等场景。原句：“我们两个差不多。”。表示两者很接近，但不一定完全一样。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们两个差不多。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_232",
@@ -98,7 +476,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "比较两个人做同一件事时谁表现得更好。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没有他跑得快。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没有他跑得快。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 没有 + B + 动词 + 得 + 形容词",
+                "note_zh": "比较两个人做同一件事时谁表现得更好。",
+                "examples": [
+                  {
+                    "zh": "我没有他跑得快。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“动作不如”用于人物与事物的比较等场景。原句：“我没有他跑得快。”。比较两个人做同一件事时谁表现得更好。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我没有他跑得快。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_233",
@@ -110,7 +551,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "在两个对象中比较哪一个更怎么样。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "苹果和香蕉哪个更甜？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "苹果和香蕉哪个更甜？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 和 + B + 哪个更 + 形容词",
+                "note_zh": "在两个对象中比较哪一个更怎么样。",
+                "examples": [
+                  {
+                    "zh": "苹果和香蕉哪个更甜？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪个更”用于人物与事物的比较等场景。原句：“苹果和香蕉哪个更甜？”。在两个对象中比较哪一个更怎么样。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "苹果和香蕉哪个更甜？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_265",
@@ -122,7 +626,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示A和B在某方面很像。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "她像妈妈一样温柔。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "她像妈妈一样温柔。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 像 + B + 一样 + 形容词/动词",
+                "note_zh": "表示A和B在某方面很像。",
+                "examples": [
+                  {
+                    "zh": "她像妈妈一样温柔。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“像一样”用于人物与事物的比较等场景。原句：“她像妈妈一样温柔。”。表示A和B在某方面很像。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "她像妈妈一样温柔。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_421",
@@ -136,7 +703,70 @@
       "focus_tags": [
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "直接说明数量差多少。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他比我多买了两本书。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他比我多买了两本书。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 比 + B + 多/少 + 数量",
+                "note_zh": "直接说明数量差多少。",
+                "examples": [
+                  {
+                    "zh": "他比我多买了两本书。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“多少数量”用于人物与事物的比较等场景。原句：“他比我多买了两本书。”。直接说明数量差多少。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他比我多买了两本书。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_449",
@@ -150,7 +780,70 @@
       "focus_tags": [
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说明时间早或晚多少。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我比他早来十分钟。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我比他早来十分钟。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 比 + B + 早/晚 + 时量",
+                "note_zh": "说明时间早或晚多少。",
+                "examples": [
+                  {
+                    "zh": "我比他早来十分钟。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“早晚多少”用于人物与事物的比较等场景。原句：“我比他早来十分钟。”。说明时间早或晚多少。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我比他早来十分钟。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_459",
@@ -162,7 +855,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示A不及B。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不如他跑得快。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不如他跑得快。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 不如 + B + 形容词/动词",
+                "note_zh": "表示A不及B。",
+                "examples": [
+                  {
+                    "zh": "我不如他跑得快。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“不如”用于人物与事物的比较等场景。原句：“我不如他跑得快。”。表示A不及B。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不如他跑得快。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_460",
@@ -174,7 +930,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "两个程度同步变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "越学越有意思。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "越学越有意思。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "越 + 条件 + 越 + 结果",
+                "note_zh": "两个程度同步变化。",
+                "examples": [
+                  {
+                    "zh": "越学越有意思。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“越…越…”用于人物与事物的比较等场景。原句：“越学越有意思。”。两个程度同步变化。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "越学越有意思。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_483",
@@ -188,7 +1007,70 @@
       "focus_tags": [
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "先说比较对象，再说A更怎么样。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "跟以前相比，现在更好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "跟以前相比，现在更好了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "跟/和 + B + 相比，A + 更 + 形容词",
+                "note_zh": "先说比较对象，再说A更怎么样。",
+                "examples": [
+                  {
+                    "zh": "跟以前相比，现在更好了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“相比更”用于人物与事物的比较等场景。原句：“跟以前相比，现在更好了。”。先说比较对象，再说A更怎么样。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "跟以前相比，现在更好了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_488",
@@ -202,7 +1084,70 @@
       "focus_tags": [
         "吗"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问A是否达到B的程度。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他有你那么高吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他有你那么高吗？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 有 + B + 这么/那么 + 形容词 + 吗",
+                "note_zh": "询问A是否达到B的程度。",
+                "examples": [
+                  {
+                    "zh": "他有你那么高吗？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“有那么吗”用于人物与事物的比较等场景。原句：“他有你那么高吗？”。询问A是否达到B的程度。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他有你那么高吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_499",
@@ -216,7 +1161,70 @@
       "focus_tags": [
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示A不一定比B差，常含委婉肯定。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不比他差。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不比他差。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 不比 + B + 形容词",
+                "note_zh": "表示A不一定比B差，常含委婉肯定。",
+                "examples": [
+                  {
+                    "zh": "我不比他差。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“不比差”用于人物与事物的比较等场景。原句：“我不比他差。”。表示A不一定比B差，常含委婉肯定。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我不比他差。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_358",
@@ -230,7 +1238,70 @@
       "focus_tags": [
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示同一事物随着时间逐渐变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "天气越来越冷。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "天气越来越冷。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 越来越 + 形容词/动词 / 一天比一天 + 形容词",
+                "note_zh": "表示同一事物随着时间逐渐变化。",
+                "examples": [
+                  {
+                    "zh": "天气越来越冷。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“逐渐变化”用于人物与事物的比较等场景。原句：“天气越来越冷。”。表示同一事物随着时间逐渐变化。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "天气越来越冷。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_357",
@@ -242,7 +1313,70 @@
       "teaching_type": "comparison",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示两个对象相同或不同；相同时可继续说明“多高、多大”等方面。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我跟他一样高。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "先确认比较对象和方向，再辨别否定及程度变化。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我跟他一样高。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 跟/和 + B +（不）一样（+ 形容词）",
+                "note_zh": "表示两个对象相同或不同；相同时可继续说明“多高、多大”等方面。",
+                "examples": [
+                  {
+                    "zh": "我跟他一样高。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“一样和不一样”用于人物与事物的比较等场景。原句：“我跟他一样高。”。表示两个对象相同或不同；相同时可继续说明“多高、多大”等方面。 先确认比较对象和方向，再辨别否定及程度变化。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我跟他一样高。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }

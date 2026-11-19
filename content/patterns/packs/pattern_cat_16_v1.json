@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_16",
   "title": "存现与特殊结构",
   "subtitle": "5 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 5,
   "items": [
     {
@@ -20,7 +20,126 @@
       "focus_tags": [
         "语序"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示某个地方存在或不存在人、物。",
+            "note_my": "တစ်နေရာမှာ ဘာရှိတယ်ဆိုတာ “地点+有” နဲ့ ပြောနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "房间里没有人。",
+                "my": "အခန်းထဲမှာ လူမရှိဘူး။"
+              },
+              {
+                "zh": "桌上有一本书。",
+                "my": "စားပွဲပေါ်မှာ စာအုပ်တစ်အုပ်ရှိတယ်။"
+              },
+              {
+                "zh": "这里有很多人。",
+                "my": "ဒီမှာ လူအများကြီးရှိတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "တစ်နေရာမှာ ဘာရှိတယ်ဆိုတာ “地点+有” နဲ့ ပြောနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "桌上有一本书。",
+                "my": "စားပွဲပေါ်မှာ စာအုပ်တစ်အုပ်ရှိတယ်။"
+              },
+              {
+                "zh": "这里有很多人。",
+                "my": "ဒီမှာ လူအများကြီးရှိတယ်။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "地点 + 有/没有 + 人/物",
+                "note_zh": "表示某个地方存在或不存在人、物。",
+                "examples": [
+                  {
+                    "zh": "房间里没有人。",
+                    "my": "အခန်းထဲမှာ လူမရှိဘူး။"
+                  },
+                  {
+                    "zh": "桌上有一本书。",
+                    "my": "စားပွဲပေါ်မှာ စာအုပ်တစ်အုပ်ရှိတယ်။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "地点 + 没有 + 人/物",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "桌上有一本书。",
+                    "my": "စားပွဲပေါ်မှာ စာအုပ်တစ်အုပ်ရှိတယ်။"
+                  },
+                  {
+                    "zh": "这里有很多人。",
+                    "my": "ဒီမှာ လူအများကြီးရှိတယ်။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“某地有或没有”用于存在、出现和离开等场景。原句：“房间里没有人。”。表示某个地方存在或不存在人、物。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "桌上有一本书。",
+                "my": "စားပွဲပေါ်မှာ စာအုပ်တစ်အုပ်ရှိတယ်။"
+              },
+              {
+                "zh": "这里有很多人。",
+                "my": "ဒီမှာ လူအများကြီးရှိတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "桌上有什么？",
+                    "my": "စားပွဲပေါ်မှာ ဘာရှိလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "有一本书。",
+                    "my": "စာအုပ်တစ်အုပ်ရှိတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "桌上一个书有。",
+                "correct": "桌上有一本书。",
+                "note_zh": "存现句中“有”通常放在存在物之前。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_376",
@@ -36,7 +155,70 @@
         "在",
         "语序"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "介绍某处持续存在的状态。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "墙上挂着一张照片。",
+                "my": "နံရံမှာ ဓာတ်ပုံတစ်ပုံ ချိတ်ထားတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "墙上挂着一张照片。",
+                "my": "နံရံမှာ ဓာတ်ပုံတစ်ပုံ ချိတ်ထားတယ်။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "地点 + 动词 + 着 + 名词",
+                "note_zh": "介绍某处持续存在的状态。",
+                "examples": [
+                  {
+                    "zh": "墙上挂着一张照片。",
+                    "my": "နံရံမှာ ဓာတ်ပုံတစ်ပုံ ချိတ်ထားတယ်။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“存在状态”用于存在、出现和离开等场景。原句：“墙上挂着一张照片。”。介绍某处持续存在的状态。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "墙上挂着一张照片。",
+                "my": "နံရံမှာ ဓာတ်ပုံတစ်ပုံ ချိတ်ထားတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_377",
@@ -51,7 +233,70 @@
         "了",
         "语序"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "新出现的人或东西通常放在句末。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "门口来了一位客人。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "门口来了一位客人。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "地点 + 来/出现 + 了 + 名词",
+                "note_zh": "新出现的人或东西通常放在句末。",
+                "examples": [
+                  {
+                    "zh": "门口来了一位客人。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“出现”用于存在、出现和离开等场景。原句：“门口来了一位客人。”。新出现的人或东西通常放在句末。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "门口来了一位客人。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_378",
@@ -67,7 +312,70 @@
         "离",
         "语序"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示某地的人或东西离开、减少了。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "村里搬走了很多人。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "村里搬走了很多人。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "地点 + 离开/搬走 + 了 + 人/物",
+                "note_zh": "表示某地的人或东西离开、减少了。",
+                "examples": [
+                  {
+                    "zh": "村里搬走了很多人。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“消失/离开”用于存在、出现和离开等场景。原句：“村里搬走了很多人。”。表示某地的人或东西离开、减少了。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "村里搬走了很多人。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_380",
@@ -81,7 +389,70 @@
       "focus_tags": [
         "在"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“有+名词+动词”很常用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们班有人会日语。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们班有人会日语。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "范围 + 有 + 人/物 + 动词",
+                "note_zh": "“有+名词+动词”很常用。",
+                "examples": [
+                  {
+                    "zh": "我们班有人会日语。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“范围内存在”用于存在、出现和离开等场景。原句：“我们班有人会日语。”。“有+名词+动词”很常用。 核对动作发出者、动词与宾语的顺序，避免逐词照搬缅语语序。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我们班有人会日语。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }
