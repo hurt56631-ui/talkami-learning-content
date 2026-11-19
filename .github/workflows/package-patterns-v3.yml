@@ -1,0 +1,49 @@
+name: Validate and package Myanmar three-card lessons
+on:
+  push:
+    branches:
+      - data/myanmar-patterns-v1-20261119
+    paths:
+      - 'content/patterns/**'
+      - 'exports/myanmar_patterns_v1/**'
+      - 'scripts/check_pattern_v3.py'
+      - '.github/workflows/package-patterns-v3.yml'
+  workflow_dispatch:
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate V3 lesson schema
+        run: python scripts/check_pattern_v3.py
+      - name: Build distribution ZIP
+        run: |
+          python - <<'PY'
+          import json, pathlib, zipfile
+          root = pathlib.Path('.')
+          packs = sorted((root/'content/patterns/packs').glob('pattern_cat_*_v3.json'))
+          assert len(packs) == 16
+          items = []
+          for pack in packs:
+              data = json.loads(pack.read_text(encoding='utf-8'))
+              items.extend(data['items'])
+          assert len(items) == 500
+          assert len({x['id'] for x in items}) == 500
+          dest = pathlib.Path('Talkami_Myanmar_Patterns_500_Three_Cards_V3.zip')
+          with zipfile.ZipFile(dest, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as z:
+              z.write(root/'content/patterns/catalog.json', 'content/patterns/catalog.json')
+              for pack in packs:
+                  z.write(pack, 'content/patterns/packs/'+pack.name)
+              z.write(root/'content/patterns/prompts/pattern_analysis_v2.txt', 'content/patterns/prompts/pattern_analysis_v2.txt')
+              for extra in ('exports/myanmar_patterns_v1/README.md','scripts/check_pattern_v3.py'):
+                  z.write(root/extra, extra)
+          print('Built', dest, dest.stat().st_size, 'bytes')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Talkami_Myanmar_Patterns_500_Three_Cards_V3
+          path: Talkami_Myanmar_Patterns_500_Three_Cards_V3.zip
+          if-no-files-found: error
+          retention-days: 90
