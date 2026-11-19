@@ -1,59 +1,78 @@
-# 缅甸学生中文句型数据包 · Myanmar Pattern Pack v1
+# Talkami 缅甸学生中文句型 · 三卡教材 V3
 
-## 数据来源
+截至 2026-11-19：基于原有 500 个句型编写 **16 类、500 个完整三页句型卡**。
 
-从本仓库 `content/patterns/packs/pattern_cat_01_v1.json` 至 `pattern_cat_16_v1.json` 的 **500 个原始中文句型**整理而成。共 16 类、500 个唯一 ID。原始 `id` / `number` / `title` / `formula` / `introduction` / `example` / `teaching_type` / `difficulty` / `focus_tags` / `target` 保持不变。原始文件及 Android 运行逻辑没有更改。
+## 已完成的内容
 
-**位置**：`exports/myanmar_patterns_v1/catalog.json` + `packs/pattern_cat_XX_mm.json`。
+- 500 个句型，原 `id`、`number`、`title`、`formula`、`example`、`introduction` 均保留
+- 500 × 3 = **1500 个教学页面（卡片页）**
+- 每个句型有 3 个不同中文例句及对应缅语译文，共 **1500 条**
+- 每个句型有 2 个模板（基础表达 + 另一场景），共 **1000 个模板**
+- 每个句型有 1 组包含 2 轮的 A/B 情境对话，共 **500 组**
+- 对确定有教学价值且能判断真假的问题，提供部分常见错误示例，不强制每条编造错误
+- 每条都有针对缅甸学习者的 `myanmar.usage_my` 和 `myanmar.example_my`
+- 提供 AI 教师 V2 提示词，不强制练习题、跟读或等待学生作答
 
-## 缅甸人视角新增字段
+## 原 Android 页面与三张卡的关系
 
-- `locale: "my-MM"`
-- `myanmar.example_my`：对原始中文 `example` 的缅语口语翻译，优先译意和真实表达，男女自称按上下文用 `ကျွန်တော်/ကျွန်မ` 并列。
-- `myanmar.usage_my`：对当前句型的独立缅语讲解，用缅甸学习者的理解方式而非机械汉语术语。
-- `myanmar.contrast_my` 或 `teaching_note_my`：中缅语言对比提示（含词序、功能词、礼貌和口语语气）。
-- `myanmar.review_status: "ai_draft"`：**AI 初稿，尚未经过缅语母语教师逐条终审**。
+Android 源码：`wklearning/src/main/java/com/chat/learning/PatternCardActivity.java`
+- 第 1 张：`overview` — 结构说明、3 条中缅例句、可朗读
+- 第 2 张：`focus` — 2 个模板，每模板 1–2 条中缅例句
+- 第 3 张：`usage` — 1 组真实情境的两轮 A/B 对话，可附确实成立的易错提醒
 
-### 单条数据示例
+解析器：`PatternCardData.java`，读取 `card.pages`（不是读取 `myanmar` 自动生成页面）。
 
-```json
-{
-  "id": "pattern_002",
-  "number": "002",
-  "title": "陈述动作和对象",
-  "formula": "主语 + 动词 + 宾语",
-  "example": "我喜欢咖啡。",
-  "myanmar": {
-    "example_my": "ကျွန်တော်/ကျွန်မ ကော်ဖီကြိုက်တယ်။",
-    "usage_my": "မြန်မာလို “ကော်ဖီကို ကြိုက်တယ်” လို့ပြောပေမဲ့ တရုတ်လို 喜欢 နောက်မှာ 咖啡 ကို ထားရတယ်။",
-    "review_status": "ai_draft"
-  }
-}
+**注意：** 文字卡是 Android 原生三页布局，无需重新设计 UI。左右滑换页、上下滑换句型、页面底部可打开 AI 追问。
+
+## 文件结构
+
+```text
+content/patterns/
+├── catalog.json                    # V3 分类目录：源数据/版本/发布文件名
+├── packs/
+│   ├── pattern_cat_01_v1.json       # 原版存档，仍保留
+│   ├── pattern_cat_01_v3.json       # 正式候选来源，45 条完整三卡
+│   ├── ...                         # 02~15 同理
+│   └── pattern_cat_16_v3.json       # 5 条完整三卡
+└── prompts/
+    ├── pattern_analysis_v1.txt     # 原 AI 提示词，仍保留
+    └── pattern_analysis_v2.txt     # 缅甸视角新提示词
+
+exports/myanmar_patterns_v1/
+├── catalog.json                    # 独立版目录
+├── all_patterns_mm.json            # 500 条合并版 JSON（体积较大，建议使用 Raw）
+├── packs/
+│   └── pattern_cat_XX_mm.json      # 16 份独立编辑/分享副本
+├── editorial/
+│   └── pattern_cat_01_extra.json   # 第一类例句的初期编辑参考
+├── ai_teacher_prompt.md            # 提示词编写说明
+└── README.md
+
+scripts/check_pattern_v3.py         # 严格校验 500 条与三卡字段
+.github/workflows/check-pattern-v3.yml
 ```
 
-### 接入方式
+## 怎么修改某个句型
 
-1. 下载/拷贝 `catalog.json` 和 16 个 `packs/*.json` 到应用静态资源目录或 CDN/R2。
-2. 在 UI 按 `catalog.items` 展示分类，打开分类时加载其 `data_url`。
-3. 句型卡：原中文句型名、结构和例句；下方展示 `myanmar.example_my` 与 `myanmar.usage_my`；点击 AI 用当前句型对象作为上下文。
-4. 若要兼容旧 Android 远程目录，**不要直接用新目录覆盖旧目录**：新结构多了 `myanmar` 字段，需确认 JSON 解析器对未知字段的容忍性；也不要在未测试前改原有 SHA-256 下载目录。
-5. 缅语 TTS 不应读中文拼音；中文句子用中文 TTS。当前包未批量生成拼音、音频，也不含练习题。
+1. 找到编号。例如 347 号“把字句”在 `content/patterns/packs/pattern_cat_10_v3.json`。
+2. 找到 `"id": "pattern_347"`。
+3. `myanmar.example_my` 是原中文首例句的缅文；`myanmar.usage_my` 是解释。
+4. `card.pages[0].items` 是卡一的三条例句。
+5. `card.pages[1].templates` 是卡二的模板及例句。
+6. `card.pages[2].dialogues` 和 `mistakes` 是卡三的情境问答和易错说明。
+7. 修改后运行 `python scripts/check_pattern_v3.py`，再运行 `python scripts/build_release.py`。
+8. 审校通过以后，合并 Draft PR 并按既有 `Publish learning content` 流程发布新 GitHub Release。
 
-### 缅甸学生讲解原则
+## 发版注意
 
-- 先讲「什么时候用」，再讲「中文怎么排列」，最后讲「和缅语哪里不同」。
-- 重点区分 `不/没`、`会/能/可以`、`在/正在`、`了/着/过`、`再/又`、`才/就`、`比/没有…那么`、`把/被/是…的`。
-- 缅语应是缅甸日常自然口语，中文原句不随意改写；不得凭姓名推断性别。
-- 语气词按真实场景解释，不强行给一个固定缅语字词。
-- 不把 `了` 说成永远表示过去，也不把 `是` 直接套用到中文形容词句和年龄句。
-- 不自动出练习题、不强制用户跟读；用户主动要求互动时才练习。
+- 新版不覆盖 `_v1.json`。发布目标文件名为 `pattern-*-v3.json`。
+- `content/patterns/catalog.json` 已在 PR 分支内指向 V3，包含 `source_data`；打包脚本负责写入 SHA-256/大小/版本，**不要把仓库源目录直接作为 Android 下载目录**。
+- 数据尚未发布到当前 Android 所读取的最新 Release，线上用户不会自动获得更新。
+- 部分缅语是教学编辑初稿，**未经过独立缅语母语教师逐条终审**；为避免错误扩散，此 PR 保持草稿，不自动合并、也不触发正式发布。
+- 本批未额外生成拼音与音频文件；Android 中文句子可按原有 TTS 桥接播放。
 
-### 质量说明
+## 质量校验
 
-完整性：已检查 16 类共 500 条；新增缅语例句和讲解非空；中文源字段与原版本一致。
+在 PR 分支已完成基于真实 JSON 的结构检查：16 类，500 个不重复 ID，连续编号 001–500，1500 条中缅例句，1000 个模板，500 组两轮对话，三页类型及 JSON 必填字段均齐全。还人工校正了部分中文搭配、数字表达、缅语方向性翻译及容易错误定性的示例。
 
-**未完成项**：缅语母语者逐条校对、中文内容的语义复审、精确拼音、每条句型的多例句、多场景对话、AI 交互质量实测。因此这是可开发试用的数据包初稿，**不是已完成母语终审的正式教材**。
-
-## 数据版本
-
-创建日期：2026-11-19；数据包 v1，原始中文源为 v1；本数据包各分类 `version=2` 代表增补缅语字段，并不代表已经发布新版 Android 原目录。
+结构检查不代表母语终审；上架前应抽检全部 500 条，优先复核细微语气、多音字/时间数量、多义词、语用差异。
