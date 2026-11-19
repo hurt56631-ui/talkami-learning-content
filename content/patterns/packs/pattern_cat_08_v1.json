@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_08",
   "title": "补语",
   "subtitle": "58 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 58,
   "items": [
     {
@@ -20,7 +20,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示时间够不够。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "现在还来得及。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "现在还来得及。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "来得及/来不及 + 动词",
+                "note_zh": "表示时间够不够。",
+                "examples": [
+                  {
+                    "zh": "现在还来得及。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“来得及”用于动作结果与能否做到等场景。原句：“现在还来得及。”。表示时间够不够。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "现在还来得及。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_158",
@@ -35,7 +98,70 @@
         "了",
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "读liǎo，表示能不能完成、承受或处理；“受得了/受不了”很常用。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这么多我吃不了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这么多我吃不了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得了/不了 + 宾语/小句",
+                "note_zh": "读liǎo，表示能不能完成、承受或处理；“受得了/受不了”很常用。",
+                "examples": [
+                  {
+                    "zh": "这么多我吃不了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“能否承受或完成”用于动作结果与能否做到等场景。原句：“这么多我吃不了。”。读liǎo，表示能不能完成、承受或处理；“受得了/受不了”很常用。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这么多我吃不了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_191",
@@ -49,7 +175,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示经济、能力或条件上能不能承担，最常见的是“买得起/买不起”。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我买不起这个。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我买不起这个。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得起/不起 + 宾语",
+                "note_zh": "表示经济、能力或条件上能不能承担，最常见的是“买得起/买不起”。",
+                "examples": [
+                  {
+                    "zh": "我买不起这个。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“负担得起”用于动作结果与能否做到等场景。原句：“我买不起这个。”。表示经济、能力或条件上能不能承担，最常见的是“买得起/买不起”。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我买不起这个。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_320",
@@ -63,7 +252,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示有无力气让人或东西移动。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我搬不动箱子。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我搬不动箱子。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 动",
+                "note_zh": "表示有无力气让人或东西移动。",
+                "examples": [
+                  {
+                    "zh": "我搬不动箱子。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可能动”用于动作结果与能否做到等场景。原句：“我搬不动箱子。”。表示有无力气让人或东西移动。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我搬不动箱子。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_321",
@@ -78,7 +330,70 @@
         "过",
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作能不能实现某个方向。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "门锁了，我进不去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "门锁了，我进不去。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 进来/出去/回来/过去",
+                "note_zh": "表示动作能不能实现某个方向。",
+                "examples": [
+                  {
+                    "zh": "门锁了，我进不去。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“方向可能补语”用于动作结果与能否做到等场景。原句：“门锁了，我进不去。”。表示动作能不能实现某个方向。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "门锁了，我进不去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_333",
@@ -92,7 +407,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作能不能达到结果，常见有“懂、完、到、见、清楚”等。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听不懂。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听不懂。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 结果补语",
+                "note_zh": "表示动作能不能达到结果，常见有“懂、完、到、见、清楚”等。",
+                "examples": [
+                  {
+                    "zh": "我听不懂。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“一般可能补语”用于动作结果与能否做到等场景。原句：“我听不懂。”。表示动作能不能达到结果，常见有“懂、完、到、见、清楚”等。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听不懂。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_395",
@@ -106,7 +484,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示空间、数量或心理上能不能容纳。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里放不下桌子。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里放不下桌子。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 下",
+                "note_zh": "表示空间、数量或心理上能不能容纳。",
+                "examples": [
+                  {
+                    "zh": "这里放不下桌子。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可能下”用于动作结果与能否做到等场景。原句：“这里放不下桌子。”。表示空间、数量或心理上能不能容纳。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里放不下桌子。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_443",
@@ -120,7 +561,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示能不能固定、记住或忍住。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我记不住名字。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我记不住名字。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 住",
+                "note_zh": "表示能不能固定、记住或忍住。",
+                "examples": [
+                  {
+                    "zh": "我记不住名字。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可能住”用于动作结果与能否做到等场景。原句：“我记不住名字。”。表示能不能固定、记住或忍住。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我记不住名字。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_444",
@@ -134,7 +638,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示能不能打开、分开或离开。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我打不开门。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我打不开门。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 开",
+                "note_zh": "表示能不能打开、分开或离开。",
+                "examples": [
+                  {
+                    "zh": "我打不开门。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可能开”用于动作结果与能否做到等场景。原句：“我打不开门。”。表示能不能打开、分开或离开。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我打不开门。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_467",
@@ -149,7 +716,70 @@
         "过",
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示数量、工作或精力能不能应付。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我忙不过来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我忙不过来。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 过来",
+                "note_zh": "表示数量、工作或精力能不能应付。",
+                "examples": [
+                  {
+                    "zh": "我忙不过来。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可能应付”用于动作结果与能否做到等场景。原句：“我忙不过来。”。表示数量、工作或精力能不能应付。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我忙不过来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_478",
@@ -164,7 +794,70 @@
         "着",
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示能不能达到、找到或碰到。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我找不着钥匙。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我找不着钥匙。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得/不 + 着（zháo）",
+                "note_zh": "表示能不能达到、找到或碰到。",
+                "examples": [
+                  {
+                    "zh": "我找不着钥匙。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“可能着”用于动作结果与能否做到等场景。原句：“我找不着钥匙。”。表示能不能达到、找到或碰到。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我找不着钥匙。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_230",
@@ -178,7 +871,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示能不能赶到、派上用场，或有没有时间照顾到。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我赶不上火车。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我赶不上火车。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "赶/用/顾 + 得上/不上 + 人/事物",
+                "note_zh": "表示能不能赶到、派上用场，或有没有时间照顾到。",
+                "examples": [
+                  {
+                    "zh": "我赶不上火车。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“得上/不上”用于动作结果与能否做到等场景。原句：“我赶不上火车。”。表示能不能赶到、派上用场，或有没有时间照顾到。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我赶不上火车。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_434",
@@ -192,7 +948,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "动作后面有对象时，常把动词再说一次。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说中文说得很流利。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说中文说得很流利。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 宾语 + 动词 + 得 + 补语",
+                "note_zh": "动作后面有对象时，常把动词再说一次。",
+                "examples": [
+                  {
+                    "zh": "他说中文说得很流利。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“带宾语状态”用于动作结果与能否做到等场景。原句：“他说中文说得很流利。”。动作后面有对象时，常把动词再说一次。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说中文说得很流利。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_435",
@@ -206,7 +1025,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "口语表示程度高。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他高兴得很。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他高兴得很。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "形容词 + 得很",
+                "note_zh": "口语表示程度高。",
+                "examples": [
+                  {
+                    "zh": "他高兴得很。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“程度得很”用于动作结果与能否做到等场景。原句：“他高兴得很。”。口语表示程度高。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他高兴得很。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_454",
@@ -221,7 +1103,70 @@
         "得",
         "比"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "比较动作表现。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他跑得比我快。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他跑得比我快。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 动词 + 得 + 比 + B + 形容词",
+                "note_zh": "比较动作表现。",
+                "examples": [
+                  {
+                    "zh": "他跑得比我快。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“比较状态”用于动作结果与能否做到等场景。原句：“他跑得比我快。”。比较动作表现。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他跑得比我快。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_346",
@@ -235,7 +1180,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用“得”说明动作做得怎么样，也可用“怎么样”提问或用“不”否定。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说得很好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说得很好。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 得 + 形容词/怎么样/不 + 形容词",
+                "note_zh": "用“得”说明动作做得怎么样，也可用“怎么样”提问或用“不”否定。",
+                "examples": [
+                  {
+                    "zh": "他说得很好。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“状态补语”用于动作结果与能否做到等场景。原句：“他说得很好。”。用“得”说明动作做得怎么样，也可用“怎么样”提问或用“不”否定。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他说得很好。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_290",
@@ -250,7 +1258,70 @@
         "了",
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "很口语，表示程度特别高。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累得不行。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累得不行。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词/形容词 + 得 + 不行/要命/不得了",
+                "note_zh": "很口语，表示程度特别高。",
+                "examples": [
+                  {
+                    "zh": "我累得不行。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“强烈程度”用于动作结果与能否做到等场景。原句：“我累得不行。”。很口语，表示程度特别高。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累得不行。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_419",
@@ -264,7 +1335,70 @@
       "focus_tags": [
         "得"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“得”后面直接说这个动作或状态造成了什么结果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累得不想动。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累得不想动。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词/形容词 + 得 + 小句",
+                "note_zh": "“得”后面直接说这个动作或状态造成了什么结果。",
+                "examples": [
+                  {
+                    "zh": "我累得不想动。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“程度造成结果”用于动作结果与能否做到等场景。原句：“我累得不想动。”。“得”后面直接说这个动作或状态造成了什么结果。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累得不想动。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_229",
@@ -276,7 +1410,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作以后变成什么。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把中文翻译成英文。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把中文翻译成英文。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 成 + 结果",
+                "note_zh": "表示动作以后变成什么。",
+                "examples": [
+                  {
+                    "zh": "他把中文翻译成英文。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果成”用于动作结果与能否做到等场景。原句：“他把中文翻译成英文。”。表示动作以后变成什么。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把中文翻译成英文。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_248",
@@ -290,7 +1487,70 @@
       "focus_tags": [
         "了"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作全部完成。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我吃完了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我吃完了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 完（+了）",
+                "note_zh": "表示动作全部完成。",
+                "examples": [
+                  {
+                    "zh": "我吃完了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“动作做完”用于动作结果与能否做到等场景。原句：“我吃完了。”。表示动作全部完成。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我吃完了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_305",
@@ -302,7 +1562,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示完成并达到可用状态。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "饭做好了。",
+                "my": "ထမင်းချက်ပြီးပြီ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "饭做好了。",
+                "my": "ထမင်းချက်ပြီးပြီ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 好",
+                "note_zh": "表示完成并达到可用状态。",
+                "examples": [
+                  {
+                    "zh": "饭做好了。",
+                    "my": "ထမင်းချက်ပြီးပြီ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果好”用于动作结果与能否做到等场景。原句：“饭做好了。”。表示完成并达到可用状态。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "饭做好了。",
+                "my": "ထမင်းချက်ပြီးပြီ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_306",
@@ -316,7 +1639,70 @@
       "focus_tags": [
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示达到目标或获得。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我找到钥匙了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我找到钥匙了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 到",
+                "note_zh": "表示达到目标或获得。",
+                "examples": [
+                  {
+                    "zh": "我找到钥匙了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果到”用于动作结果与能否做到等场景。原句：“我找到钥匙了。”。表示达到目标或获得。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我找到钥匙了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_307",
@@ -328,7 +1714,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "感官结果。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我看见他了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我看见他了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "看/听 + 见",
+                "note_zh": "感官结果。",
+                "examples": [
+                  {
+                    "zh": "我看见他了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果见”用于动作结果与能否做到等场景。原句：“我看见他了。”。感官结果。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我看见他了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_322",
@@ -342,7 +1791,70 @@
       "focus_tags": [
         "了"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示程度非常高，语气强。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "好极了！",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "好极了！",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "形容词 + 极了",
+                "note_zh": "表示程度非常高，语气强。",
+                "examples": [
+                  {
+                    "zh": "好极了！",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“极了”用于动作结果与能否做到等场景。原句：“好极了！”。表示程度非常高，语气强。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "好极了！",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_323",
@@ -354,7 +1866,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示理解。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听懂了。",
+                "my": "နားလည်သွားပြီ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听懂了。",
+                "my": "နားလည်သွားပြီ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "听/看 + 懂",
+                "note_zh": "表示理解。",
+                "examples": [
+                  {
+                    "zh": "我听懂了。",
+                    "my": "နားလည်သွားပြီ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果懂”用于动作结果与能否做到等场景。原句：“我听懂了。”。表示理解。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听懂了。",
+                "my": "နားလည်သွားပြီ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_324",
@@ -366,7 +1941,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示掌握技能。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我学会开车了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我学会开车了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "学 + 会",
+                "note_zh": "表示掌握技能。",
+                "examples": [
+                  {
+                    "zh": "我学会开车了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果会”用于动作结果与能否做到等场景。原句：“我学会开车了。”。表示掌握技能。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我学会开车了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_325",
@@ -378,7 +2016,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作错误。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我说错了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我说错了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 错",
+                "note_zh": "表示动作错误。",
+                "examples": [
+                  {
+                    "zh": "我说错了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果错”用于动作结果与能否做到等场景。原句：“我说错了。”。表示动作错误。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我说错了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_326",
@@ -390,7 +2091,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作正确。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你答对了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你答对了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 对",
+                "note_zh": "表示动作正确。",
+                "examples": [
+                  {
+                    "zh": "你答对了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果对”用于动作结果与能否做到等场景。原句：“你答对了。”。表示动作正确。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你答对了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_327",
@@ -402,7 +2166,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示把内容分明、听明白、看明白或说明白。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请说清楚。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请说清楚。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 清/清楚",
+                "note_zh": "表示把内容分明、听明白、看明白或说明白。",
+                "examples": [
+                  {
+                    "zh": "请说清楚。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“弄清或说清”用于动作结果与能否做到等场景。原句：“请说清楚。”。表示把内容分明、听明白、看明白或说明白。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请说清楚。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_328",
@@ -414,7 +2241,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "使对象变干净。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把桌子擦干净。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把桌子擦干净。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 干净",
+                "note_zh": "使对象变干净。",
+                "examples": [
+                  {
+                    "zh": "把桌子擦干净。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果干净”用于动作结果与能否做到等场景。原句：“把桌子擦干净。”。使对象变干净。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把桌子擦干净。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_329",
@@ -426,7 +2316,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示离开原处。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把书拿走了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把书拿走了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 走",
+                "note_zh": "表示离开原处。",
+                "examples": [
+                  {
+                    "zh": "他把书拿走了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果走”用于动作结果与能否做到等场景。原句：“他把书拿走了。”。表示离开原处。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他把书拿走了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_330",
@@ -438,7 +2391,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示去除或消失。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把垃圾扔掉。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把垃圾扔掉。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 掉",
+                "note_zh": "表示去除或消失。",
+                "examples": [
+                  {
+                    "zh": "把垃圾扔掉。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果掉”用于动作结果与能否做到等场景。原句：“把垃圾扔掉。”。表示去除或消失。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "把垃圾扔掉。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_331",
@@ -450,7 +2466,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示打开、分开或启动。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门打开。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门打开。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 开",
+                "note_zh": "表示打开、分开或启动。",
+                "examples": [
+                  {
+                    "zh": "请把门打开。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果开”用于动作结果与能否做到等场景。原句：“请把门打开。”。表示打开、分开或启动。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请把门打开。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_332",
@@ -462,7 +2541,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示固定、停止、牢记。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "记住我的话。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "记住我的话。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 住",
+                "note_zh": "表示固定、停止、牢记。",
+                "examples": [
+                  {
+                    "zh": "记住我的话。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果住”用于动作结果与能否做到等场景。原句：“记住我的话。”。表示固定、停止、牢记。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "记住我的话。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_339",
@@ -474,7 +2616,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示东西被弄坏、弄破。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "杯子打破了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "杯子打破了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 破",
+                "note_zh": "表示东西被弄坏、弄破。",
+                "examples": [
+                  {
+                    "zh": "杯子打破了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果破”用于动作结果与能否做到等场景。原句：“杯子打破了。”。表示东西被弄坏、弄破。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "杯子打破了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_340",
@@ -486,7 +2691,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示从睡眠或昏迷中醒来。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我睡醒了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我睡醒了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 醒",
+                "note_zh": "表示从睡眠或昏迷中醒来。",
+                "examples": [
+                  {
+                    "zh": "我睡醒了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果醒”用于动作结果与能否做到等场景。原句：“我睡醒了。”。表示从睡眠或昏迷中醒来。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我睡醒了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_341",
@@ -498,7 +2766,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示数量或程度达到需要。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这些钱够用了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这些钱够用了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 够",
+                "note_zh": "表示数量或程度达到需要。",
+                "examples": [
+                  {
+                    "zh": "这些钱够用了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果够”用于动作结果与能否做到等场景。原句：“这些钱够用了。”。表示数量或程度达到需要。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这些钱够用了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_353",
@@ -510,7 +2841,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示达到满的状态。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "水装满了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "水装满了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 满",
+                "note_zh": "表示达到满的状态。",
+                "examples": [
+                  {
+                    "zh": "水装满了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果满”用于动作结果与能否做到等场景。原句：“水装满了。”。表示达到满的状态。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "水装满了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_365",
@@ -524,7 +2918,70 @@
       "focus_tags": [
         "了"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示做某事的时间过早或过晚。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你来早了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你来早了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 早/晚 + 了",
+                "note_zh": "表示做某事的时间过早或过晚。",
+                "examples": [
+                  {
+                    "zh": "你来早了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果早晚”用于动作结果与能否做到等场景。原句：“你来早了。”。表示做某事的时间过早或过晚。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你来早了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_375",
@@ -536,7 +2993,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示东西因为动作而丢失。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把钥匙弄丢了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把钥匙弄丢了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 丢",
+                "note_zh": "表示东西因为动作而丢失。",
+                "examples": [
+                  {
+                    "zh": "我把钥匙弄丢了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果丢”用于动作结果与能否做到等场景。原句：“我把钥匙弄丢了。”。表示东西因为动作而丢失。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我把钥匙弄丢了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_394",
@@ -550,7 +3070,70 @@
       "focus_tags": [
         "着"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作成功达到目的，如找到、睡着。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "孩子睡着了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "孩子睡着了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 着（zháo）",
+                "note_zh": "表示动作成功达到目的，如找到、睡着。",
+                "examples": [
+                  {
+                    "zh": "孩子睡着了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果着”用于动作结果与能否做到等场景。原句：“孩子睡着了。”。表示动作成功达到目的，如找到、睡着。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "孩子睡着了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_400",
@@ -562,7 +3145,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示人或东西倒下。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他摔倒了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他摔倒了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 倒",
+                "note_zh": "表示人或东西倒下。",
+                "examples": [
+                  {
+                    "zh": "他摔倒了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果倒”用于动作结果与能否做到等场景。原句：“他摔倒了。”。表示人或东西倒下。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他摔倒了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_401",
@@ -574,7 +3220,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示穿上、贴上、加上或放上某物。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请穿上外套。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请穿上外套。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 上 + 宾语",
+                "note_zh": "表示穿上、贴上、加上或放上某物。",
+                "examples": [
+                  {
+                    "zh": "请穿上外套。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“放上去”用于动作结果与能否做到等场景。原句：“请穿上外套。”。表示穿上、贴上、加上或放上某物。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请穿上外套。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_430",
@@ -586,7 +3295,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "可表示极端程度或死亡。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我快累死了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我快累死了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 死",
+                "note_zh": "可表示极端程度或死亡。",
+                "examples": [
+                  {
+                    "zh": "我快累死了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果死”用于动作结果与能否做到等场景。原句：“我快累死了。”。可表示极端程度或死亡。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我快累死了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_442",
@@ -598,7 +3370,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示全部用完、吃完或拿完。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "饭吃光了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "饭吃光了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 光",
+                "note_zh": "表示全部用完、吃完或拿完。",
+                "examples": [
+                  {
+                    "zh": "饭吃光了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果光”用于动作结果与能否做到等场景。原句：“饭吃光了。”。表示全部用完、吃完或拿完。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "饭吃光了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_491",
@@ -610,7 +3445,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示人群、东西或状态分开。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "人群散开了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "人群散开了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 散",
+                "note_zh": "表示人群、东西或状态分开。",
+                "examples": [
+                  {
+                    "zh": "人群散开了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果散”用于动作结果与能否做到等场景。原句：“人群散开了。”。表示人群、东西或状态分开。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "人群散开了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_492",
@@ -622,7 +3520,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作或状态让人、东西受到很大影响。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累坏了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累坏了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 坏",
+                "note_zh": "表示动作或状态让人、东西受到很大影响。",
+                "examples": [
+                  {
+                    "zh": "我累坏了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“结果坏”用于动作结果与能否做到等场景。原句：“我累坏了。”。表示动作或状态让人、东西受到很大影响。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我累坏了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_493",
@@ -634,7 +3595,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示把东西拿起，或开始提到某事。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他拿起手机。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他拿起手机。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 起 + 宾语",
+                "note_zh": "表示把东西拿起，或开始提到某事。",
+                "examples": [
+                  {
+                    "zh": "他拿起手机。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“拿起开始”用于动作结果与能否做到等场景。原句：“他拿起手机。”。表示把东西拿起，或开始提到某事。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他拿起手机。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_112",
@@ -648,7 +3672,70 @@
       "focus_tags": [
         "过"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“来”朝向说话人，“去”远离说话人；前面还可加上、下、进、出、回、过。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他走进来了。",
+                "my": "သူ လမ်းလျှောက်ဝင်လာတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他走进来了。",
+                "my": "သူ လမ်းလျှောက်ဝင်လာတယ်။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 来/去；动词 + 上/下/进/出/回/过 + 来/去",
+                "note_zh": "“来”朝向说话人，“去”远离说话人；前面还可加上、下、进、出、回、过。",
+                "examples": [
+                  {
+                    "zh": "他走进来了。",
+                    "my": "သူ လမ်းလျှောက်ဝင်လာတယ်။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“趋向补语”用于动作结果与能否做到等场景。原句：“他走进来了。”。“来”朝向说话人，“去”远离说话人；前面还可加上、下、进、出、回、过。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他走进来了。",
+                "my": "သူ လမ်းလျှောက်ဝင်လာတယ်။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_264",
@@ -660,7 +3747,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作返回原来的地方。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我走回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我走回家。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 回 + 处所",
+                "note_zh": "表示动作返回原来的地方。",
+                "examples": [
+                  {
+                    "zh": "我走回家。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“返回处所”用于动作结果与能否做到等场景。原句：“我走回家。”。表示动作返回原来的地方。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我走回家。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_288",
@@ -672,7 +3822,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作进入某个地方。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他走进房间。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他走进房间。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 进 + 处所",
+                "note_zh": "表示动作进入某个地方。",
+                "examples": [
+                  {
+                    "zh": "他走进房间。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“进入处所”用于动作结果与能否做到等场景。原句：“他走进房间。”。表示动作进入某个地方。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他走进房间。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_289",
@@ -686,7 +3899,70 @@
       "focus_tags": [
         "离"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作从某个地方出来。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "她走出教室。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "她走出教室。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 出 + 处所",
+                "note_zh": "表示动作从某个地方出来。",
+                "examples": [
+                  {
+                    "zh": "她走出教室。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“离开处所”用于动作结果与能否做到等场景。原句：“她走出教室。”。表示动作从某个地方出来。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "她走出教室。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_345",
@@ -698,7 +3974,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示开始并持续。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "大家笑起来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "大家笑起来了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词/形容词 + 起来",
+                "note_zh": "表示开始并持续。",
+                "examples": [
+                  {
+                    "zh": "大家笑起来了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“起来开始”用于动作结果与能否做到等场景。原句：“大家笑起来了。”。表示开始并持续。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "大家笑起来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_354",
@@ -712,7 +4051,70 @@
       "focus_tags": [
         "过"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示经过或越过某个地方。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我走过公园。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我走过公园。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 过 + 处所",
+                "note_zh": "表示经过或越过某个地方。",
+                "examples": [
+                  {
+                    "zh": "我走过公园。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“经过处所”用于动作结果与能否做到等场景。原句：“我走过公园。”。表示经过或越过某个地方。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我走过公园。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_402",
@@ -724,7 +4126,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "可表示取下、摘下，也可表示记录、固定或保留下来。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请记下号码。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请记下号码。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 下/下来 + 宾语",
+                "note_zh": "可表示取下、摘下，也可表示记录、固定或保留下来。",
+                "examples": [
+                  {
+                    "zh": "请记下号码。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“下/下来”用于动作结果与能否做到等场景。原句：“请记下号码。”。可表示取下、摘下，也可表示记录、固定或保留下来。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请记下号码。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_431",
@@ -736,7 +4201,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示动作或状态继续下去。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请说下去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请说下去。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 下去",
+                "note_zh": "表示动作或状态继续下去。",
+                "examples": [
+                  {
+                    "zh": "请说下去。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“下去继续”用于动作结果与能否做到等场景。原句：“请说下去。”。表示动作或状态继续下去。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请说下去。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_432",
@@ -748,7 +4276,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示识别或产生。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听出来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听出来了。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 出来",
+                "note_zh": "表示识别或产生。",
+                "examples": [
+                  {
+                    "zh": "我听出来了。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“出来显现”用于动作结果与能否做到等场景。原句：“我听出来了。”。表示识别或产生。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我听出来了。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_433",
@@ -760,7 +4351,70 @@
       "teaching_type": "complement",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示固定、记录或持续成功。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请记下来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请记下来。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动词 + 下来",
+                "note_zh": "表示固定、记录或持续成功。",
+                "examples": [
+                  {
+                    "zh": "请记下来。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“下来固定”用于动作结果与能否做到等场景。原句：“请记下来。”。表示固定、记录或持续成功。 动词后的补语可能表示结果、方向、程度、状态或可能性，需分别判断。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "请记下来。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     }
   ]
 }

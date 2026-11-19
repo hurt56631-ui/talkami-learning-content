@@ -4,8 +4,8 @@
   "category_id": "pattern_cat_06",
   "title": "疑问、反问与确认",
   "subtitle": "62 个句型",
-  "version": 1,
-  "updated_at": "2026-08-11T06:20:00Z",
+  "version": 2,
+  "updated_at": "2026-11-19T16:30:00Z",
   "item_count": 62,
   "items": [
     {
@@ -18,7 +18,70 @@
       "teaching_type": "question",
       "difficulty": "hard",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "疑问词不一定表示提问；和“都、也”搭配，可表示任何人、任何东西或任何地方。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我什么都吃。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我什么都吃。",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "谁/什么/哪儿 + 都/也 + 谓语",
+                "note_zh": "疑问词不一定表示提问；和“都、也”搭配，可表示任何人、任何东西或任何地方。",
+                "examples": [
+                  {
+                    "zh": "我什么都吃。",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“疑问词表示任指”用于提问确认与回应等场景。原句：“我什么都吃。”。疑问词不一定表示提问；和“都、也”搭配，可表示任何人、任何东西或任何地方。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我什么都吃。",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_104",
@@ -30,7 +93,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "既可追问原因，也可提出建议；“怎么不”更口语，语气有时更强。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你怎么不说话？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你怎么不说话？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 为什么不/怎么不 + 动词",
+                "note_zh": "既可追问原因，也可提出建议；“怎么不”更口语，语气有时更强。",
+                "examples": [
+                  {
+                    "zh": "你怎么不说话？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“为什么不/怎么不”用于提问确认与回应等场景。原句：“你怎么不说话？”。既可追问原因，也可提出建议；“怎么不”更口语，语气有时更强。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你怎么不说话？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_415",
@@ -42,7 +168,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "口语中反驳对方，表示“没有这回事”或“没那么夸张”。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "哪有这么贵？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "哪有这么贵？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "哪有 + 小句/名词",
+                "note_zh": "口语中反驳对方，表示“没有这回事”或“没那么夸张”。",
+                "examples": [
+                  {
+                    "zh": "哪有这么贵？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪有……”用于提问确认与回应等场景。原句：“哪有这么贵？”。口语中反驳对方，表示“没有这回事”或“没那么夸张”。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "哪有这么贵？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_416",
@@ -56,7 +245,70 @@
       "focus_tags": [
         "呢"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "强烈反问，表示不应该或不可能这样做。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你怎么能这样说呢？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你怎么能这样说呢？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 怎么能 + 动词 + 呢",
+                "note_zh": "强烈反问，表示不应该或不可能这样做。",
+                "examples": [
+                  {
+                    "zh": "你怎么能这样说呢？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么能……呢”用于提问确认与回应等场景。原句：“你怎么能这样说呢？”。强烈反问，表示不应该或不可能这样做。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你怎么能这样说呢？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_029",
@@ -68,7 +320,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示惊讶、感叹或埋怨。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "今天怎么这么热？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "今天怎么这么热？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 怎么这么 + 形容词",
+                "note_zh": "表示惊讶、感叹或埋怨。",
+                "examples": [
+                  {
+                    "zh": "今天怎么这么热？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么这么……”用于提问确认与回应等场景。原句：“今天怎么这么热？”。表示惊讶、感叹或埋怨。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "今天怎么这么热？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_274",
@@ -80,7 +395,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "两者都询问持续时间；“多长时间”更完整。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你等了多久？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你等了多久？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动作 + 多久/多长时间",
+                "note_zh": "两者都询问持续时间；“多长时间”更完整。",
+                "examples": [
+                  {
+                    "zh": "你等了多久？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“问持续时间”用于提问确认与回应等场景。原句：“你等了多久？”。两者都询问持续时间；“多长时间”更完整。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你等了多久？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_013",
@@ -92,7 +470,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "买东西时最常用的价格问法。",
+            "note_my": "ဈေးနှုန်းမေးတဲ့အခါ “多少钱” သုံးနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "这个多少钱？",
+                "my": "ဒီဟာ ဘယ်လောက်လဲ။"
+              },
+              {
+                "zh": "这杯茶多少钱？",
+                "my": "ဒီလက်ဖက်ရည်တစ်ခွက် ဘယ်လောက်လဲ။"
+              },
+              {
+                "zh": "那本书多少钱？",
+                "my": "ဟိုစာအုပ်တစ်အုပ် ဘယ်လောက်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "ဈေးနှုန်းမေးတဲ့အခါ “多少钱” သုံးနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "这杯茶多少钱？",
+                "my": "ဒီလက်ဖက်ရည်တစ်ခွက် ဘယ်လောက်လဲ။"
+              },
+              {
+                "zh": "那本书多少钱？",
+                "my": "ဟိုစာအုပ်တစ်အုပ် ဘယ်လောက်လဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "名词 + 多少钱",
+                "note_zh": "买东西时最常用的价格问法。",
+                "examples": [
+                  {
+                    "zh": "这个多少钱？",
+                    "my": "ဒီဟာ ဘယ်လောက်လဲ။"
+                  },
+                  {
+                    "zh": "这杯茶多少钱？",
+                    "my": "ဒီလက်ဖက်ရည်တစ်ခွက် ဘယ်လောက်လဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "这/那 + 量词 + 名词 + 多少钱？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "这杯茶多少钱？",
+                    "my": "ဒီလက်ဖက်ရည်တစ်ခွက် ဘယ်လောက်လဲ။"
+                  },
+                  {
+                    "zh": "那本书多少钱？",
+                    "my": "ဟိုစာအုပ်တစ်အုပ် ဘယ်လောက်လဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“问价格”用于提问确认与回应等场景。原句：“这个多少钱？”。买东西时最常用的价格问法。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这杯茶多少钱？",
+                "my": "ဒီလက်ဖက်ရည်တစ်ခွက် ဘယ်လောက်လဲ။"
+              },
+              {
+                "zh": "那本书多少钱？",
+                "my": "ဟိုစာအုပ်တစ်အုပ် ဘယ်လောက်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "这个多少钱？",
+                    "my": "ဒီဟာ ဘယ်လောက်လဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "十块钱。",
+                    "my": "ဆယ်ယွမ်ပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "这个几钱？",
+                "correct": "这个多少钱？",
+                "note_zh": "问通常价格时用“多少钱”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_047",
@@ -104,7 +601,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问遇到问题该怎么处理。",
+            "note_my": "遇到麻烦时用“怎么办”求方法。",
+            "items": [
+              {
+                "zh": "现在怎么办？",
+                "my": "အခု ဘယ်လိုလုပ်ရမလဲ။"
+              },
+              {
+                "zh": "手机坏了，怎么办？",
+                "my": "ဖုန်းပျက်ပြီ၊ ဘယ်လိုလုပ်ရမလဲ။"
+              },
+              {
+                "zh": "找不到钥匙，怎么办？",
+                "my": "သော့ရှာမတွေ့ဘူး၊ ဘယ်လိုလုပ်ရမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "遇到麻烦时用“怎么办”求方法。",
+            "items": [
+              {
+                "zh": "手机坏了，怎么办？",
+                "my": "ဖုန်းပျက်ပြီ၊ ဘယ်လိုလုပ်ရမလဲ။"
+              },
+              {
+                "zh": "找不到钥匙，怎么办？",
+                "my": "သော့ရှာမတွေ့ဘူး၊ ဘယ်လိုလုပ်ရမလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语/事情 + 怎么办",
+                "note_zh": "询问遇到问题该怎么处理。",
+                "examples": [
+                  {
+                    "zh": "现在怎么办？",
+                    "my": "အခု ဘယ်လိုလုပ်ရမလဲ။"
+                  },
+                  {
+                    "zh": "手机坏了，怎么办？",
+                    "my": "ဖုန်းပျက်ပြီ၊ ဘယ်လိုလုပ်ရမလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "发生的事 + 怎么办？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "手机坏了，怎么办？",
+                    "my": "ဖုန်းပျက်ပြီ၊ ဘယ်လိုလုပ်ရမလဲ။"
+                  },
+                  {
+                    "zh": "找不到钥匙，怎么办？",
+                    "my": "သော့ရှာမတွေ့ဘူး၊ ဘယ်လိုလုပ်ရမလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么办”用于提问确认与回应等场景。原句：“现在怎么办？”。询问遇到问题该怎么处理。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "手机坏了，怎么办？",
+                "my": "ဖုန်းပျက်ပြီ၊ ဘယ်လိုလုပ်ရမလဲ။"
+              },
+              {
+                "zh": "找不到钥匙，怎么办？",
+                "my": "သော့ရှာမတွေ့ဘူး၊ ဘယ်လိုလုပ်ရမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "下雨了，怎么办？",
+                    "my": "မိုးရွာနေပြီ၊ ဘယ်လိုလုပ်မလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "坐车吧。",
+                    "my": "ကားစီးကြစို့။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "怎么办这个？",
+                "correct": "这个怎么办？",
+                "note_zh": "“这个怎么办”可问某物怎样处理。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_056",
@@ -118,7 +734,110 @@
       "focus_tags": [
         "吗"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用了“吗”，通常就不再说“去不去、好不好”。",
+            "note_my": "ဟုတ်မဟုတ် မေးချင်ရင် ဝါကျအဆုံး “吗” ထည့်တယ်။",
+            "items": [
+              {
+                "zh": "你是学生吗？",
+                "my": "မင်း ကျောင်းသားလား။"
+              },
+              {
+                "zh": "你喜欢茶吗？",
+                "my": "မင်း လက်ဖက်ရည်ကြိုက်လား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "ဟုတ်မဟုတ် မေးချင်ရင် ဝါကျအဆုံး “吗” ထည့်တယ်။",
+            "items": [
+              {
+                "zh": "你喜欢茶吗？",
+                "my": "မင်း လက်ဖက်ရည်ကြိုက်လား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "陈述句 + 吗",
+                "note_zh": "用了“吗”，通常就不再说“去不去、好不好”。",
+                "examples": [
+                  {
+                    "zh": "你是学生吗？",
+                    "my": "မင်း ကျောင်းသားလား။"
+                  },
+                  {
+                    "zh": "你喜欢茶吗？",
+                    "my": "မင်း လက်ဖက်ရည်ကြိုက်လား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你 + 动词 + 宾语 + 吗？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你喜欢茶吗？",
+                    "my": "မင်း လက်ဖက်ရည်ကြိုက်လား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“吗问句”用于提问确认与回应等场景。原句：“你是学生吗？”。用了“吗”，通常就不再说“去不去、好不好”。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你喜欢茶吗？",
+                "my": "မင်း လက်ဖက်ရည်ကြိုက်လား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你忙吗？",
+                    "my": "မင်း အလုပ်များလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "不忙。",
+                    "my": "မများဘူး။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你是谁吗？",
+                "correct": "你是谁？",
+                "note_zh": "普通特指问句不再加“吗”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_057",
@@ -132,7 +851,110 @@
       "focus_tags": [
         "呢"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "可追问同类信息或询问去向。",
+            "note_my": "“呢” ကို တစ်ဖက်လူကို ပြန်မေးတာမျိုးမှာ သုံးတတ်တယ်။",
+            "items": [
+              {
+                "zh": "你呢？",
+                "my": "မင်းကရော။"
+              },
+              {
+                "zh": "我的手机呢？",
+                "my": "ကျွန်တော်/ကျွန်မရဲ့ ဖုန်းကရော။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“呢” ကို တစ်ဖက်လူကို ပြန်မေးတာမျိုးမှာ သုံးတတ်တယ်။",
+            "items": [
+              {
+                "zh": "我的手机呢？",
+                "my": "ကျွန်တော်/ကျွန်မရဲ့ ဖုန်းကရော။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "名词/代词 + 呢",
+                "note_zh": "可追问同类信息或询问去向。",
+                "examples": [
+                  {
+                    "zh": "你呢？",
+                    "my": "မင်းကရော။"
+                  },
+                  {
+                    "zh": "我的手机呢？",
+                    "my": "ကျွန်တော်/ကျွန်မရဲ့ ဖုန်းကရော။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "我 + 状态，你呢？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "我的手机呢？",
+                    "my": "ကျွန်တော်/ကျွန်မရဲ့ ဖုန်းကရော။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“呢问情况”用于提问确认与回应等场景。原句：“你呢？”。可追问同类信息或询问去向。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我的手机呢？",
+                "my": "ကျွန်တော်/ကျွန်မရဲ့ ဖုန်းကရော။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "我很好，你呢？",
+                    "my": "ကျွန်တော်/ကျွန်မ နေကောင်းတယ်၊ မင်းကရော။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我也很好。",
+                    "my": "ကျွန်တော်/ကျွန်မလည်း နေကောင်းတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你呢是老师？",
+                "correct": "你是老师吗？",
+                "note_zh": "问身份的普通是非问句优先用“吗”或“是不是”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_058",
@@ -144,7 +966,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "这是日常口语中很常见的问法。",
+            "note_my": "“V不V”提出肯定或否定选择。",
+            "items": [
+              {
+                "zh": "你去不去？",
+                "my": "မင်း သွားမလား၊ မသွားဘူးလား။"
+              },
+              {
+                "zh": "你来不来？",
+                "my": "လာမလား၊ မလာဘူးလား။"
+              },
+              {
+                "zh": "你吃不吃饭？",
+                "my": "ထမင်းစားမလား၊ မစားဘူးလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“V不V”提出肯定或否定选择。",
+            "items": [
+              {
+                "zh": "你来不来？",
+                "my": "လာမလား၊ မလာဘူးလား။"
+              },
+              {
+                "zh": "你吃不吃饭？",
+                "my": "ထမင်းစားမလား၊ မစားဘူးလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 动词 + 不 + 动词",
+                "note_zh": "这是日常口语中很常见的问法。",
+                "examples": [
+                  {
+                    "zh": "你去不去？",
+                    "my": "မင်း သွားမလား၊ မသွားဘူးလား။"
+                  },
+                  {
+                    "zh": "你来不来？",
+                    "my": "လာမလား၊ မလာဘူးလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "谁 + 动词 + 不 + 动词 + 宾语？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你来不来？",
+                    "my": "လာမလား၊ မလာဘူးလား။"
+                  },
+                  {
+                    "zh": "你吃不吃饭？",
+                    "my": "ထမင်းစားမလား၊ မစားဘူးလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“正反问动词”用于提问确认与回应等场景。原句：“你去不去？”。这是日常口语中很常见的问法。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你来不来？",
+                "my": "လာမလား၊ မလာဘူးလား။"
+              },
+              {
+                "zh": "你吃不吃饭？",
+                "my": "ထမင်းစားမလား၊ မစားဘူးလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你去不去？",
+                    "my": "သွားမလား၊ မသွားဘူးလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "去，现在去。",
+                    "my": "သွားမယ်၊ အခုသွားမယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你去不去吗？",
+                "correct": "你去不去？",
+                "note_zh": "正反问通常不再加句末“吗”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_059",
@@ -156,7 +1097,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "形容词直接重叠。",
+            "note_my": "“形容词+不+形容词”询问性质。",
+            "items": [
+              {
+                "zh": "这个贵不贵？",
+                "my": "ဒီဟာ ဈေးကြီးလား။"
+              },
+              {
+                "zh": "今天热不热？",
+                "my": "ဒီနေ့ ပူလား၊ မပူဘူးလား။"
+              },
+              {
+                "zh": "这件衣服贵不贵？",
+                "my": "ဒီအင်္ကျီ ဈေးကြီးလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“形容词+不+形容词”询问性质。",
+            "items": [
+              {
+                "zh": "今天热不热？",
+                "my": "ဒီနေ့ ပူလား၊ မပူဘူးလား။"
+              },
+              {
+                "zh": "这件衣服贵不贵？",
+                "my": "ဒီအင်္ကျီ ဈေးကြီးလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 形容词 + 不 + 形容词",
+                "note_zh": "形容词直接重叠。",
+                "examples": [
+                  {
+                    "zh": "这个贵不贵？",
+                    "my": "ဒီဟာ ဈေးကြီးလား။"
+                  },
+                  {
+                    "zh": "今天热不热？",
+                    "my": "ဒီနေ့ ပူလား၊ မပူဘူးလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "这个 + 形容词 + 不 + 形容词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "今天热不热？",
+                    "my": "ဒီနေ့ ပူလား၊ မပူဘူးလား။"
+                  },
+                  {
+                    "zh": "这件衣服贵不贵？",
+                    "my": "ဒီအင်္ကျီ ဈေးကြီးလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“正反问形容词”用于提问确认与回应等场景。原句：“这个贵不贵？”。形容词直接重叠。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "今天热不热？",
+                "my": "ဒီနေ့ ပူလား၊ မပူဘူးလား။"
+              },
+              {
+                "zh": "这件衣服贵不贵？",
+                "my": "ဒီအင်္ကျီ ဈေးကြီးလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "这个好不好？",
+                    "my": "ဒီဟာ ကောင်းလား၊ မကောင်းဘူးလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "挺好的。",
+                    "my": "တော်တော်ကောင်းတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "这个贵不贵吗？",
+                "correct": "这个贵不贵？",
+                "note_zh": "普通正反问不用再加“吗”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_060",
@@ -168,7 +1228,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用于确认判断。",
+            "note_my": "“是不是”可确认身份或判断。",
+            "items": [
+              {
+                "zh": "你是不是老师？",
+                "my": "မင်း ဆရာလား။"
+              },
+              {
+                "zh": "你是不是中国人？",
+                "my": "မင်း တရုတ်လူမျိုးလား။"
+              },
+              {
+                "zh": "这是不是你的手机？",
+                "my": "ဒါ မင်းဖုန်းလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“是不是”可确认身份或判断。",
+            "items": [
+              {
+                "zh": "你是不是中国人？",
+                "my": "မင်း တရုတ်လူမျိုးလား။"
+              },
+              {
+                "zh": "这是不是你的手机？",
+                "my": "ဒါ မင်းဖုန်းလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 是不是 + 名词/小句",
+                "note_zh": "用于确认判断。",
+                "examples": [
+                  {
+                    "zh": "你是不是老师？",
+                    "my": "မင်း ဆရာလား။"
+                  },
+                  {
+                    "zh": "你是不是中国人？",
+                    "my": "မင်း တရုတ်လူမျိုးလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "这 + 是不是 + 你的 + 名词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你是不是中国人？",
+                    "my": "မင်း တရုတ်လူမျိုးလား။"
+                  },
+                  {
+                    "zh": "这是不是你的手机？",
+                    "my": "ဒါ မင်းဖုန်းလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“是不是”用于提问确认与回应等场景。原句：“你是不是老师？”。用于确认判断。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你是不是中国人？",
+                "my": "မင်း တရုတ်လူမျိုးလား။"
+              },
+              {
+                "zh": "这是不是你的手机？",
+                "my": "ဒါ မင်းဖုန်းလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "他是不是老师？",
+                    "my": "သူ ဆရာလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "是，他是老师。",
+                    "my": "ဟုတ်တယ်၊ သူ ဆရာပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "他是不是老师吗？",
+                "correct": "他是不是老师？",
+                "note_zh": "“是不是”已经构成正反问。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_061",
@@ -180,7 +1359,110 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "问“有还是没有”。",
+            "note_my": "တစ်ခုခုရှိမရှိ စုံစမ်းရင် “有没有” သုံးနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "你有没有时间？",
+                "my": "မင်းမှာ အချိန်ရှိလား။"
+              },
+              {
+                "zh": "这里有没有水？",
+                "my": "ဒီမှာ ရေရှိလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "တစ်ခုခုရှိမရှိ စုံစမ်းရင် “有没有” သုံးနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "这里有没有水？",
+                "my": "ဒီမှာ ရေရှိလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语/地点 + 有没有 + 名词",
+                "note_zh": "问“有还是没有”。",
+                "examples": [
+                  {
+                    "zh": "你有没有时间？",
+                    "my": "မင်းမှာ အချိန်ရှိလား။"
+                  },
+                  {
+                    "zh": "这里有没有水？",
+                    "my": "ဒီမှာ ရေရှိလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "地点 + 有没有 + 名词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "这里有没有水？",
+                    "my": "ဒီမှာ ရေရှိလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“有没有”用于提问确认与回应等场景。原句：“你有没有时间？”。问“有还是没有”。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里有没有水？",
+                "my": "ဒီမှာ ရေရှိလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你有没有手机？",
+                    "my": "မင်းမှာ ဖုန်းရှိလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "有。",
+                    "my": "ရှိတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你有没有车吗？",
+                "correct": "你有没有车？",
+                "note_zh": "普通“有没有”正反问通常不再加“吗”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_062",
@@ -192,7 +1474,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“谁”放在原来要问的位置，不用倒装。",
+            "note_my": "“谁”直接作主语，问做事的人。",
+            "items": [
+              {
+                "zh": "谁来了？",
+                "my": "ဘယ်သူ ရောက်လာတာလဲ။"
+              },
+              {
+                "zh": "谁在门口？",
+                "my": "တံခါးဝမှာ ဘယ်သူရှိလဲ။"
+              },
+              {
+                "zh": "谁会说中文？",
+                "my": "ဘယ်သူ တရုတ်လို ပြောတတ်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“谁”直接作主语，问做事的人。",
+            "items": [
+              {
+                "zh": "谁在门口？",
+                "my": "တံခါးဝမှာ ဘယ်သူရှိလဲ။"
+              },
+              {
+                "zh": "谁会说中文？",
+                "my": "ဘယ်သူ တရုတ်လို ပြောတတ်လဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "谁 + 动词",
+                "note_zh": "“谁”放在原来要问的位置，不用倒装。",
+                "examples": [
+                  {
+                    "zh": "谁来了？",
+                    "my": "ဘယ်သူ ရောက်လာတာလဲ။"
+                  },
+                  {
+                    "zh": "谁在门口？",
+                    "my": "တံခါးဝမှာ ဘယ်သူရှိလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "谁 + 会 + 动词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "谁在门口？",
+                    "my": "တံခါးဝမှာ ဘယ်သူရှိလဲ။"
+                  },
+                  {
+                    "zh": "谁会说中文？",
+                    "my": "ဘယ်သူ တရုတ်လို ပြောတတ်လဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“谁作主语”用于提问确认与回应等场景。原句：“谁来了？”。“谁”放在原来要问的位置，不用倒装。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "谁在门口？",
+                "my": "တံခါးဝမှာ ဘယ်သူရှိလဲ။"
+              },
+              {
+                "zh": "谁会说中文？",
+                "my": "ဘယ်သူ တရုတ်လို ပြောတတ်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "谁来了？",
+                    "my": "ဘယ်သူ ရောက်လာတာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我朋友来了。",
+                    "my": "သူငယ်ချင်း ရောက်လာတာပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "谁是来了？",
+                "correct": "谁来了？",
+                "note_zh": "无需多加“是”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_063",
@@ -204,7 +1605,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "不需要倒装。",
+            "note_my": "“谁”在宾语的位置询问对象。",
+            "items": [
+              {
+                "zh": "你找谁？",
+                "my": "မင်း ဘယ်သူ့ကို ရှာနေတာလဲ။"
+              },
+              {
+                "zh": "你认识谁？",
+                "my": "မင်း ဘယ်သူ့ကို သိလဲ။"
+              },
+              {
+                "zh": "你等谁？",
+                "my": "ဘယ်သူ့ကို စောင့်နေတာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“谁”在宾语的位置询问对象。",
+            "items": [
+              {
+                "zh": "你认识谁？",
+                "my": "မင်း ဘယ်သူ့ကို သိလဲ။"
+              },
+              {
+                "zh": "你等谁？",
+                "my": "ဘယ်သူ့ကို စောင့်နေတာလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 动词 + 谁",
+                "note_zh": "不需要倒装。",
+                "examples": [
+                  {
+                    "zh": "你找谁？",
+                    "my": "မင်း ဘယ်သူ့ကို ရှာနေတာလဲ။"
+                  },
+                  {
+                    "zh": "你认识谁？",
+                    "my": "မင်း ဘယ်သူ့ကို သိလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你 + 动词 + 谁？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你认识谁？",
+                    "my": "မင်း ဘယ်သူ့ကို သိလဲ။"
+                  },
+                  {
+                    "zh": "你等谁？",
+                    "my": "ဘယ်သူ့ကို စောင့်နေတာလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“谁作宾语”用于提问确认与回应等场景。原句：“你找谁？”。不需要倒装。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你认识谁？",
+                "my": "မင်း ဘယ်သူ့ကို သိလဲ။"
+              },
+              {
+                "zh": "你等谁？",
+                "my": "ဘယ်သူ့ကို စောင့်နေတာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你找谁？",
+                    "my": "ဘယ်သူ့ကို ရှာနေတာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "找老师。",
+                    "my": "ဆရာကို ရှာနေတာ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你谁找？",
+                "correct": "你找谁？",
+                "note_zh": "宾语仍放在动词后。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_064",
@@ -216,7 +1736,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用来询问东西是谁的。",
+            "note_my": "“谁的”问物品属于谁。",
+            "items": [
+              {
+                "zh": "这是谁的书？",
+                "my": "ဒါ ဘယ်သူ့စာအုပ်လဲ။"
+              },
+              {
+                "zh": "这是谁的包？",
+                "my": "ဒါ ဘယ်သူ့အိတ်လဲ။"
+              },
+              {
+                "zh": "那是谁的手机？",
+                "my": "ဟိုဟာ ဘယ်သူ့ဖုန်းလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“谁的”问物品属于谁。",
+            "items": [
+              {
+                "zh": "这是谁的包？",
+                "my": "ဒါ ဘယ်သူ့အိတ်လဲ။"
+              },
+              {
+                "zh": "那是谁的手机？",
+                "my": "ဟိုဟာ ဘယ်သူ့ဖုန်းလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "谁的 + 名词",
+                "note_zh": "用来询问东西是谁的。",
+                "examples": [
+                  {
+                    "zh": "这是谁的书？",
+                    "my": "ဒါ ဘယ်သူ့စာအုပ်လဲ။"
+                  },
+                  {
+                    "zh": "这是谁的包？",
+                    "my": "ဒါ ဘယ်သူ့အိတ်လဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "那 + 是 + 谁的 + 名词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "这是谁的包？",
+                    "my": "ဒါ ဘယ်သူ့အိတ်လဲ။"
+                  },
+                  {
+                    "zh": "那是谁的手机？",
+                    "my": "ဟိုဟာ ဘယ်သူ့ဖုန်းလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“谁的”用于提问确认与回应等场景。原句：“这是谁的书？”。用来询问东西是谁的。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这是谁的包？",
+                "my": "ဒါ ဘယ်သူ့အိတ်လဲ။"
+              },
+              {
+                "zh": "那是谁的手机？",
+                "my": "ဟိုဟာ ဘယ်သူ့ဖုန်းလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "这是谁的书？",
+                    "my": "ဒါ ဘယ်သူ့စာအုပ်လဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "是我的。",
+                    "my": "ကျွန်တော်/ကျွန်မရဲ့ဟာပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "这是的谁书？",
+                "correct": "这是谁的书？",
+                "note_zh": "“谁的”修饰后面的名词。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_065",
@@ -228,7 +1867,110 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "最常用疑问词之一。",
+            "note_my": "ဘာလုပ်လဲ၊ ဘာဝယ်လဲ စတဲ့အခါ “什么” ကို မေးချင်တဲ့နေရာမှာထားတယ်။",
+            "items": [
+              {
+                "zh": "你吃什么？",
+                "my": "မင်း ဘာစားမလဲ။"
+              },
+              {
+                "zh": "这是什么？",
+                "my": "ဒါ ဘာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "ဘာလုပ်လဲ၊ ဘာဝယ်လဲ စတဲ့အခါ “什么” ကို မေးချင်တဲ့နေရာမှာထားတယ်။",
+            "items": [
+              {
+                "zh": "这是什么？",
+                "my": "ဒါ ဘာလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 动词 + 什么",
+                "note_zh": "最常用疑问词之一。",
+                "examples": [
+                  {
+                    "zh": "你吃什么？",
+                    "my": "မင်း ဘာစားမလဲ။"
+                  },
+                  {
+                    "zh": "这是什么？",
+                    "my": "ဒါ ဘာလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "这 + 是 + 什么？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "这是什么？",
+                    "my": "ဒါ ဘာလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“什么宾语”用于提问确认与回应等场景。原句：“你吃什么？”。最常用疑问词之一。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这是什么？",
+                "my": "ဒါ ဘာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你买什么？",
+                    "my": "မင်း ဘာဝယ်မလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我买水果。",
+                    "my": "သစ်သီးဝယ်မယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你吃什么吗？",
+                "correct": "你吃什么？",
+                "note_zh": "普通特指问句不再叠加“吗”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_066",
@@ -240,7 +1982,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问类别。",
+            "note_my": "“什么+名词”询问类别或种类。",
+            "items": [
+              {
+                "zh": "你喜欢什么电影？",
+                "my": "မင်း ဘယ်လိုရုပ်ရှင်မျိုး ကြိုက်လဲ။"
+              },
+              {
+                "zh": "你喜欢什么水果？",
+                "my": "မင်း ဘယ်အသီးမျိုး ကြိုက်လဲ။"
+              },
+              {
+                "zh": "你看什么书？",
+                "my": "ဘယ်လိုစာအုပ် ဖတ်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“什么+名词”询问类别或种类。",
+            "items": [
+              {
+                "zh": "你喜欢什么水果？",
+                "my": "မင်း ဘယ်အသီးမျိုး ကြိုက်လဲ။"
+              },
+              {
+                "zh": "你看什么书？",
+                "my": "ဘယ်လိုစာအုပ် ဖတ်လဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "什么 + 名词",
+                "note_zh": "询问类别。",
+                "examples": [
+                  {
+                    "zh": "你喜欢什么电影？",
+                    "my": "မင်း ဘယ်လိုရုပ်ရှင်မျိုး ကြိုက်လဲ။"
+                  },
+                  {
+                    "zh": "你喜欢什么水果？",
+                    "my": "မင်း ဘယ်အသီးမျိုး ကြိုက်လဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你 + 动词 + 什么 + 名词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你喜欢什么水果？",
+                    "my": "မင်း ဘယ်အသီးမျိုး ကြိုက်လဲ။"
+                  },
+                  {
+                    "zh": "你看什么书？",
+                    "my": "ဘယ်လိုစာအုပ် ဖတ်လဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“什么名词”用于提问确认与回应等场景。原句：“你喜欢什么电影？”。询问类别。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你喜欢什么水果？",
+                "my": "မင်း ဘယ်အသီးမျိုး ကြိုက်လဲ။"
+              },
+              {
+                "zh": "你看什么书？",
+                "my": "ဘယ်လိုစာအုပ် ဖတ်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你喜欢什么电影？",
+                    "my": "မင်း ဘယ်လိုရုပ်ရှင်မျိုး ကြိုက်လဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "喜欢喜剧。",
+                    "my": "ဟာသကား ကြိုက်တယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你喜欢电影什么？",
+                "correct": "你喜欢什么电影？",
+                "note_zh": "这里“什么”放在名词前。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_067",
@@ -252,7 +2113,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用来询问事情发生的原因。",
+            "note_my": "“为什么”用来问原因。",
+            "items": [
+              {
+                "zh": "你为什么迟到？",
+                "my": "မင်း ဘာလို့ နောက်ကျတာလဲ။"
+              },
+              {
+                "zh": "你为什么不去？",
+                "my": "မင်း ဘာလို့ မသွားတာလဲ။"
+              },
+              {
+                "zh": "他为什么哭？",
+                "my": "သူ ဘာလို့ ငိုနေတာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“为什么”用来问原因。",
+            "items": [
+              {
+                "zh": "你为什么不去？",
+                "my": "မင်း ဘာလို့ မသွားတာလဲ။"
+              },
+              {
+                "zh": "他为什么哭？",
+                "my": "သူ ဘာလို့ ငိုနေတာလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 为什么 + 谓语",
+                "note_zh": "用来询问事情发生的原因。",
+                "examples": [
+                  {
+                    "zh": "你为什么迟到？",
+                    "my": "မင်း ဘာလို့ နောက်ကျတာလဲ။"
+                  },
+                  {
+                    "zh": "你为什么不去？",
+                    "my": "မင်း ဘာလို့ မသွားတာလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你 + 为什么 + 不 + 动词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你为什么不去？",
+                    "my": "မင်း ဘာလို့ မသွားတာလဲ။"
+                  },
+                  {
+                    "zh": "他为什么哭？",
+                    "my": "သူ ဘာလို့ ငိုနေတာလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“为什么”用于提问确认与回应等场景。原句：“你为什么迟到？”。用来询问事情发生的原因。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你为什么不去？",
+                "my": "မင်း ဘာလို့ မသွားတာလဲ။"
+              },
+              {
+                "zh": "他为什么哭？",
+                "my": "သူ ဘာလို့ ငိုနေတာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你为什么迟到？",
+                    "my": "ဘာလို့ နောက်ကျတာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "因为堵车。",
+                    "my": "ကားပိတ်လို့ပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你迟到为什么？",
+                "correct": "你为什么迟到？",
+                "note_zh": "“为什么”一般放在谓语前。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_068",
@@ -264,7 +2244,110 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用来询问做事的方法或方式。",
+            "note_my": "ဘယ်လိုလုပ်သလဲ မေးရင် “怎么+动词” သုံးတယ်။",
+            "items": [
+              {
+                "zh": "这个字怎么读？",
+                "my": "ဒီစာလုံးကို ဘယ်လိုဖတ်လဲ။"
+              },
+              {
+                "zh": "你怎么去学校？",
+                "my": "မင်း ကျောင်းကို ဘယ်လိုသွားမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "ဘယ်လိုလုပ်သလဲ မေးရင် “怎么+动词” သုံးတယ်။",
+            "items": [
+              {
+                "zh": "你怎么去学校？",
+                "my": "မင်း ကျောင်းကို ဘယ်လိုသွားမလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 怎么 + 动词",
+                "note_zh": "用来询问做事的方法或方式。",
+                "examples": [
+                  {
+                    "zh": "这个字怎么读？",
+                    "my": "ဒီစာလုံးကို ဘယ်လိုဖတ်လဲ။"
+                  },
+                  {
+                    "zh": "你怎么去学校？",
+                    "my": "မင်း ကျောင်းကို ဘယ်လိုသွားမလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "这个 + 怎么 + 动词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你怎么去学校？",
+                    "my": "မင်း ကျောင်းကို ဘယ်လိုသွားမလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么方式”用于提问确认与回应等场景。原句：“这个字怎么读？”。用来询问做事的方法或方式。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你怎么去学校？",
+                "my": "မင်း ကျောင်းကို ဘယ်လိုသွားမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你怎么来？",
+                    "my": "မင်း ဘယ်လိုလာမလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我坐车来。",
+                    "my": "ကားစီးပြီး လာမယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你怎么样去？",
+                "correct": "你怎么去？",
+                "note_zh": "问做事方式通常用“怎么”，不直接用“怎么样”代替。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_069",
@@ -278,7 +2361,126 @@
       "focus_tags": [
         "了"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问状态或故障。",
+            "note_my": "“怎么了”问发生什么情况。",
+            "items": [
+              {
+                "zh": "你怎么了？",
+                "my": "မင်း ဘာဖြစ်တာလဲ။"
+              },
+              {
+                "zh": "你的手机怎么了？",
+                "my": "မင်းဖုန်း ဘာဖြစ်တာလဲ။"
+              },
+              {
+                "zh": "他怎么了？",
+                "my": "သူ ဘာဖြစ်တာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“怎么了”问发生什么情况。",
+            "items": [
+              {
+                "zh": "你的手机怎么了？",
+                "my": "မင်းဖုန်း ဘာဖြစ်တာလဲ။"
+              },
+              {
+                "zh": "他怎么了？",
+                "my": "သူ ဘာဖြစ်တာလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "人/物 + 怎么了",
+                "note_zh": "询问状态或故障。",
+                "examples": [
+                  {
+                    "zh": "你怎么了？",
+                    "my": "မင်း ဘာဖြစ်တာလဲ။"
+                  },
+                  {
+                    "zh": "你的手机怎么了？",
+                    "my": "မင်းဖုန်း ဘာဖြစ်တာလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "主语 + 怎么了？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你的手机怎么了？",
+                    "my": "မင်းဖုန်း ဘာဖြစ်တာလဲ။"
+                  },
+                  {
+                    "zh": "他怎么了？",
+                    "my": "သူ ဘာဖြစ်တာလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么了”用于提问确认与回应等场景。原句：“你怎么了？”。询问状态或故障。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你的手机怎么了？",
+                "my": "မင်းဖုန်း ဘာဖြစ်တာလဲ။"
+              },
+              {
+                "zh": "他怎么了？",
+                "my": "သူ ဘာဖြစ်တာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你怎么了？",
+                    "my": "မင်း ဘာဖြစ်တာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "有点儿不舒服。",
+                    "my": "နည်းနည်း နေမကောင်းဘူး။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你怎么是了？",
+                "correct": "你怎么了？",
+                "note_zh": "“怎么了”是固定常见问法。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_070",
@@ -290,7 +2492,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "评价或建议。",
+            "note_my": "“怎么样”询问意见或情况。",
+            "items": [
+              {
+                "zh": "这个怎么样？",
+                "my": "ဒီဟာ ဘယ်လိုလဲ။"
+              },
+              {
+                "zh": "新工作怎么样？",
+                "my": "အလုပ်သစ်က ဘယ်လိုလဲ။"
+              },
+              {
+                "zh": "这件衣服怎么样？",
+                "my": "ဒီအင်္ကျီ ဘယ်လိုလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“怎么样”询问意见或情况。",
+            "items": [
+              {
+                "zh": "新工作怎么样？",
+                "my": "အလုပ်သစ်က ဘယ်လိုလဲ။"
+              },
+              {
+                "zh": "这件衣服怎么样？",
+                "my": "ဒီအင်္ကျီ ဘယ်လိုလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "名词/小句 + 怎么样",
+                "note_zh": "评价或建议。",
+                "examples": [
+                  {
+                    "zh": "这个怎么样？",
+                    "my": "ဒီဟာ ဘယ်လိုလဲ။"
+                  },
+                  {
+                    "zh": "新工作怎么样？",
+                    "my": "အလုပ်သစ်က ဘယ်လိုလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你觉得 + 名词 + 怎么样？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "新工作怎么样？",
+                    "my": "အလုပ်သစ်က ဘယ်လိုလဲ။"
+                  },
+                  {
+                    "zh": "这件衣服怎么样？",
+                    "my": "ဒီအင်္ကျီ ဘယ်လိုလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么样评价”用于提问确认与回应等场景。原句：“这个怎么样？”。评价或建议。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "新工作怎么样？",
+                "my": "အလုပ်သစ်က ဘယ်လိုလဲ။"
+              },
+              {
+                "zh": "这件衣服怎么样？",
+                "my": "ဒီအင်္ကျီ ဘယ်လိုလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "这个怎么样？",
+                    "my": "ဒီဟာ ဘယ်လိုလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "挺好。",
+                    "my": "တော်တော်ကောင်းတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "这个怎么？",
+                "correct": "这个怎么样？",
+                "note_zh": "问评价通常用“怎么样”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_071",
@@ -304,7 +2625,110 @@
       "focus_tags": [
         "在"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "“哪里”也可说“哪儿”。",
+            "note_my": "ဘယ်မှာရှိသလဲ မေးတဲ့အခါ “在哪里” သုံးနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "你在哪里？",
+                "my": "မင်း ဘယ်မှာလဲ။"
+              },
+              {
+                "zh": "洗手间在哪里？",
+                "my": "အိမ်သာ ဘယ်မှာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "ဘယ်မှာရှိသလဲ မေးတဲ့အခါ “在哪里” သုံးနိုင်တယ်။",
+            "items": [
+              {
+                "zh": "洗手间在哪里？",
+                "my": "အိမ်သာ ဘယ်မှာလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "人/物 + 在哪里",
+                "note_zh": "“哪里”也可说“哪儿”。",
+                "examples": [
+                  {
+                    "zh": "你在哪里？",
+                    "my": "မင်း ဘယ်မှာလဲ။"
+                  },
+                  {
+                    "zh": "洗手间在哪里？",
+                    "my": "အိမ်သာ ဘယ်မှာလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "哪里 + 有 + 名词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "洗手间在哪里？",
+                    "my": "အိမ်သာ ဘယ်မှာလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪里位置”用于提问确认与回应等场景。原句：“你在哪里？”。“哪里”也可说“哪儿”。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "洗手间在哪里？",
+                "my": "အိမ်သာ ဘယ်မှာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你的手机在哪里？",
+                    "my": "မင်းဖုန်း ဘယ်မှာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "在包里。",
+                    "my": "အိတ်ထဲမှာရှိတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你在什么里？",
+                "correct": "你在哪里？",
+                "note_zh": "普通地点提问用“在哪儿/在哪里”更合适。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_072",
@@ -316,7 +2740,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用来询问要去什么地方。",
+            "note_my": "“去哪里”问目的地。",
+            "items": [
+              {
+                "zh": "你去哪里？",
+                "my": "မင်း ဘယ်သွားမလဲ။"
+              },
+              {
+                "zh": "你明天去哪里？",
+                "my": "မနက်ဖြန် ဘယ်သွားမလဲ။"
+              },
+              {
+                "zh": "你要去哪儿？",
+                "my": "ဘယ်သွားမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“去哪里”问目的地。",
+            "items": [
+              {
+                "zh": "你明天去哪里？",
+                "my": "မနက်ဖြန် ဘယ်သွားမလဲ။"
+              },
+              {
+                "zh": "你要去哪儿？",
+                "my": "ဘယ်သွားမလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 去 + 哪里",
+                "note_zh": "用来询问要去什么地方。",
+                "examples": [
+                  {
+                    "zh": "你去哪里？",
+                    "my": "မင်း ဘယ်သွားမလဲ။"
+                  },
+                  {
+                    "zh": "你明天去哪里？",
+                    "my": "မနက်ဖြန် ဘယ်သွားမလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "谁 + 明天 + 去 + 哪里？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你明天去哪里？",
+                    "my": "မနက်ဖြန် ဘယ်သွားမလဲ။"
+                  },
+                  {
+                    "zh": "你要去哪儿？",
+                    "my": "ဘယ်သွားမလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“去哪里”用于提问确认与回应等场景。原句：“你去哪里？”。用来询问要去什么地方。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你明天去哪里？",
+                "my": "မနက်ဖြန် ဘယ်သွားမလဲ။"
+              },
+              {
+                "zh": "你要去哪儿？",
+                "my": "ဘယ်သွားမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你去哪里？",
+                    "my": "ဘယ်သွားမလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我去学校。",
+                    "my": "ကျောင်းသွားမယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你哪里去吗？",
+                "correct": "你去哪里？",
+                "note_zh": "“哪里”跟在“去”后，通常不再加“吗”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_073",
@@ -330,7 +2873,126 @@
       "focus_tags": [
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用来询问一个人从哪里来。",
+            "note_my": "“从哪里来”问来自什么地方。",
+            "items": [
+              {
+                "zh": "你从哪里来？",
+                "my": "မင်း ဘယ်ကလာတာလဲ။"
+              },
+              {
+                "zh": "你从哪个城市来？",
+                "my": "ဘယ်မြို့က လာတာလဲ။"
+              },
+              {
+                "zh": "他从哪里来？",
+                "my": "သူ ဘယ်ကလာတာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“从哪里来”问来自什么地方。",
+            "items": [
+              {
+                "zh": "你从哪个城市来？",
+                "my": "ဘယ်မြို့က လာတာလဲ။"
+              },
+              {
+                "zh": "他从哪里来？",
+                "my": "သူ ဘယ်ကလာတာလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 从哪里 + 来",
+                "note_zh": "用来询问一个人从哪里来。",
+                "examples": [
+                  {
+                    "zh": "你从哪里来？",
+                    "my": "မင်း ဘယ်ကလာတာလဲ။"
+                  },
+                  {
+                    "zh": "你从哪个城市来？",
+                    "my": "ဘယ်မြို့က လာတာလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你 + 从 + 哪个城市 + 来？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你从哪个城市来？",
+                    "my": "ဘယ်မြို့က လာတာလဲ။"
+                  },
+                  {
+                    "zh": "他从哪里来？",
+                    "my": "သူ ဘယ်ကလာတာလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“从哪里来”用于提问确认与回应等场景。原句：“你从哪里来？”。用来询问一个人从哪里来。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你从哪个城市来？",
+                "my": "ဘယ်မြို့က လာတာလဲ။"
+              },
+              {
+                "zh": "他从哪里来？",
+                "my": "သူ ဘယ်ကလာတာလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你从哪里来？",
+                    "my": "မင်း ဘယ်ကလာတာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "从曼德勒来。",
+                    "my": "မန္တလေးက လာတာပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你哪里从来？",
+                "correct": "你从哪里来？",
+                "note_zh": "“从”引出来源地点。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_074",
@@ -342,7 +3004,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "在几个已知选项里选一个。",
+            "note_my": "“哪个”表示多个选项选一个。",
+            "items": [
+              {
+                "zh": "你要哪个？",
+                "my": "မင်း ဘယ်ဟာ လိုချင်လဲ။"
+              },
+              {
+                "zh": "你喜欢哪个？",
+                "my": "ဘယ်ဟာကို ကြိုက်လဲ။"
+              },
+              {
+                "zh": "你买哪个手机？",
+                "my": "ဘယ်ဖုန်း ဝယ်မလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“哪个”表示多个选项选一个。",
+            "items": [
+              {
+                "zh": "你喜欢哪个？",
+                "my": "ဘယ်ဟာကို ကြိုက်လဲ။"
+              },
+              {
+                "zh": "你买哪个手机？",
+                "my": "ဘယ်ဖုန်း ဝယ်မလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "哪个 + 名词",
+                "note_zh": "在几个已知选项里选一个。",
+                "examples": [
+                  {
+                    "zh": "你要哪个？",
+                    "my": "မင်း ဘယ်ဟာ လိုချင်လဲ။"
+                  },
+                  {
+                    "zh": "你喜欢哪个？",
+                    "my": "ဘယ်ဟာကို ကြိုက်လဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你喜欢哪个？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你喜欢哪个？",
+                    "my": "ဘယ်ဟာကို ကြိုက်လဲ။"
+                  },
+                  {
+                    "zh": "你买哪个手机？",
+                    "my": "ဘယ်ဖုန်း ဝယ်မလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪个选择”用于提问确认与回应等场景。原句：“你要哪个？”。在几个已知选项里选一个。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你喜欢哪个？",
+                "my": "ဘယ်ဟာကို ကြိုက်လဲ။"
+              },
+              {
+                "zh": "你买哪个手机？",
+                "my": "ဘယ်ဖုန်း ဝယ်မလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你要哪个？",
+                    "my": "ဘယ်ဟာ လိုချင်လဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我要这个。",
+                    "my": "ဒီဟာ လိုချင်တယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你要个哪？",
+                "correct": "你要哪个？",
+                "note_zh": "疑问词“哪个”的顺序固定。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_075",
@@ -354,7 +3135,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问日期或时段。",
+            "note_my": "“什么时候”问时间，不限于几点。",
+            "items": [
+              {
+                "zh": "你什么时候回来？",
+                "my": "မင်း ဘယ်အချိန် ပြန်လာမလဲ။"
+              },
+              {
+                "zh": "你什么时候上班？",
+                "my": "ဘယ်အချိန် အလုပ်ဆင်းမလဲ။"
+              },
+              {
+                "zh": "什么时候见面？",
+                "my": "ဘယ်အချိန် တွေ့ကြမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“什么时候”问时间，不限于几点。",
+            "items": [
+              {
+                "zh": "你什么时候上班？",
+                "my": "ဘယ်အချိန် အလုပ်ဆင်းမလဲ။"
+              },
+              {
+                "zh": "什么时候见面？",
+                "my": "ဘယ်အချိန် တွေ့ကြမလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 什么时候 + 动词",
+                "note_zh": "询问日期或时段。",
+                "examples": [
+                  {
+                    "zh": "你什么时候回来？",
+                    "my": "မင်း ဘယ်အချိန် ပြန်လာမလဲ။"
+                  },
+                  {
+                    "zh": "你什么时候上班？",
+                    "my": "ဘယ်အချိန် အလုပ်ဆင်းမလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "谁 + 什么时候 + 回来？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你什么时候上班？",
+                    "my": "ဘယ်အချိန် အလုပ်ဆင်းမလဲ။"
+                  },
+                  {
+                    "zh": "什么时候见面？",
+                    "my": "ဘယ်အချိန် တွေ့ကြမလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“什么时候”用于提问确认与回应等场景。原句：“你什么时候回来？”。询问日期或时段。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你什么时候上班？",
+                "my": "ဘယ်အချိန် အလုပ်ဆင်းမလဲ။"
+              },
+              {
+                "zh": "什么时候见面？",
+                "my": "ဘယ်အချိန် တွေ့ကြမလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你什么时候回来？",
+                    "my": "ဘယ်အချိန် ပြန်လာမလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "明天下午。",
+                    "my": "မနက်ဖြန် နေ့လယ်ပိုင်းပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你回来什么时候？",
+                "correct": "你什么时候回来？",
+                "note_zh": "时间疑问词一般位于谓语前。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_076",
@@ -366,7 +3266,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问具体钟点。",
+            "note_my": "“几点”问具体钟点。",
+            "items": [
+              {
+                "zh": "你几点下班？",
+                "my": "မင်း ဘယ်နှနာရီ အလုပ်ဆင်းပြီးလဲ။"
+              },
+              {
+                "zh": "现在几点？",
+                "my": "အခု ဘယ်နှနာရီလဲ။"
+              },
+              {
+                "zh": "你几点起床？",
+                "my": "ဘယ်နှနာရီ အိပ်ရာထလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“几点”问具体钟点。",
+            "items": [
+              {
+                "zh": "现在几点？",
+                "my": "အခု ဘယ်နှနာရီလဲ။"
+              },
+              {
+                "zh": "你几点起床？",
+                "my": "ဘယ်နှနာရီ အိပ်ရာထလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "事情 + 几点 + 动词",
+                "note_zh": "询问具体钟点。",
+                "examples": [
+                  {
+                    "zh": "你几点下班？",
+                    "my": "မင်း ဘယ်နှနာရီ အလုပ်ဆင်းပြီးလဲ။"
+                  },
+                  {
+                    "zh": "现在几点？",
+                    "my": "အခု ဘယ်နှနာရီလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "现在 + 几点？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "现在几点？",
+                    "my": "အခု ဘယ်နှနာရီလဲ။"
+                  },
+                  {
+                    "zh": "你几点起床？",
+                    "my": "ဘယ်နှနာရီ အိပ်ရာထလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“几点”用于提问确认与回应等场景。原句：“你几点下班？”。询问具体钟点。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "现在几点？",
+                "my": "အခု ဘယ်နှနာရီလဲ။"
+              },
+              {
+                "zh": "你几点起床？",
+                "my": "ဘယ်နှနာရီ အိပ်ရာထလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你几点下班？",
+                    "my": "ဘယ်နှနာရီ အလုပ်ဆင်းပြီးလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "六点下班。",
+                    "my": "ခြောက်နာရီ အလုပ်ဆင်းတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你下班几点？",
+                "correct": "你几点下班？",
+                "note_zh": "“几点”通常在动词前。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_077",
@@ -378,7 +3397,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "通常预期数量较小。",
+            "note_my": "“几+量词”问数量。",
+            "items": [
+              {
+                "zh": "你有几个孩子？",
+                "my": "မင်းမှာ ကလေး ဘယ်နှယောက်ရှိလဲ။"
+              },
+              {
+                "zh": "你买了几个苹果？",
+                "my": "ပန်းသီး ဘယ်နှလုံး ဝယ်ခဲ့လဲ။"
+              },
+              {
+                "zh": "你有几本书？",
+                "my": "စာအုပ် ဘယ်နှအုပ် ရှိလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“几+量词”问数量。",
+            "items": [
+              {
+                "zh": "你买了几个苹果？",
+                "my": "ပန်းသီး ဘယ်နှလုံး ဝယ်ခဲ့လဲ။"
+              },
+              {
+                "zh": "你有几本书？",
+                "my": "စာအုပ် ဘယ်နှအုပ် ရှိလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "几 + 量词 + 名词",
+                "note_zh": "通常预期数量较小。",
+                "examples": [
+                  {
+                    "zh": "你有几个孩子？",
+                    "my": "မင်းမှာ ကလေး ဘယ်နှယောက်ရှိလဲ။"
+                  },
+                  {
+                    "zh": "你买了几个苹果？",
+                    "my": "ပန်းသီး ဘယ်နှလုံး ဝယ်ခဲ့လဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你有几 + 量词 + 名词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你买了几个苹果？",
+                    "my": "ပန်းသီး ဘယ်နှလုံး ဝယ်ခဲ့လဲ။"
+                  },
+                  {
+                    "zh": "你有几本书？",
+                    "my": "စာအုပ် ဘယ်နှအုပ် ရှိလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“几数量”用于提问确认与回应等场景。原句：“你有几个孩子？”。通常预期数量较小。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你买了几个苹果？",
+                "my": "ပန်းသီး ဘယ်နှလုံး ဝယ်ခဲ့လဲ။"
+              },
+              {
+                "zh": "你有几本书？",
+                "my": "စာအုပ် ဘယ်နှအုပ် ရှိလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你有几个孩子？",
+                    "my": "မင်းမှာ ကလေး ဘယ်နှယောက်ရှိလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "两个。",
+                    "my": "နှစ်ယောက်ပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你有几孩子？",
+                "correct": "你有几个孩子？",
+                "note_zh": "可数名词前通常要有合适的量词。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_078",
@@ -390,7 +3528,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "数量不限。",
+            "note_my": "“多少”询问数量或多少程度。",
+            "items": [
+              {
+                "zh": "这里有多少人？",
+                "my": "ဒီမှာ လူ ဘယ်နှယောက်ရှိလဲ။"
+              },
+              {
+                "zh": "这里有多少学生？",
+                "my": "ဒီမှာ ကျောင်းသား ဘယ်နှယောက်ရှိလဲ။"
+              },
+              {
+                "zh": "你有多少时间？",
+                "my": "မင်းမှာ အချိန် ဘယ်လောက်ရှိလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“多少”询问数量或多少程度。",
+            "items": [
+              {
+                "zh": "这里有多少学生？",
+                "my": "ဒီမှာ ကျောင်းသား ဘယ်နှယောက်ရှိလဲ။"
+              },
+              {
+                "zh": "你有多少时间？",
+                "my": "မင်းမှာ အချိန် ဘယ်လောက်ရှိလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "多少 + 名词/量词",
+                "note_zh": "数量不限。",
+                "examples": [
+                  {
+                    "zh": "这里有多少人？",
+                    "my": "ဒီမှာ လူ ဘယ်နှယောက်ရှိလဲ။"
+                  },
+                  {
+                    "zh": "这里有多少学生？",
+                    "my": "ဒီမှာ ကျောင်းသား ဘယ်နှယောက်ရှိလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "这里 + 有 + 多少 + 名词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "这里有多少学生？",
+                    "my": "ဒီမှာ ကျောင်းသား ဘယ်နှယောက်ရှိလဲ။"
+                  },
+                  {
+                    "zh": "你有多少时间？",
+                    "my": "မင်းမှာ အချိန် ဘယ်လောက်ရှိလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“多少数量”用于提问确认与回应等场景。原句：“这里有多少人？”。数量不限。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这里有多少学生？",
+                "my": "ဒီမှာ ကျောင်းသား ဘယ်နှယောက်ရှိလဲ။"
+              },
+              {
+                "zh": "你有多少时间？",
+                "my": "မင်းမှာ အချိန် ဘယ်လောက်ရှိလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "这里有多少人？",
+                    "my": "ဒီမှာ လူဘယ်နှယောက်ရှိလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "大约二十个。",
+                    "my": "နှစ်ဆယ်လောက်ပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "这里有多少个人们？",
+                "correct": "这里有多少个人？",
+                "note_zh": "量词短语和复数标记不随意叠加。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_103",
@@ -402,7 +3659,70 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "多用于问孩子年龄；问成年人常说“多大”。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你几岁？",
+                "my": "မင်း အသက်ဘယ်နှနှစ်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你几岁？",
+                "my": "မင်း အသက်ဘယ်နှနှစ်လဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 几岁",
+                "note_zh": "多用于问孩子年龄；问成年人常说“多大”。",
+                "examples": [
+                  {
+                    "zh": "你几岁？",
+                    "my": "မင်း အသက်ဘယ်နှနှစ်လဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“问年龄”用于提问确认与回应等场景。原句：“你几岁？”。多用于问孩子年龄；问成年人常说“多大”。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你几岁？",
+                "my": "မင်း အသက်ဘယ်နှနှစ်လဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "verified_existing_hsk_sentence_translation_only"
     },
     {
       "id": "pattern_105",
@@ -416,7 +3736,126 @@
       "focus_tags": [
         "吗"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问是否还有别的或更多。",
+            "note_my": "购物时用“还有别的吗”寻找其他选择。",
+            "items": [
+              {
+                "zh": "还有别的吗？",
+                "my": "တခြားဟာ ရှိသေးလား။"
+              },
+              {
+                "zh": "还有别的颜色吗？",
+                "my": "အခြားအရောင် ရှိသေးလား။"
+              },
+              {
+                "zh": "还有小一点儿的吗？",
+                "my": "ဒီထက် သေးတာ ရှိသေးလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "购物时用“还有别的吗”寻找其他选择。",
+            "items": [
+              {
+                "zh": "还有别的颜色吗？",
+                "my": "အခြားအရောင် ရှိသေးလား။"
+              },
+              {
+                "zh": "还有小一点儿的吗？",
+                "my": "ဒီထက် သေးတာ ရှိသေးလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "还有 + 名词/内容 + 吗",
+                "note_zh": "询问是否还有别的或更多。",
+                "examples": [
+                  {
+                    "zh": "还有别的吗？",
+                    "my": "တခြားဟာ ရှိသေးလား။"
+                  },
+                  {
+                    "zh": "还有别的颜色吗？",
+                    "my": "အခြားအရောင် ရှိသေးလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "还有 + 形容词 + 一点儿 + 的吗？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "还有别的颜色吗？",
+                    "my": "အခြားအရောင် ရှိသေးလား။"
+                  },
+                  {
+                    "zh": "还有小一点儿的吗？",
+                    "my": "ဒီထက် သေးတာ ရှိသေးလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“还有吗”用于提问确认与回应等场景。原句：“还有别的吗？”。询问是否还有别的或更多。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "还有别的颜色吗？",
+                "my": "အခြားအရောင် ရှိသေးလား။"
+              },
+              {
+                "zh": "还有小一点儿的吗？",
+                "my": "ဒီထက် သေးတာ ရှိသေးလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "这件太大了。",
+                    "my": "ဒီတစ်ထည် ကြီးလွန်းတယ်။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "还有别的吗？",
+                    "my": "တခြားဟာ ရှိသေးလား။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "还有其他的别吗？",
+                "correct": "还有别的吗？",
+                "note_zh": "“别的”和“其他”不必重复。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_120",
@@ -428,7 +3867,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "寻找其他选择。",
+            "note_my": "“有没有别的”询问替代选项。",
+            "items": [
+              {
+                "zh": "有没有别的颜色？",
+                "my": "အခြားအရောင် ရှိသေးလား။"
+              },
+              {
+                "zh": "有没有别的尺寸？",
+                "my": "အခြားဆိုဒ် ရှိလား။"
+              },
+              {
+                "zh": "有没有便宜一点儿的？",
+                "my": "ဒီထက် ဈေးသက်သာတာ ရှိလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“有没有别的”询问替代选项。",
+            "items": [
+              {
+                "zh": "有没有别的尺寸？",
+                "my": "အခြားဆိုဒ် ရှိလား။"
+              },
+              {
+                "zh": "有没有便宜一点儿的？",
+                "my": "ဒီထက် ဈေးသက်သာတာ ရှိလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "有没有别的 + 名词",
+                "note_zh": "寻找其他选择。",
+                "examples": [
+                  {
+                    "zh": "有没有别的颜色？",
+                    "my": "အခြားအရောင် ရှိသေးလား။"
+                  },
+                  {
+                    "zh": "有没有别的尺寸？",
+                    "my": "အခြားဆိုဒ် ရှိလား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "有没有 + 更 + 形容词 + 的？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "有没有别的尺寸？",
+                    "my": "အခြားဆိုဒ် ရှိလား။"
+                  },
+                  {
+                    "zh": "有没有便宜一点儿的？",
+                    "my": "ဒီထက် ဈေးသက်သာတာ ရှိလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“有没有别的”用于提问确认与回应等场景。原句：“有没有别的颜色？”。寻找其他选择。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "有没有别的尺寸？",
+                "my": "အခြားဆိုဒ် ရှိလား။"
+              },
+              {
+                "zh": "有没有便宜一点儿的？",
+                "my": "ဒီထက် ဈေးသက်သာတာ ရှိလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "这个有点儿贵。",
+                    "my": "ဒီဟာ နည်းနည်း ဈေးကြီးတယ်။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "有没有便宜点儿的？",
+                    "my": "ဒီထက် ဈေးသက်သာတာ ရှိလား။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "有没有别的其他颜色？",
+                "correct": "有没有别的颜色？",
+                "note_zh": "“别的”和“其他”通常选一个。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_121",
@@ -440,7 +3998,70 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问一起行动或交流的对象。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你跟谁去？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你跟谁去？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 跟谁 + 动词",
+                "note_zh": "询问一起行动或交流的对象。",
+                "examples": [
+                  {
+                    "zh": "你跟谁去？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“跟谁”用于提问确认与回应等场景。原句：“你跟谁去？”。询问一起行动或交流的对象。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你跟谁去？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_141",
@@ -454,7 +4075,70 @@
       "focus_tags": [
         "给"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问东西给谁，或替谁做。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你给谁打电话？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你给谁打电话？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 给谁 + 名词/动词",
+                "note_zh": "询问东西给谁，或替谁做。",
+                "examples": [
+                  {
+                    "zh": "你给谁打电话？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“给谁”用于提问确认与回应等场景。原句：“你给谁打电话？”。询问东西给谁，或替谁做。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你给谁打电话？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_142",
@@ -466,7 +4150,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问方向。",
+            "note_my": "“往哪边”用于问路。",
+            "items": [
+              {
+                "zh": "往哪边走？",
+                "my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+              },
+              {
+                "zh": "应该往哪边走？",
+                "my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+              },
+              {
+                "zh": "往左走还是往右走？",
+                "my": "ဘယ်ဘက်သွားမလား၊ ညာဘက်သွားမလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“往哪边”用于问路。",
+            "items": [
+              {
+                "zh": "应该往哪边走？",
+                "my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+              },
+              {
+                "zh": "往左走还是往右走？",
+                "my": "ဘယ်ဘက်သွားမလား၊ ညာဘက်သွားမလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "往哪边 + 动词",
+                "note_zh": "询问方向。",
+                "examples": [
+                  {
+                    "zh": "往哪边走？",
+                    "my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+                  },
+                  {
+                    "zh": "应该往哪边走？",
+                    "my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "应该 + 往哪边 + 走？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "应该往哪边走？",
+                    "my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+                  },
+                  {
+                    "zh": "往左走还是往右走？",
+                    "my": "ဘယ်ဘက်သွားမလား၊ ညာဘက်သွားမလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“往哪边”用于提问确认与回应等场景。原句：“往哪边走？”。询问方向。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "应该往哪边走？",
+                "my": "ဘယ်ဘက်ကို သွားရမလဲ။"
+              },
+              {
+                "zh": "往左走还是往右走？",
+                "my": "ဘယ်ဘက်သွားမလား၊ ညာဘက်သွားမလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "请问车站怎么走？",
+                    "my": "ဘူတာကို ဘယ်လိုသွားရမလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "往前走，再右转。",
+                    "my": "ရှေ့သွားပြီး ညာကွေ့ပါ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "走往右边。",
+                "correct": "往右边走。",
+                "note_zh": "“往+方向”常放在动词前。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_226",
@@ -478,7 +4281,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "表示惊讶、不相信或追问原因。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他怎么会知道？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他怎么会知道？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 怎么会 + 动词/形容词",
+                "note_zh": "表示惊讶、不相信或追问原因。",
+                "examples": [
+                  {
+                    "zh": "他怎么会知道？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么会”用于提问确认与回应等场景。原句：“他怎么会知道？”。表示惊讶、不相信或追问原因。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "他怎么会知道？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_259",
@@ -490,7 +4356,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问隔多长时间做一次。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你多久去一次？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你多久去一次？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 多久 + 动词 + 一次",
+                "note_zh": "询问隔多长时间做一次。",
+                "examples": [
+                  {
+                    "zh": "你多久去一次？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“问频率”用于提问确认与回应等场景。原句：“你多久去一次？”。询问隔多长时间做一次。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你多久去一次？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_260",
@@ -502,7 +4431,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问某种情况发生后的处理办法。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "如果下雨怎么办？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "如果下雨怎么办？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "要是/如果 + 条件 + 怎么办",
+                "note_zh": "询问某种情况发生后的处理办法。",
+                "examples": [
+                  {
+                    "zh": "如果下雨怎么办？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“如果怎么办”用于提问确认与回应等场景。原句：“如果下雨怎么办？”。询问某种情况发生后的处理办法。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "如果下雨怎么办？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_271",
@@ -514,7 +4506,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问过去是否发生。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你有没有吃饭？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你有没有吃饭？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 有没有 + 动词",
+                "note_zh": "询问过去是否发生。",
+                "examples": [
+                  {
+                    "zh": "你有没有吃饭？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“有没有做”用于提问确认与回应等场景。原句：“你有没有吃饭？”。询问过去是否发生。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你有没有吃饭？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_272",
@@ -526,7 +4581,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问发生了什么。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这是怎么回事？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这是怎么回事？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "怎么回事？",
+                "note_zh": "询问发生了什么。",
+                "examples": [
+                  {
+                    "zh": "这是怎么回事？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么回事”用于提问确认与回应等场景。原句：“这是怎么回事？”。询问发生了什么。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这是怎么回事？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_273",
@@ -538,7 +4656,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问多个对象。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你去过哪些地方？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你去过哪些地方？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "哪些 + 名词",
+                "note_zh": "询问多个对象。",
+                "examples": [
+                  {
+                    "zh": "你去过哪些地方？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪些复数”用于提问确认与回应等场景。原句：“你去过哪些地方？”。询问多个对象。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你去过哪些地方？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_275",
@@ -550,7 +4731,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问频次。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你去过多少次？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你去过多少次？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "动作 + 多少次",
+                "note_zh": "询问频次。",
+                "examples": [
+                  {
+                    "zh": "你去过多少次？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“多少次”用于提问确认与回应等场景。原句：“你去过多少次？”。询问频次。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你去过多少次？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_276",
@@ -562,7 +4806,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "口语常用“哪天”。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你哪天有空？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你哪天有空？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "事情 + 哪天 + 动词",
+                "note_zh": "口语常用“哪天”。",
+                "examples": [
+                  {
+                    "zh": "你哪天有空？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪一天”用于提问确认与回应等场景。原句：“你哪天有空？”。口语常用“哪天”。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你哪天有空？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_277",
@@ -574,7 +4881,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问类别中的选择。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你喜欢哪种颜色？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你喜欢哪种颜色？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "哪种 + 名词",
+                "note_zh": "询问类别中的选择。",
+                "examples": [
+                  {
+                    "zh": "你喜欢哪种颜色？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪一种”用于提问确认与回应等场景。原句：“你喜欢哪种颜色？”。询问类别中的选择。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你喜欢哪种颜色？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_278",
@@ -586,7 +4956,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问方向或一侧。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "洗手间在哪边？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "洗手间在哪边？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "哪边 + 谓语",
+                "note_zh": "询问方向或一侧。",
+                "examples": [
+                  {
+                    "zh": "洗手间在哪边？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“哪边”用于提问确认与回应等场景。原句：“洗手间在哪边？”。询问方向或一侧。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "洗手间在哪边？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_287",
@@ -598,7 +5031,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问对方准备采用什么办法。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你打算怎么做？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你打算怎么做？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 打算怎么 + 动词",
+                "note_zh": "询问对方准备采用什么办法。",
+                "examples": [
+                  {
+                    "zh": "你打算怎么做？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“打算怎么做”用于提问确认与回应等场景。原句：“你打算怎么做？”。询问对方准备采用什么办法。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你打算怎么做？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_313",
@@ -610,7 +5106,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "直接询问固定时间内的次数。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你每天吃几次药？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你每天吃几次药？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 一天/每周 + 动词 + 几次",
+                "note_zh": "直接询问固定时间内的次数。",
+                "examples": [
+                  {
+                    "zh": "你每天吃几次药？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“问每天几次”用于提问确认与回应等场景。原句：“你每天吃几次药？”。直接询问固定时间内的次数。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你每天吃几次药？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_314",
@@ -624,7 +5183,70 @@
       "focus_tags": [
         "吗"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "提醒对方原本知道的事实，或用反问要求确认。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你不是去过了吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你不是去过了吗？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "不是 + 小句 + 吗 / 陈述句，不是吗",
+                "note_zh": "提醒对方原本知道的事实，或用反问要求确认。",
+                "examples": [
+                  {
+                    "zh": "你不是去过了吗？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型““不是……吗”反问”用于提问确认与回应等场景。原句：“你不是去过了吗？”。提醒对方原本知道的事实，或用反问要求确认。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你不是去过了吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_315",
@@ -638,7 +5260,70 @@
       "focus_tags": [
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问路线、范围或起点终点。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "从哪里到哪里？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "从哪里到哪里？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "从哪里 + 到哪里",
+                "note_zh": "询问路线、范围或起点终点。",
+                "examples": [
+                  {
+                    "zh": "从哪里到哪里？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“从哪到哪”用于提问确认与回应等场景。原句：“从哪里到哪里？”。询问路线、范围或起点终点。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "从哪里到哪里？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_316",
@@ -650,7 +5335,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "礼貌询问应该怎样叫对方。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我怎么称呼您？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我怎么称呼您？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 怎么称呼 + 人",
+                "note_zh": "礼貌询问应该怎样叫对方。",
+                "examples": [
+                  {
+                    "zh": "我怎么称呼您？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么称呼”用于提问确认与回应等场景。原句：“我怎么称呼您？”。礼貌询问应该怎样叫对方。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "我怎么称呼您？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_351",
@@ -664,7 +5412,70 @@
       "focus_tags": [
         "吗"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问过去是否没做，常带惊讶。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你没吃饭吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你没吃饭吗？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 没 + 动词 + 吗",
+                "note_zh": "询问过去是否没做，常带惊讶。",
+                "examples": [
+                  {
+                    "zh": "你没吃饭吗？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“没做吗”用于提问确认与回应等场景。原句：“你没吃饭吗？”。询问过去是否没做，常带惊讶。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你没吃饭吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_411",
@@ -676,7 +5487,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "带质疑语气。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你凭什么这么说？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你凭什么这么说？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 凭什么 + 动词",
+                "note_zh": "带质疑语气。",
+                "examples": [
+                  {
+                    "zh": "你凭什么这么说？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“凭什么”用于提问确认与回应等场景。原句：“你凭什么这么说？”。带质疑语气。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你凭什么这么说？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_413",
@@ -690,7 +5564,70 @@
       "focus_tags": [
         "从/到"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "加强追问。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你到底想要什么？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你到底想要什么？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 到底 + 疑问词/谓语",
+                "note_zh": "加强追问。",
+                "examples": [
+                  {
+                    "zh": "你到底想要什么？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“到底”用于提问确认与回应等场景。原句：“你到底想要什么？”。加强追问。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你到底想要什么？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_414",
@@ -704,7 +5641,70 @@
       "focus_tags": [
         "吗"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "带明显反问。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "难道你不知道吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "难道你不知道吗？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "难道 + 小句 + 吗",
+                "note_zh": "带明显反问。",
+                "examples": [
+                  {
+                    "zh": "难道你不知道吗？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“难道反问”用于提问确认与回应等场景。原句：“难道你不知道吗？”。带明显反问。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "难道你不知道吗？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_418",
@@ -716,7 +5716,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "强烈表示不相信。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这怎么可能？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这怎么可能？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 怎么可能 + 动词",
+                "note_zh": "强烈表示不相信。",
+                "examples": [
+                  {
+                    "zh": "这怎么可能？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“怎么可能”用于提问确认与回应等场景。原句：“这怎么可能？”。强烈表示不相信。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "这怎么可能？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_495",
@@ -728,7 +5791,70 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "询问动作是为了谁，稍正式。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你为谁工作？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你为谁工作？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 为谁 + 动词",
+                "note_zh": "询问动作是为了谁，稍正式。",
+                "examples": [
+                  {
+                    "zh": "你为谁工作？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“为谁”用于提问确认与回应等场景。原句：“你为谁工作？”。询问动作是为了谁，稍正式。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你为谁工作？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_084",
@@ -740,7 +5866,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "两者都问动作内容；“干什么”更口语，“做什么”更中性。",
+            "note_my": "“干什么/做什么”询问所做的事。",
+            "items": [
+              {
+                "zh": "你在干什么？",
+                "my": "မင်း ဘာလုပ်နေတာလဲ။"
+              },
+              {
+                "zh": "你正在做什么？",
+                "my": "အခု ဘာလုပ်နေတာလဲ။"
+              },
+              {
+                "zh": "周末你做什么？",
+                "my": "ပိတ်ရက်မှာ ဘာလုပ်မလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“干什么/做什么”询问所做的事。",
+            "items": [
+              {
+                "zh": "你正在做什么？",
+                "my": "အခု ဘာလုပ်နေတာလဲ။"
+              },
+              {
+                "zh": "周末你做什么？",
+                "my": "ပိတ်ရက်မှာ ဘာလုပ်မလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 干什么/做什么",
+                "note_zh": "两者都问动作内容；“干什么”更口语，“做什么”更中性。",
+                "examples": [
+                  {
+                    "zh": "你在干什么？",
+                    "my": "မင်း ဘာလုပ်နေတာလဲ။"
+                  },
+                  {
+                    "zh": "你正在做什么？",
+                    "my": "အခု ဘာလုပ်နေတာလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "主语 + 在 + 做什么？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你正在做什么？",
+                    "my": "အခု ဘာလုပ်နေတာလဲ။"
+                  },
+                  {
+                    "zh": "周末你做什么？",
+                    "my": "ပိတ်ရက်မှာ ဘာလုပ်မလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“问做什么”用于提问确认与回应等场景。原句：“你在干什么？”。两者都问动作内容；“干什么”更口语，“做什么”更中性。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你正在做什么？",
+                "my": "အခု ဘာလုပ်နေတာလဲ။"
+              },
+              {
+                "zh": "周末你做什么？",
+                "my": "ပိတ်ရက်မှာ ဘာလုပ်မလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你在干什么？",
+                    "my": "မင်း ဘာလုပ်နေတာလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "我在看书。",
+                    "my": "စာအုပ်ဖတ်နေတာ။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你在什么干？",
+                "correct": "你在干什么？",
+                "note_zh": "说“在干什么”或“在做什么”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_279",
@@ -754,7 +5999,70 @@
       "focus_tags": [
         "吗"
       ],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "说完一个判断后，请对方确认；“是吗”也可表示惊讶。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你明天走，对不对？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你明天走，对不对？",
+                "my": ""
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "陈述句 + 对不对/是吗",
+                "note_zh": "说完一个判断后，请对方确认；“是吗”也可表示惊讶。",
+                "examples": [
+                  {
+                    "zh": "你明天走，对不对？",
+                    "my": ""
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“句尾确认”用于提问确认与回应等场景。原句：“你明天走，对不对？”。说完一个判断后，请对方确认；“是吗”也可表示惊讶。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。 可用下方 AI 询问新例句和自然缅语说明；当前课的双语扩展示例仍待人工审核。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你明天走，对不对？",
+                "my": ""
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          }
+        ]
+      },
+      "source_review": "source_grounded_three_page_my_review_pending",
+      "editorial_status": "bilingual_expansion_pending"
     },
     {
       "id": "pattern_083",
@@ -766,7 +6074,126 @@
       "teaching_type": "question",
       "difficulty": "medium",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "用“多高、多大、多远、多长、多重、多快、多早、多晚”等询问程度。",
+            "note_my": "“多+形容词”可以询问距离、年龄等。",
+            "items": [
+              {
+                "zh": "你家离这里多远？",
+                "my": "မင်းအိမ် ဒီနေရာနဲ့ ဘယ်လောက်ဝေးလဲ။"
+              },
+              {
+                "zh": "你多大？",
+                "my": "မင်း အသက်ဘယ်လောက်ရှိပြီလဲ။"
+              },
+              {
+                "zh": "学校离家多远？",
+                "my": "ကျောင်းနဲ့အိမ် ဘယ်လောက်ဝေးလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "“多+形容词”可以询问距离、年龄等。",
+            "items": [
+              {
+                "zh": "你多大？",
+                "my": "မင်း အသက်ဘယ်လောက်ရှိပြီလဲ။"
+              },
+              {
+                "zh": "学校离家多远？",
+                "my": "ကျောင်းနဲ့အိမ် ဘယ်လောက်ဝေးလဲ။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "主语 + 多 + 形容词",
+                "note_zh": "用“多高、多大、多远、多长、多重、多快、多早、多晚”等询问程度。",
+                "examples": [
+                  {
+                    "zh": "你家离这里多远？",
+                    "my": "မင်းအိမ် ဒီနေရာနဲ့ ဘယ်လောက်ဝေးလဲ။"
+                  },
+                  {
+                    "zh": "你多大？",
+                    "my": "မင်း အသက်ဘယ်လောက်ရှိပြီလဲ။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你 + 多 + 形容词？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你多大？",
+                    "my": "မင်း အသက်ဘယ်လောက်ရှိပြီလဲ။"
+                  },
+                  {
+                    "zh": "学校离家多远？",
+                    "my": "ကျောင်းနဲ့အိမ် ဘယ်လောက်ဝေးလဲ။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“询问程度”用于提问确认与回应等场景。原句：“你家离这里多远？”。用“多高、多大、多远、多长、多重、多快、多早、多晚”等询问程度。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你多大？",
+                "my": "မင်း အသက်ဘယ်လောက်ရှိပြီလဲ။"
+              },
+              {
+                "zh": "学校离家多远？",
+                "my": "ကျောင်းနဲ့အိမ် ဘယ်လောက်ဝေးလဲ။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你家离这里多远？",
+                    "my": "မင်းအိမ် ဒီနေရာနဲ့ ဘယ်လောက်ဝေးလဲ။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "大约两公里。",
+                    "my": "နှစ်ကီလိုမီတာလောက်ဝေးတယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你家多远这里？",
+                "correct": "你家离这里多远？",
+                "note_zh": "问两地距离常用“A离B多远”。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     },
     {
       "id": "pattern_087",
@@ -778,7 +6205,126 @@
       "teaching_type": "question",
       "difficulty": "easy",
       "focus_tags": [],
-      "target": "ai_pattern"
+      "target": "ai_pattern",
+      "card": {
+        "pages": [
+          {
+            "type": "overview",
+            "title": "生活例句和意思",
+            "note_zh": "疑问句在两个或多个选项中选择时，用“还是”。",
+            "note_my": "选择问句用“还是”连接选项。",
+            "items": [
+              {
+                "zh": "你喝茶还是咖啡？",
+                "my": "လက်ဖက်ရည်သောက်မလား၊ ကော်ဖီသောက်မလား။"
+              },
+              {
+                "zh": "你要大的还是小的？",
+                "my": "အကြီး လိုချင်လား၊ အသေး လိုချင်လား။"
+              },
+              {
+                "zh": "你坐车还是走路？",
+                "my": "ကားစီးမလား၊ လမ်းလျှောက်မလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "focus",
+            "title": "结构、语序与变化",
+            "note_zh": "确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "选择问句用“还是”连接选项。",
+            "items": [
+              {
+                "zh": "你要大的还是小的？",
+                "my": "အကြီး လိုချင်လား၊ အသေး လိုချင်လား။"
+              },
+              {
+                "zh": "你坐车还是走路？",
+                "my": "ကားစီးမလား၊ လမ်းလျှောက်မလား။"
+              }
+            ],
+            "templates": [
+              {
+                "label": "核心结构",
+                "formula": "A + 还是 + B",
+                "note_zh": "疑问句在两个或多个选项中选择时，用“还是”。",
+                "examples": [
+                  {
+                    "zh": "你喝茶还是咖啡？",
+                    "my": "လက်ဖက်ရည်သောက်မလား၊ ကော်ဖီသောက်မလား။"
+                  },
+                  {
+                    "zh": "你要大的还是小的？",
+                    "my": "အကြီး လိုချင်လား၊ အသေး လိုချင်လား။"
+                  }
+                ]
+              },
+              {
+                "label": "相关结构（可能并非同义）",
+                "formula": "你要 + A + 还是 + B？",
+                "note_zh": "观察肯定/否定、时间、对象及语气是否改变，再判断两个结构能否互换。",
+                "examples": [
+                  {
+                    "zh": "你要大的还是小的？",
+                    "my": "အကြီး လိုချင်လား၊ အသေး လိုချင်လား။"
+                  },
+                  {
+                    "zh": "你坐车还是走路？",
+                    "my": "ကားစီးမလား၊ လမ်းလျှောက်မလား။"
+                  }
+                ]
+              }
+            ],
+            "dialogues": [],
+            "mistakes": []
+          },
+          {
+            "type": "usage",
+            "title": "实际使用和易错提醒",
+            "note_zh": "本句型“选择问句”用于提问确认与回应等场景。原句：“你喝茶还是咖啡？”。疑问句在两个或多个选项中选择时，用“还是”。 确认普通疑问、选择问或反问，注意语气以及疑问词所在位置。",
+            "note_my": "",
+            "items": [
+              {
+                "zh": "你要大的还是小的？",
+                "my": "အကြီး လိုချင်လား၊ အသေး လိုချင်လား။"
+              },
+              {
+                "zh": "你坐车还是走路？",
+                "my": "ကားစီးမလား၊ လမ်းလျှောက်မလား။"
+              }
+            ],
+            "templates": [],
+            "dialogues": [
+              {
+                "turns": [
+                  {
+                    "speaker": "A",
+                    "zh": "你喝茶还是咖啡？",
+                    "my": "လက်ဖက်ရည်သောက်မလား၊ ကော်ဖီသောက်မလား။"
+                  },
+                  {
+                    "speaker": "B",
+                    "zh": "喝茶。",
+                    "my": "လက်ဖက်ရည် သောက်မယ်။"
+                  }
+                ]
+              }
+            ],
+            "mistakes": [
+              {
+                "wrong": "你喝茶或者咖啡吗？",
+                "correct": "你喝茶还是咖啡？",
+                "note_zh": "普通选择问句用“还是”连接选项。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_review": "enrichment_v2_my_review_pending",
+      "editorial_status": "bilingual_editorial_draft"
     }
   ]
 }
