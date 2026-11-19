@@ -24,3 +24,10 @@ jobs:
           python-version: "3.12"
       - name: Validate 500 unique patterns and three pages
         run: python scripts/check_pattern_v3.py
+      - name: Build V3 pattern release assets without publishing
+        run: |
+          python - <<'PY'
+          from scripts import build_release
+          build_release.build_patterns()
+          print("OK: production release pack builder accepted all V3 pattern source files")
+          PY
