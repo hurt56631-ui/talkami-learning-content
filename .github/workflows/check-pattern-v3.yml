@@ -1,0 +1,26 @@
+name: Check Myanmar sentence-pattern cards
+on:
+  pull_request:
+    paths:
+      - "content/patterns/**"
+      - "scripts/check_pattern_v3.py"
+      - ".github/workflows/check-pattern-v3.yml"
+  push:
+    branches:
+      - "data/myanmar-patterns-v1-20261119"
+    paths:
+      - "content/patterns/**"
+      - "scripts/check_pattern_v3.py"
+      - ".github/workflows/check-pattern-v3.yml"
+jobs:
+  verify-three-card-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate 500 unique patterns and three pages
+        run: python scripts/check_pattern_v3.py
